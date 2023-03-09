@@ -50,7 +50,7 @@ public class Main {
     }
 
     private static void saveAsFile(String fileName, String content) {
-        File saveDir = new File(System.getProperty("user.dir"), "out");
+        File saveDir = new File(System.getProperty("user.dir"), "json");
         if (!saveDir.exists()) {
             //noinspection ResultOfMethodCallIgnored
             saveDir.mkdirs();
