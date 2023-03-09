@@ -34,10 +34,11 @@ public class Main {
             for (Address city : province.childs) {
                 MyLog.debug("处理地级市：" + province.ext_name + city.ext_name);
                 cities.add(new City(province.ext_name, city.ext_name));
+                districts.add(new District(province.ext_name, city.ext_name, "市辖区"));
                 for (Address district : city.childs) {
                     MyLog.debug("处理区县：" + province.ext_name + city.ext_name + district.ext_name);
                     if (district.name.equals(city.name)) {
-                        district.ext_name = "市辖区";
+                        continue;
                     }
                     districts.add(new District(province.ext_name, city.ext_name, district.ext_name));
                 }
