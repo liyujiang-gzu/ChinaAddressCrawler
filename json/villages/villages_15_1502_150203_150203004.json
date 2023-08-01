@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150203004002",
+		"fullCode":"150203004002",
+		"level":4,
+		"levelName":"村",
+		"name":"友谊二十号街坊社区",
+		"parentCode":"1502"
+	},
+	{
+		"code":"150203004010",
+		"fullCode":"150203004010",
+		"level":4,
+		"levelName":"村",
+		"name":"友谊十七社区",
+		"parentCode":"1502"
+	},
+	{
+		"code":"150203004011",
+		"fullCode":"150203004011",
+		"level":4,
+		"levelName":"村",
+		"name":"友谊二十一社区",
+		"parentCode":"1502"
+	}
+]

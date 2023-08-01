@@ -1,0 +1,18 @@
+[
+	{
+		"code":"150784101200",
+		"fullCode":"150784101200",
+		"level":4,
+		"levelName":"村",
+		"name":"梁东",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150784101201",
+		"fullCode":"150784101201",
+		"level":4,
+		"levelName":"村",
+		"name":"梁西村",
+		"parentCode":"1507"
+	}
+]

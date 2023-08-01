@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230605008001",
+		"fullCode":"230605008001",
+		"level":4,
+		"levelName":"村",
+		"name":"天星社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230605008002",
+		"fullCode":"230605008002",
+		"level":4,
+		"levelName":"村",
+		"name":"红杏社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230605008003",
+		"fullCode":"230605008003",
+		"level":4,
+		"levelName":"村",
+		"name":"怡园社区",
+		"parentCode":"2306"
+	}
+]

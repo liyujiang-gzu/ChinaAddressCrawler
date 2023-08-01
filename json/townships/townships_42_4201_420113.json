@@ -1,0 +1,34 @@
+[
+	{
+		"code":"420113001",
+		"fullCode":"420113001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"纱帽街道",
+		"parentCode":"420113"
+	},
+	{
+		"code":"420113002",
+		"fullCode":"420113002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"邓南街道",
+		"parentCode":"420113"
+	},
+	{
+		"code":"420113003",
+		"fullCode":"420113003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"东荆街道",
+		"parentCode":"420113"
+	},
+	{
+		"code":"420113004",
+		"fullCode":"420113004000",
+		"level":3,
+		"levelName":"乡",
+		"name":"湘口街道",
+		"parentCode":"420113"
+	}
+]

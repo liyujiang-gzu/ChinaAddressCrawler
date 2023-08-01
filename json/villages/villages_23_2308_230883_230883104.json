@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230883104200",
+		"fullCode":"230883104200",
+		"level":4,
+		"levelName":"村",
+		"name":"南岗",
+		"parentCode":"2308"
+	},
+	{
+		"code":"230883104201",
+		"fullCode":"230883104201",
+		"level":4,
+		"levelName":"村",
+		"name":"东安",
+		"parentCode":"2308"
+	},
+	{
+		"code":"230883104202",
+		"fullCode":"230883104202",
+		"level":4,
+		"levelName":"村",
+		"name":"东富",
+		"parentCode":"2308"
+	},
+	{
+		"code":"230883104203",
+		"fullCode":"230883104203",
+		"level":4,
+		"levelName":"村",
+		"name":"东升",
+		"parentCode":"2308"
+	}
+]

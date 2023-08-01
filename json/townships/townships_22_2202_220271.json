@@ -1,0 +1,18 @@
+[
+	{
+		"code":"220271001",
+		"fullCode":"220271001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"九站街道",
+		"parentCode":"220271"
+	},
+	{
+		"code":"220271013",
+		"fullCode":"220271013000",
+		"level":3,
+		"levelName":"乡",
+		"name":"双吉街道",
+		"parentCode":"220271"
+	}
+]

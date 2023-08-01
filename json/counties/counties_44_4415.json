@@ -1,0 +1,34 @@
+[
+	{
+		"code":"441502",
+		"fullCode":"441502000000",
+		"level":2,
+		"levelName":"县",
+		"name":"城区",
+		"parentCode":"4415"
+	},
+	{
+		"code":"441521",
+		"fullCode":"441521000000",
+		"level":2,
+		"levelName":"县",
+		"name":"海丰县",
+		"parentCode":"4415"
+	},
+	{
+		"code":"441523",
+		"fullCode":"441523000000",
+		"level":2,
+		"levelName":"县",
+		"name":"陆河县",
+		"parentCode":"4415"
+	},
+	{
+		"code":"441581",
+		"fullCode":"441581000000",
+		"level":2,
+		"levelName":"县",
+		"name":"陆丰市",
+		"parentCode":"4415"
+	}
+]

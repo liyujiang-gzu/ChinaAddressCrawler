@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130773501",
+		"fullCode":"130773501000",
+		"level":3,
+		"levelName":"乡",
+		"name":"榆树沟管理处",
+		"parentCode":"130773"
+	},
+	{
+		"code":"130773502",
+		"fullCode":"130773502000",
+		"level":3,
+		"levelName":"乡",
+		"name":"沙梁子管理处",
+		"parentCode":"130773"
+	},
+	{
+		"code":"130773503",
+		"fullCode":"130773503000",
+		"level":3,
+		"levelName":"乡",
+		"name":"小城子管理处",
+		"parentCode":"130773"
+	},
+	{
+		"code":"130773504",
+		"fullCode":"130773504000",
+		"level":3,
+		"levelName":"乡",
+		"name":"东大门管理处",
+		"parentCode":"130773"
+	}
+]

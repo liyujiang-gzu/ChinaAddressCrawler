@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230108003001",
+		"fullCode":"230108003001",
+		"level":4,
+		"levelName":"村",
+		"name":"治国社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230108003002",
+		"fullCode":"230108003002",
+		"level":4,
+		"levelName":"村",
+		"name":"龙翔社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230108003008",
+		"fullCode":"230108003008",
+		"level":4,
+		"levelName":"村",
+		"name":"滨江社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230108003009",
+		"fullCode":"230108003009",
+		"level":4,
+		"levelName":"村",
+		"name":"南红社区",
+		"parentCode":"2301"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230606010001",
+		"fullCode":"230606010001",
+		"level":4,
+		"levelName":"村",
+		"name":"晨光社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230606010002",
+		"fullCode":"230606010002",
+		"level":4,
+		"levelName":"村",
+		"name":"朝阳社区",
+		"parentCode":"2306"
+	}
+]

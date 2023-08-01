@@ -1,0 +1,18 @@
+[
+	{
+		"code":"430371001",
+		"fullCode":"430371001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"板塘街道",
+		"parentCode":"430371"
+	},
+	{
+		"code":"430371002",
+		"fullCode":"430371002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"双马街道",
+		"parentCode":"430371"
+	}
+]

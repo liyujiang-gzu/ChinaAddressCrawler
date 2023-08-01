@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230602021001",
+		"fullCode":"230602021001",
+		"level":4,
+		"levelName":"村",
+		"name":"万宝社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230602021002",
+		"fullCode":"230602021002",
+		"level":4,
+		"levelName":"村",
+		"name":"万隆社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230602021003",
+		"fullCode":"230602021003",
+		"level":4,
+		"levelName":"村",
+		"name":"万兴社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230602021004",
+		"fullCode":"230602021004",
+		"level":4,
+		"levelName":"村",
+		"name":"上东九号社区",
+		"parentCode":"2306"
+	}
+]

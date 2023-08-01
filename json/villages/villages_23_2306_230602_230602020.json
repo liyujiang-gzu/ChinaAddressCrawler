@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230602020001",
+		"fullCode":"230602020001",
+		"level":4,
+		"levelName":"村",
+		"name":"五环社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230602020003",
+		"fullCode":"230602020003",
+		"level":4,
+		"levelName":"村",
+		"name":"绿洲社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230602020005",
+		"fullCode":"230602020005",
+		"level":4,
+		"levelName":"村",
+		"name":"春雷社区",
+		"parentCode":"2306"
+	}
+]

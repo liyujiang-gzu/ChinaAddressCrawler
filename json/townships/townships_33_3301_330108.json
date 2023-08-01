@@ -1,0 +1,26 @@
+[
+	{
+		"code":"330108001",
+		"fullCode":"330108001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"西兴街道",
+		"parentCode":"330108"
+	},
+	{
+		"code":"330108002",
+		"fullCode":"330108002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"长河街道",
+		"parentCode":"330108"
+	},
+	{
+		"code":"330108003",
+		"fullCode":"330108003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"浦沿街道",
+		"parentCode":"330108"
+	}
+]

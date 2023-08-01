@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220502001001",
+		"fullCode":"220502001001",
+		"level":4,
+		"levelName":"村",
+		"name":"新华社区",
+		"parentCode":"2205"
+	},
+	{
+		"code":"220502001002",
+		"fullCode":"220502001002",
+		"level":4,
+		"levelName":"村",
+		"name":"富通社区",
+		"parentCode":"2205"
+	},
+	{
+		"code":"220502001004",
+		"fullCode":"220502001004",
+		"level":4,
+		"levelName":"村",
+		"name":"佟江社区",
+		"parentCode":"2205"
+	}
+]

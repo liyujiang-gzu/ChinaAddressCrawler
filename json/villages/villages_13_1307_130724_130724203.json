@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130724203201",
+		"fullCode":"130724203201",
+		"level":4,
+		"levelName":"村",
+		"name":"二号街村",
+		"parentCode":"1307"
+	},
+	{
+		"code":"130724203202",
+		"fullCode":"130724203202",
+		"level":4,
+		"levelName":"村",
+		"name":"天立泉村",
+		"parentCode":"1307"
+	},
+	{
+		"code":"130724203203",
+		"fullCode":"130724203203",
+		"level":4,
+		"levelName":"村",
+		"name":"东大二号村",
+		"parentCode":"1307"
+	},
+	{
+		"code":"130724203204",
+		"fullCode":"130724203204",
+		"level":4,
+		"levelName":"村",
+		"name":"西大二号村",
+		"parentCode":"1307"
+	}
+]

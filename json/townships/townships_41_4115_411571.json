@@ -1,0 +1,18 @@
+[
+	{
+		"code":"411571001",
+		"fullCode":"411571001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"城东街道",
+		"parentCode":"411571"
+	},
+	{
+		"code":"411571002",
+		"fullCode":"411571002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"珍珠路街道",
+		"parentCode":"411571"
+	}
+]

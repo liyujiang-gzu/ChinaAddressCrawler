@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230404003001",
+		"fullCode":"230404003001",
+		"level":4,
+		"levelName":"村",
+		"name":"六合社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230404003002",
+		"fullCode":"230404003002",
+		"level":4,
+		"levelName":"村",
+		"name":"六安社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230404003003",
+		"fullCode":"230404003003",
+		"level":4,
+		"levelName":"村",
+		"name":"六吉社区",
+		"parentCode":"2304"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"152501200",
+		"fullCode":"152501200000",
+		"level":3,
+		"levelName":"乡",
+		"name":"格日勒敖都苏木",
+		"parentCode":"152501"
+	},
+	{
+		"code":"152501400",
+		"fullCode":"152501400000",
+		"level":3,
+		"levelName":"乡",
+		"name":"二连浩特市社区建设管理局",
+		"parentCode":"152501"
+	},
+	{
+		"code":"152501401",
+		"fullCode":"152501401000",
+		"level":3,
+		"levelName":"乡",
+		"name":"二连边境经济技术合作区",
+		"parentCode":"152501"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220881003001",
+		"fullCode":"220881003001",
+		"level":4,
+		"levelName":"村",
+		"name":"光大社区",
+		"parentCode":"2208"
+	},
+	{
+		"code":"220881003002",
+		"fullCode":"220881003002",
+		"level":4,
+		"levelName":"村",
+		"name":"光华社区",
+		"parentCode":"2208"
+	},
+	{
+		"code":"220881003003",
+		"fullCode":"220881003003",
+		"level":4,
+		"levelName":"村",
+		"name":"光照社区",
+		"parentCode":"2208"
+	}
+]

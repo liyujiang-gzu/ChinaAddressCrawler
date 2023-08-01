@@ -1,0 +1,18 @@
+[
+	{
+		"code":"340871001",
+		"fullCode":"340871001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"菱北街道",
+		"parentCode":"340871"
+	},
+	{
+		"code":"340871100",
+		"fullCode":"340871100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"老峰镇",
+		"parentCode":"340871"
+	}
+]

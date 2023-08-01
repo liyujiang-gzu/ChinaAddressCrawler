@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230724101001",
+		"fullCode":"230724101001",
+		"level":4,
+		"levelName":"村",
+		"name":"东升社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230724101002",
+		"fullCode":"230724101002",
+		"level":4,
+		"levelName":"村",
+		"name":"前进社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230724101003",
+		"fullCode":"230724101003",
+		"level":4,
+		"levelName":"村",
+		"name":"团结社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230724101007",
+		"fullCode":"230724101007",
+		"level":4,
+		"levelName":"村",
+		"name":"红星镇林场中心社区",
+		"parentCode":"2307"
+	}
+]

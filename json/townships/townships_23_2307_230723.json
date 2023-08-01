@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230723100",
+		"fullCode":"230723100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"乌伊岭镇",
+		"parentCode":"230723"
+	},
+	{
+		"code":"230723101",
+		"fullCode":"230723101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"汤旺河镇",
+		"parentCode":"230723"
+	}
+]

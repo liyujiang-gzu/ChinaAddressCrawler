@@ -1,0 +1,34 @@
+[
+	{
+		"code":"659005100",
+		"fullCode":"659005100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"双渠镇",
+		"parentCode":"659005"
+	},
+	{
+		"code":"659005101",
+		"fullCode":"659005101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"丰庆镇",
+		"parentCode":"659005"
+	},
+	{
+		"code":"659005102",
+		"fullCode":"659005102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"海川镇",
+		"parentCode":"659005"
+	},
+	{
+		"code":"659005400",
+		"fullCode":"659005400000",
+		"level":3,
+		"levelName":"乡",
+		"name":"北屯市核心区",
+		"parentCode":"659005"
+	}
+]

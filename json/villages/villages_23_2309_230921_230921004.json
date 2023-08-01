@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230921004001",
+		"fullCode":"230921004001",
+		"level":4,
+		"levelName":"村",
+		"name":"秀岳社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230921004002",
+		"fullCode":"230921004002",
+		"level":4,
+		"levelName":"村",
+		"name":"南岳社区",
+		"parentCode":"2309"
+	}
+]

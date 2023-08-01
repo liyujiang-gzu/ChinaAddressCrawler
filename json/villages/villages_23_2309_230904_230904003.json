@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230904003001",
+		"fullCode":"230904003001",
+		"level":4,
+		"levelName":"村",
+		"name":"富强社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230904003002",
+		"fullCode":"230904003002",
+		"level":4,
+		"levelName":"村",
+		"name":"铁东社区",
+		"parentCode":"2309"
+	}
+]

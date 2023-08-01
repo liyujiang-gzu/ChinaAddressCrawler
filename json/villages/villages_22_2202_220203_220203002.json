@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220203002003",
+		"fullCode":"220203002003",
+		"level":4,
+		"levelName":"村",
+		"name":"湘潭社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220203002004",
+		"fullCode":"220203002004",
+		"level":4,
+		"levelName":"村",
+		"name":"松江社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220203002005",
+		"fullCode":"220203002005",
+		"level":4,
+		"levelName":"村",
+		"name":"东风社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220203002006",
+		"fullCode":"220203002006",
+		"level":4,
+		"levelName":"村",
+		"name":"龙新社区",
+		"parentCode":"2202"
+	}
+]

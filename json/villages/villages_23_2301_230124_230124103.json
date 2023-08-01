@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230124103200",
+		"fullCode":"230124103200",
+		"level":4,
+		"levelName":"村",
+		"name":"得莫利村",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230124103201",
+		"fullCode":"230124103201",
+		"level":4,
+		"levelName":"村",
+		"name":"吉兴村",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230124103202",
+		"fullCode":"230124103202",
+		"level":4,
+		"levelName":"村",
+		"name":"伊汉通村",
+		"parentCode":"2301"
+	}
+]

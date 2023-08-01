@@ -1,0 +1,34 @@
+[
+	{
+		"code":"231004004001",
+		"fullCode":"231004004001",
+		"level":4,
+		"levelName":"村",
+		"name":"圣林社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231004004003",
+		"fullCode":"231004004003",
+		"level":4,
+		"levelName":"村",
+		"name":"中华社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231004004004",
+		"fullCode":"231004004004",
+		"level":4,
+		"levelName":"村",
+		"name":"自建社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231004004006",
+		"fullCode":"231004004006",
+		"level":4,
+		"levelName":"村",
+		"name":"祥伦社区",
+		"parentCode":"2310"
+	}
+]

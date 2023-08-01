@@ -1,0 +1,26 @@
+[
+	{
+		"code":"130303003027",
+		"fullCode":"130303003027",
+		"level":4,
+		"levelName":"村",
+		"name":"西关社区",
+		"parentCode":"1303"
+	},
+	{
+		"code":"130303003028",
+		"fullCode":"130303003028",
+		"level":4,
+		"levelName":"村",
+		"name":"平安里社区",
+		"parentCode":"1303"
+	},
+	{
+		"code":"130303003040",
+		"fullCode":"130303003040",
+		"level":4,
+		"levelName":"村",
+		"name":"西河社区",
+		"parentCode":"1303"
+	}
+]

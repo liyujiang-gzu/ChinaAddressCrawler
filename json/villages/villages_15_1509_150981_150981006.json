@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150981006011",
+		"fullCode":"150981006011",
+		"level":4,
+		"levelName":"村",
+		"name":"文庙社区",
+		"parentCode":"1509"
+	},
+	{
+		"code":"150981006012",
+		"fullCode":"150981006012",
+		"level":4,
+		"levelName":"村",
+		"name":"平安社区",
+		"parentCode":"1509"
+	},
+	{
+		"code":"150981006013",
+		"fullCode":"150981006013",
+		"level":4,
+		"levelName":"村",
+		"name":"东巨墙社区",
+		"parentCode":"1509"
+	}
+]

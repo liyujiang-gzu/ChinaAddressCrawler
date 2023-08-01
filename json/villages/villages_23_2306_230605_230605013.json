@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230605013001",
+		"fullCode":"230605013001",
+		"level":4,
+		"levelName":"村",
+		"name":"图强社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230605013003",
+		"fullCode":"230605013003",
+		"level":4,
+		"levelName":"村",
+		"name":"爱民社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230605013004",
+		"fullCode":"230605013004",
+		"level":4,
+		"levelName":"村",
+		"name":"春晓社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230605013005",
+		"fullCode":"230605013005",
+		"level":4,
+		"levelName":"村",
+		"name":"晨晖社区",
+		"parentCode":"2306"
+	}
+]

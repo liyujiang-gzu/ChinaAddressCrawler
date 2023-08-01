@@ -1,0 +1,26 @@
+[
+	{
+		"code":"130802005001",
+		"fullCode":"130802005001",
+		"level":4,
+		"levelName":"村",
+		"name":"中兴路社区",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130802005003",
+		"fullCode":"130802005003",
+		"level":4,
+		"levelName":"村",
+		"name":"银领社区",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130802005009",
+		"fullCode":"130802005009",
+		"level":4,
+		"levelName":"村",
+		"name":"云山社区",
+		"parentCode":"1308"
+	}
+]

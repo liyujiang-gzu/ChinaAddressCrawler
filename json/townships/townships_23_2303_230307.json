@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230307001",
+		"fullCode":"230307001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"麻山街道",
+		"parentCode":"230307"
+	},
+	{
+		"code":"230307101",
+		"fullCode":"230307101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"麻山镇",
+		"parentCode":"230307"
+	}
+]

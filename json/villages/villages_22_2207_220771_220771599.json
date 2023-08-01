@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220771599001",
+		"fullCode":"220771599001",
+		"level":4,
+		"levelName":"村",
+		"name":"新天地社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220771599002",
+		"fullCode":"220771599002",
+		"level":4,
+		"levelName":"村",
+		"name":"万福社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220771599003",
+		"fullCode":"220771599003",
+		"level":4,
+		"levelName":"村",
+		"name":"源江社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220771599004",
+		"fullCode":"220771599004",
+		"level":4,
+		"levelName":"村",
+		"name":"苏力德社区",
+		"parentCode":"2207"
+	}
+]

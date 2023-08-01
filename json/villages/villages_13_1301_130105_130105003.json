@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130105003005",
+		"fullCode":"130105003005",
+		"level":4,
+		"levelName":"村",
+		"name":"北后",
+		"parentCode":"1301"
+	},
+	{
+		"code":"130105003007",
+		"fullCode":"130105003007",
+		"level":4,
+		"levelName":"村",
+		"name":"宁安小区",
+		"parentCode":"1301"
+	},
+	{
+		"code":"130105003009",
+		"fullCode":"130105003009",
+		"level":4,
+		"levelName":"村",
+		"name":"清真寺街",
+		"parentCode":"1301"
+	},
+	{
+		"code":"130105003010",
+		"fullCode":"130105003010",
+		"level":4,
+		"levelName":"村",
+		"name":"大厂街",
+		"parentCode":"1301"
+	}
+]

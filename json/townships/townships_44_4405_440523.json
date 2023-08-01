@@ -1,0 +1,26 @@
+[
+	{
+		"code":"440523100",
+		"fullCode":"440523100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"后宅镇",
+		"parentCode":"440523"
+	},
+	{
+		"code":"440523101",
+		"fullCode":"440523101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"云澳镇",
+		"parentCode":"440523"
+	},
+	{
+		"code":"440523102",
+		"fullCode":"440523102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"深澳镇",
+		"parentCode":"440523"
+	}
+]

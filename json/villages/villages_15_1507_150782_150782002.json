@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150782002001",
+		"fullCode":"150782002001",
+		"level":4,
+		"levelName":"村",
+		"name":"红旗社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782002002",
+		"fullCode":"150782002002",
+		"level":4,
+		"levelName":"村",
+		"name":"红新社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782002003",
+		"fullCode":"150782002003",
+		"level":4,
+		"levelName":"村",
+		"name":"红升社区",
+		"parentCode":"1507"
+	}
+]

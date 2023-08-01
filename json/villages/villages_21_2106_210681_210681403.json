@@ -1,0 +1,26 @@
+[
+	{
+		"code":"210681403500",
+		"fullCode":"210681403500",
+		"level":4,
+		"levelName":"村",
+		"name":"小甸子分场生活区",
+		"parentCode":"2106"
+	},
+	{
+		"code":"210681403501",
+		"fullCode":"210681403501",
+		"level":4,
+		"levelName":"村",
+		"name":"养殖公司生活区",
+		"parentCode":"2106"
+	},
+	{
+		"code":"210681403502",
+		"fullCode":"210681403502",
+		"level":4,
+		"levelName":"村",
+		"name":"五龙果场生活区",
+		"parentCode":"2106"
+	}
+]

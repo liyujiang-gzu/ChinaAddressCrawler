@@ -1,0 +1,34 @@
+[
+	{
+		"code":"210624109200",
+		"fullCode":"210624109200",
+		"level":4,
+		"levelName":"村",
+		"name":"青山沟",
+		"parentCode":"2106"
+	},
+	{
+		"code":"210624109201",
+		"fullCode":"210624109201",
+		"level":4,
+		"levelName":"村",
+		"name":"钟家堡",
+		"parentCode":"2106"
+	},
+	{
+		"code":"210624109202",
+		"fullCode":"210624109202",
+		"level":4,
+		"levelName":"村",
+		"name":"青山湖",
+		"parentCode":"2106"
+	},
+	{
+		"code":"210624109203",
+		"fullCode":"210624109203",
+		"level":4,
+		"levelName":"村",
+		"name":"飞瀑涧",
+		"parentCode":"2106"
+	}
+]

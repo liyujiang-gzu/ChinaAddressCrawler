@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220382004001",
+		"fullCode":"220382004001",
+		"level":4,
+		"levelName":"村",
+		"name":"西化社区",
+		"parentCode":"2203"
+	},
+	{
+		"code":"220382004003",
+		"fullCode":"220382004003",
+		"level":4,
+		"levelName":"村",
+		"name":"北宁社区",
+		"parentCode":"2203"
+	},
+	{
+		"code":"220382004200",
+		"fullCode":"220382004200",
+		"level":4,
+		"levelName":"村",
+		"name":"东风",
+		"parentCode":"2203"
+	},
+	{
+		"code":"220382004201",
+		"fullCode":"220382004201",
+		"level":4,
+		"levelName":"村",
+		"name":"城镇",
+		"parentCode":"2203"
+	}
+]

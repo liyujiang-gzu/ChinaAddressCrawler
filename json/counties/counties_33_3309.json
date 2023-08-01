@@ -1,0 +1,34 @@
+[
+	{
+		"code":"330902",
+		"fullCode":"330902000000",
+		"level":2,
+		"levelName":"县",
+		"name":"定海区",
+		"parentCode":"3309"
+	},
+	{
+		"code":"330903",
+		"fullCode":"330903000000",
+		"level":2,
+		"levelName":"县",
+		"name":"普陀区",
+		"parentCode":"3309"
+	},
+	{
+		"code":"330921",
+		"fullCode":"330921000000",
+		"level":2,
+		"levelName":"县",
+		"name":"岱山县",
+		"parentCode":"3309"
+	},
+	{
+		"code":"330922",
+		"fullCode":"330922000000",
+		"level":2,
+		"levelName":"县",
+		"name":"嵊泗县",
+		"parentCode":"3309"
+	}
+]

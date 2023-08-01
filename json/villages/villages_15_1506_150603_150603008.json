@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150603008008",
+		"fullCode":"150603008008",
+		"level":4,
+		"levelName":"村",
+		"name":"万和社区",
+		"parentCode":"1506"
+	},
+	{
+		"code":"150603008009",
+		"fullCode":"150603008009",
+		"level":4,
+		"levelName":"村",
+		"name":"嘉和社区",
+		"parentCode":"1506"
+	},
+	{
+		"code":"150603008010",
+		"fullCode":"150603008010",
+		"level":4,
+		"levelName":"村",
+		"name":"悦和社区",
+		"parentCode":"1506"
+	},
+	{
+		"code":"150603008011",
+		"fullCode":"150603008011",
+		"level":4,
+		"levelName":"村",
+		"name":"格德热格社区",
+		"parentCode":"1506"
+	}
+]

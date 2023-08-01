@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230405005001",
+		"fullCode":"230405005001",
+		"level":4,
+		"levelName":"村",
+		"name":"兴盛社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230405005002",
+		"fullCode":"230405005002",
+		"level":4,
+		"levelName":"村",
+		"name":"锦绣社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230405005003",
+		"fullCode":"230405005003",
+		"level":4,
+		"levelName":"村",
+		"name":"滨河社区",
+		"parentCode":"2304"
+	}
+]

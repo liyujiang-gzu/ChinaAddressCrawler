@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150785002002",
+		"fullCode":"150785002002",
+		"level":4,
+		"levelName":"村",
+		"name":"铁西",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150785002006",
+		"fullCode":"150785002006",
+		"level":4,
+		"levelName":"村",
+		"name":"幸福社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150785002008",
+		"fullCode":"150785002008",
+		"level":4,
+		"levelName":"村",
+		"name":"沿河社区",
+		"parentCode":"1507"
+	}
+]

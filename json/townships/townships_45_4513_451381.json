@@ -1,0 +1,26 @@
+[
+	{
+		"code":"451381100",
+		"fullCode":"451381100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"岭南镇",
+		"parentCode":"451381"
+	},
+	{
+		"code":"451381101",
+		"fullCode":"451381101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"北泗镇",
+		"parentCode":"451381"
+	},
+	{
+		"code":"451381102",
+		"fullCode":"451381102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"河里镇",
+		"parentCode":"451381"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150783007002",
+		"fullCode":"150783007002",
+		"level":4,
+		"levelName":"村",
+		"name":"南市",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150783007003",
+		"fullCode":"150783007003",
+		"level":4,
+		"levelName":"村",
+		"name":"新城",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150783007004",
+		"fullCode":"150783007004",
+		"level":4,
+		"levelName":"村",
+		"name":"振兴",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150783007200",
+		"fullCode":"150783007200",
+		"level":4,
+		"levelName":"村",
+		"name":"回民村",
+		"parentCode":"1507"
+	}
+]

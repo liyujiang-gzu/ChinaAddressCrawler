@@ -1,0 +1,34 @@
+[
+	{
+		"code":"340602",
+		"fullCode":"340602000000",
+		"level":2,
+		"levelName":"县",
+		"name":"杜集区",
+		"parentCode":"3406"
+	},
+	{
+		"code":"340603",
+		"fullCode":"340603000000",
+		"level":2,
+		"levelName":"县",
+		"name":"相山区",
+		"parentCode":"3406"
+	},
+	{
+		"code":"340604",
+		"fullCode":"340604000000",
+		"level":2,
+		"levelName":"县",
+		"name":"烈山区",
+		"parentCode":"3406"
+	},
+	{
+		"code":"340621",
+		"fullCode":"340621000000",
+		"level":2,
+		"levelName":"县",
+		"name":"濉溪县",
+		"parentCode":"3406"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150702003001",
+		"fullCode":"150702003001",
+		"level":4,
+		"levelName":"村",
+		"name":"梅园",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150702003002",
+		"fullCode":"150702003002",
+		"level":4,
+		"levelName":"村",
+		"name":"育英",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150702003003",
+		"fullCode":"150702003003",
+		"level":4,
+		"levelName":"村",
+		"name":"友谊",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150702003005",
+		"fullCode":"150702003005",
+		"level":4,
+		"levelName":"村",
+		"name":"芳园",
+		"parentCode":"1507"
+	}
+]

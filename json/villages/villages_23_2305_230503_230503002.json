@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230503002001",
+		"fullCode":"230503002001",
+		"level":4,
+		"levelName":"村",
+		"name":"东明社区",
+		"parentCode":"2305"
+	},
+	{
+		"code":"230503002003",
+		"fullCode":"230503002003",
+		"level":4,
+		"levelName":"村",
+		"name":"东升社区",
+		"parentCode":"2305"
+	}
+]

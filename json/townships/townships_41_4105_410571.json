@@ -1,0 +1,26 @@
+[
+	{
+		"code":"410571563",
+		"fullCode":"410571563000",
+		"level":3,
+		"levelName":"乡",
+		"name":"开发区峨嵋大街街道",
+		"parentCode":"410571"
+	},
+	{
+		"code":"410571564",
+		"fullCode":"410571564000",
+		"level":3,
+		"levelName":"乡",
+		"name":"开发区银杏大街街道",
+		"parentCode":"410571"
+	},
+	{
+		"code":"410571565",
+		"fullCode":"410571565000",
+		"level":3,
+		"levelName":"乡",
+		"name":"开发区商颂大街街道",
+		"parentCode":"410571"
+	}
+]

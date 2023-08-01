@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230804007001",
+		"fullCode":"230804007001",
+		"level":4,
+		"levelName":"村",
+		"name":"永安社区",
+		"parentCode":"2308"
+	},
+	{
+		"code":"230804007002",
+		"fullCode":"230804007002",
+		"level":4,
+		"levelName":"村",
+		"name":"保卫社区",
+		"parentCode":"2308"
+	},
+	{
+		"code":"230804007003",
+		"fullCode":"230804007003",
+		"level":4,
+		"levelName":"村",
+		"name":"园林社区",
+		"parentCode":"2308"
+	},
+	{
+		"code":"230804007004",
+		"fullCode":"230804007004",
+		"level":4,
+		"levelName":"村",
+		"name":"怡安社区",
+		"parentCode":"2308"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"code":"150404408001",
+		"fullCode":"150404408001",
+		"level":4,
+		"levelName":"村",
+		"name":"星光天地社区",
+		"parentCode":"1504"
+	},
+	{
+		"code":"150404408002",
+		"fullCode":"150404408002",
+		"level":4,
+		"levelName":"村",
+		"name":"新希望社区",
+		"parentCode":"1504"
+	}
+]

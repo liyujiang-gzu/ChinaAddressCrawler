@@ -1,0 +1,18 @@
+[
+	{
+		"code":"152202003001",
+		"fullCode":"152202003001",
+		"level":4,
+		"levelName":"村",
+		"name":"神泉社区",
+		"parentCode":"1522"
+	},
+	{
+		"code":"152202003002",
+		"fullCode":"152202003002",
+		"level":4,
+		"levelName":"村",
+		"name":"河滨社区",
+		"parentCode":"1522"
+	}
+]

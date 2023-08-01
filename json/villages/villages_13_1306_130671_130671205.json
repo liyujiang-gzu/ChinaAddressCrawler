@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130671205206",
+		"fullCode":"130671205206",
+		"level":4,
+		"levelName":"村",
+		"name":"东营",
+		"parentCode":"1306"
+	},
+	{
+		"code":"130671205207",
+		"fullCode":"130671205207",
+		"level":4,
+		"levelName":"村",
+		"name":"道口",
+		"parentCode":"1306"
+	},
+	{
+		"code":"130671205208",
+		"fullCode":"130671205208",
+		"level":4,
+		"levelName":"村",
+		"name":"相庄",
+		"parentCode":"1306"
+	},
+	{
+		"code":"130671205209",
+		"fullCode":"130671205209",
+		"level":4,
+		"levelName":"村",
+		"name":"温屯",
+		"parentCode":"1306"
+	}
+]

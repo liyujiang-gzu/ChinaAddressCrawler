@@ -1,0 +1,34 @@
+[
+	{
+		"code":"450702",
+		"fullCode":"450702000000",
+		"level":2,
+		"levelName":"县",
+		"name":"钦南区",
+		"parentCode":"4507"
+	},
+	{
+		"code":"450703",
+		"fullCode":"450703000000",
+		"level":2,
+		"levelName":"县",
+		"name":"钦北区",
+		"parentCode":"4507"
+	},
+	{
+		"code":"450721",
+		"fullCode":"450721000000",
+		"level":2,
+		"levelName":"县",
+		"name":"灵山县",
+		"parentCode":"4507"
+	},
+	{
+		"code":"450722",
+		"fullCode":"450722000000",
+		"level":2,
+		"levelName":"县",
+		"name":"浦北县",
+		"parentCode":"4507"
+	}
+]

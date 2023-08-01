@@ -1,0 +1,34 @@
+[
+	{
+		"code":"430382100",
+		"fullCode":"430382100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"清溪镇",
+		"parentCode":"430382"
+	},
+	{
+		"code":"430382101",
+		"fullCode":"430382101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"银田镇",
+		"parentCode":"430382"
+	},
+	{
+		"code":"430382200",
+		"fullCode":"430382200000",
+		"level":3,
+		"levelName":"乡",
+		"name":"韶山乡",
+		"parentCode":"430382"
+	},
+	{
+		"code":"430382203",
+		"fullCode":"430382203000",
+		"level":3,
+		"levelName":"乡",
+		"name":"杨林乡",
+		"parentCode":"430382"
+	}
+]

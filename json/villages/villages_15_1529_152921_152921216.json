@@ -1,0 +1,26 @@
+[
+	{
+		"code":"152921216200",
+		"fullCode":"152921216200",
+		"level":4,
+		"levelName":"村",
+		"name":"达来图如嘎查",
+		"parentCode":"1529"
+	},
+	{
+		"code":"152921216201",
+		"fullCode":"152921216201",
+		"level":4,
+		"levelName":"村",
+		"name":"科泊嘎查",
+		"parentCode":"1529"
+	},
+	{
+		"code":"152921216202",
+		"fullCode":"152921216202",
+		"level":4,
+		"levelName":"村",
+		"name":"查干扎德盖嘎查",
+		"parentCode":"1529"
+	}
+]

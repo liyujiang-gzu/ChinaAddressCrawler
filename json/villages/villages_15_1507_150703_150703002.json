@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150703002001",
+		"fullCode":"150703002001",
+		"level":4,
+		"levelName":"村",
+		"name":"新开街社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150703002002",
+		"fullCode":"150703002002",
+		"level":4,
+		"levelName":"村",
+		"name":"友谊社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150703002003",
+		"fullCode":"150703002003",
+		"level":4,
+		"levelName":"村",
+		"name":"联营社区",
+		"parentCode":"1507"
+	}
+]

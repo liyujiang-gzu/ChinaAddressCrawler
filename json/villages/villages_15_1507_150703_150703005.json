@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150703005001",
+		"fullCode":"150703005001",
+		"level":4,
+		"levelName":"村",
+		"name":"灵北社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150703005002",
+		"fullCode":"150703005002",
+		"level":4,
+		"levelName":"村",
+		"name":"建设社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150703005003",
+		"fullCode":"150703005003",
+		"level":4,
+		"levelName":"村",
+		"name":"西山社区",
+		"parentCode":"1507"
+	}
+]

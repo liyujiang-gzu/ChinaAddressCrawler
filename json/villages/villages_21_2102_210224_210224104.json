@@ -1,0 +1,18 @@
+[
+	{
+		"code":"210224104200",
+		"fullCode":"210224104200",
+		"level":4,
+		"levelName":"村",
+		"name":"盐场",
+		"parentCode":"2102"
+	},
+	{
+		"code":"210224104201",
+		"fullCode":"210224104201",
+		"level":4,
+		"levelName":"村",
+		"name":"西帮",
+		"parentCode":"2102"
+	}
+]

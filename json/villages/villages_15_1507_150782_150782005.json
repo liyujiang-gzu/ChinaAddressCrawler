@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150782005002",
+		"fullCode":"150782005002",
+		"level":4,
+		"levelName":"村",
+		"name":"建丰社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782005004",
+		"fullCode":"150782005004",
+		"level":4,
+		"levelName":"村",
+		"name":"建民社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782005005",
+		"fullCode":"150782005005",
+		"level":4,
+		"levelName":"村",
+		"name":"建安社区",
+		"parentCode":"1507"
+	}
+]

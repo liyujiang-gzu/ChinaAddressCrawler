@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220303002001",
+		"fullCode":"220303002001",
+		"level":4,
+		"levelName":"村",
+		"name":"金桥社区",
+		"parentCode":"2203"
+	},
+	{
+		"code":"220303002002",
+		"fullCode":"220303002002",
+		"level":4,
+		"levelName":"村",
+		"name":"马车房社区",
+		"parentCode":"2203"
+	},
+	{
+		"code":"220303002003",
+		"fullCode":"220303002003",
+		"level":4,
+		"levelName":"村",
+		"name":"金龙社区",
+		"parentCode":"2203"
+	},
+	{
+		"code":"220303002004",
+		"fullCode":"220303002004",
+		"level":4,
+		"levelName":"村",
+		"name":"广兴茂社区",
+		"parentCode":"2203"
+	}
+]

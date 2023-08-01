@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230717002001",
+		"fullCode":"230717002001",
+		"level":4,
+		"levelName":"村",
+		"name":"红光社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230717002002",
+		"fullCode":"230717002002",
+		"level":4,
+		"levelName":"村",
+		"name":"红松社区",
+		"parentCode":"2307"
+	}
+]

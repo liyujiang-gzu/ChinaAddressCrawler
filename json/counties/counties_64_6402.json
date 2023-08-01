@@ -1,0 +1,26 @@
+[
+	{
+		"code":"640202",
+		"fullCode":"640202000000",
+		"level":2,
+		"levelName":"县",
+		"name":"大武口区",
+		"parentCode":"6402"
+	},
+	{
+		"code":"640205",
+		"fullCode":"640205000000",
+		"level":2,
+		"levelName":"县",
+		"name":"惠农区",
+		"parentCode":"6402"
+	},
+	{
+		"code":"640221",
+		"fullCode":"640221000000",
+		"level":2,
+		"levelName":"县",
+		"name":"平罗县",
+		"parentCode":"6402"
+	}
+]

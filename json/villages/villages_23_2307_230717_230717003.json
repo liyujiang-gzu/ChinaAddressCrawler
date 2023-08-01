@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230717003001",
+		"fullCode":"230717003001",
+		"level":4,
+		"levelName":"村",
+		"name":"红升社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230717003002",
+		"fullCode":"230717003002",
+		"level":4,
+		"levelName":"村",
+		"name":"南郡社区",
+		"parentCode":"2307"
+	}
+]

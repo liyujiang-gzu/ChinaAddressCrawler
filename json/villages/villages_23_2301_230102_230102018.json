@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230102018001",
+		"fullCode":"230102018001",
+		"level":4,
+		"levelName":"村",
+		"name":"爱建社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230102018002",
+		"fullCode":"230102018002",
+		"level":4,
+		"levelName":"村",
+		"name":"紫园社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230102018003",
+		"fullCode":"230102018003",
+		"level":4,
+		"levelName":"村",
+		"name":"梧桐花社区",
+		"parentCode":"2301"
+	}
+]

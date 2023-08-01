@@ -1,0 +1,26 @@
+[
+	{
+		"code":"650502",
+		"fullCode":"650502000000",
+		"level":2,
+		"levelName":"县",
+		"name":"伊州区",
+		"parentCode":"6505"
+	},
+	{
+		"code":"650521",
+		"fullCode":"650521000000",
+		"level":2,
+		"levelName":"县",
+		"name":"巴里坤哈萨克自治县",
+		"parentCode":"6505"
+	},
+	{
+		"code":"650522",
+		"fullCode":"650522000000",
+		"level":2,
+		"levelName":"县",
+		"name":"伊吾县",
+		"parentCode":"6505"
+	}
+]

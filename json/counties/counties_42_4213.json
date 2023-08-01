@@ -1,0 +1,26 @@
+[
+	{
+		"code":"421303",
+		"fullCode":"421303000000",
+		"level":2,
+		"levelName":"县",
+		"name":"曾都区",
+		"parentCode":"4213"
+	},
+	{
+		"code":"421321",
+		"fullCode":"421321000000",
+		"level":2,
+		"levelName":"县",
+		"name":"随县",
+		"parentCode":"4213"
+	},
+	{
+		"code":"421381",
+		"fullCode":"421381000000",
+		"level":2,
+		"levelName":"县",
+		"name":"广水市",
+		"parentCode":"4213"
+	}
+]

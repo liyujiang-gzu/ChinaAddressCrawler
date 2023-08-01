@@ -1,0 +1,34 @@
+[
+	{
+		"code":"120111003001",
+		"fullCode":"120111003001",
+		"level":4,
+		"levelName":"村",
+		"name":"佳和雅庭社区",
+		"parentCode":"1201"
+	},
+	{
+		"code":"120111003002",
+		"fullCode":"120111003002",
+		"level":4,
+		"levelName":"村",
+		"name":"佳和荣庭社区",
+		"parentCode":"1201"
+	},
+	{
+		"code":"120111003004",
+		"fullCode":"120111003004",
+		"level":4,
+		"levelName":"村",
+		"name":"佳和贤庭社区",
+		"parentCode":"1201"
+	},
+	{
+		"code":"120111003005",
+		"fullCode":"120111003005",
+		"level":4,
+		"levelName":"村",
+		"name":"亲和康园社区",
+		"parentCode":"1201"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"130802001001",
+		"fullCode":"130802001001",
+		"level":4,
+		"levelName":"村",
+		"name":"西大街社区",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130802001012",
+		"fullCode":"130802001012",
+		"level":4,
+		"levelName":"村",
+		"name":"碧园社区",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130802001013",
+		"fullCode":"130802001013",
+		"level":4,
+		"levelName":"村",
+		"name":"马市街社区",
+		"parentCode":"1308"
+	}
+]

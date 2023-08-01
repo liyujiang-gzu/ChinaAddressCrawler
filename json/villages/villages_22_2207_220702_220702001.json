@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220702001001",
+		"fullCode":"220702001001",
+		"level":4,
+		"levelName":"村",
+		"name":"团结社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220702001002",
+		"fullCode":"220702001002",
+		"level":4,
+		"levelName":"村",
+		"name":"胜利社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220702001003",
+		"fullCode":"220702001003",
+		"level":4,
+		"levelName":"村",
+		"name":"松滨社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220702001004",
+		"fullCode":"220702001004",
+		"level":4,
+		"levelName":"村",
+		"name":"松宁社区",
+		"parentCode":"2207"
+	}
+]

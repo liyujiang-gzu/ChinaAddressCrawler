@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150521402500",
+		"fullCode":"150521402500",
+		"level":4,
+		"levelName":"村",
+		"name":"丰收分场生活区",
+		"parentCode":"1505"
+	},
+	{
+		"code":"150521402501",
+		"fullCode":"150521402501",
+		"level":4,
+		"levelName":"村",
+		"name":"新风分场生活区",
+		"parentCode":"1505"
+	},
+	{
+		"code":"150521402502",
+		"fullCode":"150521402502",
+		"level":4,
+		"levelName":"村",
+		"name":"荷叶花分场生活区",
+		"parentCode":"1505"
+	},
+	{
+		"code":"150521402503",
+		"fullCode":"150521402503",
+		"level":4,
+		"levelName":"村",
+		"name":"铁北分场生活区",
+		"parentCode":"1505"
+	}
+]

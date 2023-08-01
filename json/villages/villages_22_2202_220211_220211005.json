@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220211005001",
+		"fullCode":"220211005001",
+		"level":4,
+		"levelName":"村",
+		"name":"河南社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220211005002",
+		"fullCode":"220211005002",
+		"level":4,
+		"levelName":"村",
+		"name":"吉丰社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220211005003",
+		"fullCode":"220211005003",
+		"level":4,
+		"levelName":"村",
+		"name":"江东社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220211005004",
+		"fullCode":"220211005004",
+		"level":4,
+		"levelName":"村",
+		"name":"山河社区",
+		"parentCode":"2202"
+	}
+]

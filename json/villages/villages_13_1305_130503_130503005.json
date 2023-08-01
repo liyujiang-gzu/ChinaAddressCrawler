@@ -1,0 +1,18 @@
+[
+	{
+		"code":"130503005020",
+		"fullCode":"130503005020",
+		"level":4,
+		"levelName":"村",
+		"name":"朝信社区",
+		"parentCode":"1305"
+	},
+	{
+		"code":"130503005021",
+		"fullCode":"130503005021",
+		"level":4,
+		"levelName":"村",
+		"name":"旺都社区",
+		"parentCode":"1305"
+	}
+]

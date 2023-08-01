@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230624501402",
+		"fullCode":"230624501402",
+		"level":4,
+		"levelName":"村",
+		"name":"大山场直社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230624501501",
+		"fullCode":"230624501501",
+		"level":4,
+		"levelName":"村",
+		"name":"大山种羊场第一管理区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230624501502",
+		"fullCode":"230624501502",
+		"level":4,
+		"levelName":"村",
+		"name":"大山种羊场第二管理区",
+		"parentCode":"2306"
+	}
+]

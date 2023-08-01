@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230723101003",
+		"fullCode":"230723101003",
+		"level":4,
+		"levelName":"村",
+		"name":"文化社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230723101005",
+		"fullCode":"230723101005",
+		"level":4,
+		"levelName":"村",
+		"name":"兴安社区",
+		"parentCode":"2307"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230719100001",
+		"fullCode":"230719100001",
+		"level":4,
+		"levelName":"村",
+		"name":"便民社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230719100002",
+		"fullCode":"230719100002",
+		"level":4,
+		"levelName":"村",
+		"name":"为民社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230719100003",
+		"fullCode":"230719100003",
+		"level":4,
+		"levelName":"村",
+		"name":"乐民社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230719100004",
+		"fullCode":"230719100004",
+		"level":4,
+		"levelName":"村",
+		"name":"安民社区",
+		"parentCode":"2307"
+	}
+]

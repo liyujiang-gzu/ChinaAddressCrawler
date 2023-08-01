@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230108002001",
+		"fullCode":"230108002001",
+		"level":4,
+		"levelName":"村",
+		"name":"前进里社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230108002002",
+		"fullCode":"230108002002",
+		"level":4,
+		"levelName":"村",
+		"name":"花卉社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230108002003",
+		"fullCode":"230108002003",
+		"level":4,
+		"levelName":"村",
+		"name":"东升社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230108002004",
+		"fullCode":"230108002004",
+		"level":4,
+		"levelName":"村",
+		"name":"友集社区",
+		"parentCode":"2301"
+	}
+]

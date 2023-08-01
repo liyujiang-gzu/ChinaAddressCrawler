@@ -1,0 +1,26 @@
+[
+	{
+		"code":"532801",
+		"fullCode":"532801000000",
+		"level":2,
+		"levelName":"县",
+		"name":"景洪市",
+		"parentCode":"5328"
+	},
+	{
+		"code":"532822",
+		"fullCode":"532822000000",
+		"level":2,
+		"levelName":"县",
+		"name":"勐海县",
+		"parentCode":"5328"
+	},
+	{
+		"code":"532823",
+		"fullCode":"532823000000",
+		"level":2,
+		"levelName":"县",
+		"name":"勐腊县",
+		"parentCode":"5328"
+	}
+]

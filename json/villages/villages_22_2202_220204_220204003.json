@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220204003001",
+		"fullCode":"220204003001",
+		"level":4,
+		"levelName":"村",
+		"name":"吉源社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220204003002",
+		"fullCode":"220204003002",
+		"level":4,
+		"levelName":"村",
+		"name":"松北一区社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220204003003",
+		"fullCode":"220204003003",
+		"level":4,
+		"levelName":"村",
+		"name":"松北二区社区",
+		"parentCode":"2202"
+	}
+]

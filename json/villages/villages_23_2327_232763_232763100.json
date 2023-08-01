@@ -1,0 +1,18 @@
+[
+	{
+		"code":"232763100002",
+		"fullCode":"232763100002",
+		"level":4,
+		"levelName":"村",
+		"name":"林城社区",
+		"parentCode":"2327"
+	},
+	{
+		"code":"232763100003",
+		"fullCode":"232763100003",
+		"level":4,
+		"levelName":"村",
+		"name":"新民社区",
+		"parentCode":"2327"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"code":"130209407001",
+		"fullCode":"130209407001",
+		"level":4,
+		"levelName":"村",
+		"name":"滨海一村",
+		"parentCode":"1302"
+	},
+	{
+		"code":"130209407209",
+		"fullCode":"130209407209",
+		"level":4,
+		"levelName":"村",
+		"name":"滨海二",
+		"parentCode":"1302"
+	}
+]

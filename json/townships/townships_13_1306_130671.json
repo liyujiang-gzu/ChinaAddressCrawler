@@ -1,0 +1,26 @@
+[
+	{
+		"code":"130671202",
+		"fullCode":"130671202000",
+		"level":3,
+		"levelName":"乡",
+		"name":"贤台乡",
+		"parentCode":"130671"
+	},
+	{
+		"code":"130671205",
+		"fullCode":"130671205000",
+		"level":3,
+		"levelName":"乡",
+		"name":"大马坊乡",
+		"parentCode":"130671"
+	},
+	{
+		"code":"130671400",
+		"fullCode":"130671400000",
+		"level":3,
+		"levelName":"乡",
+		"name":"保定国家高新区",
+		"parentCode":"130671"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"130203004001",
+		"fullCode":"130203004001",
+		"level":4,
+		"levelName":"村",
+		"name":"新立庄社区",
+		"parentCode":"1302"
+	},
+	{
+		"code":"130203004004",
+		"fullCode":"130203004004",
+		"level":4,
+		"levelName":"村",
+		"name":"钢城春邑社区",
+		"parentCode":"1302"
+	},
+	{
+		"code":"130203004008",
+		"fullCode":"130203004008",
+		"level":4,
+		"levelName":"村",
+		"name":"启新老工房社区",
+		"parentCode":"1302"
+	}
+]

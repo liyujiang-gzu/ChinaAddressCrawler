@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150526101001",
+		"fullCode":"150526101001",
+		"level":4,
+		"levelName":"村",
+		"name":"富民社区",
+		"parentCode":"1505"
+	},
+	{
+		"code":"150526101002",
+		"fullCode":"150526101002",
+		"level":4,
+		"levelName":"村",
+		"name":"阳光社区",
+		"parentCode":"1505"
+	},
+	{
+		"code":"150526101003",
+		"fullCode":"150526101003",
+		"level":4,
+		"levelName":"村",
+		"name":"和谐社区",
+		"parentCode":"1505"
+	},
+	{
+		"code":"150526101004",
+		"fullCode":"150526101004",
+		"level":4,
+		"levelName":"村",
+		"name":"乌兰花社区",
+		"parentCode":"1505"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"231221002001",
+		"fullCode":"231221002001",
+		"level":4,
+		"levelName":"村",
+		"name":"金家胡同社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231221002002",
+		"fullCode":"231221002002",
+		"level":4,
+		"levelName":"村",
+		"name":"宏达社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231221002003",
+		"fullCode":"231221002003",
+		"level":4,
+		"levelName":"村",
+		"name":"西环社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231221002004",
+		"fullCode":"231221002004",
+		"level":4,
+		"levelName":"村",
+		"name":"六合社区",
+		"parentCode":"2312"
+	}
+]

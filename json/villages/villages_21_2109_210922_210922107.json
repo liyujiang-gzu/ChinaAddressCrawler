@@ -1,0 +1,26 @@
+[
+	{
+		"code":"210922107200",
+		"fullCode":"210922107200",
+		"level":4,
+		"levelName":"村",
+		"name":"阿尔乡",
+		"parentCode":"2109"
+	},
+	{
+		"code":"210922107201",
+		"fullCode":"210922107201",
+		"level":4,
+		"levelName":"村",
+		"name":"北甸子",
+		"parentCode":"2109"
+	},
+	{
+		"code":"210922107202",
+		"fullCode":"210922107202",
+		"level":4,
+		"levelName":"村",
+		"name":"泡子沿",
+		"parentCode":"2109"
+	}
+]

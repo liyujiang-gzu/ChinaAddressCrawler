@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130171010",
+		"fullCode":"130171010000",
+		"level":3,
+		"levelName":"乡",
+		"name":"长江街道",
+		"parentCode":"130171"
+	},
+	{
+		"code":"130171011",
+		"fullCode":"130171011000",
+		"level":3,
+		"levelName":"乡",
+		"name":"太行街道",
+		"parentCode":"130171"
+	},
+	{
+		"code":"130171100",
+		"fullCode":"130171100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"宋营镇",
+		"parentCode":"130171"
+	},
+	{
+		"code":"130171101",
+		"fullCode":"130171101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"郄马镇",
+		"parentCode":"130171"
+	}
+]

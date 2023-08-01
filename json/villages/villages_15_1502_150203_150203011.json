@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150203011016",
+		"fullCode":"150203011016",
+		"level":4,
+		"levelName":"村",
+		"name":"第一社区",
+		"parentCode":"1502"
+	},
+	{
+		"code":"150203011017",
+		"fullCode":"150203011017",
+		"level":4,
+		"levelName":"村",
+		"name":"第二社区",
+		"parentCode":"1502"
+	},
+	{
+		"code":"150203011018",
+		"fullCode":"150203011018",
+		"level":4,
+		"levelName":"村",
+		"name":"第三社区",
+		"parentCode":"1502"
+	}
+]

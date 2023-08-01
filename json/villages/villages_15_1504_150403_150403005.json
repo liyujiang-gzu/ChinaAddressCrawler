@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150403005001",
+		"fullCode":"150403005001",
+		"level":4,
+		"levelName":"村",
+		"name":"马林社区",
+		"parentCode":"1504"
+	},
+	{
+		"code":"150403005002",
+		"fullCode":"150403005002",
+		"level":4,
+		"levelName":"村",
+		"name":"林山社区",
+		"parentCode":"1504"
+	},
+	{
+		"code":"150403005003",
+		"fullCode":"150403005003",
+		"level":4,
+		"levelName":"村",
+		"name":"红庙社区",
+		"parentCode":"1504"
+	},
+	{
+		"code":"150403005004",
+		"fullCode":"150403005004",
+		"level":4,
+		"levelName":"村",
+		"name":"开发试验区社区",
+		"parentCode":"1504"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"450602",
+		"fullCode":"450602000000",
+		"level":2,
+		"levelName":"县",
+		"name":"港口区",
+		"parentCode":"4506"
+	},
+	{
+		"code":"450603",
+		"fullCode":"450603000000",
+		"level":2,
+		"levelName":"县",
+		"name":"防城区",
+		"parentCode":"4506"
+	},
+	{
+		"code":"450621",
+		"fullCode":"450621000000",
+		"level":2,
+		"levelName":"县",
+		"name":"上思县",
+		"parentCode":"4506"
+	},
+	{
+		"code":"450681",
+		"fullCode":"450681000000",
+		"level":2,
+		"levelName":"县",
+		"name":"东兴市",
+		"parentCode":"4506"
+	}
+]

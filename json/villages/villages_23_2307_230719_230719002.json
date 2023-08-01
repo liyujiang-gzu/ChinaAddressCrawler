@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230719002001",
+		"fullCode":"230719002001",
+		"level":4,
+		"levelName":"村",
+		"name":"向阳社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230719002002",
+		"fullCode":"230719002002",
+		"level":4,
+		"levelName":"村",
+		"name":"保安社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230719002003",
+		"fullCode":"230719002003",
+		"level":4,
+		"levelName":"村",
+		"name":"铁兴社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230719002201",
+		"fullCode":"230719002201",
+		"level":4,
+		"levelName":"村",
+		"name":"曙光村",
+		"parentCode":"2307"
+	}
+]

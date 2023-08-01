@@ -1,0 +1,26 @@
+[
+	{
+		"code":"231004006001",
+		"fullCode":"231004006001",
+		"level":4,
+		"levelName":"村",
+		"name":"地明安居小区社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231004006004",
+		"fullCode":"231004006004",
+		"level":4,
+		"levelName":"村",
+		"name":"军马社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231004006005",
+		"fullCode":"231004006005",
+		"level":4,
+		"levelName":"村",
+		"name":"通乡社区",
+		"parentCode":"2310"
+	}
+]

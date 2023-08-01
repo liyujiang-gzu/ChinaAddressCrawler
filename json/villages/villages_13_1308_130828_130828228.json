@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130828228201",
+		"fullCode":"130828228201",
+		"level":4,
+		"levelName":"村",
+		"name":"南山嘴",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130828228202",
+		"fullCode":"130828228202",
+		"level":4,
+		"levelName":"村",
+		"name":"石棚",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130828228203",
+		"fullCode":"130828228203",
+		"level":4,
+		"levelName":"村",
+		"name":"卡伦",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130828228204",
+		"fullCode":"130828228204",
+		"level":4,
+		"levelName":"村",
+		"name":"官地",
+		"parentCode":"1308"
+	}
+]

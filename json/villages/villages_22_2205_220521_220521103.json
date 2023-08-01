@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220521103001",
+		"fullCode":"220521103001",
+		"level":4,
+		"levelName":"村",
+		"name":"惠民社区",
+		"parentCode":"2205"
+	},
+	{
+		"code":"220521103200",
+		"fullCode":"220521103200",
+		"level":4,
+		"levelName":"村",
+		"name":"公益村",
+		"parentCode":"2205"
+	},
+	{
+		"code":"220521103201",
+		"fullCode":"220521103201",
+		"level":4,
+		"levelName":"村",
+		"name":"老岭村",
+		"parentCode":"2205"
+	},
+	{
+		"code":"220521103202",
+		"fullCode":"220521103202",
+		"level":4,
+		"levelName":"村",
+		"name":"永安村",
+		"parentCode":"2205"
+	}
+]

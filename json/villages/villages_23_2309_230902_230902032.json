@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230902032001",
+		"fullCode":"230902032001",
+		"level":4,
+		"levelName":"村",
+		"name":"兴秀社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230902032002",
+		"fullCode":"230902032002",
+		"level":4,
+		"levelName":"村",
+		"name":"富强社区",
+		"parentCode":"2309"
+	}
+]

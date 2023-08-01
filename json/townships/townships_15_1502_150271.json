@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150271010",
+		"fullCode":"150271010000",
+		"level":3,
+		"levelName":"乡",
+		"name":"稀土路街道",
+		"parentCode":"150271"
+	},
+	{
+		"code":"150271020",
+		"fullCode":"150271020000",
+		"level":3,
+		"levelName":"乡",
+		"name":"民馨路街道",
+		"parentCode":"150271"
+	},
+	{
+		"code":"150271102",
+		"fullCode":"150271102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"万水泉镇",
+		"parentCode":"150271"
+	}
+]

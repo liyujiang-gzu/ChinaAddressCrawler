@@ -1,0 +1,26 @@
+[
+	{
+		"code":"650402",
+		"fullCode":"650402000000",
+		"level":2,
+		"levelName":"县",
+		"name":"高昌区",
+		"parentCode":"6504"
+	},
+	{
+		"code":"650421",
+		"fullCode":"650421000000",
+		"level":2,
+		"levelName":"县",
+		"name":"鄯善县",
+		"parentCode":"6504"
+	},
+	{
+		"code":"650422",
+		"fullCode":"650422000000",
+		"level":2,
+		"levelName":"县",
+		"name":"托克逊县",
+		"parentCode":"6504"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150823107200",
+		"fullCode":"150823107200",
+		"level":4,
+		"levelName":"村",
+		"name":"大十份子",
+		"parentCode":"1508"
+	},
+	{
+		"code":"150823107201",
+		"fullCode":"150823107201",
+		"level":4,
+		"levelName":"村",
+		"name":"十七份子",
+		"parentCode":"1508"
+	},
+	{
+		"code":"150823107202",
+		"fullCode":"150823107202",
+		"level":4,
+		"levelName":"村",
+		"name":"东五份",
+		"parentCode":"1508"
+	},
+	{
+		"code":"150823107203",
+		"fullCode":"150823107203",
+		"level":4,
+		"levelName":"村",
+		"name":"永红",
+		"parentCode":"1508"
+	}
+]

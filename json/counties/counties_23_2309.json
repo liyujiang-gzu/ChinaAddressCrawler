@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230902",
+		"fullCode":"230902000000",
+		"level":2,
+		"levelName":"县",
+		"name":"新兴区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230903",
+		"fullCode":"230903000000",
+		"level":2,
+		"levelName":"县",
+		"name":"桃山区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230904",
+		"fullCode":"230904000000",
+		"level":2,
+		"levelName":"县",
+		"name":"茄子河区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230921",
+		"fullCode":"230921000000",
+		"level":2,
+		"levelName":"县",
+		"name":"勃利县",
+		"parentCode":"2309"
+	}
+]

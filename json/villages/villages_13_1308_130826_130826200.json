@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130826200201",
+		"fullCode":"130826200201",
+		"level":4,
+		"levelName":"村",
+		"name":"万胜永",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130826200202",
+		"fullCode":"130826200202",
+		"level":4,
+		"levelName":"村",
+		"name":"辛房",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130826200203",
+		"fullCode":"130826200203",
+		"level":4,
+		"levelName":"村",
+		"name":"干沟尧",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130826200204",
+		"fullCode":"130826200204",
+		"level":4,
+		"levelName":"村",
+		"name":"下洼子",
+		"parentCode":"1308"
+	}
+]

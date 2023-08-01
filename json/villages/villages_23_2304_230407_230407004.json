@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230407004001",
+		"fullCode":"230407004001",
+		"level":4,
+		"levelName":"村",
+		"name":"为民社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230407004002",
+		"fullCode":"230407004002",
+		"level":4,
+		"levelName":"村",
+		"name":"利民社区",
+		"parentCode":"2304"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"420702",
+		"fullCode":"420702000000",
+		"level":2,
+		"levelName":"县",
+		"name":"梁子湖区",
+		"parentCode":"4207"
+	},
+	{
+		"code":"420703",
+		"fullCode":"420703000000",
+		"level":2,
+		"levelName":"县",
+		"name":"华容区",
+		"parentCode":"4207"
+	},
+	{
+		"code":"420704",
+		"fullCode":"420704000000",
+		"level":2,
+		"levelName":"县",
+		"name":"鄂城区",
+		"parentCode":"4207"
+	}
+]

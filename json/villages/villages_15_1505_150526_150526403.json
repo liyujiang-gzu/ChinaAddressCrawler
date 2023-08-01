@@ -1,0 +1,18 @@
+[
+	{
+		"code":"150526403500",
+		"fullCode":"150526403500",
+		"level":4,
+		"levelName":"村",
+		"name":"中心分场生活区",
+		"parentCode":"1505"
+	},
+	{
+		"code":"150526403501",
+		"fullCode":"150526403501",
+		"level":4,
+		"levelName":"村",
+		"name":"嘎斯庙分场生活区",
+		"parentCode":"1505"
+	}
+]

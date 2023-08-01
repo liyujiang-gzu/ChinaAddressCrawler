@@ -1,0 +1,18 @@
+[
+	{
+		"code":"231081100",
+		"fullCode":"231081100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"绥芬河镇",
+		"parentCode":"231081"
+	},
+	{
+		"code":"231081101",
+		"fullCode":"231081101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"阜宁镇",
+		"parentCode":"231081"
+	}
+]

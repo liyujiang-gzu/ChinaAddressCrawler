@@ -1,0 +1,18 @@
+[
+	{
+		"code":"360502",
+		"fullCode":"360502000000",
+		"level":2,
+		"levelName":"县",
+		"name":"渝水区",
+		"parentCode":"3605"
+	},
+	{
+		"code":"360521",
+		"fullCode":"360521000000",
+		"level":2,
+		"levelName":"县",
+		"name":"分宜县",
+		"parentCode":"3605"
+	}
+]

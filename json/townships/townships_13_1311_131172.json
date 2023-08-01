@@ -1,0 +1,26 @@
+[
+	{
+		"code":"131172101",
+		"fullCode":"131172101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"魏家屯镇",
+		"parentCode":"131172"
+	},
+	{
+		"code":"131172203",
+		"fullCode":"131172203000",
+		"level":3,
+		"levelName":"乡",
+		"name":"彭杜村乡",
+		"parentCode":"131172"
+	},
+	{
+		"code":"131172401",
+		"fullCode":"131172401000",
+		"level":3,
+		"levelName":"乡",
+		"name":"滨湖新区教育园区",
+		"parentCode":"131172"
+	}
+]

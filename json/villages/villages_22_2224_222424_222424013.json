@@ -1,0 +1,18 @@
+[
+	{
+		"code":"222424013001",
+		"fullCode":"222424013001",
+		"level":4,
+		"levelName":"村",
+		"name":"江北社区",
+		"parentCode":"2224"
+	},
+	{
+		"code":"222424013002",
+		"fullCode":"222424013002",
+		"level":4,
+		"levelName":"村",
+		"name":"长荣社区",
+		"parentCode":"2224"
+	}
+]

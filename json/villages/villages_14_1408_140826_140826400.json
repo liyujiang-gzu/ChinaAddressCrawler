@@ -1,0 +1,34 @@
+[
+	{
+		"code":"140826400001",
+		"fullCode":"140826400001",
+		"level":4,
+		"levelName":"村",
+		"name":"东城",
+		"parentCode":"1408"
+	},
+	{
+		"code":"140826400002",
+		"fullCode":"140826400002",
+		"level":4,
+		"levelName":"村",
+		"name":"中城",
+		"parentCode":"1408"
+	},
+	{
+		"code":"140826400003",
+		"fullCode":"140826400003",
+		"level":4,
+		"levelName":"村",
+		"name":"西城",
+		"parentCode":"1408"
+	},
+	{
+		"code":"140826400004",
+		"fullCode":"140826400004",
+		"level":4,
+		"levelName":"村",
+		"name":"绛县国有工矿社区",
+		"parentCode":"1408"
+	}
+]

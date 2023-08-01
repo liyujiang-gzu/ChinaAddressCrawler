@@ -1,0 +1,18 @@
+[
+	{
+		"code":"150206001006",
+		"fullCode":"150206001006",
+		"level":4,
+		"levelName":"村",
+		"name":"宝山社区",
+		"parentCode":"1502"
+	},
+	{
+		"code":"150206001007",
+		"fullCode":"150206001007",
+		"level":4,
+		"levelName":"村",
+		"name":"百灵社区",
+		"parentCode":"1502"
+	}
+]

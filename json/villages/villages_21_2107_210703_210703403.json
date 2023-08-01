@@ -1,0 +1,34 @@
+[
+	{
+		"code":"210703403504",
+		"fullCode":"210703403504",
+		"level":4,
+		"levelName":"村",
+		"name":"单屯农业分场生活区",
+		"parentCode":"2107"
+	},
+	{
+		"code":"210703403505",
+		"fullCode":"210703403505",
+		"level":4,
+		"levelName":"村",
+		"name":"郑家农业分场生活区",
+		"parentCode":"2107"
+	},
+	{
+		"code":"210703403506",
+		"fullCode":"210703403506",
+		"level":4,
+		"levelName":"村",
+		"name":"小齐农业分场生活区",
+		"parentCode":"2107"
+	},
+	{
+		"code":"210703403507",
+		"fullCode":"210703403507",
+		"level":4,
+		"levelName":"村",
+		"name":"百官农业分场生活区",
+		"parentCode":"2107"
+	}
+]

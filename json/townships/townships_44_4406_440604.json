@@ -1,0 +1,34 @@
+[
+	{
+		"code":"440604010",
+		"fullCode":"440604010000",
+		"level":3,
+		"levelName":"乡",
+		"name":"石湾镇街道",
+		"parentCode":"440604"
+	},
+	{
+		"code":"440604011",
+		"fullCode":"440604011000",
+		"level":3,
+		"levelName":"乡",
+		"name":"张槎街道",
+		"parentCode":"440604"
+	},
+	{
+		"code":"440604012",
+		"fullCode":"440604012000",
+		"level":3,
+		"levelName":"乡",
+		"name":"祖庙街道",
+		"parentCode":"440604"
+	},
+	{
+		"code":"440604100",
+		"fullCode":"440604100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"南庄镇",
+		"parentCode":"440604"
+	}
+]

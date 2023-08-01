@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230110015001",
+		"fullCode":"230110015001",
+		"level":4,
+		"levelName":"村",
+		"name":"热电社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230110015002",
+		"fullCode":"230110015002",
+		"level":4,
+		"levelName":"村",
+		"name":"林机社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230110015003",
+		"fullCode":"230110015003",
+		"level":4,
+		"levelName":"村",
+		"name":"工程社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230110015004",
+		"fullCode":"230110015004",
+		"level":4,
+		"levelName":"村",
+		"name":"粮库社区",
+		"parentCode":"2301"
+	}
+]

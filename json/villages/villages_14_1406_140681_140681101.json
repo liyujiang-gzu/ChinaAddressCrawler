@@ -1,0 +1,34 @@
+[
+	{
+		"code":"140681101200",
+		"fullCode":"140681101200",
+		"level":4,
+		"levelName":"村",
+		"name":"吴家窑",
+		"parentCode":"1406"
+	},
+	{
+		"code":"140681101202",
+		"fullCode":"140681101202",
+		"level":4,
+		"levelName":"村",
+		"name":"峙峰山",
+		"parentCode":"1406"
+	},
+	{
+		"code":"140681101203",
+		"fullCode":"140681101203",
+		"level":4,
+		"levelName":"村",
+		"name":"窑子头",
+		"parentCode":"1406"
+	},
+	{
+		"code":"140681101204",
+		"fullCode":"140681101204",
+		"level":4,
+		"levelName":"村",
+		"name":"东山",
+		"parentCode":"1406"
+	}
+]

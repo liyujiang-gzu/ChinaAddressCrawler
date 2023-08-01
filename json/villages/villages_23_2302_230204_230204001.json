@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230204001004",
+		"fullCode":"230204001004",
+		"level":4,
+		"levelName":"村",
+		"name":"新木社区",
+		"parentCode":"2302"
+	},
+	{
+		"code":"230204001006",
+		"fullCode":"230204001006",
+		"level":4,
+		"levelName":"村",
+		"name":"南树园社区",
+		"parentCode":"2302"
+	},
+	{
+		"code":"230204001007",
+		"fullCode":"230204001007",
+		"level":4,
+		"levelName":"村",
+		"name":"南花园社区",
+		"parentCode":"2302"
+	},
+	{
+		"code":"230204001009",
+		"fullCode":"230204001009",
+		"level":4,
+		"levelName":"村",
+		"name":"南虹社区",
+		"parentCode":"2302"
+	}
+]

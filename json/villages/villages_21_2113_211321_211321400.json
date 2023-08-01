@@ -1,0 +1,34 @@
+[
+	{
+		"code":"211321400200",
+		"fullCode":"211321400200",
+		"level":4,
+		"levelName":"村",
+		"name":"北扎兰营子（一分场）",
+		"parentCode":"2113"
+	},
+	{
+		"code":"211321400201",
+		"fullCode":"211321400201",
+		"level":4,
+		"levelName":"村",
+		"name":"二道湾子（二分场）",
+		"parentCode":"2113"
+	},
+	{
+		"code":"211321400202",
+		"fullCode":"211321400202",
+		"level":4,
+		"levelName":"村",
+		"name":"敖汉波罗（三分场）",
+		"parentCode":"2113"
+	},
+	{
+		"code":"211321400203",
+		"fullCode":"211321400203",
+		"level":4,
+		"levelName":"村",
+		"name":"胡杖子（四分场）",
+		"parentCode":"2113"
+	}
+]

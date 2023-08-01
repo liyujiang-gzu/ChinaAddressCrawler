@@ -1,0 +1,18 @@
+[
+	{
+		"code":"232761002001",
+		"fullCode":"232761002001",
+		"level":4,
+		"levelName":"村",
+		"name":"北秀",
+		"parentCode":"2327"
+	},
+	{
+		"code":"232761002002",
+		"fullCode":"232761002002",
+		"level":4,
+		"levelName":"村",
+		"name":"九千三",
+		"parentCode":"2327"
+	}
+]

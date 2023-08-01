@@ -1,0 +1,26 @@
+[
+	{
+		"code":"130802003002",
+		"fullCode":"130802003002",
+		"level":4,
+		"levelName":"村",
+		"name":"窝瓜园社区",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130802003008",
+		"fullCode":"130802003008",
+		"level":4,
+		"levelName":"村",
+		"name":"陕西营社区",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130802003011",
+		"fullCode":"130802003011",
+		"level":4,
+		"levelName":"村",
+		"name":"佟王府社区",
+		"parentCode":"1308"
+	}
+]

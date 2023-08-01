@@ -1,0 +1,18 @@
+[
+	{
+		"code":"220203010001",
+		"fullCode":"220203010001",
+		"level":4,
+		"levelName":"村",
+		"name":"龙东社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220203010002",
+		"fullCode":"220203010002",
+		"level":4,
+		"levelName":"村",
+		"name":"秀山社区",
+		"parentCode":"2202"
+	}
+]

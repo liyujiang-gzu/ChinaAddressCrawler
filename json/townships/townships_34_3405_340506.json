@@ -1,0 +1,34 @@
+[
+	{
+		"code":"340506100",
+		"fullCode":"340506100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"博望镇",
+		"parentCode":"340506"
+	},
+	{
+		"code":"340506101",
+		"fullCode":"340506101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"丹阳镇",
+		"parentCode":"340506"
+	},
+	{
+		"code":"340506102",
+		"fullCode":"340506102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"新市镇",
+		"parentCode":"340506"
+	},
+	{
+		"code":"340506400",
+		"fullCode":"340506400000",
+		"level":3,
+		"levelName":"乡",
+		"name":"博望高新技术产业开发区",
+		"parentCode":"340506"
+	}
+]

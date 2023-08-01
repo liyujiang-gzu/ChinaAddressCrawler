@@ -1,0 +1,26 @@
+[
+	{
+		"code":"410371001",
+		"fullCode":"410371001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"瀛洲街道",
+		"parentCode":"410371"
+	},
+	{
+		"code":"410371002",
+		"fullCode":"410371002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"辛店街道",
+		"parentCode":"410371"
+	},
+	{
+		"code":"410371003",
+		"fullCode":"410371003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"徐家营街道",
+		"parentCode":"410371"
+	}
+]

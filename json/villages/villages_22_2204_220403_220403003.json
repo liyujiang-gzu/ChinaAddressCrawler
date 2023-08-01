@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220403003001",
+		"fullCode":"220403003001",
+		"level":4,
+		"levelName":"村",
+		"name":"东山社区",
+		"parentCode":"2204"
+	},
+	{
+		"code":"220403003002",
+		"fullCode":"220403003002",
+		"level":4,
+		"levelName":"村",
+		"name":"红城社区",
+		"parentCode":"2204"
+	},
+	{
+		"code":"220403003003",
+		"fullCode":"220403003003",
+		"level":4,
+		"levelName":"村",
+		"name":"裕明社区",
+		"parentCode":"2204"
+	}
+]

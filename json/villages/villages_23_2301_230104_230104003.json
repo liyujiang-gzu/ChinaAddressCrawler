@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230104003002",
+		"fullCode":"230104003002",
+		"level":4,
+		"levelName":"村",
+		"name":"东莱社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230104003003",
+		"fullCode":"230104003003",
+		"level":4,
+		"levelName":"村",
+		"name":"祥泰社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230104003004",
+		"fullCode":"230104003004",
+		"level":4,
+		"levelName":"村",
+		"name":"教育园社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230104003005",
+		"fullCode":"230104003005",
+		"level":4,
+		"levelName":"村",
+		"name":"水晶社区",
+		"parentCode":"2301"
+	}
+]

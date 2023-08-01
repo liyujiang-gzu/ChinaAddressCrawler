@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150782004001",
+		"fullCode":"150782004001",
+		"level":4,
+		"levelName":"村",
+		"name":"永兴社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782004002",
+		"fullCode":"150782004002",
+		"level":4,
+		"levelName":"村",
+		"name":"永和社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782004003",
+		"fullCode":"150782004003",
+		"level":4,
+		"levelName":"村",
+		"name":"永明社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782004004",
+		"fullCode":"150782004004",
+		"level":4,
+		"levelName":"村",
+		"name":"永强社区",
+		"parentCode":"1507"
+	}
+]

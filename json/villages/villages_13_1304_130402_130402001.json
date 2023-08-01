@@ -1,0 +1,18 @@
+[
+	{
+		"code":"130402001006",
+		"fullCode":"130402001006",
+		"level":4,
+		"levelName":"村",
+		"name":"焦窑社区",
+		"parentCode":"1304"
+	},
+	{
+		"code":"130402001007",
+		"fullCode":"130402001007",
+		"level":4,
+		"levelName":"村",
+		"name":"邯山南社区",
+		"parentCode":"1304"
+	}
+]

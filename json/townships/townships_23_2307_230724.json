@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230724100",
+		"fullCode":"230724100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"新青镇",
+		"parentCode":"230724"
+	},
+	{
+		"code":"230724101",
+		"fullCode":"230724101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"红星镇",
+		"parentCode":"230724"
+	},
+	{
+		"code":"230724102",
+		"fullCode":"230724102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"五营镇",
+		"parentCode":"230724"
+	}
+]

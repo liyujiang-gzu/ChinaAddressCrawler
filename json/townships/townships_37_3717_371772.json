@@ -1,0 +1,26 @@
+[
+	{
+		"code":"371772001",
+		"fullCode":"371772001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"万福街道",
+		"parentCode":"371772"
+	},
+	{
+		"code":"371772100",
+		"fullCode":"371772100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"吕陵镇",
+		"parentCode":"371772"
+	},
+	{
+		"code":"371772108",
+		"fullCode":"371772108000",
+		"level":3,
+		"levelName":"乡",
+		"name":"马岭岗镇",
+		"parentCode":"371772"
+	}
+]

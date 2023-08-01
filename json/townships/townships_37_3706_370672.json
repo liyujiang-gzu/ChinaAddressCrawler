@@ -1,0 +1,26 @@
+[
+	{
+		"code":"370672003",
+		"fullCode":"370672003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"古现街道",
+		"parentCode":"370672"
+	},
+	{
+		"code":"370672004",
+		"fullCode":"370672004000",
+		"level":3,
+		"levelName":"乡",
+		"name":"大季家街道",
+		"parentCode":"370672"
+	},
+	{
+		"code":"370672008",
+		"fullCode":"370672008000",
+		"level":3,
+		"levelName":"乡",
+		"name":"福莱山街道",
+		"parentCode":"370672"
+	}
+]

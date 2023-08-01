@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230306002001",
+		"fullCode":"230306002001",
+		"level":4,
+		"levelName":"村",
+		"name":"东太社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230306002002",
+		"fullCode":"230306002002",
+		"level":4,
+		"levelName":"村",
+		"name":"道西社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230306002003",
+		"fullCode":"230306002003",
+		"level":4,
+		"levelName":"村",
+		"name":"道东社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230306002004",
+		"fullCode":"230306002004",
+		"level":4,
+		"levelName":"村",
+		"name":"新兴社区",
+		"parentCode":"2303"
+	}
+]

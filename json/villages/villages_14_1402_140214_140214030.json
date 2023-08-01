@@ -1,0 +1,34 @@
+[
+	{
+		"code":"140214030001",
+		"fullCode":"140214030001",
+		"level":4,
+		"levelName":"村",
+		"name":"一电厂社区",
+		"parentCode":"1402"
+	},
+	{
+		"code":"140214030003",
+		"fullCode":"140214030003",
+		"level":4,
+		"levelName":"村",
+		"name":"老平旺社区",
+		"parentCode":"1402"
+	},
+	{
+		"code":"140214030004",
+		"fullCode":"140214030004",
+		"level":4,
+		"levelName":"村",
+		"name":"王家园社区",
+		"parentCode":"1402"
+	},
+	{
+		"code":"140214030005",
+		"fullCode":"140214030005",
+		"level":4,
+		"levelName":"村",
+		"name":"电力技校社区",
+		"parentCode":"1402"
+	}
+]

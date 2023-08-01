@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220106101200",
+		"fullCode":"220106101200",
+		"level":4,
+		"levelName":"村",
+		"name":"开元",
+		"parentCode":"2201"
+	},
+	{
+		"code":"220106101201",
+		"fullCode":"220106101201",
+		"level":4,
+		"levelName":"村",
+		"name":"双龙",
+		"parentCode":"2201"
+	},
+	{
+		"code":"220106101203",
+		"fullCode":"220106101203",
+		"level":4,
+		"levelName":"村",
+		"name":"裴家",
+		"parentCode":"2201"
+	},
+	{
+		"code":"220106101204",
+		"fullCode":"220106101204",
+		"level":4,
+		"levelName":"村",
+		"name":"民丰",
+		"parentCode":"2201"
+	}
+]

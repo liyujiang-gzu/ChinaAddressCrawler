@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230621206201",
+		"fullCode":"230621206201",
+		"level":4,
+		"levelName":"村",
+		"name":"永胜",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230621206202",
+		"fullCode":"230621206202",
+		"level":4,
+		"levelName":"村",
+		"name":"丰产",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230621206203",
+		"fullCode":"230621206203",
+		"level":4,
+		"levelName":"村",
+		"name":"模范",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230621206204",
+		"fullCode":"230621206204",
+		"level":4,
+		"levelName":"村",
+		"name":"胜利",
+		"parentCode":"2306"
+	}
+]

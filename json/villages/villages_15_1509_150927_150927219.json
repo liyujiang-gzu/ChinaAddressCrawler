@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150927219352",
+		"fullCode":"150927219352",
+		"level":4,
+		"levelName":"村",
+		"name":"第一嘎查",
+		"parentCode":"1509"
+	},
+	{
+		"code":"150927219353",
+		"fullCode":"150927219353",
+		"level":4,
+		"levelName":"村",
+		"name":"第二嘎查",
+		"parentCode":"1509"
+	},
+	{
+		"code":"150927219354",
+		"fullCode":"150927219354",
+		"level":4,
+		"levelName":"村",
+		"name":"第三嘎查",
+		"parentCode":"1509"
+	},
+	{
+		"code":"150927219355",
+		"fullCode":"150927219355",
+		"level":4,
+		"levelName":"村",
+		"name":"第四嘎查",
+		"parentCode":"1509"
+	}
+]

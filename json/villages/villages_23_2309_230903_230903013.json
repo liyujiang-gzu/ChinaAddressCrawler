@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230903013001",
+		"fullCode":"230903013001",
+		"level":4,
+		"levelName":"村",
+		"name":"金厦社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230903013002",
+		"fullCode":"230903013002",
+		"level":4,
+		"levelName":"村",
+		"name":"长青社区",
+		"parentCode":"2309"
+	}
+]

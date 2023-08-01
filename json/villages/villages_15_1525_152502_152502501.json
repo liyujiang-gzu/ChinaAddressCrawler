@@ -1,0 +1,26 @@
+[
+	{
+		"code":"152502501500",
+		"fullCode":"152502501500",
+		"level":4,
+		"levelName":"村",
+		"name":"贝力克",
+		"parentCode":"1525"
+	},
+	{
+		"code":"152502501501",
+		"fullCode":"152502501501",
+		"level":4,
+		"levelName":"村",
+		"name":"都兰敖包分场生活区",
+		"parentCode":"1525"
+	},
+	{
+		"code":"152502501502",
+		"fullCode":"152502501502",
+		"level":4,
+		"levelName":"村",
+		"name":"白音哈达分场生活区",
+		"parentCode":"1525"
+	}
+]

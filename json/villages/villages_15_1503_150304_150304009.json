@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150304009008",
+		"fullCode":"150304009008",
+		"level":4,
+		"levelName":"村",
+		"name":"先锋社区",
+		"parentCode":"1503"
+	},
+	{
+		"code":"150304009009",
+		"fullCode":"150304009009",
+		"level":4,
+		"levelName":"村",
+		"name":"团结社区",
+		"parentCode":"1503"
+	},
+	{
+		"code":"150304009010",
+		"fullCode":"150304009010",
+		"level":4,
+		"levelName":"村",
+		"name":"幸福社区",
+		"parentCode":"1503"
+	}
+]

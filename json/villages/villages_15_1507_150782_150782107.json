@@ -1,0 +1,18 @@
+[
+	{
+		"code":"150782107001",
+		"fullCode":"150782107001",
+		"level":4,
+		"levelName":"村",
+		"name":"塔强社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782107002",
+		"fullCode":"150782107002",
+		"level":4,
+		"levelName":"村",
+		"name":"塔政社区",
+		"parentCode":"1507"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"659011400",
+		"fullCode":"659011400000",
+		"level":3,
+		"levelName":"乡",
+		"name":"新星市核心区",
+		"parentCode":"659011"
+	},
+	{
+		"code":"659011500",
+		"fullCode":"659011500000",
+		"level":3,
+		"levelName":"乡",
+		"name":"二道湖镇",
+		"parentCode":"659011"
+	},
+	{
+		"code":"659011501",
+		"fullCode":"659011501000",
+		"level":3,
+		"levelName":"乡",
+		"name":"骆驿镇",
+		"parentCode":"659011"
+	},
+	{
+		"code":"659011502",
+		"fullCode":"659011502000",
+		"level":3,
+		"levelName":"乡",
+		"name":"黄田镇",
+		"parentCode":"659011"
+	}
+]

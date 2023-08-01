@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230102002001",
+		"fullCode":"230102002001",
+		"level":4,
+		"levelName":"村",
+		"name":"银都社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230102002002",
+		"fullCode":"230102002002",
+		"level":4,
+		"levelName":"村",
+		"name":"新阳社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230102002003",
+		"fullCode":"230102002003",
+		"level":4,
+		"levelName":"村",
+		"name":"地德里北段社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230102002005",
+		"fullCode":"230102002005",
+		"level":4,
+		"levelName":"村",
+		"name":"安化北段社区",
+		"parentCode":"2301"
+	}
+]

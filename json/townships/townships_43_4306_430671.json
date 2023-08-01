@@ -1,0 +1,34 @@
+[
+	{
+		"code":"430671001",
+		"fullCode":"430671001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"天问街道",
+		"parentCode":"430671"
+	},
+	{
+		"code":"430671101",
+		"fullCode":"430671101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"营田镇",
+		"parentCode":"430671"
+	},
+	{
+		"code":"430671102",
+		"fullCode":"430671102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"河市镇",
+		"parentCode":"430671"
+	},
+	{
+		"code":"430671203",
+		"fullCode":"430671203000",
+		"level":3,
+		"levelName":"乡",
+		"name":"凤凰乡",
+		"parentCode":"430671"
+	}
+]

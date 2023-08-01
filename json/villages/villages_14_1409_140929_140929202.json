@@ -1,0 +1,34 @@
+[
+	{
+		"code":"140929202200",
+		"fullCode":"140929202200",
+		"level":4,
+		"levelName":"村",
+		"name":"李家沟",
+		"parentCode":"1409"
+	},
+	{
+		"code":"140929202203",
+		"fullCode":"140929202203",
+		"level":4,
+		"levelName":"村",
+		"name":"水草沟",
+		"parentCode":"1409"
+	},
+	{
+		"code":"140929202206",
+		"fullCode":"140929202206",
+		"level":4,
+		"levelName":"村",
+		"name":"范家塔",
+		"parentCode":"1409"
+	},
+	{
+		"code":"140929202208",
+		"fullCode":"140929202208",
+		"level":4,
+		"levelName":"村",
+		"name":"石佛河",
+		"parentCode":"1409"
+	}
+]

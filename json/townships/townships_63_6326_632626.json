@@ -1,0 +1,34 @@
+[
+	{
+		"code":"632626100",
+		"fullCode":"632626100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"玛查理镇",
+		"parentCode":"632626"
+	},
+	{
+		"code":"632626101",
+		"fullCode":"632626101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"花石峡镇",
+		"parentCode":"632626"
+	},
+	{
+		"code":"632626200",
+		"fullCode":"632626200000",
+		"level":3,
+		"levelName":"乡",
+		"name":"黄河乡",
+		"parentCode":"632626"
+	},
+	{
+		"code":"632626201",
+		"fullCode":"632626201000",
+		"level":3,
+		"levelName":"乡",
+		"name":"扎陵湖乡",
+		"parentCode":"632626"
+	}
+]

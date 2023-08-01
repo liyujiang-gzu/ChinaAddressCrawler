@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220402070001",
+		"fullCode":"220402070001",
+		"level":4,
+		"levelName":"村",
+		"name":"兴阳社区",
+		"parentCode":"2204"
+	},
+	{
+		"code":"220402070300",
+		"fullCode":"220402070300",
+		"level":4,
+		"levelName":"村",
+		"name":"友谊村",
+		"parentCode":"2204"
+	},
+	{
+		"code":"220402070303",
+		"fullCode":"220402070303",
+		"level":4,
+		"levelName":"村",
+		"name":"兴国村",
+		"parentCode":"2204"
+	}
+]

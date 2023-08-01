@@ -1,0 +1,34 @@
+[
+	{
+		"code":"222401400500",
+		"fullCode":"222401400500",
+		"level":4,
+		"levelName":"村",
+		"name":"依兰林场生活区",
+		"parentCode":"2224"
+	},
+	{
+		"code":"222401400501",
+		"fullCode":"222401400501",
+		"level":4,
+		"levelName":"村",
+		"name":"烟集造林场生活区",
+		"parentCode":"2224"
+	},
+	{
+		"code":"222401400502",
+		"fullCode":"222401400502",
+		"level":4,
+		"levelName":"村",
+		"name":"帽儿山林场生活区",
+		"parentCode":"2224"
+	},
+	{
+		"code":"222401400503",
+		"fullCode":"222401400503",
+		"level":4,
+		"levelName":"村",
+		"name":"八道林场生活区",
+		"parentCode":"2224"
+	}
+]

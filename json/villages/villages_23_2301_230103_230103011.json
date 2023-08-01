@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230103011006",
+		"fullCode":"230103011006",
+		"level":4,
+		"levelName":"村",
+		"name":"春明社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230103011007",
+		"fullCode":"230103011007",
+		"level":4,
+		"levelName":"村",
+		"name":"贵新社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230103011009",
+		"fullCode":"230103011009",
+		"level":4,
+		"levelName":"村",
+		"name":"铁瓦社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230103011010",
+		"fullCode":"230103011010",
+		"level":4,
+		"levelName":"村",
+		"name":"农行社区",
+		"parentCode":"2301"
+	}
+]

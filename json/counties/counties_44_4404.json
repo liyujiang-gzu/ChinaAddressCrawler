@@ -1,0 +1,26 @@
+[
+	{
+		"code":"440402",
+		"fullCode":"440402000000",
+		"level":2,
+		"levelName":"县",
+		"name":"香洲区",
+		"parentCode":"4404"
+	},
+	{
+		"code":"440403",
+		"fullCode":"440403000000",
+		"level":2,
+		"levelName":"县",
+		"name":"斗门区",
+		"parentCode":"4404"
+	},
+	{
+		"code":"440404",
+		"fullCode":"440404000000",
+		"level":2,
+		"levelName":"县",
+		"name":"金湾区",
+		"parentCode":"4404"
+	}
+]

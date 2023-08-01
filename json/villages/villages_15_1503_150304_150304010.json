@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150304010011",
+		"fullCode":"150304010011",
+		"level":4,
+		"levelName":"村",
+		"name":"永昌佳苑社区",
+		"parentCode":"1503"
+	},
+	{
+		"code":"150304010012",
+		"fullCode":"150304010012",
+		"level":4,
+		"levelName":"村",
+		"name":"安居佳苑社区",
+		"parentCode":"1503"
+	},
+	{
+		"code":"150304010013",
+		"fullCode":"150304010013",
+		"level":4,
+		"levelName":"村",
+		"name":"民达社区",
+		"parentCode":"1503"
+	}
+]

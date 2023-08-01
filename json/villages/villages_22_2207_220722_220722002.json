@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220722002001",
+		"fullCode":"220722002001",
+		"level":4,
+		"levelName":"村",
+		"name":"岭南路社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220722002002",
+		"fullCode":"220722002002",
+		"level":4,
+		"levelName":"村",
+		"name":"岭城路社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220722002003",
+		"fullCode":"220722002003",
+		"level":4,
+		"levelName":"村",
+		"name":"永治街社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220722002200",
+		"fullCode":"220722002200",
+		"level":4,
+		"levelName":"村",
+		"name":"南门外",
+		"parentCode":"2207"
+	}
+]

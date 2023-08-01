@@ -1,0 +1,34 @@
+[
+	{
+		"code":"131025400201",
+		"fullCode":"131025400201",
+		"level":4,
+		"levelName":"村",
+		"name":"阜草",
+		"parentCode":"1310"
+	},
+	{
+		"code":"131025400202",
+		"fullCode":"131025400202",
+		"level":4,
+		"levelName":"村",
+		"name":"傅庄",
+		"parentCode":"1310"
+	},
+	{
+		"code":"131025400203",
+		"fullCode":"131025400203",
+		"level":4,
+		"levelName":"村",
+		"name":"东阜",
+		"parentCode":"1310"
+	},
+	{
+		"code":"131025400204",
+		"fullCode":"131025400204",
+		"level":4,
+		"levelName":"村",
+		"name":"黄得务",
+		"parentCode":"1310"
+	}
+]

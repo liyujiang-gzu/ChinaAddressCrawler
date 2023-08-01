@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220781003001",
+		"fullCode":"220781003001",
+		"level":4,
+		"levelName":"村",
+		"name":"联盟社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220781003002",
+		"fullCode":"220781003002",
+		"level":4,
+		"levelName":"村",
+		"name":"西南街社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220781003200",
+		"fullCode":"220781003200",
+		"level":4,
+		"levelName":"村",
+		"name":"十四号",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220781003201",
+		"fullCode":"220781003201",
+		"level":4,
+		"levelName":"村",
+		"name":"高家",
+		"parentCode":"2207"
+	}
+]

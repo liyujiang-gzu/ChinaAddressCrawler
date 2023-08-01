@@ -1,0 +1,34 @@
+[
+	{
+		"code":"140929204200",
+		"fullCode":"140929204200",
+		"level":4,
+		"levelName":"村",
+		"name":"前西豹峪",
+		"parentCode":"1409"
+	},
+	{
+		"code":"140929204207",
+		"fullCode":"140929204207",
+		"level":4,
+		"levelName":"村",
+		"name":"甘钦",
+		"parentCode":"1409"
+	},
+	{
+		"code":"140929204208",
+		"fullCode":"140929204208",
+		"level":4,
+		"levelName":"村",
+		"name":"马家河",
+		"parentCode":"1409"
+	},
+	{
+		"code":"140929204210",
+		"fullCode":"140929204210",
+		"level":4,
+		"levelName":"村",
+		"name":"豹峪沟",
+		"parentCode":"1409"
+	}
+]

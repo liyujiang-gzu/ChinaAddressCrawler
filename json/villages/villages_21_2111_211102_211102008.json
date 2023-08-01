@@ -1,0 +1,34 @@
+[
+	{
+		"code":"211102008001",
+		"fullCode":"211102008001",
+		"level":4,
+		"levelName":"村",
+		"name":"河闸社区",
+		"parentCode":"2111"
+	},
+	{
+		"code":"211102008002",
+		"fullCode":"211102008002",
+		"level":4,
+		"levelName":"村",
+		"name":"前锋社区",
+		"parentCode":"2111"
+	},
+	{
+		"code":"211102008006",
+		"fullCode":"211102008006",
+		"level":4,
+		"levelName":"村",
+		"name":"新府社区",
+		"parentCode":"2111"
+	},
+	{
+		"code":"211102008200",
+		"fullCode":"211102008200",
+		"level":4,
+		"levelName":"村",
+		"name":"高家",
+		"parentCode":"2111"
+	}
+]

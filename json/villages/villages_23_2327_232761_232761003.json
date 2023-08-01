@@ -1,0 +1,26 @@
+[
+	{
+		"code":"232761003001",
+		"fullCode":"232761003001",
+		"level":4,
+		"levelName":"村",
+		"name":"安悦",
+		"parentCode":"2327"
+	},
+	{
+		"code":"232761003002",
+		"fullCode":"232761003002",
+		"level":4,
+		"levelName":"村",
+		"name":"阳光",
+		"parentCode":"2327"
+	},
+	{
+		"code":"232761003003",
+		"fullCode":"232761003003",
+		"level":4,
+		"levelName":"村",
+		"name":"青松苑",
+		"parentCode":"2327"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230303002009",
+		"fullCode":"230303002009",
+		"level":4,
+		"levelName":"村",
+		"name":"高锋社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230303002010",
+		"fullCode":"230303002010",
+		"level":4,
+		"levelName":"村",
+		"name":"优胜社区",
+		"parentCode":"2303"
+	}
+]

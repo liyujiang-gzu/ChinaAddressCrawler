@@ -1,0 +1,18 @@
+[
+	{
+		"code":"231102003001",
+		"fullCode":"231102003001",
+		"level":4,
+		"levelName":"村",
+		"name":"鹿源春社区",
+		"parentCode":"2311"
+	},
+	{
+		"code":"231102003002",
+		"fullCode":"231102003002",
+		"level":4,
+		"levelName":"村",
+		"name":"温馨社区",
+		"parentCode":"2311"
+	}
+]

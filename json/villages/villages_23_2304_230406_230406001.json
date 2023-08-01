@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230406001001",
+		"fullCode":"230406001001",
+		"level":4,
+		"levelName":"村",
+		"name":"益新社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230406001002",
+		"fullCode":"230406001002",
+		"level":4,
+		"levelName":"村",
+		"name":"大杨树社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230406001006",
+		"fullCode":"230406001006",
+		"level":4,
+		"levelName":"村",
+		"name":"鹤新社区",
+		"parentCode":"2304"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130273001",
+		"fullCode":"130273001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"街道",
+		"parentCode":"130273"
+	},
+	{
+		"code":"130273101",
+		"fullCode":"130273101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"老庄子镇",
+		"parentCode":"130273"
+	},
+	{
+		"code":"130273401",
+		"fullCode":"130273401000",
+		"level":3,
+		"levelName":"乡",
+		"name":"庆北办事处",
+		"parentCode":"130273"
+	},
+	{
+		"code":"130273402",
+		"fullCode":"130273402000",
+		"level":3,
+		"levelName":"乡",
+		"name":"三女河办事处",
+		"parentCode":"130273"
+	}
+]

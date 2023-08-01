@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230921003001",
+		"fullCode":"230921003001",
+		"level":4,
+		"levelName":"村",
+		"name":"镇安社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230921003002",
+		"fullCode":"230921003002",
+		"level":4,
+		"levelName":"村",
+		"name":"康华社区",
+		"parentCode":"2309"
+	}
+]

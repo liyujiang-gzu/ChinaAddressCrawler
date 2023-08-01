@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150783006001",
+		"fullCode":"150783006001",
+		"level":4,
+		"levelName":"村",
+		"name":"五里",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150783006002",
+		"fullCode":"150783006002",
+		"level":4,
+		"levelName":"村",
+		"name":"天拜山",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150783006200",
+		"fullCode":"150783006200",
+		"level":4,
+		"levelName":"村",
+		"name":"铁东村",
+		"parentCode":"1507"
+	}
+]

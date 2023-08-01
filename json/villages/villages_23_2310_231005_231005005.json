@@ -1,0 +1,34 @@
+[
+	{
+		"code":"231005005001",
+		"fullCode":"231005005001",
+		"level":4,
+		"levelName":"村",
+		"name":"江滨社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231005005002",
+		"fullCode":"231005005002",
+		"level":4,
+		"levelName":"村",
+		"name":"新立社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231005005003",
+		"fullCode":"231005005003",
+		"level":4,
+		"levelName":"村",
+		"name":"大安社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231005005004",
+		"fullCode":"231005005004",
+		"level":4,
+		"levelName":"村",
+		"name":"滨江社区",
+		"parentCode":"2310"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"code":"220882002001",
+		"fullCode":"220882002001",
+		"level":4,
+		"levelName":"村",
+		"name":"永兴社区",
+		"parentCode":"2208"
+	},
+	{
+		"code":"220882002002",
+		"fullCode":"220882002002",
+		"level":4,
+		"levelName":"村",
+		"name":"人和社区",
+		"parentCode":"2208"
+	}
+]

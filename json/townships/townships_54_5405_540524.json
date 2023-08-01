@@ -1,0 +1,34 @@
+[
+	{
+		"code":"540524100",
+		"fullCode":"540524100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"琼结镇",
+		"parentCode":"540524"
+	},
+	{
+		"code":"540524200",
+		"fullCode":"540524200000",
+		"level":3,
+		"levelName":"乡",
+		"name":"加麻乡",
+		"parentCode":"540524"
+	},
+	{
+		"code":"540524201",
+		"fullCode":"540524201000",
+		"level":3,
+		"levelName":"乡",
+		"name":"下水乡",
+		"parentCode":"540524"
+	},
+	{
+		"code":"540524202",
+		"fullCode":"540524202000",
+		"level":3,
+		"levelName":"乡",
+		"name":"拉玉乡",
+		"parentCode":"540524"
+	}
+]

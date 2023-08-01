@@ -1,0 +1,26 @@
+[
+	{
+		"code":"411472009",
+		"fullCode":"411472009000",
+		"level":3,
+		"levelName":"乡",
+		"name":"平台街道",
+		"parentCode":"411472"
+	},
+	{
+		"code":"411472010",
+		"fullCode":"411472010000",
+		"level":3,
+		"levelName":"乡",
+		"name":"平安街道",
+		"parentCode":"411472"
+	},
+	{
+		"code":"411472200",
+		"fullCode":"411472200000",
+		"level":3,
+		"levelName":"乡",
+		"name":"周集乡",
+		"parentCode":"411472"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"130828224201",
+		"fullCode":"130828224201",
+		"level":4,
+		"levelName":"村",
+		"name":"上窝铺",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130828224202",
+		"fullCode":"130828224202",
+		"level":4,
+		"levelName":"村",
+		"name":"下窝铺",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130828224203",
+		"fullCode":"130828224203",
+		"level":4,
+		"levelName":"村",
+		"name":"石人梁",
+		"parentCode":"1308"
+	}
+]

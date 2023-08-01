@@ -1,0 +1,34 @@
+[
+	{
+		"code":"620923100",
+		"fullCode":"620923100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"党城湾镇",
+		"parentCode":"620923"
+	},
+	{
+		"code":"620923101",
+		"fullCode":"620923101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"马鬃山镇",
+		"parentCode":"620923"
+	},
+	{
+		"code":"620923201",
+		"fullCode":"620923201000",
+		"level":3,
+		"levelName":"乡",
+		"name":"盐池湾乡",
+		"parentCode":"620923"
+	},
+	{
+		"code":"620923202",
+		"fullCode":"620923202000",
+		"level":3,
+		"levelName":"乡",
+		"name":"石包城乡",
+		"parentCode":"620923"
+	}
+]

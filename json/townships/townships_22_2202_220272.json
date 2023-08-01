@@ -1,0 +1,18 @@
+[
+	{
+		"code":"220272001",
+		"fullCode":"220272001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"高新街道",
+		"parentCode":"220272"
+	},
+	{
+		"code":"220272002",
+		"fullCode":"220272002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"新北街道",
+		"parentCode":"220272"
+	}
+]

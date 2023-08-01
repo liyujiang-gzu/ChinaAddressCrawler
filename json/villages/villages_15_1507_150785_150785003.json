@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150785003001",
+		"fullCode":"150785003001",
+		"level":4,
+		"levelName":"村",
+		"name":"红旗",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150785003002",
+		"fullCode":"150785003002",
+		"level":4,
+		"levelName":"村",
+		"name":"林电",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150785003004",
+		"fullCode":"150785003004",
+		"level":4,
+		"levelName":"村",
+		"name":"新兴",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150785003006",
+		"fullCode":"150785003006",
+		"level":4,
+		"levelName":"村",
+		"name":"沿山",
+		"parentCode":"1507"
+	}
+]

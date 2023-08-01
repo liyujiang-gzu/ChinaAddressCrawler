@@ -1,0 +1,18 @@
+[
+	{
+		"code":"231181005001",
+		"fullCode":"231181005001",
+		"level":4,
+		"levelName":"村",
+		"name":"海圣社区",
+		"parentCode":"2311"
+	},
+	{
+		"code":"231181005002",
+		"fullCode":"231181005002",
+		"level":4,
+		"levelName":"村",
+		"name":"冠安社区",
+		"parentCode":"2311"
+	}
+]

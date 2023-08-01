@@ -1,0 +1,34 @@
+[
+	{
+		"code":"210922108200",
+		"fullCode":"210922108200",
+		"level":4,
+		"levelName":"村",
+		"name":"福兴地",
+		"parentCode":"2109"
+	},
+	{
+		"code":"210922108201",
+		"fullCode":"210922108201",
+		"level":4,
+		"levelName":"村",
+		"name":"大沙力土",
+		"parentCode":"2109"
+	},
+	{
+		"code":"210922108202",
+		"fullCode":"210922108202",
+		"level":4,
+		"levelName":"村",
+		"name":"徐家",
+		"parentCode":"2109"
+	},
+	{
+		"code":"210922108204",
+		"fullCode":"210922108204",
+		"level":4,
+		"levelName":"村",
+		"name":"六合堂",
+		"parentCode":"2109"
+	}
+]

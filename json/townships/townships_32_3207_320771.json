@@ -1,0 +1,34 @@
+[
+	{
+		"code":"320771001",
+		"fullCode":"320771001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"中云街道",
+		"parentCode":"320771"
+	},
+	{
+		"code":"320771002",
+		"fullCode":"320771002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"猴嘴街道",
+		"parentCode":"320771"
+	},
+	{
+		"code":"320771003",
+		"fullCode":"320771003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"朝阳街道",
+		"parentCode":"320771"
+	},
+	{
+		"code":"320771450",
+		"fullCode":"320771450000",
+		"level":3,
+		"levelName":"乡",
+		"name":"青口盐场",
+		"parentCode":"320771"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150302",
+		"fullCode":"150302000000",
+		"level":2,
+		"levelName":"县",
+		"name":"海勃湾区",
+		"parentCode":"1503"
+	},
+	{
+		"code":"150303",
+		"fullCode":"150303000000",
+		"level":2,
+		"levelName":"县",
+		"name":"海南区",
+		"parentCode":"1503"
+	},
+	{
+		"code":"150304",
+		"fullCode":"150304000000",
+		"level":2,
+		"levelName":"县",
+		"name":"乌达区",
+		"parentCode":"1503"
+	}
+]

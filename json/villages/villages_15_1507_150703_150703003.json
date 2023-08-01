@@ -1,0 +1,18 @@
+[
+	{
+		"code":"150703003001",
+		"fullCode":"150703003001",
+		"level":4,
+		"levelName":"村",
+		"name":"东风社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150703003002",
+		"fullCode":"150703003002",
+		"level":4,
+		"levelName":"村",
+		"name":"新华社区",
+		"parentCode":"1507"
+	}
+]

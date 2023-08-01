@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130802007001",
+		"fullCode":"130802007001",
+		"level":4,
+		"levelName":"村",
+		"name":"东园林街道",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130802007008",
+		"fullCode":"130802007008",
+		"level":4,
+		"levelName":"村",
+		"name":"会龙山社区",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130802007009",
+		"fullCode":"130802007009",
+		"level":4,
+		"levelName":"村",
+		"name":"老居宅街道",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130802007011",
+		"fullCode":"130802007011",
+		"level":4,
+		"levelName":"村",
+		"name":"世纪城社区",
+		"parentCode":"1308"
+	}
+]

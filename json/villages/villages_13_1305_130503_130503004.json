@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130503004020",
+		"fullCode":"130503004020",
+		"level":4,
+		"levelName":"村",
+		"name":"锦江社区",
+		"parentCode":"1305"
+	},
+	{
+		"code":"130503004021",
+		"fullCode":"130503004021",
+		"level":4,
+		"levelName":"村",
+		"name":"湡阳社区",
+		"parentCode":"1305"
+	},
+	{
+		"code":"130503004214",
+		"fullCode":"130503004214",
+		"level":4,
+		"levelName":"村",
+		"name":"东马庄村",
+		"parentCode":"1305"
+	},
+	{
+		"code":"130503004215",
+		"fullCode":"130503004215",
+		"level":4,
+		"levelName":"村",
+		"name":"西马庄村",
+		"parentCode":"1305"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230624500402",
+		"fullCode":"230624500402",
+		"level":4,
+		"levelName":"村",
+		"name":"绿色草原场直社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230624500501",
+		"fullCode":"230624500501",
+		"level":4,
+		"levelName":"村",
+		"name":"绿色草原牧场第一管理区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230624500502",
+		"fullCode":"230624500502",
+		"level":4,
+		"levelName":"村",
+		"name":"绿色草原牧场第二管理区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230624500503",
+		"fullCode":"230624500503",
+		"level":4,
+		"levelName":"村",
+		"name":"绿色草原牧场第三管理区",
+		"parentCode":"2306"
+	}
+]

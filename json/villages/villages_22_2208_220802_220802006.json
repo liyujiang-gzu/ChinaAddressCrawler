@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220802006001",
+		"fullCode":"220802006001",
+		"level":4,
+		"levelName":"村",
+		"name":"草原社区",
+		"parentCode":"2208"
+	},
+	{
+		"code":"220802006002",
+		"fullCode":"220802006002",
+		"level":4,
+		"levelName":"村",
+		"name":"兴盛社区",
+		"parentCode":"2208"
+	},
+	{
+		"code":"220802006003",
+		"fullCode":"220802006003",
+		"level":4,
+		"levelName":"村",
+		"name":"顺达社区",
+		"parentCode":"2208"
+	},
+	{
+		"code":"220802006004",
+		"fullCode":"220802006004",
+		"level":4,
+		"levelName":"村",
+		"name":"东兴社区",
+		"parentCode":"2208"
+	}
+]

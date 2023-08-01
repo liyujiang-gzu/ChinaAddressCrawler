@@ -1,0 +1,26 @@
+[
+	{
+		"code":"130304002001",
+		"fullCode":"130304002001",
+		"level":4,
+		"levelName":"村",
+		"name":"育花路社区",
+		"parentCode":"1303"
+	},
+	{
+		"code":"130304002004",
+		"fullCode":"130304002004",
+		"level":4,
+		"levelName":"村",
+		"name":"东山社区",
+		"parentCode":"1303"
+	},
+	{
+		"code":"130304002005",
+		"fullCode":"130304002005",
+		"level":4,
+		"levelName":"村",
+		"name":"东经路社区",
+		"parentCode":"1303"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"152921404001",
+		"fullCode":"152921404001",
+		"level":4,
+		"levelName":"村",
+		"name":"健康花园社区",
+		"parentCode":"1529"
+	},
+	{
+		"code":"152921404002",
+		"fullCode":"152921404002",
+		"level":4,
+		"levelName":"村",
+		"name":"南梁街社区",
+		"parentCode":"1529"
+	},
+	{
+		"code":"152921404003",
+		"fullCode":"152921404003",
+		"level":4,
+		"levelName":"村",
+		"name":"呼德社区",
+		"parentCode":"1529"
+	},
+	{
+		"code":"152921404004",
+		"fullCode":"152921404004",
+		"level":4,
+		"levelName":"村",
+		"name":"民族街社区",
+		"parentCode":"1529"
+	}
+]

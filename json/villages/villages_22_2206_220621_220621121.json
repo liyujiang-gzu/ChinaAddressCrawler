@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220621121100",
+		"fullCode":"220621121100",
+		"level":4,
+		"levelName":"村",
+		"name":"漫江社区",
+		"parentCode":"2206"
+	},
+	{
+		"code":"220621121101",
+		"fullCode":"220621121101",
+		"level":4,
+		"levelName":"村",
+		"name":"锦江社区",
+		"parentCode":"2206"
+	},
+	{
+		"code":"220621121300",
+		"fullCode":"220621121300",
+		"level":4,
+		"levelName":"村",
+		"name":"漫江村（部分）",
+		"parentCode":"2206"
+	}
+]

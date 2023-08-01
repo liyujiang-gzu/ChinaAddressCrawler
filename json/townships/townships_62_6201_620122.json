@@ -1,0 +1,34 @@
+[
+	{
+		"code":"620122100",
+		"fullCode":"620122100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"石洞镇",
+		"parentCode":"620122"
+	},
+	{
+		"code":"620122103",
+		"fullCode":"620122103000",
+		"level":3,
+		"levelName":"乡",
+		"name":"什川镇",
+		"parentCode":"620122"
+	},
+	{
+		"code":"620122105",
+		"fullCode":"620122105000",
+		"level":3,
+		"levelName":"乡",
+		"name":"水阜镇",
+		"parentCode":"620122"
+	},
+	{
+		"code":"620122106",
+		"fullCode":"620122106000",
+		"level":3,
+		"levelName":"乡",
+		"name":"黑石镇",
+		"parentCode":"620122"
+	}
+]

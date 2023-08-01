@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230624206201",
+		"fullCode":"230624206201",
+		"level":4,
+		"levelName":"村",
+		"name":"九扇门",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230624206202",
+		"fullCode":"230624206202",
+		"level":4,
+		"levelName":"村",
+		"name":"江湾村",
+		"parentCode":"2306"
+	}
+]

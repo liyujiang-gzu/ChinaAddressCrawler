@@ -1,0 +1,18 @@
+[
+	{
+		"code":"220882005002",
+		"fullCode":"220882005002",
+		"level":4,
+		"levelName":"村",
+		"name":"老坎子社区",
+		"parentCode":"2208"
+	},
+	{
+		"code":"220882005003",
+		"fullCode":"220882005003",
+		"level":4,
+		"levelName":"村",
+		"name":"安铁社区",
+		"parentCode":"2208"
+	}
+]

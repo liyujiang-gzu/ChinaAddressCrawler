@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150581004001",
+		"fullCode":"150581004001",
+		"level":4,
+		"levelName":"村",
+		"name":"南苑社区",
+		"parentCode":"1505"
+	},
+	{
+		"code":"150581004002",
+		"fullCode":"150581004002",
+		"level":4,
+		"levelName":"村",
+		"name":"准特花社区",
+		"parentCode":"1505"
+	},
+	{
+		"code":"150581004003",
+		"fullCode":"150581004003",
+		"level":4,
+		"levelName":"村",
+		"name":"沙尔敖包社区",
+		"parentCode":"1505"
+	}
+]

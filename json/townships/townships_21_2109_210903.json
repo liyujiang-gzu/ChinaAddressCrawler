@@ -1,0 +1,26 @@
+[
+	{
+		"code":"210903005",
+		"fullCode":"210903005000",
+		"level":3,
+		"levelName":"乡",
+		"name":"街基街道",
+		"parentCode":"210903"
+	},
+	{
+		"code":"210903006",
+		"fullCode":"210903006000",
+		"level":3,
+		"levelName":"乡",
+		"name":"新发屯街道",
+		"parentCode":"210903"
+	},
+	{
+		"code":"210903101",
+		"fullCode":"210903101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"长营子镇",
+		"parentCode":"210903"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150603003001",
+		"fullCode":"150603003001",
+		"level":4,
+		"levelName":"村",
+		"name":"康城社区",
+		"parentCode":"1506"
+	},
+	{
+		"code":"150603003002",
+		"fullCode":"150603003002",
+		"level":4,
+		"levelName":"村",
+		"name":"兴旺社区",
+		"parentCode":"1506"
+	},
+	{
+		"code":"150603003003",
+		"fullCode":"150603003003",
+		"level":4,
+		"levelName":"村",
+		"name":"宁馨社区",
+		"parentCode":"1506"
+	},
+	{
+		"code":"150603003004",
+		"fullCode":"150603003004",
+		"level":4,
+		"levelName":"村",
+		"name":"呼和塔拉社区",
+		"parentCode":"1506"
+	}
+]

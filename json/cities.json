@@ -1,1478 +1,2738 @@
 [
-  {
-    "Name": "北京市",
-    "Province": "北京市"
-  },
-  {
-    "Name": "天津市",
-    "Province": "天津市"
-  },
-  {
-    "Name": "石家庄市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "唐山市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "秦皇岛市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "邯郸市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "邢台市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "保定市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "张家口市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "承德市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "沧州市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "廊坊市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "衡水市",
-    "Province": "河北省"
-  },
-  {
-    "Name": "太原市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "大同市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "阳泉市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "长治市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "晋城市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "朔州市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "晋中市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "运城市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "忻州市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "临汾市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "吕梁市",
-    "Province": "山西省"
-  },
-  {
-    "Name": "呼和浩特市",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "包头市",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "乌海市",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "赤峰市",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "通辽市",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "鄂尔多斯市",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "呼伦贝尔市",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "巴彦淖尔市",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "乌兰察布市",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "兴安盟",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "锡林郭勒盟",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "阿拉善盟",
-    "Province": "内蒙古自治区"
-  },
-  {
-    "Name": "沈阳市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "大连市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "鞍山市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "抚顺市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "本溪市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "丹东市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "锦州市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "营口市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "阜新市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "辽阳市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "盘锦市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "铁岭市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "朝阳市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "葫芦岛市",
-    "Province": "辽宁省"
-  },
-  {
-    "Name": "长春市",
-    "Province": "吉林省"
-  },
-  {
-    "Name": "吉林市",
-    "Province": "吉林省"
-  },
-  {
-    "Name": "四平市",
-    "Province": "吉林省"
-  },
-  {
-    "Name": "辽源市",
-    "Province": "吉林省"
-  },
-  {
-    "Name": "通化市",
-    "Province": "吉林省"
-  },
-  {
-    "Name": "白山市",
-    "Province": "吉林省"
-  },
-  {
-    "Name": "松原市",
-    "Province": "吉林省"
-  },
-  {
-    "Name": "白城市",
-    "Province": "吉林省"
-  },
-  {
-    "Name": "延边朝鲜族自治州",
-    "Province": "吉林省"
-  },
-  {
-    "Name": "哈尔滨市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "齐齐哈尔市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "鸡西市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "鹤岗市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "双鸭山市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "大庆市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "伊春市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "佳木斯市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "七台河市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "牡丹江市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "黑河市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "绥化市",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "大兴安岭地区",
-    "Province": "黑龙江省"
-  },
-  {
-    "Name": "上海市",
-    "Province": "上海市"
-  },
-  {
-    "Name": "南京市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "无锡市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "徐州市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "常州市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "苏州市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "南通市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "连云港市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "淮安市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "盐城市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "扬州市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "镇江市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "泰州市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "宿迁市",
-    "Province": "江苏省"
-  },
-  {
-    "Name": "杭州市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "宁波市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "温州市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "嘉兴市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "湖州市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "绍兴市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "金华市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "衢州市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "舟山市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "台州市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "丽水市",
-    "Province": "浙江省"
-  },
-  {
-    "Name": "合肥市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "芜湖市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "蚌埠市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "淮南市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "马鞍山市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "淮北市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "铜陵市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "安庆市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "黄山市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "滁州市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "阜阳市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "宿州市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "六安市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "亳州市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "池州市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "宣城市",
-    "Province": "安徽省"
-  },
-  {
-    "Name": "福州市",
-    "Province": "福建省"
-  },
-  {
-    "Name": "厦门市",
-    "Province": "福建省"
-  },
-  {
-    "Name": "莆田市",
-    "Province": "福建省"
-  },
-  {
-    "Name": "三明市",
-    "Province": "福建省"
-  },
-  {
-    "Name": "泉州市",
-    "Province": "福建省"
-  },
-  {
-    "Name": "漳州市",
-    "Province": "福建省"
-  },
-  {
-    "Name": "南平市",
-    "Province": "福建省"
-  },
-  {
-    "Name": "龙岩市",
-    "Province": "福建省"
-  },
-  {
-    "Name": "宁德市",
-    "Province": "福建省"
-  },
-  {
-    "Name": "南昌市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "景德镇市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "萍乡市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "九江市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "新余市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "鹰潭市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "赣州市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "吉安市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "宜春市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "抚州市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "上饶市",
-    "Province": "江西省"
-  },
-  {
-    "Name": "济南市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "青岛市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "淄博市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "枣庄市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "东营市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "烟台市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "潍坊市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "济宁市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "泰安市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "威海市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "日照市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "临沂市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "德州市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "聊城市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "滨州市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "菏泽市",
-    "Province": "山东省"
-  },
-  {
-    "Name": "郑州市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "开封市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "洛阳市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "平顶山市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "安阳市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "鹤壁市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "新乡市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "焦作市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "濮阳市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "许昌市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "漯河市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "三门峡市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "南阳市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "商丘市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "信阳市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "周口市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "驻马店市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "济源市",
-    "Province": "河南省"
-  },
-  {
-    "Name": "武汉市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "黄石市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "十堰市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "宜昌市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "襄阳市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "鄂州市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "荆门市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "孝感市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "荆州市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "黄冈市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "咸宁市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "随州市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "恩施土家族苗族自治州",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "仙桃市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "潜江市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "天门市",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "神农架林区",
-    "Province": "湖北省"
-  },
-  {
-    "Name": "长沙市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "株洲市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "湘潭市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "衡阳市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "邵阳市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "岳阳市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "常德市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "张家界市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "益阳市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "郴州市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "永州市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "怀化市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "娄底市",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "湘西土家族苗族自治州",
-    "Province": "湖南省"
-  },
-  {
-    "Name": "广州市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "韶关市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "深圳市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "珠海市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "汕头市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "佛山市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "江门市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "湛江市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "茂名市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "肇庆市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "惠州市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "梅州市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "汕尾市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "河源市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "阳江市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "清远市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "东莞市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "中山市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "潮州市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "揭阳市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "云浮市",
-    "Province": "广东省"
-  },
-  {
-    "Name": "南宁市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "柳州市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "桂林市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "梧州市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "北海市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "防城港市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "钦州市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "贵港市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "玉林市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "百色市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "贺州市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "河池市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "来宾市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "崇左市",
-    "Province": "广西壮族自治区"
-  },
-  {
-    "Name": "海口市",
-    "Province": "海南省"
-  },
-  {
-    "Name": "三亚市",
-    "Province": "海南省"
-  },
-  {
-    "Name": "三沙市",
-    "Province": "海南省"
-  },
-  {
-    "Name": "儋州市",
-    "Province": "海南省"
-  },
-  {
-    "Name": "五指山市",
-    "Province": "海南省"
-  },
-  {
-    "Name": "琼海市",
-    "Province": "海南省"
-  },
-  {
-    "Name": "文昌市",
-    "Province": "海南省"
-  },
-  {
-    "Name": "万宁市",
-    "Province": "海南省"
-  },
-  {
-    "Name": "东方市",
-    "Province": "海南省"
-  },
-  {
-    "Name": "定安县",
-    "Province": "海南省"
-  },
-  {
-    "Name": "屯昌县",
-    "Province": "海南省"
-  },
-  {
-    "Name": "澄迈县",
-    "Province": "海南省"
-  },
-  {
-    "Name": "临高县",
-    "Province": "海南省"
-  },
-  {
-    "Name": "白沙黎族自治县",
-    "Province": "海南省"
-  },
-  {
-    "Name": "昌江黎族自治县",
-    "Province": "海南省"
-  },
-  {
-    "Name": "乐东黎族自治县",
-    "Province": "海南省"
-  },
-  {
-    "Name": "陵水黎族自治县",
-    "Province": "海南省"
-  },
-  {
-    "Name": "保亭黎族苗族自治县",
-    "Province": "海南省"
-  },
-  {
-    "Name": "琼中黎族苗族自治县",
-    "Province": "海南省"
-  },
-  {
-    "Name": "重庆城区",
-    "Province": "重庆市"
-  },
-  {
-    "Name": "重庆郊县",
-    "Province": "重庆市"
-  },
-  {
-    "Name": "成都市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "自贡市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "攀枝花市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "泸州市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "德阳市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "绵阳市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "广元市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "遂宁市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "内江市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "乐山市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "南充市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "眉山市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "宜宾市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "广安市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "达州市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "雅安市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "巴中市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "资阳市",
-    "Province": "四川省"
-  },
-  {
-    "Name": "阿坝藏族羌族自治州",
-    "Province": "四川省"
-  },
-  {
-    "Name": "甘孜藏族自治州",
-    "Province": "四川省"
-  },
-  {
-    "Name": "凉山彝族自治州",
-    "Province": "四川省"
-  },
-  {
-    "Name": "贵阳市",
-    "Province": "贵州省"
-  },
-  {
-    "Name": "六盘水市",
-    "Province": "贵州省"
-  },
-  {
-    "Name": "遵义市",
-    "Province": "贵州省"
-  },
-  {
-    "Name": "安顺市",
-    "Province": "贵州省"
-  },
-  {
-    "Name": "毕节市",
-    "Province": "贵州省"
-  },
-  {
-    "Name": "铜仁市",
-    "Province": "贵州省"
-  },
-  {
-    "Name": "黔西南布依族苗族自治州",
-    "Province": "贵州省"
-  },
-  {
-    "Name": "黔东南苗族侗族自治州",
-    "Province": "贵州省"
-  },
-  {
-    "Name": "黔南布依族苗族自治州",
-    "Province": "贵州省"
-  },
-  {
-    "Name": "昆明市",
-    "Province": "云南省"
-  },
-  {
-    "Name": "曲靖市",
-    "Province": "云南省"
-  },
-  {
-    "Name": "玉溪市",
-    "Province": "云南省"
-  },
-  {
-    "Name": "保山市",
-    "Province": "云南省"
-  },
-  {
-    "Name": "昭通市",
-    "Province": "云南省"
-  },
-  {
-    "Name": "丽江市",
-    "Province": "云南省"
-  },
-  {
-    "Name": "普洱市",
-    "Province": "云南省"
-  },
-  {
-    "Name": "临沧市",
-    "Province": "云南省"
-  },
-  {
-    "Name": "楚雄彝族自治州",
-    "Province": "云南省"
-  },
-  {
-    "Name": "红河哈尼族彝族自治州",
-    "Province": "云南省"
-  },
-  {
-    "Name": "文山壮族苗族自治州",
-    "Province": "云南省"
-  },
-  {
-    "Name": "西双版纳傣族自治州",
-    "Province": "云南省"
-  },
-  {
-    "Name": "大理白族自治州",
-    "Province": "云南省"
-  },
-  {
-    "Name": "德宏傣族景颇族自治州",
-    "Province": "云南省"
-  },
-  {
-    "Name": "怒江傈僳族自治州",
-    "Province": "云南省"
-  },
-  {
-    "Name": "迪庆藏族自治州",
-    "Province": "云南省"
-  },
-  {
-    "Name": "拉萨市",
-    "Province": "西藏自治区"
-  },
-  {
-    "Name": "日喀则市",
-    "Province": "西藏自治区"
-  },
-  {
-    "Name": "昌都市",
-    "Province": "西藏自治区"
-  },
-  {
-    "Name": "林芝市",
-    "Province": "西藏自治区"
-  },
-  {
-    "Name": "山南市",
-    "Province": "西藏自治区"
-  },
-  {
-    "Name": "那曲市",
-    "Province": "西藏自治区"
-  },
-  {
-    "Name": "阿里地区",
-    "Province": "西藏自治区"
-  },
-  {
-    "Name": "西安市",
-    "Province": "陕西省"
-  },
-  {
-    "Name": "铜川市",
-    "Province": "陕西省"
-  },
-  {
-    "Name": "宝鸡市",
-    "Province": "陕西省"
-  },
-  {
-    "Name": "咸阳市",
-    "Province": "陕西省"
-  },
-  {
-    "Name": "渭南市",
-    "Province": "陕西省"
-  },
-  {
-    "Name": "延安市",
-    "Province": "陕西省"
-  },
-  {
-    "Name": "汉中市",
-    "Province": "陕西省"
-  },
-  {
-    "Name": "榆林市",
-    "Province": "陕西省"
-  },
-  {
-    "Name": "安康市",
-    "Province": "陕西省"
-  },
-  {
-    "Name": "商洛市",
-    "Province": "陕西省"
-  },
-  {
-    "Name": "兰州市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "嘉峪关市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "金昌市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "白银市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "天水市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "武威市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "张掖市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "平凉市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "酒泉市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "庆阳市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "定西市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "陇南市",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "临夏回族自治州",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "甘南藏族自治州",
-    "Province": "甘肃省"
-  },
-  {
-    "Name": "西宁市",
-    "Province": "青海省"
-  },
-  {
-    "Name": "海东市",
-    "Province": "青海省"
-  },
-  {
-    "Name": "海北藏族自治州",
-    "Province": "青海省"
-  },
-  {
-    "Name": "黄南藏族自治州",
-    "Province": "青海省"
-  },
-  {
-    "Name": "海南藏族自治州",
-    "Province": "青海省"
-  },
-  {
-    "Name": "果洛藏族自治州",
-    "Province": "青海省"
-  },
-  {
-    "Name": "玉树藏族自治州",
-    "Province": "青海省"
-  },
-  {
-    "Name": "海西蒙古族藏族自治州",
-    "Province": "青海省"
-  },
-  {
-    "Name": "银川市",
-    "Province": "宁夏回族自治区"
-  },
-  {
-    "Name": "石嘴山市",
-    "Province": "宁夏回族自治区"
-  },
-  {
-    "Name": "吴忠市",
-    "Province": "宁夏回族自治区"
-  },
-  {
-    "Name": "固原市",
-    "Province": "宁夏回族自治区"
-  },
-  {
-    "Name": "中卫市",
-    "Province": "宁夏回族自治区"
-  },
-  {
-    "Name": "乌鲁木齐市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "克拉玛依市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "吐鲁番市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "哈密市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "昌吉回族自治州",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "博尔塔拉蒙古自治州",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "巴音郭楞蒙古自治州",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "阿克苏地区",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "克孜勒苏柯尔克孜自治州",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "喀什地区",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "和田地区",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "伊犁哈萨克自治州",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "塔城地区",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "阿勒泰地区",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "石河子市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "阿拉尔市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "图木舒克市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "五家渠市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "北屯市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "铁门关市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "双河市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "可克达拉市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "昆玉市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "胡杨河市",
-    "Province": "新疆维吾尔自治区"
-  },
-  {
-    "Name": "新星市",
-    "Province": "新疆维吾尔自治区"
-  }
+	{
+		"code":"1101",
+		"fullCode":"110100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"市辖区",
+		"parentCode":"11"
+	},
+	{
+		"code":"1201",
+		"fullCode":"120100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"市辖区",
+		"parentCode":"12"
+	},
+	{
+		"code":"1301",
+		"fullCode":"130100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"石家庄市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1302",
+		"fullCode":"130200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"唐山市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1303",
+		"fullCode":"130300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"秦皇岛市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1304",
+		"fullCode":"130400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"邯郸市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1305",
+		"fullCode":"130500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"邢台市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1306",
+		"fullCode":"130600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"保定市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1307",
+		"fullCode":"130700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"张家口市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1308",
+		"fullCode":"130800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"承德市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1309",
+		"fullCode":"130900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"沧州市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1310",
+		"fullCode":"131000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"廊坊市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1311",
+		"fullCode":"131100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"衡水市",
+		"parentCode":"13"
+	},
+	{
+		"code":"1401",
+		"fullCode":"140100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"太原市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1402",
+		"fullCode":"140200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"大同市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1403",
+		"fullCode":"140300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"阳泉市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1404",
+		"fullCode":"140400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"长治市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1405",
+		"fullCode":"140500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"晋城市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1406",
+		"fullCode":"140600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"朔州市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1407",
+		"fullCode":"140700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"晋中市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1408",
+		"fullCode":"140800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"运城市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1409",
+		"fullCode":"140900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"忻州市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1410",
+		"fullCode":"141000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"临汾市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1411",
+		"fullCode":"141100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"吕梁市",
+		"parentCode":"14"
+	},
+	{
+		"code":"1501",
+		"fullCode":"150100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"呼和浩特市",
+		"parentCode":"15"
+	},
+	{
+		"code":"1502",
+		"fullCode":"150200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"包头市",
+		"parentCode":"15"
+	},
+	{
+		"code":"1503",
+		"fullCode":"150300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"乌海市",
+		"parentCode":"15"
+	},
+	{
+		"code":"1504",
+		"fullCode":"150400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"赤峰市",
+		"parentCode":"15"
+	},
+	{
+		"code":"1505",
+		"fullCode":"150500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"通辽市",
+		"parentCode":"15"
+	},
+	{
+		"code":"1506",
+		"fullCode":"150600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"鄂尔多斯市",
+		"parentCode":"15"
+	},
+	{
+		"code":"1507",
+		"fullCode":"150700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"呼伦贝尔市",
+		"parentCode":"15"
+	},
+	{
+		"code":"1508",
+		"fullCode":"150800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"巴彦淖尔市",
+		"parentCode":"15"
+	},
+	{
+		"code":"1509",
+		"fullCode":"150900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"乌兰察布市",
+		"parentCode":"15"
+	},
+	{
+		"code":"1522",
+		"fullCode":"152200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"兴安盟",
+		"parentCode":"15"
+	},
+	{
+		"code":"1525",
+		"fullCode":"152500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"锡林郭勒盟",
+		"parentCode":"15"
+	},
+	{
+		"code":"1529",
+		"fullCode":"152900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"阿拉善盟",
+		"parentCode":"15"
+	},
+	{
+		"code":"2101",
+		"fullCode":"210100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"沈阳市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2102",
+		"fullCode":"210200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"大连市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2103",
+		"fullCode":"210300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"鞍山市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2104",
+		"fullCode":"210400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"抚顺市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2105",
+		"fullCode":"210500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"本溪市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2106",
+		"fullCode":"210600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"丹东市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2107",
+		"fullCode":"210700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"锦州市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2108",
+		"fullCode":"210800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"营口市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2109",
+		"fullCode":"210900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"阜新市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2110",
+		"fullCode":"211000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"辽阳市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2111",
+		"fullCode":"211100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"盘锦市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2112",
+		"fullCode":"211200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"铁岭市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2113",
+		"fullCode":"211300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"朝阳市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2114",
+		"fullCode":"211400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"葫芦岛市",
+		"parentCode":"21"
+	},
+	{
+		"code":"2201",
+		"fullCode":"220100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"长春市",
+		"parentCode":"22"
+	},
+	{
+		"code":"2202",
+		"fullCode":"220200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"吉林市",
+		"parentCode":"22"
+	},
+	{
+		"code":"2203",
+		"fullCode":"220300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"四平市",
+		"parentCode":"22"
+	},
+	{
+		"code":"2204",
+		"fullCode":"220400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"辽源市",
+		"parentCode":"22"
+	},
+	{
+		"code":"2205",
+		"fullCode":"220500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"通化市",
+		"parentCode":"22"
+	},
+	{
+		"code":"2206",
+		"fullCode":"220600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"白山市",
+		"parentCode":"22"
+	},
+	{
+		"code":"2207",
+		"fullCode":"220700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"松原市",
+		"parentCode":"22"
+	},
+	{
+		"code":"2208",
+		"fullCode":"220800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"白城市",
+		"parentCode":"22"
+	},
+	{
+		"code":"2224",
+		"fullCode":"222400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"延边朝鲜族自治州",
+		"parentCode":"22"
+	},
+	{
+		"code":"2301",
+		"fullCode":"230100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"哈尔滨市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2302",
+		"fullCode":"230200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"齐齐哈尔市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2303",
+		"fullCode":"230300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"鸡西市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2304",
+		"fullCode":"230400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"鹤岗市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2305",
+		"fullCode":"230500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"双鸭山市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2306",
+		"fullCode":"230600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"大庆市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2307",
+		"fullCode":"230700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"伊春市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2308",
+		"fullCode":"230800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"佳木斯市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2309",
+		"fullCode":"230900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"七台河市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2310",
+		"fullCode":"231000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"牡丹江市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2311",
+		"fullCode":"231100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"黑河市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2312",
+		"fullCode":"231200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"绥化市",
+		"parentCode":"23"
+	},
+	{
+		"code":"2327",
+		"fullCode":"232700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"大兴安岭地区",
+		"parentCode":"23"
+	},
+	{
+		"code":"3101",
+		"fullCode":"310100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"市辖区",
+		"parentCode":"31"
+	},
+	{
+		"code":"3201",
+		"fullCode":"320100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"南京市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3202",
+		"fullCode":"320200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"无锡市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3203",
+		"fullCode":"320300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"徐州市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3204",
+		"fullCode":"320400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"常州市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3205",
+		"fullCode":"320500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"苏州市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3206",
+		"fullCode":"320600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"南通市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3207",
+		"fullCode":"320700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"连云港市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3208",
+		"fullCode":"320800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"淮安市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3209",
+		"fullCode":"320900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"盐城市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3210",
+		"fullCode":"321000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"扬州市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3211",
+		"fullCode":"321100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"镇江市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3212",
+		"fullCode":"321200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"泰州市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3213",
+		"fullCode":"321300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"宿迁市",
+		"parentCode":"32"
+	},
+	{
+		"code":"3301",
+		"fullCode":"330100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"杭州市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3302",
+		"fullCode":"330200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"宁波市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3303",
+		"fullCode":"330300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"温州市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3304",
+		"fullCode":"330400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"嘉兴市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3305",
+		"fullCode":"330500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"湖州市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3306",
+		"fullCode":"330600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"绍兴市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3307",
+		"fullCode":"330700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"金华市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3308",
+		"fullCode":"330800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"衢州市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3309",
+		"fullCode":"330900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"舟山市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3310",
+		"fullCode":"331000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"台州市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3311",
+		"fullCode":"331100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"丽水市",
+		"parentCode":"33"
+	},
+	{
+		"code":"3401",
+		"fullCode":"340100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"合肥市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3402",
+		"fullCode":"340200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"芜湖市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3403",
+		"fullCode":"340300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"蚌埠市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3404",
+		"fullCode":"340400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"淮南市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3405",
+		"fullCode":"340500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"马鞍山市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3406",
+		"fullCode":"340600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"淮北市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3407",
+		"fullCode":"340700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"铜陵市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3408",
+		"fullCode":"340800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"安庆市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3410",
+		"fullCode":"341000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"黄山市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3411",
+		"fullCode":"341100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"滁州市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3412",
+		"fullCode":"341200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"阜阳市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3413",
+		"fullCode":"341300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"宿州市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3415",
+		"fullCode":"341500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"六安市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3416",
+		"fullCode":"341600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"亳州市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3417",
+		"fullCode":"341700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"池州市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3418",
+		"fullCode":"341800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"宣城市",
+		"parentCode":"34"
+	},
+	{
+		"code":"3501",
+		"fullCode":"350100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"福州市",
+		"parentCode":"35"
+	},
+	{
+		"code":"3502",
+		"fullCode":"350200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"厦门市",
+		"parentCode":"35"
+	},
+	{
+		"code":"3503",
+		"fullCode":"350300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"莆田市",
+		"parentCode":"35"
+	},
+	{
+		"code":"3504",
+		"fullCode":"350400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"三明市",
+		"parentCode":"35"
+	},
+	{
+		"code":"3505",
+		"fullCode":"350500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"泉州市",
+		"parentCode":"35"
+	},
+	{
+		"code":"3506",
+		"fullCode":"350600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"漳州市",
+		"parentCode":"35"
+	},
+	{
+		"code":"3507",
+		"fullCode":"350700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"南平市",
+		"parentCode":"35"
+	},
+	{
+		"code":"3508",
+		"fullCode":"350800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"龙岩市",
+		"parentCode":"35"
+	},
+	{
+		"code":"3509",
+		"fullCode":"350900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"宁德市",
+		"parentCode":"35"
+	},
+	{
+		"code":"3601",
+		"fullCode":"360100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"南昌市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3602",
+		"fullCode":"360200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"景德镇市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3603",
+		"fullCode":"360300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"萍乡市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3604",
+		"fullCode":"360400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"九江市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3605",
+		"fullCode":"360500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"新余市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3606",
+		"fullCode":"360600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"鹰潭市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3607",
+		"fullCode":"360700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"赣州市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3608",
+		"fullCode":"360800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"吉安市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3609",
+		"fullCode":"360900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"宜春市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3610",
+		"fullCode":"361000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"抚州市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3611",
+		"fullCode":"361100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"上饶市",
+		"parentCode":"36"
+	},
+	{
+		"code":"3701",
+		"fullCode":"370100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"济南市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3702",
+		"fullCode":"370200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"青岛市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3703",
+		"fullCode":"370300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"淄博市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3704",
+		"fullCode":"370400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"枣庄市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3705",
+		"fullCode":"370500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"东营市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3706",
+		"fullCode":"370600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"烟台市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3707",
+		"fullCode":"370700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"潍坊市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3708",
+		"fullCode":"370800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"济宁市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3709",
+		"fullCode":"370900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"泰安市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3710",
+		"fullCode":"371000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"威海市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3711",
+		"fullCode":"371100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"日照市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3713",
+		"fullCode":"371300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"临沂市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3714",
+		"fullCode":"371400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"德州市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3715",
+		"fullCode":"371500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"聊城市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3716",
+		"fullCode":"371600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"滨州市",
+		"parentCode":"37"
+	},
+	{
+		"code":"3717",
+		"fullCode":"371700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"菏泽市",
+		"parentCode":"37"
+	},
+	{
+		"code":"4101",
+		"fullCode":"410100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"郑州市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4102",
+		"fullCode":"410200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"开封市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4103",
+		"fullCode":"410300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"洛阳市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4104",
+		"fullCode":"410400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"平顶山市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4105",
+		"fullCode":"410500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"安阳市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4106",
+		"fullCode":"410600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"鹤壁市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4107",
+		"fullCode":"410700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"新乡市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4108",
+		"fullCode":"410800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"焦作市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4109",
+		"fullCode":"410900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"濮阳市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4110",
+		"fullCode":"411000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"许昌市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4111",
+		"fullCode":"411100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"漯河市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4112",
+		"fullCode":"411200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"三门峡市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4113",
+		"fullCode":"411300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"南阳市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4114",
+		"fullCode":"411400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"商丘市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4115",
+		"fullCode":"411500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"信阳市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4116",
+		"fullCode":"411600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"周口市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4117",
+		"fullCode":"411700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"驻马店市",
+		"parentCode":"41"
+	},
+	{
+		"code":"4190",
+		"fullCode":"419000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"省直辖县级行政区划",
+		"parentCode":"41"
+	},
+	{
+		"code":"4201",
+		"fullCode":"420100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"武汉市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4202",
+		"fullCode":"420200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"黄石市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4203",
+		"fullCode":"420300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"十堰市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4205",
+		"fullCode":"420500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"宜昌市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4206",
+		"fullCode":"420600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"襄阳市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4207",
+		"fullCode":"420700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"鄂州市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4208",
+		"fullCode":"420800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"荆门市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4209",
+		"fullCode":"420900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"孝感市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4210",
+		"fullCode":"421000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"荆州市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4211",
+		"fullCode":"421100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"黄冈市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4212",
+		"fullCode":"421200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"咸宁市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4213",
+		"fullCode":"421300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"随州市",
+		"parentCode":"42"
+	},
+	{
+		"code":"4228",
+		"fullCode":"422800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"恩施土家族苗族自治州",
+		"parentCode":"42"
+	},
+	{
+		"code":"4290",
+		"fullCode":"429000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"省直辖县级行政区划",
+		"parentCode":"42"
+	},
+	{
+		"code":"4301",
+		"fullCode":"430100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"长沙市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4302",
+		"fullCode":"430200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"株洲市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4303",
+		"fullCode":"430300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"湘潭市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4304",
+		"fullCode":"430400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"衡阳市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4305",
+		"fullCode":"430500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"邵阳市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4306",
+		"fullCode":"430600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"岳阳市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4307",
+		"fullCode":"430700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"常德市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4308",
+		"fullCode":"430800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"张家界市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4309",
+		"fullCode":"430900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"益阳市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4310",
+		"fullCode":"431000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"郴州市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4311",
+		"fullCode":"431100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"永州市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4312",
+		"fullCode":"431200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"怀化市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4313",
+		"fullCode":"431300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"娄底市",
+		"parentCode":"43"
+	},
+	{
+		"code":"4331",
+		"fullCode":"433100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"湘西土家族苗族自治州",
+		"parentCode":"43"
+	},
+	{
+		"code":"4401",
+		"fullCode":"440100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"广州市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4402",
+		"fullCode":"440200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"韶关市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4403",
+		"fullCode":"440300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"深圳市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4404",
+		"fullCode":"440400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"珠海市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4405",
+		"fullCode":"440500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"汕头市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4406",
+		"fullCode":"440600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"佛山市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4407",
+		"fullCode":"440700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"江门市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4408",
+		"fullCode":"440800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"湛江市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4409",
+		"fullCode":"440900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"茂名市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4412",
+		"fullCode":"441200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"肇庆市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4413",
+		"fullCode":"441300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"惠州市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4414",
+		"fullCode":"441400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"梅州市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4415",
+		"fullCode":"441500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"汕尾市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4416",
+		"fullCode":"441600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"河源市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4417",
+		"fullCode":"441700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"阳江市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4418",
+		"fullCode":"441800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"清远市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4419",
+		"fullCode":"441900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"东莞市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4420",
+		"fullCode":"442000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"中山市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4451",
+		"fullCode":"445100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"潮州市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4452",
+		"fullCode":"445200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"揭阳市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4453",
+		"fullCode":"445300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"云浮市",
+		"parentCode":"44"
+	},
+	{
+		"code":"4501",
+		"fullCode":"450100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"南宁市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4502",
+		"fullCode":"450200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"柳州市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4503",
+		"fullCode":"450300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"桂林市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4504",
+		"fullCode":"450400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"梧州市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4505",
+		"fullCode":"450500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"北海市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4506",
+		"fullCode":"450600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"防城港市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4507",
+		"fullCode":"450700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"钦州市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4508",
+		"fullCode":"450800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"贵港市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4509",
+		"fullCode":"450900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"玉林市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4510",
+		"fullCode":"451000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"百色市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4511",
+		"fullCode":"451100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"贺州市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4512",
+		"fullCode":"451200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"河池市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4513",
+		"fullCode":"451300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"来宾市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4514",
+		"fullCode":"451400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"崇左市",
+		"parentCode":"45"
+	},
+	{
+		"code":"4601",
+		"fullCode":"460100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"海口市",
+		"parentCode":"46"
+	},
+	{
+		"code":"4602",
+		"fullCode":"460200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"三亚市",
+		"parentCode":"46"
+	},
+	{
+		"code":"4603",
+		"fullCode":"460300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"三沙市",
+		"parentCode":"46"
+	},
+	{
+		"code":"4604",
+		"fullCode":"460400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"儋州市",
+		"parentCode":"46"
+	},
+	{
+		"code":"4690",
+		"fullCode":"469000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"省直辖县级行政区划",
+		"parentCode":"46"
+	},
+	{
+		"code":"5001",
+		"fullCode":"500100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"市辖区",
+		"parentCode":"50"
+	},
+	{
+		"code":"5002",
+		"fullCode":"500200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"县",
+		"parentCode":"50"
+	},
+	{
+		"code":"5101",
+		"fullCode":"510100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"成都市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5103",
+		"fullCode":"510300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"自贡市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5104",
+		"fullCode":"510400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"攀枝花市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5105",
+		"fullCode":"510500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"泸州市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5106",
+		"fullCode":"510600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"德阳市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5107",
+		"fullCode":"510700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"绵阳市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5108",
+		"fullCode":"510800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"广元市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5109",
+		"fullCode":"510900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"遂宁市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5110",
+		"fullCode":"511000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"内江市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5111",
+		"fullCode":"511100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"乐山市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5113",
+		"fullCode":"511300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"南充市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5114",
+		"fullCode":"511400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"眉山市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5115",
+		"fullCode":"511500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"宜宾市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5116",
+		"fullCode":"511600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"广安市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5117",
+		"fullCode":"511700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"达州市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5118",
+		"fullCode":"511800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"雅安市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5119",
+		"fullCode":"511900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"巴中市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5120",
+		"fullCode":"512000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"资阳市",
+		"parentCode":"51"
+	},
+	{
+		"code":"5132",
+		"fullCode":"513200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"阿坝藏族羌族自治州",
+		"parentCode":"51"
+	},
+	{
+		"code":"5133",
+		"fullCode":"513300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"甘孜藏族自治州",
+		"parentCode":"51"
+	},
+	{
+		"code":"5134",
+		"fullCode":"513400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"凉山彝族自治州",
+		"parentCode":"51"
+	},
+	{
+		"code":"5201",
+		"fullCode":"520100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"贵阳市",
+		"parentCode":"52"
+	},
+	{
+		"code":"5202",
+		"fullCode":"520200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"六盘水市",
+		"parentCode":"52"
+	},
+	{
+		"code":"5203",
+		"fullCode":"520300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"遵义市",
+		"parentCode":"52"
+	},
+	{
+		"code":"5204",
+		"fullCode":"520400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"安顺市",
+		"parentCode":"52"
+	},
+	{
+		"code":"5205",
+		"fullCode":"520500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"毕节市",
+		"parentCode":"52"
+	},
+	{
+		"code":"5206",
+		"fullCode":"520600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"铜仁市",
+		"parentCode":"52"
+	},
+	{
+		"code":"5223",
+		"fullCode":"522300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"黔西南布依族苗族自治州",
+		"parentCode":"52"
+	},
+	{
+		"code":"5226",
+		"fullCode":"522600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"黔东南苗族侗族自治州",
+		"parentCode":"52"
+	},
+	{
+		"code":"5227",
+		"fullCode":"522700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"黔南布依族苗族自治州",
+		"parentCode":"52"
+	},
+	{
+		"code":"5301",
+		"fullCode":"530100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"昆明市",
+		"parentCode":"53"
+	},
+	{
+		"code":"5303",
+		"fullCode":"530300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"曲靖市",
+		"parentCode":"53"
+	},
+	{
+		"code":"5304",
+		"fullCode":"530400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"玉溪市",
+		"parentCode":"53"
+	},
+	{
+		"code":"5305",
+		"fullCode":"530500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"保山市",
+		"parentCode":"53"
+	},
+	{
+		"code":"5306",
+		"fullCode":"530600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"昭通市",
+		"parentCode":"53"
+	},
+	{
+		"code":"5307",
+		"fullCode":"530700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"丽江市",
+		"parentCode":"53"
+	},
+	{
+		"code":"5308",
+		"fullCode":"530800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"普洱市",
+		"parentCode":"53"
+	},
+	{
+		"code":"5309",
+		"fullCode":"530900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"临沧市",
+		"parentCode":"53"
+	},
+	{
+		"code":"5323",
+		"fullCode":"532300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"楚雄彝族自治州",
+		"parentCode":"53"
+	},
+	{
+		"code":"5325",
+		"fullCode":"532500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"红河哈尼族彝族自治州",
+		"parentCode":"53"
+	},
+	{
+		"code":"5326",
+		"fullCode":"532600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"文山壮族苗族自治州",
+		"parentCode":"53"
+	},
+	{
+		"code":"5328",
+		"fullCode":"532800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"西双版纳傣族自治州",
+		"parentCode":"53"
+	},
+	{
+		"code":"5329",
+		"fullCode":"532900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"大理白族自治州",
+		"parentCode":"53"
+	},
+	{
+		"code":"5331",
+		"fullCode":"533100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"德宏傣族景颇族自治州",
+		"parentCode":"53"
+	},
+	{
+		"code":"5333",
+		"fullCode":"533300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"怒江傈僳族自治州",
+		"parentCode":"53"
+	},
+	{
+		"code":"5334",
+		"fullCode":"533400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"迪庆藏族自治州",
+		"parentCode":"53"
+	},
+	{
+		"code":"5401",
+		"fullCode":"540100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"拉萨市",
+		"parentCode":"54"
+	},
+	{
+		"code":"5402",
+		"fullCode":"540200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"日喀则市",
+		"parentCode":"54"
+	},
+	{
+		"code":"5403",
+		"fullCode":"540300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"昌都市",
+		"parentCode":"54"
+	},
+	{
+		"code":"5404",
+		"fullCode":"540400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"林芝市",
+		"parentCode":"54"
+	},
+	{
+		"code":"5405",
+		"fullCode":"540500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"山南市",
+		"parentCode":"54"
+	},
+	{
+		"code":"5406",
+		"fullCode":"540600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"那曲市",
+		"parentCode":"54"
+	},
+	{
+		"code":"5425",
+		"fullCode":"542500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"阿里地区",
+		"parentCode":"54"
+	},
+	{
+		"code":"6101",
+		"fullCode":"610100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"西安市",
+		"parentCode":"61"
+	},
+	{
+		"code":"6102",
+		"fullCode":"610200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"铜川市",
+		"parentCode":"61"
+	},
+	{
+		"code":"6103",
+		"fullCode":"610300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"宝鸡市",
+		"parentCode":"61"
+	},
+	{
+		"code":"6104",
+		"fullCode":"610400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"咸阳市",
+		"parentCode":"61"
+	},
+	{
+		"code":"6105",
+		"fullCode":"610500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"渭南市",
+		"parentCode":"61"
+	},
+	{
+		"code":"6106",
+		"fullCode":"610600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"延安市",
+		"parentCode":"61"
+	},
+	{
+		"code":"6107",
+		"fullCode":"610700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"汉中市",
+		"parentCode":"61"
+	},
+	{
+		"code":"6108",
+		"fullCode":"610800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"榆林市",
+		"parentCode":"61"
+	},
+	{
+		"code":"6109",
+		"fullCode":"610900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"安康市",
+		"parentCode":"61"
+	},
+	{
+		"code":"6110",
+		"fullCode":"611000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"商洛市",
+		"parentCode":"61"
+	},
+	{
+		"code":"6201",
+		"fullCode":"620100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"兰州市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6202",
+		"fullCode":"620200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"嘉峪关市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6203",
+		"fullCode":"620300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"金昌市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6204",
+		"fullCode":"620400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"白银市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6205",
+		"fullCode":"620500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"天水市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6206",
+		"fullCode":"620600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"武威市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6207",
+		"fullCode":"620700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"张掖市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6208",
+		"fullCode":"620800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"平凉市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6209",
+		"fullCode":"620900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"酒泉市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6210",
+		"fullCode":"621000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"庆阳市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6211",
+		"fullCode":"621100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"定西市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6212",
+		"fullCode":"621200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"陇南市",
+		"parentCode":"62"
+	},
+	{
+		"code":"6229",
+		"fullCode":"622900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"临夏回族自治州",
+		"parentCode":"62"
+	},
+	{
+		"code":"6230",
+		"fullCode":"623000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"甘南藏族自治州",
+		"parentCode":"62"
+	},
+	{
+		"code":"6301",
+		"fullCode":"630100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"西宁市",
+		"parentCode":"63"
+	},
+	{
+		"code":"6302",
+		"fullCode":"630200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"海东市",
+		"parentCode":"63"
+	},
+	{
+		"code":"6322",
+		"fullCode":"632200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"海北藏族自治州",
+		"parentCode":"63"
+	},
+	{
+		"code":"6323",
+		"fullCode":"632300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"黄南藏族自治州",
+		"parentCode":"63"
+	},
+	{
+		"code":"6325",
+		"fullCode":"632500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"海南藏族自治州",
+		"parentCode":"63"
+	},
+	{
+		"code":"6326",
+		"fullCode":"632600000000",
+		"level":1,
+		"levelName":"地",
+		"name":"果洛藏族自治州",
+		"parentCode":"63"
+	},
+	{
+		"code":"6327",
+		"fullCode":"632700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"玉树藏族自治州",
+		"parentCode":"63"
+	},
+	{
+		"code":"6328",
+		"fullCode":"632800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"海西蒙古族藏族自治州",
+		"parentCode":"63"
+	},
+	{
+		"code":"6401",
+		"fullCode":"640100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"银川市",
+		"parentCode":"64"
+	},
+	{
+		"code":"6402",
+		"fullCode":"640200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"石嘴山市",
+		"parentCode":"64"
+	},
+	{
+		"code":"6403",
+		"fullCode":"640300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"吴忠市",
+		"parentCode":"64"
+	},
+	{
+		"code":"6404",
+		"fullCode":"640400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"固原市",
+		"parentCode":"64"
+	},
+	{
+		"code":"6405",
+		"fullCode":"640500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"中卫市",
+		"parentCode":"64"
+	},
+	{
+		"code":"6501",
+		"fullCode":"650100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"乌鲁木齐市",
+		"parentCode":"65"
+	},
+	{
+		"code":"6502",
+		"fullCode":"650200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"克拉玛依市",
+		"parentCode":"65"
+	},
+	{
+		"code":"6504",
+		"fullCode":"650400000000",
+		"level":1,
+		"levelName":"地",
+		"name":"吐鲁番市",
+		"parentCode":"65"
+	},
+	{
+		"code":"6505",
+		"fullCode":"650500000000",
+		"level":1,
+		"levelName":"地",
+		"name":"哈密市",
+		"parentCode":"65"
+	},
+	{
+		"code":"6523",
+		"fullCode":"652300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"昌吉回族自治州",
+		"parentCode":"65"
+	},
+	{
+		"code":"6527",
+		"fullCode":"652700000000",
+		"level":1,
+		"levelName":"地",
+		"name":"博尔塔拉蒙古自治州",
+		"parentCode":"65"
+	},
+	{
+		"code":"6528",
+		"fullCode":"652800000000",
+		"level":1,
+		"levelName":"地",
+		"name":"巴音郭楞蒙古自治州",
+		"parentCode":"65"
+	},
+	{
+		"code":"6529",
+		"fullCode":"652900000000",
+		"level":1,
+		"levelName":"地",
+		"name":"阿克苏地区",
+		"parentCode":"65"
+	},
+	{
+		"code":"6530",
+		"fullCode":"653000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"克孜勒苏柯尔克孜自治州",
+		"parentCode":"65"
+	},
+	{
+		"code":"6531",
+		"fullCode":"653100000000",
+		"level":1,
+		"levelName":"地",
+		"name":"喀什地区",
+		"parentCode":"65"
+	},
+	{
+		"code":"6532",
+		"fullCode":"653200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"和田地区",
+		"parentCode":"65"
+	},
+	{
+		"code":"6540",
+		"fullCode":"654000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"伊犁哈萨克自治州",
+		"parentCode":"65"
+	},
+	{
+		"code":"6542",
+		"fullCode":"654200000000",
+		"level":1,
+		"levelName":"地",
+		"name":"塔城地区",
+		"parentCode":"65"
+	},
+	{
+		"code":"6543",
+		"fullCode":"654300000000",
+		"level":1,
+		"levelName":"地",
+		"name":"阿勒泰地区",
+		"parentCode":"65"
+	},
+	{
+		"code":"6590",
+		"fullCode":"659000000000",
+		"level":1,
+		"levelName":"地",
+		"name":"自治区直辖县级行政区划",
+		"parentCode":"65"
+	}
 ]

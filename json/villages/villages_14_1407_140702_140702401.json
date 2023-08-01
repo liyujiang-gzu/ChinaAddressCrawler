@@ -1,0 +1,34 @@
+[
+	{
+		"code":"140702401400",
+		"fullCode":"140702401400",
+		"level":4,
+		"levelName":"村",
+		"name":"大学城产业园事业服务中心社区",
+		"parentCode":"1407"
+	},
+	{
+		"code":"140702401401",
+		"fullCode":"140702401401",
+		"level":4,
+		"levelName":"村",
+		"name":"新能源汽车园事业服务中心社区",
+		"parentCode":"1407"
+	},
+	{
+		"code":"140702401402",
+		"fullCode":"140702401402",
+		"level":4,
+		"levelName":"村",
+		"name":"潇河产业园事业服务中心社区",
+		"parentCode":"1407"
+	},
+	{
+		"code":"140702401403",
+		"fullCode":"140702401403",
+		"level":4,
+		"levelName":"村",
+		"name":"汇通产业园事业服务中心社区",
+		"parentCode":"1407"
+	}
+]

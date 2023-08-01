@@ -1,0 +1,34 @@
+[
+	{
+		"code":"430811001",
+		"fullCode":"430811001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"军地坪街道",
+		"parentCode":"430811"
+	},
+	{
+		"code":"430811002",
+		"fullCode":"430811002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"锣鼓塔街道",
+		"parentCode":"430811"
+	},
+	{
+		"code":"430811201",
+		"fullCode":"430811201000",
+		"level":3,
+		"levelName":"乡",
+		"name":"协合乡",
+		"parentCode":"430811"
+	},
+	{
+		"code":"430811202",
+		"fullCode":"430811202000",
+		"level":3,
+		"levelName":"乡",
+		"name":"中湖乡",
+		"parentCode":"430811"
+	}
+]

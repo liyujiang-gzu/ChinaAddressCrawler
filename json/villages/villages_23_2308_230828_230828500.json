@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230828500402",
+		"fullCode":"230828500402",
+		"level":4,
+		"levelName":"村",
+		"name":"汤原场直社区",
+		"parentCode":"2308"
+	},
+	{
+		"code":"230828500501",
+		"fullCode":"230828500501",
+		"level":4,
+		"levelName":"村",
+		"name":"汤原农场祥和管理区",
+		"parentCode":"2308"
+	},
+	{
+		"code":"230828500502",
+		"fullCode":"230828500502",
+		"level":4,
+		"levelName":"村",
+		"name":"汤原农场如意管理区",
+		"parentCode":"2308"
+	},
+	{
+		"code":"230828500504",
+		"fullCode":"230828500504",
+		"level":4,
+		"levelName":"村",
+		"name":"汤原农场安康管理区",
+		"parentCode":"2308"
+	}
+]

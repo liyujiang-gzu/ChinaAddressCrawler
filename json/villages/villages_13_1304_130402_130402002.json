@@ -1,0 +1,18 @@
+[
+	{
+		"code":"130402002006",
+		"fullCode":"130402002006",
+		"level":4,
+		"levelName":"村",
+		"name":"陵东社区",
+		"parentCode":"1304"
+	},
+	{
+		"code":"130402002007",
+		"fullCode":"130402002007",
+		"level":4,
+		"levelName":"村",
+		"name":"陵北社区",
+		"parentCode":"1304"
+	}
+]

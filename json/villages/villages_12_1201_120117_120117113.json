@@ -1,0 +1,26 @@
+[
+	{
+		"code":"120117113201",
+		"fullCode":"120117113201",
+		"level":4,
+		"levelName":"村",
+		"name":"北淮淀",
+		"parentCode":"1201"
+	},
+	{
+		"code":"120117113202",
+		"fullCode":"120117113202",
+		"level":4,
+		"levelName":"村",
+		"name":"南淮淀",
+		"parentCode":"1201"
+	},
+	{
+		"code":"120117113203",
+		"fullCode":"120117113203",
+		"level":4,
+		"levelName":"村",
+		"name":"乐善庄",
+		"parentCode":"1201"
+	}
+]

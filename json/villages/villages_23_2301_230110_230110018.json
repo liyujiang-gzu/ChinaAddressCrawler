@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230110018001",
+		"fullCode":"230110018001",
+		"level":4,
+		"levelName":"村",
+		"name":"铁路社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230110018002",
+		"fullCode":"230110018002",
+		"level":4,
+		"levelName":"村",
+		"name":"林大社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230110018003",
+		"fullCode":"230110018003",
+		"level":4,
+		"levelName":"村",
+		"name":"农林社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230110018004",
+		"fullCode":"230110018004",
+		"level":4,
+		"levelName":"村",
+		"name":"中治社区",
+		"parentCode":"2301"
+	}
+]

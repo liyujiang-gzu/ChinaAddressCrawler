@@ -1,0 +1,34 @@
+[
+	{
+		"code":"231225004001",
+		"fullCode":"231225004001",
+		"level":4,
+		"levelName":"村",
+		"name":"工农社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231225004002",
+		"fullCode":"231225004002",
+		"level":4,
+		"levelName":"村",
+		"name":"三精社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231225004003",
+		"fullCode":"231225004003",
+		"level":4,
+		"levelName":"村",
+		"name":"强农社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231225004200",
+		"fullCode":"231225004200",
+		"level":4,
+		"levelName":"村",
+		"name":"农艺",
+		"parentCode":"2312"
+	}
+]

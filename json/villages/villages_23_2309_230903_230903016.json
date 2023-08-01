@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230903016001",
+		"fullCode":"230903016001",
+		"level":4,
+		"levelName":"村",
+		"name":"文苑社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230903016002",
+		"fullCode":"230903016002",
+		"level":4,
+		"levelName":"村",
+		"name":"安康社区",
+		"parentCode":"2309"
+	}
+]

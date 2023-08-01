@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230904005001",
+		"fullCode":"230904005001",
+		"level":4,
+		"levelName":"村",
+		"name":"龙湖社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230904005002",
+		"fullCode":"230904005002",
+		"level":4,
+		"levelName":"村",
+		"name":"鹿山社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230904005003",
+		"fullCode":"230904005003",
+		"level":4,
+		"levelName":"村",
+		"name":"红岚社区",
+		"parentCode":"2309"
+	}
+]

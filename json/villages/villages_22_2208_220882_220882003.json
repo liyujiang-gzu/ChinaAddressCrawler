@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220882003001",
+		"fullCode":"220882003001",
+		"level":4,
+		"levelName":"村",
+		"name":"长虹社区",
+		"parentCode":"2208"
+	},
+	{
+		"code":"220882003002",
+		"fullCode":"220882003002",
+		"level":4,
+		"levelName":"村",
+		"name":"铁西社区",
+		"parentCode":"2208"
+	},
+	{
+		"code":"220882003003",
+		"fullCode":"220882003003",
+		"level":4,
+		"levelName":"村",
+		"name":"民主社区",
+		"parentCode":"2208"
+	}
+]

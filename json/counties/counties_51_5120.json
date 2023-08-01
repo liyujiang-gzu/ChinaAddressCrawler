@@ -1,0 +1,26 @@
+[
+	{
+		"code":"512002",
+		"fullCode":"512002000000",
+		"level":2,
+		"levelName":"县",
+		"name":"雁江区",
+		"parentCode":"5120"
+	},
+	{
+		"code":"512021",
+		"fullCode":"512021000000",
+		"level":2,
+		"levelName":"县",
+		"name":"安岳县",
+		"parentCode":"5120"
+	},
+	{
+		"code":"512022",
+		"fullCode":"512022000000",
+		"level":2,
+		"levelName":"县",
+		"name":"乐至县",
+		"parentCode":"5120"
+	}
+]

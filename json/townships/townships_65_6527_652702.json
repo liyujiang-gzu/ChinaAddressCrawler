@@ -1,0 +1,18 @@
+[
+	{
+		"code":"652702001",
+		"fullCode":"652702001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"阿拉套街道",
+		"parentCode":"652702"
+	},
+	{
+		"code":"652702100",
+		"fullCode":"652702100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"艾比湖镇",
+		"parentCode":"652702"
+	}
+]

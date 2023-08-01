@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220702014001",
+		"fullCode":"220702014001",
+		"level":4,
+		"levelName":"村",
+		"name":"创新社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220702014002",
+		"fullCode":"220702014002",
+		"level":4,
+		"levelName":"村",
+		"name":"晨光社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220702014003",
+		"fullCode":"220702014003",
+		"level":4,
+		"levelName":"村",
+		"name":"工贸社区",
+		"parentCode":"2207"
+	}
+]

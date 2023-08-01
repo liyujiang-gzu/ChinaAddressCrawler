@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230723100003",
+		"fullCode":"230723100003",
+		"level":4,
+		"levelName":"村",
+		"name":"建设社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230723100005",
+		"fullCode":"230723100005",
+		"level":4,
+		"levelName":"村",
+		"name":"幸福社区",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230723100201",
+		"fullCode":"230723100201",
+		"level":4,
+		"levelName":"村",
+		"name":"宏伟村",
+		"parentCode":"2307"
+	},
+	{
+		"code":"230723100202",
+		"fullCode":"230723100202",
+		"level":4,
+		"levelName":"村",
+		"name":"永青村",
+		"parentCode":"2307"
+	}
+]

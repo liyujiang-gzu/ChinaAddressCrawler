@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150104005001",
+		"fullCode":"150104005001",
+		"level":4,
+		"levelName":"村",
+		"name":"友谊社区",
+		"parentCode":"1501"
+	},
+	{
+		"code":"150104005007",
+		"fullCode":"150104005007",
+		"level":4,
+		"levelName":"村",
+		"name":"小西街社区",
+		"parentCode":"1501"
+	},
+	{
+		"code":"150104005013",
+		"fullCode":"150104005013",
+		"level":4,
+		"levelName":"村",
+		"name":"恒昌社区",
+		"parentCode":"1501"
+	},
+	{
+		"code":"150104005014",
+		"fullCode":"150104005014",
+		"level":4,
+		"levelName":"村",
+		"name":"梁山街社区",
+		"parentCode":"1501"
+	}
+]

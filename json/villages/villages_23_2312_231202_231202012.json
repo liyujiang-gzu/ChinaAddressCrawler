@@ -1,0 +1,34 @@
+[
+	{
+		"code":"231202012001",
+		"fullCode":"231202012001",
+		"level":4,
+		"levelName":"村",
+		"name":"向阳社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231202012002",
+		"fullCode":"231202012002",
+		"level":4,
+		"levelName":"村",
+		"name":"海城社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231202012003",
+		"fullCode":"231202012003",
+		"level":4,
+		"levelName":"村",
+		"name":"东方红社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231202012004",
+		"fullCode":"231202012004",
+		"level":4,
+		"levelName":"村",
+		"name":"路园社区",
+		"parentCode":"2312"
+	}
+]

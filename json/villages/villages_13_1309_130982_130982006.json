@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130982006001",
+		"fullCode":"130982006001",
+		"level":4,
+		"levelName":"村",
+		"name":"华油建一社区",
+		"parentCode":"1309"
+	},
+	{
+		"code":"130982006002",
+		"fullCode":"130982006002",
+		"level":4,
+		"levelName":"村",
+		"name":"华油建二社区",
+		"parentCode":"1309"
+	},
+	{
+		"code":"130982006003",
+		"fullCode":"130982006003",
+		"level":4,
+		"levelName":"村",
+		"name":"华油建三社区",
+		"parentCode":"1309"
+	},
+	{
+		"code":"130982006008",
+		"fullCode":"130982006008",
+		"level":4,
+		"levelName":"村",
+		"name":"丽升社区",
+		"parentCode":"1309"
+	}
+]

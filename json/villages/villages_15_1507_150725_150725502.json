@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150725502502",
+		"fullCode":"150725502502",
+		"level":4,
+		"levelName":"村",
+		"name":"第二生产队",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150725502503",
+		"fullCode":"150725502503",
+		"level":4,
+		"levelName":"村",
+		"name":"第三生产队",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150725502505",
+		"fullCode":"150725502505",
+		"level":4,
+		"levelName":"村",
+		"name":"第五生产队",
+		"parentCode":"1507"
+	}
+]

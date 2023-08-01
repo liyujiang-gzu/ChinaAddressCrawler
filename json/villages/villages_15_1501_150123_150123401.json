@@ -1,0 +1,18 @@
+[
+	{
+		"code":"150123401500",
+		"fullCode":"150123401500",
+		"level":4,
+		"levelName":"村",
+		"name":"丹岱",
+		"parentCode":"1501"
+	},
+	{
+		"code":"150123401501",
+		"fullCode":"150123401501",
+		"level":4,
+		"levelName":"村",
+		"name":"克略",
+		"parentCode":"1501"
+	}
+]

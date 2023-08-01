@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150782106001",
+		"fullCode":"150782106001",
+		"level":4,
+		"levelName":"村",
+		"name":"乌东社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782106002",
+		"fullCode":"150782106002",
+		"level":4,
+		"levelName":"村",
+		"name":"乌西社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782106003",
+		"fullCode":"150782106003",
+		"level":4,
+		"levelName":"村",
+		"name":"兴安岭社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150782106200",
+		"fullCode":"150782106200",
+		"level":4,
+		"levelName":"村",
+		"name":"伊列克得",
+		"parentCode":"1507"
+	}
+]

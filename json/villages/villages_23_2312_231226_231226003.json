@@ -1,0 +1,18 @@
+[
+	{
+		"code":"231226003001",
+		"fullCode":"231226003001",
+		"level":4,
+		"levelName":"村",
+		"name":"东北社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231226003002",
+		"fullCode":"231226003002",
+		"level":4,
+		"levelName":"村",
+		"name":"西北社区",
+		"parentCode":"2312"
+	}
+]

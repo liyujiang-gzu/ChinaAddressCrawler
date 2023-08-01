@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230407001001",
+		"fullCode":"230407001001",
+		"level":4,
+		"levelName":"村",
+		"name":"平安社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230407001002",
+		"fullCode":"230407001002",
+		"level":4,
+		"levelName":"村",
+		"name":"国安社区",
+		"parentCode":"2304"
+	}
+]

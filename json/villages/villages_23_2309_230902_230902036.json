@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230902036001",
+		"fullCode":"230902036001",
+		"level":4,
+		"levelName":"村",
+		"name":"新风社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230902036002",
+		"fullCode":"230902036002",
+		"level":4,
+		"levelName":"村",
+		"name":"冬梅社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230902036003",
+		"fullCode":"230902036003",
+		"level":4,
+		"levelName":"村",
+		"name":"安居社区",
+		"parentCode":"2309"
+	}
+]

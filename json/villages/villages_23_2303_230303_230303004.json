@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230303004004",
+		"fullCode":"230303004004",
+		"level":4,
+		"levelName":"村",
+		"name":"富荣社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230303004008",
+		"fullCode":"230303004008",
+		"level":4,
+		"levelName":"村",
+		"name":"雄关社区",
+		"parentCode":"2303"
+	}
+]

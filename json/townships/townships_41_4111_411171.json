@@ -1,0 +1,18 @@
+[
+	{
+		"code":"411171101",
+		"fullCode":"411171101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"后谢镇",
+		"parentCode":"411171"
+	},
+	{
+		"code":"411171102",
+		"fullCode":"411171102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"邓襄镇",
+		"parentCode":"411171"
+	}
+]

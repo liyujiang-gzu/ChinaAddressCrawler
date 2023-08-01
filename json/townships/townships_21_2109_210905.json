@@ -1,0 +1,34 @@
+[
+	{
+		"code":"210905001",
+		"fullCode":"210905001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"清河街道",
+		"parentCode":"210905"
+	},
+	{
+		"code":"210905004",
+		"fullCode":"210905004000",
+		"level":3,
+		"levelName":"乡",
+		"name":"新北街道",
+		"parentCode":"210905"
+	},
+	{
+		"code":"210905101",
+		"fullCode":"210905101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"河西镇",
+		"parentCode":"210905"
+	},
+	{
+		"code":"210905102",
+		"fullCode":"210905102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"乌龙坝镇",
+		"parentCode":"210905"
+	}
+]

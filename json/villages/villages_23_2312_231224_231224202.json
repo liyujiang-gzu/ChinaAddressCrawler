@@ -1,0 +1,34 @@
+[
+	{
+		"code":"231224202200",
+		"fullCode":"231224202200",
+		"level":4,
+		"levelName":"村",
+		"name":"巨龙",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231224202201",
+		"fullCode":"231224202201",
+		"level":4,
+		"levelName":"村",
+		"name":"巨泉",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231224202202",
+		"fullCode":"231224202202",
+		"level":4,
+		"levelName":"村",
+		"name":"巨兴",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231224202203",
+		"fullCode":"231224202203",
+		"level":4,
+		"levelName":"村",
+		"name":"巨宝",
+		"parentCode":"2312"
+	}
+]

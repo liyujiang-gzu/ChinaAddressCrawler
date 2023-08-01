@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220204007001",
+		"fullCode":"220204007001",
+		"level":4,
+		"levelName":"村",
+		"name":"友好社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220204007002",
+		"fullCode":"220204007002",
+		"level":4,
+		"levelName":"村",
+		"name":"越山路社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220204007003",
+		"fullCode":"220204007003",
+		"level":4,
+		"levelName":"村",
+		"name":"二二二社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220204007004",
+		"fullCode":"220204007004",
+		"level":4,
+		"levelName":"村",
+		"name":"北寺社区",
+		"parentCode":"2202"
+	}
+]

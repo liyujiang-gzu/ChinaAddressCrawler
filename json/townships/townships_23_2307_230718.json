@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230718001",
+		"fullCode":"230718001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"乌马河街道",
+		"parentCode":"230718"
+	},
+	{
+		"code":"230718002",
+		"fullCode":"230718002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"锦山街道",
+		"parentCode":"230718"
+	},
+	{
+		"code":"230718003",
+		"fullCode":"230718003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"曙光街道",
+		"parentCode":"230718"
+	},
+	{
+		"code":"230718004",
+		"fullCode":"230718004000",
+		"level":3,
+		"levelName":"乡",
+		"name":"向阳街道",
+		"parentCode":"230718"
+	}
+]

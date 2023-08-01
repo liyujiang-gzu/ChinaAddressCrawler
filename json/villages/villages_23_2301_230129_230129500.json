@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230129500402",
+		"fullCode":"230129500402",
+		"level":4,
+		"levelName":"村",
+		"name":"庆阳场直社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230129500501",
+		"fullCode":"230129500501",
+		"level":4,
+		"levelName":"村",
+		"name":"庆阳农场管理区",
+		"parentCode":"2301"
+	}
+]

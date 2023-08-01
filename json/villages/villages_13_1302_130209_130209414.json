@@ -1,0 +1,26 @@
+[
+	{
+		"code":"130209414201",
+		"fullCode":"130209414201",
+		"level":4,
+		"levelName":"村",
+		"name":"新海一村",
+		"parentCode":"1302"
+	},
+	{
+		"code":"130209414202",
+		"fullCode":"130209414202",
+		"level":4,
+		"levelName":"村",
+		"name":"捞鱼尖村",
+		"parentCode":"1302"
+	},
+	{
+		"code":"130209414203",
+		"fullCode":"130209414203",
+		"level":4,
+		"levelName":"村",
+		"name":"海庄子村",
+		"parentCode":"1302"
+	}
+]

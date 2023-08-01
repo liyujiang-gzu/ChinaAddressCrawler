@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150603001001",
+		"fullCode":"150603001001",
+		"level":4,
+		"levelName":"村",
+		"name":"新北社区",
+		"parentCode":"1506"
+	},
+	{
+		"code":"150603001002",
+		"fullCode":"150603001002",
+		"level":4,
+		"levelName":"村",
+		"name":"达尔罕社区",
+		"parentCode":"1506"
+	},
+	{
+		"code":"150603001004",
+		"fullCode":"150603001004",
+		"level":4,
+		"levelName":"村",
+		"name":"哈巴格希社区",
+		"parentCode":"1506"
+	}
+]

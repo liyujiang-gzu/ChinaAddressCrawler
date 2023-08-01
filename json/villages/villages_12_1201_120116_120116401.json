@@ -1,0 +1,26 @@
+[
+	{
+		"code":"120116401001",
+		"fullCode":"120116401001",
+		"level":4,
+		"levelName":"村",
+		"name":"怡湾社区",
+		"parentCode":"1201"
+	},
+	{
+		"code":"120116401400",
+		"fullCode":"120116401400",
+		"level":4,
+		"levelName":"村",
+		"name":"保税区社区",
+		"parentCode":"1201"
+	},
+	{
+		"code":"120116401401",
+		"fullCode":"120116401401",
+		"level":4,
+		"levelName":"村",
+		"name":"临港经济区社区",
+		"parentCode":"1201"
+	}
+]

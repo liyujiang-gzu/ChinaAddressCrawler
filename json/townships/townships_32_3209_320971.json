@@ -1,0 +1,18 @@
+[
+	{
+		"code":"320971001",
+		"fullCode":"320971001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"新城街道",
+		"parentCode":"320971"
+	},
+	{
+		"code":"320971100",
+		"fullCode":"320971100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"步凤镇",
+		"parentCode":"320971"
+	}
+]

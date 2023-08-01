@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150223214200",
+		"fullCode":"150223214200",
+		"level":4,
+		"levelName":"村",
+		"name":"哈达哈少嘎查",
+		"parentCode":"1502"
+	},
+	{
+		"code":"150223214201",
+		"fullCode":"150223214201",
+		"level":4,
+		"levelName":"村",
+		"name":"那仁宝力格嘎查",
+		"parentCode":"1502"
+	},
+	{
+		"code":"150223214202",
+		"fullCode":"150223214202",
+		"level":4,
+		"levelName":"村",
+		"name":"巴音赛汉嘎查",
+		"parentCode":"1502"
+	},
+	{
+		"code":"150223214203",
+		"fullCode":"150223214203",
+		"level":4,
+		"levelName":"村",
+		"name":"腾格淖嘎查",
+		"parentCode":"1502"
+	}
+]

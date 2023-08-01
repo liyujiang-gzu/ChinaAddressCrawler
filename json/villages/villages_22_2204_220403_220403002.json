@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220403002001",
+		"fullCode":"220403002001",
+		"level":4,
+		"levelName":"村",
+		"name":"仙城社区",
+		"parentCode":"2204"
+	},
+	{
+		"code":"220403002002",
+		"fullCode":"220403002002",
+		"level":4,
+		"levelName":"村",
+		"name":"安康社区",
+		"parentCode":"2204"
+	},
+	{
+		"code":"220403002003",
+		"fullCode":"220403002003",
+		"level":4,
+		"levelName":"村",
+		"name":"鸿民社区",
+		"parentCode":"2204"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230305002005",
+		"fullCode":"230305002005",
+		"level":4,
+		"levelName":"村",
+		"name":"鼎元社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230305002007",
+		"fullCode":"230305002007",
+		"level":4,
+		"levelName":"村",
+		"name":"碱场社区",
+		"parentCode":"2303"
+	}
+]

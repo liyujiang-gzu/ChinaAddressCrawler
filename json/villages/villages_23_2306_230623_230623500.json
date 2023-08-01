@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230623500402",
+		"fullCode":"230623500402",
+		"level":4,
+		"levelName":"村",
+		"name":"巨浪场直社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230623500501",
+		"fullCode":"230623500501",
+		"level":4,
+		"levelName":"村",
+		"name":"巨浪非场直生活区",
+		"parentCode":"2306"
+	}
+]

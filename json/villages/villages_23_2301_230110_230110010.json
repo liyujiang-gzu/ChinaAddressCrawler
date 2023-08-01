@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230110010001",
+		"fullCode":"230110010001",
+		"level":4,
+		"levelName":"村",
+		"name":"体工社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230110010002",
+		"fullCode":"230110010002",
+		"level":4,
+		"levelName":"村",
+		"name":"哈安社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230110010003",
+		"fullCode":"230110010003",
+		"level":4,
+		"levelName":"村",
+		"name":"安装社区",
+		"parentCode":"2301"
+	},
+	{
+		"code":"230110010004",
+		"fullCode":"230110010004",
+		"level":4,
+		"levelName":"村",
+		"name":"文体社区",
+		"parentCode":"2301"
+	}
+]

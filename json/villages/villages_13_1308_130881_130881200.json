@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130881200201",
+		"fullCode":"130881200201",
+		"level":4,
+		"levelName":"村",
+		"name":"单杖子",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130881200202",
+		"fullCode":"130881200202",
+		"level":4,
+		"levelName":"村",
+		"name":"东北沟社区",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130881200203",
+		"fullCode":"130881200203",
+		"level":4,
+		"levelName":"村",
+		"name":"王土房社区",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130881200205",
+		"fullCode":"130881200205",
+		"level":4,
+		"levelName":"村",
+		"name":"山湾子",
+		"parentCode":"1308"
+	}
+]

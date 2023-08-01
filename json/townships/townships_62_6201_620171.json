@@ -1,0 +1,34 @@
+[
+	{
+		"code":"620171101",
+		"fullCode":"620171101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"中川镇",
+		"parentCode":"620171"
+	},
+	{
+		"code":"620171102",
+		"fullCode":"620171102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"秦川镇",
+		"parentCode":"620171"
+	},
+	{
+		"code":"620171103",
+		"fullCode":"620171103000",
+		"level":3,
+		"levelName":"乡",
+		"name":"西岔镇",
+		"parentCode":"620171"
+	},
+	{
+		"code":"620171104",
+		"fullCode":"620171104000",
+		"level":3,
+		"levelName":"乡",
+		"name":"上川镇",
+		"parentCode":"620171"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"code":"231181006001",
+		"fullCode":"231181006001",
+		"level":4,
+		"levelName":"村",
+		"name":"法华社区",
+		"parentCode":"2311"
+	},
+	{
+		"code":"231181006003",
+		"fullCode":"231181006003",
+		"level":4,
+		"levelName":"村",
+		"name":"业旺社区",
+		"parentCode":"2311"
+	}
+]

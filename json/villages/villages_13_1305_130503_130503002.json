@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130503002042",
+		"fullCode":"130503002042",
+		"level":4,
+		"levelName":"村",
+		"name":"和信社区",
+		"parentCode":"1305"
+	},
+	{
+		"code":"130503002043",
+		"fullCode":"130503002043",
+		"level":4,
+		"levelName":"村",
+		"name":"中信社区",
+		"parentCode":"1305"
+	},
+	{
+		"code":"130503002062",
+		"fullCode":"130503002062",
+		"level":4,
+		"levelName":"村",
+		"name":"守信社区",
+		"parentCode":"1305"
+	},
+	{
+		"code":"130503002063",
+		"fullCode":"130503002063",
+		"level":4,
+		"levelName":"村",
+		"name":"宏信社区",
+		"parentCode":"1305"
+	}
+]

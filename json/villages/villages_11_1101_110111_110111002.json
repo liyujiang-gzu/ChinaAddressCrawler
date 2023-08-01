@@ -1,0 +1,18 @@
+[
+	{
+		"code":"110111002003",
+		"fullCode":"110111002003",
+		"level":4,
+		"levelName":"村",
+		"name":"东平街社区",
+		"parentCode":"1101"
+	},
+	{
+		"code":"110111002004",
+		"fullCode":"110111002004",
+		"level":4,
+		"levelName":"村",
+		"name":"原新街社区",
+		"parentCode":"1101"
+	}
+]

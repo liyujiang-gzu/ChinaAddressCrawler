@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130828215201",
+		"fullCode":"130828215201",
+		"level":4,
+		"levelName":"村",
+		"name":"张家湾",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130828215202",
+		"fullCode":"130828215202",
+		"level":4,
+		"levelName":"村",
+		"name":"巴头沟",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130828215203",
+		"fullCode":"130828215203",
+		"level":4,
+		"levelName":"村",
+		"name":"半山吐",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130828215204",
+		"fullCode":"130828215204",
+		"level":4,
+		"levelName":"村",
+		"name":"宝元昌",
+		"parentCode":"1308"
+	}
+]

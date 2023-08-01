@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220104005001",
+		"fullCode":"220104005001",
+		"level":4,
+		"levelName":"村",
+		"name":"新华社区",
+		"parentCode":"2201"
+	},
+	{
+		"code":"220104005002",
+		"fullCode":"220104005002",
+		"level":4,
+		"levelName":"村",
+		"name":"北安社区",
+		"parentCode":"2201"
+	},
+	{
+		"code":"220104005003",
+		"fullCode":"220104005003",
+		"level":4,
+		"levelName":"村",
+		"name":"光明社区",
+		"parentCode":"2201"
+	},
+	{
+		"code":"220104005004",
+		"fullCode":"220104005004",
+		"level":4,
+		"levelName":"村",
+		"name":"崇智社区",
+		"parentCode":"2201"
+	}
+]

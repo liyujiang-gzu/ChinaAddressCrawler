@@ -1,0 +1,26 @@
+[
+	{
+		"code":"231224004001",
+		"fullCode":"231224004001",
+		"level":4,
+		"levelName":"村",
+		"name":"庆盛社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231224004002",
+		"fullCode":"231224004002",
+		"level":4,
+		"levelName":"村",
+		"name":"庆丰社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231224004003",
+		"fullCode":"231224004003",
+		"level":4,
+		"levelName":"村",
+		"name":"庆和社区",
+		"parentCode":"2312"
+	}
+]

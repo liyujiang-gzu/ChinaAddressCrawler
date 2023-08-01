@@ -1,0 +1,34 @@
+[
+	{
+		"code":"232722100001",
+		"fullCode":"232722100001",
+		"level":4,
+		"levelName":"村",
+		"name":"繁荣社区",
+		"parentCode":"2327"
+	},
+	{
+		"code":"232722100002",
+		"fullCode":"232722100002",
+		"level":4,
+		"levelName":"村",
+		"name":"塔林社区",
+		"parentCode":"2327"
+	},
+	{
+		"code":"232722100004",
+		"fullCode":"232722100004",
+		"level":4,
+		"levelName":"村",
+		"name":"新建社区",
+		"parentCode":"2327"
+	},
+	{
+		"code":"232722100005",
+		"fullCode":"232722100005",
+		"level":4,
+		"levelName":"村",
+		"name":"林缘社区",
+		"parentCode":"2327"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"141126102200",
+		"fullCode":"141126102200",
+		"level":4,
+		"levelName":"村",
+		"name":"石家坪",
+		"parentCode":"1411"
+	},
+	{
+		"code":"141126102204",
+		"fullCode":"141126102204",
+		"level":4,
+		"levelName":"村",
+		"name":"留村",
+		"parentCode":"1411"
+	},
+	{
+		"code":"141126102205",
+		"fullCode":"141126102205",
+		"level":4,
+		"levelName":"村",
+		"name":"下河",
+		"parentCode":"1411"
+	},
+	{
+		"code":"141126102206",
+		"fullCode":"141126102206",
+		"level":4,
+		"levelName":"村",
+		"name":"义牒",
+		"parentCode":"1411"
+	}
+]

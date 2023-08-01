@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220303005001",
+		"fullCode":"220303005001",
+		"level":4,
+		"levelName":"村",
+		"name":"北大桥社区",
+		"parentCode":"2203"
+	},
+	{
+		"code":"220303005002",
+		"fullCode":"220303005002",
+		"level":4,
+		"levelName":"村",
+		"name":"胜利社区",
+		"parentCode":"2203"
+	},
+	{
+		"code":"220303005003",
+		"fullCode":"220303005003",
+		"level":4,
+		"levelName":"村",
+		"name":"解放社区",
+		"parentCode":"2203"
+	},
+	{
+		"code":"220303005004",
+		"fullCode":"220303005004",
+		"level":4,
+		"levelName":"村",
+		"name":"朝阳社区",
+		"parentCode":"2203"
+	}
+]

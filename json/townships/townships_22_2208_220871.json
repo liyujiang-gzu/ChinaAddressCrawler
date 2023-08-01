@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220871001",
+		"fullCode":"220871001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"幸福街道",
+		"parentCode":"220871"
+	},
+	{
+		"code":"220871002",
+		"fullCode":"220871002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"保平街道",
+		"parentCode":"220871"
+	},
+	{
+		"code":"220871003",
+		"fullCode":"220871003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"西郊街道",
+		"parentCode":"220871"
+	}
+]

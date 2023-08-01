@@ -1,0 +1,34 @@
+[
+	{
+		"code":"450406100",
+		"fullCode":"450406100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"龙圩镇",
+		"parentCode":"450406"
+	},
+	{
+		"code":"450406101",
+		"fullCode":"450406101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"大坡镇",
+		"parentCode":"450406"
+	},
+	{
+		"code":"450406102",
+		"fullCode":"450406102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"广平镇",
+		"parentCode":"450406"
+	},
+	{
+		"code":"450406103",
+		"fullCode":"450406103000",
+		"level":3,
+		"levelName":"乡",
+		"name":"新地镇",
+		"parentCode":"450406"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"code":"140171402001",
+		"fullCode":"140171402001",
+		"level":4,
+		"levelName":"村",
+		"name":"中环社区",
+		"parentCode":"1401"
+	},
+	{
+		"code":"140171402002",
+		"fullCode":"140171402002",
+		"level":4,
+		"levelName":"村",
+		"name":"晋阳街社区",
+		"parentCode":"1401"
+	}
+]

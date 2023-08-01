@@ -1,0 +1,26 @@
+[
+	{
+		"code":"460321",
+		"fullCode":"460321000000",
+		"level":2,
+		"levelName":"县",
+		"name":"西沙群岛",
+		"parentCode":"4603"
+	},
+	{
+		"code":"460322",
+		"fullCode":"460322000000",
+		"level":2,
+		"levelName":"县",
+		"name":"南沙群岛",
+		"parentCode":"4603"
+	},
+	{
+		"code":"460323",
+		"fullCode":"460323000000",
+		"level":2,
+		"levelName":"县",
+		"name":"中沙群岛的岛礁及其海域",
+		"parentCode":"4603"
+	}
+]

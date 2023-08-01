@@ -1,0 +1,34 @@
+[
+	{
+		"code":"152502500500",
+		"fullCode":"152502500500",
+		"level":4,
+		"levelName":"村",
+		"name":"白音查干分场生活区",
+		"parentCode":"1525"
+	},
+	{
+		"code":"152502500502",
+		"fullCode":"152502500502",
+		"level":4,
+		"levelName":"村",
+		"name":"白音乌拉分场生活区",
+		"parentCode":"1525"
+	},
+	{
+		"code":"152502500503",
+		"fullCode":"152502500503",
+		"level":4,
+		"levelName":"村",
+		"name":"斯格斯台分场生活区",
+		"parentCode":"1525"
+	},
+	{
+		"code":"152502500505",
+		"fullCode":"152502500505",
+		"level":4,
+		"levelName":"村",
+		"name":"灰腾河生活区",
+		"parentCode":"1525"
+	}
+]

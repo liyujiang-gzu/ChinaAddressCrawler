@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220502007003",
+		"fullCode":"220502007003",
+		"level":4,
+		"levelName":"村",
+		"name":"龙兴社区",
+		"parentCode":"2205"
+	},
+	{
+		"code":"220502007004",
+		"fullCode":"220502007004",
+		"level":4,
+		"levelName":"村",
+		"name":"龙水社区",
+		"parentCode":"2205"
+	},
+	{
+		"code":"220502007005",
+		"fullCode":"220502007005",
+		"level":4,
+		"levelName":"村",
+		"name":"秀泉社区",
+		"parentCode":"2205"
+	},
+	{
+		"code":"220502007006",
+		"fullCode":"220502007006",
+		"level":4,
+		"levelName":"村",
+		"name":"玉皇社区",
+		"parentCode":"2205"
+	}
+]

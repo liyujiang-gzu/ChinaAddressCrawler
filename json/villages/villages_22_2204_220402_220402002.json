@@ -1,0 +1,18 @@
+[
+	{
+		"code":"220402002001",
+		"fullCode":"220402002001",
+		"level":4,
+		"levelName":"村",
+		"name":"南康社区",
+		"parentCode":"2204"
+	},
+	{
+		"code":"220402002002",
+		"fullCode":"220402002002",
+		"level":4,
+		"levelName":"村",
+		"name":"康宁社区",
+		"parentCode":"2204"
+	}
+]

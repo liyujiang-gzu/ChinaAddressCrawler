@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230203007002",
+		"fullCode":"230203007002",
+		"level":4,
+		"levelName":"村",
+		"name":"安居社区",
+		"parentCode":"2302"
+	},
+	{
+		"code":"230203007004",
+		"fullCode":"230203007004",
+		"level":4,
+		"levelName":"村",
+		"name":"锦湖社区",
+		"parentCode":"2302"
+	},
+	{
+		"code":"230203007006",
+		"fullCode":"230203007006",
+		"level":4,
+		"levelName":"村",
+		"name":"学府社区",
+		"parentCode":"2302"
+	},
+	{
+		"code":"230203007009",
+		"fullCode":"230203007009",
+		"level":4,
+		"levelName":"村",
+		"name":"文宾社区",
+		"parentCode":"2302"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"231202004001",
+		"fullCode":"231202004001",
+		"level":4,
+		"levelName":"村",
+		"name":"碧桂园社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231202004002",
+		"fullCode":"231202004002",
+		"level":4,
+		"levelName":"村",
+		"name":"电力社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231202004003",
+		"fullCode":"231202004003",
+		"level":4,
+		"levelName":"村",
+		"name":"学府社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231202004004",
+		"fullCode":"231202004004",
+		"level":4,
+		"levelName":"村",
+		"name":"天缘社区",
+		"parentCode":"2312"
+	}
+]

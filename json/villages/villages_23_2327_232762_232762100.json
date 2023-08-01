@@ -1,0 +1,18 @@
+[
+	{
+		"code":"232762100001",
+		"fullCode":"232762100001",
+		"level":4,
+		"levelName":"村",
+		"name":"先锋社区",
+		"parentCode":"2327"
+	},
+	{
+		"code":"232762100002",
+		"fullCode":"232762100002",
+		"level":4,
+		"levelName":"村",
+		"name":"松鹤社区",
+		"parentCode":"2327"
+	}
+]

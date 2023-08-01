@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150202007015",
+		"fullCode":"150202007015",
+		"level":4,
+		"levelName":"村",
+		"name":"富圣明社区",
+		"parentCode":"1502"
+	},
+	{
+		"code":"150202007016",
+		"fullCode":"150202007016",
+		"level":4,
+		"levelName":"村",
+		"name":"黄土渠社区",
+		"parentCode":"1502"
+	},
+	{
+		"code":"150202007401",
+		"fullCode":"150202007401",
+		"level":4,
+		"levelName":"村",
+		"name":"三官庙社区",
+		"parentCode":"1502"
+	}
+]

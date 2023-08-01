@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220282005001",
+		"fullCode":"220282005001",
+		"level":4,
+		"levelName":"村",
+		"name":"南环社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220282005002",
+		"fullCode":"220282005002",
+		"level":4,
+		"levelName":"村",
+		"name":"向阳社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220282005003",
+		"fullCode":"220282005003",
+		"level":4,
+		"levelName":"村",
+		"name":"新城社区",
+		"parentCode":"2202"
+	}
+]

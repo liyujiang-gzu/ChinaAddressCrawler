@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230407001",
+		"fullCode":"230407001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"岭北街道",
+		"parentCode":"230407"
+	},
+	{
+		"code":"230407002",
+		"fullCode":"230407002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"岭南街道",
+		"parentCode":"230407"
+	},
+	{
+		"code":"230407003",
+		"fullCode":"230407003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"沟北街道",
+		"parentCode":"230407"
+	},
+	{
+		"code":"230407004",
+		"fullCode":"230407004000",
+		"level":3,
+		"levelName":"乡",
+		"name":"沟南街道",
+		"parentCode":"230407"
+	}
+]

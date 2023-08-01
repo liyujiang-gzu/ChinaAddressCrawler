@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150981007011",
+		"fullCode":"150981007011",
+		"level":4,
+		"levelName":"村",
+		"name":"土塘街社区",
+		"parentCode":"1509"
+	},
+	{
+		"code":"150981007012",
+		"fullCode":"150981007012",
+		"level":4,
+		"levelName":"村",
+		"name":"北山街社区",
+		"parentCode":"1509"
+	},
+	{
+		"code":"150981007013",
+		"fullCode":"150981007013",
+		"level":4,
+		"levelName":"村",
+		"name":"南毛店街社区",
+		"parentCode":"1509"
+	}
+]

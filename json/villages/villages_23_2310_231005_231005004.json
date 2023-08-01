@@ -1,0 +1,34 @@
+[
+	{
+		"code":"231005004001",
+		"fullCode":"231005004001",
+		"level":4,
+		"levelName":"村",
+		"name":"东丹社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231005004002",
+		"fullCode":"231005004002",
+		"level":4,
+		"levelName":"村",
+		"name":"大平安社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231005004003",
+		"fullCode":"231005004003",
+		"level":4,
+		"levelName":"村",
+		"name":"西牡丹社区",
+		"parentCode":"2310"
+	},
+	{
+		"code":"231005004004",
+		"fullCode":"231005004004",
+		"level":4,
+		"levelName":"村",
+		"name":"新兴社区",
+		"parentCode":"2310"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"152202101001",
+		"fullCode":"152202101001",
+		"level":4,
+		"levelName":"村",
+		"name":"白桦林社区",
+		"parentCode":"1522"
+	},
+	{
+		"code":"152202101200",
+		"fullCode":"152202101200",
+		"level":4,
+		"levelName":"村",
+		"name":"林俗",
+		"parentCode":"1522"
+	},
+	{
+		"code":"152202101201",
+		"fullCode":"152202101201",
+		"level":4,
+		"levelName":"村",
+		"name":"鹿",
+		"parentCode":"1522"
+	}
+]

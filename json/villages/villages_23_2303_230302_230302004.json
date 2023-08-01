@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230302004001",
+		"fullCode":"230302004001",
+		"level":4,
+		"levelName":"村",
+		"name":"龙行社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230302004002",
+		"fullCode":"230302004002",
+		"level":4,
+		"levelName":"村",
+		"name":"四海居社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230302004006",
+		"fullCode":"230302004006",
+		"level":4,
+		"levelName":"村",
+		"name":"中山社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230302004007",
+		"fullCode":"230302004007",
+		"level":4,
+		"levelName":"村",
+		"name":"东岸社区",
+		"parentCode":"2303"
+	}
+]

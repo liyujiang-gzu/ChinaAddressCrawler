@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230206008001",
+		"fullCode":"230206008001",
+		"level":4,
+		"levelName":"村",
+		"name":"甲区社区",
+		"parentCode":"2302"
+	},
+	{
+		"code":"230206008008",
+		"fullCode":"230206008008",
+		"level":4,
+		"levelName":"村",
+		"name":"万平社区",
+		"parentCode":"2302"
+	},
+	{
+		"code":"230206008012",
+		"fullCode":"230206008012",
+		"level":4,
+		"levelName":"村",
+		"name":"红旗社区",
+		"parentCode":"2302"
+	},
+	{
+		"code":"230206008014",
+		"fullCode":"230206008014",
+		"level":4,
+		"levelName":"村",
+		"name":"八砖社区",
+		"parentCode":"2302"
+	}
+]

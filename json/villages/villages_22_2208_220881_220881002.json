@@ -1,0 +1,18 @@
+[
+	{
+		"code":"220881002001",
+		"fullCode":"220881002001",
+		"level":4,
+		"levelName":"村",
+		"name":"富强社区",
+		"parentCode":"2208"
+	},
+	{
+		"code":"220881002002",
+		"fullCode":"220881002002",
+		"level":4,
+		"levelName":"村",
+		"name":"富兴社区",
+		"parentCode":"2208"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150929207201",
+		"fullCode":"150929207201",
+		"level":4,
+		"levelName":"村",
+		"name":"达赖嘎查委员会",
+		"parentCode":"1509"
+	},
+	{
+		"code":"150929207202",
+		"fullCode":"150929207202",
+		"level":4,
+		"levelName":"村",
+		"name":"宝力格嘎查委员会",
+		"parentCode":"1509"
+	},
+	{
+		"code":"150929207203",
+		"fullCode":"150929207203",
+		"level":4,
+		"levelName":"村",
+		"name":"夏布格嘎查委员会",
+		"parentCode":"1509"
+	},
+	{
+		"code":"150929207204",
+		"fullCode":"150929207204",
+		"level":4,
+		"levelName":"村",
+		"name":"嘎少嘎查委员会",
+		"parentCode":"1509"
+	}
+]

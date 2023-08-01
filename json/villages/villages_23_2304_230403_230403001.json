@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230403001002",
+		"fullCode":"230403001002",
+		"level":4,
+		"levelName":"村",
+		"name":"飞鹤社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230403001003",
+		"fullCode":"230403001003",
+		"level":4,
+		"levelName":"村",
+		"name":"新鹤社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230403001004",
+		"fullCode":"230403001004",
+		"level":4,
+		"levelName":"村",
+		"name":"铁西社区",
+		"parentCode":"2304"
+	}
+]

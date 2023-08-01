@@ -1,0 +1,18 @@
+[
+	{
+		"code":"150304101008",
+		"fullCode":"150304101008",
+		"level":4,
+		"levelName":"村",
+		"name":"泽园社区",
+		"parentCode":"1503"
+	},
+	{
+		"code":"150304101009",
+		"fullCode":"150304101009",
+		"level":4,
+		"levelName":"村",
+		"name":"富民社区",
+		"parentCode":"1503"
+	}
+]

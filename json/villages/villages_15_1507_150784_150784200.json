@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150784200003",
+		"fullCode":"150784200003",
+		"level":4,
+		"levelName":"村",
+		"name":"苏沁",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150784200005",
+		"fullCode":"150784200005",
+		"level":4,
+		"levelName":"村",
+		"name":"三河第一社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150784200006",
+		"fullCode":"150784200006",
+		"level":4,
+		"levelName":"村",
+		"name":"三河第二社区",
+		"parentCode":"1507"
+	}
+]

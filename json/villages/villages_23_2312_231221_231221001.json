@@ -1,0 +1,34 @@
+[
+	{
+		"code":"231221001001",
+		"fullCode":"231221001001",
+		"level":4,
+		"levelName":"村",
+		"name":"双龙社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231221001002",
+		"fullCode":"231221001002",
+		"level":4,
+		"levelName":"村",
+		"name":"解放路社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231221001003",
+		"fullCode":"231221001003",
+		"level":4,
+		"levelName":"村",
+		"name":"东环社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231221001004",
+		"fullCode":"231221001004",
+		"level":4,
+		"levelName":"村",
+		"name":"同源社区",
+		"parentCode":"2312"
+	}
+]

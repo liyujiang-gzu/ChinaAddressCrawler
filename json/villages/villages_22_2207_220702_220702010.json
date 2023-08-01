@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220702010001",
+		"fullCode":"220702010001",
+		"level":4,
+		"levelName":"村",
+		"name":"铁安社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220702010002",
+		"fullCode":"220702010002",
+		"level":4,
+		"levelName":"村",
+		"name":"希望社区",
+		"parentCode":"2207"
+	},
+	{
+		"code":"220702010003",
+		"fullCode":"220702010003",
+		"level":4,
+		"levelName":"村",
+		"name":"铁康社区",
+		"parentCode":"2207"
+	}
+]

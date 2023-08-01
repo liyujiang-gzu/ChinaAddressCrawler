@@ -1,0 +1,34 @@
+[
+	{
+		"code":"130826204201",
+		"fullCode":"130826204201",
+		"level":4,
+		"levelName":"村",
+		"name":"草原",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130826204202",
+		"fullCode":"130826204202",
+		"level":4,
+		"levelName":"村",
+		"name":"和顺店",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130826204203",
+		"fullCode":"130826204203",
+		"level":4,
+		"levelName":"村",
+		"name":"公宝同",
+		"parentCode":"1308"
+	},
+	{
+		"code":"130826204204",
+		"fullCode":"130826204204",
+		"level":4,
+		"levelName":"村",
+		"name":"东窝铺",
+		"parentCode":"1308"
+	}
+]

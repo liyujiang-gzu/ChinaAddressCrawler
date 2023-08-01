@@ -1,0 +1,34 @@
+[
+	{
+		"code":"231181207201",
+		"fullCode":"231181207201",
+		"level":4,
+		"levelName":"村",
+		"name":"东星",
+		"parentCode":"2311"
+	},
+	{
+		"code":"231181207202",
+		"fullCode":"231181207202",
+		"level":4,
+		"levelName":"村",
+		"name":"红光",
+		"parentCode":"2311"
+	},
+	{
+		"code":"231181207203",
+		"fullCode":"231181207203",
+		"level":4,
+		"levelName":"村",
+		"name":"红星朝鲜族",
+		"parentCode":"2311"
+	},
+	{
+		"code":"231181207205",
+		"fullCode":"231181207205",
+		"level":4,
+		"levelName":"村",
+		"name":"主星朝鲜族",
+		"parentCode":"2311"
+	}
+]

@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230902033001",
+		"fullCode":"230902033001",
+		"level":4,
+		"levelName":"村",
+		"name":"和顺社区",
+		"parentCode":"2309"
+	},
+	{
+		"code":"230902033002",
+		"fullCode":"230902033002",
+		"level":4,
+		"levelName":"村",
+		"name":"兴平社区",
+		"parentCode":"2309"
+	}
+]

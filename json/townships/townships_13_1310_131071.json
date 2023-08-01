@@ -1,0 +1,18 @@
+[
+	{
+		"code":"131071450",
+		"fullCode":"131071450000",
+		"level":3,
+		"levelName":"乡",
+		"name":"耀华道街道",
+		"parentCode":"131071"
+	},
+	{
+		"code":"131071451",
+		"fullCode":"131071451000",
+		"level":3,
+		"levelName":"乡",
+		"name":"云鹏道街道",
+		"parentCode":"131071"
+	}
+]

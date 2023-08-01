@@ -1,0 +1,34 @@
+[
+	{
+		"code":"341702",
+		"fullCode":"341702000000",
+		"level":2,
+		"levelName":"县",
+		"name":"贵池区",
+		"parentCode":"3417"
+	},
+	{
+		"code":"341721",
+		"fullCode":"341721000000",
+		"level":2,
+		"levelName":"县",
+		"name":"东至县",
+		"parentCode":"3417"
+	},
+	{
+		"code":"341722",
+		"fullCode":"341722000000",
+		"level":2,
+		"levelName":"县",
+		"name":"石台县",
+		"parentCode":"3417"
+	},
+	{
+		"code":"341723",
+		"fullCode":"341723000000",
+		"level":2,
+		"levelName":"县",
+		"name":"青阳县",
+		"parentCode":"3417"
+	}
+]

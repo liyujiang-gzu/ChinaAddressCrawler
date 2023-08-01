@@ -1,0 +1,34 @@
+[
+	{
+		"code":"211102",
+		"fullCode":"211102000000",
+		"level":2,
+		"levelName":"县",
+		"name":"双台子区",
+		"parentCode":"2111"
+	},
+	{
+		"code":"211103",
+		"fullCode":"211103000000",
+		"level":2,
+		"levelName":"县",
+		"name":"兴隆台区",
+		"parentCode":"2111"
+	},
+	{
+		"code":"211104",
+		"fullCode":"211104000000",
+		"level":2,
+		"levelName":"县",
+		"name":"大洼区",
+		"parentCode":"2111"
+	},
+	{
+		"code":"211122",
+		"fullCode":"211122000000",
+		"level":2,
+		"levelName":"县",
+		"name":"盘山县",
+		"parentCode":"2111"
+	}
+]

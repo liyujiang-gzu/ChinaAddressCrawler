@@ -1,0 +1,26 @@
+[
+	{
+		"code":"211381400500",
+		"fullCode":"211381400500",
+		"level":4,
+		"levelName":"村",
+		"name":"一分场生活区",
+		"parentCode":"2113"
+	},
+	{
+		"code":"211381400501",
+		"fullCode":"211381400501",
+		"level":4,
+		"levelName":"村",
+		"name":"二分场生活区",
+		"parentCode":"2113"
+	},
+	{
+		"code":"211381400502",
+		"fullCode":"211381400502",
+		"level":4,
+		"levelName":"村",
+		"name":"三分场生活区",
+		"parentCode":"2113"
+	}
+]

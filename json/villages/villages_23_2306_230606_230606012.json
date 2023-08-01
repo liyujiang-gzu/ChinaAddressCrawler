@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230606012001",
+		"fullCode":"230606012001",
+		"level":4,
+		"levelName":"村",
+		"name":"同城社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230606012002",
+		"fullCode":"230606012002",
+		"level":4,
+		"levelName":"村",
+		"name":"同安社区",
+		"parentCode":"2306"
+	},
+	{
+		"code":"230606012003",
+		"fullCode":"230606012003",
+		"level":4,
+		"levelName":"村",
+		"name":"同园社区",
+		"parentCode":"2306"
+	}
+]

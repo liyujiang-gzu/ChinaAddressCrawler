@@ -1,0 +1,18 @@
+[
+	{
+		"code":"150723103001",
+		"fullCode":"150723103001",
+		"level":4,
+		"levelName":"村",
+		"name":"光明社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150723103002",
+		"fullCode":"150723103002",
+		"level":4,
+		"levelName":"村",
+		"name":"育英社区",
+		"parentCode":"1507"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150702008008",
+		"fullCode":"150702008008",
+		"level":4,
+		"levelName":"村",
+		"name":"望海社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150702008009",
+		"fullCode":"150702008009",
+		"level":4,
+		"levelName":"村",
+		"name":"东海社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150702008010",
+		"fullCode":"150702008010",
+		"level":4,
+		"levelName":"村",
+		"name":"远山社区",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150702008011",
+		"fullCode":"150702008011",
+		"level":4,
+		"levelName":"村",
+		"name":"林海社区",
+		"parentCode":"1507"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"231223004001",
+		"fullCode":"231223004001",
+		"level":4,
+		"levelName":"村",
+		"name":"富强社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231223004002",
+		"fullCode":"231223004002",
+		"level":4,
+		"levelName":"村",
+		"name":"文明社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231223004003",
+		"fullCode":"231223004003",
+		"level":4,
+		"levelName":"村",
+		"name":"建设社区",
+		"parentCode":"2312"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"341871001",
+		"fullCode":"341871001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"天湖街道",
+		"parentCode":"341871"
+	},
+	{
+		"code":"341871002",
+		"fullCode":"341871002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"飞彩街道",
+		"parentCode":"341871"
+	},
+	{
+		"code":"341871003",
+		"fullCode":"341871003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"金坝街道",
+		"parentCode":"341871"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220402",
+		"fullCode":"220402000000",
+		"level":2,
+		"levelName":"县",
+		"name":"龙山区",
+		"parentCode":"2204"
+	},
+	{
+		"code":"220403",
+		"fullCode":"220403000000",
+		"level":2,
+		"levelName":"县",
+		"name":"西安区",
+		"parentCode":"2204"
+	},
+	{
+		"code":"220421",
+		"fullCode":"220421000000",
+		"level":2,
+		"levelName":"县",
+		"name":"东丰县",
+		"parentCode":"2204"
+	},
+	{
+		"code":"220422",
+		"fullCode":"220422000000",
+		"level":2,
+		"levelName":"县",
+		"name":"东辽县",
+		"parentCode":"2204"
+	}
+]

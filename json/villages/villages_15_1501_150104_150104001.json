@@ -1,0 +1,34 @@
+[
+	{
+		"code":"150104001002",
+		"fullCode":"150104001002",
+		"level":4,
+		"levelName":"村",
+		"name":"五塔北街社区",
+		"parentCode":"1501"
+	},
+	{
+		"code":"150104001004",
+		"fullCode":"150104001004",
+		"level":4,
+		"levelName":"村",
+		"name":"五塔寺前街社区",
+		"parentCode":"1501"
+	},
+	{
+		"code":"150104001005",
+		"fullCode":"150104001005",
+		"level":4,
+		"levelName":"村",
+		"name":"建华北街社区",
+		"parentCode":"1501"
+	},
+	{
+		"code":"150104001006",
+		"fullCode":"150104001006",
+		"level":4,
+		"levelName":"村",
+		"name":"建华南街社区",
+		"parentCode":"1501"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230304004001",
+		"fullCode":"230304004001",
+		"level":4,
+		"levelName":"村",
+		"name":"新建社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230304004002",
+		"fullCode":"230304004002",
+		"level":4,
+		"levelName":"村",
+		"name":"中心社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230304004003",
+		"fullCode":"230304004003",
+		"level":4,
+		"levelName":"村",
+		"name":"和平社区",
+		"parentCode":"2303"
+	}
+]

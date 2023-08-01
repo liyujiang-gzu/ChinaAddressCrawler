@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230302001001",
+		"fullCode":"230302001001",
+		"level":4,
+		"levelName":"村",
+		"name":"向阳社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230302001003",
+		"fullCode":"230302001003",
+		"level":4,
+		"levelName":"村",
+		"name":"北山社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230302001004",
+		"fullCode":"230302001004",
+		"level":4,
+		"levelName":"村",
+		"name":"东山社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230302001006",
+		"fullCode":"230302001006",
+		"level":4,
+		"levelName":"村",
+		"name":"园林社区",
+		"parentCode":"2303"
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"code":"460105",
+		"fullCode":"460105000000",
+		"level":2,
+		"levelName":"县",
+		"name":"秀英区",
+		"parentCode":"4601"
+	},
+	{
+		"code":"460106",
+		"fullCode":"460106000000",
+		"level":2,
+		"levelName":"县",
+		"name":"龙华区",
+		"parentCode":"4601"
+	},
+	{
+		"code":"460107",
+		"fullCode":"460107000000",
+		"level":2,
+		"levelName":"县",
+		"name":"琼山区",
+		"parentCode":"4601"
+	},
+	{
+		"code":"460108",
+		"fullCode":"460108000000",
+		"level":2,
+		"levelName":"县",
+		"name":"美兰区",
+		"parentCode":"4601"
+	}
+]

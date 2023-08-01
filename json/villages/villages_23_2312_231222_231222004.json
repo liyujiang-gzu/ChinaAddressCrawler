@@ -1,0 +1,26 @@
+[
+	{
+		"code":"231222004001",
+		"fullCode":"231222004001",
+		"level":4,
+		"levelName":"村",
+		"name":"新建社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231222004005",
+		"fullCode":"231222004005",
+		"level":4,
+		"levelName":"村",
+		"name":"新河社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231222004007",
+		"fullCode":"231222004007",
+		"level":4,
+		"levelName":"村",
+		"name":"新华社区",
+		"parentCode":"2312"
+	}
+]

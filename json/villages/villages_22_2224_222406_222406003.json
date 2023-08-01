@@ -1,0 +1,26 @@
+[
+	{
+		"code":"222406003001",
+		"fullCode":"222406003001",
+		"level":4,
+		"levelName":"村",
+		"name":"文兴社区",
+		"parentCode":"2224"
+	},
+	{
+		"code":"222406003003",
+		"fullCode":"222406003003",
+		"level":4,
+		"levelName":"村",
+		"name":"文慧社区",
+		"parentCode":"2224"
+	},
+	{
+		"code":"222406003004",
+		"fullCode":"222406003004",
+		"level":4,
+		"levelName":"村",
+		"name":"文盛社区",
+		"parentCode":"2224"
+	}
+]

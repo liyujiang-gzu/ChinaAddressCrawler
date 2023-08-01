@@ -1,0 +1,26 @@
+[
+	{
+		"code":"450302001",
+		"fullCode":"450302001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"秀峰街道",
+		"parentCode":"450302"
+	},
+	{
+		"code":"450302002",
+		"fullCode":"450302002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"丽君街道",
+		"parentCode":"450302"
+	},
+	{
+		"code":"450302003",
+		"fullCode":"450302003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"甲山街道",
+		"parentCode":"450302"
+	}
+]

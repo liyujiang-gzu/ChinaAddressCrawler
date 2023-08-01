@@ -1,0 +1,18 @@
+[
+	{
+		"code":"220203401001",
+		"fullCode":"220203401001",
+		"level":4,
+		"levelName":"村",
+		"name":"金珠社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220203401002",
+		"fullCode":"220203401002",
+		"level":4,
+		"levelName":"村",
+		"name":"豫园社区",
+		"parentCode":"2202"
+	}
+]

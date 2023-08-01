@@ -1,0 +1,26 @@
+[
+	{
+		"code":"230404006001",
+		"fullCode":"230404006001",
+		"level":4,
+		"levelName":"村",
+		"name":"麓兴社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230404006002",
+		"fullCode":"230404006002",
+		"level":4,
+		"levelName":"村",
+		"name":"麓强社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230404006003",
+		"fullCode":"230404006003",
+		"level":4,
+		"levelName":"村",
+		"name":"麓岭社区",
+		"parentCode":"2304"
+	}
+]

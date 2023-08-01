@@ -1,0 +1,26 @@
+[
+	{
+		"code":"232761004001",
+		"fullCode":"232761004001",
+		"level":4,
+		"levelName":"村",
+		"name":"长青路",
+		"parentCode":"2327"
+	},
+	{
+		"code":"232761004002",
+		"fullCode":"232761004002",
+		"level":4,
+		"levelName":"村",
+		"name":"鑫源",
+		"parentCode":"2327"
+	},
+	{
+		"code":"232761004003",
+		"fullCode":"232761004003",
+		"level":4,
+		"levelName":"村",
+		"name":"春城",
+		"parentCode":"2327"
+	}
+]

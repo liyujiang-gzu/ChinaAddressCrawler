@@ -1,0 +1,18 @@
+[
+	{
+		"code":"150304002001",
+		"fullCode":"150304002001",
+		"level":4,
+		"levelName":"村",
+		"name":"富强社区",
+		"parentCode":"1503"
+	},
+	{
+		"code":"150304002002",
+		"fullCode":"150304002002",
+		"level":4,
+		"levelName":"村",
+		"name":"胡杨社区",
+		"parentCode":"1503"
+	}
+]

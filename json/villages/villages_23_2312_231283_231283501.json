@@ -1,0 +1,26 @@
+[
+	{
+		"code":"231283501402",
+		"fullCode":"231283501402",
+		"level":4,
+		"levelName":"村",
+		"name":"红光场直社区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231283501501",
+		"fullCode":"231283501501",
+		"level":4,
+		"levelName":"村",
+		"name":"红光农场叶家管理区",
+		"parentCode":"2312"
+	},
+	{
+		"code":"231283501502",
+		"fullCode":"231283501502",
+		"level":4,
+		"levelName":"村",
+		"name":"红光农场陈家管理区",
+		"parentCode":"2312"
+	}
+]

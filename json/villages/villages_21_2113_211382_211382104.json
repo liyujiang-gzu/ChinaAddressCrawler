@@ -1,0 +1,26 @@
+[
+	{
+		"code":"211382104001",
+		"fullCode":"211382104001",
+		"level":4,
+		"levelName":"村",
+		"name":"向东社区",
+		"parentCode":"2113"
+	},
+	{
+		"code":"211382104200",
+		"fullCode":"211382104200",
+		"level":4,
+		"levelName":"村",
+		"name":"杨杖子村",
+		"parentCode":"2113"
+	},
+	{
+		"code":"211382104201",
+		"fullCode":"211382104201",
+		"level":4,
+		"levelName":"村",
+		"name":"百牛群村",
+		"parentCode":"2113"
+	}
+]

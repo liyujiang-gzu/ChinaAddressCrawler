@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150621006001",
+		"fullCode":"150621006001",
+		"level":4,
+		"levelName":"村",
+		"name":"锦园社区",
+		"parentCode":"1506"
+	},
+	{
+		"code":"150621006002",
+		"fullCode":"150621006002",
+		"level":4,
+		"levelName":"村",
+		"name":"新园社区",
+		"parentCode":"1506"
+	},
+	{
+		"code":"150621006003",
+		"fullCode":"150621006003",
+		"level":4,
+		"levelName":"村",
+		"name":"东源社区",
+		"parentCode":"1506"
+	}
+]

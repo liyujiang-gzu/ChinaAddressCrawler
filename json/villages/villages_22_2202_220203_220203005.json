@@ -1,0 +1,26 @@
+[
+	{
+		"code":"220203005001",
+		"fullCode":"220203005001",
+		"level":4,
+		"levelName":"村",
+		"name":"象园社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220203005004",
+		"fullCode":"220203005004",
+		"level":4,
+		"levelName":"村",
+		"name":"密哈社区",
+		"parentCode":"2202"
+	},
+	{
+		"code":"220203005005",
+		"fullCode":"220203005005",
+		"level":4,
+		"levelName":"村",
+		"name":"清源社区",
+		"parentCode":"2202"
+	}
+]

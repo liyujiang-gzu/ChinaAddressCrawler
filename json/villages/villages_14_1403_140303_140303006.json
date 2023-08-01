@@ -1,0 +1,34 @@
+[
+	{
+		"code":"140303006001",
+		"fullCode":"140303006001",
+		"level":4,
+		"levelName":"村",
+		"name":"枣岭山社区",
+		"parentCode":"1403"
+	},
+	{
+		"code":"140303006002",
+		"fullCode":"140303006002",
+		"level":4,
+		"levelName":"村",
+		"name":"小河滩社区",
+		"parentCode":"1403"
+	},
+	{
+		"code":"140303006003",
+		"fullCode":"140303006003",
+		"level":4,
+		"levelName":"村",
+		"name":"苏村社区",
+		"parentCode":"1403"
+	},
+	{
+		"code":"140303006004",
+		"fullCode":"140303006004",
+		"level":4,
+		"levelName":"村",
+		"name":"水滩社区",
+		"parentCode":"1403"
+	}
+]

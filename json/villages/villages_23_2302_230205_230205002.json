@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230205002002",
+		"fullCode":"230205002002",
+		"level":4,
+		"levelName":"村",
+		"name":"新建社区",
+		"parentCode":"2302"
+	},
+	{
+		"code":"230205002003",
+		"fullCode":"230205002003",
+		"level":4,
+		"levelName":"村",
+		"name":"前进社区",
+		"parentCode":"2302"
+	}
+]

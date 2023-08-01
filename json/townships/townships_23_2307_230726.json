@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230726100",
+		"fullCode":"230726100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"南岔镇",
+		"parentCode":"230726"
+	},
+	{
+		"code":"230726101",
+		"fullCode":"230726101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"晨明镇",
+		"parentCode":"230726"
+	},
+	{
+		"code":"230726102",
+		"fullCode":"230726102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"浩良河镇",
+		"parentCode":"230726"
+	},
+	{
+		"code":"230726200",
+		"fullCode":"230726200000",
+		"level":3,
+		"levelName":"乡",
+		"name":"迎春乡",
+		"parentCode":"230726"
+	}
+]

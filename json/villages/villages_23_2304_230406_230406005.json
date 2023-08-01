@@ -1,0 +1,18 @@
+[
+	{
+		"code":"230406005001",
+		"fullCode":"230406005001",
+		"level":4,
+		"levelName":"村",
+		"name":"三星社区",
+		"parentCode":"2304"
+	},
+	{
+		"code":"230406005002",
+		"fullCode":"230406005002",
+		"level":4,
+		"levelName":"村",
+		"name":"鹤翔社区",
+		"parentCode":"2304"
+	}
+]

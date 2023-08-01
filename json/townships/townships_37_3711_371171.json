@@ -1,0 +1,18 @@
+[
+	{
+		"code":"371171003",
+		"fullCode":"371171003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"奎山街道",
+		"parentCode":"371171"
+	},
+	{
+		"code":"371171007",
+		"fullCode":"371171007000",
+		"level":3,
+		"levelName":"乡",
+		"name":"北京路街道",
+		"parentCode":"371171"
+	}
+]

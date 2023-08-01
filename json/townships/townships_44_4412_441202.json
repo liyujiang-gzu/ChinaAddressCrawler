@@ -1,0 +1,34 @@
+[
+	{
+		"code":"441202001",
+		"fullCode":"441202001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"端州区城东街道",
+		"parentCode":"441202"
+	},
+	{
+		"code":"441202003",
+		"fullCode":"441202003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"端州区城西街道",
+		"parentCode":"441202"
+	},
+	{
+		"code":"441202005",
+		"fullCode":"441202005000",
+		"level":3,
+		"levelName":"乡",
+		"name":"端州区黄岗街道",
+		"parentCode":"441202"
+	},
+	{
+		"code":"441202006",
+		"fullCode":"441202006000",
+		"level":3,
+		"levelName":"乡",
+		"name":"端州区睦岗街道",
+		"parentCode":"441202"
+	}
+]

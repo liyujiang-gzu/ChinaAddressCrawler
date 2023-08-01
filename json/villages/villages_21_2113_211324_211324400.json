@@ -1,0 +1,34 @@
+[
+	{
+		"code":"211324400500",
+		"fullCode":"211324400500",
+		"level":4,
+		"levelName":"村",
+		"name":"东官分场生活区",
+		"parentCode":"2113"
+	},
+	{
+		"code":"211324400501",
+		"fullCode":"211324400501",
+		"level":4,
+		"levelName":"村",
+		"name":"西官分场生活区",
+		"parentCode":"2113"
+	},
+	{
+		"code":"211324400502",
+		"fullCode":"211324400502",
+		"level":4,
+		"levelName":"村",
+		"name":"北荒分场生活区",
+		"parentCode":"2113"
+	},
+	{
+		"code":"211324400503",
+		"fullCode":"211324400503",
+		"level":4,
+		"levelName":"村",
+		"name":"前坟分场生活区",
+		"parentCode":"2113"
+	}
+]

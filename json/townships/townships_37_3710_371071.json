@@ -1,0 +1,26 @@
+[
+	{
+		"code":"371071004",
+		"fullCode":"371071004000",
+		"level":3,
+		"levelName":"乡",
+		"name":"怡园街道",
+		"parentCode":"371071"
+	},
+	{
+		"code":"371071007",
+		"fullCode":"371071007000",
+		"level":3,
+		"levelName":"乡",
+		"name":"田和街道",
+		"parentCode":"371071"
+	},
+	{
+		"code":"371071108",
+		"fullCode":"371071108000",
+		"level":3,
+		"levelName":"乡",
+		"name":"初村镇",
+		"parentCode":"371071"
+	}
+]

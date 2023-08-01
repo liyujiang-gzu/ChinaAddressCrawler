@@ -1,0 +1,34 @@
+[
+	{
+		"code":"220621108201",
+		"fullCode":"220621108201",
+		"level":4,
+		"levelName":"村",
+		"name":"长松村",
+		"parentCode":"2206"
+	},
+	{
+		"code":"220621108202",
+		"fullCode":"220621108202",
+		"level":4,
+		"levelName":"村",
+		"name":"枫林村",
+		"parentCode":"2206"
+	},
+	{
+		"code":"220621108203",
+		"fullCode":"220621108203",
+		"level":4,
+		"levelName":"村",
+		"name":"前进村",
+		"parentCode":"2206"
+	},
+	{
+		"code":"220621108204",
+		"fullCode":"220621108204",
+		"level":4,
+		"levelName":"村",
+		"name":"锦江村",
+		"parentCode":"2206"
+	}
+]

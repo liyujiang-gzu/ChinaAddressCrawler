@@ -1,0 +1,18 @@
+[
+	{
+		"code":"130871104",
+		"fullCode":"130871104000",
+		"level":3,
+		"levelName":"乡",
+		"name":"冯营子镇",
+		"parentCode":"130871"
+	},
+	{
+		"code":"130871106",
+		"fullCode":"130871106000",
+		"level":3,
+		"levelName":"乡",
+		"name":"上板城镇",
+		"parentCode":"130871"
+	}
+]

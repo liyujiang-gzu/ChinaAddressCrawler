@@ -1,0 +1,34 @@
+[
+	{
+		"code":"210681405500",
+		"fullCode":"210681405500",
+		"level":4,
+		"levelName":"村",
+		"name":"赵氏沟分场生活区",
+		"parentCode":"2106"
+	},
+	{
+		"code":"210681405501",
+		"fullCode":"210681405501",
+		"level":4,
+		"levelName":"村",
+		"name":"窟隆山分场生活区",
+		"parentCode":"2106"
+	},
+	{
+		"code":"210681405502",
+		"fullCode":"210681405502",
+		"level":4,
+		"levelName":"村",
+		"name":"临海分场生活区",
+		"parentCode":"2106"
+	},
+	{
+		"code":"210681405503",
+		"fullCode":"210681405503",
+		"level":4,
+		"levelName":"村",
+		"name":"小寺分场生活区",
+		"parentCode":"2106"
+	}
+]

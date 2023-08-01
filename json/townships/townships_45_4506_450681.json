@@ -1,0 +1,26 @@
+[
+	{
+		"code":"450681100",
+		"fullCode":"450681100000",
+		"level":3,
+		"levelName":"乡",
+		"name":"东兴镇",
+		"parentCode":"450681"
+	},
+	{
+		"code":"450681101",
+		"fullCode":"450681101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"江平镇",
+		"parentCode":"450681"
+	},
+	{
+		"code":"450681102",
+		"fullCode":"450681102000",
+		"level":3,
+		"levelName":"乡",
+		"name":"马路镇",
+		"parentCode":"450681"
+	}
+]

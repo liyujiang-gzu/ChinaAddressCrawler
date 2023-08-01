@@ -1,0 +1,34 @@
+[
+	{
+		"code":"152921115200",
+		"fullCode":"152921115200",
+		"level":4,
+		"levelName":"村",
+		"name":"查拉格日嘎查",
+		"parentCode":"1529"
+	},
+	{
+		"code":"152921115201",
+		"fullCode":"152921115201",
+		"level":4,
+		"levelName":"村",
+		"name":"塔本陶勒盖嘎查",
+		"parentCode":"1529"
+	},
+	{
+		"code":"152921115202",
+		"fullCode":"152921115202",
+		"level":4,
+		"levelName":"村",
+		"name":"特莫乌拉嘎查",
+		"parentCode":"1529"
+	},
+	{
+		"code":"152921115203",
+		"fullCode":"152921115203",
+		"level":4,
+		"levelName":"村",
+		"name":"乌兰哈达嘎查",
+		"parentCode":"1529"
+	}
+]

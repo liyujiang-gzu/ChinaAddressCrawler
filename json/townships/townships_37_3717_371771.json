@@ -1,0 +1,34 @@
+[
+	{
+		"code":"371771001",
+		"fullCode":"371771001000",
+		"level":3,
+		"levelName":"乡",
+		"name":"丹阳街道",
+		"parentCode":"371771"
+	},
+	{
+		"code":"371771002",
+		"fullCode":"371771002000",
+		"level":3,
+		"levelName":"乡",
+		"name":"岳程街道",
+		"parentCode":"371771"
+	},
+	{
+		"code":"371771003",
+		"fullCode":"371771003000",
+		"level":3,
+		"levelName":"乡",
+		"name":"佃户屯街道",
+		"parentCode":"371771"
+	},
+	{
+		"code":"371771101",
+		"fullCode":"371771101000",
+		"level":3,
+		"levelName":"乡",
+		"name":"陈集镇",
+		"parentCode":"371771"
+	}
+]

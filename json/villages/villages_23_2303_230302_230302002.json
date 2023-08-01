@@ -1,0 +1,34 @@
+[
+	{
+		"code":"230302002002",
+		"fullCode":"230302002002",
+		"level":4,
+		"levelName":"村",
+		"name":"跃进社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230302002004",
+		"fullCode":"230302002004",
+		"level":4,
+		"levelName":"村",
+		"name":"建设社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230302002005",
+		"fullCode":"230302002005",
+		"level":4,
+		"levelName":"村",
+		"name":"康新社区",
+		"parentCode":"2303"
+	},
+	{
+		"code":"230302002006",
+		"fullCode":"230302002006",
+		"level":4,
+		"levelName":"村",
+		"name":"新建社区",
+		"parentCode":"2303"
+	}
+]

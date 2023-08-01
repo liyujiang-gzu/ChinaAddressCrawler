@@ -1,0 +1,26 @@
+[
+	{
+		"code":"150727200200",
+		"fullCode":"150727200200",
+		"level":4,
+		"levelName":"村",
+		"name":"布达图嘎查",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150727200201",
+		"fullCode":"150727200201",
+		"level":4,
+		"levelName":"村",
+		"name":"贝尔嘎查",
+		"parentCode":"1507"
+	},
+	{
+		"code":"150727200202",
+		"fullCode":"150727200202",
+		"level":4,
+		"levelName":"村",
+		"name":"莫能塔拉嘎查",
+		"parentCode":"1507"
+	}
+]
