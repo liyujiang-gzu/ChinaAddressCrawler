@@ -72,7 +72,9 @@ public class McaGovCrawler {
     private static void saveAsSQL(List<Region> regions) {
         StringBuilder sb = new StringBuilder();
         sb.append("-- 国家民政部，2022年中华人民共和国县以上行政区划代码\n");
-        sb.append("REPLACE INTO region_mca (`code`, `name`, `level`, `parent_code`) VALUES\n");
+        sb.append("SET FOREIGN_KEY_CHECKS=0;\n");
+        sb.append("TRUNCATE TABLE region_mca;\n");
+        sb.append("INSERT INTO region_mca (`code`, `name`, `level`, `parent_code`) VALUES\n");
         int i = 0, n = regions.size();
         for (Region region : regions) {
             sb.append("(");
@@ -83,6 +85,7 @@ public class McaGovCrawler {
             sb.append(i == n - 1 ? ");\n" : "), \n");
             i++;
         }
+        sb.append("SET FOREIGN_KEY_CHECKS=1;\n");
         MessyUtils.saveToFile("sql/region_mca.sql", sb.toString());
     }
 

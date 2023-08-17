@@ -1,5 +1,7 @@
 -- 国家民政部，2022年中华人民共和国县以上行政区划代码
-REPLACE INTO region_mca (`code`, `name`, `level`, `parent_code`) VALUES
+SET FOREIGN_KEY_CHECKS=0;
+TRUNCATE TABLE region_mca;
+INSERT INTO region_mca (`code`, `name`, `level`, `parent_code`) VALUES
 ('110000', '北京市', '省级', '000000'), 
 ('110101', '东城区', '县级', '110100'), 
 ('110102', '西城区', '县级', '110100'), 
@@ -3208,3 +3210,4 @@ REPLACE INTO region_mca (`code`, `name`, `level`, `parent_code`) VALUES
 ('710000', '台湾省', '省级', '000000'), 
 ('810000', '香港特别行政区', '省级', '000000'), 
 ('820000', '澳门特别行政区', '省级', '000000');
+SET FOREIGN_KEY_CHECKS=1;

@@ -26,11 +26,14 @@ public class JsonSqlConverter {
         MyLog.debug("解析到乡级数据数量：" + townshipsRegions.size());
         StringBuilder sb = new StringBuilder();
         sb.append("-- 国家统计局，2022年度全国统计用区划代码和城乡划分代码\n");
-        sb.append("REPLACE INTO region_stats (`code`, `full_code`, `name`, `level`, `parent_code`) VALUES\n");
+        sb.append("SET FOREIGN_KEY_CHECKS=0;\n");
+        sb.append("TRUNCATE TABLE region_stats;\n");
+        sb.append("INSERT INTO region_stats (`code`, `full_code`, `name`, `level`, `parent_code`) VALUES\n");
         buildSQL(provinceRegions, sb, false);
         buildSQL(citiesRegions, sb, false);
         buildSQL(countiesRegions, sb, false);
         buildSQL(townshipsRegions, sb, true);
+        sb.append("SET FOREIGN_KEY_CHECKS=1;\n");
         MessyUtils.saveToFile("sql/region_stats.sql", sb.toString());
     }
 

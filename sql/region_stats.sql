@@ -1,5 +1,7 @@
 -- 国家统计局，2022年度全国统计用区划代码和城乡划分代码
-REPLACE INTO region_stats (`code`, `full_code`, `name`, `level`, `parent_code`) VALUES
+SET FOREIGN_KEY_CHECKS=0;
+TRUNCATE TABLE region_stats;
+INSERT INTO region_stats (`code`, `full_code`, `name`, `level`, `parent_code`) VALUES
 ('11', '110000000000', '北京市', '省级', '0'), 
 ('12', '120000000000', '天津市', '省级', '0'), 
 ('13', '130000000000', '河北省', '省级', '0'), 
@@ -44703,3 +44705,4 @@ REPLACE INTO region_stats (`code`, `full_code`, `name`, `level`, `parent_code`) 
 ('659011500', '659011500000', '二道湖镇', '乡级', '659011'), 
 ('659011501', '659011501000', '骆驿镇', '乡级', '659011'), 
 ('659011502', '659011502000', '黄田镇', '乡级', '659011');
+SET FOREIGN_KEY_CHECKS=1;
