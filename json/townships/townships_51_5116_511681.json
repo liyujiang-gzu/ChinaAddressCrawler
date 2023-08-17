@@ -3,7 +3,7 @@
 		"code":"511681001",
 		"fullCode":"511681001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河街道",
 		"parentCode":"511681"
 	},
@@ -11,7 +11,7 @@
 		"code":"511681002",
 		"fullCode":"511681002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古桥街道",
 		"parentCode":"511681"
 	},
@@ -19,7 +19,7 @@
 		"code":"511681003",
 		"fullCode":"511681003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华龙街道",
 		"parentCode":"511681"
 	},
@@ -27,7 +27,7 @@
 		"code":"511681101",
 		"fullCode":"511681101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天池镇",
 		"parentCode":"511681"
 	},
@@ -35,7 +35,7 @@
 		"code":"511681102",
 		"fullCode":"511681102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禄市镇",
 		"parentCode":"511681"
 	},
@@ -43,7 +43,7 @@
 		"code":"511681103",
 		"fullCode":"511681103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴镇",
 		"parentCode":"511681"
 	},
@@ -51,7 +51,7 @@
 		"code":"511681104",
 		"fullCode":"511681104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明月镇",
 		"parentCode":"511681"
 	},
@@ -59,7 +59,7 @@
 		"code":"511681105",
 		"fullCode":"511681105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳和镇",
 		"parentCode":"511681"
 	},
@@ -67,7 +67,7 @@
 		"code":"511681106",
 		"fullCode":"511681106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高兴镇",
 		"parentCode":"511681"
 	},
@@ -75,7 +75,7 @@
 		"code":"511681108",
 		"fullCode":"511681108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪口镇",
 		"parentCode":"511681"
 	},
@@ -83,7 +83,7 @@
 		"code":"511681109",
 		"fullCode":"511681109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆华镇",
 		"parentCode":"511681"
 	},
@@ -91,7 +91,7 @@
 		"code":"511681200",
 		"fullCode":"511681200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红岩乡",
 		"parentCode":"511681"
 	}

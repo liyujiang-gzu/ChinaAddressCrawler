@@ -3,7 +3,7 @@
 		"code":"611022001",
 		"fullCode":"611022001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙驹寨街道",
 		"parentCode":"611022"
 	},
@@ -11,7 +11,7 @@
 		"code":"611022101",
 		"fullCode":"611022101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庾岭镇",
 		"parentCode":"611022"
 	},
@@ -19,7 +19,7 @@
 		"code":"611022102",
 		"fullCode":"611022102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡川镇",
 		"parentCode":"611022"
 	},
@@ -27,7 +27,7 @@
 		"code":"611022103",
 		"fullCode":"611022103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峦庄镇",
 		"parentCode":"611022"
 	},
@@ -35,7 +35,7 @@
 		"code":"611022104",
 		"fullCode":"611022104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁峪铺镇",
 		"parentCode":"611022"
 	},
@@ -43,7 +43,7 @@
 		"code":"611022105",
 		"fullCode":"611022105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武关镇",
 		"parentCode":"611022"
 	},
@@ -51,7 +51,7 @@
 		"code":"611022106",
 		"fullCode":"611022106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹林关镇",
 		"parentCode":"611022"
 	},
@@ -59,7 +59,7 @@
 		"code":"611022107",
 		"fullCode":"611022107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土门镇",
 		"parentCode":"611022"
 	},
@@ -67,7 +67,7 @@
 		"code":"611022108",
 		"fullCode":"611022108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺坪镇",
 		"parentCode":"611022"
 	},
@@ -75,7 +75,7 @@
 		"code":"611022109",
 		"fullCode":"611022109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商镇",
 		"parentCode":"611022"
 	},
@@ -83,7 +83,7 @@
 		"code":"611022110",
 		"fullCode":"611022110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棣花镇",
 		"parentCode":"611022"
 	},
@@ -91,7 +91,7 @@
 		"code":"611022115",
 		"fullCode":"611022115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花瓶子镇",
 		"parentCode":"611022"
 	}

@@ -3,7 +3,7 @@
 		"code":"620121100",
 		"fullCode":"620121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"620121"
 	},
@@ -11,7 +11,7 @@
 		"code":"620121101",
 		"fullCode":"620121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红城镇",
 		"parentCode":"620121"
 	},
@@ -19,7 +19,7 @@
 		"code":"620121102",
 		"fullCode":"620121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中堡镇",
 		"parentCode":"620121"
 	},
@@ -27,7 +27,7 @@
 		"code":"620121103",
 		"fullCode":"620121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武胜驿镇",
 		"parentCode":"620121"
 	},
@@ -35,7 +35,7 @@
 		"code":"620121104",
 		"fullCode":"620121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河桥镇",
 		"parentCode":"620121"
 	},
@@ -43,7 +43,7 @@
 		"code":"620121105",
 		"fullCode":"620121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连城镇",
 		"parentCode":"620121"
 	},
@@ -51,7 +51,7 @@
 		"code":"620121106",
 		"fullCode":"620121106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苦水镇",
 		"parentCode":"620121"
 	},
@@ -59,7 +59,7 @@
 		"code":"620121109",
 		"fullCode":"620121109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大同镇",
 		"parentCode":"620121"
 	},
@@ -67,7 +67,7 @@
 		"code":"620121110",
 		"fullCode":"620121110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉寺镇",
 		"parentCode":"620121"
 	},
@@ -75,7 +75,7 @@
 		"code":"620121111",
 		"fullCode":"620121111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"树屏镇",
 		"parentCode":"620121"
 	},
@@ -83,7 +83,7 @@
 		"code":"620121113",
 		"fullCode":"620121113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳树镇",
 		"parentCode":"620121"
 	},
@@ -91,7 +91,7 @@
 		"code":"620121114",
 		"fullCode":"620121114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通远镇",
 		"parentCode":"620121"
 	},
@@ -99,7 +99,7 @@
 		"code":"620121201",
 		"fullCode":"620121201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪城乡",
 		"parentCode":"620121"
 	},
@@ -107,7 +107,7 @@
 		"code":"620121202",
 		"fullCode":"620121202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民乐乡",
 		"parentCode":"620121"
 	},
@@ -115,7 +115,7 @@
 		"code":"620121204",
 		"fullCode":"620121204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七山乡",
 		"parentCode":"620121"
 	}

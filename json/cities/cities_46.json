@@ -3,7 +3,7 @@
 		"code":"4601",
 		"fullCode":"460100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"海口市",
 		"parentCode":"46"
 	},
@@ -11,7 +11,7 @@
 		"code":"4602",
 		"fullCode":"460200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"三亚市",
 		"parentCode":"46"
 	},
@@ -19,7 +19,7 @@
 		"code":"4603",
 		"fullCode":"460300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"三沙市",
 		"parentCode":"46"
 	},
@@ -27,7 +27,7 @@
 		"code":"4604",
 		"fullCode":"460400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"儋州市",
 		"parentCode":"46"
 	},
@@ -35,7 +35,7 @@
 		"code":"4690",
 		"fullCode":"469000000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"省直辖县级行政区划",
 		"parentCode":"46"
 	}

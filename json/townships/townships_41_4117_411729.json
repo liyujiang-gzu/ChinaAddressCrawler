@@ -3,7 +3,7 @@
 		"code":"411729001",
 		"fullCode":"411729001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古吕街道",
 		"parentCode":"411729"
 	},
@@ -11,7 +11,7 @@
 		"code":"411729002",
 		"fullCode":"411729002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"今是街道",
 		"parentCode":"411729"
 	},
@@ -19,7 +19,7 @@
 		"code":"411729003",
 		"fullCode":"411729003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月亮湾街道",
 		"parentCode":"411729"
 	},
@@ -27,7 +27,7 @@
 		"code":"411729101",
 		"fullCode":"411729101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"砖店镇",
 		"parentCode":"411729"
 	},
@@ -35,7 +35,7 @@
 		"code":"411729102",
 		"fullCode":"411729102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈店镇",
 		"parentCode":"411729"
 	},
@@ -43,7 +43,7 @@
 		"code":"411729103",
 		"fullCode":"411729103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛阁寺镇",
 		"parentCode":"411729"
 	},
@@ -51,7 +51,7 @@
 		"code":"411729104",
 		"fullCode":"411729104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"练村镇",
 		"parentCode":"411729"
 	},
@@ -59,7 +59,7 @@
 		"code":"411729105",
 		"fullCode":"411729105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棠村镇",
 		"parentCode":"411729"
 	},
@@ -67,7 +67,7 @@
 		"code":"411729106",
 		"fullCode":"411729106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩集镇",
 		"parentCode":"411729"
 	},
@@ -75,7 +75,7 @@
 		"code":"411729107",
 		"fullCode":"411729107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙口镇",
 		"parentCode":"411729"
 	},
@@ -83,7 +83,7 @@
 		"code":"411729108",
 		"fullCode":"411729108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李桥回族镇",
 		"parentCode":"411729"
 	},
@@ -91,7 +91,7 @@
 		"code":"411729109",
 		"fullCode":"411729109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄楼镇",
 		"parentCode":"411729"
 	},
@@ -99,7 +99,7 @@
 		"code":"411729110",
 		"fullCode":"411729110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙召镇",
 		"parentCode":"411729"
 	},
@@ -107,7 +107,7 @@
 		"code":"411729111",
 		"fullCode":"411729111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余店镇",
 		"parentCode":"411729"
 	},
@@ -115,7 +115,7 @@
 		"code":"411729204",
 		"fullCode":"411729204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河坞乡",
 		"parentCode":"411729"
 	},
@@ -123,7 +123,7 @@
 		"code":"411729205",
 		"fullCode":"411729205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关津乡",
 		"parentCode":"411729"
 	},
@@ -131,7 +131,7 @@
 		"code":"411729206",
 		"fullCode":"411729206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋岗乡",
 		"parentCode":"411729"
 	},
@@ -139,7 +139,7 @@
 		"code":"411729207",
 		"fullCode":"411729207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顿岗乡",
 		"parentCode":"411729"
 	},
@@ -147,7 +147,7 @@
 		"code":"411729208",
 		"fullCode":"411729208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涧头乡",
 		"parentCode":"411729"
 	},
@@ -155,7 +155,7 @@
 		"code":"411729209",
 		"fullCode":"411729209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨庄户乡",
 		"parentCode":"411729"
 	},
@@ -163,7 +163,7 @@
 		"code":"411729210",
 		"fullCode":"411729210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化庄乡",
 		"parentCode":"411729"
 	},
@@ -171,7 +171,7 @@
 		"code":"411729211",
 		"fullCode":"411729211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栎城乡",
 		"parentCode":"411729"
 	},
@@ -179,7 +179,7 @@
 		"code":"411729213",
 		"fullCode":"411729213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弥陀寺乡",
 		"parentCode":"411729"
 	},
@@ -187,7 +187,7 @@
 		"code":"411729400",
 		"fullCode":"411729400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖街道",
 		"parentCode":"411729"
 	}

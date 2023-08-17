@@ -3,7 +3,7 @@
 		"code":"371702",
 		"fullCode":"371702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"牡丹区",
 		"parentCode":"3717"
 	},
@@ -11,7 +11,7 @@
 		"code":"371703",
 		"fullCode":"371703000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"定陶区",
 		"parentCode":"3717"
 	},
@@ -19,7 +19,7 @@
 		"code":"371721",
 		"fullCode":"371721000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"曹县",
 		"parentCode":"3717"
 	},
@@ -27,7 +27,7 @@
 		"code":"371722",
 		"fullCode":"371722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"单县",
 		"parentCode":"3717"
 	},
@@ -35,7 +35,7 @@
 		"code":"371723",
 		"fullCode":"371723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"成武县",
 		"parentCode":"3717"
 	},
@@ -43,7 +43,7 @@
 		"code":"371724",
 		"fullCode":"371724000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巨野县",
 		"parentCode":"3717"
 	},
@@ -51,7 +51,7 @@
 		"code":"371725",
 		"fullCode":"371725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郓城县",
 		"parentCode":"3717"
 	},
@@ -59,7 +59,7 @@
 		"code":"371726",
 		"fullCode":"371726000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鄄城县",
 		"parentCode":"3717"
 	},
@@ -67,7 +67,7 @@
 		"code":"371728",
 		"fullCode":"371728000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东明县",
 		"parentCode":"3717"
 	},
@@ -75,7 +75,7 @@
 		"code":"371771",
 		"fullCode":"371771000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"菏泽经济技术开发区",
 		"parentCode":"3717"
 	},
@@ -83,7 +83,7 @@
 		"code":"371772",
 		"fullCode":"371772000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"菏泽高新技术开发区",
 		"parentCode":"3717"
 	}

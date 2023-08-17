@@ -3,7 +3,7 @@
 		"code":"230803007",
 		"fullCode":"230803007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西林街道",
 		"parentCode":"230803"
 	},
@@ -11,7 +11,7 @@
 		"code":"230803008",
 		"fullCode":"230803008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设街道",
 		"parentCode":"230803"
 	},
@@ -19,7 +19,7 @@
 		"code":"230803009",
 		"fullCode":"230803009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安街道",
 		"parentCode":"230803"
 	},
@@ -27,7 +27,7 @@
 		"code":"230803010",
 		"fullCode":"230803010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学府街道",
 		"parentCode":"230803"
 	},
@@ -35,7 +35,7 @@
 		"code":"230803011",
 		"fullCode":"230803011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥南街道",
 		"parentCode":"230803"
 	},
@@ -43,7 +43,7 @@
 		"code":"230803198",
 		"fullCode":"230803198000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳区直辖村级区划",
 		"parentCode":"230803"
 	}

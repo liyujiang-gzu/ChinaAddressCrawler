@@ -3,7 +3,7 @@
 		"code":"140703101",
 		"fullCode":"140703101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡村镇",
 		"parentCode":"140703"
 	},
@@ -11,7 +11,7 @@
 		"code":"140703102",
 		"fullCode":"140703102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范村镇",
 		"parentCode":"140703"
 	},
@@ -19,7 +19,7 @@
 		"code":"140703103",
 		"fullCode":"140703103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水秀镇",
 		"parentCode":"140703"
 	},
@@ -27,7 +27,7 @@
 		"code":"140703200",
 		"fullCode":"140703200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侯城乡",
 		"parentCode":"140703"
 	},
@@ -35,7 +35,7 @@
 		"code":"140703201",
 		"fullCode":"140703201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北洸乡",
 		"parentCode":"140703"
 	},
@@ -43,7 +43,7 @@
 		"code":"140703203",
 		"fullCode":"140703203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳邑乡",
 		"parentCode":"140703"
 	},
@@ -51,7 +51,7 @@
 		"code":"140703204",
 		"fullCode":"140703204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小白乡",
 		"parentCode":"140703"
 	},
@@ -59,7 +59,7 @@
 		"code":"140703205",
 		"fullCode":"140703205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"任村乡",
 		"parentCode":"140703"
 	},
@@ -67,7 +67,7 @@
 		"code":"140703401",
 		"fullCode":"140703401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔区",
 		"parentCode":"140703"
 	},
@@ -75,7 +75,7 @@
 		"code":"140703402",
 		"fullCode":"140703402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城区",
 		"parentCode":"140703"
 	},
@@ -83,7 +83,7 @@
 		"code":"140703403",
 		"fullCode":"140703403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城区",
 		"parentCode":"140703"
 	}

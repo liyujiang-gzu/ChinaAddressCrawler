@@ -3,7 +3,7 @@
 		"code":"632622100",
 		"fullCode":"632622100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛来塘镇",
 		"parentCode":"632622"
 	},
@@ -11,7 +11,7 @@
 		"code":"632622200",
 		"fullCode":"632622200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多贡麻乡",
 		"parentCode":"632622"
 	},
@@ -19,7 +19,7 @@
 		"code":"632622201",
 		"fullCode":"632622201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马可河乡",
 		"parentCode":"632622"
 	},
@@ -27,7 +27,7 @@
 		"code":"632622202",
 		"fullCode":"632622202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉卡乡",
 		"parentCode":"632622"
 	},
@@ -35,7 +35,7 @@
 		"code":"632622203",
 		"fullCode":"632622203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达卡乡",
 		"parentCode":"632622"
 	},
@@ -43,7 +43,7 @@
 		"code":"632622204",
 		"fullCode":"632622204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"知钦乡",
 		"parentCode":"632622"
 	},
@@ -51,7 +51,7 @@
 		"code":"632622205",
 		"fullCode":"632622205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江日堂乡",
 		"parentCode":"632622"
 	},
@@ -59,7 +59,7 @@
 		"code":"632622206",
 		"fullCode":"632622206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚尔堂乡",
 		"parentCode":"632622"
 	},
@@ -67,7 +67,7 @@
 		"code":"632622207",
 		"fullCode":"632622207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灯塔乡",
 		"parentCode":"632622"
 	}

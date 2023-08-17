@@ -3,7 +3,7 @@
 		"code":"210202",
 		"fullCode":"210202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"中山区",
 		"parentCode":"2102"
 	},
@@ -11,7 +11,7 @@
 		"code":"210203",
 		"fullCode":"210203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西岗区",
 		"parentCode":"2102"
 	},
@@ -19,7 +19,7 @@
 		"code":"210204",
 		"fullCode":"210204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沙河口区",
 		"parentCode":"2102"
 	},
@@ -27,7 +27,7 @@
 		"code":"210211",
 		"fullCode":"210211000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"甘井子区",
 		"parentCode":"2102"
 	},
@@ -35,7 +35,7 @@
 		"code":"210212",
 		"fullCode":"210212000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"旅顺口区",
 		"parentCode":"2102"
 	},
@@ -43,7 +43,7 @@
 		"code":"210213",
 		"fullCode":"210213000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金州区",
 		"parentCode":"2102"
 	},
@@ -51,7 +51,7 @@
 		"code":"210214",
 		"fullCode":"210214000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"普兰店区",
 		"parentCode":"2102"
 	},
@@ -59,7 +59,7 @@
 		"code":"210224",
 		"fullCode":"210224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长海县",
 		"parentCode":"2102"
 	},
@@ -67,7 +67,7 @@
 		"code":"210281",
 		"fullCode":"210281000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"瓦房店市",
 		"parentCode":"2102"
 	},
@@ -75,7 +75,7 @@
 		"code":"210283",
 		"fullCode":"210283000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"庄河市",
 		"parentCode":"2102"
 	}

@@ -3,7 +3,7 @@
 		"code":"361102",
 		"fullCode":"361102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"信州区",
 		"parentCode":"3611"
 	},
@@ -11,7 +11,7 @@
 		"code":"361103",
 		"fullCode":"361103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"广丰区",
 		"parentCode":"3611"
 	},
@@ -19,7 +19,7 @@
 		"code":"361104",
 		"fullCode":"361104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"广信区",
 		"parentCode":"3611"
 	},
@@ -27,7 +27,7 @@
 		"code":"361123",
 		"fullCode":"361123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"玉山县",
 		"parentCode":"3611"
 	},
@@ -35,7 +35,7 @@
 		"code":"361124",
 		"fullCode":"361124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铅山县",
 		"parentCode":"3611"
 	},
@@ -43,7 +43,7 @@
 		"code":"361125",
 		"fullCode":"361125000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"横峰县",
 		"parentCode":"3611"
 	},
@@ -51,7 +51,7 @@
 		"code":"361126",
 		"fullCode":"361126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"弋阳县",
 		"parentCode":"3611"
 	},
@@ -59,7 +59,7 @@
 		"code":"361127",
 		"fullCode":"361127000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"余干县",
 		"parentCode":"3611"
 	},
@@ -67,7 +67,7 @@
 		"code":"361128",
 		"fullCode":"361128000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鄱阳县",
 		"parentCode":"3611"
 	},
@@ -75,7 +75,7 @@
 		"code":"361129",
 		"fullCode":"361129000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"万年县",
 		"parentCode":"3611"
 	},
@@ -83,7 +83,7 @@
 		"code":"361130",
 		"fullCode":"361130000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"婺源县",
 		"parentCode":"3611"
 	},
@@ -91,7 +91,7 @@
 		"code":"361181",
 		"fullCode":"361181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德兴市",
 		"parentCode":"3611"
 	}

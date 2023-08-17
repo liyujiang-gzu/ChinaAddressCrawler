@@ -3,7 +3,7 @@
 		"code":"430211001",
 		"fullCode":"430211001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嵩山路街道",
 		"parentCode":"430211"
 	},
@@ -11,7 +11,7 @@
 		"code":"430211002",
 		"fullCode":"430211002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰山路街道",
 		"parentCode":"430211"
 	},
@@ -19,7 +19,7 @@
 		"code":"430211003",
 		"fullCode":"430211003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栗雨街道",
 		"parentCode":"430211"
 	},
@@ -27,7 +27,7 @@
 		"code":"430211004",
 		"fullCode":"430211004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马家河街道",
 		"parentCode":"430211"
 	},
@@ -35,7 +35,7 @@
 		"code":"430211101",
 		"fullCode":"430211101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"群丰镇",
 		"parentCode":"430211"
 	},
@@ -43,7 +43,7 @@
 		"code":"430211102",
 		"fullCode":"430211102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷打石镇",
 		"parentCode":"430211"
 	},
@@ -51,7 +51,7 @@
 		"code":"430211103",
 		"fullCode":"430211103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三门镇",
 		"parentCode":"430211"
 	}

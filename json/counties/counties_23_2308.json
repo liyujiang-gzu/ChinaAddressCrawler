@@ -3,7 +3,7 @@
 		"code":"230803",
 		"fullCode":"230803000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"向阳区",
 		"parentCode":"2308"
 	},
@@ -11,7 +11,7 @@
 		"code":"230804",
 		"fullCode":"230804000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"前进区",
 		"parentCode":"2308"
 	},
@@ -19,7 +19,7 @@
 		"code":"230805",
 		"fullCode":"230805000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东风区",
 		"parentCode":"2308"
 	},
@@ -27,7 +27,7 @@
 		"code":"230811",
 		"fullCode":"230811000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郊区",
 		"parentCode":"2308"
 	},
@@ -35,7 +35,7 @@
 		"code":"230822",
 		"fullCode":"230822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桦南县",
 		"parentCode":"2308"
 	},
@@ -43,7 +43,7 @@
 		"code":"230826",
 		"fullCode":"230826000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桦川县",
 		"parentCode":"2308"
 	},
@@ -51,7 +51,7 @@
 		"code":"230828",
 		"fullCode":"230828000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汤原县",
 		"parentCode":"2308"
 	},
@@ -59,7 +59,7 @@
 		"code":"230881",
 		"fullCode":"230881000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"同江市",
 		"parentCode":"2308"
 	},
@@ -67,7 +67,7 @@
 		"code":"230882",
 		"fullCode":"230882000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"富锦市",
 		"parentCode":"2308"
 	},
@@ -75,7 +75,7 @@
 		"code":"230883",
 		"fullCode":"230883000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"抚远市",
 		"parentCode":"2308"
 	}

@@ -3,7 +3,7 @@
 		"code":"522628100",
 		"fullCode":"522628100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三江镇",
 		"parentCode":"522628"
 	},
@@ -11,7 +11,7 @@
 		"code":"522628101",
 		"fullCode":"522628101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅坪镇",
 		"parentCode":"522628"
 	},
@@ -19,7 +19,7 @@
 		"code":"522628102",
 		"fullCode":"522628102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敦寨镇",
 		"parentCode":"522628"
 	},
@@ -27,7 +27,7 @@
 		"code":"522628103",
 		"fullCode":"522628103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"启蒙镇",
 		"parentCode":"522628"
 	},
@@ -35,7 +35,7 @@
 		"code":"522628104",
 		"fullCode":"522628104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平秋镇",
 		"parentCode":"522628"
 	},
@@ -43,7 +43,7 @@
 		"code":"522628105",
 		"fullCode":"522628105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜鼓镇",
 		"parentCode":"522628"
 	},
@@ -51,7 +51,7 @@
 		"code":"522628106",
 		"fullCode":"522628106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平略镇",
 		"parentCode":"522628"
 	},
@@ -59,7 +59,7 @@
 		"code":"522628200",
 		"fullCode":"522628200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大同乡",
 		"parentCode":"522628"
 	},
@@ -67,7 +67,7 @@
 		"code":"522628201",
 		"fullCode":"522628201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新化乡",
 		"parentCode":"522628"
 	},
@@ -75,7 +75,7 @@
 		"code":"522628202",
 		"fullCode":"522628202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆里乡",
 		"parentCode":"522628"
 	},
@@ -83,7 +83,7 @@
 		"code":"522628203",
 		"fullCode":"522628203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟灵乡",
 		"parentCode":"522628"
 	},
@@ -91,7 +91,7 @@
 		"code":"522628204",
 		"fullCode":"522628204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"偶里乡",
 		"parentCode":"522628"
 	},
@@ -99,7 +99,7 @@
 		"code":"522628205",
 		"fullCode":"522628205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固本乡",
 		"parentCode":"522628"
 	},
@@ -107,7 +107,7 @@
 		"code":"522628206",
 		"fullCode":"522628206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口乡",
 		"parentCode":"522628"
 	},
@@ -115,7 +115,7 @@
 		"code":"522628207",
 		"fullCode":"522628207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彦洞乡",
 		"parentCode":"522628"
 	}

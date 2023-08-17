@@ -3,7 +3,7 @@
 		"code":"210503001",
 		"fullCode":"210503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东街道",
 		"parentCode":"210503"
 	},
@@ -11,7 +11,7 @@
 		"code":"210503003",
 		"fullCode":"210503003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西街道",
 		"parentCode":"210503"
 	},
@@ -19,7 +19,7 @@
 		"code":"210503005",
 		"fullCode":"210503005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彩屯街道",
 		"parentCode":"210503"
 	},
@@ -27,7 +27,7 @@
 		"code":"210503009",
 		"fullCode":"210503009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风街道",
 		"parentCode":"210503"
 	},
@@ -35,7 +35,7 @@
 		"code":"210503010",
 		"fullCode":"210503010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥子街道",
 		"parentCode":"210503"
 	},
@@ -43,7 +43,7 @@
 		"code":"210503011",
 		"fullCode":"210503011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日月岛街道",
 		"parentCode":"210503"
 	},
@@ -51,7 +51,7 @@
 		"code":"210503013",
 		"fullCode":"210503013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火连寨街道",
 		"parentCode":"210503"
 	}

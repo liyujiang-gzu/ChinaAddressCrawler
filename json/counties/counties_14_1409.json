@@ -3,7 +3,7 @@
 		"code":"140902",
 		"fullCode":"140902000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"忻府区",
 		"parentCode":"1409"
 	},
@@ -11,7 +11,7 @@
 		"code":"140921",
 		"fullCode":"140921000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"定襄县",
 		"parentCode":"1409"
 	},
@@ -19,7 +19,7 @@
 		"code":"140922",
 		"fullCode":"140922000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五台县",
 		"parentCode":"1409"
 	},
@@ -27,7 +27,7 @@
 		"code":"140923",
 		"fullCode":"140923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"代县",
 		"parentCode":"1409"
 	},
@@ -35,7 +35,7 @@
 		"code":"140924",
 		"fullCode":"140924000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"繁峙县",
 		"parentCode":"1409"
 	},
@@ -43,7 +43,7 @@
 		"code":"140925",
 		"fullCode":"140925000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁武县",
 		"parentCode":"1409"
 	},
@@ -51,7 +51,7 @@
 		"code":"140926",
 		"fullCode":"140926000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"静乐县",
 		"parentCode":"1409"
 	},
@@ -59,7 +59,7 @@
 		"code":"140927",
 		"fullCode":"140927000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"神池县",
 		"parentCode":"1409"
 	},
@@ -67,7 +67,7 @@
 		"code":"140928",
 		"fullCode":"140928000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五寨县",
 		"parentCode":"1409"
 	},
@@ -75,7 +75,7 @@
 		"code":"140929",
 		"fullCode":"140929000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岢岚县",
 		"parentCode":"1409"
 	},
@@ -83,7 +83,7 @@
 		"code":"140930",
 		"fullCode":"140930000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"河曲县",
 		"parentCode":"1409"
 	},
@@ -91,7 +91,7 @@
 		"code":"140931",
 		"fullCode":"140931000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"保德县",
 		"parentCode":"1409"
 	},
@@ -99,7 +99,7 @@
 		"code":"140932",
 		"fullCode":"140932000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"偏关县",
 		"parentCode":"1409"
 	},
@@ -107,7 +107,7 @@
 		"code":"140971",
 		"fullCode":"140971000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五台山风景名胜区",
 		"parentCode":"1409"
 	},
@@ -115,7 +115,7 @@
 		"code":"140981",
 		"fullCode":"140981000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"原平市",
 		"parentCode":"1409"
 	}

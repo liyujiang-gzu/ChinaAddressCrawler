@@ -3,7 +3,7 @@
 		"code":"451122100",
 		"fullCode":"451122100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟山镇",
 		"parentCode":"451122"
 	},
@@ -11,7 +11,7 @@
 		"code":"451122104",
 		"fullCode":"451122104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回龙镇",
 		"parentCode":"451122"
 	},
@@ -19,7 +19,7 @@
 		"code":"451122105",
 		"fullCode":"451122105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石龙镇",
 		"parentCode":"451122"
 	},
@@ -27,7 +27,7 @@
 		"code":"451122106",
 		"fullCode":"451122106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤翔镇",
 		"parentCode":"451122"
 	},
@@ -35,7 +35,7 @@
 		"code":"451122107",
 		"fullCode":"451122107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珊瑚镇",
 		"parentCode":"451122"
 	},
@@ -43,7 +43,7 @@
 		"code":"451122108",
 		"fullCode":"451122108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同古镇",
 		"parentCode":"451122"
 	},
@@ -51,7 +51,7 @@
 		"code":"451122109",
 		"fullCode":"451122109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公安镇",
 		"parentCode":"451122"
 	},
@@ -59,7 +59,7 @@
 		"code":"451122111",
 		"fullCode":"451122111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清塘镇",
 		"parentCode":"451122"
 	},
@@ -67,7 +67,7 @@
 		"code":"451122112",
 		"fullCode":"451122112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕塘镇",
 		"parentCode":"451122"
 	},
@@ -75,7 +75,7 @@
 		"code":"451122113",
 		"fullCode":"451122113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红花镇",
 		"parentCode":"451122"
 	},
@@ -83,7 +83,7 @@
 		"code":"451122200",
 		"fullCode":"451122200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花山瑶族乡",
 		"parentCode":"451122"
 	},
@@ -91,7 +91,7 @@
 		"code":"451122201",
 		"fullCode":"451122201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两安瑶族乡",
 		"parentCode":"451122"
 	}

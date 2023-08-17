@@ -3,7 +3,7 @@
 		"code":"411103001",
 		"fullCode":"411103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙北街道",
 		"parentCode":"411103"
 	},
@@ -11,7 +11,7 @@
 		"code":"411103002",
 		"fullCode":"411103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙塔街道",
 		"parentCode":"411103"
 	},
@@ -19,7 +19,7 @@
 		"code":"411103003",
 		"fullCode":"411103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淞江街道",
 		"parentCode":"411103"
 	},
@@ -27,7 +27,7 @@
 		"code":"411103101",
 		"fullCode":"411103101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟庙镇",
 		"parentCode":"411103"
 	},
@@ -35,7 +35,7 @@
 		"code":"411103102",
 		"fullCode":"411103102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商桥镇",
 		"parentCode":"411103"
 	},
@@ -43,7 +43,7 @@
 		"code":"411103103",
 		"fullCode":"411103103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裴城镇",
 		"parentCode":"411103"
 	},
@@ -51,7 +51,7 @@
 		"code":"411103104",
 		"fullCode":"411103104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店镇",
 		"parentCode":"411103"
 	},
@@ -59,7 +59,7 @@
 		"code":"411103105",
 		"fullCode":"411103105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙城镇",
 		"parentCode":"411103"
 	},
@@ -67,7 +67,7 @@
 		"code":"411103106",
 		"fullCode":"411103106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李集镇",
 		"parentCode":"411103"
 	},
@@ -75,7 +75,7 @@
 		"code":"411103107",
 		"fullCode":"411103107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑龙潭镇",
 		"parentCode":"411103"
 	}

@@ -3,7 +3,7 @@
 		"code":"520113005",
 		"fullCode":"520113005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉湖街道",
 		"parentCode":"520113"
 	},
@@ -11,7 +11,7 @@
 		"code":"520113006",
 		"fullCode":"520113006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大山洞街道",
 		"parentCode":"520113"
 	},
@@ -19,7 +19,7 @@
 		"code":"520113007",
 		"fullCode":"520113007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云城街道",
 		"parentCode":"520113"
 	},
@@ -27,7 +27,7 @@
 		"code":"520113008",
 		"fullCode":"520113008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龚家寨街道",
 		"parentCode":"520113"
 	},
@@ -35,7 +35,7 @@
 		"code":"520113009",
 		"fullCode":"520113009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都拉营街道",
 		"parentCode":"520113"
 	},
@@ -43,7 +43,7 @@
 		"code":"520113100",
 		"fullCode":"520113100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艳山红镇",
 		"parentCode":"520113"
 	},
@@ -51,7 +51,7 @@
 		"code":"520113101",
 		"fullCode":"520113101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦架镇",
 		"parentCode":"520113"
 	},
@@ -59,7 +59,7 @@
 		"code":"520113102",
 		"fullCode":"520113102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙文镇",
 		"parentCode":"520113"
 	},
@@ -67,7 +67,7 @@
 		"code":"520113200",
 		"fullCode":"520113200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都拉布依族乡",
 		"parentCode":"520113"
 	},
@@ -75,7 +75,7 @@
 		"code":"520113201",
 		"fullCode":"520113201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛场布依族乡",
 		"parentCode":"520113"
 	}

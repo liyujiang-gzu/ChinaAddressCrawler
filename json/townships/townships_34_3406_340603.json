@@ -3,7 +3,7 @@
 		"code":"340603001",
 		"fullCode":"340603001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"相南街道",
 		"parentCode":"340603"
 	},
@@ -11,7 +11,7 @@
 		"code":"340603002",
 		"fullCode":"340603002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东街道",
 		"parentCode":"340603"
 	},
@@ -19,7 +19,7 @@
 		"code":"340603003",
 		"fullCode":"340603003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西街道",
 		"parentCode":"340603"
 	},
@@ -27,7 +27,7 @@
 		"code":"340603005",
 		"fullCode":"340603005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山街道",
 		"parentCode":"340603"
 	},
@@ -35,7 +35,7 @@
 		"code":"340603008",
 		"fullCode":"340603008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"任圩街道",
 		"parentCode":"340603"
 	},
@@ -43,7 +43,7 @@
 		"code":"340603009",
 		"fullCode":"340603009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南黎街道",
 		"parentCode":"340603"
 	},
@@ -51,7 +51,7 @@
 		"code":"340603010",
 		"fullCode":"340603010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲阳街道",
 		"parentCode":"340603"
 	},
@@ -59,7 +59,7 @@
 		"code":"340603011",
 		"fullCode":"340603011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三堤口街道",
 		"parentCode":"340603"
 	},
@@ -67,7 +67,7 @@
 		"code":"340603100",
 		"fullCode":"340603100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渠沟镇",
 		"parentCode":"340603"
 	},
@@ -75,7 +75,7 @@
 		"code":"340603400",
 		"fullCode":"340603400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽淮北相山经济开发区管理委员会",
 		"parentCode":"340603"
 	}

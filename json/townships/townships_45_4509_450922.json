@@ -3,7 +3,7 @@
 		"code":"450922101",
 		"fullCode":"450922101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉镇",
 		"parentCode":"450922"
 	},
@@ -11,7 +11,7 @@
 		"code":"450922102",
 		"fullCode":"450922102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米场镇",
 		"parentCode":"450922"
 	},
@@ -19,7 +19,7 @@
 		"code":"450922103",
 		"fullCode":"450922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坡镇",
 		"parentCode":"450922"
 	},
@@ -27,7 +27,7 @@
 		"code":"450922104",
 		"fullCode":"450922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珊罗镇",
 		"parentCode":"450922"
 	},
@@ -35,7 +35,7 @@
 		"code":"450922105",
 		"fullCode":"450922105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平乐镇",
 		"parentCode":"450922"
 	},
@@ -43,7 +43,7 @@
 		"code":"450922106",
 		"fullCode":"450922106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坡镇",
 		"parentCode":"450922"
 	},
@@ -51,7 +51,7 @@
 		"code":"450922107",
 		"fullCode":"450922107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥镇",
 		"parentCode":"450922"
 	},
@@ -59,7 +59,7 @@
 		"code":"450922108",
 		"fullCode":"450922108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌石镇",
 		"parentCode":"450922"
 	},
@@ -67,7 +67,7 @@
 		"code":"450922109",
 		"fullCode":"450922109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良田镇",
 		"parentCode":"450922"
 	},
@@ -75,7 +75,7 @@
 		"code":"450922110",
 		"fullCode":"450922110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清湖镇",
 		"parentCode":"450922"
 	},
@@ -83,7 +83,7 @@
 		"code":"450922111",
 		"fullCode":"450922111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"450922"
 	},
@@ -91,7 +91,7 @@
 		"code":"450922112",
 		"fullCode":"450922112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙湖镇",
 		"parentCode":"450922"
 	},
@@ -99,7 +99,7 @@
 		"code":"450922113",
 		"fullCode":"450922113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横山镇",
 		"parentCode":"450922"
 	},
@@ -107,7 +107,7 @@
 		"code":"450922114",
 		"fullCode":"450922114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滩面镇",
 		"parentCode":"450922"
 	}

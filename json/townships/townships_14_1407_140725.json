@@ -3,7 +3,7 @@
 		"code":"140725100",
 		"fullCode":"140725100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳镇",
 		"parentCode":"140725"
 	},
@@ -11,7 +11,7 @@
 		"code":"140725101",
 		"fullCode":"140725101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南燕竹镇",
 		"parentCode":"140725"
 	},
@@ -19,7 +19,7 @@
 		"code":"140725102",
 		"fullCode":"140725102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗艾镇",
 		"parentCode":"140725"
 	},
@@ -27,7 +27,7 @@
 		"code":"140725103",
 		"fullCode":"140725103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平头镇",
 		"parentCode":"140725"
 	},
@@ -35,7 +35,7 @@
 		"code":"140725104",
 		"fullCode":"140725104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松塔镇",
 		"parentCode":"140725"
 	},
@@ -43,7 +43,7 @@
 		"code":"140725105",
 		"fullCode":"140725105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西洛镇",
 		"parentCode":"140725"
 	},
@@ -51,7 +51,7 @@
 		"code":"140725106",
 		"fullCode":"140725106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尹灵芝镇",
 		"parentCode":"140725"
 	},
@@ -59,7 +59,7 @@
 		"code":"140725200",
 		"fullCode":"140725200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平舒乡",
 		"parentCode":"140725"
 	},
@@ -67,7 +67,7 @@
 		"code":"140725201",
 		"fullCode":"140725201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解愁乡",
 		"parentCode":"140725"
 	},
@@ -75,7 +75,7 @@
 		"code":"140725202",
 		"fullCode":"140725202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温家庄乡",
 		"parentCode":"140725"
 	},
@@ -83,7 +83,7 @@
 		"code":"140725203",
 		"fullCode":"140725203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景尚乡",
 		"parentCode":"140725"
 	},
@@ -91,7 +91,7 @@
 		"code":"140725205",
 		"fullCode":"140725205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊头崖乡",
 		"parentCode":"140725"
 	}

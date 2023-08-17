@@ -3,7 +3,7 @@
 		"code":"632725100",
 		"fullCode":"632725100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香达镇",
 		"parentCode":"632725"
 	},
@@ -11,7 +11,7 @@
 		"code":"632725200",
 		"fullCode":"632725200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白扎乡",
 		"parentCode":"632725"
 	},
@@ -19,7 +19,7 @@
 		"code":"632725201",
 		"fullCode":"632725201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉曲乡",
 		"parentCode":"632725"
 	},
@@ -27,7 +27,7 @@
 		"code":"632725202",
 		"fullCode":"632725202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"娘拉乡",
 		"parentCode":"632725"
 	},
@@ -35,7 +35,7 @@
 		"code":"632725203",
 		"fullCode":"632725203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛庄乡",
 		"parentCode":"632725"
 	},
@@ -43,7 +43,7 @@
 		"code":"632725204",
 		"fullCode":"632725204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"觉拉乡",
 		"parentCode":"632725"
 	},
@@ -51,7 +51,7 @@
 		"code":"632725205",
 		"fullCode":"632725205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坝乡",
 		"parentCode":"632725"
 	},
@@ -59,7 +59,7 @@
 		"code":"632725206",
 		"fullCode":"632725206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尕羊乡",
 		"parentCode":"632725"
 	},
@@ -67,7 +67,7 @@
 		"code":"632725207",
 		"fullCode":"632725207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉尼赛乡",
 		"parentCode":"632725"
 	},
@@ -75,7 +75,7 @@
 		"code":"632725208",
 		"fullCode":"632725208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"着晓乡",
 		"parentCode":"632725"
 	}

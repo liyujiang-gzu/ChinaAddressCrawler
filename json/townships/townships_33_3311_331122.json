@@ -3,7 +3,7 @@
 		"code":"331122001",
 		"fullCode":"331122001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五云街道",
 		"parentCode":"331122"
 	},
@@ -11,7 +11,7 @@
 		"code":"331122002",
 		"fullCode":"331122002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新碧街道",
 		"parentCode":"331122"
 	},
@@ -19,7 +19,7 @@
 		"code":"331122003",
 		"fullCode":"331122003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙都街道",
 		"parentCode":"331122"
 	},
@@ -27,7 +27,7 @@
 		"code":"331122101",
 		"fullCode":"331122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"壶镇镇",
 		"parentCode":"331122"
 	},
@@ -35,7 +35,7 @@
 		"code":"331122102",
 		"fullCode":"331122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新建镇",
 		"parentCode":"331122"
 	},
@@ -43,7 +43,7 @@
 		"code":"331122103",
 		"fullCode":"331122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舒洪镇",
 		"parentCode":"331122"
 	},
@@ -51,7 +51,7 @@
 		"code":"331122105",
 		"fullCode":"331122105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大洋镇",
 		"parentCode":"331122"
 	},
@@ -59,7 +59,7 @@
 		"code":"331122106",
 		"fullCode":"331122106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东渡镇",
 		"parentCode":"331122"
 	},
@@ -67,7 +67,7 @@
 		"code":"331122107",
 		"fullCode":"331122107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方镇",
 		"parentCode":"331122"
 	},
@@ -75,7 +75,7 @@
 		"code":"331122108",
 		"fullCode":"331122108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大源镇",
 		"parentCode":"331122"
 	},
@@ -83,7 +83,7 @@
 		"code":"331122203",
 		"fullCode":"331122203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里乡",
 		"parentCode":"331122"
 	},
@@ -91,7 +91,7 @@
 		"code":"331122206",
 		"fullCode":"331122206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前路乡",
 		"parentCode":"331122"
 	},
@@ -99,7 +99,7 @@
 		"code":"331122207",
 		"fullCode":"331122207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三溪乡",
 		"parentCode":"331122"
 	},
@@ -107,7 +107,7 @@
 		"code":"331122208",
 		"fullCode":"331122208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溶江乡",
 		"parentCode":"331122"
 	},
@@ -115,7 +115,7 @@
 		"code":"331122209",
 		"fullCode":"331122209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双溪口乡",
 		"parentCode":"331122"
 	},
@@ -123,7 +123,7 @@
 		"code":"331122210",
 		"fullCode":"331122210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡源乡",
 		"parentCode":"331122"
 	},
@@ -131,7 +131,7 @@
 		"code":"331122211",
 		"fullCode":"331122211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方溪乡",
 		"parentCode":"331122"
 	},
@@ -139,7 +139,7 @@
 		"code":"331122212",
 		"fullCode":"331122212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石笕乡",
 		"parentCode":"331122"
 	}

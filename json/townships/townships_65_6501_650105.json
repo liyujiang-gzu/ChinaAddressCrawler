@@ -3,7 +3,7 @@
 		"code":"650105001",
 		"fullCode":"650105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水磨沟街道",
 		"parentCode":"650105"
 	},
@@ -11,7 +11,7 @@
 		"code":"650105002",
 		"fullCode":"650105002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六道湾街道",
 		"parentCode":"650105"
 	},
@@ -19,7 +19,7 @@
 		"code":"650105003",
 		"fullCode":"650105003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苇湖梁街道",
 		"parentCode":"650105"
 	},
@@ -27,7 +27,7 @@
 		"code":"650105004",
 		"fullCode":"650105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八道湾街道",
 		"parentCode":"650105"
 	},
@@ -35,7 +35,7 @@
 		"code":"650105005",
 		"fullCode":"650105005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民路街道",
 		"parentCode":"650105"
 	},
@@ -43,7 +43,7 @@
 		"code":"650105006",
 		"fullCode":"650105006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖南路街道",
 		"parentCode":"650105"
 	},
@@ -51,7 +51,7 @@
 		"code":"650105007",
 		"fullCode":"650105007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖北路街道",
 		"parentCode":"650105"
 	},
@@ -59,7 +59,7 @@
 		"code":"650105008",
 		"fullCode":"650105008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七道湾街道",
 		"parentCode":"650105"
 	},
@@ -67,7 +67,7 @@
 		"code":"650105010",
 		"fullCode":"650105010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆树沟街道",
 		"parentCode":"650105"
 	},
@@ -75,7 +75,7 @@
 		"code":"650105011",
 		"fullCode":"650105011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石人子沟街道",
 		"parentCode":"650105"
 	},
@@ -83,7 +83,7 @@
 		"code":"650105012",
 		"fullCode":"650105012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水塔山街道",
 		"parentCode":"650105"
 	},
@@ -91,7 +91,7 @@
 		"code":"650105013",
 		"fullCode":"650105013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华光街街道",
 		"parentCode":"650105"
 	},
@@ -99,7 +99,7 @@
 		"code":"650105014",
 		"fullCode":"650105014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙盛街街道",
 		"parentCode":"650105"
 	},
@@ -107,7 +107,7 @@
 		"code":"650105015",
 		"fullCode":"650105015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振安街街道",
 		"parentCode":"650105"
 	},
@@ -115,7 +115,7 @@
 		"code":"650105016",
 		"fullCode":"650105016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河马泉街道",
 		"parentCode":"650105"
 	}

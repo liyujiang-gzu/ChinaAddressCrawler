@@ -3,7 +3,7 @@
 		"code":"513424001",
 		"fullCode":"513424001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德州街道",
 		"parentCode":"513424"
 	},
@@ -11,7 +11,7 @@
 		"code":"513424002",
 		"fullCode":"513424002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌州街道",
 		"parentCode":"513424"
 	},
@@ -19,7 +19,7 @@
 		"code":"513424101",
 		"fullCode":"513424101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永郎镇",
 		"parentCode":"513424"
 	},
@@ -27,7 +27,7 @@
 		"code":"513424102",
 		"fullCode":"513424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐跃镇",
 		"parentCode":"513424"
 	},
@@ -35,7 +35,7 @@
 		"code":"513424103",
 		"fullCode":"513424103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻栗镇",
 		"parentCode":"513424"
 	},
@@ -43,7 +43,7 @@
 		"code":"513424106",
 		"fullCode":"513424106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨达镇",
 		"parentCode":"513424"
 	},
@@ -51,7 +51,7 @@
 		"code":"513424109",
 		"fullCode":"513424109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴洞镇",
 		"parentCode":"513424"
 	},
@@ -59,7 +59,7 @@
 		"code":"513424113",
 		"fullCode":"513424113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑龙潭镇",
 		"parentCode":"513424"
 	},
@@ -67,7 +67,7 @@
 		"code":"513424114",
 		"fullCode":"513424114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁炉镇",
 		"parentCode":"513424"
 	},
@@ -75,7 +75,7 @@
 		"code":"513424115",
 		"fullCode":"513424115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热河镇",
 		"parentCode":"513424"
 	},
@@ -83,7 +83,7 @@
 		"code":"513424217",
 		"fullCode":"513424217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山傈僳族乡",
 		"parentCode":"513424"
 	},
@@ -91,7 +91,7 @@
 		"code":"513424218",
 		"fullCode":"513424218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙傈僳族乡",
 		"parentCode":"513424"
 	}

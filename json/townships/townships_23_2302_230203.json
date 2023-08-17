@@ -3,7 +3,7 @@
 		"code":"230203002",
 		"fullCode":"230203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华街道",
 		"parentCode":"230203"
 	},
@@ -11,7 +11,7 @@
 		"code":"230203004",
 		"fullCode":"230203004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西大桥街道",
 		"parentCode":"230203"
 	},
@@ -19,7 +19,7 @@
 		"code":"230203005",
 		"fullCode":"230203005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卜奎街道",
 		"parentCode":"230203"
 	},
@@ -27,7 +27,7 @@
 		"code":"230203006",
 		"fullCode":"230203006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设街道",
 		"parentCode":"230203"
 	},
@@ -35,7 +35,7 @@
 		"code":"230203007",
 		"fullCode":"230203007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文化街道",
 		"parentCode":"230203"
 	},
@@ -43,7 +43,7 @@
 		"code":"230203008",
 		"fullCode":"230203008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪畔街道",
 		"parentCode":"230203"
 	},
@@ -51,7 +51,7 @@
 		"code":"230203009",
 		"fullCode":"230203009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北华街道",
 		"parentCode":"230203"
 	}

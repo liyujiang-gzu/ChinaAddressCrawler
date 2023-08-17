@@ -3,7 +3,7 @@
 		"code":"469005100",
 		"fullCode":"469005100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文城镇",
 		"parentCode":"469005"
 	},
@@ -11,7 +11,7 @@
 		"code":"469005101",
 		"fullCode":"469005101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"重兴镇",
 		"parentCode":"469005"
 	},
@@ -19,7 +19,7 @@
 		"code":"469005102",
 		"fullCode":"469005102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓬莱镇",
 		"parentCode":"469005"
 	},
@@ -27,7 +27,7 @@
 		"code":"469005103",
 		"fullCode":"469005103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会文镇",
 		"parentCode":"469005"
 	},
@@ -35,7 +35,7 @@
 		"code":"469005104",
 		"fullCode":"469005104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东路镇",
 		"parentCode":"469005"
 	},
@@ -43,7 +43,7 @@
 		"code":"469005105",
 		"fullCode":"469005105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭牛镇",
 		"parentCode":"469005"
 	},
@@ -51,7 +51,7 @@
 		"code":"469005106",
 		"fullCode":"469005106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东阁镇",
 		"parentCode":"469005"
 	},
@@ -59,7 +59,7 @@
 		"code":"469005107",
 		"fullCode":"469005107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文教镇",
 		"parentCode":"469005"
 	},
@@ -67,7 +67,7 @@
 		"code":"469005108",
 		"fullCode":"469005108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东郊镇",
 		"parentCode":"469005"
 	},
@@ -75,7 +75,7 @@
 		"code":"469005109",
 		"fullCode":"469005109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙楼镇",
 		"parentCode":"469005"
 	},
@@ -83,7 +83,7 @@
 		"code":"469005110",
 		"fullCode":"469005110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌洒镇",
 		"parentCode":"469005"
 	},
@@ -91,7 +91,7 @@
 		"code":"469005111",
 		"fullCode":"469005111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翁田镇",
 		"parentCode":"469005"
 	},
@@ -99,7 +99,7 @@
 		"code":"469005112",
 		"fullCode":"469005112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抱罗镇",
 		"parentCode":"469005"
 	},
@@ -107,7 +107,7 @@
 		"code":"469005113",
 		"fullCode":"469005113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯坡镇",
 		"parentCode":"469005"
 	},
@@ -115,7 +115,7 @@
 		"code":"469005114",
 		"fullCode":"469005114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦山镇",
 		"parentCode":"469005"
 	},
@@ -123,7 +123,7 @@
 		"code":"469005115",
 		"fullCode":"469005115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铺前镇",
 		"parentCode":"469005"
 	},
@@ -131,7 +131,7 @@
 		"code":"469005116",
 		"fullCode":"469005116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公坡镇",
 		"parentCode":"469005"
 	}

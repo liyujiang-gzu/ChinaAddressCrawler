@@ -3,7 +3,7 @@
 		"code":"513336100",
 		"fullCode":"513336100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香巴拉镇",
 		"parentCode":"513336"
 	},
@@ -11,7 +11,7 @@
 		"code":"513336101",
 		"fullCode":"513336101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青德镇",
 		"parentCode":"513336"
 	},
@@ -19,7 +19,7 @@
 		"code":"513336103",
 		"fullCode":"513336103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热打镇",
 		"parentCode":"513336"
 	},
@@ -27,7 +27,7 @@
 		"code":"513336201",
 		"fullCode":"513336201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙贡乡",
 		"parentCode":"513336"
 	},
@@ -35,7 +35,7 @@
 		"code":"513336202",
 		"fullCode":"513336202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水洼乡",
 		"parentCode":"513336"
 	},
@@ -43,7 +43,7 @@
 		"code":"513336205",
 		"fullCode":"513336205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"然乌乡",
 		"parentCode":"513336"
 	},
@@ -51,7 +51,7 @@
 		"code":"513336206",
 		"fullCode":"513336206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洞松乡",
 		"parentCode":"513336"
 	},
@@ -59,7 +59,7 @@
 		"code":"513336208",
 		"fullCode":"513336208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定波乡",
 		"parentCode":"513336"
 	},
@@ -67,7 +67,7 @@
 		"code":"513336209",
 		"fullCode":"513336209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正斗乡",
 		"parentCode":"513336"
 	},
@@ -75,7 +75,7 @@
 		"code":"513336210",
 		"fullCode":"513336210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白依乡",
 		"parentCode":"513336"
 	}

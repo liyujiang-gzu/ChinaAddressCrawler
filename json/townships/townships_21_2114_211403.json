@@ -3,7 +3,7 @@
 		"code":"211403001",
 		"fullCode":"211403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葫芦岛街道",
 		"parentCode":"211403"
 	},
@@ -11,7 +11,7 @@
 		"code":"211403003",
 		"fullCode":"211403003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马仗房街道",
 		"parentCode":"211403"
 	},
@@ -19,7 +19,7 @@
 		"code":"211403005",
 		"fullCode":"211403005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湾街道",
 		"parentCode":"211403"
 	},
@@ -27,7 +27,7 @@
 		"code":"211403006",
 		"fullCode":"211403006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海街道",
 		"parentCode":"211403"
 	},
@@ -35,7 +35,7 @@
 		"code":"211403007",
 		"fullCode":"211403007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙街道",
 		"parentCode":"211403"
 	},
@@ -43,7 +43,7 @@
 		"code":"211403008",
 		"fullCode":"211403008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉皇街道",
 		"parentCode":"211403"
 	},
@@ -51,7 +51,7 @@
 		"code":"211403009",
 		"fullCode":"211403009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连湾街道",
 		"parentCode":"211403"
 	},
@@ -59,7 +59,7 @@
 		"code":"211403010",
 		"fullCode":"211403010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北港街道",
 		"parentCode":"211403"
 	},
@@ -67,7 +67,7 @@
 		"code":"211403201",
 		"fullCode":"211403201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双树乡",
 		"parentCode":"211403"
 	},
@@ -75,7 +75,7 @@
 		"code":"211403400",
 		"fullCode":"211403400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葫芦岛经济开发区",
 		"parentCode":"211403"
 	},
@@ -83,7 +83,7 @@
 		"code":"211403401",
 		"fullCode":"211403401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葫芦岛市专利技术园区",
 		"parentCode":"211403"
 	},
@@ -91,7 +91,7 @@
 		"code":"211403402",
 		"fullCode":"211403402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙港飞地经济区",
 		"parentCode":"211403"
 	}

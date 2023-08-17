@@ -3,7 +3,7 @@
 		"code":"120101",
 		"fullCode":"120101000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"和平区",
 		"parentCode":"1201"
 	},
@@ -11,7 +11,7 @@
 		"code":"120102",
 		"fullCode":"120102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"河东区",
 		"parentCode":"1201"
 	},
@@ -19,7 +19,7 @@
 		"code":"120103",
 		"fullCode":"120103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"河西区",
 		"parentCode":"1201"
 	},
@@ -27,7 +27,7 @@
 		"code":"120104",
 		"fullCode":"120104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南开区",
 		"parentCode":"1201"
 	},
@@ -35,7 +35,7 @@
 		"code":"120105",
 		"fullCode":"120105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"河北区",
 		"parentCode":"1201"
 	},
@@ -43,7 +43,7 @@
 		"code":"120106",
 		"fullCode":"120106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"红桥区",
 		"parentCode":"1201"
 	},
@@ -51,7 +51,7 @@
 		"code":"120110",
 		"fullCode":"120110000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东丽区",
 		"parentCode":"1201"
 	},
@@ -59,7 +59,7 @@
 		"code":"120111",
 		"fullCode":"120111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西青区",
 		"parentCode":"1201"
 	},
@@ -67,7 +67,7 @@
 		"code":"120112",
 		"fullCode":"120112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"津南区",
 		"parentCode":"1201"
 	},
@@ -75,7 +75,7 @@
 		"code":"120113",
 		"fullCode":"120113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"北辰区",
 		"parentCode":"1201"
 	},
@@ -83,7 +83,7 @@
 		"code":"120114",
 		"fullCode":"120114000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武清区",
 		"parentCode":"1201"
 	},
@@ -91,7 +91,7 @@
 		"code":"120115",
 		"fullCode":"120115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宝坻区",
 		"parentCode":"1201"
 	},
@@ -99,7 +99,7 @@
 		"code":"120116",
 		"fullCode":"120116000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"滨海新区",
 		"parentCode":"1201"
 	},
@@ -107,7 +107,7 @@
 		"code":"120117",
 		"fullCode":"120117000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁河区",
 		"parentCode":"1201"
 	},
@@ -115,7 +115,7 @@
 		"code":"120118",
 		"fullCode":"120118000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"静海区",
 		"parentCode":"1201"
 	},
@@ -123,7 +123,7 @@
 		"code":"120119",
 		"fullCode":"120119000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蓟州区",
 		"parentCode":"1201"
 	}

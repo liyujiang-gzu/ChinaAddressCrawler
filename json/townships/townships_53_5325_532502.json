@@ -3,7 +3,7 @@
 		"code":"532502001",
 		"fullCode":"532502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐白道街道",
 		"parentCode":"532502"
 	},
@@ -11,7 +11,7 @@
 		"code":"532502002",
 		"fullCode":"532502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵泉街道",
 		"parentCode":"532502"
 	},
@@ -19,7 +19,7 @@
 		"code":"532502101",
 		"fullCode":"532502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中和营镇",
 		"parentCode":"532502"
 	},
@@ -27,7 +27,7 @@
 		"code":"532502102",
 		"fullCode":"532502102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小龙潭镇",
 		"parentCode":"532502"
 	},
@@ -35,7 +35,7 @@
 		"code":"532502201",
 		"fullCode":"532502201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庄回族乡",
 		"parentCode":"532502"
 	},
@@ -43,7 +43,7 @@
 		"code":"532502202",
 		"fullCode":"532502202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊街乡",
 		"parentCode":"532502"
 	},
@@ -51,7 +51,7 @@
 		"code":"532502203",
 		"fullCode":"532502203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碑格乡",
 		"parentCode":"532502"
 	}

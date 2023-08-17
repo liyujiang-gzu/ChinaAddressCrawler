@@ -3,7 +3,7 @@
 		"code":"130628001",
 		"fullCode":"130628001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高阳县锦华街道",
 		"parentCode":"130628"
 	},
@@ -11,7 +11,7 @@
 		"code":"130628101",
 		"fullCode":"130628101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庞口镇",
 		"parentCode":"130628"
 	},
@@ -19,7 +19,7 @@
 		"code":"130628102",
 		"fullCode":"130628102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西演镇",
 		"parentCode":"130628"
 	},
@@ -27,7 +27,7 @@
 		"code":"130628103",
 		"fullCode":"130628103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邢家南镇",
 		"parentCode":"130628"
 	},
@@ -35,7 +35,7 @@
 		"code":"130628104",
 		"fullCode":"130628104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋庄镇",
 		"parentCode":"130628"
 	},
@@ -43,7 +43,7 @@
 		"code":"130628105",
 		"fullCode":"130628105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小王果庄镇",
 		"parentCode":"130628"
 	},
@@ -51,7 +51,7 @@
 		"code":"130628106",
 		"fullCode":"130628106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲口镇",
 		"parentCode":"130628"
 	},
@@ -59,7 +59,7 @@
 		"code":"130628107",
 		"fullCode":"130628107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庞家佐镇",
 		"parentCode":"130628"
 	},
@@ -67,7 +67,7 @@
 		"code":"130628400",
 		"fullCode":"130628400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高阳县经济开发区",
 		"parentCode":"130628"
 	}

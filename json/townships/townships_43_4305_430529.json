@@ -3,7 +3,7 @@
 		"code":"430529100",
 		"fullCode":"430529100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"儒林镇",
 		"parentCode":"430529"
 	},
@@ -11,7 +11,7 @@
 		"code":"430529101",
 		"fullCode":"430529101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅坪镇",
 		"parentCode":"430529"
 	},
@@ -19,7 +19,7 @@
 		"code":"430529102",
 		"fullCode":"430529102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西岩镇",
 		"parentCode":"430529"
 	},
@@ -27,7 +27,7 @@
 		"code":"430529103",
 		"fullCode":"430529103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹口镇",
 		"parentCode":"430529"
 	},
@@ -35,7 +35,7 @@
 		"code":"430529104",
 		"fullCode":"430529104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五团镇",
 		"parentCode":"430529"
 	},
@@ -43,7 +43,7 @@
 		"code":"430529106",
 		"fullCode":"430529106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安营镇",
 		"parentCode":"430529"
 	},
@@ -51,7 +51,7 @@
 		"code":"430529107",
 		"fullCode":"430529107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白毛坪镇",
 		"parentCode":"430529"
 	},
@@ -59,7 +59,7 @@
 		"code":"430529200",
 		"fullCode":"430529200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"威溪乡",
 		"parentCode":"430529"
 	},
@@ -67,7 +67,7 @@
 		"code":"430529203",
 		"fullCode":"430529203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰蓉乡",
 		"parentCode":"430529"
 	},
@@ -75,7 +75,7 @@
 		"code":"430529204",
 		"fullCode":"430529204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汀坪乡",
 		"parentCode":"430529"
 	},
@@ -83,7 +83,7 @@
 		"code":"430529205",
 		"fullCode":"430529205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋坊乡",
 		"parentCode":"430529"
 	},
@@ -91,7 +91,7 @@
 		"code":"430529206",
 		"fullCode":"430529206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金紫乡",
 		"parentCode":"430529"
 	}

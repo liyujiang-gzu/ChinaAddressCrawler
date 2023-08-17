@@ -3,7 +3,7 @@
 		"code":"340104001",
 		"fullCode":"340104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里庵街道",
 		"parentCode":"340104"
 	},
@@ -11,7 +11,7 @@
 		"code":"340104002",
 		"fullCode":"340104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稻香村街道",
 		"parentCode":"340104"
 	},
@@ -19,7 +19,7 @@
 		"code":"340104003",
 		"fullCode":"340104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琥珀街道",
 		"parentCode":"340104"
 	},
@@ -27,7 +27,7 @@
 		"code":"340104004",
 		"fullCode":"340104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南七街道",
 		"parentCode":"340104"
 	},
@@ -35,7 +35,7 @@
 		"code":"340104005",
 		"fullCode":"340104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西园街道",
 		"parentCode":"340104"
 	},
@@ -43,7 +43,7 @@
 		"code":"340104006",
 		"fullCode":"340104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里墩街道",
 		"parentCode":"340104"
 	},
@@ -51,7 +51,7 @@
 		"code":"340104007",
 		"fullCode":"340104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷叶地街道",
 		"parentCode":"340104"
 	},
@@ -59,7 +59,7 @@
 		"code":"340104008",
 		"fullCode":"340104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"笔架山街道",
 		"parentCode":"340104"
 	},
@@ -67,7 +67,7 @@
 		"code":"340104100",
 		"fullCode":"340104100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井岗镇",
 		"parentCode":"340104"
 	},
@@ -75,7 +75,7 @@
 		"code":"340104101",
 		"fullCode":"340104101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岗镇",
 		"parentCode":"340104"
 	},
@@ -83,7 +83,7 @@
 		"code":"340104102",
 		"fullCode":"340104102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小庙镇",
 		"parentCode":"340104"
 	},
@@ -91,7 +91,7 @@
 		"code":"340104400",
 		"fullCode":"340104400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蜀山新产业园区",
 		"parentCode":"340104"
 	}

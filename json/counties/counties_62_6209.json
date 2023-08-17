@@ -3,7 +3,7 @@
 		"code":"620902",
 		"fullCode":"620902000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"肃州区",
 		"parentCode":"6209"
 	},
@@ -11,7 +11,7 @@
 		"code":"620921",
 		"fullCode":"620921000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金塔县",
 		"parentCode":"6209"
 	},
@@ -19,7 +19,7 @@
 		"code":"620922",
 		"fullCode":"620922000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"瓜州县",
 		"parentCode":"6209"
 	},
@@ -27,7 +27,7 @@
 		"code":"620923",
 		"fullCode":"620923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"肃北蒙古族自治县",
 		"parentCode":"6209"
 	},
@@ -35,7 +35,7 @@
 		"code":"620924",
 		"fullCode":"620924000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿克塞哈萨克族自治县",
 		"parentCode":"6209"
 	},
@@ -43,7 +43,7 @@
 		"code":"620981",
 		"fullCode":"620981000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"玉门市",
 		"parentCode":"6209"
 	},
@@ -51,7 +51,7 @@
 		"code":"620982",
 		"fullCode":"620982000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"敦煌市",
 		"parentCode":"6209"
 	}

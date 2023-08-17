@@ -3,7 +3,7 @@
 		"code":"152525100",
 		"fullCode":"152525100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌里雅斯太镇",
 		"parentCode":"152525"
 	},
@@ -11,7 +11,7 @@
 		"code":"152525101",
 		"fullCode":"152525101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道特淖尔镇",
 		"parentCode":"152525"
 	},
@@ -19,7 +19,7 @@
 		"code":"152525102",
 		"fullCode":"152525102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎达布其镇",
 		"parentCode":"152525"
 	},
@@ -27,7 +27,7 @@
 		"code":"152525103",
 		"fullCode":"152525103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满都呼宝拉格镇",
 		"parentCode":"152525"
 	},
@@ -35,7 +35,7 @@
 		"code":"152525104",
 		"fullCode":"152525104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"额吉淖尔镇",
 		"parentCode":"152525"
 	},
@@ -43,7 +43,7 @@
 		"code":"152525200",
 		"fullCode":"152525200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼热图淖尔苏木",
 		"parentCode":"152525"
 	},
@@ -51,7 +51,7 @@
 		"code":"152525201",
 		"fullCode":"152525201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨麦苏木",
 		"parentCode":"152525"
 	},
@@ -59,7 +59,7 @@
 		"code":"152525202",
 		"fullCode":"152525202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎海乐苏木",
 		"parentCode":"152525"
 	},
@@ -67,7 +67,7 @@
 		"code":"152525203",
 		"fullCode":"152525203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿拉坦合力苏木",
 		"parentCode":"152525"
 	},
@@ -75,7 +75,7 @@
 		"code":"152525503",
 		"fullCode":"152525503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝格达乌拉总场",
 		"parentCode":"152525"
 	}

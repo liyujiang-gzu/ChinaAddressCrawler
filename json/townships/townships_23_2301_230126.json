@@ -3,7 +3,7 @@
 		"code":"230126100",
 		"fullCode":"230126100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦镇",
 		"parentCode":"230126"
 	},
@@ -11,7 +11,7 @@
 		"code":"230126101",
 		"fullCode":"230126101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"230126"
 	},
@@ -19,7 +19,7 @@
 		"code":"230126102",
 		"fullCode":"230126102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西集镇",
 		"parentCode":"230126"
 	},
@@ -27,7 +27,7 @@
 		"code":"230126103",
 		"fullCode":"230126103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洼兴镇",
 		"parentCode":"230126"
 	},
@@ -35,7 +35,7 @@
 		"code":"230126104",
 		"fullCode":"230126104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉镇",
 		"parentCode":"230126"
 	},
@@ -43,7 +43,7 @@
 		"code":"230126105",
 		"fullCode":"230126105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦港镇",
 		"parentCode":"230126"
 	},
@@ -51,7 +51,7 @@
 		"code":"230126106",
 		"fullCode":"230126106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙庙镇",
 		"parentCode":"230126"
 	},
@@ -59,7 +59,7 @@
 		"code":"230126107",
 		"fullCode":"230126107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万发镇",
 		"parentCode":"230126"
 	},
@@ -67,7 +67,7 @@
 		"code":"230126108",
 		"fullCode":"230126108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天增镇",
 		"parentCode":"230126"
 	},
@@ -75,7 +75,7 @@
 		"code":"230126110",
 		"fullCode":"230126110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑山镇",
 		"parentCode":"230126"
 	},
@@ -83,7 +83,7 @@
 		"code":"230126200",
 		"fullCode":"230126200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松花江乡",
 		"parentCode":"230126"
 	},
@@ -91,7 +91,7 @@
 		"code":"230126202",
 		"fullCode":"230126202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富江乡",
 		"parentCode":"230126"
 	},
@@ -99,7 +99,7 @@
 		"code":"230126204",
 		"fullCode":"230126204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华山乡",
 		"parentCode":"230126"
 	},
@@ -107,7 +107,7 @@
 		"code":"230126205",
 		"fullCode":"230126205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰乐乡",
 		"parentCode":"230126"
 	},
@@ -115,7 +115,7 @@
 		"code":"230126209",
 		"fullCode":"230126209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德祥乡",
 		"parentCode":"230126"
 	},
@@ -123,7 +123,7 @@
 		"code":"230126210",
 		"fullCode":"230126210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红光乡",
 		"parentCode":"230126"
 	},
@@ -131,7 +131,7 @@
 		"code":"230126212",
 		"fullCode":"230126212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山后乡",
 		"parentCode":"230126"
 	},
@@ -139,7 +139,7 @@
 		"code":"230126214",
 		"fullCode":"230126214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇东乡",
 		"parentCode":"230126"
 	},
@@ -147,7 +147,7 @@
 		"code":"230126400",
 		"fullCode":"230126400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆林业局",
 		"parentCode":"230126"
 	},
@@ -155,7 +155,7 @@
 		"code":"230126401",
 		"fullCode":"230126401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工业园区",
 		"parentCode":"230126"
 	}

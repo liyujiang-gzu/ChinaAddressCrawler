@@ -3,7 +3,7 @@
 		"code":"130606001",
 		"fullCode":"130606001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平里街道",
 		"parentCode":"130606"
 	},
@@ -11,7 +11,7 @@
 		"code":"130606002",
 		"fullCode":"130606002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五四路街道",
 		"parentCode":"130606"
 	},
@@ -19,7 +19,7 @@
 		"code":"130606003",
 		"fullCode":"130606003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关街道",
 		"parentCode":"130606"
 	},
@@ -27,7 +27,7 @@
 		"code":"130606004",
 		"fullCode":"130606004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华路街道",
 		"parentCode":"130606"
 	},
@@ -35,7 +35,7 @@
 		"code":"130606005",
 		"fullCode":"130606005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关街道",
 		"parentCode":"130606"
 	},
@@ -43,7 +43,7 @@
 		"code":"130606006",
 		"fullCode":"130606006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联盟街道",
 		"parentCode":"130606"
 	},
@@ -51,7 +51,7 @@
 		"code":"130606007",
 		"fullCode":"130606007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星街道",
 		"parentCode":"130606"
 	},
@@ -59,7 +59,7 @@
 		"code":"130606008",
 		"fullCode":"130606008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕华街道",
 		"parentCode":"130606"
 	},
@@ -67,7 +67,7 @@
 		"code":"130606009",
 		"fullCode":"130606009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永华街道",
 		"parentCode":"130606"
 	},
@@ -75,7 +75,7 @@
 		"code":"130606010",
 		"fullCode":"130606010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南关街道",
 		"parentCode":"130606"
 	},
@@ -83,7 +83,7 @@
 		"code":"130606100",
 		"fullCode":"130606100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百楼镇",
 		"parentCode":"130606"
 	},
@@ -91,7 +91,7 @@
 		"code":"130606200",
 		"fullCode":"130606200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩庄乡",
 		"parentCode":"130606"
 	},
@@ -99,7 +99,7 @@
 		"code":"130606201",
 		"fullCode":"130606201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东金庄乡",
 		"parentCode":"130606"
 	},
@@ -107,7 +107,7 @@
 		"code":"130606203",
 		"fullCode":"130606203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨庄乡",
 		"parentCode":"130606"
 	},
@@ -115,7 +115,7 @@
 		"code":"130606204",
 		"fullCode":"130606204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南大园乡",
 		"parentCode":"130606"
 	},
@@ -123,7 +123,7 @@
 		"code":"130606205",
 		"fullCode":"130606205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"焦庄乡",
 		"parentCode":"130606"
 	},
@@ -131,7 +131,7 @@
 		"code":"130606206",
 		"fullCode":"130606206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五尧乡",
 		"parentCode":"130606"
 	}

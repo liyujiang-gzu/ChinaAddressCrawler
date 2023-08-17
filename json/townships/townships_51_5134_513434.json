@@ -3,7 +3,7 @@
 		"code":"513434100",
 		"fullCode":"513434100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"越城镇",
 		"parentCode":"513434"
 	},
@@ -11,7 +11,7 @@
 		"code":"513434101",
 		"fullCode":"513434101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中所镇",
 		"parentCode":"513434"
 	},
@@ -19,7 +19,7 @@
 		"code":"513434102",
 		"fullCode":"513434102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民镇",
 		"parentCode":"513434"
 	},
@@ -27,7 +27,7 @@
 		"code":"513434103",
 		"fullCode":"513434103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乃托镇",
 		"parentCode":"513434"
 	},
@@ -35,7 +35,7 @@
 		"code":"513434104",
 		"fullCode":"513434104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普雄镇",
 		"parentCode":"513434"
 	},
@@ -43,7 +43,7 @@
 		"code":"513434105",
 		"fullCode":"513434105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大瑞镇",
 		"parentCode":"513434"
 	},
@@ -51,7 +51,7 @@
 		"code":"513434106",
 		"fullCode":"513434106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹阿觉镇",
 		"parentCode":"513434"
 	},
@@ -59,7 +59,7 @@
 		"code":"513434107",
 		"fullCode":"513434107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"书古镇",
 		"parentCode":"513434"
 	},
@@ -67,7 +67,7 @@
 		"code":"513434108",
 		"fullCode":"513434108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依洛地坝镇",
 		"parentCode":"513434"
 	},
@@ -75,7 +75,7 @@
 		"code":"513434109",
 		"fullCode":"513434109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南箐镇",
 		"parentCode":"513434"
 	},
@@ -83,7 +83,7 @@
 		"code":"513434110",
 		"fullCode":"513434110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贡莫镇",
 		"parentCode":"513434"
 	},
@@ -91,7 +91,7 @@
 		"code":"513434111",
 		"fullCode":"513434111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅花镇",
 		"parentCode":"513434"
 	},
@@ -99,7 +99,7 @@
 		"code":"513434112",
 		"fullCode":"513434112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尔觉镇",
 		"parentCode":"513434"
 	},
@@ -107,7 +107,7 @@
 		"code":"513434113",
 		"fullCode":"513434113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉普镇",
 		"parentCode":"513434"
 	},
@@ -115,7 +115,7 @@
 		"code":"513434114",
 		"fullCode":"513434114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马拖镇",
 		"parentCode":"513434"
 	},
@@ -123,7 +123,7 @@
 		"code":"513434115",
 		"fullCode":"513434115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大花镇",
 		"parentCode":"513434"
 	},
@@ -131,7 +131,7 @@
 		"code":"513434116",
 		"fullCode":"513434116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"513434"
 	},
@@ -139,7 +139,7 @@
 		"code":"513434211",
 		"fullCode":"513434211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保安藏族乡",
 		"parentCode":"513434"
 	},
@@ -147,7 +147,7 @@
 		"code":"513434235",
 		"fullCode":"513434235000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉吉乡",
 		"parentCode":"513434"
 	},
@@ -155,7 +155,7 @@
 		"code":"513434236",
 		"fullCode":"513434236000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"申果庄乡",
 		"parentCode":"513434"
 	}

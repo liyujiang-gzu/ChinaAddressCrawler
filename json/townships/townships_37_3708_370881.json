@@ -3,7 +3,7 @@
 		"code":"370881001",
 		"fullCode":"370881001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁城街道",
 		"parentCode":"370881"
 	},
@@ -11,7 +11,7 @@
 		"code":"370881002",
 		"fullCode":"370881002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"书院街道",
 		"parentCode":"370881"
 	},
@@ -19,7 +19,7 @@
 		"code":"370881003",
 		"fullCode":"370881003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"时庄街道",
 		"parentCode":"370881"
 	},
@@ -27,7 +27,7 @@
 		"code":"370881004",
 		"fullCode":"370881004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小雪街道",
 		"parentCode":"370881"
 	},
@@ -35,7 +35,7 @@
 		"code":"370881101",
 		"fullCode":"370881101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴村镇",
 		"parentCode":"370881"
 	},
@@ -43,7 +43,7 @@
 		"code":"370881102",
 		"fullCode":"370881102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚村镇",
 		"parentCode":"370881"
 	},
@@ -51,7 +51,7 @@
 		"code":"370881103",
 		"fullCode":"370881103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陵城镇",
 		"parentCode":"370881"
 	},
@@ -59,7 +59,7 @@
 		"code":"370881105",
 		"fullCode":"370881105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼山镇",
 		"parentCode":"370881"
 	},
@@ -67,7 +67,7 @@
 		"code":"370881108",
 		"fullCode":"370881108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王庄镇",
 		"parentCode":"370881"
 	},
@@ -75,7 +75,7 @@
 		"code":"370881109",
 		"fullCode":"370881109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"息陬镇",
 		"parentCode":"370881"
 	},
@@ -83,7 +83,7 @@
 		"code":"370881110",
 		"fullCode":"370881110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门山镇",
 		"parentCode":"370881"
 	},
@@ -91,7 +91,7 @@
 		"code":"370881111",
 		"fullCode":"370881111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"防山镇",
 		"parentCode":"370881"
 	}

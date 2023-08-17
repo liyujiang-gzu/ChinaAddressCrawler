@@ -3,7 +3,7 @@
 		"code":"610702001",
 		"fullCode":"610702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北关街道",
 		"parentCode":"610702"
 	},
@@ -11,7 +11,7 @@
 		"code":"610702002",
 		"fullCode":"610702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东大街街道",
 		"parentCode":"610702"
 	},
@@ -19,7 +19,7 @@
 		"code":"610702003",
 		"fullCode":"610702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉中路街道",
 		"parentCode":"610702"
 	},
@@ -27,7 +27,7 @@
 		"code":"610702004",
 		"fullCode":"610702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山街街道",
 		"parentCode":"610702"
 	},
@@ -35,7 +35,7 @@
 		"code":"610702005",
 		"fullCode":"610702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关街道",
 		"parentCode":"610702"
 	},
@@ -43,7 +43,7 @@
 		"code":"610702006",
 		"fullCode":"610702006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鑫源街道",
 		"parentCode":"610702"
 	},
@@ -51,7 +51,7 @@
 		"code":"610702008",
 		"fullCode":"610702008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里街道",
 		"parentCode":"610702"
 	},
@@ -59,7 +59,7 @@
 		"code":"610702009",
 		"fullCode":"610702009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙江街道",
 		"parentCode":"610702"
 	},
@@ -67,7 +67,7 @@
 		"code":"610702100",
 		"fullCode":"610702100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铺镇",
 		"parentCode":"610702"
 	},
@@ -75,7 +75,7 @@
 		"code":"610702101",
 		"fullCode":"610702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武乡镇",
 		"parentCode":"610702"
 	},
@@ -83,7 +83,7 @@
 		"code":"610702102",
 		"fullCode":"610702102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东店镇",
 		"parentCode":"610702"
 	},
@@ -91,7 +91,7 @@
 		"code":"610702104",
 		"fullCode":"610702104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗营镇",
 		"parentCode":"610702"
 	},
@@ -99,7 +99,7 @@
 		"code":"610702105",
 		"fullCode":"610702105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老君镇",
 		"parentCode":"610702"
 	},
@@ -107,7 +107,7 @@
 		"code":"610702106",
 		"fullCode":"610702106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉王镇",
 		"parentCode":"610702"
 	},
@@ -115,7 +115,7 @@
 		"code":"610702107",
 		"fullCode":"610702107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐望镇",
 		"parentCode":"610702"
 	}

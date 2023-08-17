@@ -3,7 +3,7 @@
 		"code":"530304001",
 		"fullCode":"530304001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通泉街道",
 		"parentCode":"530304"
 	},
@@ -11,7 +11,7 @@
 		"code":"530304002",
 		"fullCode":"530304002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡头村街道",
 		"parentCode":"530304"
 	},
@@ -19,7 +19,7 @@
 		"code":"530304003",
 		"fullCode":"530304003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家庄街道",
 		"parentCode":"530304"
 	},
@@ -27,7 +27,7 @@
 		"code":"530304004",
 		"fullCode":"530304004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张安屯街道",
 		"parentCode":"530304"
 	},
@@ -35,7 +35,7 @@
 		"code":"530304005",
 		"fullCode":"530304005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧县街道",
 		"parentCode":"530304"
 	},
@@ -43,7 +43,7 @@
 		"code":"530304100",
 		"fullCode":"530304100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马过河镇",
 		"parentCode":"530304"
 	},
@@ -51,7 +51,7 @@
 		"code":"530304101",
 		"fullCode":"530304101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳章镇",
 		"parentCode":"530304"
 	},
@@ -59,7 +59,7 @@
 		"code":"530304200",
 		"fullCode":"530304200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马鸣乡",
 		"parentCode":"530304"
 	},
@@ -67,7 +67,7 @@
 		"code":"530304201",
 		"fullCode":"530304201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庄乡",
 		"parentCode":"530304"
 	},
@@ -75,7 +75,7 @@
 		"code":"530304202",
 		"fullCode":"530304202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月望乡",
 		"parentCode":"530304"
 	}

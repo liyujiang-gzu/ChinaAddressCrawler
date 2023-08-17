@@ -3,7 +3,7 @@
 		"code":"361025100",
 		"fullCode":"361025100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鳌溪镇",
 		"parentCode":"361025"
 	},
@@ -11,7 +11,7 @@
 		"code":"361025101",
 		"fullCode":"361025101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公溪镇",
 		"parentCode":"361025"
 	},
@@ -19,7 +19,7 @@
 		"code":"361025102",
 		"fullCode":"361025102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山砀镇",
 		"parentCode":"361025"
 	},
@@ -27,7 +27,7 @@
 		"code":"361025103",
 		"fullCode":"361025103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龚坊镇",
 		"parentCode":"361025"
 	},
@@ -35,7 +35,7 @@
 		"code":"361025104",
 		"fullCode":"361025104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戴坊镇",
 		"parentCode":"361025"
 	},
@@ -43,7 +43,7 @@
 		"code":"361025105",
 		"fullCode":"361025105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛田镇",
 		"parentCode":"361025"
 	},
@@ -51,7 +51,7 @@
 		"code":"361025106",
 		"fullCode":"361025106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万崇镇",
 		"parentCode":"361025"
 	},
@@ -59,7 +59,7 @@
 		"code":"361025107",
 		"fullCode":"361025107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"增田镇",
 		"parentCode":"361025"
 	},
@@ -67,7 +67,7 @@
 		"code":"361025108",
 		"fullCode":"361025108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"招携镇",
 		"parentCode":"361025"
 	},
@@ -75,7 +75,7 @@
 		"code":"361025200",
 		"fullCode":"361025200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖溪乡",
 		"parentCode":"361025"
 	},
@@ -83,7 +83,7 @@
 		"code":"361025201",
 		"fullCode":"361025201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗陂乡",
 		"parentCode":"361025"
 	},
@@ -91,7 +91,7 @@
 		"code":"361025202",
 		"fullCode":"361025202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖坪乡",
 		"parentCode":"361025"
 	},
@@ -99,7 +99,7 @@
 		"code":"361025203",
 		"fullCode":"361025203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南村乡",
 		"parentCode":"361025"
 	},
@@ -107,7 +107,7 @@
 		"code":"361025204",
 		"fullCode":"361025204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷岗乡",
 		"parentCode":"361025"
 	},
@@ -115,7 +115,7 @@
 		"code":"361025205",
 		"fullCode":"361025205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金竹畲族乡",
 		"parentCode":"361025"
 	},
@@ -123,7 +123,7 @@
 		"code":"361025206",
 		"fullCode":"361025206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大马头乡",
 		"parentCode":"361025"
 	}

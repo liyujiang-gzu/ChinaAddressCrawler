@@ -3,7 +3,7 @@
 		"code":"450123100",
 		"fullCode":"450123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城厢镇",
 		"parentCode":"450123"
 	},
@@ -11,7 +11,7 @@
 		"code":"450123101",
 		"fullCode":"450123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南圩镇",
 		"parentCode":"450123"
 	},
@@ -19,7 +19,7 @@
 		"code":"450123102",
 		"fullCode":"450123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雁江镇",
 		"parentCode":"450123"
 	},
@@ -27,7 +27,7 @@
 		"code":"450123103",
 		"fullCode":"450123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那桐镇",
 		"parentCode":"450123"
 	},
@@ -35,7 +35,7 @@
 		"code":"450123104",
 		"fullCode":"450123104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔建镇",
 		"parentCode":"450123"
 	},
@@ -43,7 +43,7 @@
 		"code":"450123105",
 		"fullCode":"450123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁当镇",
 		"parentCode":"450123"
 	},
@@ -51,7 +51,7 @@
 		"code":"450123201",
 		"fullCode":"450123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古潭乡",
 		"parentCode":"450123"
 	},
@@ -59,7 +59,7 @@
 		"code":"450123203",
 		"fullCode":"450123203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都结乡",
 		"parentCode":"450123"
 	},
@@ -67,7 +67,7 @@
 		"code":"450123204",
 		"fullCode":"450123204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布泉乡",
 		"parentCode":"450123"
 	},
@@ -75,7 +75,7 @@
 		"code":"450123205",
 		"fullCode":"450123205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屏山乡",
 		"parentCode":"450123"
 	},
@@ -83,7 +83,7 @@
 		"code":"450123450",
 		"fullCode":"450123450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆安华侨管理区",
 		"parentCode":"450123"
 	}

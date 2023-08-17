@@ -3,7 +3,7 @@
 		"code":"540330100",
 		"fullCode":"540330100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"边坝镇",
 		"parentCode":"540330"
 	},
@@ -11,7 +11,7 @@
 		"code":"540330101",
 		"fullCode":"540330101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草卡镇",
 		"parentCode":"540330"
 	},
@@ -19,7 +19,7 @@
 		"code":"540330201",
 		"fullCode":"540330201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙丁乡",
 		"parentCode":"540330"
 	},
@@ -27,7 +27,7 @@
 		"code":"540330202",
 		"fullCode":"540330202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金岭乡",
 		"parentCode":"540330"
 	},
@@ -35,7 +35,7 @@
 		"code":"540330203",
 		"fullCode":"540330203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加贡乡",
 		"parentCode":"540330"
 	},
@@ -43,7 +43,7 @@
 		"code":"540330204",
 		"fullCode":"540330204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马武乡",
 		"parentCode":"540330"
 	},
@@ -51,7 +51,7 @@
 		"code":"540330205",
 		"fullCode":"540330205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热玉乡",
 		"parentCode":"540330"
 	},
@@ -59,7 +59,7 @@
 		"code":"540330206",
 		"fullCode":"540330206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼木乡",
 		"parentCode":"540330"
 	},
@@ -67,7 +67,7 @@
 		"code":"540330207",
 		"fullCode":"540330207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马秀乡",
 		"parentCode":"540330"
 	},
@@ -75,7 +75,7 @@
 		"code":"540330208",
 		"fullCode":"540330208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉孜乡",
 		"parentCode":"540330"
 	},
@@ -83,7 +83,7 @@
 		"code":"540330209",
 		"fullCode":"540330209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都瓦乡",
 		"parentCode":"540330"
 	}

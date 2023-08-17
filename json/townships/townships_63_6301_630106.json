@@ -3,7 +3,7 @@
 		"code":"630106100",
 		"fullCode":"630106100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田家寨镇",
 		"parentCode":"630106"
 	},
@@ -11,7 +11,7 @@
 		"code":"630106101",
 		"fullCode":"630106101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上新庄镇",
 		"parentCode":"630106"
 	},
@@ -19,7 +19,7 @@
 		"code":"630106102",
 		"fullCode":"630106102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁沙尔镇",
 		"parentCode":"630106"
 	},
@@ -27,7 +27,7 @@
 		"code":"630106103",
 		"fullCode":"630106103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘河滩镇",
 		"parentCode":"630106"
 	},
@@ -35,7 +35,7 @@
 		"code":"630106104",
 		"fullCode":"630106104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共和镇",
 		"parentCode":"630106"
 	},
@@ -43,7 +43,7 @@
 		"code":"630106105",
 		"fullCode":"630106105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多巴镇",
 		"parentCode":"630106"
 	},
@@ -51,7 +51,7 @@
 		"code":"630106106",
 		"fullCode":"630106106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拦隆口镇",
 		"parentCode":"630106"
 	},
@@ -59,7 +59,7 @@
 		"code":"630106107",
 		"fullCode":"630106107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上五庄镇",
 		"parentCode":"630106"
 	},
@@ -67,7 +67,7 @@
 		"code":"630106108",
 		"fullCode":"630106108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家山镇",
 		"parentCode":"630106"
 	},
@@ -75,7 +75,7 @@
 		"code":"630106109",
 		"fullCode":"630106109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西堡镇",
 		"parentCode":"630106"
 	},
@@ -83,7 +83,7 @@
 		"code":"630106200",
 		"fullCode":"630106200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"群加藏族乡",
 		"parentCode":"630106"
 	},
@@ -91,7 +91,7 @@
 		"code":"630106201",
 		"fullCode":"630106201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土门关乡",
 		"parentCode":"630106"
 	},
@@ -99,7 +99,7 @@
 		"code":"630106202",
 		"fullCode":"630106202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉东回族乡",
 		"parentCode":"630106"
 	},
@@ -107,7 +107,7 @@
 		"code":"630106203",
 		"fullCode":"630106203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大才回族乡",
 		"parentCode":"630106"
 	},
@@ -115,7 +115,7 @@
 		"code":"630106204",
 		"fullCode":"630106204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海子沟乡",
 		"parentCode":"630106"
 	},
@@ -123,7 +123,7 @@
 		"code":"630106400",
 		"fullCode":"630106400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘河工业园",
 		"parentCode":"630106"
 	},
@@ -131,7 +131,7 @@
 		"code":"630106401",
 		"fullCode":"630106401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康川街道",
 		"parentCode":"630106"
 	}

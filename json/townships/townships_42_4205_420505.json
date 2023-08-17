@@ -3,7 +3,7 @@
 		"code":"420505001",
 		"fullCode":"420505001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古老背街道",
 		"parentCode":"420505"
 	},
@@ -11,7 +11,7 @@
 		"code":"420505002",
 		"fullCode":"420505002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎牙街道",
 		"parentCode":"420505"
 	},
@@ -19,7 +19,7 @@
 		"code":"420505003",
 		"fullCode":"420505003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云池街道",
 		"parentCode":"420505"
 	}

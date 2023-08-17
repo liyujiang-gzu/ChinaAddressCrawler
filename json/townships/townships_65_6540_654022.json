@@ -3,7 +3,7 @@
 		"code":"654022100",
 		"fullCode":"654022100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"察布查尔镇",
 		"parentCode":"654022"
 	},
@@ -11,7 +11,7 @@
 		"code":"654022101",
 		"fullCode":"654022101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱新色里镇",
 		"parentCode":"654022"
 	},
@@ -19,7 +19,7 @@
 		"code":"654022102",
 		"fullCode":"654022102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙扎齐牛录镇",
 		"parentCode":"654022"
 	},
@@ -27,7 +27,7 @@
 		"code":"654022103",
 		"fullCode":"654022103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绰霍尔镇",
 		"parentCode":"654022"
 	},
@@ -35,7 +35,7 @@
 		"code":"654022104",
 		"fullCode":"654022104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加尕斯台镇",
 		"parentCode":"654022"
 	},
@@ -43,7 +43,7 @@
 		"code":"654022105",
 		"fullCode":"654022105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琼博拉镇",
 		"parentCode":"654022"
 	},
@@ -51,7 +51,7 @@
 		"code":"654022106",
 		"fullCode":"654022106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海努克镇",
 		"parentCode":"654022"
 	},
@@ -59,7 +59,7 @@
 		"code":"654022200",
 		"fullCode":"654022200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堆齐牛录乡",
 		"parentCode":"654022"
 	},
@@ -67,7 +67,7 @@
 		"code":"654022203",
 		"fullCode":"654022203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳达齐牛录乡",
 		"parentCode":"654022"
 	},
@@ -75,7 +75,7 @@
 		"code":"654022204",
 		"fullCode":"654022204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎库齐牛录乡",
 		"parentCode":"654022"
 	},
@@ -83,7 +83,7 @@
 		"code":"654022205",
 		"fullCode":"654022205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米粮泉回族乡",
 		"parentCode":"654022"
 	},
@@ -91,7 +91,7 @@
 		"code":"654022206",
 		"fullCode":"654022206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坎乡",
 		"parentCode":"654022"
 	},
@@ -99,7 +99,7 @@
 		"code":"654022207",
 		"fullCode":"654022207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阔洪奇乡",
 		"parentCode":"654022"
 	},
@@ -107,7 +107,7 @@
 		"code":"654022401",
 		"fullCode":"654022401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安班巴格良繁场",
 		"parentCode":"654022"
 	},
@@ -115,7 +115,7 @@
 		"code":"654022403",
 		"fullCode":"654022403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊犁州平原林场",
 		"parentCode":"654022"
 	},
@@ -123,7 +123,7 @@
 		"code":"654022404",
 		"fullCode":"654022404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山区林场",
 		"parentCode":"654022"
 	},
@@ -131,7 +131,7 @@
 		"code":"654022408",
 		"fullCode":"654022408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都拉塔口岸",
 		"parentCode":"654022"
 	},
@@ -139,7 +139,7 @@
 		"code":"654022503",
 		"fullCode":"654022503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团六十七团分部",
 		"parentCode":"654022"
 	},
@@ -147,7 +147,7 @@
 		"code":"654022504",
 		"fullCode":"654022504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团六十九团",
 		"parentCode":"654022"
 	}

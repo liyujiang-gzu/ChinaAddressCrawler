@@ -3,7 +3,7 @@
 		"code":"152222100",
 		"fullCode":"152222100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦呼舒镇",
 		"parentCode":"152222"
 	},
@@ -11,7 +11,7 @@
 		"code":"152222101",
 		"fullCode":"152222101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴仁哲里木镇",
 		"parentCode":"152222"
 	},
@@ -19,7 +19,7 @@
 		"code":"152222102",
 		"fullCode":"152222102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吐列毛杜镇",
 		"parentCode":"152222"
 	},
@@ -27,7 +27,7 @@
 		"code":"152222103",
 		"fullCode":"152222103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜尔基镇",
 		"parentCode":"152222"
 	},
@@ -35,7 +35,7 @@
 		"code":"152222104",
 		"fullCode":"152222104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高力板镇",
 		"parentCode":"152222"
 	},
@@ -43,7 +43,7 @@
 		"code":"152222105",
 		"fullCode":"152222105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"好腰苏木镇",
 		"parentCode":"152222"
 	},
@@ -51,7 +51,7 @@
 		"code":"152222200",
 		"fullCode":"152222200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"代钦塔拉苏木",
 		"parentCode":"152222"
 	},
@@ -59,7 +59,7 @@
 		"code":"152222201",
 		"fullCode":"152222201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新佳木苏木",
 		"parentCode":"152222"
 	},
@@ -67,7 +67,7 @@
 		"code":"152222202",
 		"fullCode":"152222202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈日诺尔苏木",
 		"parentCode":"152222"
 	},
@@ -75,7 +75,7 @@
 		"code":"152222203",
 		"fullCode":"152222203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"额木庭高勒苏木",
 		"parentCode":"152222"
 	},
@@ -83,7 +83,7 @@
 		"code":"152222204",
 		"fullCode":"152222204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦茫哈苏木",
 		"parentCode":"152222"
 	},
@@ -91,7 +91,7 @@
 		"code":"152222205",
 		"fullCode":"152222205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦淖尔苏木",
 		"parentCode":"152222"
 	},
@@ -99,7 +99,7 @@
 		"code":"152222400",
 		"fullCode":"152222400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布敦化牧场",
 		"parentCode":"152222"
 	},
@@ -107,7 +107,7 @@
 		"code":"152222401",
 		"fullCode":"152222401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吐列毛杜农场",
 		"parentCode":"152222"
 	},
@@ -115,7 +115,7 @@
 		"code":"152222402",
 		"fullCode":"152222402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟恩套力盖矿区工作部",
 		"parentCode":"152222"
 	},
@@ -123,7 +123,7 @@
 		"code":"152222403",
 		"fullCode":"152222403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布敦化矿区工作部",
 		"parentCode":"152222"
 	}

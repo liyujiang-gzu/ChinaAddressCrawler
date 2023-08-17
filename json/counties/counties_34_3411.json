@@ -3,7 +3,7 @@
 		"code":"341102",
 		"fullCode":"341102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"琅琊区",
 		"parentCode":"3411"
 	},
@@ -11,7 +11,7 @@
 		"code":"341103",
 		"fullCode":"341103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南谯区",
 		"parentCode":"3411"
 	},
@@ -19,7 +19,7 @@
 		"code":"341122",
 		"fullCode":"341122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"来安县",
 		"parentCode":"3411"
 	},
@@ -27,7 +27,7 @@
 		"code":"341124",
 		"fullCode":"341124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"全椒县",
 		"parentCode":"3411"
 	},
@@ -35,7 +35,7 @@
 		"code":"341125",
 		"fullCode":"341125000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"定远县",
 		"parentCode":"3411"
 	},
@@ -43,7 +43,7 @@
 		"code":"341126",
 		"fullCode":"341126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凤阳县",
 		"parentCode":"3411"
 	},
@@ -51,7 +51,7 @@
 		"code":"341171",
 		"fullCode":"341171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"中新苏滁高新技术产业开发区",
 		"parentCode":"3411"
 	},
@@ -59,7 +59,7 @@
 		"code":"341172",
 		"fullCode":"341172000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"滁州经济技术开发区",
 		"parentCode":"3411"
 	},
@@ -67,7 +67,7 @@
 		"code":"341181",
 		"fullCode":"341181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天长市",
 		"parentCode":"3411"
 	},
@@ -75,7 +75,7 @@
 		"code":"341182",
 		"fullCode":"341182000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"明光市",
 		"parentCode":"3411"
 	}

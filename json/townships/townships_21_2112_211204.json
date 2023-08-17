@@ -3,7 +3,7 @@
 		"code":"211204001",
 		"fullCode":"211204001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街道",
 		"parentCode":"211204"
 	},
@@ -11,7 +11,7 @@
 		"code":"211204002",
 		"fullCode":"211204002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳街道",
 		"parentCode":"211204"
 	},
@@ -19,7 +19,7 @@
 		"code":"211204101",
 		"fullCode":"211204101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张相镇",
 		"parentCode":"211204"
 	},
@@ -27,7 +27,7 @@
 		"code":"211204102",
 		"fullCode":"211204102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨木林子镇",
 		"parentCode":"211204"
 	},
@@ -35,7 +35,7 @@
 		"code":"211204203",
 		"fullCode":"211204203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聂家满族乡",
 		"parentCode":"211204"
 	}

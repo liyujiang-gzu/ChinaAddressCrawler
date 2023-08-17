@@ -3,7 +3,7 @@
 		"code":"451224100",
 		"fullCode":"451224100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兰镇",
 		"parentCode":"451224"
 	},
@@ -11,7 +11,7 @@
 		"code":"451224101",
 		"fullCode":"451224101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隘洞镇",
 		"parentCode":"451224"
 	},
@@ -19,7 +19,7 @@
 		"code":"451224102",
 		"fullCode":"451224102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长乐镇",
 		"parentCode":"451224"
 	},
@@ -27,7 +27,7 @@
 		"code":"451224103",
 		"fullCode":"451224103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三石镇",
 		"parentCode":"451224"
 	},
@@ -35,7 +35,7 @@
 		"code":"451224104",
 		"fullCode":"451224104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武篆镇",
 		"parentCode":"451224"
 	},
@@ -43,7 +43,7 @@
 		"code":"451224105",
 		"fullCode":"451224105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长江镇",
 		"parentCode":"451224"
 	},
@@ -51,7 +51,7 @@
 		"code":"451224200",
 		"fullCode":"451224200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗孟乡",
 		"parentCode":"451224"
 	},
@@ -59,7 +59,7 @@
 		"code":"451224201",
 		"fullCode":"451224201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰木乡",
 		"parentCode":"451224"
 	},
@@ -67,7 +67,7 @@
 		"code":"451224203",
 		"fullCode":"451224203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴畴乡",
 		"parentCode":"451224"
 	},
@@ -75,7 +75,7 @@
 		"code":"451224204",
 		"fullCode":"451224204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金谷乡",
 		"parentCode":"451224"
 	},
@@ -83,7 +83,7 @@
 		"code":"451224205",
 		"fullCode":"451224205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三弄瑶族乡",
 		"parentCode":"451224"
 	},
@@ -91,7 +91,7 @@
 		"code":"451224206",
 		"fullCode":"451224206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大同乡",
 		"parentCode":"451224"
 	},
@@ -99,7 +99,7 @@
 		"code":"451224207",
 		"fullCode":"451224207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花香乡",
 		"parentCode":"451224"
 	},
@@ -107,7 +107,7 @@
 		"code":"451224208",
 		"fullCode":"451224208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"切学乡",
 		"parentCode":"451224"
 	}

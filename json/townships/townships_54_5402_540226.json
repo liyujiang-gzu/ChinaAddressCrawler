@@ -3,7 +3,7 @@
 		"code":"540226100",
 		"fullCode":"540226100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡嘎镇",
 		"parentCode":"540226"
 	},
@@ -11,7 +11,7 @@
 		"code":"540226101",
 		"fullCode":"540226101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑桑镇",
 		"parentCode":"540226"
 	},
@@ -19,7 +19,7 @@
 		"code":"540226200",
 		"fullCode":"540226200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达若乡",
 		"parentCode":"540226"
 	},
@@ -27,7 +27,7 @@
 		"code":"540226201",
 		"fullCode":"540226201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贡久布乡",
 		"parentCode":"540226"
 	},
@@ -35,7 +35,7 @@
 		"code":"540226202",
 		"fullCode":"540226202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"措迈乡",
 		"parentCode":"540226"
 	},
@@ -43,7 +43,7 @@
 		"code":"540226203",
 		"fullCode":"540226203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雄巴乡",
 		"parentCode":"540226"
 	},
@@ -51,7 +51,7 @@
 		"code":"540226204",
 		"fullCode":"540226204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查孜乡",
 		"parentCode":"540226"
 	},
@@ -59,7 +59,7 @@
 		"code":"540226205",
 		"fullCode":"540226205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿木雄乡",
 		"parentCode":"540226"
 	},
@@ -67,7 +67,7 @@
 		"code":"540226206",
 		"fullCode":"540226206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"如萨乡",
 		"parentCode":"540226"
 	},
@@ -75,7 +75,7 @@
 		"code":"540226207",
 		"fullCode":"540226207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔隆乡",
 		"parentCode":"540226"
 	},
@@ -83,7 +83,7 @@
 		"code":"540226208",
 		"fullCode":"540226208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼果乡",
 		"parentCode":"540226"
 	},
@@ -91,7 +91,7 @@
 		"code":"540226209",
 		"fullCode":"540226209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日吾其乡",
 		"parentCode":"540226"
 	},
@@ -99,7 +99,7 @@
 		"code":"540226210",
 		"fullCode":"540226210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多白乡",
 		"parentCode":"540226"
 	},
@@ -107,7 +107,7 @@
 		"code":"540226211",
 		"fullCode":"540226211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"切热乡",
 		"parentCode":"540226"
 	},
@@ -115,7 +115,7 @@
 		"code":"540226212",
 		"fullCode":"540226212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秋窝乡",
 		"parentCode":"540226"
 	},
@@ -123,7 +123,7 @@
 		"code":"540226213",
 		"fullCode":"540226213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达居乡",
 		"parentCode":"540226"
 	},
@@ -131,7 +131,7 @@
 		"code":"540226214",
 		"fullCode":"540226214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚木乡",
 		"parentCode":"540226"
 	}

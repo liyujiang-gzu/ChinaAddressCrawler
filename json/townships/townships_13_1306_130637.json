@@ -3,7 +3,7 @@
 		"code":"130637100",
 		"fullCode":"130637100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博野镇",
 		"parentCode":"130637"
 	},
@@ -11,7 +11,7 @@
 		"code":"130637101",
 		"fullCode":"130637101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小店镇",
 		"parentCode":"130637"
 	},
@@ -19,7 +19,7 @@
 		"code":"130637102",
 		"fullCode":"130637102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程委镇",
 		"parentCode":"130637"
 	},
@@ -27,7 +27,7 @@
 		"code":"130637103",
 		"fullCode":"130637103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东墟镇",
 		"parentCode":"130637"
 	},
@@ -35,7 +35,7 @@
 		"code":"130637104",
 		"fullCode":"130637104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北杨镇",
 		"parentCode":"130637"
 	},
@@ -43,7 +43,7 @@
 		"code":"130637105",
 		"fullCode":"130637105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东镇",
 		"parentCode":"130637"
 	},
@@ -51,7 +51,7 @@
 		"code":"130637106",
 		"fullCode":"130637106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南小王镇",
 		"parentCode":"130637"
 	}

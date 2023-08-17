@@ -3,7 +3,7 @@
 		"code":"511702",
 		"fullCode":"511702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"通川区",
 		"parentCode":"5117"
 	},
@@ -11,7 +11,7 @@
 		"code":"511703",
 		"fullCode":"511703000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"达川区",
 		"parentCode":"5117"
 	},
@@ -19,7 +19,7 @@
 		"code":"511722",
 		"fullCode":"511722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宣汉县",
 		"parentCode":"5117"
 	},
@@ -27,7 +27,7 @@
 		"code":"511723",
 		"fullCode":"511723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"开江县",
 		"parentCode":"5117"
 	},
@@ -35,7 +35,7 @@
 		"code":"511724",
 		"fullCode":"511724000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大竹县",
 		"parentCode":"5117"
 	},
@@ -43,7 +43,7 @@
 		"code":"511725",
 		"fullCode":"511725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"渠县",
 		"parentCode":"5117"
 	},
@@ -51,7 +51,7 @@
 		"code":"511781",
 		"fullCode":"511781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"万源市",
 		"parentCode":"5117"
 	}

@@ -3,7 +3,7 @@
 		"code":"211004001",
 		"fullCode":"211004001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工农街道",
 		"parentCode":"211004"
 	},
@@ -11,7 +11,7 @@
 		"code":"211004004",
 		"fullCode":"211004004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长征街道",
 		"parentCode":"211004"
 	},
@@ -19,7 +19,7 @@
 		"code":"211004101",
 		"fullCode":"211004101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曙光镇",
 		"parentCode":"211004"
 	},
@@ -27,7 +27,7 @@
 		"code":"211004102",
 		"fullCode":"211004102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰家镇",
 		"parentCode":"211004"
 	}

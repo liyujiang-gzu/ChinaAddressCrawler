@@ -3,7 +3,7 @@
 		"code":"330522001",
 		"fullCode":"330522001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雉城街道",
 		"parentCode":"330522"
 	},
@@ -11,7 +11,7 @@
 		"code":"330522002",
 		"fullCode":"330522002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"画溪街道",
 		"parentCode":"330522"
 	},
@@ -19,7 +19,7 @@
 		"code":"330522003",
 		"fullCode":"330522003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太湖街道",
 		"parentCode":"330522"
 	},
@@ -27,7 +27,7 @@
 		"code":"330522004",
 		"fullCode":"330522004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山街道",
 		"parentCode":"330522"
 	},
@@ -35,7 +35,7 @@
 		"code":"330522101",
 		"fullCode":"330522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪桥镇",
 		"parentCode":"330522"
 	},
@@ -43,7 +43,7 @@
 		"code":"330522102",
 		"fullCode":"330522102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家巷镇",
 		"parentCode":"330522"
 	},
@@ -51,7 +51,7 @@
 		"code":"330522103",
 		"fullCode":"330522103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹浦镇",
 		"parentCode":"330522"
 	},
@@ -59,7 +59,7 @@
 		"code":"330522104",
 		"fullCode":"330522104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林城镇",
 		"parentCode":"330522"
 	},
@@ -67,7 +67,7 @@
 		"code":"330522106",
 		"fullCode":"330522106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虹星桥镇",
 		"parentCode":"330522"
 	},
@@ -75,7 +75,7 @@
 		"code":"330522108",
 		"fullCode":"330522108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小浦镇",
 		"parentCode":"330522"
 	},
@@ -83,7 +83,7 @@
 		"code":"330522110",
 		"fullCode":"330522110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平镇",
 		"parentCode":"330522"
 	},
@@ -91,7 +91,7 @@
 		"code":"330522111",
 		"fullCode":"330522111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗安镇",
 		"parentCode":"330522"
 	},
@@ -99,7 +99,7 @@
 		"code":"330522112",
 		"fullCode":"330522112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"煤山镇",
 		"parentCode":"330522"
 	},
@@ -107,7 +107,7 @@
 		"code":"330522200",
 		"fullCode":"330522200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口乡",
 		"parentCode":"330522"
 	},
@@ -115,7 +115,7 @@
 		"code":"330522202",
 		"fullCode":"330522202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吕山乡",
 		"parentCode":"330522"
 	}

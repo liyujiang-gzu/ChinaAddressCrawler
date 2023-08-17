@@ -3,7 +3,7 @@
 		"code":"330381001",
 		"fullCode":"330381001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安阳街道",
 		"parentCode":"330381"
 	},
@@ -11,7 +11,7 @@
 		"code":"330381002",
 		"fullCode":"330381002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉海街道",
 		"parentCode":"330381"
 	},
@@ -19,7 +19,7 @@
 		"code":"330381003",
 		"fullCode":"330381003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦湖街道",
 		"parentCode":"330381"
 	},
@@ -27,7 +27,7 @@
 		"code":"330381004",
 		"fullCode":"330381004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山街道",
 		"parentCode":"330381"
 	},
@@ -35,7 +35,7 @@
 		"code":"330381005",
 		"fullCode":"330381005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上望街道",
 		"parentCode":"330381"
 	},
@@ -43,7 +43,7 @@
 		"code":"330381007",
 		"fullCode":"330381007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莘塍街道",
 		"parentCode":"330381"
 	},
@@ -51,7 +51,7 @@
 		"code":"330381008",
 		"fullCode":"330381008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汀田街道",
 		"parentCode":"330381"
 	},
@@ -59,7 +59,7 @@
 		"code":"330381009",
 		"fullCode":"330381009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"飞云街道",
 		"parentCode":"330381"
 	},
@@ -67,7 +67,7 @@
 		"code":"330381010",
 		"fullCode":"330381010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙降街道",
 		"parentCode":"330381"
 	},
@@ -75,7 +75,7 @@
 		"code":"330381011",
 		"fullCode":"330381011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南滨街道",
 		"parentCode":"330381"
 	},
@@ -83,7 +83,7 @@
 		"code":"330381012",
 		"fullCode":"330381012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘岱街道",
 		"parentCode":"330381"
 	},
@@ -91,7 +91,7 @@
 		"code":"330381013",
 		"fullCode":"330381013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云周街道",
 		"parentCode":"330381"
 	},
@@ -99,7 +99,7 @@
 		"code":"330381101",
 		"fullCode":"330381101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘下镇",
 		"parentCode":"330381"
 	},
@@ -107,7 +107,7 @@
 		"code":"330381116",
 		"fullCode":"330381116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马屿镇",
 		"parentCode":"330381"
 	},
@@ -115,7 +115,7 @@
 		"code":"330381120",
 		"fullCode":"330381120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶山镇",
 		"parentCode":"330381"
 	},
@@ -123,7 +123,7 @@
 		"code":"330381122",
 		"fullCode":"330381122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖岭镇",
 		"parentCode":"330381"
 	},
@@ -131,7 +131,7 @@
 		"code":"330381125",
 		"fullCode":"330381125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高楼镇",
 		"parentCode":"330381"
 	},
@@ -139,7 +139,7 @@
 		"code":"330381126",
 		"fullCode":"330381126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐浦镇",
 		"parentCode":"330381"
 	},
@@ -147,7 +147,7 @@
 		"code":"330381127",
 		"fullCode":"330381127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林川镇",
 		"parentCode":"330381"
 	},
@@ -155,7 +155,7 @@
 		"code":"330381128",
 		"fullCode":"330381128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹村镇",
 		"parentCode":"330381"
 	},
@@ -163,7 +163,7 @@
 		"code":"330381129",
 		"fullCode":"330381129000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平阳坑镇",
 		"parentCode":"330381"
 	},
@@ -171,7 +171,7 @@
 		"code":"330381221",
 		"fullCode":"330381221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芳庄乡",
 		"parentCode":"330381"
 	},
@@ -179,7 +179,7 @@
 		"code":"330381222",
 		"fullCode":"330381222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北麂乡",
 		"parentCode":"330381"
 	}

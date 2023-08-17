@@ -3,7 +3,7 @@
 		"code":"131171201",
 		"fullCode":"131171201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大麻森乡",
 		"parentCode":"131171"
 	},
@@ -11,7 +11,7 @@
 		"code":"131171400",
 		"fullCode":"131171400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高新技术产业开发区",
 		"parentCode":"131171"
 	},
@@ -19,7 +19,7 @@
 		"code":"131171401",
 		"fullCode":"131171401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新型功能材料产业园",
 		"parentCode":"131171"
 	},
@@ -27,7 +27,7 @@
 		"code":"131171402",
 		"fullCode":"131171402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏正办事处",
 		"parentCode":"131171"
 	}

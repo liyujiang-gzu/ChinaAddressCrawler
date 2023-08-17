@@ -3,7 +3,7 @@
 		"code":"500242001",
 		"fullCode":"500242001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃花源街道",
 		"parentCode":"500242"
 	},
@@ -11,7 +11,7 @@
 		"code":"500242002",
 		"fullCode":"500242002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟多街道",
 		"parentCode":"500242"
 	},
@@ -19,7 +19,7 @@
 		"code":"500242101",
 		"fullCode":"500242101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭镇",
 		"parentCode":"500242"
 	},
@@ -27,7 +27,7 @@
 		"code":"500242102",
 		"fullCode":"500242102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻旺镇",
 		"parentCode":"500242"
 	},
@@ -35,7 +35,7 @@
 		"code":"500242103",
 		"fullCode":"500242103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"酉酬镇",
 		"parentCode":"500242"
 	},
@@ -43,7 +43,7 @@
 		"code":"500242104",
 		"fullCode":"500242104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大溪镇",
 		"parentCode":"500242"
 	},
@@ -51,7 +51,7 @@
 		"code":"500242105",
 		"fullCode":"500242105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"500242"
 	},
@@ -59,7 +59,7 @@
 		"code":"500242106",
 		"fullCode":"500242106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑水镇",
 		"parentCode":"500242"
 	},
@@ -67,7 +67,7 @@
 		"code":"500242107",
 		"fullCode":"500242107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁市镇",
 		"parentCode":"500242"
 	},
@@ -75,7 +75,7 @@
 		"code":"500242108",
 		"fullCode":"500242108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龚滩镇",
 		"parentCode":"500242"
 	},
@@ -83,7 +83,7 @@
 		"code":"500242109",
 		"fullCode":"500242109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李溪镇",
 		"parentCode":"500242"
 	},
@@ -91,7 +91,7 @@
 		"code":"500242110",
 		"fullCode":"500242110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泔溪镇",
 		"parentCode":"500242"
 	},
@@ -99,7 +99,7 @@
 		"code":"500242111",
 		"fullCode":"500242111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"酉水河镇",
 		"parentCode":"500242"
 	},
@@ -107,7 +107,7 @@
 		"code":"500242112",
 		"fullCode":"500242112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苍岭镇",
 		"parentCode":"500242"
 	},
@@ -115,7 +115,7 @@
 		"code":"500242113",
 		"fullCode":"500242113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小河镇",
 		"parentCode":"500242"
 	},
@@ -123,7 +123,7 @@
 		"code":"500242114",
 		"fullCode":"500242114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板溪镇",
 		"parentCode":"500242"
 	},
@@ -131,7 +131,7 @@
 		"code":"500242115",
 		"fullCode":"500242115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涂市镇",
 		"parentCode":"500242"
 	},
@@ -139,7 +139,7 @@
 		"code":"500242116",
 		"fullCode":"500242116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜鼓镇",
 		"parentCode":"500242"
 	},
@@ -147,7 +147,7 @@
 		"code":"500242117",
 		"fullCode":"500242117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五福镇",
 		"parentCode":"500242"
 	},
@@ -155,7 +155,7 @@
 		"code":"500242118",
 		"fullCode":"500242118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万木镇",
 		"parentCode":"500242"
 	},
@@ -163,7 +163,7 @@
 		"code":"500242119",
 		"fullCode":"500242119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南腰界镇",
 		"parentCode":"500242"
 	},
@@ -171,7 +171,7 @@
 		"code":"500242204",
 		"fullCode":"500242204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"可大乡",
 		"parentCode":"500242"
 	},
@@ -179,7 +179,7 @@
 		"code":"500242205",
 		"fullCode":"500242205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"偏柏乡",
 		"parentCode":"500242"
 	},
@@ -187,7 +187,7 @@
 		"code":"500242207",
 		"fullCode":"500242207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木叶乡",
 		"parentCode":"500242"
 	},
@@ -195,7 +195,7 @@
 		"code":"500242208",
 		"fullCode":"500242208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛坝乡",
 		"parentCode":"500242"
 	},
@@ -203,7 +203,7 @@
 		"code":"500242209",
 		"fullCode":"500242209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花田乡",
 		"parentCode":"500242"
 	},
@@ -211,7 +211,7 @@
 		"code":"500242210",
 		"fullCode":"500242210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后坪乡",
 		"parentCode":"500242"
 	},
@@ -219,7 +219,7 @@
 		"code":"500242211",
 		"fullCode":"500242211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天馆乡",
 		"parentCode":"500242"
 	},
@@ -227,7 +227,7 @@
 		"code":"500242212",
 		"fullCode":"500242212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜居乡",
 		"parentCode":"500242"
 	},
@@ -235,7 +235,7 @@
 		"code":"500242214",
 		"fullCode":"500242214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两罾乡",
 		"parentCode":"500242"
 	},
@@ -243,7 +243,7 @@
 		"code":"500242215",
 		"fullCode":"500242215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥乡",
 		"parentCode":"500242"
 	},
@@ -251,7 +251,7 @@
 		"code":"500242216",
 		"fullCode":"500242216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官清乡",
 		"parentCode":"500242"
 	},
@@ -259,7 +259,7 @@
 		"code":"500242218",
 		"fullCode":"500242218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车田乡",
 		"parentCode":"500242"
 	},
@@ -267,7 +267,7 @@
 		"code":"500242219",
 		"fullCode":"500242219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腴地乡",
 		"parentCode":"500242"
 	},
@@ -275,7 +275,7 @@
 		"code":"500242220",
 		"fullCode":"500242220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清泉乡",
 		"parentCode":"500242"
 	},
@@ -283,7 +283,7 @@
 		"code":"500242221",
 		"fullCode":"500242221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙溪乡",
 		"parentCode":"500242"
 	},
@@ -291,7 +291,7 @@
 		"code":"500242222",
 		"fullCode":"500242222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浪坪乡",
 		"parentCode":"500242"
 	},
@@ -299,7 +299,7 @@
 		"code":"500242223",
 		"fullCode":"500242223000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双泉乡",
 		"parentCode":"500242"
 	},
@@ -307,7 +307,7 @@
 		"code":"500242224",
 		"fullCode":"500242224000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楠木乡",
 		"parentCode":"500242"
 	}

@@ -3,7 +3,7 @@
 		"code":"150403001",
 		"fullCode":"150403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西露天街道",
 		"parentCode":"150403"
 	},
@@ -11,7 +11,7 @@
 		"code":"150403002",
 		"fullCode":"150403002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平庄城区街道",
 		"parentCode":"150403"
 	},
@@ -19,7 +19,7 @@
 		"code":"150403003",
 		"fullCode":"150403003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平庄东城街道",
 		"parentCode":"150403"
 	},
@@ -27,7 +27,7 @@
 		"code":"150403004",
 		"fullCode":"150403004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平庄西城街道",
 		"parentCode":"150403"
 	},
@@ -35,7 +35,7 @@
 		"code":"150403005",
 		"fullCode":"150403005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马林街道",
 		"parentCode":"150403"
 	},
@@ -43,7 +43,7 @@
 		"code":"150403006",
 		"fullCode":"150403006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云杉路街道",
 		"parentCode":"150403"
 	},
@@ -51,7 +51,7 @@
 		"code":"150403100",
 		"fullCode":"150403100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"风水沟镇",
 		"parentCode":"150403"
 	},
@@ -59,7 +59,7 @@
 		"code":"150403101",
 		"fullCode":"150403101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元宝山镇",
 		"parentCode":"150403"
 	},
@@ -67,7 +67,7 @@
 		"code":"150403102",
 		"fullCode":"150403102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美丽河镇",
 		"parentCode":"150403"
 	},
@@ -75,7 +75,7 @@
 		"code":"150403103",
 		"fullCode":"150403103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平庄镇",
 		"parentCode":"150403"
 	},
@@ -83,7 +83,7 @@
 		"code":"150403104",
 		"fullCode":"150403104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五家镇",
 		"parentCode":"150403"
 	},
@@ -91,7 +91,7 @@
 		"code":"150403200",
 		"fullCode":"150403200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小五家乡",
 		"parentCode":"150403"
 	}

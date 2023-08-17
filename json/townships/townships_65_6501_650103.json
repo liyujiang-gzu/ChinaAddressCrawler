@@ -3,7 +3,7 @@
 		"code":"650103001",
 		"fullCode":"650103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长江路街道",
 		"parentCode":"650103"
 	},
@@ -11,7 +11,7 @@
 		"code":"650103002",
 		"fullCode":"650103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和田街街道",
 		"parentCode":"650103"
 	},
@@ -19,7 +19,7 @@
 		"code":"650103003",
 		"fullCode":"650103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扬子江路街道",
 		"parentCode":"650103"
 	},
@@ -27,7 +27,7 @@
 		"code":"650103004",
 		"fullCode":"650103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友好南路街道",
 		"parentCode":"650103"
 	},
@@ -35,7 +35,7 @@
 		"code":"650103005",
 		"fullCode":"650103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友好北路街道",
 		"parentCode":"650103"
 	},
@@ -43,7 +43,7 @@
 		"code":"650103006",
 		"fullCode":"650103006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八一街道",
 		"parentCode":"650103"
 	},
@@ -51,7 +51,7 @@
 		"code":"650103007",
 		"fullCode":"650103007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炉院街街道",
 		"parentCode":"650103"
 	},
@@ -59,7 +59,7 @@
 		"code":"650103008",
 		"fullCode":"650103008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西山街道",
 		"parentCode":"650103"
 	},
@@ -67,7 +67,7 @@
 		"code":"650103009",
 		"fullCode":"650103009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅玛里克山街道",
 		"parentCode":"650103"
 	},
@@ -75,7 +75,7 @@
 		"code":"650103010",
 		"fullCode":"650103010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红庙子街道",
 		"parentCode":"650103"
 	},
@@ -83,7 +83,7 @@
 		"code":"650103011",
 		"fullCode":"650103011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长胜东街道",
 		"parentCode":"650103"
 	},
@@ -91,7 +91,7 @@
 		"code":"650103012",
 		"fullCode":"650103012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长胜西街道",
 		"parentCode":"650103"
 	},
@@ -99,7 +99,7 @@
 		"code":"650103013",
 		"fullCode":"650103013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长胜南街道",
 		"parentCode":"650103"
 	},
@@ -107,7 +107,7 @@
 		"code":"650103014",
 		"fullCode":"650103014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火车南站街道",
 		"parentCode":"650103"
 	},
@@ -115,7 +115,7 @@
 		"code":"650103015",
 		"fullCode":"650103015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仓房沟片区街道",
 		"parentCode":"650103"
 	},
@@ -123,7 +123,7 @@
 		"code":"650103016",
 		"fullCode":"650103016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"环卫路街道",
 		"parentCode":"650103"
 	},
@@ -131,7 +131,7 @@
 		"code":"650103017",
 		"fullCode":"650103017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骑马山街道",
 		"parentCode":"650103"
 	},
@@ -139,7 +139,7 @@
 		"code":"650103018",
 		"fullCode":"650103018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平顶山街道",
 		"parentCode":"650103"
 	},
@@ -147,7 +147,7 @@
 		"code":"650103501",
 		"fullCode":"650103501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团农十二师一零四团",
 		"parentCode":"650103"
 	},
@@ -155,7 +155,7 @@
 		"code":"650103502",
 		"fullCode":"650103502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团十二师西山农场",
 		"parentCode":"650103"
 	}

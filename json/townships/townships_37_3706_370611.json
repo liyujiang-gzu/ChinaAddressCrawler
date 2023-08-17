@@ -3,7 +3,7 @@
 		"code":"370611001",
 		"fullCode":"370611001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清洋街道",
 		"parentCode":"370611"
 	},
@@ -11,7 +11,7 @@
 		"code":"370611002",
 		"fullCode":"370611002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福新街道",
 		"parentCode":"370611"
 	},
@@ -19,7 +19,7 @@
 		"code":"370611006",
 		"fullCode":"370611006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东厅街道",
 		"parentCode":"370611"
 	},
@@ -27,7 +27,7 @@
 		"code":"370611007",
 		"fullCode":"370611007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门楼街道",
 		"parentCode":"370611"
 	},
@@ -35,7 +35,7 @@
 		"code":"370611102",
 		"fullCode":"370611102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高疃镇",
 		"parentCode":"370611"
 	},
@@ -43,7 +43,7 @@
 		"code":"370611103",
 		"fullCode":"370611103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张格庄镇",
 		"parentCode":"370611"
 	},
@@ -51,7 +51,7 @@
 		"code":"370611104",
 		"fullCode":"370611104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回里镇",
 		"parentCode":"370611"
 	},
@@ -59,7 +59,7 @@
 		"code":"370611105",
 		"fullCode":"370611105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"臧家庄镇",
 		"parentCode":"370611"
 	},
@@ -67,7 +67,7 @@
 		"code":"370611401",
 		"fullCode":"370611401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山东烟台福山经济开发区",
 		"parentCode":"370611"
 	}

@@ -3,7 +3,7 @@
 		"code":"150103001",
 		"fullCode":"150103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华西路街道",
 		"parentCode":"150103"
 	},
@@ -11,7 +11,7 @@
 		"code":"150103002",
 		"fullCode":"150103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山西路街道",
 		"parentCode":"150103"
 	},
@@ -19,7 +19,7 @@
 		"code":"150103003",
 		"fullCode":"150103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明路街道",
 		"parentCode":"150103"
 	},
@@ -27,7 +27,7 @@
 		"code":"150103004",
 		"fullCode":"150103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海拉尔西路街道",
 		"parentCode":"150103"
 	},
@@ -35,7 +35,7 @@
 		"code":"150103005",
 		"fullCode":"150103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"环河街街道",
 		"parentCode":"150103"
 	},
@@ -43,7 +43,7 @@
 		"code":"150103006",
 		"fullCode":"150103006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通道街街道",
 		"parentCode":"150103"
 	},
@@ -51,7 +51,7 @@
 		"code":"150103007",
 		"fullCode":"150103007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钢铁路街道",
 		"parentCode":"150103"
 	},
@@ -59,7 +59,7 @@
 		"code":"150103100",
 		"fullCode":"150103100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"攸攸板镇",
 		"parentCode":"150103"
 	}

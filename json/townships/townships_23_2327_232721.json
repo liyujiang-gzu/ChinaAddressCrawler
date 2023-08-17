@@ -3,7 +3,7 @@
 		"code":"232721100",
 		"fullCode":"232721100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼玛镇",
 		"parentCode":"232721"
 	},
@@ -11,7 +11,7 @@
 		"code":"232721101",
 		"fullCode":"232721101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩家园镇",
 		"parentCode":"232721"
 	},
@@ -19,7 +19,7 @@
 		"code":"232721200",
 		"fullCode":"232721200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三卡乡",
 		"parentCode":"232721"
 	},
@@ -27,7 +27,7 @@
 		"code":"232721201",
 		"fullCode":"232721201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山乡",
 		"parentCode":"232721"
 	},
@@ -35,7 +35,7 @@
 		"code":"232721202",
 		"fullCode":"232721202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华乡",
 		"parentCode":"232721"
 	},
@@ -43,7 +43,7 @@
 		"code":"232721203",
 		"fullCode":"232721203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸥浦乡",
 		"parentCode":"232721"
 	},
@@ -51,7 +51,7 @@
 		"code":"232721204",
 		"fullCode":"232721204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白银纳鄂伦春族民族乡",
 		"parentCode":"232721"
 	},
@@ -59,7 +59,7 @@
 		"code":"232721205",
 		"fullCode":"232721205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北疆乡",
 		"parentCode":"232721"
 	}

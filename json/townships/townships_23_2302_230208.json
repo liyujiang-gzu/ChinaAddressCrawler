@@ -3,7 +3,7 @@
 		"code":"230208001",
 		"fullCode":"230208001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅里斯街道",
 		"parentCode":"230208"
 	},
@@ -11,7 +11,7 @@
 		"code":"230208101",
 		"fullCode":"230208101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅尔塞镇",
 		"parentCode":"230208"
 	},
@@ -19,7 +19,7 @@
 		"code":"230208102",
 		"fullCode":"230208102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧牛吐达斡尔族镇",
 		"parentCode":"230208"
 	},
@@ -27,7 +27,7 @@
 		"code":"230208103",
 		"fullCode":"230208103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达呼店镇",
 		"parentCode":"230208"
 	},
@@ -35,7 +35,7 @@
 		"code":"230208104",
 		"fullCode":"230208104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共和镇",
 		"parentCode":"230208"
 	},
@@ -43,7 +43,7 @@
 		"code":"230208105",
 		"fullCode":"230208105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅里斯镇",
 		"parentCode":"230208"
 	},
@@ -51,7 +51,7 @@
 		"code":"230208200",
 		"fullCode":"230208200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莽格吐达斡尔族乡",
 		"parentCode":"230208"
 	}

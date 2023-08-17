@@ -3,7 +3,7 @@
 		"code":"621228100",
 		"fullCode":"621228100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"621228"
 	},
@@ -11,7 +11,7 @@
 		"code":"621228101",
 		"fullCode":"621228101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站儿巷镇",
 		"parentCode":"621228"
 	},
@@ -19,7 +19,7 @@
 		"code":"621228102",
 		"fullCode":"621228102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西坡镇",
 		"parentCode":"621228"
 	},
@@ -27,7 +27,7 @@
 		"code":"621228103",
 		"fullCode":"621228103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨店镇",
 		"parentCode":"621228"
 	},
@@ -35,7 +35,7 @@
 		"code":"621228104",
 		"fullCode":"621228104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"显龙镇",
 		"parentCode":"621228"
 	},
@@ -43,7 +43,7 @@
 		"code":"621228105",
 		"fullCode":"621228105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云屏镇",
 		"parentCode":"621228"
 	},
@@ -51,7 +51,7 @@
 		"code":"621228201",
 		"fullCode":"621228201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"左家乡",
 		"parentCode":"621228"
 	},
@@ -59,7 +59,7 @@
 		"code":"621228203",
 		"fullCode":"621228203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼池乡",
 		"parentCode":"621228"
 	},
@@ -67,7 +67,7 @@
 		"code":"621228204",
 		"fullCode":"621228204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴化乡",
 		"parentCode":"621228"
 	},
@@ -75,7 +75,7 @@
 		"code":"621228207",
 		"fullCode":"621228207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家乡",
 		"parentCode":"621228"
 	},
@@ -83,7 +83,7 @@
 		"code":"621228210",
 		"fullCode":"621228210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰山乡",
 		"parentCode":"621228"
 	},
@@ -91,7 +91,7 @@
 		"code":"621228212",
 		"fullCode":"621228212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金洞乡",
 		"parentCode":"621228"
 	}

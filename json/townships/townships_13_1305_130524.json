@@ -3,7 +3,7 @@
 		"code":"130524100",
 		"fullCode":"130524100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏乡镇",
 		"parentCode":"130524"
 	},
@@ -11,7 +11,7 @@
 		"code":"130524101",
 		"fullCode":"130524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固城店镇",
 		"parentCode":"130524"
 	},
@@ -19,7 +19,7 @@
 		"code":"130524102",
 		"fullCode":"130524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西汪镇",
 		"parentCode":"130524"
 	},
@@ -27,7 +27,7 @@
 		"code":"130524103",
 		"fullCode":"130524103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙华镇",
 		"parentCode":"130524"
 	},
@@ -35,7 +35,7 @@
 		"code":"130524200",
 		"fullCode":"130524200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家庄乡",
 		"parentCode":"130524"
 	},
@@ -43,7 +43,7 @@
 		"code":"130524203",
 		"fullCode":"130524203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内步乡",
 		"parentCode":"130524"
 	}

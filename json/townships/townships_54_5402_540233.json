@@ -3,7 +3,7 @@
 		"code":"540233100",
 		"fullCode":"540233100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下司马镇",
 		"parentCode":"540233"
 	},
@@ -11,7 +11,7 @@
 		"code":"540233101",
 		"fullCode":"540233101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"帕里镇",
 		"parentCode":"540233"
 	},
@@ -19,7 +19,7 @@
 		"code":"540233200",
 		"fullCode":"540233200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下亚东乡",
 		"parentCode":"540233"
 	},
@@ -27,7 +27,7 @@
 		"code":"540233201",
 		"fullCode":"540233201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上亚东乡",
 		"parentCode":"540233"
 	},
@@ -35,7 +35,7 @@
 		"code":"540233202",
 		"fullCode":"540233202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康布乡",
 		"parentCode":"540233"
 	},
@@ -43,7 +43,7 @@
 		"code":"540233203",
 		"fullCode":"540233203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堆纳乡",
 		"parentCode":"540233"
 	},
@@ -51,7 +51,7 @@
 		"code":"540233204",
 		"fullCode":"540233204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉汝乡",
 		"parentCode":"540233"
 	}

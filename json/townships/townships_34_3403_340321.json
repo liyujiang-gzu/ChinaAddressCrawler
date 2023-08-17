@@ -3,7 +3,7 @@
 		"code":"340321001",
 		"fullCode":"340321001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"引凤街道",
 		"parentCode":"340321"
 	},
@@ -11,7 +11,7 @@
 		"code":"340321002",
 		"fullCode":"340321002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望淮街道",
 		"parentCode":"340321"
 	},
@@ -19,7 +19,7 @@
 		"code":"340321003",
 		"fullCode":"340321003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白乳泉街道",
 		"parentCode":"340321"
 	},
@@ -27,7 +27,7 @@
 		"code":"340321100",
 		"fullCode":"340321100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榴城镇",
 		"parentCode":"340321"
 	},
@@ -35,7 +35,7 @@
 		"code":"340321101",
 		"fullCode":"340321101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"包集镇",
 		"parentCode":"340321"
 	},
@@ -43,7 +43,7 @@
 		"code":"340321102",
 		"fullCode":"340321102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙亢镇",
 		"parentCode":"340321"
 	},
@@ -51,7 +51,7 @@
 		"code":"340321103",
 		"fullCode":"340321103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河溜镇",
 		"parentCode":"340321"
 	},
@@ -59,7 +59,7 @@
 		"code":"340321104",
 		"fullCode":"340321104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常坟镇",
 		"parentCode":"340321"
 	},
@@ -67,7 +67,7 @@
 		"code":"340321106",
 		"fullCode":"340321106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桥集镇",
 		"parentCode":"340321"
 	},
@@ -75,7 +75,7 @@
 		"code":"340321107",
 		"fullCode":"340321107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魏庄镇",
 		"parentCode":"340321"
 	},
@@ -83,7 +83,7 @@
 		"code":"340321108",
 		"fullCode":"340321108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万福镇",
 		"parentCode":"340321"
 	},
@@ -91,7 +91,7 @@
 		"code":"340321109",
 		"fullCode":"340321109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐集镇",
 		"parentCode":"340321"
 	},
@@ -99,7 +99,7 @@
 		"code":"340321110",
 		"fullCode":"340321110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白莲坡镇",
 		"parentCode":"340321"
 	},
@@ -107,7 +107,7 @@
 		"code":"340321111",
 		"fullCode":"340321111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"褚集镇",
 		"parentCode":"340321"
 	},
@@ -115,7 +115,7 @@
 		"code":"340321112",
 		"fullCode":"340321112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"340321"
 	},
@@ -123,7 +123,7 @@
 		"code":"340321113",
 		"fullCode":"340321113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荆山镇",
 		"parentCode":"340321"
 	},
@@ -131,7 +131,7 @@
 		"code":"340321114",
 		"fullCode":"340321114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淝南镇",
 		"parentCode":"340321"
 	},
@@ -139,7 +139,7 @@
 		"code":"340321115",
 		"fullCode":"340321115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈集镇",
 		"parentCode":"340321"
 	},
@@ -147,7 +147,7 @@
 		"code":"340321116",
 		"fullCode":"340321116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淝河镇",
 		"parentCode":"340321"
 	},
@@ -155,7 +155,7 @@
 		"code":"340321117",
 		"fullCode":"340321117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰桥镇",
 		"parentCode":"340321"
 	},
@@ -163,7 +163,7 @@
 		"code":"340321205",
 		"fullCode":"340321205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐圩乡",
 		"parentCode":"340321"
 	},
@@ -171,7 +171,7 @@
 		"code":"340321400",
 		"fullCode":"340321400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙亢农场",
 		"parentCode":"340321"
 	},
@@ -179,7 +179,7 @@
 		"code":"340321401",
 		"fullCode":"340321401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽怀远经济开发区",
 		"parentCode":"340321"
 	}

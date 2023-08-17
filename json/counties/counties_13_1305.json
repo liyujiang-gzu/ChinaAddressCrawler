@@ -3,7 +3,7 @@
 		"code":"130502",
 		"fullCode":"130502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"襄都区",
 		"parentCode":"1305"
 	},
@@ -11,7 +11,7 @@
 		"code":"130503",
 		"fullCode":"130503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"信都区",
 		"parentCode":"1305"
 	},
@@ -19,7 +19,7 @@
 		"code":"130505",
 		"fullCode":"130505000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"任泽区",
 		"parentCode":"1305"
 	},
@@ -27,7 +27,7 @@
 		"code":"130506",
 		"fullCode":"130506000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南和区",
 		"parentCode":"1305"
 	},
@@ -35,7 +35,7 @@
 		"code":"130522",
 		"fullCode":"130522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临城县",
 		"parentCode":"1305"
 	},
@@ -43,7 +43,7 @@
 		"code":"130523",
 		"fullCode":"130523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"内丘县",
 		"parentCode":"1305"
 	},
@@ -51,7 +51,7 @@
 		"code":"130524",
 		"fullCode":"130524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"柏乡县",
 		"parentCode":"1305"
 	},
@@ -59,7 +59,7 @@
 		"code":"130525",
 		"fullCode":"130525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"隆尧县",
 		"parentCode":"1305"
 	},
@@ -67,7 +67,7 @@
 		"code":"130528",
 		"fullCode":"130528000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁晋县",
 		"parentCode":"1305"
 	},
@@ -75,7 +75,7 @@
 		"code":"130529",
 		"fullCode":"130529000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巨鹿县",
 		"parentCode":"1305"
 	},
@@ -83,7 +83,7 @@
 		"code":"130530",
 		"fullCode":"130530000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新河县",
 		"parentCode":"1305"
 	},
@@ -91,7 +91,7 @@
 		"code":"130531",
 		"fullCode":"130531000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"广宗县",
 		"parentCode":"1305"
 	},
@@ -99,7 +99,7 @@
 		"code":"130532",
 		"fullCode":"130532000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平乡县",
 		"parentCode":"1305"
 	},
@@ -107,7 +107,7 @@
 		"code":"130533",
 		"fullCode":"130533000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"威县",
 		"parentCode":"1305"
 	},
@@ -115,7 +115,7 @@
 		"code":"130534",
 		"fullCode":"130534000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"清河县",
 		"parentCode":"1305"
 	},
@@ -123,7 +123,7 @@
 		"code":"130535",
 		"fullCode":"130535000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临西县",
 		"parentCode":"1305"
 	},
@@ -131,7 +131,7 @@
 		"code":"130571",
 		"fullCode":"130571000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"河北邢台经济开发区",
 		"parentCode":"1305"
 	},
@@ -139,7 +139,7 @@
 		"code":"130581",
 		"fullCode":"130581000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南宫市",
 		"parentCode":"1305"
 	},
@@ -147,7 +147,7 @@
 		"code":"130582",
 		"fullCode":"130582000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沙河市",
 		"parentCode":"1305"
 	}

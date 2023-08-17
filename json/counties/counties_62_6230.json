@@ -3,7 +3,7 @@
 		"code":"623001",
 		"fullCode":"623001000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"合作市",
 		"parentCode":"6230"
 	},
@@ -11,7 +11,7 @@
 		"code":"623021",
 		"fullCode":"623021000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临潭县",
 		"parentCode":"6230"
 	},
@@ -19,7 +19,7 @@
 		"code":"623022",
 		"fullCode":"623022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"卓尼县",
 		"parentCode":"6230"
 	},
@@ -27,7 +27,7 @@
 		"code":"623023",
 		"fullCode":"623023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"舟曲县",
 		"parentCode":"6230"
 	},
@@ -35,7 +35,7 @@
 		"code":"623024",
 		"fullCode":"623024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"迭部县",
 		"parentCode":"6230"
 	},
@@ -43,7 +43,7 @@
 		"code":"623025",
 		"fullCode":"623025000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"玛曲县",
 		"parentCode":"6230"
 	},
@@ -51,7 +51,7 @@
 		"code":"623026",
 		"fullCode":"623026000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"碌曲县",
 		"parentCode":"6230"
 	},
@@ -59,7 +59,7 @@
 		"code":"623027",
 		"fullCode":"623027000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"夏河县",
 		"parentCode":"6230"
 	}

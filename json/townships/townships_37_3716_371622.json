@@ -3,7 +3,7 @@
 		"code":"371622001",
 		"fullCode":"371622001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"信城街道",
 		"parentCode":"371622"
 	},
@@ -11,7 +11,7 @@
 		"code":"371622002",
 		"fullCode":"371622002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金阳街道",
 		"parentCode":"371622"
 	},
@@ -19,7 +19,7 @@
 		"code":"371622101",
 		"fullCode":"371622101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商店镇",
 		"parentCode":"371622"
 	},
@@ -27,7 +27,7 @@
 		"code":"371622102",
 		"fullCode":"371622102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温店镇",
 		"parentCode":"371622"
 	},
@@ -35,7 +35,7 @@
 		"code":"371622103",
 		"fullCode":"371622103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河流镇",
 		"parentCode":"371622"
 	},
@@ -43,7 +43,7 @@
 		"code":"371622104",
 		"fullCode":"371622104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翟王镇",
 		"parentCode":"371622"
 	},
@@ -51,7 +51,7 @@
 		"code":"371622105",
 		"fullCode":"371622105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流坡坞镇",
 		"parentCode":"371622"
 	},
@@ -59,7 +59,7 @@
 		"code":"371622106",
 		"fullCode":"371622106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水落坡镇",
 		"parentCode":"371622"
 	},
@@ -67,7 +67,7 @@
 		"code":"371622107",
 		"fullCode":"371622107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"劳店镇",
 		"parentCode":"371622"
 	},
@@ -75,7 +75,7 @@
 		"code":"371622204",
 		"fullCode":"371622204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋湖乡",
 		"parentCode":"371622"
 	}

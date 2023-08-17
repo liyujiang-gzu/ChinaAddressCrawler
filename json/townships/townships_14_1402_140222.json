@@ -3,7 +3,7 @@
 		"code":"140222100",
 		"fullCode":"140222100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉泉镇",
 		"parentCode":"140222"
 	},
@@ -11,7 +11,7 @@
 		"code":"140222101",
 		"fullCode":"140222101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷前堡镇",
 		"parentCode":"140222"
 	},
@@ -19,7 +19,7 @@
 		"code":"140222102",
 		"fullCode":"140222102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米薪关镇",
 		"parentCode":"140222"
 	},
@@ -27,7 +27,7 @@
 		"code":"140222103",
 		"fullCode":"140222103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"逯家湾镇",
 		"parentCode":"140222"
 	},
@@ -35,7 +35,7 @@
 		"code":"140222104",
 		"fullCode":"140222104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新平堡镇",
 		"parentCode":"140222"
 	},
@@ -43,7 +43,7 @@
 		"code":"140222200",
 		"fullCode":"140222200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卅里铺乡",
 		"parentCode":"140222"
 	},
@@ -51,7 +51,7 @@
 		"code":"140222204",
 		"fullCode":"140222204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾家屯乡",
 		"parentCode":"140222"
 	},
@@ -59,7 +59,7 @@
 		"code":"140222206",
 		"fullCode":"140222206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵家沟乡",
 		"parentCode":"140222"
 	},
@@ -67,7 +67,7 @@
 		"code":"140222208",
 		"fullCode":"140222208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南高崖乡",
 		"parentCode":"140222"
 	},
@@ -75,7 +75,7 @@
 		"code":"140222209",
 		"fullCode":"140222209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张西河乡",
 		"parentCode":"140222"
 	},
@@ -83,7 +83,7 @@
 		"code":"140222210",
 		"fullCode":"140222210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马家皂乡",
 		"parentCode":"140222"
 	}

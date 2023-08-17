@@ -3,7 +3,7 @@
 		"code":"430225100",
 		"fullCode":"430225100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞阳镇",
 		"parentCode":"430225"
 	},
@@ -11,7 +11,7 @@
 		"code":"430225101",
 		"fullCode":"430225101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沔渡镇",
 		"parentCode":"430225"
 	},
@@ -19,7 +19,7 @@
 		"code":"430225102",
 		"fullCode":"430225102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十都镇",
 		"parentCode":"430225"
 	},
@@ -27,7 +27,7 @@
 		"code":"430225103",
 		"fullCode":"430225103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口镇",
 		"parentCode":"430225"
 	},
@@ -35,7 +35,7 @@
 		"code":"430225105",
 		"fullCode":"430225105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿原镇",
 		"parentCode":"430225"
 	},
@@ -43,7 +43,7 @@
 		"code":"430225200",
 		"fullCode":"430225200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垄溪乡",
 		"parentCode":"430225"
 	},
@@ -51,7 +51,7 @@
 		"code":"430225202",
 		"fullCode":"430225202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"策源乡",
 		"parentCode":"430225"
 	},
@@ -59,7 +59,7 @@
 		"code":"430225203",
 		"fullCode":"430225203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下村乡",
 		"parentCode":"430225"
 	},
@@ -67,7 +67,7 @@
 		"code":"430225207",
 		"fullCode":"430225207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"船形乡",
 		"parentCode":"430225"
 	},
@@ -75,7 +75,7 @@
 		"code":"430225209",
 		"fullCode":"430225209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中村瑶族乡",
 		"parentCode":"430225"
 	},
@@ -83,7 +83,7 @@
 		"code":"430225400",
 		"fullCode":"430225400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炎陵县大院农场",
 		"parentCode":"430225"
 	},
@@ -91,7 +91,7 @@
 		"code":"430225401",
 		"fullCode":"430225401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炎陵县桃源洞管理局",
 		"parentCode":"430225"
 	}

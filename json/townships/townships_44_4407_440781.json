@@ -3,7 +3,7 @@
 		"code":"440781001",
 		"fullCode":"440781001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台城街道",
 		"parentCode":"440781"
 	},
@@ -11,7 +11,7 @@
 		"code":"440781100",
 		"fullCode":"440781100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大江镇",
 		"parentCode":"440781"
 	},
@@ -19,7 +19,7 @@
 		"code":"440781101",
 		"fullCode":"440781101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水步镇",
 		"parentCode":"440781"
 	},
@@ -27,7 +27,7 @@
 		"code":"440781102",
 		"fullCode":"440781102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四九镇",
 		"parentCode":"440781"
 	},
@@ -35,7 +35,7 @@
 		"code":"440781103",
 		"fullCode":"440781103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"440781"
 	},
@@ -43,7 +43,7 @@
 		"code":"440781104",
 		"fullCode":"440781104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三合镇",
 		"parentCode":"440781"
 	},
@@ -51,7 +51,7 @@
 		"code":"440781105",
 		"fullCode":"440781105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冲蒌镇",
 		"parentCode":"440781"
 	},
@@ -59,7 +59,7 @@
 		"code":"440781106",
 		"fullCode":"440781106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斗山镇",
 		"parentCode":"440781"
 	},
@@ -67,7 +67,7 @@
 		"code":"440781107",
 		"fullCode":"440781107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都斛镇",
 		"parentCode":"440781"
 	},
@@ -75,7 +75,7 @@
 		"code":"440781108",
 		"fullCode":"440781108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤溪镇",
 		"parentCode":"440781"
 	},
@@ -83,7 +83,7 @@
 		"code":"440781109",
 		"fullCode":"440781109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"端芬镇",
 		"parentCode":"440781"
 	},
@@ -91,7 +91,7 @@
 		"code":"440781110",
 		"fullCode":"440781110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广海镇",
 		"parentCode":"440781"
 	},
@@ -99,7 +99,7 @@
 		"code":"440781111",
 		"fullCode":"440781111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海宴镇",
 		"parentCode":"440781"
 	},
@@ -107,7 +107,7 @@
 		"code":"440781112",
 		"fullCode":"440781112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汶村镇",
 		"parentCode":"440781"
 	},
@@ -115,7 +115,7 @@
 		"code":"440781113",
 		"fullCode":"440781113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"深井镇",
 		"parentCode":"440781"
 	},
@@ -123,7 +123,7 @@
 		"code":"440781114",
 		"fullCode":"440781114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北陡镇",
 		"parentCode":"440781"
 	},
@@ -131,7 +131,7 @@
 		"code":"440781115",
 		"fullCode":"440781115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川岛镇",
 		"parentCode":"440781"
 	}

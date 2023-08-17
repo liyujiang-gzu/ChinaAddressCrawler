@@ -3,7 +3,7 @@
 		"code":"370830001",
 		"fullCode":"370830001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中都街道",
 		"parentCode":"370830"
 	},
@@ -11,7 +11,7 @@
 		"code":"370830002",
 		"fullCode":"370830002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汶上街道",
 		"parentCode":"370830"
 	},
@@ -19,7 +19,7 @@
 		"code":"370830003",
 		"fullCode":"370830003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南站街道",
 		"parentCode":"370830"
 	},
@@ -27,7 +27,7 @@
 		"code":"370830102",
 		"fullCode":"370830102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南旺镇",
 		"parentCode":"370830"
 	},
@@ -35,7 +35,7 @@
 		"code":"370830103",
 		"fullCode":"370830103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"次邱镇",
 		"parentCode":"370830"
 	},
@@ -43,7 +43,7 @@
 		"code":"370830104",
 		"fullCode":"370830104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寅寺镇",
 		"parentCode":"370830"
 	},
@@ -51,7 +51,7 @@
 		"code":"370830105",
 		"fullCode":"370830105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭楼镇",
 		"parentCode":"370830"
 	},
@@ -59,7 +59,7 @@
 		"code":"370830106",
 		"fullCode":"370830106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康驿镇",
 		"parentCode":"370830"
 	},
@@ -67,7 +67,7 @@
 		"code":"370830107",
 		"fullCode":"370830107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苑庄镇",
 		"parentCode":"370830"
 	},
@@ -75,7 +75,7 @@
 		"code":"370830108",
 		"fullCode":"370830108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义桥镇",
 		"parentCode":"370830"
 	},
@@ -83,7 +83,7 @@
 		"code":"370830109",
 		"fullCode":"370830109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭仓镇",
 		"parentCode":"370830"
 	},
@@ -91,7 +91,7 @@
 		"code":"370830110",
 		"fullCode":"370830110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石镇",
 		"parentCode":"370830"
 	},
@@ -99,7 +99,7 @@
 		"code":"370830111",
 		"fullCode":"370830111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨店镇",
 		"parentCode":"370830"
 	},
@@ -107,7 +107,7 @@
 		"code":"370830112",
 		"fullCode":"370830112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘楼镇",
 		"parentCode":"370830"
 	},
@@ -115,7 +115,7 @@
 		"code":"370830205",
 		"fullCode":"370830205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"军屯乡",
 		"parentCode":"370830"
 	}

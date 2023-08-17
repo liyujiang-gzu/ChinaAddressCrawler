@@ -3,7 +3,7 @@
 		"code":"350821100",
 		"fullCode":"350821100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汀州镇",
 		"parentCode":"350821"
 	},
@@ -11,7 +11,7 @@
 		"code":"350821101",
 		"fullCode":"350821101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大同镇",
 		"parentCode":"350821"
 	},
@@ -19,7 +19,7 @@
 		"code":"350821102",
 		"fullCode":"350821102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"350821"
 	},
@@ -27,7 +27,7 @@
 		"code":"350821103",
 		"fullCode":"350821103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥镇",
 		"parentCode":"350821"
 	},
@@ -35,7 +35,7 @@
 		"code":"350821104",
 		"fullCode":"350821104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"馆前镇",
 		"parentCode":"350821"
 	},
@@ -43,7 +43,7 @@
 		"code":"350821105",
 		"fullCode":"350821105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"童坊镇",
 		"parentCode":"350821"
 	},
@@ -51,7 +51,7 @@
 		"code":"350821106",
 		"fullCode":"350821106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河田镇",
 		"parentCode":"350821"
 	},
@@ -59,7 +59,7 @@
 		"code":"350821107",
 		"fullCode":"350821107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山镇",
 		"parentCode":"350821"
 	},
@@ -67,7 +67,7 @@
 		"code":"350821108",
 		"fullCode":"350821108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濯田镇",
 		"parentCode":"350821"
 	},
@@ -75,7 +75,7 @@
 		"code":"350821109",
 		"fullCode":"350821109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四都镇",
 		"parentCode":"350821"
 	},
@@ -83,7 +83,7 @@
 		"code":"350821110",
 		"fullCode":"350821110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涂坊镇",
 		"parentCode":"350821"
 	},
@@ -91,7 +91,7 @@
 		"code":"350821111",
 		"fullCode":"350821111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"策武镇",
 		"parentCode":"350821"
 	},
@@ -99,7 +99,7 @@
 		"code":"350821112",
 		"fullCode":"350821112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三洲镇",
 		"parentCode":"350821"
 	},
@@ -107,7 +107,7 @@
 		"code":"350821201",
 		"fullCode":"350821201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁长乡",
 		"parentCode":"350821"
 	},
@@ -115,7 +115,7 @@
 		"code":"350821202",
 		"fullCode":"350821202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庵杰乡",
 		"parentCode":"350821"
 	},
@@ -123,7 +123,7 @@
 		"code":"350821204",
 		"fullCode":"350821204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宣成乡",
 		"parentCode":"350821"
 	},
@@ -131,7 +131,7 @@
 		"code":"350821205",
 		"fullCode":"350821205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红山乡",
 		"parentCode":"350821"
 	},
@@ -139,7 +139,7 @@
 		"code":"350821206",
 		"fullCode":"350821206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊牯乡",
 		"parentCode":"350821"
 	}

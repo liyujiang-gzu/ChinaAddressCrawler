@@ -3,7 +3,7 @@
 		"code":"513335100",
 		"fullCode":"513335100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏邛镇",
 		"parentCode":"513335"
 	},
@@ -11,7 +11,7 @@
 		"code":"513335101",
 		"fullCode":"513335101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中咱镇",
 		"parentCode":"513335"
 	},
@@ -19,7 +19,7 @@
 		"code":"513335102",
 		"fullCode":"513335102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"措拉镇",
 		"parentCode":"513335"
 	},
@@ -27,7 +27,7 @@
 		"code":"513335103",
 		"fullCode":"513335103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲英镇",
 		"parentCode":"513335"
 	},
@@ -35,7 +35,7 @@
 		"code":"513335104",
 		"fullCode":"513335104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地巫镇",
 		"parentCode":"513335"
 	},
@@ -43,7 +43,7 @@
 		"code":"513335200",
 		"fullCode":"513335200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉哇乡",
 		"parentCode":"513335"
 	},
@@ -51,7 +51,7 @@
 		"code":"513335202",
 		"fullCode":"513335202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹巴龙乡",
 		"parentCode":"513335"
 	},
@@ -59,7 +59,7 @@
 		"code":"513335204",
 		"fullCode":"513335204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏哇龙乡",
 		"parentCode":"513335"
 	},
@@ -67,7 +67,7 @@
 		"code":"513335205",
 		"fullCode":"513335205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌波乡",
 		"parentCode":"513335"
 	},
@@ -75,7 +75,7 @@
 		"code":"513335208",
 		"fullCode":"513335208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚日贡乡",
 		"parentCode":"513335"
 	},
@@ -83,7 +83,7 @@
 		"code":"513335209",
 		"fullCode":"513335209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波密乡",
 		"parentCode":"513335"
 	},
@@ -91,7 +91,7 @@
 		"code":"513335210",
 		"fullCode":"513335210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫多乡",
 		"parentCode":"513335"
 	},
@@ -99,7 +99,7 @@
 		"code":"513335211",
 		"fullCode":"513335211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松多乡",
 		"parentCode":"513335"
 	},
@@ -107,7 +107,7 @@
 		"code":"513335212",
 		"fullCode":"513335212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波戈溪乡",
 		"parentCode":"513335"
 	},
@@ -115,7 +115,7 @@
 		"code":"513335215",
 		"fullCode":"513335215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶洛乡",
 		"parentCode":"513335"
 	},
@@ -123,7 +123,7 @@
 		"code":"513335216",
 		"fullCode":"513335216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"列衣乡",
 		"parentCode":"513335"
 	},
@@ -131,7 +131,7 @@
 		"code":"513335217",
 		"fullCode":"513335217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德达乡",
 		"parentCode":"513335"
 	}

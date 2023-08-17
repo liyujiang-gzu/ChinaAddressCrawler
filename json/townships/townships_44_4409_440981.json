@@ -3,7 +3,7 @@
 		"code":"440981002",
 		"fullCode":"440981002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石仔岭街道",
 		"parentCode":"440981"
 	},
@@ -11,7 +11,7 @@
 		"code":"440981003",
 		"fullCode":"440981003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山美街道",
 		"parentCode":"440981"
 	},
@@ -19,7 +19,7 @@
 		"code":"440981006",
 		"fullCode":"440981006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山街道",
 		"parentCode":"440981"
 	},
@@ -27,7 +27,7 @@
 		"code":"440981007",
 		"fullCode":"440981007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘州街道",
 		"parentCode":"440981"
 	},
@@ -35,7 +35,7 @@
 		"code":"440981008",
 		"fullCode":"440981008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝光街道",
 		"parentCode":"440981"
 	},
@@ -43,7 +43,7 @@
 		"code":"440981100",
 		"fullCode":"440981100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢鸡镇",
 		"parentCode":"440981"
 	},
@@ -51,7 +51,7 @@
 		"code":"440981101",
 		"fullCode":"440981101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新垌镇",
 		"parentCode":"440981"
 	},
@@ -59,7 +59,7 @@
 		"code":"440981102",
 		"fullCode":"440981102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云潭镇",
 		"parentCode":"440981"
 	},
@@ -67,7 +67,7 @@
 		"code":"440981103",
 		"fullCode":"440981103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"分界镇",
 		"parentCode":"440981"
 	},
@@ -75,7 +75,7 @@
 		"code":"440981104",
 		"fullCode":"440981104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"根子镇",
 		"parentCode":"440981"
 	},
@@ -83,7 +83,7 @@
 		"code":"440981105",
 		"fullCode":"440981105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗水镇",
 		"parentCode":"440981"
 	},
@@ -91,7 +91,7 @@
 		"code":"440981107",
 		"fullCode":"440981107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇江镇",
 		"parentCode":"440981"
 	},
@@ -99,7 +99,7 @@
 		"code":"440981109",
 		"fullCode":"440981109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙田镇",
 		"parentCode":"440981"
 	},
@@ -107,7 +107,7 @@
 		"code":"440981110",
 		"fullCode":"440981110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南塘镇",
 		"parentCode":"440981"
 	},
@@ -115,7 +115,7 @@
 		"code":"440981111",
 		"fullCode":"440981111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷花镇",
 		"parentCode":"440981"
 	},
@@ -123,7 +123,7 @@
 		"code":"440981112",
 		"fullCode":"440981112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石板镇",
 		"parentCode":"440981"
 	},
@@ -131,7 +131,7 @@
 		"code":"440981115",
 		"fullCode":"440981115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大井镇",
 		"parentCode":"440981"
 	},
@@ -139,7 +139,7 @@
 		"code":"440981116",
 		"fullCode":"440981116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭头镇",
 		"parentCode":"440981"
 	},
@@ -147,7 +147,7 @@
 		"code":"440981119",
 		"fullCode":"440981119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坡镇",
 		"parentCode":"440981"
 	},
@@ -155,7 +155,7 @@
 		"code":"440981120",
 		"fullCode":"440981120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山镇",
 		"parentCode":"440981"
 	},
@@ -163,7 +163,7 @@
 		"code":"440981121",
 		"fullCode":"440981121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"深镇镇",
 		"parentCode":"440981"
 	},
@@ -171,7 +171,7 @@
 		"code":"440981122",
 		"fullCode":"440981122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马贵镇",
 		"parentCode":"440981"
 	},
@@ -179,7 +179,7 @@
 		"code":"440981123",
 		"fullCode":"440981123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古丁镇",
 		"parentCode":"440981"
 	},
@@ -187,7 +187,7 @@
 		"code":"440981124",
 		"fullCode":"440981124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹江镇",
 		"parentCode":"440981"
 	},
@@ -195,7 +195,7 @@
 		"code":"440981126",
 		"fullCode":"440981126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷塘镇",
 		"parentCode":"440981"
 	},
@@ -203,7 +203,7 @@
 		"code":"440981127",
 		"fullCode":"440981127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石鼓镇",
 		"parentCode":"440981"
 	},
@@ -211,7 +211,7 @@
 		"code":"440981128",
 		"fullCode":"440981128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东岸镇",
 		"parentCode":"440981"
 	},
@@ -219,7 +219,7 @@
 		"code":"440981129",
 		"fullCode":"440981129000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长坡镇",
 		"parentCode":"440981"
 	},
@@ -227,7 +227,7 @@
 		"code":"440981450",
 		"fullCode":"440981450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结农场",
 		"parentCode":"440981"
 	},
@@ -235,7 +235,7 @@
 		"code":"440981451",
 		"fullCode":"440981451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利农场",
 		"parentCode":"440981"
 	},
@@ -243,7 +243,7 @@
 		"code":"440981452",
 		"fullCode":"440981452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火星农场",
 		"parentCode":"440981"
 	}

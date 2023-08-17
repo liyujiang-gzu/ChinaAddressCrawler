@@ -3,7 +3,7 @@
 		"code":"650421100",
 		"fullCode":"650421100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鄯善镇",
 		"parentCode":"650421"
 	},
@@ -11,7 +11,7 @@
 		"code":"650421101",
 		"fullCode":"650421101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七克台镇",
 		"parentCode":"650421"
 	},
@@ -19,7 +19,7 @@
 		"code":"650421102",
 		"fullCode":"650421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火车站镇",
 		"parentCode":"650421"
 	},
@@ -27,7 +27,7 @@
 		"code":"650421103",
 		"fullCode":"650421103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连木沁镇",
 		"parentCode":"650421"
 	},
@@ -35,7 +35,7 @@
 		"code":"650421104",
 		"fullCode":"650421104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁克沁镇",
 		"parentCode":"650421"
 	},
@@ -43,7 +43,7 @@
 		"code":"650421105",
 		"fullCode":"650421105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辟展镇",
 		"parentCode":"650421"
 	},
@@ -51,7 +51,7 @@
 		"code":"650421106",
 		"fullCode":"650421106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迪坎镇",
 		"parentCode":"650421"
 	},
@@ -59,7 +59,7 @@
 		"code":"650421201",
 		"fullCode":"650421201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东巴扎回族乡",
 		"parentCode":"650421"
 	},
@@ -67,7 +67,7 @@
 		"code":"650421202",
 		"fullCode":"650421202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吐峪沟乡",
 		"parentCode":"650421"
 	},
@@ -75,7 +75,7 @@
 		"code":"650421203",
 		"fullCode":"650421203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达朗坎乡",
 		"parentCode":"650421"
 	},
@@ -83,7 +83,7 @@
 		"code":"650421400",
 		"fullCode":"650421400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山矿区",
 		"parentCode":"650421"
 	},
@@ -91,7 +91,7 @@
 		"code":"650421401",
 		"fullCode":"650421401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"园艺场",
 		"parentCode":"650421"
 	}

@@ -3,7 +3,7 @@
 		"code":"340181001",
 		"fullCode":"340181001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中庙街道",
 		"parentCode":"340181"
 	},
@@ -11,7 +11,7 @@
 		"code":"340181002",
 		"fullCode":"340181002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚父街道",
 		"parentCode":"340181"
 	},
@@ -19,7 +19,7 @@
 		"code":"340181003",
 		"fullCode":"340181003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧牛山街道",
 		"parentCode":"340181"
 	},
@@ -27,7 +27,7 @@
 		"code":"340181004",
 		"fullCode":"340181004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰山街道",
 		"parentCode":"340181"
 	},
@@ -35,7 +35,7 @@
 		"code":"340181005",
 		"fullCode":"340181005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天河街道",
 		"parentCode":"340181"
 	},
@@ -43,7 +43,7 @@
 		"code":"340181006",
 		"fullCode":"340181006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半汤街道",
 		"parentCode":"340181"
 	},
@@ -51,7 +51,7 @@
 		"code":"340181100",
 		"fullCode":"340181100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栏杆集镇",
 		"parentCode":"340181"
 	},
@@ -59,7 +59,7 @@
 		"code":"340181101",
 		"fullCode":"340181101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏湾镇",
 		"parentCode":"340181"
 	},
@@ -67,7 +67,7 @@
 		"code":"340181102",
 		"fullCode":"340181102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柘皋镇",
 		"parentCode":"340181"
 	},
@@ -75,7 +75,7 @@
 		"code":"340181103",
 		"fullCode":"340181103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银屏镇",
 		"parentCode":"340181"
 	},
@@ -83,7 +83,7 @@
 		"code":"340181104",
 		"fullCode":"340181104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏阁镇",
 		"parentCode":"340181"
 	},
@@ -91,7 +91,7 @@
 		"code":"340181105",
 		"fullCode":"340181105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中垾镇",
 		"parentCode":"340181"
 	},
@@ -99,7 +99,7 @@
 		"code":"340181106",
 		"fullCode":"340181106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"散兵镇",
 		"parentCode":"340181"
 	},
@@ -107,7 +107,7 @@
 		"code":"340181107",
 		"fullCode":"340181107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烔炀镇",
 		"parentCode":"340181"
 	},
@@ -115,7 +115,7 @@
 		"code":"340181108",
 		"fullCode":"340181108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄麓镇",
 		"parentCode":"340181"
 	},
@@ -123,7 +123,7 @@
 		"code":"340181109",
 		"fullCode":"340181109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槐林镇",
 		"parentCode":"340181"
 	},
@@ -131,7 +131,7 @@
 		"code":"340181110",
 		"fullCode":"340181110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坝镇镇",
 		"parentCode":"340181"
 	},
@@ -139,7 +139,7 @@
 		"code":"340181111",
 		"fullCode":"340181111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙岗镇",
 		"parentCode":"340181"
 	}

@@ -3,7 +3,7 @@
 		"code":"320681100",
 		"fullCode":"320681100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汇龙镇",
 		"parentCode":"320681"
 	},
@@ -11,7 +11,7 @@
 		"code":"320681101",
 		"fullCode":"320681101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北新镇",
 		"parentCode":"320681"
 	},
@@ -19,7 +19,7 @@
 		"code":"320681102",
 		"fullCode":"320681102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠萍镇",
 		"parentCode":"320681"
 	},
@@ -27,7 +27,7 @@
 		"code":"320681104",
 		"fullCode":"320681104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东海镇",
 		"parentCode":"320681"
 	},
@@ -35,7 +35,7 @@
 		"code":"320681106",
 		"fullCode":"320681106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南阳镇",
 		"parentCode":"320681"
 	},
@@ -43,7 +43,7 @@
 		"code":"320681107",
 		"fullCode":"320681107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海复镇",
 		"parentCode":"320681"
 	},
@@ -51,7 +51,7 @@
 		"code":"320681108",
 		"fullCode":"320681108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合作镇",
 		"parentCode":"320681"
 	},
@@ -59,7 +59,7 @@
 		"code":"320681109",
 		"fullCode":"320681109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王鲍镇",
 		"parentCode":"320681"
 	},
@@ -67,7 +67,7 @@
 		"code":"320681110",
 		"fullCode":"320681110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吕四港镇",
 		"parentCode":"320681"
 	},
@@ -75,7 +75,7 @@
 		"code":"320681400",
 		"fullCode":"320681400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"启东经济开发区",
 		"parentCode":"320681"
 	},
@@ -83,7 +83,7 @@
 		"code":"320681401",
 		"fullCode":"320681401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"启东滨海工业园",
 		"parentCode":"320681"
 	},
@@ -91,7 +91,7 @@
 		"code":"320681402",
 		"fullCode":"320681402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"启东生命健康产业园",
 		"parentCode":"320681"
 	},
@@ -99,7 +99,7 @@
 		"code":"320681403",
 		"fullCode":"320681403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江苏吕四海洋经济开发区",
 		"parentCode":"320681"
 	},
@@ -107,7 +107,7 @@
 		"code":"320681404",
 		"fullCode":"320681404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"启隆生态科技产业园",
 		"parentCode":"320681"
 	},
@@ -115,7 +115,7 @@
 		"code":"320681405",
 		"fullCode":"320681405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"启东海工船舶工业园",
 		"parentCode":"320681"
 	},
@@ -123,7 +123,7 @@
 		"code":"320681406",
 		"fullCode":"320681406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"启东江海产业园",
 		"parentCode":"320681"
 	},
@@ -131,7 +131,7 @@
 		"code":"320681407",
 		"fullCode":"320681407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圆陀角旅游度假区",
 		"parentCode":"320681"
 	},
@@ -139,7 +139,7 @@
 		"code":"320681408",
 		"fullCode":"320681408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"启东生命健康科技园",
 		"parentCode":"320681"
 	}

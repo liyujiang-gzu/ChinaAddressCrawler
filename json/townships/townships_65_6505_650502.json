@@ -3,7 +3,7 @@
 		"code":"650502001",
 		"fullCode":"650502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东河街道",
 		"parentCode":"650502"
 	},
@@ -11,7 +11,7 @@
 		"code":"650502002",
 		"fullCode":"650502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河街道",
 		"parentCode":"650502"
 	},
@@ -19,7 +19,7 @@
 		"code":"650502003",
 		"fullCode":"650502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"650502"
 	},
@@ -27,7 +27,7 @@
 		"code":"650502004",
 		"fullCode":"650502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丽园街道",
 		"parentCode":"650502"
 	},
@@ -35,7 +35,7 @@
 		"code":"650502005",
 		"fullCode":"650502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石油新城街道",
 		"parentCode":"650502"
 	},
@@ -43,7 +43,7 @@
 		"code":"650502100",
 		"fullCode":"650502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅满苏镇",
 		"parentCode":"650502"
 	},
@@ -51,7 +51,7 @@
 		"code":"650502101",
 		"fullCode":"650502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七角井镇",
 		"parentCode":"650502"
 	},
@@ -59,7 +59,7 @@
 		"code":"650502102",
 		"fullCode":"650502102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星星峡镇",
 		"parentCode":"650502"
 	},
@@ -67,7 +67,7 @@
 		"code":"650502103",
 		"fullCode":"650502103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二堡镇",
 		"parentCode":"650502"
 	},
@@ -75,7 +75,7 @@
 		"code":"650502104",
 		"fullCode":"650502104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶家宫镇",
 		"parentCode":"650502"
 	},
@@ -83,7 +83,7 @@
 		"code":"650502105",
 		"fullCode":"650502105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五堡镇",
 		"parentCode":"650502"
 	},
@@ -91,7 +91,7 @@
 		"code":"650502106",
 		"fullCode":"650502106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道岭镇",
 		"parentCode":"650502"
 	},
@@ -99,7 +99,7 @@
 		"code":"650502200",
 		"fullCode":"650502200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沁城乡",
 		"parentCode":"650502"
 	},
@@ -107,7 +107,7 @@
 		"code":"650502201",
 		"fullCode":"650502201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌拉台哈萨克民族乡",
 		"parentCode":"650502"
 	},
@@ -115,7 +115,7 @@
 		"code":"650502202",
 		"fullCode":"650502202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双井子乡",
 		"parentCode":"650502"
 	},
@@ -123,7 +123,7 @@
 		"code":"650502203",
 		"fullCode":"650502203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大泉湾乡",
 		"parentCode":"650502"
 	},
@@ -131,7 +131,7 @@
 		"code":"650502205",
 		"fullCode":"650502205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回城乡",
 		"parentCode":"650502"
 	},
@@ -139,7 +139,7 @@
 		"code":"650502206",
 		"fullCode":"650502206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花园乡",
 		"parentCode":"650502"
 	},
@@ -147,7 +147,7 @@
 		"code":"650502207",
 		"fullCode":"650502207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖乡",
 		"parentCode":"650502"
 	},
@@ -155,7 +155,7 @@
 		"code":"650502209",
 		"fullCode":"650502209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德外里都如克哈萨克乡",
 		"parentCode":"650502"
 	},
@@ -163,7 +163,7 @@
 		"code":"650502210",
 		"fullCode":"650502210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西山乡",
 		"parentCode":"650502"
 	},
@@ -171,7 +171,7 @@
 		"code":"650502211",
 		"fullCode":"650502211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天山乡",
 		"parentCode":"650502"
 	},
@@ -179,7 +179,7 @@
 		"code":"650502212",
 		"fullCode":"650502212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石头乡",
 		"parentCode":"650502"
 	},
@@ -187,7 +187,7 @@
 		"code":"650502214",
 		"fullCode":"650502214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳树沟乡",
 		"parentCode":"650502"
 	},
@@ -195,7 +195,7 @@
 		"code":"650502404",
 		"fullCode":"650502404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"现代农业园区管理委员会",
 		"parentCode":"650502"
 	},
@@ -203,7 +203,7 @@
 		"code":"650502406",
 		"fullCode":"650502406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈密工业园区",
 		"parentCode":"650502"
 	},
@@ -211,7 +211,7 @@
 		"code":"650502407",
 		"fullCode":"650502407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东郊开发区管理委员会",
 		"parentCode":"650502"
 	},
@@ -219,7 +219,7 @@
 		"code":"650502501",
 		"fullCode":"650502501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团红星二场",
 		"parentCode":"650502"
 	},
@@ -227,7 +227,7 @@
 		"code":"650502502",
 		"fullCode":"650502502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团红星四场",
 		"parentCode":"650502"
 	},
@@ -235,7 +235,7 @@
 		"code":"650502503",
 		"fullCode":"650502503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团黄田农场",
 		"parentCode":"650502"
 	},
@@ -243,7 +243,7 @@
 		"code":"650502504",
 		"fullCode":"650502504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团火箭农场",
 		"parentCode":"650502"
 	},
@@ -251,7 +251,7 @@
 		"code":"650502505",
 		"fullCode":"650502505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团柳树泉农场",
 		"parentCode":"650502"
 	}

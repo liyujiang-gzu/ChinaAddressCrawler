@@ -3,7 +3,7 @@
 		"code":"411122001",
 		"fullCode":"411122001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"411122"
 	},
@@ -11,7 +11,7 @@
 		"code":"411122002",
 		"fullCode":"411122002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"411122"
 	},
@@ -19,7 +19,7 @@
 		"code":"411122101",
 		"fullCode":"411122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"繁城回族镇",
 		"parentCode":"411122"
 	},
@@ -27,7 +27,7 @@
 		"code":"411122102",
 		"fullCode":"411122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜曲镇",
 		"parentCode":"411122"
 	},
@@ -35,7 +35,7 @@
 		"code":"411122103",
 		"fullCode":"411122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王岗镇",
 		"parentCode":"411122"
 	},
@@ -43,7 +43,7 @@
 		"code":"411122104",
 		"fullCode":"411122104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台陈镇",
 		"parentCode":"411122"
 	},
@@ -51,7 +51,7 @@
 		"code":"411122105",
 		"fullCode":"411122105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨陵镇",
 		"parentCode":"411122"
 	},
@@ -59,7 +59,7 @@
 		"code":"411122106",
 		"fullCode":"411122106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦店镇",
 		"parentCode":"411122"
 	},
@@ -67,7 +67,7 @@
 		"code":"411122107",
 		"fullCode":"411122107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三家店镇",
 		"parentCode":"411122"
 	},
@@ -75,7 +75,7 @@
 		"code":"411122108",
 		"fullCode":"411122108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窝城镇",
 		"parentCode":"411122"
 	},
@@ -83,7 +83,7 @@
 		"code":"411122109",
 		"fullCode":"411122109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王孟镇",
 		"parentCode":"411122"
 	},
@@ -91,7 +91,7 @@
 		"code":"411122110",
 		"fullCode":"411122110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大郭镇",
 		"parentCode":"411122"
 	},
@@ -99,7 +99,7 @@
 		"code":"411122201",
 		"fullCode":"411122201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇帝庙乡",
 		"parentCode":"411122"
 	},
@@ -107,7 +107,7 @@
 		"code":"411122202",
 		"fullCode":"411122202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固厢乡",
 		"parentCode":"411122"
 	},
@@ -115,7 +115,7 @@
 		"code":"411122203",
 		"fullCode":"411122203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥乡",
 		"parentCode":"411122"
 	},
@@ -123,7 +123,7 @@
 		"code":"411122204",
 		"fullCode":"411122204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈庄乡",
 		"parentCode":"411122"
 	}

@@ -3,7 +3,7 @@
 		"code":"522635001",
 		"fullCode":"522635001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏山街道",
 		"parentCode":"522635"
 	},
@@ -11,7 +11,7 @@
 		"code":"522635002",
 		"fullCode":"522635002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金竹街道",
 		"parentCode":"522635"
 	},
@@ -19,7 +19,7 @@
 		"code":"522635101",
 		"fullCode":"522635101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷硐镇",
 		"parentCode":"522635"
 	},
@@ -27,7 +27,7 @@
 		"code":"522635103",
 		"fullCode":"522635103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宣威镇",
 		"parentCode":"522635"
 	},
@@ -35,7 +35,7 @@
 		"code":"522635105",
 		"fullCode":"522635105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山镇",
 		"parentCode":"522635"
 	},
@@ -43,7 +43,7 @@
 		"code":"522635106",
 		"fullCode":"522635106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贤昌镇",
 		"parentCode":"522635"
 	},
@@ -51,7 +51,7 @@
 		"code":"522635203",
 		"fullCode":"522635203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坝芒布依族乡",
 		"parentCode":"522635"
 	}

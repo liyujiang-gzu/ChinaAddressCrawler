@@ -3,7 +3,7 @@
 		"code":"220302001",
 		"fullCode":"220302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁兴街道",
 		"parentCode":"220302"
 	},
@@ -11,7 +11,7 @@
 		"code":"220302002",
 		"fullCode":"220302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英雄街道",
 		"parentCode":"220302"
 	},
@@ -19,7 +19,7 @@
 		"code":"220302003",
 		"fullCode":"220302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站前街道",
 		"parentCode":"220302"
 	},
@@ -27,7 +27,7 @@
 		"code":"220302004",
 		"fullCode":"220302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北沟街道",
 		"parentCode":"220302"
 	},
@@ -35,7 +35,7 @@
 		"code":"220302005",
 		"fullCode":"220302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地直街道",
 		"parentCode":"220302"
 	},
@@ -43,7 +43,7 @@
 		"code":"220302200",
 		"fullCode":"220302200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平西乡",
 		"parentCode":"220302"
 	},
@@ -51,7 +51,7 @@
 		"code":"220302400",
 		"fullCode":"220302400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红嘴高新技术开发区",
 		"parentCode":"220302"
 	}

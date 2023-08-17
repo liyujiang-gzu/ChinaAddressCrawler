@@ -3,7 +3,7 @@
 		"code":"220623100",
 		"fullCode":"220623100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长白镇",
 		"parentCode":"220623"
 	},
@@ -11,7 +11,7 @@
 		"code":"220623101",
 		"fullCode":"220623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八道沟镇",
 		"parentCode":"220623"
 	},
@@ -19,7 +19,7 @@
 		"code":"220623102",
 		"fullCode":"220623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十四道沟镇",
 		"parentCode":"220623"
 	},
@@ -27,7 +27,7 @@
 		"code":"220623103",
 		"fullCode":"220623103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马鹿沟镇",
 		"parentCode":"220623"
 	},
@@ -35,7 +35,7 @@
 		"code":"220623104",
 		"fullCode":"220623104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝泉山镇",
 		"parentCode":"220623"
 	},
@@ -43,7 +43,7 @@
 		"code":"220623105",
 		"fullCode":"220623105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新房子镇",
 		"parentCode":"220623"
 	},
@@ -51,7 +51,7 @@
 		"code":"220623106",
 		"fullCode":"220623106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十二道沟镇",
 		"parentCode":"220623"
 	},
@@ -59,7 +59,7 @@
 		"code":"220623200",
 		"fullCode":"220623200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金华乡",
 		"parentCode":"220623"
 	}

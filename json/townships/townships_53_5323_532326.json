@@ -3,7 +3,7 @@
 		"code":"532326101",
 		"fullCode":"532326101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金碧镇",
 		"parentCode":"532326"
 	},
@@ -11,7 +11,7 @@
 		"code":"532326102",
 		"fullCode":"532326102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石羊镇",
 		"parentCode":"532326"
 	},
@@ -19,7 +19,7 @@
 		"code":"532326103",
 		"fullCode":"532326103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六苴镇",
 		"parentCode":"532326"
 	},
@@ -27,7 +27,7 @@
 		"code":"532326104",
 		"fullCode":"532326104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙街镇",
 		"parentCode":"532326"
 	},
@@ -35,7 +35,7 @@
 		"code":"532326105",
 		"fullCode":"532326105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街镇",
 		"parentCode":"532326"
 	},
@@ -43,7 +43,7 @@
 		"code":"532326106",
 		"fullCode":"532326106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵家店镇",
 		"parentCode":"532326"
 	},
@@ -51,7 +51,7 @@
 		"code":"532326107",
 		"fullCode":"532326107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔河镇",
 		"parentCode":"532326"
 	},
@@ -59,7 +59,7 @@
 		"code":"532326108",
 		"fullCode":"532326108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂花镇",
 		"parentCode":"532326"
 	},
@@ -67,7 +67,7 @@
 		"code":"532326204",
 		"fullCode":"532326204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昙华乡",
 		"parentCode":"532326"
 	},
@@ -75,7 +75,7 @@
 		"code":"532326206",
 		"fullCode":"532326206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾碧傣族傈僳族乡",
 		"parentCode":"532326"
 	},
@@ -83,7 +83,7 @@
 		"code":"532326207",
 		"fullCode":"532326207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁锁乡",
 		"parentCode":"532326"
 	},
@@ -91,7 +91,7 @@
 		"code":"532326208",
 		"fullCode":"532326208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三台乡",
 		"parentCode":"532326"
 	}

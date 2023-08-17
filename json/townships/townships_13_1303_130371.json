@@ -3,7 +3,7 @@
 		"code":"130371005",
 		"fullCode":"130371005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"船厂路街道",
 		"parentCode":"130371"
 	},
@@ -11,7 +11,7 @@
 		"code":"130371011",
 		"fullCode":"130371011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠江道街道",
 		"parentCode":"130371"
 	},
@@ -19,7 +19,7 @@
 		"code":"130371012",
 		"fullCode":"130371012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄河道街道",
 		"parentCode":"130371"
 	},
@@ -27,7 +27,7 @@
 		"code":"130371013",
 		"fullCode":"130371013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腾飞路街道",
 		"parentCode":"130371"
 	},
@@ -35,7 +35,7 @@
 		"code":"130371200",
 		"fullCode":"130371200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渤海乡",
 		"parentCode":"130371"
 	}

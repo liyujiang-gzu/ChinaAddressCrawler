@@ -3,7 +3,7 @@
 		"code":"650102",
 		"fullCode":"650102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天山区",
 		"parentCode":"6501"
 	},
@@ -11,7 +11,7 @@
 		"code":"650103",
 		"fullCode":"650103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沙依巴克区",
 		"parentCode":"6501"
 	},
@@ -19,7 +19,7 @@
 		"code":"650104",
 		"fullCode":"650104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新市区",
 		"parentCode":"6501"
 	},
@@ -27,7 +27,7 @@
 		"code":"650105",
 		"fullCode":"650105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"水磨沟区",
 		"parentCode":"6501"
 	},
@@ -35,7 +35,7 @@
 		"code":"650106",
 		"fullCode":"650106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"头屯河区",
 		"parentCode":"6501"
 	},
@@ -43,7 +43,7 @@
 		"code":"650107",
 		"fullCode":"650107000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"达坂城区",
 		"parentCode":"6501"
 	},
@@ -51,7 +51,7 @@
 		"code":"650109",
 		"fullCode":"650109000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"米东区",
 		"parentCode":"6501"
 	},
@@ -59,7 +59,7 @@
 		"code":"650121",
 		"fullCode":"650121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌鲁木齐县",
 		"parentCode":"6501"
 	}

@@ -3,7 +3,7 @@
 		"code":"330329100",
 		"fullCode":"330329100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗阳镇",
 		"parentCode":"330329"
 	},
@@ -11,7 +11,7 @@
 		"code":"330329101",
 		"fullCode":"330329101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"司前畲族镇",
 		"parentCode":"330329"
 	},
@@ -19,7 +19,7 @@
 		"code":"330329102",
 		"fullCode":"330329102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百丈镇",
 		"parentCode":"330329"
 	},
@@ -27,7 +27,7 @@
 		"code":"330329103",
 		"fullCode":"330329103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"筱村镇",
 		"parentCode":"330329"
 	},
@@ -35,7 +35,7 @@
 		"code":"330329104",
 		"fullCode":"330329104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗溪镇",
 		"parentCode":"330329"
 	},
@@ -43,7 +43,7 @@
 		"code":"330329105",
 		"fullCode":"330329105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭溪镇",
 		"parentCode":"330329"
 	},
@@ -51,7 +51,7 @@
 		"code":"330329106",
 		"fullCode":"330329106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅阳镇",
 		"parentCode":"330329"
 	},
@@ -59,7 +59,7 @@
 		"code":"330329107",
 		"fullCode":"330329107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仕阳镇",
 		"parentCode":"330329"
 	},
@@ -67,7 +67,7 @@
 		"code":"330329109",
 		"fullCode":"330329109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三魁镇",
 		"parentCode":"330329"
 	},
@@ -75,7 +75,7 @@
 		"code":"330329111",
 		"fullCode":"330329111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南浦溪镇",
 		"parentCode":"330329"
 	},
@@ -83,7 +83,7 @@
 		"code":"330329112",
 		"fullCode":"330329112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龟湖镇",
 		"parentCode":"330329"
 	},
@@ -91,7 +91,7 @@
 		"code":"330329113",
 		"fullCode":"330329113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西旸镇",
 		"parentCode":"330329"
 	},
@@ -99,7 +99,7 @@
 		"code":"330329204",
 		"fullCode":"330329204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹里畲族乡",
 		"parentCode":"330329"
 	},
@@ -107,7 +107,7 @@
 		"code":"330329225",
 		"fullCode":"330329225000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"包垟乡",
 		"parentCode":"330329"
 	},
@@ -115,7 +115,7 @@
 		"code":"330329226",
 		"fullCode":"330329226000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤垟乡",
 		"parentCode":"330329"
 	},
@@ -123,7 +123,7 @@
 		"code":"330329227",
 		"fullCode":"330329227000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东溪乡",
 		"parentCode":"330329"
 	},
@@ -131,7 +131,7 @@
 		"code":"330329228",
 		"fullCode":"330329228000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳峰乡",
 		"parentCode":"330329"
 	},
@@ -139,7 +139,7 @@
 		"code":"330329229",
 		"fullCode":"330329229000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪溪乡",
 		"parentCode":"330329"
 	},
@@ -147,7 +147,7 @@
 		"code":"330329230",
 		"fullCode":"330329230000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安乡",
 		"parentCode":"330329"
 	},
@@ -155,7 +155,7 @@
 		"code":"330329400",
 		"fullCode":"330329400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌岩岭自然保护区",
 		"parentCode":"330329"
 	}

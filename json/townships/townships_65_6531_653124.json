@@ -3,7 +3,7 @@
 		"code":"653124100",
 		"fullCode":"653124100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泽普镇",
 		"parentCode":"653124"
 	},
@@ -11,7 +11,7 @@
 		"code":"653124101",
 		"fullCode":"653124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奎依巴格镇",
 		"parentCode":"653124"
 	},
@@ -19,7 +19,7 @@
 		"code":"653124200",
 		"fullCode":"653124200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波斯喀木乡",
 		"parentCode":"653124"
 	},
@@ -27,7 +27,7 @@
 		"code":"653124201",
 		"fullCode":"653124201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泽普县依玛乡",
 		"parentCode":"653124"
 	},
@@ -35,7 +35,7 @@
 		"code":"653124202",
 		"fullCode":"653124202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古勒巴格乡",
 		"parentCode":"653124"
 	},
@@ -43,7 +43,7 @@
 		"code":"653124203",
 		"fullCode":"653124203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛力乡",
 		"parentCode":"653124"
 	},
@@ -51,7 +51,7 @@
 		"code":"653124204",
 		"fullCode":"653124204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依肯苏乡",
 		"parentCode":"653124"
 	},
@@ -59,7 +59,7 @@
 		"code":"653124205",
 		"fullCode":"653124205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"图呼其乡",
 		"parentCode":"653124"
 	},
@@ -67,7 +67,7 @@
 		"code":"653124206",
 		"fullCode":"653124206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奎依巴格乡",
 		"parentCode":"653124"
 	},
@@ -75,7 +75,7 @@
 		"code":"653124207",
 		"fullCode":"653124207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿克塔木乡",
 		"parentCode":"653124"
 	},
@@ -83,7 +83,7 @@
 		"code":"653124208",
 		"fullCode":"653124208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿依库勒乡",
 		"parentCode":"653124"
 	},
@@ -91,7 +91,7 @@
 		"code":"653124209",
 		"fullCode":"653124209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布依鲁克塔吉克族乡",
 		"parentCode":"653124"
 	},
@@ -99,7 +99,7 @@
 		"code":"653124210",
 		"fullCode":"653124210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐安乡",
 		"parentCode":"653124"
 	},
@@ -107,7 +107,7 @@
 		"code":"653124401",
 		"fullCode":"653124401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泽普县良种场",
 		"parentCode":"653124"
 	},
@@ -115,7 +115,7 @@
 		"code":"653124403",
 		"fullCode":"653124403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营林场",
 		"parentCode":"653124"
 	}

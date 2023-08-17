@@ -3,7 +3,7 @@
 		"code":"371603001",
 		"fullCode":"371603001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富国街道",
 		"parentCode":"371603"
 	},
@@ -11,7 +11,7 @@
 		"code":"371603002",
 		"fullCode":"371603002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富源街道",
 		"parentCode":"371603"
 	},
@@ -19,7 +19,7 @@
 		"code":"371603101",
 		"fullCode":"371603101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下洼镇",
 		"parentCode":"371603"
 	},
@@ -27,7 +27,7 @@
 		"code":"371603102",
 		"fullCode":"371603102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"371603"
 	},
@@ -35,7 +35,7 @@
 		"code":"371603103",
 		"fullCode":"371603103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯家镇",
 		"parentCode":"371603"
 	},
@@ -43,7 +43,7 @@
 		"code":"371603104",
 		"fullCode":"371603104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泊头镇",
 		"parentCode":"371603"
 	},
@@ -51,7 +51,7 @@
 		"code":"371603105",
 		"fullCode":"371603105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大高镇",
 		"parentCode":"371603"
 	},
@@ -59,7 +59,7 @@
 		"code":"371603106",
 		"fullCode":"371603106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄升镇",
 		"parentCode":"371603"
 	},
@@ -67,7 +67,7 @@
 		"code":"371603107",
 		"fullCode":"371603107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海镇",
 		"parentCode":"371603"
 	},
@@ -75,7 +75,7 @@
 		"code":"371603203",
 		"fullCode":"371603203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下河乡",
 		"parentCode":"371603"
 	},
@@ -83,7 +83,7 @@
 		"code":"371603204",
 		"fullCode":"371603204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利国乡",
 		"parentCode":"371603"
 	},
@@ -91,7 +91,7 @@
 		"code":"371603400",
 		"fullCode":"371603400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海防办事处乡",
 		"parentCode":"371603"
 	}

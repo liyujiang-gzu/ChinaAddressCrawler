@@ -3,7 +3,7 @@
 		"code":"652926100",
 		"fullCode":"652926100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拜城镇",
 		"parentCode":"652926"
 	},
@@ -11,7 +11,7 @@
 		"code":"652926101",
 		"fullCode":"652926101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁热克镇",
 		"parentCode":"652926"
 	},
@@ -19,7 +19,7 @@
 		"code":"652926102",
 		"fullCode":"652926102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"察尔齐镇",
 		"parentCode":"652926"
 	},
@@ -27,7 +27,7 @@
 		"code":"652926103",
 		"fullCode":"652926103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛里木镇",
 		"parentCode":"652926"
 	},
@@ -35,7 +35,7 @@
 		"code":"652926200",
 		"fullCode":"652926200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑英山乡",
 		"parentCode":"652926"
 	},
@@ -43,7 +43,7 @@
 		"code":"652926201",
 		"fullCode":"652926201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克孜尔乡",
 		"parentCode":"652926"
 	},
@@ -51,7 +51,7 @@
 		"code":"652926203",
 		"fullCode":"652926203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托克逊乡",
 		"parentCode":"652926"
 	},
@@ -59,7 +59,7 @@
 		"code":"652926204",
 		"fullCode":"652926204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚吐尔乡",
 		"parentCode":"652926"
 	},
@@ -67,7 +67,7 @@
 		"code":"652926205",
 		"fullCode":"652926205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康其乡",
 		"parentCode":"652926"
 	},
@@ -75,7 +75,7 @@
 		"code":"652926206",
 		"fullCode":"652926206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布隆乡",
 		"parentCode":"652926"
 	},
@@ -83,7 +83,7 @@
 		"code":"652926207",
 		"fullCode":"652926207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米吉克乡",
 		"parentCode":"652926"
 	},
@@ -91,7 +91,7 @@
 		"code":"652926208",
 		"fullCode":"652926208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温巴什乡",
 		"parentCode":"652926"
 	},
@@ -99,7 +99,7 @@
 		"code":"652926209",
 		"fullCode":"652926209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥乡",
 		"parentCode":"652926"
 	},
@@ -107,7 +107,7 @@
 		"code":"652926210",
 		"fullCode":"652926210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老虎台乡",
 		"parentCode":"652926"
 	}

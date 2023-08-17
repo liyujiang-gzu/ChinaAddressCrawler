@@ -3,7 +3,7 @@
 		"code":"610114001",
 		"fullCode":"610114001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰路街道",
 		"parentCode":"610114"
 	},
@@ -11,7 +11,7 @@
 		"code":"610114002",
 		"fullCode":"610114002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华路街道",
 		"parentCode":"610114"
 	},
@@ -19,7 +19,7 @@
 		"code":"610114003",
 		"fullCode":"610114003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振兴街道",
 		"parentCode":"610114"
 	},
@@ -27,7 +27,7 @@
 		"code":"610114004",
 		"fullCode":"610114004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴街道",
 		"parentCode":"610114"
 	},
@@ -35,7 +35,7 @@
 		"code":"610114005",
 		"fullCode":"610114005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北屯街道",
 		"parentCode":"610114"
 	},
@@ -43,7 +43,7 @@
 		"code":"610114006",
 		"fullCode":"610114006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武屯街道",
 		"parentCode":"610114"
 	},
@@ -51,7 +51,7 @@
 		"code":"610114007",
 		"fullCode":"610114007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关山街道",
 		"parentCode":"610114"
 	}

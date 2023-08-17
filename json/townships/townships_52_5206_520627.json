@@ -3,7 +3,7 @@
 		"code":"520627001",
 		"fullCode":"520627001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结街道",
 		"parentCode":"520627"
 	},
@@ -11,7 +11,7 @@
 		"code":"520627002",
 		"fullCode":"520627002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"520627"
 	},
@@ -19,7 +19,7 @@
 		"code":"520627003",
 		"fullCode":"520627003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙子街道",
 		"parentCode":"520627"
 	},
@@ -27,7 +27,7 @@
 		"code":"520627004",
 		"fullCode":"520627004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祐溪街道",
 		"parentCode":"520627"
 	},
@@ -35,7 +35,7 @@
 		"code":"520627101",
 		"fullCode":"520627101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑水镇",
 		"parentCode":"520627"
 	},
@@ -43,7 +43,7 @@
 		"code":"520627102",
 		"fullCode":"520627102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谯家镇",
 		"parentCode":"520627"
 	},
@@ -51,7 +51,7 @@
 		"code":"520627103",
 		"fullCode":"520627103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹石镇",
 		"parentCode":"520627"
 	},
@@ -59,7 +59,7 @@
 		"code":"520627104",
 		"fullCode":"520627104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淇滩镇",
 		"parentCode":"520627"
 	},
@@ -67,7 +67,7 @@
 		"code":"520627105",
 		"fullCode":"520627105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官舟镇",
 		"parentCode":"520627"
 	},
@@ -75,7 +75,7 @@
 		"code":"520627106",
 		"fullCode":"520627106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土地坳镇",
 		"parentCode":"520627"
 	},
@@ -83,7 +83,7 @@
 		"code":"520627107",
 		"fullCode":"520627107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思渠镇",
 		"parentCode":"520627"
 	},
@@ -91,7 +91,7 @@
 		"code":"520627108",
 		"fullCode":"520627108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"客田镇",
 		"parentCode":"520627"
 	},
@@ -99,7 +99,7 @@
 		"code":"520627109",
 		"fullCode":"520627109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪渡镇",
 		"parentCode":"520627"
 	},
@@ -107,7 +107,7 @@
 		"code":"520627110",
 		"fullCode":"520627110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中界镇",
 		"parentCode":"520627"
 	},
@@ -115,7 +115,7 @@
 		"code":"520627111",
 		"fullCode":"520627111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘溪镇",
 		"parentCode":"520627"
 	},
@@ -123,7 +123,7 @@
 		"code":"520627112",
 		"fullCode":"520627112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板场镇",
 		"parentCode":"520627"
 	},
@@ -131,7 +131,7 @@
 		"code":"520627113",
 		"fullCode":"520627113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉坝镇",
 		"parentCode":"520627"
 	},
@@ -139,7 +139,7 @@
 		"code":"520627114",
 		"fullCode":"520627114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中寨镇",
 		"parentCode":"520627"
 	},
@@ -147,7 +147,7 @@
 		"code":"520627115",
 		"fullCode":"520627115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄土镇",
 		"parentCode":"520627"
 	},
@@ -155,7 +155,7 @@
 		"code":"520627116",
 		"fullCode":"520627116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新景镇",
 		"parentCode":"520627"
 	},
@@ -163,7 +163,7 @@
 		"code":"520627117",
 		"fullCode":"520627117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘坝镇",
 		"parentCode":"520627"
 	},
@@ -171,7 +171,7 @@
 		"code":"520627203",
 		"fullCode":"520627203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晓景乡",
 		"parentCode":"520627"
 	},
@@ -179,7 +179,7 @@
 		"code":"520627211",
 		"fullCode":"520627211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后坪乡",
 		"parentCode":"520627"
 	}

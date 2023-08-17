@@ -3,7 +3,7 @@
 		"code":"620826001",
 		"fullCode":"620826001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城区街道",
 		"parentCode":"620826"
 	},
@@ -11,7 +11,7 @@
 		"code":"620826100",
 		"fullCode":"620826100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"620826"
 	},
@@ -19,7 +19,7 @@
 		"code":"620826101",
 		"fullCode":"620826101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"威戎镇",
 		"parentCode":"620826"
 	},
@@ -27,7 +27,7 @@
 		"code":"620826102",
 		"fullCode":"620826102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界石铺镇",
 		"parentCode":"620826"
 	},
@@ -35,7 +35,7 @@
 		"code":"620826103",
 		"fullCode":"620826103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里镇",
 		"parentCode":"620826"
 	},
@@ -43,7 +43,7 @@
 		"code":"620826104",
 		"fullCode":"620826104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李店镇",
 		"parentCode":"620826"
 	},
@@ -51,7 +51,7 @@
 		"code":"620826105",
 		"fullCode":"620826105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"620826"
 	},
@@ -59,7 +59,7 @@
 		"code":"620826106",
 		"fullCode":"620826106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁大镇",
 		"parentCode":"620826"
 	},
@@ -67,7 +67,7 @@
 		"code":"620826107",
 		"fullCode":"620826107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘沟镇",
 		"parentCode":"620826"
 	},
@@ -75,7 +75,7 @@
 		"code":"620826108",
 		"fullCode":"620826108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城川镇",
 		"parentCode":"620826"
 	},
@@ -83,7 +83,7 @@
 		"code":"620826109",
 		"fullCode":"620826109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹务镇",
 		"parentCode":"620826"
 	},
@@ -91,7 +91,7 @@
 		"code":"620826110",
 		"fullCode":"620826110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷大镇",
 		"parentCode":"620826"
 	},
@@ -99,7 +99,7 @@
 		"code":"620826111",
 		"fullCode":"620826111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四河镇",
 		"parentCode":"620826"
 	},
@@ -107,7 +107,7 @@
 		"code":"620826112",
 		"fullCode":"620826112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"细巷镇",
 		"parentCode":"620826"
 	},
@@ -115,7 +115,7 @@
 		"code":"620826113",
 		"fullCode":"620826113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双岘镇",
 		"parentCode":"620826"
 	},
@@ -123,7 +123,7 @@
 		"code":"620826114",
 		"fullCode":"620826114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"治平镇",
 		"parentCode":"620826"
 	},
@@ -131,7 +131,7 @@
 		"code":"620826115",
 		"fullCode":"620826115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红寺镇",
 		"parentCode":"620826"
 	},
@@ -139,7 +139,7 @@
 		"code":"620826116",
 		"fullCode":"620826116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"原安镇",
 		"parentCode":"620826"
 	},
@@ -147,7 +147,7 @@
 		"code":"620826201",
 		"fullCode":"620826201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"司桥乡",
 		"parentCode":"620826"
 	},
@@ -155,7 +155,7 @@
 		"code":"620826206",
 		"fullCode":"620826206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余湾乡",
 		"parentCode":"620826"
 	},
@@ -163,7 +163,7 @@
 		"code":"620826208",
 		"fullCode":"620826208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾河乡",
 		"parentCode":"620826"
 	},
@@ -171,7 +171,7 @@
 		"code":"620826209",
 		"fullCode":"620826209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"深沟乡",
 		"parentCode":"620826"
 	},
@@ -179,7 +179,7 @@
 		"code":"620826211",
 		"fullCode":"620826211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店乡",
 		"parentCode":"620826"
 	},
@@ -187,7 +187,7 @@
 		"code":"620826216",
 		"fullCode":"620826216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三合乡",
 		"parentCode":"620826"
 	},
@@ -195,7 +195,7 @@
 		"code":"620826218",
 		"fullCode":"620826218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵芝乡",
 		"parentCode":"620826"
 	}

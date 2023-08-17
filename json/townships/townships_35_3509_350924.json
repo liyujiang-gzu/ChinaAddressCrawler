@@ -3,7 +3,7 @@
 		"code":"350924100",
 		"fullCode":"350924100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鳌阳镇",
 		"parentCode":"350924"
 	},
@@ -11,7 +11,7 @@
 		"code":"350924101",
 		"fullCode":"350924101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斜滩镇",
 		"parentCode":"350924"
 	},
@@ -19,7 +19,7 @@
 		"code":"350924102",
 		"fullCode":"350924102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南阳镇",
 		"parentCode":"350924"
 	},
@@ -27,7 +27,7 @@
 		"code":"350924103",
 		"fullCode":"350924103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武曲镇",
 		"parentCode":"350924"
 	},
@@ -35,7 +35,7 @@
 		"code":"350924104",
 		"fullCode":"350924104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"犀溪镇",
 		"parentCode":"350924"
 	},
@@ -43,7 +43,7 @@
 		"code":"350924105",
 		"fullCode":"350924105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平溪镇",
 		"parentCode":"350924"
 	},
@@ -51,7 +51,7 @@
 		"code":"350924106",
 		"fullCode":"350924106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤阳镇",
 		"parentCode":"350924"
 	},
@@ -59,7 +59,7 @@
 		"code":"350924107",
 		"fullCode":"350924107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清源镇",
 		"parentCode":"350924"
 	},
@@ -67,7 +67,7 @@
 		"code":"350924200",
 		"fullCode":"350924200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安乡",
 		"parentCode":"350924"
 	},
@@ -75,7 +75,7 @@
 		"code":"350924201",
 		"fullCode":"350924201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坑底乡",
 		"parentCode":"350924"
 	},
@@ -83,7 +83,7 @@
 		"code":"350924203",
 		"fullCode":"350924203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹管垅乡",
 		"parentCode":"350924"
 	},
@@ -91,7 +91,7 @@
 		"code":"350924205",
 		"fullCode":"350924205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芹洋乡",
 		"parentCode":"350924"
 	},
@@ -99,7 +99,7 @@
 		"code":"350924206",
 		"fullCode":"350924206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托溪乡",
 		"parentCode":"350924"
 	},
@@ -107,7 +107,7 @@
 		"code":"350924209",
 		"fullCode":"350924209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下党乡",
 		"parentCode":"350924"
 	}

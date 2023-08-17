@@ -3,7 +3,7 @@
 		"code":"210921001",
 		"fullCode":"210921001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城区街道",
 		"parentCode":"210921"
 	},
@@ -11,7 +11,7 @@
 		"code":"210921100",
 		"fullCode":"210921100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阜新镇",
 		"parentCode":"210921"
 	},
@@ -19,7 +19,7 @@
 		"code":"210921102",
 		"fullCode":"210921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东梁镇",
 		"parentCode":"210921"
 	},
@@ -27,7 +27,7 @@
 		"code":"210921103",
 		"fullCode":"210921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛寺镇",
 		"parentCode":"210921"
 	},
@@ -35,7 +35,7 @@
 		"code":"210921104",
 		"fullCode":"210921104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊吗图镇",
 		"parentCode":"210921"
 	},
@@ -43,7 +43,7 @@
 		"code":"210921105",
 		"fullCode":"210921105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧庙镇",
 		"parentCode":"210921"
 	},
@@ -51,7 +51,7 @@
 		"code":"210921106",
 		"fullCode":"210921106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"务欢池镇",
 		"parentCode":"210921"
 	},
@@ -59,7 +59,7 @@
 		"code":"210921107",
 		"fullCode":"210921107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设镇",
 		"parentCode":"210921"
 	},
@@ -67,7 +67,7 @@
 		"code":"210921108",
 		"fullCode":"210921108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大巴镇",
 		"parentCode":"210921"
 	},
@@ -75,7 +75,7 @@
 		"code":"210921109",
 		"fullCode":"210921109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泡子镇",
 		"parentCode":"210921"
 	},
@@ -83,7 +83,7 @@
 		"code":"210921110",
 		"fullCode":"210921110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十家子镇",
 		"parentCode":"210921"
 	},
@@ -91,7 +91,7 @@
 		"code":"210921111",
 		"fullCode":"210921111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王府镇",
 		"parentCode":"210921"
 	},
@@ -99,7 +99,7 @@
 		"code":"210921112",
 		"fullCode":"210921112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"于寺镇",
 		"parentCode":"210921"
 	},
@@ -107,7 +107,7 @@
 		"code":"210921113",
 		"fullCode":"210921113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富荣镇",
 		"parentCode":"210921"
 	},
@@ -115,7 +115,7 @@
 		"code":"210921114",
 		"fullCode":"210921114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民镇",
 		"parentCode":"210921"
 	},
@@ -123,7 +123,7 @@
 		"code":"210921115",
 		"fullCode":"210921115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福兴地镇",
 		"parentCode":"210921"
 	},
@@ -131,7 +131,7 @@
 		"code":"210921116",
 		"fullCode":"210921116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安地镇",
 		"parentCode":"210921"
 	},
@@ -139,7 +139,7 @@
 		"code":"210921117",
 		"fullCode":"210921117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙拉镇",
 		"parentCode":"210921"
 	},
@@ -147,7 +147,7 @@
 		"code":"210921118",
 		"fullCode":"210921118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大固本镇",
 		"parentCode":"210921"
 	},
@@ -155,7 +155,7 @@
 		"code":"210921119",
 		"fullCode":"210921119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大五家子镇",
 		"parentCode":"210921"
 	},
@@ -163,7 +163,7 @@
 		"code":"210921120",
 		"fullCode":"210921120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大板镇",
 		"parentCode":"210921"
 	},
@@ -171,7 +171,7 @@
 		"code":"210921121",
 		"fullCode":"210921121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"招束沟镇",
 		"parentCode":"210921"
 	},
@@ -179,7 +179,7 @@
 		"code":"210921122",
 		"fullCode":"210921122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八家子镇",
 		"parentCode":"210921"
 	},
@@ -187,7 +187,7 @@
 		"code":"210921123",
 		"fullCode":"210921123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蜘蛛山镇",
 		"parentCode":"210921"
 	},
@@ -195,7 +195,7 @@
 		"code":"210921124",
 		"fullCode":"210921124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔营子镇",
 		"parentCode":"210921"
 	},
@@ -203,7 +203,7 @@
 		"code":"210921125",
 		"fullCode":"210921125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎兰营子镇",
 		"parentCode":"210921"
 	},
@@ -211,7 +211,7 @@
 		"code":"210921126",
 		"fullCode":"210921126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七家子镇",
 		"parentCode":"210921"
 	},
@@ -219,7 +219,7 @@
 		"code":"210921127",
 		"fullCode":"210921127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红帽子镇",
 		"parentCode":"210921"
 	},
@@ -227,7 +227,7 @@
 		"code":"210921128",
 		"fullCode":"210921128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫都台镇",
 		"parentCode":"210921"
 	},
@@ -235,7 +235,7 @@
 		"code":"210921129",
 		"fullCode":"210921129000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化石戈镇",
 		"parentCode":"210921"
 	},
@@ -243,7 +243,7 @@
 		"code":"210921130",
 		"fullCode":"210921130000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈达户稍镇",
 		"parentCode":"210921"
 	},
@@ -251,7 +251,7 @@
 		"code":"210921131",
 		"fullCode":"210921131000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老河土镇",
 		"parentCode":"210921"
 	},
@@ -259,7 +259,7 @@
 		"code":"210921132",
 		"fullCode":"210921132000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"210921"
 	},
@@ -267,7 +267,7 @@
 		"code":"210921203",
 		"fullCode":"210921203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧凤沟乡",
 		"parentCode":"210921"
 	},
@@ -275,7 +275,7 @@
 		"code":"210921211",
 		"fullCode":"210921211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苍土乡",
 		"parentCode":"210921"
 	},
@@ -283,7 +283,7 @@
 		"code":"210921222",
 		"fullCode":"210921222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国华乡",
 		"parentCode":"210921"
 	}

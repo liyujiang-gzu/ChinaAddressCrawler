@@ -3,7 +3,7 @@
 		"code":"360124100",
 		"fullCode":"360124100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民和镇",
 		"parentCode":"360124"
 	},
@@ -11,7 +11,7 @@
 		"code":"360124101",
 		"fullCode":"360124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李渡镇",
 		"parentCode":"360124"
 	},
@@ -19,7 +19,7 @@
 		"code":"360124102",
 		"fullCode":"360124102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温圳镇",
 		"parentCode":"360124"
 	},
@@ -27,7 +27,7 @@
 		"code":"360124103",
 		"fullCode":"360124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文港镇",
 		"parentCode":"360124"
 	},
@@ -35,7 +35,7 @@
 		"code":"360124104",
 		"fullCode":"360124104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅庄镇",
 		"parentCode":"360124"
 	},
@@ -43,7 +43,7 @@
 		"code":"360124105",
 		"fullCode":"360124105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张公镇",
 		"parentCode":"360124"
 	},
@@ -51,7 +51,7 @@
 		"code":"360124106",
 		"fullCode":"360124106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗溪镇",
 		"parentCode":"360124"
 	},
@@ -59,7 +59,7 @@
 		"code":"360124107",
 		"fullCode":"360124107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"架桥镇",
 		"parentCode":"360124"
 	},
@@ -67,7 +67,7 @@
 		"code":"360124108",
 		"fullCode":"360124108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前坊镇",
 		"parentCode":"360124"
 	},
@@ -75,7 +75,7 @@
 		"code":"360124200",
 		"fullCode":"360124200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里乡",
 		"parentCode":"360124"
 	},
@@ -83,7 +83,7 @@
 		"code":"360124201",
 		"fullCode":"360124201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二塘乡",
 		"parentCode":"360124"
 	},
@@ -91,7 +91,7 @@
 		"code":"360124202",
 		"fullCode":"360124202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟陵乡",
 		"parentCode":"360124"
 	},
@@ -99,7 +99,7 @@
 		"code":"360124203",
 		"fullCode":"360124203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"池溪乡",
 		"parentCode":"360124"
 	},
@@ -107,7 +107,7 @@
 		"code":"360124204",
 		"fullCode":"360124204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南台乡",
 		"parentCode":"360124"
 	},
@@ -115,7 +115,7 @@
 		"code":"360124205",
 		"fullCode":"360124205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三阳集乡",
 		"parentCode":"360124"
 	},
@@ -123,7 +123,7 @@
 		"code":"360124206",
 		"fullCode":"360124206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里乡",
 		"parentCode":"360124"
 	},
@@ -131,7 +131,7 @@
 		"code":"360124207",
 		"fullCode":"360124207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下埠集乡",
 		"parentCode":"360124"
 	},
@@ -139,7 +139,7 @@
 		"code":"360124208",
 		"fullCode":"360124208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"衙前乡",
 		"parentCode":"360124"
 	},
@@ -147,7 +147,7 @@
 		"code":"360124209",
 		"fullCode":"360124209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白圩乡",
 		"parentCode":"360124"
 	},
@@ -155,7 +155,7 @@
 		"code":"360124210",
 		"fullCode":"360124210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长山晏乡",
 		"parentCode":"360124"
 	},
@@ -163,7 +163,7 @@
 		"code":"360124211",
 		"fullCode":"360124211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉岭乡",
 		"parentCode":"360124"
 	},
@@ -171,7 +171,7 @@
 		"code":"360124500",
 		"fullCode":"360124500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里垦殖场",
 		"parentCode":"360124"
 	}

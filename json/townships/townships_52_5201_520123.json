@@ -3,7 +3,7 @@
 		"code":"520123001",
 		"fullCode":"520123001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙场街道",
 		"parentCode":"520123"
 	},
@@ -11,7 +11,7 @@
 		"code":"520123002",
 		"fullCode":"520123002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳明洞街道",
 		"parentCode":"520123"
 	},
@@ -19,7 +19,7 @@
 		"code":"520123003",
 		"fullCode":"520123003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景阳街道",
 		"parentCode":"520123"
 	},
@@ -27,7 +27,7 @@
 		"code":"520123004",
 		"fullCode":"520123004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎佐街道",
 		"parentCode":"520123"
 	},
@@ -35,7 +35,7 @@
 		"code":"520123005",
 		"fullCode":"520123005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"久长街道",
 		"parentCode":"520123"
 	},
@@ -43,7 +43,7 @@
 		"code":"520123103",
 		"fullCode":"520123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六广镇",
 		"parentCode":"520123"
 	},
@@ -51,7 +51,7 @@
 		"code":"520123104",
 		"fullCode":"520123104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六屯镇",
 		"parentCode":"520123"
 	},
@@ -59,7 +59,7 @@
 		"code":"520123105",
 		"fullCode":"520123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洒坪镇",
 		"parentCode":"520123"
 	},
@@ -67,7 +67,7 @@
 		"code":"520123106",
 		"fullCode":"520123106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六桶镇",
 		"parentCode":"520123"
 	},
@@ -75,7 +75,7 @@
 		"code":"520123107",
 		"fullCode":"520123107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷堡镇",
 		"parentCode":"520123"
 	},
@@ -83,7 +83,7 @@
 		"code":"520123108",
 		"fullCode":"520123108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小箐镇",
 		"parentCode":"520123"
 	},
@@ -91,7 +91,7 @@
 		"code":"520123204",
 		"fullCode":"520123204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石布依族乡",
 		"parentCode":"520123"
 	}

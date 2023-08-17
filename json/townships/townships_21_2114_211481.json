@@ -3,7 +3,7 @@
 		"code":"211481001",
 		"fullCode":"211481001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城街道",
 		"parentCode":"211481"
 	},
@@ -11,7 +11,7 @@
 		"code":"211481002",
 		"fullCode":"211481002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁远街道",
 		"parentCode":"211481"
 	},
@@ -19,7 +19,7 @@
 		"code":"211481004",
 		"fullCode":"211481004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉街道",
 		"parentCode":"211481"
 	},
@@ -27,7 +27,7 @@
 		"code":"211481007",
 		"fullCode":"211481007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四家屯街道",
 		"parentCode":"211481"
 	},
@@ -35,7 +35,7 @@
 		"code":"211481008",
 		"fullCode":"211481008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菊花街道",
 		"parentCode":"211481"
 	},
@@ -43,7 +43,7 @@
 		"code":"211481101",
 		"fullCode":"211481101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹庄镇",
 		"parentCode":"211481"
 	},
@@ -51,7 +51,7 @@
 		"code":"211481103",
 		"fullCode":"211481103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙后所满族镇",
 		"parentCode":"211481"
 	},
@@ -59,7 +59,7 @@
 		"code":"211481104",
 		"fullCode":"211481104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东辛庄满族镇",
 		"parentCode":"211481"
 	},
@@ -67,7 +67,7 @@
 		"code":"211481105",
 		"fullCode":"211481105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭家满族镇",
 		"parentCode":"211481"
 	},
@@ -75,7 +75,7 @@
 		"code":"211481106",
 		"fullCode":"211481106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红崖子镇",
 		"parentCode":"211481"
 	},
@@ -83,7 +83,7 @@
 		"code":"211481107",
 		"fullCode":"211481107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐大堡镇",
 		"parentCode":"211481"
 	},
@@ -91,7 +91,7 @@
 		"code":"211481108",
 		"fullCode":"211481108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高家岭满族镇",
 		"parentCode":"211481"
 	},
@@ -99,7 +99,7 @@
 		"code":"211481201",
 		"fullCode":"211481201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊安满族乡",
 		"parentCode":"211481"
 	},
@@ -107,7 +107,7 @@
 		"code":"211481203",
 		"fullCode":"211481203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元台子满族乡",
 		"parentCode":"211481"
 	},
@@ -115,7 +115,7 @@
 		"code":"211481204",
 		"fullCode":"211481204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔满族乡",
 		"parentCode":"211481"
 	},
@@ -123,7 +123,7 @@
 		"code":"211481206",
 		"fullCode":"211481206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望海满族乡",
 		"parentCode":"211481"
 	},
@@ -131,7 +131,7 @@
 		"code":"211481207",
 		"fullCode":"211481207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘台子满族乡",
 		"parentCode":"211481"
 	},
@@ -139,7 +139,7 @@
 		"code":"211481208",
 		"fullCode":"211481208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大寨满族乡",
 		"parentCode":"211481"
 	},
@@ -147,7 +147,7 @@
 		"code":"211481209",
 		"fullCode":"211481209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南大满族乡",
 		"parentCode":"211481"
 	},
@@ -155,7 +155,7 @@
 		"code":"211481210",
 		"fullCode":"211481210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"围屏满族乡",
 		"parentCode":"211481"
 	},
@@ -163,7 +163,7 @@
 		"code":"211481212",
 		"fullCode":"211481212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碱厂满族乡",
 		"parentCode":"211481"
 	},
@@ -171,7 +171,7 @@
 		"code":"211481213",
 		"fullCode":"211481213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道沟满族乡",
 		"parentCode":"211481"
 	},
@@ -179,7 +179,7 @@
 		"code":"211481215",
 		"fullCode":"211481215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧门满族乡",
 		"parentCode":"211481"
 	},
@@ -187,7 +187,7 @@
 		"code":"211481216",
 		"fullCode":"211481216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"药王满族乡",
 		"parentCode":"211481"
 	},
@@ -195,7 +195,7 @@
 		"code":"211481400",
 		"fullCode":"211481400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴城飞地经济区",
 		"parentCode":"211481"
 	}

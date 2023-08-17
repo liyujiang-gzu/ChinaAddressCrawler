@@ -3,7 +3,7 @@
 		"code":"130684001",
 		"fullCode":"130684001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"130684"
 	},
@@ -11,7 +11,7 @@
 		"code":"130684002",
 		"fullCode":"130684002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"军城街道",
 		"parentCode":"130684"
 	},
@@ -19,7 +19,7 @@
 		"code":"130684003",
 		"fullCode":"130684003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东盛街道",
 		"parentCode":"130684"
 	},
@@ -27,7 +27,7 @@
 		"code":"130684004",
 		"fullCode":"130684004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"130684"
 	},
@@ -35,7 +35,7 @@
 		"code":"130684005",
 		"fullCode":"130684005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华路街道",
 		"parentCode":"130684"
 	},
@@ -43,7 +43,7 @@
 		"code":"130684100",
 		"fullCode":"130684100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方官镇",
 		"parentCode":"130684"
 	},
@@ -51,7 +51,7 @@
 		"code":"130684101",
 		"fullCode":"130684101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城镇",
 		"parentCode":"130684"
 	},
@@ -59,7 +59,7 @@
 		"code":"130684102",
 		"fullCode":"130684102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗庄镇",
 		"parentCode":"130684"
 	},
@@ -67,7 +67,7 @@
 		"code":"130684104",
 		"fullCode":"130684104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛立庄镇",
 		"parentCode":"130684"
 	},
@@ -75,7 +75,7 @@
 		"code":"130684105",
 		"fullCode":"130684105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东马营镇",
 		"parentCode":"130684"
 	},
@@ -83,7 +83,7 @@
 		"code":"130684106",
 		"fullCode":"130684106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛桥镇",
 		"parentCode":"130684"
 	},
@@ -91,7 +91,7 @@
 		"code":"130684107",
 		"fullCode":"130684107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖官营镇",
 		"parentCode":"130684"
 	},
@@ -99,7 +99,7 @@
 		"code":"130684108",
 		"fullCode":"130684108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张六庄镇",
 		"parentCode":"130684"
 	},
@@ -107,7 +107,7 @@
 		"code":"130684109",
 		"fullCode":"130684109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁家营镇",
 		"parentCode":"130684"
 	}

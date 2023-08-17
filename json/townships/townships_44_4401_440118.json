@@ -3,7 +3,7 @@
 		"code":"440118001",
 		"fullCode":"440118001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荔城街道",
 		"parentCode":"440118"
 	},
@@ -11,7 +11,7 @@
 		"code":"440118002",
 		"fullCode":"440118002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"增江街道",
 		"parentCode":"440118"
 	},
@@ -19,7 +19,7 @@
 		"code":"440118003",
 		"fullCode":"440118003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱村街道",
 		"parentCode":"440118"
 	},
@@ -27,7 +27,7 @@
 		"code":"440118004",
 		"fullCode":"440118004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁街道",
 		"parentCode":"440118"
 	},
@@ -35,7 +35,7 @@
 		"code":"440118005",
 		"fullCode":"440118005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荔湖街道",
 		"parentCode":"440118"
 	},
@@ -43,7 +43,7 @@
 		"code":"440118006",
 		"fullCode":"440118006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁西街道",
 		"parentCode":"440118"
 	},
@@ -51,7 +51,7 @@
 		"code":"440118101",
 		"fullCode":"440118101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新塘镇",
 		"parentCode":"440118"
 	},
@@ -59,7 +59,7 @@
 		"code":"440118102",
 		"fullCode":"440118102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石滩镇",
 		"parentCode":"440118"
 	},
@@ -67,7 +67,7 @@
 		"code":"440118103",
 		"fullCode":"440118103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中新镇",
 		"parentCode":"440118"
 	},
@@ -75,7 +75,7 @@
 		"code":"440118104",
 		"fullCode":"440118104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正果镇",
 		"parentCode":"440118"
 	},
@@ -83,7 +83,7 @@
 		"code":"440118105",
 		"fullCode":"440118105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"派潭镇",
 		"parentCode":"440118"
 	},
@@ -91,7 +91,7 @@
 		"code":"440118106",
 		"fullCode":"440118106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小楼镇",
 		"parentCode":"440118"
 	},
@@ -99,7 +99,7 @@
 		"code":"440118107",
 		"fullCode":"440118107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙村镇",
 		"parentCode":"440118"
 	}

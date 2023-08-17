@@ -3,7 +3,7 @@
 		"code":"445302001",
 		"fullCode":"445302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云城街道",
 		"parentCode":"445302"
 	},
@@ -11,7 +11,7 @@
 		"code":"445302002",
 		"fullCode":"445302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高峰街道",
 		"parentCode":"445302"
 	},
@@ -19,7 +19,7 @@
 		"code":"445302003",
 		"fullCode":"445302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口街道",
 		"parentCode":"445302"
 	},
@@ -27,7 +27,7 @@
 		"code":"445302004",
 		"fullCode":"445302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安塘街道",
 		"parentCode":"445302"
 	},
@@ -35,7 +35,7 @@
 		"code":"445302102",
 		"fullCode":"445302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰古镇",
 		"parentCode":"445302"
 	},
@@ -43,7 +43,7 @@
 		"code":"445302103",
 		"fullCode":"445302103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思劳镇",
 		"parentCode":"445302"
 	},
@@ -51,7 +51,7 @@
 		"code":"445302105",
 		"fullCode":"445302105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前锋镇",
 		"parentCode":"445302"
 	},
@@ -59,7 +59,7 @@
 		"code":"445302106",
 		"fullCode":"445302106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南盛镇",
 		"parentCode":"445302"
 	}

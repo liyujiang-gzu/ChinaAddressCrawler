@@ -3,7 +3,7 @@
 		"code":"320724100",
 		"fullCode":"320724100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安镇",
 		"parentCode":"320724"
 	},
@@ -11,7 +11,7 @@
 		"code":"320724101",
 		"fullCode":"320724101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堆沟港镇",
 		"parentCode":"320724"
 	},
@@ -19,7 +19,7 @@
 		"code":"320724102",
 		"fullCode":"320724102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田楼镇",
 		"parentCode":"320724"
 	},
@@ -27,7 +27,7 @@
 		"code":"320724103",
 		"fullCode":"320724103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北陈集镇",
 		"parentCode":"320724"
 	},
@@ -35,7 +35,7 @@
 		"code":"320724104",
 		"fullCode":"320724104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张店镇",
 		"parentCode":"320724"
 	},
@@ -43,7 +43,7 @@
 		"code":"320724105",
 		"fullCode":"320724105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三口镇",
 		"parentCode":"320724"
 	},
@@ -51,7 +51,7 @@
 		"code":"320724106",
 		"fullCode":"320724106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟兴庄镇",
 		"parentCode":"320724"
 	},
@@ -59,7 +59,7 @@
 		"code":"320724107",
 		"fullCode":"320724107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤沟镇",
 		"parentCode":"320724"
 	},
@@ -67,7 +67,7 @@
 		"code":"320724108",
 		"fullCode":"320724108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百禄镇",
 		"parentCode":"320724"
 	},
@@ -75,7 +75,7 @@
 		"code":"320724109",
 		"fullCode":"320724109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新集镇",
 		"parentCode":"320724"
 	},
@@ -83,7 +83,7 @@
 		"code":"320724110",
 		"fullCode":"320724110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李集镇",
 		"parentCode":"320724"
 	}

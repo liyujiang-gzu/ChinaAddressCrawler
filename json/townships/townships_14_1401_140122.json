@@ -3,7 +3,7 @@
 		"code":"140122100",
 		"fullCode":"140122100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄寨镇",
 		"parentCode":"140122"
 	},
@@ -11,7 +11,7 @@
 		"code":"140122101",
 		"fullCode":"140122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大盂镇",
 		"parentCode":"140122"
 	},
@@ -19,7 +19,7 @@
 		"code":"140122102",
 		"fullCode":"140122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东黄水镇",
 		"parentCode":"140122"
 	},
@@ -27,7 +27,7 @@
 		"code":"140122103",
 		"fullCode":"140122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥屯镇",
 		"parentCode":"140122"
 	},
@@ -35,7 +35,7 @@
 		"code":"140122200",
 		"fullCode":"140122200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高村乡",
 		"parentCode":"140122"
 	},
@@ -43,7 +43,7 @@
 		"code":"140122201",
 		"fullCode":"140122201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侯村乡",
 		"parentCode":"140122"
 	},
@@ -51,7 +51,7 @@
 		"code":"140122202",
 		"fullCode":"140122202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凌井店乡",
 		"parentCode":"140122"
 	},
@@ -59,7 +59,7 @@
 		"code":"140122203",
 		"fullCode":"140122203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西凌井乡",
 		"parentCode":"140122"
 	},
@@ -67,7 +67,7 @@
 		"code":"140122205",
 		"fullCode":"140122205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨兴乡",
 		"parentCode":"140122"
 	},
@@ -75,7 +75,7 @@
 		"code":"140122400",
 		"fullCode":"140122400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中心镇",
 		"parentCode":"140122"
 	}

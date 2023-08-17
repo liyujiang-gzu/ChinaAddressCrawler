@@ -3,7 +3,7 @@
 		"code":"441802006",
 		"fullCode":"441802006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤城街道",
 		"parentCode":"441802"
 	},
@@ -11,7 +11,7 @@
 		"code":"441802007",
 		"fullCode":"441802007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"441802"
 	},
@@ -19,7 +19,7 @@
 		"code":"441802008",
 		"fullCode":"441802008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洲心街道",
 		"parentCode":"441802"
 	},
@@ -27,7 +27,7 @@
 		"code":"441802009",
 		"fullCode":"441802009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横荷街道",
 		"parentCode":"441802"
 	},
@@ -35,7 +35,7 @@
 		"code":"441802103",
 		"fullCode":"441802103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"源潭镇",
 		"parentCode":"441802"
 	},
@@ -43,7 +43,7 @@
 		"code":"441802105",
 		"fullCode":"441802105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙塘镇",
 		"parentCode":"441802"
 	},
@@ -51,7 +51,7 @@
 		"code":"441802106",
 		"fullCode":"441802106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石角镇",
 		"parentCode":"441802"
 	},
@@ -59,7 +59,7 @@
 		"code":"441802107",
 		"fullCode":"441802107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"飞来峡镇",
 		"parentCode":"441802"
 	},
@@ -67,7 +67,7 @@
 		"code":"441802400",
 		"fullCode":"441802400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清远市高新技术产业开发区",
 		"parentCode":"441802"
 	},
@@ -75,7 +75,7 @@
 		"code":"441802450",
 		"fullCode":"441802450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清远市国营银盏林场",
 		"parentCode":"441802"
 	}

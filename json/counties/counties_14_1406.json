@@ -3,7 +3,7 @@
 		"code":"140602",
 		"fullCode":"140602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"朔城区",
 		"parentCode":"1406"
 	},
@@ -11,7 +11,7 @@
 		"code":"140603",
 		"fullCode":"140603000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平鲁区",
 		"parentCode":"1406"
 	},
@@ -19,7 +19,7 @@
 		"code":"140621",
 		"fullCode":"140621000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"山阴县",
 		"parentCode":"1406"
 	},
@@ -27,7 +27,7 @@
 		"code":"140622",
 		"fullCode":"140622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"应县",
 		"parentCode":"1406"
 	},
@@ -35,7 +35,7 @@
 		"code":"140623",
 		"fullCode":"140623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"右玉县",
 		"parentCode":"1406"
 	},
@@ -43,7 +43,7 @@
 		"code":"140671",
 		"fullCode":"140671000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"山西朔州经济开发区",
 		"parentCode":"1406"
 	},
@@ -51,7 +51,7 @@
 		"code":"140681",
 		"fullCode":"140681000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"怀仁市",
 		"parentCode":"1406"
 	}

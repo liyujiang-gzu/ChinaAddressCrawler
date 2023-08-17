@@ -3,7 +3,7 @@
 		"code":"140829100",
 		"fullCode":"140829100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圣人涧镇",
 		"parentCode":"140829"
 	},
@@ -11,7 +11,7 @@
 		"code":"140829101",
 		"fullCode":"140829101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常乐镇",
 		"parentCode":"140829"
 	},
@@ -19,7 +19,7 @@
 		"code":"140829102",
 		"fullCode":"140829102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张店镇",
 		"parentCode":"140829"
 	},
@@ -27,7 +27,7 @@
 		"code":"140829103",
 		"fullCode":"140829103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张村镇",
 		"parentCode":"140829"
 	},
@@ -35,7 +35,7 @@
 		"code":"140829104",
 		"fullCode":"140829104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹川镇",
 		"parentCode":"140829"
 	},
@@ -43,7 +43,7 @@
 		"code":"140829105",
 		"fullCode":"140829105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三门镇",
 		"parentCode":"140829"
 	},
@@ -51,7 +51,7 @@
 		"code":"140829106",
 		"fullCode":"140829106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"部官镇",
 		"parentCode":"140829"
 	},
@@ -59,7 +59,7 @@
 		"code":"140829107",
 		"fullCode":"140829107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪池镇",
 		"parentCode":"140829"
 	},
@@ -67,7 +67,7 @@
 		"code":"140829201",
 		"fullCode":"140829201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜马乡",
 		"parentCode":"140829"
 	},
@@ -75,7 +75,7 @@
 		"code":"140829400",
 		"fullCode":"140829400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平陆县社区",
 		"parentCode":"140829"
 	}

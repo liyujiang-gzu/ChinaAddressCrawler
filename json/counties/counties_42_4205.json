@@ -3,7 +3,7 @@
 		"code":"420502",
 		"fullCode":"420502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西陵区",
 		"parentCode":"4205"
 	},
@@ -11,7 +11,7 @@
 		"code":"420503",
 		"fullCode":"420503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"伍家岗区",
 		"parentCode":"4205"
 	},
@@ -19,7 +19,7 @@
 		"code":"420504",
 		"fullCode":"420504000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"点军区",
 		"parentCode":"4205"
 	},
@@ -27,7 +27,7 @@
 		"code":"420505",
 		"fullCode":"420505000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"猇亭区",
 		"parentCode":"4205"
 	},
@@ -35,7 +35,7 @@
 		"code":"420506",
 		"fullCode":"420506000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"夷陵区",
 		"parentCode":"4205"
 	},
@@ -43,7 +43,7 @@
 		"code":"420525",
 		"fullCode":"420525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"远安县",
 		"parentCode":"4205"
 	},
@@ -51,7 +51,7 @@
 		"code":"420526",
 		"fullCode":"420526000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴山县",
 		"parentCode":"4205"
 	},
@@ -59,7 +59,7 @@
 		"code":"420527",
 		"fullCode":"420527000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"秭归县",
 		"parentCode":"4205"
 	},
@@ -67,7 +67,7 @@
 		"code":"420528",
 		"fullCode":"420528000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长阳土家族自治县",
 		"parentCode":"4205"
 	},
@@ -75,7 +75,7 @@
 		"code":"420529",
 		"fullCode":"420529000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五峰土家族自治县",
 		"parentCode":"4205"
 	},
@@ -83,7 +83,7 @@
 		"code":"420581",
 		"fullCode":"420581000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宜都市",
 		"parentCode":"4205"
 	},
@@ -91,7 +91,7 @@
 		"code":"420582",
 		"fullCode":"420582000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"当阳市",
 		"parentCode":"4205"
 	},
@@ -99,7 +99,7 @@
 		"code":"420583",
 		"fullCode":"420583000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"枝江市",
 		"parentCode":"4205"
 	}

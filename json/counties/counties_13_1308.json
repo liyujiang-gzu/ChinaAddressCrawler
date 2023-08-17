@@ -3,7 +3,7 @@
 		"code":"130802",
 		"fullCode":"130802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"双桥区",
 		"parentCode":"1308"
 	},
@@ -11,7 +11,7 @@
 		"code":"130803",
 		"fullCode":"130803000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"双滦区",
 		"parentCode":"1308"
 	},
@@ -19,7 +19,7 @@
 		"code":"130804",
 		"fullCode":"130804000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鹰手营子矿区",
 		"parentCode":"1308"
 	},
@@ -27,7 +27,7 @@
 		"code":"130821",
 		"fullCode":"130821000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"承德县",
 		"parentCode":"1308"
 	},
@@ -35,7 +35,7 @@
 		"code":"130822",
 		"fullCode":"130822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴隆县",
 		"parentCode":"1308"
 	},
@@ -43,7 +43,7 @@
 		"code":"130824",
 		"fullCode":"130824000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"滦平县",
 		"parentCode":"1308"
 	},
@@ -51,7 +51,7 @@
 		"code":"130825",
 		"fullCode":"130825000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"隆化县",
 		"parentCode":"1308"
 	},
@@ -59,7 +59,7 @@
 		"code":"130826",
 		"fullCode":"130826000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丰宁满族自治县",
 		"parentCode":"1308"
 	},
@@ -67,7 +67,7 @@
 		"code":"130827",
 		"fullCode":"130827000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宽城满族自治县",
 		"parentCode":"1308"
 	},
@@ -75,7 +75,7 @@
 		"code":"130828",
 		"fullCode":"130828000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"围场满族蒙古族自治县",
 		"parentCode":"1308"
 	},
@@ -83,7 +83,7 @@
 		"code":"130871",
 		"fullCode":"130871000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"承德高新技术产业开发区",
 		"parentCode":"1308"
 	},
@@ -91,7 +91,7 @@
 		"code":"130881",
 		"fullCode":"130881000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平泉市",
 		"parentCode":"1308"
 	}

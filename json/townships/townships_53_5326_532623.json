@@ -3,7 +3,7 @@
 		"code":"532623101",
 		"fullCode":"532623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西洒镇",
 		"parentCode":"532623"
 	},
@@ -11,7 +11,7 @@
 		"code":"532623102",
 		"fullCode":"532623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴街镇",
 		"parentCode":"532623"
 	},
@@ -19,7 +19,7 @@
 		"code":"532623201",
 		"fullCode":"532623201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蚌谷乡",
 		"parentCode":"532623"
 	},
@@ -27,7 +27,7 @@
 		"code":"532623202",
 		"fullCode":"532623202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花塘乡",
 		"parentCode":"532623"
 	},
@@ -35,7 +35,7 @@
 		"code":"532623203",
 		"fullCode":"532623203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新马街乡",
 		"parentCode":"532623"
 	},
@@ -43,7 +43,7 @@
 		"code":"532623204",
 		"fullCode":"532623204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏林乡",
 		"parentCode":"532623"
 	},
@@ -51,7 +51,7 @@
 		"code":"532623205",
 		"fullCode":"532623205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"法斗乡",
 		"parentCode":"532623"
 	},
@@ -59,7 +59,7 @@
 		"code":"532623206",
 		"fullCode":"532623206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董马乡",
 		"parentCode":"532623"
 	},
@@ -67,7 +67,7 @@
 		"code":"532623207",
 		"fullCode":"532623207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡街乡",
 		"parentCode":"532623"
 	}

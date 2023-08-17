@@ -3,7 +3,7 @@
 		"code":"210802001",
 		"fullCode":"210802001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八田地街道",
 		"parentCode":"210802"
 	},
@@ -11,7 +11,7 @@
 		"code":"210802002",
 		"fullCode":"210802002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建丰街道",
 		"parentCode":"210802"
 	},
@@ -19,7 +19,7 @@
 		"code":"210802003",
 		"fullCode":"210802003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设街道",
 		"parentCode":"210802"
 	},
@@ -27,7 +27,7 @@
 		"code":"210802004",
 		"fullCode":"210802004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"跃进街道",
 		"parentCode":"210802"
 	},
@@ -35,7 +35,7 @@
 		"code":"210802007",
 		"fullCode":"210802007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新建街道",
 		"parentCode":"210802"
 	},
@@ -43,7 +43,7 @@
 		"code":"210802008",
 		"fullCode":"210802008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴街道",
 		"parentCode":"210802"
 	}

@@ -3,7 +3,7 @@
 		"code":"411003001",
 		"fullCode":"411003001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许由街道",
 		"parentCode":"411003"
 	},
@@ -11,7 +11,7 @@
 		"code":"411003002",
 		"fullCode":"411003002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新元街道",
 		"parentCode":"411003"
 	},
@@ -19,7 +19,7 @@
 		"code":"411003003",
 		"fullCode":"411003003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓庄街道",
 		"parentCode":"411003"
 	},
@@ -27,7 +27,7 @@
 		"code":"411003004",
 		"fullCode":"411003004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌盛街道",
 		"parentCode":"411003"
 	},
@@ -35,7 +35,7 @@
 		"code":"411003005",
 		"fullCode":"411003005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小召街道",
 		"parentCode":"411003"
 	},
@@ -43,7 +43,7 @@
 		"code":"411003100",
 		"fullCode":"411003100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"将官池镇",
 		"parentCode":"411003"
 	},
@@ -51,7 +51,7 @@
 		"code":"411003101",
 		"fullCode":"411003101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五女店镇",
 		"parentCode":"411003"
 	},
@@ -59,7 +59,7 @@
 		"code":"411003102",
 		"fullCode":"411003102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚集镇",
 		"parentCode":"411003"
 	},
@@ -67,7 +67,7 @@
 		"code":"411003103",
 		"fullCode":"411003103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏桥镇",
 		"parentCode":"411003"
 	},
@@ -75,7 +75,7 @@
 		"code":"411003104",
 		"fullCode":"411003104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋李集镇",
 		"parentCode":"411003"
 	},
@@ -83,7 +83,7 @@
 		"code":"411003105",
 		"fullCode":"411003105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张潘镇",
 		"parentCode":"411003"
 	},
@@ -91,7 +91,7 @@
 		"code":"411003106",
 		"fullCode":"411003106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵井镇",
 		"parentCode":"411003"
 	},
@@ -99,7 +99,7 @@
 		"code":"411003200",
 		"fullCode":"411003200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈曹乡",
 		"parentCode":"411003"
 	},
@@ -107,7 +107,7 @@
 		"code":"411003203",
 		"fullCode":"411003203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河街乡",
 		"parentCode":"411003"
 	},
@@ -115,7 +115,7 @@
 		"code":"411003204",
 		"fullCode":"411003204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂村乡",
 		"parentCode":"411003"
 	},
@@ -123,7 +123,7 @@
 		"code":"411003205",
 		"fullCode":"411003205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"椹涧乡",
 		"parentCode":"411003"
 	},
@@ -131,7 +131,7 @@
 		"code":"411003206",
 		"fullCode":"411003206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆林乡",
 		"parentCode":"411003"
 	},
@@ -139,7 +139,7 @@
 		"code":"411003208",
 		"fullCode":"411003208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艾庄回族乡",
 		"parentCode":"411003"
 	}

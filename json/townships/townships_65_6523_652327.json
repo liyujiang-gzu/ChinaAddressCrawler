@@ -3,7 +3,7 @@
 		"code":"652327100",
 		"fullCode":"652327100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉木萨尔镇",
 		"parentCode":"652327"
 	},
@@ -11,7 +11,7 @@
 		"code":"652327101",
 		"fullCode":"652327101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三台镇",
 		"parentCode":"652327"
 	},
@@ -19,7 +19,7 @@
 		"code":"652327102",
 		"fullCode":"652327102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉子街镇",
 		"parentCode":"652327"
 	},
@@ -27,7 +27,7 @@
 		"code":"652327103",
 		"fullCode":"652327103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北庭镇",
 		"parentCode":"652327"
 	},
@@ -35,7 +35,7 @@
 		"code":"652327104",
 		"fullCode":"652327104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二工镇",
 		"parentCode":"652327"
 	},
@@ -43,7 +43,7 @@
 		"code":"652327105",
 		"fullCode":"652327105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大有镇",
 		"parentCode":"652327"
 	},
@@ -51,7 +51,7 @@
 		"code":"652327106",
 		"fullCode":"652327106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五彩湾镇",
 		"parentCode":"652327"
 	},
@@ -59,7 +59,7 @@
 		"code":"652327202",
 		"fullCode":"652327202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆阳湖乡",
 		"parentCode":"652327"
 	},
@@ -67,7 +67,7 @@
 		"code":"652327203",
 		"fullCode":"652327203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老台乡",
 		"parentCode":"652327"
 	},
@@ -75,7 +75,7 @@
 		"code":"652327205",
 		"fullCode":"652327205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新地乡",
 		"parentCode":"652327"
 	},
@@ -83,7 +83,7 @@
 		"code":"652327500",
 		"fullCode":"652327500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团农六师红旗农场",
 		"parentCode":"652327"
 	}

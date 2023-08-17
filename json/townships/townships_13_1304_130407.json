@@ -3,7 +3,7 @@
 		"code":"130407100",
 		"fullCode":"130407100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肥乡镇",
 		"parentCode":"130407"
 	},
@@ -11,7 +11,7 @@
 		"code":"130407101",
 		"fullCode":"130407101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天台山镇",
 		"parentCode":"130407"
 	},
@@ -19,7 +19,7 @@
 		"code":"130407102",
 		"fullCode":"130407102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛安镇镇",
 		"parentCode":"130407"
 	},
@@ -27,7 +27,7 @@
 		"code":"130407103",
 		"fullCode":"130407103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大寺上镇",
 		"parentCode":"130407"
 	},
@@ -35,7 +35,7 @@
 		"code":"130407104",
 		"fullCode":"130407104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东漳堡镇",
 		"parentCode":"130407"
 	},
@@ -43,7 +43,7 @@
 		"code":"130407105",
 		"fullCode":"130407105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛演堡镇",
 		"parentCode":"130407"
 	},
@@ -51,7 +51,7 @@
 		"code":"130407106",
 		"fullCode":"130407106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西吕营镇",
 		"parentCode":"130407"
 	},
@@ -59,7 +59,7 @@
 		"code":"130407107",
 		"fullCode":"130407107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元固镇",
 		"parentCode":"130407"
 	},
@@ -67,7 +67,7 @@
 		"code":"130407108",
 		"fullCode":"130407108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北高镇",
 		"parentCode":"130407"
 	}

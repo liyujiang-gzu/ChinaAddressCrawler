@@ -3,7 +3,7 @@
 		"code":"441882100",
 		"fullCode":"441882100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连州镇",
 		"parentCode":"441882"
 	},
@@ -11,7 +11,7 @@
 		"code":"441882101",
 		"fullCode":"441882101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星子镇",
 		"parentCode":"441882"
 	},
@@ -19,7 +19,7 @@
 		"code":"441882102",
 		"fullCode":"441882102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大路边镇",
 		"parentCode":"441882"
 	},
@@ -27,7 +27,7 @@
 		"code":"441882103",
 		"fullCode":"441882103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙坪镇",
 		"parentCode":"441882"
 	},
@@ -35,7 +35,7 @@
 		"code":"441882104",
 		"fullCode":"441882104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西岸镇",
 		"parentCode":"441882"
 	},
@@ -43,7 +43,7 @@
 		"code":"441882105",
 		"fullCode":"441882105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保安镇",
 		"parentCode":"441882"
 	},
@@ -51,7 +51,7 @@
 		"code":"441882106",
 		"fullCode":"441882106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰阳镇",
 		"parentCode":"441882"
 	},
@@ -59,7 +59,7 @@
 		"code":"441882107",
 		"fullCode":"441882107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东陂镇",
 		"parentCode":"441882"
 	},
@@ -67,7 +67,7 @@
 		"code":"441882109",
 		"fullCode":"441882109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九陂镇",
 		"parentCode":"441882"
 	},
@@ -75,7 +75,7 @@
 		"code":"441882118",
 		"fullCode":"441882118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西江镇",
 		"parentCode":"441882"
 	},
@@ -83,7 +83,7 @@
 		"code":"441882200",
 		"fullCode":"441882200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑶安瑶族乡",
 		"parentCode":"441882"
 	},
@@ -91,7 +91,7 @@
 		"code":"441882201",
 		"fullCode":"441882201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三水瑶族乡",
 		"parentCode":"441882"
 	}

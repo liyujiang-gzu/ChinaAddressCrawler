@@ -3,7 +3,7 @@
 		"code":"440306017",
 		"fullCode":"440306017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安街道",
 		"parentCode":"440306"
 	},
@@ -11,7 +11,7 @@
 		"code":"440306018",
 		"fullCode":"440306018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西乡街道",
 		"parentCode":"440306"
 	},
@@ -19,7 +19,7 @@
 		"code":"440306019",
 		"fullCode":"440306019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"航城街道",
 		"parentCode":"440306"
 	},
@@ -27,7 +27,7 @@
 		"code":"440306020",
 		"fullCode":"440306020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福永街道",
 		"parentCode":"440306"
 	},
@@ -35,7 +35,7 @@
 		"code":"440306021",
 		"fullCode":"440306021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福海街道",
 		"parentCode":"440306"
 	},
@@ -43,7 +43,7 @@
 		"code":"440306022",
 		"fullCode":"440306022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙井街道",
 		"parentCode":"440306"
 	},
@@ -51,7 +51,7 @@
 		"code":"440306023",
 		"fullCode":"440306023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥街道",
 		"parentCode":"440306"
 	},
@@ -59,7 +59,7 @@
 		"code":"440306024",
 		"fullCode":"440306024000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松岗街道",
 		"parentCode":"440306"
 	},
@@ -67,7 +67,7 @@
 		"code":"440306025",
 		"fullCode":"440306025000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕罗街道",
 		"parentCode":"440306"
 	},
@@ -75,7 +75,7 @@
 		"code":"440306026",
 		"fullCode":"440306026000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石岩街道",
 		"parentCode":"440306"
 	},
@@ -83,7 +83,7 @@
 		"code":"440306400",
 		"fullCode":"440306400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"深圳市宝安国际机场",
 		"parentCode":"440306"
 	}

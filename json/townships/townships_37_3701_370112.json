@@ -3,7 +3,7 @@
 		"code":"370112001",
 		"fullCode":"370112001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山大路街道",
 		"parentCode":"370112"
 	},
@@ -11,7 +11,7 @@
 		"code":"370112002",
 		"fullCode":"370112002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪家楼街道",
 		"parentCode":"370112"
 	},
@@ -19,7 +19,7 @@
 		"code":"370112003",
 		"fullCode":"370112003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风街道",
 		"parentCode":"370112"
 	},
@@ -27,7 +27,7 @@
 		"code":"370112004",
 		"fullCode":"370112004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"全福街道",
 		"parentCode":"370112"
 	},
@@ -35,7 +35,7 @@
 		"code":"370112007",
 		"fullCode":"370112007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华山街道",
 		"parentCode":"370112"
 	},
@@ -43,7 +43,7 @@
 		"code":"370112008",
 		"fullCode":"370112008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷花路街道",
 		"parentCode":"370112"
 	},
@@ -51,7 +51,7 @@
 		"code":"370112009",
 		"fullCode":"370112009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王舍人街道",
 		"parentCode":"370112"
 	},
@@ -59,7 +59,7 @@
 		"code":"370112010",
 		"fullCode":"370112010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲍山街道",
 		"parentCode":"370112"
 	},
@@ -67,7 +67,7 @@
 		"code":"370112011",
 		"fullCode":"370112011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭店街道",
 		"parentCode":"370112"
 	},
@@ -75,7 +75,7 @@
 		"code":"370112012",
 		"fullCode":"370112012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐冶街道",
 		"parentCode":"370112"
 	},
@@ -83,7 +83,7 @@
 		"code":"370112013",
 		"fullCode":"370112013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港沟街道",
 		"parentCode":"370112"
 	},
@@ -91,7 +91,7 @@
 		"code":"370112016",
 		"fullCode":"370112016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董家街道",
 		"parentCode":"370112"
 	},
@@ -99,7 +99,7 @@
 		"code":"370112017",
 		"fullCode":"370112017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彩石街道",
 		"parentCode":"370112"
 	},
@@ -107,7 +107,7 @@
 		"code":"370112018",
 		"fullCode":"370112018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仲宫街道",
 		"parentCode":"370112"
 	},
@@ -115,7 +115,7 @@
 		"code":"370112019",
 		"fullCode":"370112019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳埠街道",
 		"parentCode":"370112"
 	},
@@ -123,7 +123,7 @@
 		"code":"370112020",
 		"fullCode":"370112020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐王街道",
 		"parentCode":"370112"
 	},
@@ -131,7 +131,7 @@
 		"code":"370112021",
 		"fullCode":"370112021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西营街道",
 		"parentCode":"370112"
 	}

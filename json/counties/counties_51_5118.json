@@ -3,7 +3,7 @@
 		"code":"511802",
 		"fullCode":"511802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"雨城区",
 		"parentCode":"5118"
 	},
@@ -11,7 +11,7 @@
 		"code":"511803",
 		"fullCode":"511803000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"名山区",
 		"parentCode":"5118"
 	},
@@ -19,7 +19,7 @@
 		"code":"511822",
 		"fullCode":"511822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"荥经县",
 		"parentCode":"5118"
 	},
@@ -27,7 +27,7 @@
 		"code":"511823",
 		"fullCode":"511823000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汉源县",
 		"parentCode":"5118"
 	},
@@ -35,7 +35,7 @@
 		"code":"511824",
 		"fullCode":"511824000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石棉县",
 		"parentCode":"5118"
 	},
@@ -43,7 +43,7 @@
 		"code":"511825",
 		"fullCode":"511825000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天全县",
 		"parentCode":"5118"
 	},
@@ -51,7 +51,7 @@
 		"code":"511826",
 		"fullCode":"511826000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"芦山县",
 		"parentCode":"5118"
 	},
@@ -59,7 +59,7 @@
 		"code":"511827",
 		"fullCode":"511827000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宝兴县",
 		"parentCode":"5118"
 	}

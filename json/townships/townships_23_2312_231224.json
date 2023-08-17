@@ -3,7 +3,7 @@
 		"code":"231224001",
 		"fullCode":"231224001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉康街道",
 		"parentCode":"231224"
 	},
@@ -11,7 +11,7 @@
 		"code":"231224002",
 		"fullCode":"231224002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆瑞街道",
 		"parentCode":"231224"
 	},
@@ -19,7 +19,7 @@
 		"code":"231224003",
 		"fullCode":"231224003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平顺街道",
 		"parentCode":"231224"
 	},
@@ -27,7 +27,7 @@
 		"code":"231224004",
 		"fullCode":"231224004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安泰街道",
 		"parentCode":"231224"
 	},
@@ -35,7 +35,7 @@
 		"code":"231224101",
 		"fullCode":"231224101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆安镇",
 		"parentCode":"231224"
 	},
@@ -43,7 +43,7 @@
 		"code":"231224102",
 		"fullCode":"231224102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民乐镇",
 		"parentCode":"231224"
 	},
@@ -51,7 +51,7 @@
 		"code":"231224103",
 		"fullCode":"231224103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大罗镇",
 		"parentCode":"231224"
 	},
@@ -59,7 +59,7 @@
 		"code":"231224104",
 		"fullCode":"231224104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安镇",
 		"parentCode":"231224"
 	},
@@ -67,7 +67,7 @@
 		"code":"231224105",
 		"fullCode":"231224105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勤劳镇",
 		"parentCode":"231224"
 	},
@@ -75,7 +75,7 @@
 		"code":"231224106",
 		"fullCode":"231224106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"久胜镇",
 		"parentCode":"231224"
 	},
@@ -83,7 +83,7 @@
 		"code":"231224107",
 		"fullCode":"231224107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同乐镇",
 		"parentCode":"231224"
 	},
@@ -91,7 +91,7 @@
 		"code":"231224108",
 		"fullCode":"231224108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳河镇",
 		"parentCode":"231224"
 	},
@@ -99,7 +99,7 @@
 		"code":"231224201",
 		"fullCode":"231224201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建民乡",
 		"parentCode":"231224"
 	},
@@ -107,7 +107,7 @@
 		"code":"231224202",
 		"fullCode":"231224202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨宝山乡",
 		"parentCode":"231224"
 	},
@@ -115,7 +115,7 @@
 		"code":"231224206",
 		"fullCode":"231224206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰收乡",
 		"parentCode":"231224"
 	},
@@ -123,7 +123,7 @@
 		"code":"231224208",
 		"fullCode":"231224208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"发展乡",
 		"parentCode":"231224"
 	},
@@ -131,7 +131,7 @@
 		"code":"231224210",
 		"fullCode":"231224210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"致富乡",
 		"parentCode":"231224"
 	},
@@ -139,7 +139,7 @@
 		"code":"231224211",
 		"fullCode":"231224211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欢胜乡",
 		"parentCode":"231224"
 	},
@@ -147,7 +147,7 @@
 		"code":"231224400",
 		"fullCode":"231224400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国有林场管理局",
 		"parentCode":"231224"
 	},
@@ -155,7 +155,7 @@
 		"code":"231224500",
 		"fullCode":"231224500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳河农场",
 		"parentCode":"231224"
 	}

@@ -3,7 +3,7 @@
 		"code":"371424001",
 		"fullCode":"371424001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邢侗街道",
 		"parentCode":"371424"
 	},
@@ -11,7 +11,7 @@
 		"code":"371424002",
 		"fullCode":"371424002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恒源街道",
 		"parentCode":"371424"
 	},
@@ -19,7 +19,7 @@
 		"code":"371424003",
 		"fullCode":"371424003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临盘街道",
 		"parentCode":"371424"
 	},
@@ -27,7 +27,7 @@
 		"code":"371424100",
 		"fullCode":"371424100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临邑镇",
 		"parentCode":"371424"
 	},
@@ -35,7 +35,7 @@
 		"code":"371424102",
 		"fullCode":"371424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临南镇",
 		"parentCode":"371424"
 	},
@@ -43,7 +43,7 @@
 		"code":"371424103",
 		"fullCode":"371424103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德平镇",
 		"parentCode":"371424"
 	},
@@ -51,7 +51,7 @@
 		"code":"371424104",
 		"fullCode":"371424104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林子镇",
 		"parentCode":"371424"
 	},
@@ -59,7 +59,7 @@
 		"code":"371424105",
 		"fullCode":"371424105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"371424"
 	},
@@ -67,7 +67,7 @@
 		"code":"371424106",
 		"fullCode":"371424106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟寺镇",
 		"parentCode":"371424"
 	},
@@ -75,7 +75,7 @@
 		"code":"371424107",
 		"fullCode":"371424107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翟家镇",
 		"parentCode":"371424"
 	},
@@ -83,7 +83,7 @@
 		"code":"371424108",
 		"fullCode":"371424108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"理合务镇",
 		"parentCode":"371424"
 	},
@@ -91,7 +91,7 @@
 		"code":"371424202",
 		"fullCode":"371424202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宿安乡",
 		"parentCode":"371424"
 	}

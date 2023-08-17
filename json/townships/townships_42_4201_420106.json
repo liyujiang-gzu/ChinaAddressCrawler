@@ -3,7 +3,7 @@
 		"code":"420106001",
 		"fullCode":"420106001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"积玉桥街道",
 		"parentCode":"420106"
 	},
@@ -11,7 +11,7 @@
 		"code":"420106002",
 		"fullCode":"420106002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨园街道",
 		"parentCode":"420106"
 	},
@@ -19,7 +19,7 @@
 		"code":"420106003",
 		"fullCode":"420106003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐家棚街道",
 		"parentCode":"420106"
 	},
@@ -27,7 +27,7 @@
 		"code":"420106005",
 		"fullCode":"420106005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"粮道街道",
 		"parentCode":"420106"
 	},
@@ -35,7 +35,7 @@
 		"code":"420106006",
 		"fullCode":"420106006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华路街道",
 		"parentCode":"420106"
 	},
@@ -43,7 +43,7 @@
 		"code":"420106007",
 		"fullCode":"420106007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄鹤楼街道",
 		"parentCode":"420106"
 	},
@@ -51,7 +51,7 @@
 		"code":"420106008",
 		"fullCode":"420106008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫阳街道",
 		"parentCode":"420106"
 	},
@@ -59,7 +59,7 @@
 		"code":"420106009",
 		"fullCode":"420106009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙洲街道",
 		"parentCode":"420106"
 	},
@@ -67,7 +67,7 @@
 		"code":"420106010",
 		"fullCode":"420106010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"首义路街道",
 		"parentCode":"420106"
 	},
@@ -75,7 +75,7 @@
 		"code":"420106011",
 		"fullCode":"420106011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中南路街道",
 		"parentCode":"420106"
 	},
@@ -83,7 +83,7 @@
 		"code":"420106012",
 		"fullCode":"420106012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水果湖街道",
 		"parentCode":"420106"
 	},
@@ -91,7 +91,7 @@
 		"code":"420106013",
 		"fullCode":"420106013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珞珈山街道",
 		"parentCode":"420106"
 	},
@@ -99,7 +99,7 @@
 		"code":"420106014",
 		"fullCode":"420106014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石洞街道",
 		"parentCode":"420106"
 	},
@@ -107,7 +107,7 @@
 		"code":"420106015",
 		"fullCode":"420106015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖街道",
 		"parentCode":"420106"
 	},
@@ -115,7 +115,7 @@
 		"code":"420106490",
 		"fullCode":"420106490000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖风景区街道（武昌）",
 		"parentCode":"420106"
 	}

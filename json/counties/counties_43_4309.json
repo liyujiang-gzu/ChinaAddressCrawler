@@ -3,7 +3,7 @@
 		"code":"430902",
 		"fullCode":"430902000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"资阳区",
 		"parentCode":"4309"
 	},
@@ -11,7 +11,7 @@
 		"code":"430903",
 		"fullCode":"430903000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"赫山区",
 		"parentCode":"4309"
 	},
@@ -19,7 +19,7 @@
 		"code":"430921",
 		"fullCode":"430921000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南县",
 		"parentCode":"4309"
 	},
@@ -27,7 +27,7 @@
 		"code":"430922",
 		"fullCode":"430922000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桃江县",
 		"parentCode":"4309"
 	},
@@ -35,7 +35,7 @@
 		"code":"430923",
 		"fullCode":"430923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安化县",
 		"parentCode":"4309"
 	},
@@ -43,7 +43,7 @@
 		"code":"430971",
 		"fullCode":"430971000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"益阳市大通湖管理区",
 		"parentCode":"4309"
 	},
@@ -51,7 +51,7 @@
 		"code":"430972",
 		"fullCode":"430972000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"湖南益阳高新技术产业园区",
 		"parentCode":"4309"
 	},
@@ -59,7 +59,7 @@
 		"code":"430981",
 		"fullCode":"430981000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沅江市",
 		"parentCode":"4309"
 	}

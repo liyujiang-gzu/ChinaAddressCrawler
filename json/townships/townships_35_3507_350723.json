@@ -3,7 +3,7 @@
 		"code":"350723100",
 		"fullCode":"350723100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杭川镇",
 		"parentCode":"350723"
 	},
@@ -11,7 +11,7 @@
 		"code":"350723101",
 		"fullCode":"350723101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨里镇",
 		"parentCode":"350723"
 	},
@@ -19,7 +19,7 @@
 		"code":"350723102",
 		"fullCode":"350723102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"止马镇",
 		"parentCode":"350723"
 	},
@@ -27,7 +27,7 @@
 		"code":"350723200",
 		"fullCode":"350723200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸾凤乡",
 		"parentCode":"350723"
 	},
@@ -35,7 +35,7 @@
 		"code":"350723201",
 		"fullCode":"350723201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇仁乡",
 		"parentCode":"350723"
 	},
@@ -43,7 +43,7 @@
 		"code":"350723202",
 		"fullCode":"350723202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李坊乡",
 		"parentCode":"350723"
 	},
@@ -51,7 +51,7 @@
 		"code":"350723203",
 		"fullCode":"350723203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华桥乡",
 		"parentCode":"350723"
 	},
@@ -59,7 +59,7 @@
 		"code":"350723204",
 		"fullCode":"350723204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"司前乡",
 		"parentCode":"350723"
 	}

@@ -3,7 +3,7 @@
 		"code":"230112001",
 		"fullCode":"230112001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金城街道",
 		"parentCode":"230112"
 	},
@@ -11,7 +11,7 @@
 		"code":"230112002",
 		"fullCode":"230112002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金都街道",
 		"parentCode":"230112"
 	},
@@ -19,7 +19,7 @@
 		"code":"230112003",
 		"fullCode":"230112003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通城街道",
 		"parentCode":"230112"
 	},
@@ -27,7 +27,7 @@
 		"code":"230112004",
 		"fullCode":"230112004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东街道",
 		"parentCode":"230112"
 	},
@@ -35,7 +35,7 @@
 		"code":"230112005",
 		"fullCode":"230112005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿什河街道",
 		"parentCode":"230112"
 	},
@@ -43,7 +43,7 @@
 		"code":"230112006",
 		"fullCode":"230112006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉泉街道",
 		"parentCode":"230112"
 	},
@@ -51,7 +51,7 @@
 		"code":"230112007",
 		"fullCode":"230112007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新利街道",
 		"parentCode":"230112"
 	},
@@ -59,7 +59,7 @@
 		"code":"230112008",
 		"fullCode":"230112008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双丰街道",
 		"parentCode":"230112"
 	},
@@ -67,7 +67,7 @@
 		"code":"230112009",
 		"fullCode":"230112009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舍利街道",
 		"parentCode":"230112"
 	},
@@ -75,7 +75,7 @@
 		"code":"230112010",
 		"fullCode":"230112010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小岭街道",
 		"parentCode":"230112"
 	},
@@ -83,7 +83,7 @@
 		"code":"230112011",
 		"fullCode":"230112011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚沟街道",
 		"parentCode":"230112"
 	},
@@ -91,7 +91,7 @@
 		"code":"230112012",
 		"fullCode":"230112012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"交界街道",
 		"parentCode":"230112"
 	},
@@ -99,7 +99,7 @@
 		"code":"230112013",
 		"fullCode":"230112013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"料甸街道",
 		"parentCode":"230112"
 	},
@@ -107,7 +107,7 @@
 		"code":"230112014",
 		"fullCode":"230112014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蜚克图街道",
 		"parentCode":"230112"
 	},
@@ -115,7 +115,7 @@
 		"code":"230112015",
 		"fullCode":"230112015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨树街道",
 		"parentCode":"230112"
 	},
@@ -123,7 +123,7 @@
 		"code":"230112107",
 		"fullCode":"230112107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山镇",
 		"parentCode":"230112"
 	},
@@ -131,7 +131,7 @@
 		"code":"230112108",
 		"fullCode":"230112108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松峰山镇",
 		"parentCode":"230112"
 	},
@@ -139,7 +139,7 @@
 		"code":"230112109",
 		"fullCode":"230112109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星镇",
 		"parentCode":"230112"
 	},
@@ -147,7 +147,7 @@
 		"code":"230112112",
 		"fullCode":"230112112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金龙山镇",
 		"parentCode":"230112"
 	},
@@ -155,7 +155,7 @@
 		"code":"230112503",
 		"fullCode":"230112503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿城原种场",
 		"parentCode":"230112"
 	}

@@ -3,7 +3,7 @@
 		"code":"610404001",
 		"fullCode":"610404001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山街街道",
 		"parentCode":"610404"
 	},
@@ -11,7 +11,7 @@
 		"code":"610404002",
 		"fullCode":"610404002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文汇路街道",
 		"parentCode":"610404"
 	},
@@ -19,7 +19,7 @@
 		"code":"610404003",
 		"fullCode":"610404003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴路街道",
 		"parentCode":"610404"
 	},
@@ -27,7 +27,7 @@
 		"code":"610404004",
 		"fullCode":"610404004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渭阳街道",
 		"parentCode":"610404"
 	},
@@ -35,7 +35,7 @@
 		"code":"610404005",
 		"fullCode":"610404005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渭城街道",
 		"parentCode":"610404"
 	},
@@ -43,7 +43,7 @@
 		"code":"610404006",
 		"fullCode":"610404006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑店街道",
 		"parentCode":"610404"
 	},
@@ -51,7 +51,7 @@
 		"code":"610404007",
 		"fullCode":"610404007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳街道",
 		"parentCode":"610404"
 	},
@@ -59,7 +59,7 @@
 		"code":"610404008",
 		"fullCode":"610404008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周陵街道",
 		"parentCode":"610404"
 	},
@@ -67,7 +67,7 @@
 		"code":"610404009",
 		"fullCode":"610404009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"底张街道",
 		"parentCode":"610404"
 	},
@@ -75,7 +75,7 @@
 		"code":"610404010",
 		"fullCode":"610404010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北杜街道",
 		"parentCode":"610404"
 	}

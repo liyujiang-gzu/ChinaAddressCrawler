@@ -3,7 +3,7 @@
 		"code":"450902001",
 		"fullCode":"450902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉城街道",
 		"parentCode":"450902"
 	},
@@ -11,7 +11,7 @@
 		"code":"450902002",
 		"fullCode":"450902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南江街道",
 		"parentCode":"450902"
 	},
@@ -19,7 +19,7 @@
 		"code":"450902003",
 		"fullCode":"450902003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"450902"
 	},
@@ -27,7 +27,7 @@
 		"code":"450902004",
 		"fullCode":"450902004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"450902"
 	},
@@ -35,7 +35,7 @@
 		"code":"450902005",
 		"fullCode":"450902005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"名山街道",
 		"parentCode":"450902"
 	},
@@ -43,7 +43,7 @@
 		"code":"450902100",
 		"fullCode":"450902100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大塘镇",
 		"parentCode":"450902"
 	},
@@ -51,7 +51,7 @@
 		"code":"450902105",
 		"fullCode":"450902105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茂林镇",
 		"parentCode":"450902"
 	},
@@ -59,7 +59,7 @@
 		"code":"450902106",
 		"fullCode":"450902106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁东镇",
 		"parentCode":"450902"
 	},
@@ -67,7 +67,7 @@
 		"code":"450902113",
 		"fullCode":"450902113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁厚镇",
 		"parentCode":"450902"
 	}

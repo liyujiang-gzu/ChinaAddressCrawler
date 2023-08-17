@@ -3,7 +3,7 @@
 		"code":"320105001",
 		"fullCode":"320105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫愁湖街道",
 		"parentCode":"320105"
 	},
@@ -11,7 +11,7 @@
 		"code":"320105002",
 		"fullCode":"320105002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙洲街道",
 		"parentCode":"320105"
 	},
@@ -19,7 +19,7 @@
 		"code":"320105003",
 		"fullCode":"320105003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双闸街道",
 		"parentCode":"320105"
 	},
@@ -27,7 +27,7 @@
 		"code":"320105004",
 		"fullCode":"320105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江心洲街道",
 		"parentCode":"320105"
 	},
@@ -35,7 +35,7 @@
 		"code":"320105006",
 		"fullCode":"320105006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆街道",
 		"parentCode":"320105"
 	},
@@ -43,7 +43,7 @@
 		"code":"320105007",
 		"fullCode":"320105007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南苑街道",
 		"parentCode":"320105"
 	},
@@ -51,7 +51,7 @@
 		"code":"320105400",
 		"fullCode":"320105400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建邺区新城科技园",
 		"parentCode":"320105"
 	},
@@ -59,7 +59,7 @@
 		"code":"320105401",
 		"fullCode":"320105401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建邺区河西中央商务区",
 		"parentCode":"320105"
 	},
@@ -67,7 +67,7 @@
 		"code":"320105402",
 		"fullCode":"320105402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建邺区江东商业文化旅游中心区",
 		"parentCode":"320105"
 	},
@@ -75,7 +75,7 @@
 		"code":"320105403",
 		"fullCode":"320105403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中新南京生态科技岛",
 		"parentCode":"320105"
 	}

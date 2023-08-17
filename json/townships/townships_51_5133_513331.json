@@ -3,7 +3,7 @@
 		"code":"513331100",
 		"fullCode":"513331100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设镇",
 		"parentCode":"513331"
 	},
@@ -11,7 +11,7 @@
 		"code":"513331101",
 		"fullCode":"513331101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿察镇",
 		"parentCode":"513331"
 	},
@@ -19,7 +19,7 @@
 		"code":"513331102",
 		"fullCode":"513331102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河坡镇",
 		"parentCode":"513331"
 	},
@@ -27,7 +27,7 @@
 		"code":"513331103",
 		"fullCode":"513331103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盖玉镇",
 		"parentCode":"513331"
 	},
@@ -35,7 +35,7 @@
 		"code":"513331200",
 		"fullCode":"513331200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙乡",
 		"parentCode":"513331"
 	},
@@ -43,7 +43,7 @@
 		"code":"513331201",
 		"fullCode":"513331201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绒盖乡",
 		"parentCode":"513331"
 	},
@@ -51,7 +51,7 @@
 		"code":"513331202",
 		"fullCode":"513331202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章都乡",
 		"parentCode":"513331"
 	},
@@ -59,7 +59,7 @@
 		"code":"513331203",
 		"fullCode":"513331203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻绒乡",
 		"parentCode":"513331"
 	},
@@ -67,7 +67,7 @@
 		"code":"513331205",
 		"fullCode":"513331205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热加乡",
 		"parentCode":"513331"
 	},
@@ -75,7 +75,7 @@
 		"code":"513331206",
 		"fullCode":"513331206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"登龙乡",
 		"parentCode":"513331"
 	},
@@ -83,7 +83,7 @@
 		"code":"513331207",
 		"fullCode":"513331207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赠科乡",
 		"parentCode":"513331"
 	},
@@ -91,7 +91,7 @@
 		"code":"513331209",
 		"fullCode":"513331209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻邛乡",
 		"parentCode":"513331"
 	},
@@ -99,7 +99,7 @@
 		"code":"513331210",
 		"fullCode":"513331210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽西乡",
 		"parentCode":"513331"
 	},
@@ -107,7 +107,7 @@
 		"code":"513331211",
 		"fullCode":"513331211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳塔乡",
 		"parentCode":"513331"
 	},
@@ -115,7 +115,7 @@
 		"code":"513331212",
 		"fullCode":"513331212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安孜乡",
 		"parentCode":"513331"
 	},
@@ -123,7 +123,7 @@
 		"code":"513331214",
 		"fullCode":"513331214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙马乡",
 		"parentCode":"513331"
 	}

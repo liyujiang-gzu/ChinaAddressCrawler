@@ -3,7 +3,7 @@
 		"code":"350203",
 		"fullCode":"350203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"思明区",
 		"parentCode":"3502"
 	},
@@ -11,7 +11,7 @@
 		"code":"350205",
 		"fullCode":"350205000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海沧区",
 		"parentCode":"3502"
 	},
@@ -19,7 +19,7 @@
 		"code":"350206",
 		"fullCode":"350206000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"湖里区",
 		"parentCode":"3502"
 	},
@@ -27,7 +27,7 @@
 		"code":"350211",
 		"fullCode":"350211000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"集美区",
 		"parentCode":"3502"
 	},
@@ -35,7 +35,7 @@
 		"code":"350212",
 		"fullCode":"350212000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"同安区",
 		"parentCode":"3502"
 	},
@@ -43,7 +43,7 @@
 		"code":"350213",
 		"fullCode":"350213000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"翔安区",
 		"parentCode":"3502"
 	}

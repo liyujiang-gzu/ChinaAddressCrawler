@@ -3,7 +3,7 @@
 		"code":"330727001",
 		"fullCode":"330727001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安文街道",
 		"parentCode":"330727"
 	},
@@ -11,7 +11,7 @@
 		"code":"330727002",
 		"fullCode":"330727002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新渥街道",
 		"parentCode":"330727"
 	},
@@ -19,7 +19,7 @@
 		"code":"330727103",
 		"fullCode":"330727103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁川镇",
 		"parentCode":"330727"
 	},
@@ -27,7 +27,7 @@
 		"code":"330727104",
 		"fullCode":"330727104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大盘镇",
 		"parentCode":"330727"
 	},
@@ -35,7 +35,7 @@
 		"code":"330727105",
 		"fullCode":"330727105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方前镇",
 		"parentCode":"330727"
 	},
@@ -43,7 +43,7 @@
 		"code":"330727106",
 		"fullCode":"330727106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉山镇",
 		"parentCode":"330727"
 	},
@@ -51,7 +51,7 @@
 		"code":"330727107",
 		"fullCode":"330727107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚湖镇",
 		"parentCode":"330727"
 	},
@@ -59,7 +59,7 @@
 		"code":"330727108",
 		"fullCode":"330727108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冷水镇",
 		"parentCode":"330727"
 	},
@@ -67,7 +67,7 @@
 		"code":"330727109",
 		"fullCode":"330727109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尖山镇",
 		"parentCode":"330727"
 	},
@@ -75,7 +75,7 @@
 		"code":"330727201",
 		"fullCode":"330727201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双峰乡",
 		"parentCode":"330727"
 	},
@@ -83,7 +83,7 @@
 		"code":"330727203",
 		"fullCode":"330727203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双溪乡",
 		"parentCode":"330727"
 	},
@@ -91,7 +91,7 @@
 		"code":"330727205",
 		"fullCode":"330727205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窈川乡",
 		"parentCode":"330727"
 	},
@@ -99,7 +99,7 @@
 		"code":"330727211",
 		"fullCode":"330727211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九和乡",
 		"parentCode":"330727"
 	},
@@ -107,7 +107,7 @@
 		"code":"330727212",
 		"fullCode":"330727212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘峰乡",
 		"parentCode":"330727"
 	}

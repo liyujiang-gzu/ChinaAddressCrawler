@@ -3,7 +3,7 @@
 		"code":"360702001",
 		"fullCode":"360702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放街道",
 		"parentCode":"360702"
 	},
@@ -11,7 +11,7 @@
 		"code":"360702002",
 		"fullCode":"360702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赣江街道",
 		"parentCode":"360702"
 	},
@@ -19,7 +19,7 @@
 		"code":"360702003",
 		"fullCode":"360702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南外街道",
 		"parentCode":"360702"
 	},
@@ -27,7 +27,7 @@
 		"code":"360702004",
 		"fullCode":"360702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东外街道",
 		"parentCode":"360702"
 	},
@@ -35,7 +35,7 @@
 		"code":"360702005",
 		"fullCode":"360702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水南街道",
 		"parentCode":"360702"
 	},
@@ -43,7 +43,7 @@
 		"code":"360702006",
 		"fullCode":"360702006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章江街道",
 		"parentCode":"360702"
 	},
@@ -51,7 +51,7 @@
 		"code":"360702091",
 		"fullCode":"360702091000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄金岭街道",
 		"parentCode":"360702"
 	},
@@ -59,7 +59,7 @@
 		"code":"360702100",
 		"fullCode":"360702100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙石镇",
 		"parentCode":"360702"
 	},
@@ -67,7 +67,7 @@
 		"code":"360702101",
 		"fullCode":"360702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水东镇",
 		"parentCode":"360702"
 	},
@@ -75,7 +75,7 @@
 		"code":"360702103",
 		"fullCode":"360702103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖边镇",
 		"parentCode":"360702"
 	},
@@ -83,7 +83,7 @@
 		"code":"360702104",
 		"fullCode":"360702104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河镇",
 		"parentCode":"360702"
 	},
@@ -91,7 +91,7 @@
 		"code":"360702105",
 		"fullCode":"360702105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水西镇",
 		"parentCode":"360702"
 	},
@@ -99,7 +99,7 @@
 		"code":"360702190",
 		"fullCode":"360702190000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蟠龙镇",
 		"parentCode":"360702"
 	},
@@ -107,7 +107,7 @@
 		"code":"360702191",
 		"fullCode":"360702191000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭口镇",
 		"parentCode":"360702"
 	},
@@ -115,7 +115,7 @@
 		"code":"360702192",
 		"fullCode":"360702192000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭东镇",
 		"parentCode":"360702"
 	},
@@ -123,7 +123,7 @@
 		"code":"360702400",
 		"fullCode":"360702400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赣州经济技术开发区",
 		"parentCode":"360702"
 	},
@@ -131,7 +131,7 @@
 		"code":"360702401",
 		"fullCode":"360702401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河工业园",
 		"parentCode":"360702"
 	}

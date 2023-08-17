@@ -3,7 +3,7 @@
 		"code":"150421100",
 		"fullCode":"150421100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天山镇",
 		"parentCode":"150421"
 	},
@@ -11,7 +11,7 @@
 		"code":"150421101",
 		"fullCode":"150421101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天山口镇",
 		"parentCode":"150421"
 	},
@@ -19,7 +19,7 @@
 		"code":"150421102",
 		"fullCode":"150421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双胜镇",
 		"parentCode":"150421"
 	},
@@ -27,7 +27,7 @@
 		"code":"150421103",
 		"fullCode":"150421103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坤都镇",
 		"parentCode":"150421"
 	},
@@ -35,7 +35,7 @@
 		"code":"150421104",
 		"fullCode":"150421104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦花镇",
 		"parentCode":"150421"
 	},
@@ -43,7 +43,7 @@
 		"code":"150421105",
 		"fullCode":"150421105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绍根镇",
 		"parentCode":"150421"
 	},
@@ -51,7 +51,7 @@
 		"code":"150421106",
 		"fullCode":"150421106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎嘎斯台镇",
 		"parentCode":"150421"
 	},
@@ -59,7 +59,7 @@
 		"code":"150421200",
 		"fullCode":"150421200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民乡",
 		"parentCode":"150421"
 	},
@@ -67,7 +67,7 @@
 		"code":"150421201",
 		"fullCode":"150421201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先锋乡",
 		"parentCode":"150421"
 	},
@@ -75,7 +75,7 @@
 		"code":"150421202",
 		"fullCode":"150421202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罕苏木苏木",
 		"parentCode":"150421"
 	},
@@ -83,7 +83,7 @@
 		"code":"150421203",
 		"fullCode":"150421203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛罕塔拉苏木",
 		"parentCode":"150421"
 	},
@@ -91,7 +91,7 @@
 		"code":"150421204",
 		"fullCode":"150421204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴拉奇如德苏木",
 		"parentCode":"150421"
 	},
@@ -99,7 +99,7 @@
 		"code":"150421205",
 		"fullCode":"150421205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰哈达乡",
 		"parentCode":"150421"
 	},
@@ -107,7 +107,7 @@
 		"code":"150421206",
 		"fullCode":"150421206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦温都尔苏木",
 		"parentCode":"150421"
 	},
@@ -115,7 +115,7 @@
 		"code":"150421400",
 		"fullCode":"150421400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"轻工食品产业园",
 		"parentCode":"150421"
 	},
@@ -123,7 +123,7 @@
 		"code":"150421401",
 		"fullCode":"150421401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新能源产业园",
 		"parentCode":"150421"
 	},
@@ -131,7 +131,7 @@
 		"code":"150421402",
 		"fullCode":"150421402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绍根煤碳及煤化工产业园",
 		"parentCode":"150421"
 	},
@@ -139,7 +139,7 @@
 		"code":"150421403",
 		"fullCode":"150421403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罕乌拉街道",
 		"parentCode":"150421"
 	},
@@ -147,7 +147,7 @@
 		"code":"150421404",
 		"fullCode":"150421404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欧沐沦街道",
 		"parentCode":"150421"
 	}

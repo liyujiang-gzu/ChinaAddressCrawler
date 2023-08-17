@@ -3,7 +3,7 @@
 		"code":"140925100",
 		"fullCode":"140925100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰镇",
 		"parentCode":"140925"
 	},
@@ -11,7 +11,7 @@
 		"code":"140925101",
 		"fullCode":"140925101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳方口镇",
 		"parentCode":"140925"
 	},
@@ -19,7 +19,7 @@
 		"code":"140925102",
 		"fullCode":"140925102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东寨镇",
 		"parentCode":"140925"
 	},
@@ -27,7 +27,7 @@
 		"code":"140925103",
 		"fullCode":"140925103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石家庄镇",
 		"parentCode":"140925"
 	},
@@ -35,7 +35,7 @@
 		"code":"140925104",
 		"fullCode":"140925104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁化镇",
 		"parentCode":"140925"
 	},
@@ -43,7 +43,7 @@
 		"code":"140925200",
 		"fullCode":"140925200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薛家洼乡",
 		"parentCode":"140925"
 	},
@@ -51,7 +51,7 @@
 		"code":"140925201",
 		"fullCode":"140925201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余庄乡",
 		"parentCode":"140925"
 	},
@@ -59,7 +59,7 @@
 		"code":"140925202",
 		"fullCode":"140925202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涔山乡",
 		"parentCode":"140925"
 	},
@@ -67,7 +67,7 @@
 		"code":"140925204",
 		"fullCode":"140925204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西马坊乡",
 		"parentCode":"140925"
 	},
@@ -75,7 +75,7 @@
 		"code":"140925206",
 		"fullCode":"140925206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迭台寺乡",
 		"parentCode":"140925"
 	},
@@ -83,7 +83,7 @@
 		"code":"140925208",
 		"fullCode":"140925208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀道乡",
 		"parentCode":"140925"
 	},
@@ -91,7 +91,7 @@
 		"code":"140925209",
 		"fullCode":"140925209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东马坊乡",
 		"parentCode":"140925"
 	},
@@ -99,7 +99,7 @@
 		"code":"140925400",
 		"fullCode":"140925400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳方口煤矿",
 		"parentCode":"140925"
 	},
@@ -107,7 +107,7 @@
 		"code":"140925401",
 		"fullCode":"140925401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁武县居民办事处",
 		"parentCode":"140925"
 	}

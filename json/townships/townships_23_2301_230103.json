@@ -3,7 +3,7 @@
 		"code":"230103001",
 		"fullCode":"230103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花园街道",
 		"parentCode":"230103"
 	},
@@ -11,7 +11,7 @@
 		"code":"230103002",
 		"fullCode":"230103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奋斗路街道",
 		"parentCode":"230103"
 	},
@@ -19,7 +19,7 @@
 		"code":"230103003",
 		"fullCode":"230103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"革新街道",
 		"parentCode":"230103"
 	},
@@ -27,7 +27,7 @@
 		"code":"230103004",
 		"fullCode":"230103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文化街道",
 		"parentCode":"230103"
 	},
@@ -35,7 +35,7 @@
 		"code":"230103005",
 		"fullCode":"230103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大成街道",
 		"parentCode":"230103"
 	},
@@ -43,7 +43,7 @@
 		"code":"230103006",
 		"fullCode":"230103006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦家街道",
 		"parentCode":"230103"
 	},
@@ -51,7 +51,7 @@
 		"code":"230103007",
 		"fullCode":"230103007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣市街道",
 		"parentCode":"230103"
 	},
@@ -59,7 +59,7 @@
 		"code":"230103009",
 		"fullCode":"230103009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燎原街道",
 		"parentCode":"230103"
 	},
@@ -67,7 +67,7 @@
 		"code":"230103010",
 		"fullCode":"230103010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松花江街道",
 		"parentCode":"230103"
 	},
@@ -75,7 +75,7 @@
 		"code":"230103011",
 		"fullCode":"230103011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲线街道",
 		"parentCode":"230103"
 	},
@@ -83,7 +83,7 @@
 		"code":"230103012",
 		"fullCode":"230103012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通达街道",
 		"parentCode":"230103"
 	},
@@ -91,7 +91,7 @@
 		"code":"230103013",
 		"fullCode":"230103013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七政街道",
 		"parentCode":"230103"
 	},
@@ -99,7 +99,7 @@
 		"code":"230103015",
 		"fullCode":"230103015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和兴路街道",
 		"parentCode":"230103"
 	},
@@ -107,7 +107,7 @@
 		"code":"230103016",
 		"fullCode":"230103016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈西街道",
 		"parentCode":"230103"
 	},
@@ -115,7 +115,7 @@
 		"code":"230103017",
 		"fullCode":"230103017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保健路街道",
 		"parentCode":"230103"
 	},
@@ -123,7 +123,7 @@
 		"code":"230103018",
 		"fullCode":"230103018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先锋路街道",
 		"parentCode":"230103"
 	},
@@ -131,7 +131,7 @@
 		"code":"230103019",
 		"fullCode":"230103019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新春街道",
 		"parentCode":"230103"
 	},
@@ -139,7 +139,7 @@
 		"code":"230103020",
 		"fullCode":"230103020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"跃进街道",
 		"parentCode":"230103"
 	},
@@ -147,7 +147,7 @@
 		"code":"230103101",
 		"fullCode":"230103101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王岗镇",
 		"parentCode":"230103"
 	},
@@ -155,7 +155,7 @@
 		"code":"230103201",
 		"fullCode":"230103201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗满族乡",
 		"parentCode":"230103"
 	},
@@ -163,7 +163,7 @@
 		"code":"230103500",
 		"fullCode":"230103500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗农场",
 		"parentCode":"230103"
 	},
@@ -171,7 +171,7 @@
 		"code":"230103579",
 		"fullCode":"230103579000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岗区农垦",
 		"parentCode":"230103"
 	}

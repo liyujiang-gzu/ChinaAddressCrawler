@@ -3,7 +3,7 @@
 		"code":"410783001",
 		"fullCode":"410783001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲西街道",
 		"parentCode":"410783"
 	},
@@ -11,7 +11,7 @@
 		"code":"410783002",
 		"fullCode":"410783002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲东街道",
 		"parentCode":"410783"
 	},
@@ -19,7 +19,7 @@
 		"code":"410783003",
 		"fullCode":"410783003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南蒲街道",
 		"parentCode":"410783"
 	},
@@ -27,7 +27,7 @@
 		"code":"410783004",
 		"fullCode":"410783004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲北街道",
 		"parentCode":"410783"
 	},
@@ -35,7 +35,7 @@
 		"code":"410783005",
 		"fullCode":"410783005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魏庄街道",
 		"parentCode":"410783"
 	},
@@ -43,7 +43,7 @@
 		"code":"410783100",
 		"fullCode":"410783100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁栾镇",
 		"parentCode":"410783"
 	},
@@ -51,7 +51,7 @@
 		"code":"410783101",
 		"fullCode":"410783101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樊相镇",
 		"parentCode":"410783"
 	},
@@ -59,7 +59,7 @@
 		"code":"410783102",
 		"fullCode":"410783102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恼里镇",
 		"parentCode":"410783"
 	},
@@ -67,7 +67,7 @@
 		"code":"410783103",
 		"fullCode":"410783103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常村镇",
 		"parentCode":"410783"
 	},
@@ -75,7 +75,7 @@
 		"code":"410783104",
 		"fullCode":"410783104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵堤镇",
 		"parentCode":"410783"
 	},
@@ -83,7 +83,7 @@
 		"code":"410783105",
 		"fullCode":"410783105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟岗镇",
 		"parentCode":"410783"
 	},
@@ -91,7 +91,7 @@
 		"code":"410783106",
 		"fullCode":"410783106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满村镇",
 		"parentCode":"410783"
 	},
@@ -99,7 +99,7 @@
 		"code":"410783107",
 		"fullCode":"410783107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苗寨镇",
 		"parentCode":"410783"
 	},
@@ -107,7 +107,7 @@
 		"code":"410783108",
 		"fullCode":"410783108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张三寨镇",
 		"parentCode":"410783"
 	},
@@ -115,7 +115,7 @@
 		"code":"410783109",
 		"fullCode":"410783109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方里镇",
 		"parentCode":"410783"
 	},
@@ -123,7 +123,7 @@
 		"code":"410783110",
 		"fullCode":"410783110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佘家镇",
 		"parentCode":"410783"
 	},
@@ -131,7 +131,7 @@
 		"code":"410783201",
 		"fullCode":"410783201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦岗乡",
 		"parentCode":"410783"
 	},
@@ -139,7 +139,7 @@
 		"code":"410783202",
 		"fullCode":"410783202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武邱乡",
 		"parentCode":"410783"
 	},
@@ -147,7 +147,7 @@
 		"code":"410783460",
 		"fullCode":"410783460000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河南长垣起重工业园区管理委员会",
 		"parentCode":"410783"
 	}

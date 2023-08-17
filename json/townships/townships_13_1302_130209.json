@@ -3,7 +3,7 @@
 		"code":"130209100",
 		"fullCode":"130209100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐海镇",
 		"parentCode":"130209"
 	},
@@ -11,7 +11,7 @@
 		"code":"130209112",
 		"fullCode":"130209112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海镇",
 		"parentCode":"130209"
 	},
@@ -19,7 +19,7 @@
 		"code":"130209113",
 		"fullCode":"130209113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳赞镇",
 		"parentCode":"130209"
 	},
@@ -27,7 +27,7 @@
 		"code":"130209401",
 		"fullCode":"130209401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"一农场",
 		"parentCode":"130209"
 	},
@@ -35,7 +35,7 @@
 		"code":"130209403",
 		"fullCode":"130209403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三农场",
 		"parentCode":"130209"
 	},
@@ -43,7 +43,7 @@
 		"code":"130209404",
 		"fullCode":"130209404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四农场",
 		"parentCode":"130209"
 	},
@@ -51,7 +51,7 @@
 		"code":"130209405",
 		"fullCode":"130209405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五农场",
 		"parentCode":"130209"
 	},
@@ -59,7 +59,7 @@
 		"code":"130209406",
 		"fullCode":"130209406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六农场",
 		"parentCode":"130209"
 	},
@@ -67,7 +67,7 @@
 		"code":"130209407",
 		"fullCode":"130209407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七农场",
 		"parentCode":"130209"
 	},
@@ -75,7 +75,7 @@
 		"code":"130209408",
 		"fullCode":"130209408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八农场",
 		"parentCode":"130209"
 	},
@@ -83,7 +83,7 @@
 		"code":"130209409",
 		"fullCode":"130209409000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九农场",
 		"parentCode":"130209"
 	},
@@ -91,7 +91,7 @@
 		"code":"130209410",
 		"fullCode":"130209410000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十农场",
 		"parentCode":"130209"
 	},
@@ -99,7 +99,7 @@
 		"code":"130209411",
 		"fullCode":"130209411000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十一农场",
 		"parentCode":"130209"
 	},
@@ -107,7 +107,7 @@
 		"code":"130209412",
 		"fullCode":"130209412000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里滩养殖场",
 		"parentCode":"130209"
 	},
@@ -115,7 +115,7 @@
 		"code":"130209413",
 		"fullCode":"130209413000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里海养殖场",
 		"parentCode":"130209"
 	},
@@ -123,7 +123,7 @@
 		"code":"130209414",
 		"fullCode":"130209414000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐山湾国际旅游岛",
 		"parentCode":"130209"
 	},
@@ -131,7 +131,7 @@
 		"code":"130209450",
 		"fullCode":"130209450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南堡经济开发区",
 		"parentCode":"130209"
 	},
@@ -139,7 +139,7 @@
 		"code":"130209451",
 		"fullCode":"130209451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹妃甸工业区",
 		"parentCode":"130209"
 	},
@@ -147,7 +147,7 @@
 		"code":"130209452",
 		"fullCode":"130209452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹妃甸新城",
 		"parentCode":"130209"
 	}

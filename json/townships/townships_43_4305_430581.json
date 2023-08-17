@@ -3,7 +3,7 @@
 		"code":"430581001",
 		"fullCode":"430581001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辕门口街道",
 		"parentCode":"430581"
 	},
@@ -11,7 +11,7 @@
 		"code":"430581002",
 		"fullCode":"430581002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎春亭街道",
 		"parentCode":"430581"
 	},
@@ -19,7 +19,7 @@
 		"code":"430581003",
 		"fullCode":"430581003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"法相岩街道",
 		"parentCode":"430581"
 	},
@@ -27,7 +27,7 @@
 		"code":"430581004",
 		"fullCode":"430581004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水西门街道",
 		"parentCode":"430581"
 	},
@@ -35,7 +35,7 @@
 		"code":"430581100",
 		"fullCode":"430581100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓元泰镇",
 		"parentCode":"430581"
 	},
@@ -43,7 +43,7 @@
 		"code":"430581101",
 		"fullCode":"430581101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾头桥镇",
 		"parentCode":"430581"
 	},
@@ -51,7 +51,7 @@
 		"code":"430581102",
 		"fullCode":"430581102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文坪镇",
 		"parentCode":"430581"
 	},
@@ -59,7 +59,7 @@
 		"code":"430581103",
 		"fullCode":"430581103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荆竹铺镇",
 		"parentCode":"430581"
 	},
@@ -67,7 +67,7 @@
 		"code":"430581104",
 		"fullCode":"430581104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稠树塘镇",
 		"parentCode":"430581"
 	},
@@ -75,7 +75,7 @@
 		"code":"430581105",
 		"fullCode":"430581105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓家铺镇",
 		"parentCode":"430581"
 	},
@@ -83,7 +83,7 @@
 		"code":"430581106",
 		"fullCode":"430581106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙溪镇",
 		"parentCode":"430581"
 	},
@@ -91,7 +91,7 @@
 		"code":"430581107",
 		"fullCode":"430581107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"司马冲镇",
 		"parentCode":"430581"
 	},
@@ -99,7 +99,7 @@
 		"code":"430581108",
 		"fullCode":"430581108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦桥镇",
 		"parentCode":"430581"
 	},
@@ -107,7 +107,7 @@
 		"code":"430581109",
 		"fullCode":"430581109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双牌镇",
 		"parentCode":"430581"
 	},
@@ -115,7 +115,7 @@
 		"code":"430581110",
 		"fullCode":"430581110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大甸镇",
 		"parentCode":"430581"
 	},
@@ -123,7 +123,7 @@
 		"code":"430581204",
 		"fullCode":"430581204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坪乡",
 		"parentCode":"430581"
 	},
@@ -131,7 +131,7 @@
 		"code":"430581205",
 		"fullCode":"430581205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晏田乡",
 		"parentCode":"430581"
 	},
@@ -139,7 +139,7 @@
 		"code":"430581207",
 		"fullCode":"430581207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水浸坪乡",
 		"parentCode":"430581"
 	}

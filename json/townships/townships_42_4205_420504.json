@@ -3,7 +3,7 @@
 		"code":"420504001",
 		"fullCode":"420504001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"点军街道",
 		"parentCode":"420504"
 	},
@@ -11,7 +11,7 @@
 		"code":"420504101",
 		"fullCode":"420504101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艾家镇",
 		"parentCode":"420504"
 	},
@@ -19,7 +19,7 @@
 		"code":"420504102",
 		"fullCode":"420504102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥边镇",
 		"parentCode":"420504"
 	},
@@ -27,7 +27,7 @@
 		"code":"420504201",
 		"fullCode":"420504201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联棚乡",
 		"parentCode":"420504"
 	},
@@ -35,7 +35,7 @@
 		"code":"420504202",
 		"fullCode":"420504202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土城乡",
 		"parentCode":"420504"
 	}

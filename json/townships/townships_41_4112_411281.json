@@ -3,7 +3,7 @@
 		"code":"411281001",
 		"fullCode":"411281001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千秋路街道",
 		"parentCode":"411281"
 	},
@@ -11,7 +11,7 @@
 		"code":"411281002",
 		"fullCode":"411281002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳路街道",
 		"parentCode":"411281"
 	},
@@ -19,7 +19,7 @@
 		"code":"411281003",
 		"fullCode":"411281003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新义街街道",
 		"parentCode":"411281"
 	},
@@ -27,7 +27,7 @@
 		"code":"411281004",
 		"fullCode":"411281004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常村路街道",
 		"parentCode":"411281"
 	},
@@ -35,7 +35,7 @@
 		"code":"411281005",
 		"fullCode":"411281005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰山路街道",
 		"parentCode":"411281"
 	},
@@ -43,7 +43,7 @@
 		"code":"411281006",
 		"fullCode":"411281006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新区街道",
 		"parentCode":"411281"
 	},
@@ -51,7 +51,7 @@
 		"code":"411281007",
 		"fullCode":"411281007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东区街道",
 		"parentCode":"411281"
 	}

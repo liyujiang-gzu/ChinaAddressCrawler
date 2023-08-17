@@ -3,7 +3,7 @@
 		"code":"411671011",
 		"fullCode":"411671011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太昊路街道",
 		"parentCode":"411671"
 	},
@@ -11,7 +11,7 @@
 		"code":"411671012",
 		"fullCode":"411671012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淮河路街道",
 		"parentCode":"411671"
 	}

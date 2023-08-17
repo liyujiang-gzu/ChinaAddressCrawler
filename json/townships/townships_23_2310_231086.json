@@ -3,7 +3,7 @@
 		"code":"231086100",
 		"fullCode":"231086100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东宁镇",
 		"parentCode":"231086"
 	},
@@ -11,7 +11,7 @@
 		"code":"231086101",
 		"fullCode":"231086101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔口镇",
 		"parentCode":"231086"
 	},
@@ -19,7 +19,7 @@
 		"code":"231086102",
 		"fullCode":"231086102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大肚川镇",
 		"parentCode":"231086"
 	},
@@ -27,7 +27,7 @@
 		"code":"231086103",
 		"fullCode":"231086103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老黑山镇",
 		"parentCode":"231086"
 	},
@@ -35,7 +35,7 @@
 		"code":"231086104",
 		"fullCode":"231086104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道河镇",
 		"parentCode":"231086"
 	},
@@ -43,7 +43,7 @@
 		"code":"231086105",
 		"fullCode":"231086105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥阳镇",
 		"parentCode":"231086"
 	},
@@ -51,7 +51,7 @@
 		"code":"231086400",
 		"fullCode":"231086400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥阳林业局",
 		"parentCode":"231086"
 	}

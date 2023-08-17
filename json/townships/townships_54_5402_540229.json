@@ -3,7 +3,7 @@
 		"code":"540229100",
 		"fullCode":"540229100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德吉林镇",
 		"parentCode":"540229"
 	},
@@ -11,7 +11,7 @@
 		"code":"540229200",
 		"fullCode":"540229200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康雄乡",
 		"parentCode":"540229"
 	},
@@ -19,7 +19,7 @@
 		"code":"540229201",
 		"fullCode":"540229201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普松乡",
 		"parentCode":"540229"
 	},
@@ -27,7 +27,7 @@
 		"code":"540229202",
 		"fullCode":"540229202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"帕当乡",
 		"parentCode":"540229"
 	},
@@ -35,7 +35,7 @@
 		"code":"540229203",
 		"fullCode":"540229203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"然巴乡",
 		"parentCode":"540229"
 	},
@@ -43,7 +43,7 @@
 		"code":"540229204",
 		"fullCode":"540229204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查巴乡",
 		"parentCode":"540229"
 	},
@@ -51,7 +51,7 @@
 		"code":"540229205",
 		"fullCode":"540229205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"切娃乡",
 		"parentCode":"540229"
 	},
@@ -59,7 +59,7 @@
 		"code":"540229206",
 		"fullCode":"540229206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姆乡",
 		"parentCode":"540229"
 	},
@@ -67,7 +67,7 @@
 		"code":"540229207",
 		"fullCode":"540229207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁布乡",
 		"parentCode":"540229"
 	}

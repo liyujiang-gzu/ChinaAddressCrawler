@@ -3,7 +3,7 @@
 		"code":"320583100",
 		"fullCode":"320583100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉山镇",
 		"parentCode":"320583"
 	},
@@ -11,7 +11,7 @@
 		"code":"320583101",
 		"fullCode":"320583101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴城镇",
 		"parentCode":"320583"
 	},
@@ -19,7 +19,7 @@
 		"code":"320583102",
 		"fullCode":"320583102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周市镇",
 		"parentCode":"320583"
 	},
@@ -27,7 +27,7 @@
 		"code":"320583103",
 		"fullCode":"320583103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陆家镇",
 		"parentCode":"320583"
 	},
@@ -35,7 +35,7 @@
 		"code":"320583104",
 		"fullCode":"320583104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花桥镇",
 		"parentCode":"320583"
 	},
@@ -43,7 +43,7 @@
 		"code":"320583106",
 		"fullCode":"320583106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张浦镇",
 		"parentCode":"320583"
 	},
@@ -51,7 +51,7 @@
 		"code":"320583108",
 		"fullCode":"320583108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千灯镇",
 		"parentCode":"320583"
 	},
@@ -59,7 +59,7 @@
 		"code":"320583400",
 		"fullCode":"320583400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆山开发区",
 		"parentCode":"320583"
 	},
@@ -67,7 +67,7 @@
 		"code":"320583401",
 		"fullCode":"320583401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆山旅游度假区",
 		"parentCode":"320583"
 	}

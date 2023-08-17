@@ -3,7 +3,7 @@
 		"code":"520502",
 		"fullCode":"520502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"七星关区",
 		"parentCode":"5205"
 	},
@@ -11,7 +11,7 @@
 		"code":"520521",
 		"fullCode":"520521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大方县",
 		"parentCode":"5205"
 	},
@@ -19,7 +19,7 @@
 		"code":"520523",
 		"fullCode":"520523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金沙县",
 		"parentCode":"5205"
 	},
@@ -27,7 +27,7 @@
 		"code":"520524",
 		"fullCode":"520524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"织金县",
 		"parentCode":"5205"
 	},
@@ -35,7 +35,7 @@
 		"code":"520525",
 		"fullCode":"520525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"纳雍县",
 		"parentCode":"5205"
 	},
@@ -43,7 +43,7 @@
 		"code":"520526",
 		"fullCode":"520526000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"威宁彝族回族苗族自治县",
 		"parentCode":"5205"
 	},
@@ -51,7 +51,7 @@
 		"code":"520527",
 		"fullCode":"520527000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"赫章县",
 		"parentCode":"5205"
 	},
@@ -59,7 +59,7 @@
 		"code":"520581",
 		"fullCode":"520581000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黔西市",
 		"parentCode":"5205"
 	}

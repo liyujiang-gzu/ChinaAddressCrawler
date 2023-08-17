@@ -3,7 +3,7 @@
 		"code":"130731100",
 		"fullCode":"130731100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涿鹿镇",
 		"parentCode":"130731"
 	},
@@ -11,7 +11,7 @@
 		"code":"130731101",
 		"fullCode":"130731101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家堡镇",
 		"parentCode":"130731"
 	},
@@ -19,7 +19,7 @@
 		"code":"130731102",
 		"fullCode":"130731102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武家沟镇",
 		"parentCode":"130731"
 	},
@@ -27,7 +27,7 @@
 		"code":"130731103",
 		"fullCode":"130731103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五堡镇",
 		"parentCode":"130731"
 	},
@@ -35,7 +35,7 @@
 		"code":"130731104",
 		"fullCode":"130731104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保岱镇",
 		"parentCode":"130731"
 	},
@@ -43,7 +43,7 @@
 		"code":"130731105",
 		"fullCode":"130731105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矾山镇",
 		"parentCode":"130731"
 	},
@@ -51,7 +51,7 @@
 		"code":"130731106",
 		"fullCode":"130731106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大堡镇",
 		"parentCode":"130731"
 	},
@@ -59,7 +59,7 @@
 		"code":"130731107",
 		"fullCode":"130731107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东镇",
 		"parentCode":"130731"
 	},
@@ -67,7 +67,7 @@
 		"code":"130731108",
 		"fullCode":"130731108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东小庄镇",
 		"parentCode":"130731"
 	},
@@ -75,7 +75,7 @@
 		"code":"130731109",
 		"fullCode":"130731109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辉耀镇",
 		"parentCode":"130731"
 	},
@@ -83,7 +83,7 @@
 		"code":"130731110",
 		"fullCode":"130731110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河南镇",
 		"parentCode":"130731"
 	},
@@ -91,7 +91,7 @@
 		"code":"130731111",
 		"fullCode":"130731111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉屯镇",
 		"parentCode":"130731"
 	},
@@ -99,7 +99,7 @@
 		"code":"130731112",
 		"fullCode":"130731112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蟒石口镇",
 		"parentCode":"130731"
 	},
@@ -107,7 +107,7 @@
 		"code":"130731113",
 		"fullCode":"130731113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧佛寺镇",
 		"parentCode":"130731"
 	},
@@ -115,7 +115,7 @@
 		"code":"130731201",
 		"fullCode":"130731201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栾庄乡",
 		"parentCode":"130731"
 	},
@@ -123,7 +123,7 @@
 		"code":"130731204",
 		"fullCode":"130731204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑山寺乡",
 		"parentCode":"130731"
 	},
@@ -131,7 +131,7 @@
 		"code":"130731206",
 		"fullCode":"130731206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢家堡乡",
 		"parentCode":"130731"
 	}

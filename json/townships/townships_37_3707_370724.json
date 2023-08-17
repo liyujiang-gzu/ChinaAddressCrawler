@@ -3,7 +3,7 @@
 		"code":"370724001",
 		"fullCode":"370724001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"370724"
 	},
@@ -11,7 +11,7 @@
 		"code":"370724002",
 		"fullCode":"370724002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"370724"
 	},
@@ -19,7 +19,7 @@
 		"code":"370724003",
 		"fullCode":"370724003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冶源街道",
 		"parentCode":"370724"
 	},
@@ -27,7 +27,7 @@
 		"code":"370724004",
 		"fullCode":"370724004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛寨街道",
 		"parentCode":"370724"
 	},
@@ -35,7 +35,7 @@
 		"code":"370724101",
 		"fullCode":"370724101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五井镇",
 		"parentCode":"370724"
 	},
@@ -43,7 +43,7 @@
 		"code":"370724104",
 		"fullCode":"370724104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺头镇",
 		"parentCode":"370724"
 	},
@@ -51,7 +51,7 @@
 		"code":"370724105",
 		"fullCode":"370724105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九山镇",
 		"parentCode":"370724"
 	},
@@ -59,7 +59,7 @@
 		"code":"370724112",
 		"fullCode":"370724112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山旺镇",
 		"parentCode":"370724"
 	},
@@ -67,7 +67,7 @@
 		"code":"370724113",
 		"fullCode":"370724113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳山镇",
 		"parentCode":"370724"
 	},
@@ -75,7 +75,7 @@
 		"code":"370724116",
 		"fullCode":"370724116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋峪镇",
 		"parentCode":"370724"
 	}

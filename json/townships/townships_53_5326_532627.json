@@ -3,7 +3,7 @@
 		"code":"532627101",
 		"fullCode":"532627101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲城镇",
 		"parentCode":"532627"
 	},
@@ -11,7 +11,7 @@
 		"code":"532627102",
 		"fullCode":"532627102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八宝镇",
 		"parentCode":"532627"
 	},
@@ -19,7 +19,7 @@
 		"code":"532627103",
 		"fullCode":"532627103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南屏镇",
 		"parentCode":"532627"
 	},
@@ -27,7 +27,7 @@
 		"code":"532627104",
 		"fullCode":"532627104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠街镇",
 		"parentCode":"532627"
 	},
@@ -35,7 +35,7 @@
 		"code":"532627105",
 		"fullCode":"532627105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那洒镇",
 		"parentCode":"532627"
 	},
@@ -43,7 +43,7 @@
 		"code":"532627106",
 		"fullCode":"532627106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠琳镇",
 		"parentCode":"532627"
 	},
@@ -51,7 +51,7 @@
 		"code":"532627107",
 		"fullCode":"532627107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坝美镇",
 		"parentCode":"532627"
 	},
@@ -59,7 +59,7 @@
 		"code":"532627201",
 		"fullCode":"532627201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董堡乡",
 		"parentCode":"532627"
 	},
@@ -67,7 +67,7 @@
 		"code":"532627202",
 		"fullCode":"532627202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧莫乡",
 		"parentCode":"532627"
 	},
@@ -75,7 +75,7 @@
 		"code":"532627203",
 		"fullCode":"532627203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨柳井乡",
 		"parentCode":"532627"
 	},
@@ -83,7 +83,7 @@
 		"code":"532627204",
 		"fullCode":"532627204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板蚌乡",
 		"parentCode":"532627"
 	},
@@ -91,7 +91,7 @@
 		"code":"532627205",
 		"fullCode":"532627205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曙光乡",
 		"parentCode":"532627"
 	},
@@ -99,7 +99,7 @@
 		"code":"532627206",
 		"fullCode":"532627206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑支果乡",
 		"parentCode":"532627"
 	},
@@ -107,7 +107,7 @@
 		"code":"532627207",
 		"fullCode":"532627207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"篆角乡",
 		"parentCode":"532627"
 	},
@@ -115,7 +115,7 @@
 		"code":"532627208",
 		"fullCode":"532627208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五珠乡",
 		"parentCode":"532627"
 	},
@@ -123,7 +123,7 @@
 		"code":"532627209",
 		"fullCode":"532627209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"者兔乡",
 		"parentCode":"532627"
 	},
@@ -131,7 +131,7 @@
 		"code":"532627210",
 		"fullCode":"532627210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"者太乡",
 		"parentCode":"532627"
 	},
@@ -139,7 +139,7 @@
 		"code":"532627211",
 		"fullCode":"532627211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"底圩乡",
 		"parentCode":"532627"
 	}

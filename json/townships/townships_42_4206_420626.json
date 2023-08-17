@@ -3,7 +3,7 @@
 		"code":"420626100",
 		"fullCode":"420626100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"420626"
 	},
@@ -11,7 +11,7 @@
 		"code":"420626101",
 		"fullCode":"420626101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄堡镇",
 		"parentCode":"420626"
 	},
@@ -19,7 +19,7 @@
 		"code":"420626102",
 		"fullCode":"420626102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后坪镇",
 		"parentCode":"420626"
 	},
@@ -27,7 +27,7 @@
 		"code":"420626103",
 		"fullCode":"420626103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙坪镇",
 		"parentCode":"420626"
 	},
@@ -35,7 +35,7 @@
 		"code":"420626104",
 		"fullCode":"420626104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店垭镇",
 		"parentCode":"420626"
 	},
@@ -43,7 +43,7 @@
 		"code":"420626105",
 		"fullCode":"420626105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马良镇",
 		"parentCode":"420626"
 	},
@@ -51,7 +51,7 @@
 		"code":"420626106",
 		"fullCode":"420626106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"歇马镇",
 		"parentCode":"420626"
 	},
@@ -59,7 +59,7 @@
 		"code":"420626107",
 		"fullCode":"420626107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马桥镇",
 		"parentCode":"420626"
 	},
@@ -67,7 +67,7 @@
 		"code":"420626108",
 		"fullCode":"420626108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺坪镇",
 		"parentCode":"420626"
 	},
@@ -75,7 +75,7 @@
 		"code":"420626109",
 		"fullCode":"420626109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"过渡湾镇",
 		"parentCode":"420626"
 	},
@@ -83,7 +83,7 @@
 		"code":"420626200",
 		"fullCode":"420626200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两峪乡",
 		"parentCode":"420626"
 	},
@@ -91,7 +91,7 @@
 		"code":"420626400",
 		"fullCode":"420626400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖北保康经济开发区管理委员会",
 		"parentCode":"420626"
 	}

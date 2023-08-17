@@ -3,7 +3,7 @@
 		"code":"210212001",
 		"fullCode":"210212001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"登峰街道",
 		"parentCode":"210212"
 	},
@@ -11,7 +11,7 @@
 		"code":"210212003",
 		"fullCode":"210212003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"得胜街道",
 		"parentCode":"210212"
 	},
@@ -19,7 +19,7 @@
 		"code":"210212005",
 		"fullCode":"210212005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水师营街道",
 		"parentCode":"210212"
 	},
@@ -27,7 +27,7 @@
 		"code":"210212006",
 		"fullCode":"210212006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙王塘街道",
 		"parentCode":"210212"
 	},
@@ -35,7 +35,7 @@
 		"code":"210212007",
 		"fullCode":"210212007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁山街道",
 		"parentCode":"210212"
 	},
@@ -43,7 +43,7 @@
 		"code":"210212009",
 		"fullCode":"210212009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双岛湾街道",
 		"parentCode":"210212"
 	},
@@ -51,7 +51,7 @@
 		"code":"210212010",
 		"fullCode":"210212010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三涧堡街道",
 		"parentCode":"210212"
 	},
@@ -59,7 +59,7 @@
 		"code":"210212011",
 		"fullCode":"210212011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长城街道",
 		"parentCode":"210212"
 	},
@@ -67,7 +67,7 @@
 		"code":"210212012",
 		"fullCode":"210212012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头街道",
 		"parentCode":"210212"
 	},
@@ -75,7 +75,7 @@
 		"code":"210212014",
 		"fullCode":"210212014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江西街道",
 		"parentCode":"210212"
 	},
@@ -83,7 +83,7 @@
 		"code":"210212401",
 		"fullCode":"210212401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大连奶牛场",
 		"parentCode":"210212"
 	},
@@ -91,7 +91,7 @@
 		"code":"210212402",
 		"fullCode":"210212402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头分园",
 		"parentCode":"210212"
 	}

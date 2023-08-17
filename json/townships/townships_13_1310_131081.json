@@ -3,7 +3,7 @@
 		"code":"131081001",
 		"fullCode":"131081001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕华街道",
 		"parentCode":"131081"
 	},
@@ -11,7 +11,7 @@
 		"code":"131081100",
 		"fullCode":"131081100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霸州镇",
 		"parentCode":"131081"
 	},
@@ -19,7 +19,7 @@
 		"code":"131081101",
 		"fullCode":"131081101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南孟镇",
 		"parentCode":"131081"
 	},
@@ -27,7 +27,7 @@
 		"code":"131081102",
 		"fullCode":"131081102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"信安镇",
 		"parentCode":"131081"
 	},
@@ -35,7 +35,7 @@
 		"code":"131081103",
 		"fullCode":"131081103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堂二里镇",
 		"parentCode":"131081"
 	},
@@ -43,7 +43,7 @@
 		"code":"131081104",
 		"fullCode":"131081104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"煎茶铺镇",
 		"parentCode":"131081"
 	},
@@ -51,7 +51,7 @@
 		"code":"131081105",
 		"fullCode":"131081105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜芳镇",
 		"parentCode":"131081"
 	},
@@ -59,7 +59,7 @@
 		"code":"131081106",
 		"fullCode":"131081106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨芬港镇",
 		"parentCode":"131081"
 	},
@@ -67,7 +67,7 @@
 		"code":"131081107",
 		"fullCode":"131081107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康仙庄镇",
 		"parentCode":"131081"
 	},
@@ -75,7 +75,7 @@
 		"code":"131081108",
 		"fullCode":"131081108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王庄子镇",
 		"parentCode":"131081"
 	},
@@ -83,7 +83,7 @@
 		"code":"131081200",
 		"fullCode":"131081200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岔河集乡",
 		"parentCode":"131081"
 	},
@@ -91,7 +91,7 @@
 		"code":"131081202",
 		"fullCode":"131081202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东杨庄乡",
 		"parentCode":"131081"
 	},
@@ -99,7 +99,7 @@
 		"code":"131081204",
 		"fullCode":"131081204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东段乡",
 		"parentCode":"131081"
 	}

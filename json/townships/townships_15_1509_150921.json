@@ -3,7 +3,7 @@
 		"code":"150921106",
 		"fullCode":"150921106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卓资山镇",
 		"parentCode":"150921"
 	},
@@ -11,7 +11,7 @@
 		"code":"150921107",
 		"fullCode":"150921107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旗下营镇",
 		"parentCode":"150921"
 	},
@@ -19,7 +19,7 @@
 		"code":"150921108",
 		"fullCode":"150921108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十八台镇",
 		"parentCode":"150921"
 	},
@@ -27,7 +27,7 @@
 		"code":"150921109",
 		"fullCode":"150921109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴音锡勒镇",
 		"parentCode":"150921"
 	},
@@ -35,7 +35,7 @@
 		"code":"150921110",
 		"fullCode":"150921110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨花镇",
 		"parentCode":"150921"
 	},
@@ -43,7 +43,7 @@
 		"code":"150921210",
 		"fullCode":"150921210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大榆树乡",
 		"parentCode":"150921"
 	},
@@ -51,7 +51,7 @@
 		"code":"150921211",
 		"fullCode":"150921211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红召乡",
 		"parentCode":"150921"
 	},
@@ -59,7 +59,7 @@
 		"code":"150921212",
 		"fullCode":"150921212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复兴乡",
 		"parentCode":"150921"
 	}

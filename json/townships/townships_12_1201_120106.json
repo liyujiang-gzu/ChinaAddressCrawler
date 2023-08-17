@@ -3,7 +3,7 @@
 		"code":"120106001",
 		"fullCode":"120106001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西于庄街道",
 		"parentCode":"120106"
 	},
@@ -11,7 +11,7 @@
 		"code":"120106003",
 		"fullCode":"120106003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"咸阳北路街道",
 		"parentCode":"120106"
 	},
@@ -19,7 +19,7 @@
 		"code":"120106004",
 		"fullCode":"120106004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁字沽街道",
 		"parentCode":"120106"
 	},
@@ -27,7 +27,7 @@
 		"code":"120106005",
 		"fullCode":"120106005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西沽街道",
 		"parentCode":"120106"
 	},
@@ -35,7 +35,7 @@
 		"code":"120106006",
 		"fullCode":"120106006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三条石街道",
 		"parentCode":"120106"
 	},
@@ -43,7 +43,7 @@
 		"code":"120106008",
 		"fullCode":"120106008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邵公庄街道",
 		"parentCode":"120106"
 	},
@@ -51,7 +51,7 @@
 		"code":"120106009",
 		"fullCode":"120106009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芥园街道",
 		"parentCode":"120106"
 	},
@@ -59,7 +59,7 @@
 		"code":"120106010",
 		"fullCode":"120106010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铃铛阁街道",
 		"parentCode":"120106"
 	},
@@ -67,7 +67,7 @@
 		"code":"120106012",
 		"fullCode":"120106012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和苑街道",
 		"parentCode":"120106"
 	}

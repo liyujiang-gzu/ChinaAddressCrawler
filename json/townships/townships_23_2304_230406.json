@@ -3,7 +3,7 @@
 		"code":"230406001",
 		"fullCode":"230406001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工人村办街道",
 		"parentCode":"230406"
 	},
@@ -11,7 +11,7 @@
 		"code":"230406002",
 		"fullCode":"230406002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新一办街道",
 		"parentCode":"230406"
 	},
@@ -19,7 +19,7 @@
 		"code":"230406004",
 		"fullCode":"230406004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山办街道",
 		"parentCode":"230406"
 	},
@@ -27,7 +27,7 @@
 		"code":"230406005",
 		"fullCode":"230406005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤兴办街道",
 		"parentCode":"230406"
 	},
@@ -35,7 +35,7 @@
 		"code":"230406100",
 		"fullCode":"230406100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华镇",
 		"parentCode":"230406"
 	},
@@ -43,7 +43,7 @@
 		"code":"230406201",
 		"fullCode":"230406201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔬园乡",
 		"parentCode":"230406"
 	},
@@ -51,7 +51,7 @@
 		"code":"230406202",
 		"fullCode":"230406202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方红乡",
 		"parentCode":"230406"
 	},
@@ -59,7 +59,7 @@
 		"code":"230406400",
 		"fullCode":"230406400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤岗市林业局生活区",
 		"parentCode":"230406"
 	},
@@ -67,7 +67,7 @@
 		"code":"230406501",
 		"fullCode":"230406501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华农场",
 		"parentCode":"230406"
 	}

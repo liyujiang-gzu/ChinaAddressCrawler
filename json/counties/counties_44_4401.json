@@ -3,7 +3,7 @@
 		"code":"440103",
 		"fullCode":"440103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"荔湾区",
 		"parentCode":"4401"
 	},
@@ -11,7 +11,7 @@
 		"code":"440104",
 		"fullCode":"440104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"越秀区",
 		"parentCode":"4401"
 	},
@@ -19,7 +19,7 @@
 		"code":"440105",
 		"fullCode":"440105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海珠区",
 		"parentCode":"4401"
 	},
@@ -27,7 +27,7 @@
 		"code":"440106",
 		"fullCode":"440106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天河区",
 		"parentCode":"4401"
 	},
@@ -35,7 +35,7 @@
 		"code":"440111",
 		"fullCode":"440111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"白云区",
 		"parentCode":"4401"
 	},
@@ -43,7 +43,7 @@
 		"code":"440112",
 		"fullCode":"440112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黄埔区",
 		"parentCode":"4401"
 	},
@@ -51,7 +51,7 @@
 		"code":"440113",
 		"fullCode":"440113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"番禺区",
 		"parentCode":"4401"
 	},
@@ -59,7 +59,7 @@
 		"code":"440114",
 		"fullCode":"440114000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"花都区",
 		"parentCode":"4401"
 	},
@@ -67,7 +67,7 @@
 		"code":"440115",
 		"fullCode":"440115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南沙区",
 		"parentCode":"4401"
 	},
@@ -75,7 +75,7 @@
 		"code":"440117",
 		"fullCode":"440117000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"从化区",
 		"parentCode":"4401"
 	},
@@ -83,7 +83,7 @@
 		"code":"440118",
 		"fullCode":"440118000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"增城区",
 		"parentCode":"4401"
 	}

@@ -3,7 +3,7 @@
 		"code":"440507001",
 		"fullCode":"440507001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金霞街道",
 		"parentCode":"440507"
 	},
@@ -11,7 +11,7 @@
 		"code":"440507003",
 		"fullCode":"440507003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠池街道",
 		"parentCode":"440507"
 	},
@@ -19,7 +19,7 @@
 		"code":"440507004",
 		"fullCode":"440507004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新津街道",
 		"parentCode":"440507"
 	},
@@ -27,7 +27,7 @@
 		"code":"440507005",
 		"fullCode":"440507005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸥汀街道",
 		"parentCode":"440507"
 	},
@@ -35,7 +35,7 @@
 		"code":"440507008",
 		"fullCode":"440507008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙祥街道",
 		"parentCode":"440507"
 	},
@@ -43,7 +43,7 @@
 		"code":"440507009",
 		"fullCode":"440507009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"外砂街道",
 		"parentCode":"440507"
 	},
@@ -51,7 +51,7 @@
 		"code":"440507010",
 		"fullCode":"440507010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙华街道",
 		"parentCode":"440507"
 	},
@@ -59,7 +59,7 @@
 		"code":"440507011",
 		"fullCode":"440507011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新溪街道",
 		"parentCode":"440507"
 	},
@@ -67,7 +67,7 @@
 		"code":"440507012",
 		"fullCode":"440507012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新海街道",
 		"parentCode":"440507"
 	},
@@ -75,7 +75,7 @@
 		"code":"440507013",
 		"fullCode":"440507013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙腾街道",
 		"parentCode":"440507"
 	}

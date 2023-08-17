@@ -3,7 +3,7 @@
 		"code":"150422100",
 		"fullCode":"150422100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林东镇",
 		"parentCode":"150422"
 	},
@@ -11,7 +11,7 @@
 		"code":"150422101",
 		"fullCode":"150422101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆昌镇",
 		"parentCode":"150422"
 	},
@@ -19,7 +19,7 @@
 		"code":"150422102",
 		"fullCode":"150422102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十三敖包镇",
 		"parentCode":"150422"
 	},
@@ -27,7 +27,7 @@
 		"code":"150422103",
 		"fullCode":"150422103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧流台镇",
 		"parentCode":"150422"
 	},
@@ -35,7 +35,7 @@
 		"code":"150422104",
 		"fullCode":"150422104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富河镇",
 		"parentCode":"150422"
 	},
@@ -43,7 +43,7 @@
 		"code":"150422105",
 		"fullCode":"150422105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白音勿拉镇",
 		"parentCode":"150422"
 	},
@@ -51,7 +51,7 @@
 		"code":"150422106",
 		"fullCode":"150422106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉哈达镇",
 		"parentCode":"150422"
 	},
@@ -59,7 +59,7 @@
 		"code":"150422200",
 		"fullCode":"150422200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查干哈达苏木",
 		"parentCode":"150422"
 	},
@@ -67,7 +67,7 @@
 		"code":"150422201",
 		"fullCode":"150422201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰达坝苏木",
 		"parentCode":"150422"
 	},
@@ -75,7 +75,7 @@
 		"code":"150422202",
 		"fullCode":"150422202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三山乡",
 		"parentCode":"150422"
 	},
@@ -83,7 +83,7 @@
 		"code":"150422203",
 		"fullCode":"150422203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花加拉嘎乡",
 		"parentCode":"150422"
 	},
@@ -91,7 +91,7 @@
 		"code":"150422403",
 		"fullCode":"150422403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林东西城街道",
 		"parentCode":"150422"
 	},
@@ -99,7 +99,7 @@
 		"code":"150422404",
 		"fullCode":"150422404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林东东城街道",
 		"parentCode":"150422"
 	},
@@ -107,7 +107,7 @@
 		"code":"150422405",
 		"fullCode":"150422405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林东产业园",
 		"parentCode":"150422"
 	}

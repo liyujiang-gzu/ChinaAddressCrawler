@@ -3,7 +3,7 @@
 		"code":"530602001",
 		"fullCode":"530602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰街道",
 		"parentCode":"530602"
 	},
@@ -11,7 +11,7 @@
 		"code":"530602002",
 		"fullCode":"530602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉街道",
 		"parentCode":"530602"
 	},
@@ -19,7 +19,7 @@
 		"code":"530602003",
 		"fullCode":"530602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平街道",
 		"parentCode":"530602"
 	},
@@ -27,7 +27,7 @@
 		"code":"530602004",
 		"fullCode":"530602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北闸街道",
 		"parentCode":"530602"
 	},
@@ -35,7 +35,7 @@
 		"code":"530602101",
 		"fullCode":"530602101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧圃镇",
 		"parentCode":"530602"
 	},
@@ -43,7 +43,7 @@
 		"code":"530602102",
 		"fullCode":"530602102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰镇",
 		"parentCode":"530602"
 	},
@@ -51,7 +51,7 @@
 		"code":"530602104",
 		"fullCode":"530602104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘河镇",
 		"parentCode":"530602"
 	},
@@ -59,7 +59,7 @@
 		"code":"530602105",
 		"fullCode":"530602105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖安镇",
 		"parentCode":"530602"
 	},
@@ -67,7 +67,7 @@
 		"code":"530602106",
 		"fullCode":"530602106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洒渔镇",
 		"parentCode":"530602"
 	},
@@ -75,7 +75,7 @@
 		"code":"530602107",
 		"fullCode":"530602107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐居镇",
 		"parentCode":"530602"
 	},
@@ -83,7 +83,7 @@
 		"code":"530602108",
 		"fullCode":"530602108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏家院镇",
 		"parentCode":"530602"
 	},
@@ -91,7 +91,7 @@
 		"code":"530602109",
 		"fullCode":"530602109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大山包镇",
 		"parentCode":"530602"
 	},
@@ -99,7 +99,7 @@
 		"code":"530602110",
 		"fullCode":"530602110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炎山镇",
 		"parentCode":"530602"
 	},
@@ -107,7 +107,7 @@
 		"code":"530602201",
 		"fullCode":"530602201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布嘎回族乡",
 		"parentCode":"530602"
 	},
@@ -115,7 +115,7 @@
 		"code":"530602202",
 		"fullCode":"530602202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"守望回族乡",
 		"parentCode":"530602"
 	},
@@ -123,7 +123,7 @@
 		"code":"530602203",
 		"fullCode":"530602203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小龙洞回族彝族乡",
 		"parentCode":"530602"
 	},
@@ -131,7 +131,7 @@
 		"code":"530602206",
 		"fullCode":"530602206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青岗岭回族彝族乡",
 		"parentCode":"530602"
 	},
@@ -139,7 +139,7 @@
 		"code":"530602210",
 		"fullCode":"530602210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏甲乡",
 		"parentCode":"530602"
 	},
@@ -147,7 +147,7 @@
 		"code":"530602212",
 		"fullCode":"530602212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大寨子乡",
 		"parentCode":"530602"
 	},
@@ -155,7 +155,7 @@
 		"code":"530602214",
 		"fullCode":"530602214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田坝乡",
 		"parentCode":"530602"
 	}

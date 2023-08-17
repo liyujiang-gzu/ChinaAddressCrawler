@@ -3,7 +3,7 @@
 		"code":"211002016",
 		"fullCode":"211002016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文圣街道",
 		"parentCode":"211002"
 	},
@@ -11,7 +11,7 @@
 		"code":"211002017",
 		"fullCode":"211002017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武圣街道",
 		"parentCode":"211002"
 	},
@@ -19,7 +19,7 @@
 		"code":"211002018",
 		"fullCode":"211002018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南门街道",
 		"parentCode":"211002"
 	},
@@ -27,7 +27,7 @@
 		"code":"211002019",
 		"fullCode":"211002019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"襄平街道",
 		"parentCode":"211002"
 	}

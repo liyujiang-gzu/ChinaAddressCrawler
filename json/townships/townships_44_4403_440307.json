@@ -3,7 +3,7 @@
 		"code":"440307003",
 		"fullCode":"440307003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平湖街道",
 		"parentCode":"440307"
 	},
@@ -11,7 +11,7 @@
 		"code":"440307006",
 		"fullCode":"440307006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪地街道",
 		"parentCode":"440307"
 	},
@@ -19,7 +19,7 @@
 		"code":"440307009",
 		"fullCode":"440307009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葵涌街道",
 		"parentCode":"440307"
 	},
@@ -27,7 +27,7 @@
 		"code":"440307010",
 		"fullCode":"440307010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大鹏街道",
 		"parentCode":"440307"
 	},
@@ -35,7 +35,7 @@
 		"code":"440307011",
 		"fullCode":"440307011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南澳街道",
 		"parentCode":"440307"
 	},
@@ -43,7 +43,7 @@
 		"code":"440307012",
 		"fullCode":"440307012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湾街道",
 		"parentCode":"440307"
 	},
@@ -51,7 +51,7 @@
 		"code":"440307013",
 		"fullCode":"440307013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坂田街道",
 		"parentCode":"440307"
 	},
@@ -59,7 +59,7 @@
 		"code":"440307014",
 		"fullCode":"440307014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布吉街道",
 		"parentCode":"440307"
 	},
@@ -67,7 +67,7 @@
 		"code":"440307015",
 		"fullCode":"440307015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙城街道",
 		"parentCode":"440307"
 	},
@@ -75,7 +75,7 @@
 		"code":"440307016",
 		"fullCode":"440307016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙岗街道",
 		"parentCode":"440307"
 	},
@@ -83,7 +83,7 @@
 		"code":"440307017",
 		"fullCode":"440307017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横岗街道",
 		"parentCode":"440307"
 	},
@@ -91,7 +91,7 @@
 		"code":"440307018",
 		"fullCode":"440307018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉华街道",
 		"parentCode":"440307"
 	},
@@ -99,7 +99,7 @@
 		"code":"440307019",
 		"fullCode":"440307019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝龙街道",
 		"parentCode":"440307"
 	},
@@ -107,7 +107,7 @@
 		"code":"440307020",
 		"fullCode":"440307020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"园山街道",
 		"parentCode":"440307"
 	}

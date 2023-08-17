@@ -3,7 +3,7 @@
 		"code":"610118001",
 		"fullCode":"610118001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘亭街道",
 		"parentCode":"610118"
 	},
@@ -11,7 +11,7 @@
 		"code":"610118002",
 		"fullCode":"610118002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余下街道",
 		"parentCode":"610118"
 	},
@@ -19,7 +19,7 @@
 		"code":"610118003",
 		"fullCode":"610118003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉蝉街道",
 		"parentCode":"610118"
 	},
@@ -27,7 +27,7 @@
 		"code":"610118004",
 		"fullCode":"610118004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五竹街道",
 		"parentCode":"610118"
 	},
@@ -35,7 +35,7 @@
 		"code":"610118005",
 		"fullCode":"610118005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大王街道",
 		"parentCode":"610118"
 	},
@@ -43,7 +43,7 @@
 		"code":"610118006",
 		"fullCode":"610118006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦渡街道",
 		"parentCode":"610118"
 	},
@@ -51,7 +51,7 @@
 		"code":"610118007",
 		"fullCode":"610118007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草堂街道",
 		"parentCode":"610118"
 	},
@@ -59,7 +59,7 @@
 		"code":"610118008",
 		"fullCode":"610118008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庞光街道",
 		"parentCode":"610118"
 	},
@@ -67,7 +67,7 @@
 		"code":"610118009",
 		"fullCode":"610118009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祖庵街道",
 		"parentCode":"610118"
 	},
@@ -75,7 +75,7 @@
 		"code":"610118010",
 		"fullCode":"610118010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渭丰街道",
 		"parentCode":"610118"
 	},
@@ -83,7 +83,7 @@
 		"code":"610118011",
 		"fullCode":"610118011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涝店街道",
 		"parentCode":"610118"
 	},
@@ -91,7 +91,7 @@
 		"code":"610118012",
 		"fullCode":"610118012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘河街道",
 		"parentCode":"610118"
 	},
@@ -99,7 +99,7 @@
 		"code":"610118013",
 		"fullCode":"610118013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋村街道",
 		"parentCode":"610118"
 	},
@@ -107,7 +107,7 @@
 		"code":"610118014",
 		"fullCode":"610118014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石井街道",
 		"parentCode":"610118"
 	}

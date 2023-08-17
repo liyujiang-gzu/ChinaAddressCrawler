@@ -3,7 +3,7 @@
 		"code":"340802",
 		"fullCode":"340802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"迎江区",
 		"parentCode":"3408"
 	},
@@ -11,7 +11,7 @@
 		"code":"340803",
 		"fullCode":"340803000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大观区",
 		"parentCode":"3408"
 	},
@@ -19,7 +19,7 @@
 		"code":"340811",
 		"fullCode":"340811000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宜秀区",
 		"parentCode":"3408"
 	},
@@ -27,7 +27,7 @@
 		"code":"340822",
 		"fullCode":"340822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"怀宁县",
 		"parentCode":"3408"
 	},
@@ -35,7 +35,7 @@
 		"code":"340825",
 		"fullCode":"340825000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"太湖县",
 		"parentCode":"3408"
 	},
@@ -43,7 +43,7 @@
 		"code":"340826",
 		"fullCode":"340826000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宿松县",
 		"parentCode":"3408"
 	},
@@ -51,7 +51,7 @@
 		"code":"340827",
 		"fullCode":"340827000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"望江县",
 		"parentCode":"3408"
 	},
@@ -59,7 +59,7 @@
 		"code":"340828",
 		"fullCode":"340828000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岳西县",
 		"parentCode":"3408"
 	},
@@ -67,7 +67,7 @@
 		"code":"340871",
 		"fullCode":"340871000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安徽安庆经济开发区",
 		"parentCode":"3408"
 	},
@@ -75,7 +75,7 @@
 		"code":"340881",
 		"fullCode":"340881000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桐城市",
 		"parentCode":"3408"
 	},
@@ -83,7 +83,7 @@
 		"code":"340882",
 		"fullCode":"340882000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"潜山市",
 		"parentCode":"3408"
 	}

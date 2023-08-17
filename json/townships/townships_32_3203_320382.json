@@ -3,7 +3,7 @@
 		"code":"320382001",
 		"fullCode":"320382001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖街道",
 		"parentCode":"320382"
 	},
@@ -11,7 +11,7 @@
 		"code":"320382002",
 		"fullCode":"320382002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"运河街道",
 		"parentCode":"320382"
 	},
@@ -19,7 +19,7 @@
 		"code":"320382003",
 		"fullCode":"320382003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戴圩街道",
 		"parentCode":"320382"
 	},
@@ -27,7 +27,7 @@
 		"code":"320382004",
 		"fullCode":"320382004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炮车街道",
 		"parentCode":"320382"
 	},
@@ -35,7 +35,7 @@
 		"code":"320382102",
 		"fullCode":"320382102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邳城镇",
 		"parentCode":"320382"
 	},
@@ -43,7 +43,7 @@
 		"code":"320382103",
 		"fullCode":"320382103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官湖镇",
 		"parentCode":"320382"
 	},
@@ -51,7 +51,7 @@
 		"code":"320382104",
 		"fullCode":"320382104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四户镇",
 		"parentCode":"320382"
 	},
@@ -59,7 +59,7 @@
 		"code":"320382105",
 		"fullCode":"320382105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宿羊山镇",
 		"parentCode":"320382"
 	},
@@ -67,7 +67,7 @@
 		"code":"320382106",
 		"fullCode":"320382106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八义集镇",
 		"parentCode":"320382"
 	},
@@ -75,7 +75,7 @@
 		"code":"320382107",
 		"fullCode":"320382107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土山镇",
 		"parentCode":"320382"
 	},
@@ -83,7 +83,7 @@
 		"code":"320382108",
 		"fullCode":"320382108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碾庄镇",
 		"parentCode":"320382"
 	},
@@ -91,7 +91,7 @@
 		"code":"320382109",
 		"fullCode":"320382109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港上镇",
 		"parentCode":"320382"
 	},
@@ -99,7 +99,7 @@
 		"code":"320382110",
 		"fullCode":"320382110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邹庄镇",
 		"parentCode":"320382"
 	},
@@ -107,7 +107,7 @@
 		"code":"320382111",
 		"fullCode":"320382111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"占城镇",
 		"parentCode":"320382"
 	},
@@ -115,7 +115,7 @@
 		"code":"320382112",
 		"fullCode":"320382112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新河镇",
 		"parentCode":"320382"
 	},
@@ -123,7 +123,7 @@
 		"code":"320382113",
 		"fullCode":"320382113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八路镇",
 		"parentCode":"320382"
 	},
@@ -131,7 +131,7 @@
 		"code":"320382115",
 		"fullCode":"320382115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁富镇",
 		"parentCode":"320382"
 	},
@@ -139,7 +139,7 @@
 		"code":"320382116",
 		"fullCode":"320382116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岔河镇",
 		"parentCode":"320382"
 	},
@@ -147,7 +147,7 @@
 		"code":"320382118",
 		"fullCode":"320382118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈楼镇",
 		"parentCode":"320382"
 	},
@@ -155,7 +155,7 @@
 		"code":"320382119",
 		"fullCode":"320382119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邢楼镇",
 		"parentCode":"320382"
 	},
@@ -163,7 +163,7 @@
 		"code":"320382120",
 		"fullCode":"320382120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戴庄镇",
 		"parentCode":"320382"
 	},
@@ -171,7 +171,7 @@
 		"code":"320382121",
 		"fullCode":"320382121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车辐山镇",
 		"parentCode":"320382"
 	},
@@ -179,7 +179,7 @@
 		"code":"320382122",
 		"fullCode":"320382122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕子埠镇",
 		"parentCode":"320382"
 	},
@@ -187,7 +187,7 @@
 		"code":"320382123",
 		"fullCode":"320382123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵墩镇",
 		"parentCode":"320382"
 	},
@@ -195,7 +195,7 @@
 		"code":"320382124",
 		"fullCode":"320382124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"议堂镇",
 		"parentCode":"320382"
 	},
@@ -203,7 +203,7 @@
 		"code":"320382401",
 		"fullCode":"320382401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邳城农场",
 		"parentCode":"320382"
 	},
@@ -211,7 +211,7 @@
 		"code":"320382402",
 		"fullCode":"320382402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张楼农场",
 		"parentCode":"320382"
 	},
@@ -219,7 +219,7 @@
 		"code":"320382403",
 		"fullCode":"320382403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江苏邳州经济开发区",
 		"parentCode":"320382"
 	}

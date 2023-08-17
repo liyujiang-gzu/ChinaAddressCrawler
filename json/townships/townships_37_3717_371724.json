@@ -3,7 +3,7 @@
 		"code":"371724001",
 		"fullCode":"371724001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰街道",
 		"parentCode":"371724"
 	},
@@ -11,7 +11,7 @@
 		"code":"371724002",
 		"fullCode":"371724002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰街道",
 		"parentCode":"371724"
 	},
@@ -19,7 +19,7 @@
 		"code":"371724101",
 		"fullCode":"371724101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙固镇",
 		"parentCode":"371724"
 	},
@@ -27,7 +27,7 @@
 		"code":"371724102",
 		"fullCode":"371724102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大义镇",
 		"parentCode":"371724"
 	},
@@ -35,7 +35,7 @@
 		"code":"371724103",
 		"fullCode":"371724103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳林镇",
 		"parentCode":"371724"
 	},
@@ -43,7 +43,7 @@
 		"code":"371724104",
 		"fullCode":"371724104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章缝镇",
 		"parentCode":"371724"
 	},
@@ -51,7 +51,7 @@
 		"code":"371724105",
 		"fullCode":"371724105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大谢集镇",
 		"parentCode":"371724"
 	},
@@ -59,7 +59,7 @@
 		"code":"371724106",
 		"fullCode":"371724106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"独山镇",
 		"parentCode":"371724"
 	},
@@ -67,7 +67,7 @@
 		"code":"371724107",
 		"fullCode":"371724107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麒麟镇",
 		"parentCode":"371724"
 	},
@@ -75,7 +75,7 @@
 		"code":"371724108",
 		"fullCode":"371724108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"核桃园镇",
 		"parentCode":"371724"
 	},
@@ -83,7 +83,7 @@
 		"code":"371724109",
 		"fullCode":"371724109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田庄镇",
 		"parentCode":"371724"
 	},
@@ -91,7 +91,7 @@
 		"code":"371724110",
 		"fullCode":"371724110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"371724"
 	},
@@ -99,7 +99,7 @@
 		"code":"371724111",
 		"fullCode":"371724111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万丰镇",
 		"parentCode":"371724"
 	},
@@ -107,7 +107,7 @@
 		"code":"371724112",
 		"fullCode":"371724112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶庙镇",
 		"parentCode":"371724"
 	},
@@ -115,7 +115,7 @@
 		"code":"371724113",
 		"fullCode":"371724113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董官屯镇",
 		"parentCode":"371724"
 	},
@@ -123,7 +123,7 @@
 		"code":"371724114",
 		"fullCode":"371724114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田桥镇",
 		"parentCode":"371724"
 	},
@@ -131,7 +131,7 @@
 		"code":"371724115",
 		"fullCode":"371724115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营里镇",
 		"parentCode":"371724"
 	}

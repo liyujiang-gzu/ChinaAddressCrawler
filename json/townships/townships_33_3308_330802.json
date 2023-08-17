@@ -3,7 +3,7 @@
 		"code":"330802005",
 		"fullCode":"330802005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新新街道",
 		"parentCode":"330802"
 	},
@@ -11,7 +11,7 @@
 		"code":"330802006",
 		"fullCode":"330802006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"府山街道",
 		"parentCode":"330802"
 	},
@@ -19,7 +19,7 @@
 		"code":"330802007",
 		"fullCode":"330802007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷花街道",
 		"parentCode":"330802"
 	},
@@ -27,7 +27,7 @@
 		"code":"330802008",
 		"fullCode":"330802008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"信安街道",
 		"parentCode":"330802"
 	},
@@ -35,7 +35,7 @@
 		"code":"330802009",
 		"fullCode":"330802009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白云街道",
 		"parentCode":"330802"
 	},
@@ -43,7 +43,7 @@
 		"code":"330802010",
 		"fullCode":"330802010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双港街道",
 		"parentCode":"330802"
 	},
@@ -51,7 +51,7 @@
 		"code":"330802012",
 		"fullCode":"330802012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"衢化街道",
 		"parentCode":"330802"
 	},
@@ -59,7 +59,7 @@
 		"code":"330802013",
 		"fullCode":"330802013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花园街道",
 		"parentCode":"330802"
 	},
@@ -67,7 +67,7 @@
 		"code":"330802100",
 		"fullCode":"330802100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石梁镇",
 		"parentCode":"330802"
 	},
@@ -75,7 +75,7 @@
 		"code":"330802101",
 		"fullCode":"330802101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"航埠镇",
 		"parentCode":"330802"
 	},
@@ -83,7 +83,7 @@
 		"code":"330802205",
 		"fullCode":"330802205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄家乡",
 		"parentCode":"330802"
 	},
@@ -91,7 +91,7 @@
 		"code":"330802209",
 		"fullCode":"330802209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里乡",
 		"parentCode":"330802"
 	},
@@ -99,7 +99,7 @@
 		"code":"330802210",
 		"fullCode":"330802210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九华乡",
 		"parentCode":"330802"
 	},
@@ -107,7 +107,7 @@
 		"code":"330802211",
 		"fullCode":"330802211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沟溪乡",
 		"parentCode":"330802"
 	},
@@ -115,7 +115,7 @@
 		"code":"330802212",
 		"fullCode":"330802212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华墅乡",
 		"parentCode":"330802"
 	},
@@ -123,7 +123,7 @@
 		"code":"330802213",
 		"fullCode":"330802213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜家山乡",
 		"parentCode":"330802"
 	},
@@ -131,7 +131,7 @@
 		"code":"330802214",
 		"fullCode":"330802214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万田乡",
 		"parentCode":"330802"
 	},
@@ -139,7 +139,7 @@
 		"code":"330802215",
 		"fullCode":"330802215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石室乡",
 		"parentCode":"330802"
 	}

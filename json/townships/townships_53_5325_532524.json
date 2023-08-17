@@ -3,7 +3,7 @@
 		"code":"532524101",
 		"fullCode":"532524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临安镇",
 		"parentCode":"532524"
 	},
@@ -11,7 +11,7 @@
 		"code":"532524102",
 		"fullCode":"532524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官厅镇",
 		"parentCode":"532524"
 	},
@@ -19,7 +19,7 @@
 		"code":"532524103",
 		"fullCode":"532524103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西庄镇",
 		"parentCode":"532524"
 	},
@@ -27,7 +27,7 @@
 		"code":"532524104",
 		"fullCode":"532524104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙镇",
 		"parentCode":"532524"
 	},
@@ -35,7 +35,7 @@
 		"code":"532524105",
 		"fullCode":"532524105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南庄镇",
 		"parentCode":"532524"
 	},
@@ -43,7 +43,7 @@
 		"code":"532524106",
 		"fullCode":"532524106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岔科镇",
 		"parentCode":"532524"
 	},
@@ -51,7 +51,7 @@
 		"code":"532524107",
 		"fullCode":"532524107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲江镇",
 		"parentCode":"532524"
 	},
@@ -59,7 +59,7 @@
 		"code":"532524108",
 		"fullCode":"532524108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"面甸镇",
 		"parentCode":"532524"
 	},
@@ -67,7 +67,7 @@
 		"code":"532524201",
 		"fullCode":"532524201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普雄乡",
 		"parentCode":"532524"
 	},
@@ -75,7 +75,7 @@
 		"code":"532524202",
 		"fullCode":"532524202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李浩寨乡",
 		"parentCode":"532524"
 	},
@@ -83,7 +83,7 @@
 		"code":"532524203",
 		"fullCode":"532524203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坡头乡",
 		"parentCode":"532524"
 	},
@@ -91,7 +91,7 @@
 		"code":"532524204",
 		"fullCode":"532524204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘江乡",
 		"parentCode":"532524"
 	},
@@ -99,7 +99,7 @@
 		"code":"532524205",
 		"fullCode":"532524205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利民乡",
 		"parentCode":"532524"
 	},
@@ -107,7 +107,7 @@
 		"code":"532524206",
 		"fullCode":"532524206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甸尾乡",
 		"parentCode":"532524"
 	}

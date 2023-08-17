@@ -3,7 +3,7 @@
 		"code":"632726100",
 		"fullCode":"632726100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"约改镇",
 		"parentCode":"632726"
 	},
@@ -11,7 +11,7 @@
 		"code":"632726200",
 		"fullCode":"632726200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴干乡",
 		"parentCode":"632726"
 	},
@@ -19,7 +19,7 @@
 		"code":"632726201",
 		"fullCode":"632726201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秋智乡",
 		"parentCode":"632726"
 	},
@@ -27,7 +27,7 @@
 		"code":"632726202",
 		"fullCode":"632726202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叶格乡",
 		"parentCode":"632726"
 	},
@@ -35,7 +35,7 @@
 		"code":"632726203",
 		"fullCode":"632726203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻多乡",
 		"parentCode":"632726"
 	},
@@ -43,7 +43,7 @@
 		"code":"632726204",
 		"fullCode":"632726204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲麻河乡",
 		"parentCode":"632726"
 	}

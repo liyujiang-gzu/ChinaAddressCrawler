@@ -3,7 +3,7 @@
 		"code":"340209001",
 		"fullCode":"340209001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中南街道",
 		"parentCode":"340209"
 	},
@@ -11,7 +11,7 @@
 		"code":"340209002",
 		"fullCode":"340209002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马塘街道",
 		"parentCode":"340209"
 	},
@@ -19,7 +19,7 @@
 		"code":"340209003",
 		"fullCode":"340209003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瀂港街道",
 		"parentCode":"340209"
 	},
@@ -27,7 +27,7 @@
 		"code":"340209004",
 		"fullCode":"340209004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火龙街道",
 		"parentCode":"340209"
 	},
@@ -35,7 +35,7 @@
 		"code":"340209005",
 		"fullCode":"340209005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马街道",
 		"parentCode":"340209"
 	},
@@ -43,7 +43,7 @@
 		"code":"340209006",
 		"fullCode":"340209006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南瑞街道",
 		"parentCode":"340209"
 	},
@@ -51,7 +51,7 @@
 		"code":"340209007",
 		"fullCode":"340209007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三山街道",
 		"parentCode":"340209"
 	},
@@ -59,7 +59,7 @@
 		"code":"340209008",
 		"fullCode":"340209008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保定街道",
 		"parentCode":"340209"
 	},
@@ -67,7 +67,7 @@
 		"code":"340209009",
 		"fullCode":"340209009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湖街道",
 		"parentCode":"340209"
 	},
@@ -75,7 +75,7 @@
 		"code":"340209010",
 		"fullCode":"340209010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高安街道",
 		"parentCode":"340209"
 	},
@@ -83,7 +83,7 @@
 		"code":"340209100",
 		"fullCode":"340209100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峨桥镇",
 		"parentCode":"340209"
 	},
@@ -91,7 +91,7 @@
 		"code":"340209400",
 		"fullCode":"340209400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芜湖高新技术产业开发区",
 		"parentCode":"340209"
 	}

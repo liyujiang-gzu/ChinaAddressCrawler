@@ -3,7 +3,7 @@
 		"code":"410471001",
 		"fullCode":"410471001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇台街道",
 		"parentCode":"410471"
 	},
@@ -11,7 +11,7 @@
 		"code":"410471100",
 		"fullCode":"410471100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遵化店镇",
 		"parentCode":"410471"
 	}

@@ -3,7 +3,7 @@
 		"code":"513430100",
 		"fullCode":"513430100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天地坝镇",
 		"parentCode":"513430"
 	},
@@ -11,7 +11,7 @@
 		"code":"513430101",
 		"fullCode":"513430101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"派来镇",
 		"parentCode":"513430"
 	},
@@ -19,7 +19,7 @@
 		"code":"513430102",
 		"fullCode":"513430102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦稿镇",
 		"parentCode":"513430"
 	},
@@ -27,7 +27,7 @@
 		"code":"513430103",
 		"fullCode":"513430103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"对坪镇",
 		"parentCode":"513430"
 	},
@@ -35,7 +35,7 @@
 		"code":"513430104",
 		"fullCode":"513430104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南瓦镇",
 		"parentCode":"513430"
 	},
@@ -43,7 +43,7 @@
 		"code":"513430105",
 		"fullCode":"513430105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百草坡镇",
 		"parentCode":"513430"
 	},
@@ -51,7 +51,7 @@
 		"code":"513430106",
 		"fullCode":"513430106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛觉镇",
 		"parentCode":"513430"
 	},
@@ -59,7 +59,7 @@
 		"code":"513430107",
 		"fullCode":"513430107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德溪镇",
 		"parentCode":"513430"
 	},
@@ -67,7 +67,7 @@
 		"code":"513430108",
 		"fullCode":"513430108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丙底镇",
 		"parentCode":"513430"
 	},
@@ -75,7 +75,7 @@
 		"code":"513430201",
 		"fullCode":"513430201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热水河乡",
 		"parentCode":"513430"
 	},
@@ -83,7 +83,7 @@
 		"code":"513430206",
 		"fullCode":"513430206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲依乡",
 		"parentCode":"513430"
 	},
@@ -91,7 +91,7 @@
 		"code":"513430210",
 		"fullCode":"513430210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"基觉乡",
 		"parentCode":"513430"
 	},
@@ -99,7 +99,7 @@
 		"code":"513430211",
 		"fullCode":"513430211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小银木乡",
 		"parentCode":"513430"
 	},
@@ -107,7 +107,7 @@
 		"code":"513430214",
 		"fullCode":"513430214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青松乡",
 		"parentCode":"513430"
 	},
@@ -115,7 +115,7 @@
 		"code":"513430217",
 		"fullCode":"513430217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山江乡",
 		"parentCode":"513430"
 	}

@@ -3,7 +3,7 @@
 		"code":"341881001",
 		"fullCode":"341881001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西津街道",
 		"parentCode":"341881"
 	},
@@ -11,7 +11,7 @@
 		"code":"341881002",
 		"fullCode":"341881002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山街道",
 		"parentCode":"341881"
 	},
@@ -19,7 +19,7 @@
 		"code":"341881003",
 		"fullCode":"341881003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河沥溪街道",
 		"parentCode":"341881"
 	},
@@ -27,7 +27,7 @@
 		"code":"341881004",
 		"fullCode":"341881004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪溪街道",
 		"parentCode":"341881"
 	},
@@ -35,7 +35,7 @@
 		"code":"341881005",
 		"fullCode":"341881005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹峰街道",
 		"parentCode":"341881"
 	},
@@ -43,7 +43,7 @@
 		"code":"341881100",
 		"fullCode":"341881100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港口镇",
 		"parentCode":"341881"
 	},
@@ -51,7 +51,7 @@
 		"code":"341881101",
 		"fullCode":"341881101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅林镇",
 		"parentCode":"341881"
 	},
@@ -59,7 +59,7 @@
 		"code":"341881102",
 		"fullCode":"341881102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中溪镇",
 		"parentCode":"341881"
 	},
@@ -67,7 +67,7 @@
 		"code":"341881103",
 		"fullCode":"341881103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁墩镇",
 		"parentCode":"341881"
 	},
@@ -75,7 +75,7 @@
 		"code":"341881104",
 		"fullCode":"341881104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙霞镇",
 		"parentCode":"341881"
 	},
@@ -83,7 +83,7 @@
 		"code":"341881105",
 		"fullCode":"341881105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲路镇",
 		"parentCode":"341881"
 	},
@@ -91,7 +91,7 @@
 		"code":"341881106",
 		"fullCode":"341881106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡乐镇",
 		"parentCode":"341881"
 	},
@@ -99,7 +99,7 @@
 		"code":"341881107",
 		"fullCode":"341881107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞西镇",
 		"parentCode":"341881"
 	},
@@ -107,7 +107,7 @@
 		"code":"341881200",
 		"fullCode":"341881200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云梯畲族乡",
 		"parentCode":"341881"
 	},
@@ -115,7 +115,7 @@
 		"code":"341881201",
 		"fullCode":"341881201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南极乡",
 		"parentCode":"341881"
 	},
@@ -123,7 +123,7 @@
 		"code":"341881202",
 		"fullCode":"341881202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万家乡",
 		"parentCode":"341881"
 	},
@@ -131,7 +131,7 @@
 		"code":"341881203",
 		"fullCode":"341881203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙乡",
 		"parentCode":"341881"
 	},
@@ -139,7 +139,7 @@
 		"code":"341881204",
 		"fullCode":"341881204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方塘乡",
 		"parentCode":"341881"
 	},
@@ -147,7 +147,7 @@
 		"code":"341881400",
 		"fullCode":"341881400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"经济技术开发区",
 		"parentCode":"341881"
 	}

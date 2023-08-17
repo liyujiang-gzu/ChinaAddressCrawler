@@ -3,7 +3,7 @@
 		"code":"350702",
 		"fullCode":"350702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"延平区",
 		"parentCode":"3507"
 	},
@@ -11,7 +11,7 @@
 		"code":"350703",
 		"fullCode":"350703000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"建阳区",
 		"parentCode":"3507"
 	},
@@ -19,7 +19,7 @@
 		"code":"350721",
 		"fullCode":"350721000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"顺昌县",
 		"parentCode":"3507"
 	},
@@ -27,7 +27,7 @@
 		"code":"350722",
 		"fullCode":"350722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浦城县",
 		"parentCode":"3507"
 	},
@@ -35,7 +35,7 @@
 		"code":"350723",
 		"fullCode":"350723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"光泽县",
 		"parentCode":"3507"
 	},
@@ -43,7 +43,7 @@
 		"code":"350724",
 		"fullCode":"350724000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"松溪县",
 		"parentCode":"3507"
 	},
@@ -51,7 +51,7 @@
 		"code":"350725",
 		"fullCode":"350725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"政和县",
 		"parentCode":"3507"
 	},
@@ -59,7 +59,7 @@
 		"code":"350781",
 		"fullCode":"350781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"邵武市",
 		"parentCode":"3507"
 	},
@@ -67,7 +67,7 @@
 		"code":"350782",
 		"fullCode":"350782000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武夷山市",
 		"parentCode":"3507"
 	},
@@ -75,7 +75,7 @@
 		"code":"350783",
 		"fullCode":"350783000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"建瓯市",
 		"parentCode":"3507"
 	}

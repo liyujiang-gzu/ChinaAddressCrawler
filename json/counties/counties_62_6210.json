@@ -3,7 +3,7 @@
 		"code":"621002",
 		"fullCode":"621002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西峰区",
 		"parentCode":"6210"
 	},
@@ -11,7 +11,7 @@
 		"code":"621021",
 		"fullCode":"621021000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"庆城县",
 		"parentCode":"6210"
 	},
@@ -19,7 +19,7 @@
 		"code":"621022",
 		"fullCode":"621022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"环县",
 		"parentCode":"6210"
 	},
@@ -27,7 +27,7 @@
 		"code":"621023",
 		"fullCode":"621023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"华池县",
 		"parentCode":"6210"
 	},
@@ -35,7 +35,7 @@
 		"code":"621024",
 		"fullCode":"621024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"合水县",
 		"parentCode":"6210"
 	},
@@ -43,7 +43,7 @@
 		"code":"621025",
 		"fullCode":"621025000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"正宁县",
 		"parentCode":"6210"
 	},
@@ -51,7 +51,7 @@
 		"code":"621026",
 		"fullCode":"621026000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁县",
 		"parentCode":"6210"
 	},
@@ -59,7 +59,7 @@
 		"code":"621027",
 		"fullCode":"621027000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"镇原县",
 		"parentCode":"6210"
 	}

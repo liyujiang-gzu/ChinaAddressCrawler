@@ -3,7 +3,7 @@
 		"code":"420583001",
 		"fullCode":"420583001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马家店街道",
 		"parentCode":"420583"
 	},
@@ -11,7 +11,7 @@
 		"code":"420583101",
 		"fullCode":"420583101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安福寺镇",
 		"parentCode":"420583"
 	},
@@ -19,7 +19,7 @@
 		"code":"420583102",
 		"fullCode":"420583102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白洋镇",
 		"parentCode":"420583"
 	},
@@ -27,7 +27,7 @@
 		"code":"420583103",
 		"fullCode":"420583103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顾家店镇",
 		"parentCode":"420583"
 	},
@@ -35,7 +35,7 @@
 		"code":"420583104",
 		"fullCode":"420583104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董市镇",
 		"parentCode":"420583"
 	},
@@ -43,7 +43,7 @@
 		"code":"420583105",
 		"fullCode":"420583105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙女镇",
 		"parentCode":"420583"
 	},
@@ -51,7 +51,7 @@
 		"code":"420583106",
 		"fullCode":"420583106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"问安镇",
 		"parentCode":"420583"
 	},
@@ -59,7 +59,7 @@
 		"code":"420583107",
 		"fullCode":"420583107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七星台镇",
 		"parentCode":"420583"
 	},
@@ -67,7 +67,7 @@
 		"code":"420583108",
 		"fullCode":"420583108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百里洲镇",
 		"parentCode":"420583"
 	}

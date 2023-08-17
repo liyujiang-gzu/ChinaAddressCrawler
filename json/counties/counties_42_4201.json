@@ -3,7 +3,7 @@
 		"code":"420102",
 		"fullCode":"420102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江岸区",
 		"parentCode":"4201"
 	},
@@ -11,7 +11,7 @@
 		"code":"420103",
 		"fullCode":"420103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江汉区",
 		"parentCode":"4201"
 	},
@@ -19,7 +19,7 @@
 		"code":"420104",
 		"fullCode":"420104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"硚口区",
 		"parentCode":"4201"
 	},
@@ -27,7 +27,7 @@
 		"code":"420105",
 		"fullCode":"420105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汉阳区",
 		"parentCode":"4201"
 	},
@@ -35,7 +35,7 @@
 		"code":"420106",
 		"fullCode":"420106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武昌区",
 		"parentCode":"4201"
 	},
@@ -43,7 +43,7 @@
 		"code":"420107",
 		"fullCode":"420107000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"青山区",
 		"parentCode":"4201"
 	},
@@ -51,7 +51,7 @@
 		"code":"420111",
 		"fullCode":"420111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"洪山区",
 		"parentCode":"4201"
 	},
@@ -59,7 +59,7 @@
 		"code":"420112",
 		"fullCode":"420112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东西湖区",
 		"parentCode":"4201"
 	},
@@ -67,7 +67,7 @@
 		"code":"420113",
 		"fullCode":"420113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汉南区",
 		"parentCode":"4201"
 	},
@@ -75,7 +75,7 @@
 		"code":"420114",
 		"fullCode":"420114000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蔡甸区",
 		"parentCode":"4201"
 	},
@@ -83,7 +83,7 @@
 		"code":"420115",
 		"fullCode":"420115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江夏区",
 		"parentCode":"4201"
 	},
@@ -91,7 +91,7 @@
 		"code":"420116",
 		"fullCode":"420116000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黄陂区",
 		"parentCode":"4201"
 	},
@@ -99,7 +99,7 @@
 		"code":"420117",
 		"fullCode":"420117000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新洲区",
 		"parentCode":"4201"
 	}

@@ -3,7 +3,7 @@
 		"code":"513224100",
 		"fullCode":"513224100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"进安镇",
 		"parentCode":"513224"
 	},
@@ -11,7 +11,7 @@
 		"code":"513224101",
 		"fullCode":"513224101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川主寺镇",
 		"parentCode":"513224"
 	},
@@ -19,7 +19,7 @@
 		"code":"513224102",
 		"fullCode":"513224102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青云镇",
 		"parentCode":"513224"
 	},
@@ -27,7 +27,7 @@
 		"code":"513224103",
 		"fullCode":"513224103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛儿盖镇",
 		"parentCode":"513224"
 	},
@@ -35,7 +35,7 @@
 		"code":"513224104",
 		"fullCode":"513224104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇江关镇",
 		"parentCode":"513224"
 	},
@@ -43,7 +43,7 @@
 		"code":"513224105",
 		"fullCode":"513224105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红土镇",
 		"parentCode":"513224"
 	},
@@ -51,7 +51,7 @@
 		"code":"513224106",
 		"fullCode":"513224106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小河镇",
 		"parentCode":"513224"
 	},
@@ -59,7 +59,7 @@
 		"code":"513224201",
 		"fullCode":"513224201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里回族乡",
 		"parentCode":"513224"
 	},
@@ -67,7 +67,7 @@
 		"code":"513224203",
 		"fullCode":"513224203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安宏乡",
 		"parentCode":"513224"
 	},
@@ -75,7 +75,7 @@
 		"code":"513224207",
 		"fullCode":"513224207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇坪乡",
 		"parentCode":"513224"
 	},
@@ -83,7 +83,7 @@
 		"code":"513224208",
 		"fullCode":"513224208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岷江乡",
 		"parentCode":"513224"
 	},
@@ -91,7 +91,7 @@
 		"code":"513224209",
 		"fullCode":"513224209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大姓乡",
 		"parentCode":"513224"
 	},
@@ -99,7 +99,7 @@
 		"code":"513224210",
 		"fullCode":"513224210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白羊乡",
 		"parentCode":"513224"
 	},
@@ -107,7 +107,7 @@
 		"code":"513224213",
 		"fullCode":"513224213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小姓乡",
 		"parentCode":"513224"
 	},
@@ -115,7 +115,7 @@
 		"code":"513224214",
 		"fullCode":"513224214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕云乡",
 		"parentCode":"513224"
 	},
@@ -123,7 +123,7 @@
 		"code":"513224219",
 		"fullCode":"513224219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄龙乡",
 		"parentCode":"513224"
 	},
@@ -131,7 +131,7 @@
 		"code":"513224221",
 		"fullCode":"513224221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下八寨乡",
 		"parentCode":"513224"
 	},
@@ -139,7 +139,7 @@
 		"code":"513224401",
 		"fullCode":"513224401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松潘林业局",
 		"parentCode":"513224"
 	}

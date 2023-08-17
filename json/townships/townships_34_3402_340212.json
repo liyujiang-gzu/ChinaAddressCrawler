@@ -3,7 +3,7 @@
 		"code":"340212100",
 		"fullCode":"340212100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"繁阳镇",
 		"parentCode":"340212"
 	},
@@ -11,7 +11,7 @@
 		"code":"340212101",
 		"fullCode":"340212101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荻港镇",
 		"parentCode":"340212"
 	},
@@ -19,7 +19,7 @@
 		"code":"340212102",
 		"fullCode":"340212102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙村镇",
 		"parentCode":"340212"
 	},
@@ -27,7 +27,7 @@
 		"code":"340212103",
 		"fullCode":"340212103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平铺镇",
 		"parentCode":"340212"
 	},
@@ -35,7 +35,7 @@
 		"code":"340212104",
 		"fullCode":"340212104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新港镇",
 		"parentCode":"340212"
 	},
@@ -43,7 +43,7 @@
 		"code":"340212105",
 		"fullCode":"340212105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峨山镇",
 		"parentCode":"340212"
 	},
@@ -51,7 +51,7 @@
 		"code":"340212401",
 		"fullCode":"340212401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽繁昌工业园区",
 		"parentCode":"340212"
 	}

@@ -3,7 +3,7 @@
 		"code":"341502",
 		"fullCode":"341502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金安区",
 		"parentCode":"3415"
 	},
@@ -11,7 +11,7 @@
 		"code":"341503",
 		"fullCode":"341503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"裕安区",
 		"parentCode":"3415"
 	},
@@ -19,7 +19,7 @@
 		"code":"341504",
 		"fullCode":"341504000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"叶集区",
 		"parentCode":"3415"
 	},
@@ -27,7 +27,7 @@
 		"code":"341522",
 		"fullCode":"341522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"霍邱县",
 		"parentCode":"3415"
 	},
@@ -35,7 +35,7 @@
 		"code":"341523",
 		"fullCode":"341523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"舒城县",
 		"parentCode":"3415"
 	},
@@ -43,7 +43,7 @@
 		"code":"341524",
 		"fullCode":"341524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金寨县",
 		"parentCode":"3415"
 	},
@@ -51,7 +51,7 @@
 		"code":"341525",
 		"fullCode":"341525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"霍山县",
 		"parentCode":"3415"
 	}

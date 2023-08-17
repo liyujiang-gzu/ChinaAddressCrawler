@@ -3,7 +3,7 @@
 		"code":"451481100",
 		"fullCode":"451481100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凭祥镇",
 		"parentCode":"451481"
 	},
@@ -11,7 +11,7 @@
 		"code":"451481101",
 		"fullCode":"451481101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友谊镇",
 		"parentCode":"451481"
 	},
@@ -19,7 +19,7 @@
 		"code":"451481102",
 		"fullCode":"451481102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上石镇",
 		"parentCode":"451481"
 	},
@@ -27,7 +27,7 @@
 		"code":"451481103",
 		"fullCode":"451481103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏石镇",
 		"parentCode":"451481"
 	},
@@ -35,7 +35,7 @@
 		"code":"451481400",
 		"fullCode":"451481400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广西凭祥综合保税区",
 		"parentCode":"451481"
 	}

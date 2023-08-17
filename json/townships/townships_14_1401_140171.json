@@ -3,7 +3,7 @@
 		"code":"140171401",
 		"fullCode":"140171401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐槐园区街道",
 		"parentCode":"140171"
 	},
@@ -11,7 +11,7 @@
 		"code":"140171402",
 		"fullCode":"140171402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学府园区街道",
 		"parentCode":"140171"
 	},
@@ -19,7 +19,7 @@
 		"code":"140171403",
 		"fullCode":"140171403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳曲产业园区街道",
 		"parentCode":"140171"
 	},
@@ -27,7 +27,7 @@
 		"code":"140171404",
 		"fullCode":"140171404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潇河园区街道",
 		"parentCode":"140171"
 	},
@@ -35,7 +35,7 @@
 		"code":"140171405",
 		"fullCode":"140171405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科创城街道",
 		"parentCode":"140171"
 	}

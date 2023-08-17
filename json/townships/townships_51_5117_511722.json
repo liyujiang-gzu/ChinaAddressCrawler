@@ -3,7 +3,7 @@
 		"code":"511722001",
 		"fullCode":"511722001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东乡街道",
 		"parentCode":"511722"
 	},
@@ -11,7 +11,7 @@
 		"code":"511722002",
 		"fullCode":"511722002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲江街道",
 		"parentCode":"511722"
 	},
@@ -19,7 +19,7 @@
 		"code":"511722101",
 		"fullCode":"511722101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"君塘镇",
 		"parentCode":"511722"
 	},
@@ -27,7 +27,7 @@
 		"code":"511722102",
 		"fullCode":"511722102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清溪镇",
 		"parentCode":"511722"
 	},
@@ -35,7 +35,7 @@
 		"code":"511722103",
 		"fullCode":"511722103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普光镇",
 		"parentCode":"511722"
 	},
@@ -43,7 +43,7 @@
 		"code":"511722104",
 		"fullCode":"511722104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天生镇",
 		"parentCode":"511722"
 	},
@@ -51,7 +51,7 @@
 		"code":"511722105",
 		"fullCode":"511722105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏树镇",
 		"parentCode":"511722"
 	},
@@ -59,7 +59,7 @@
 		"code":"511722106",
 		"fullCode":"511722106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芭蕉镇",
 		"parentCode":"511722"
 	},
@@ -67,7 +67,7 @@
 		"code":"511722107",
 		"fullCode":"511722107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南坝镇",
 		"parentCode":"511722"
 	},
@@ -75,7 +75,7 @@
 		"code":"511722108",
 		"fullCode":"511722108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五宝镇",
 		"parentCode":"511722"
 	},
@@ -83,7 +83,7 @@
 		"code":"511722109",
 		"fullCode":"511722109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峰城镇",
 		"parentCode":"511722"
 	},
@@ -91,7 +91,7 @@
 		"code":"511722110",
 		"fullCode":"511722110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土黄镇",
 		"parentCode":"511722"
 	},
@@ -99,7 +99,7 @@
 		"code":"511722111",
 		"fullCode":"511722111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华景镇",
 		"parentCode":"511722"
 	},
@@ -107,7 +107,7 @@
 		"code":"511722112",
 		"fullCode":"511722112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樊哙镇",
 		"parentCode":"511722"
 	},
@@ -115,7 +115,7 @@
 		"code":"511722113",
 		"fullCode":"511722113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华镇",
 		"parentCode":"511722"
 	},
@@ -123,7 +123,7 @@
 		"code":"511722114",
 		"fullCode":"511722114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄金镇",
 		"parentCode":"511722"
 	},
@@ -131,7 +131,7 @@
 		"code":"511722115",
 		"fullCode":"511722115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家镇",
 		"parentCode":"511722"
 	},
@@ -139,7 +139,7 @@
 		"code":"511722116",
 		"fullCode":"511722116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛坝镇",
 		"parentCode":"511722"
 	},
@@ -147,7 +147,7 @@
 		"code":"511722118",
 		"fullCode":"511722118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大成镇",
 		"parentCode":"511722"
 	},
@@ -155,7 +155,7 @@
 		"code":"511722120",
 		"fullCode":"511722120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下八镇",
 		"parentCode":"511722"
 	},
@@ -163,7 +163,7 @@
 		"code":"511722122",
 		"fullCode":"511722122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔河镇",
 		"parentCode":"511722"
 	},
@@ -171,7 +171,7 @@
 		"code":"511722123",
 		"fullCode":"511722123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶河镇",
 		"parentCode":"511722"
 	},
@@ -179,7 +179,7 @@
 		"code":"511722124",
 		"fullCode":"511722124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"厂溪镇",
 		"parentCode":"511722"
 	},
@@ -187,7 +187,7 @@
 		"code":"511722125",
 		"fullCode":"511722125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红峰镇",
 		"parentCode":"511722"
 	},
@@ -195,7 +195,7 @@
 		"code":"511722127",
 		"fullCode":"511722127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马镇",
 		"parentCode":"511722"
 	},
@@ -203,7 +203,7 @@
 		"code":"511722128",
 		"fullCode":"511722128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃花镇",
 		"parentCode":"511722"
 	},
@@ -211,7 +211,7 @@
 		"code":"511722130",
 		"fullCode":"511722130000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马渡关镇",
 		"parentCode":"511722"
 	},
@@ -219,7 +219,7 @@
 		"code":"511722131",
 		"fullCode":"511722131000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙安镇",
 		"parentCode":"511722"
 	},
@@ -227,7 +227,7 @@
 		"code":"511722132",
 		"fullCode":"511722132000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上峡镇",
 		"parentCode":"511722"
 	},
@@ -235,7 +235,7 @@
 		"code":"511722133",
 		"fullCode":"511722133000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南坪镇",
 		"parentCode":"511722"
 	},
@@ -243,7 +243,7 @@
 		"code":"511722204",
 		"fullCode":"511722204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老君乡",
 		"parentCode":"511722"
 	},
@@ -251,7 +251,7 @@
 		"code":"511722205",
 		"fullCode":"511722205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄石乡",
 		"parentCode":"511722"
 	},
@@ -259,7 +259,7 @@
 		"code":"511722222",
 		"fullCode":"511722222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三墩土家族乡",
 		"parentCode":"511722"
 	},
@@ -267,7 +267,7 @@
 		"code":"511722223",
 		"fullCode":"511722223000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漆树土家族乡",
 		"parentCode":"511722"
 	},
@@ -275,7 +275,7 @@
 		"code":"511722224",
 		"fullCode":"511722224000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉土家族乡",
 		"parentCode":"511722"
 	},
@@ -283,7 +283,7 @@
 		"code":"511722225",
 		"fullCode":"511722225000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渡口土家族乡",
 		"parentCode":"511722"
 	},
@@ -291,7 +291,7 @@
 		"code":"511722226",
 		"fullCode":"511722226000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石铁乡",
 		"parentCode":"511722"
 	}

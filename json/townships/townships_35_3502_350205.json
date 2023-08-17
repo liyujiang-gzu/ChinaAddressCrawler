@@ -3,7 +3,7 @@
 		"code":"350205001",
 		"fullCode":"350205001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海沧街道",
 		"parentCode":"350205"
 	},
@@ -11,7 +11,7 @@
 		"code":"350205002",
 		"fullCode":"350205002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新阳街道",
 		"parentCode":"350205"
 	},
@@ -19,7 +19,7 @@
 		"code":"350205003",
 		"fullCode":"350205003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嵩屿街道",
 		"parentCode":"350205"
 	},
@@ -27,7 +27,7 @@
 		"code":"350205004",
 		"fullCode":"350205004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东孚街道",
 		"parentCode":"350205"
 	},
@@ -35,7 +35,7 @@
 		"code":"350205403",
 		"fullCode":"350205403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天竺山林场",
 		"parentCode":"350205"
 	},
@@ -43,7 +43,7 @@
 		"code":"350205407",
 		"fullCode":"350205407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"厦门海沧保税港区",
 		"parentCode":"350205"
 	}

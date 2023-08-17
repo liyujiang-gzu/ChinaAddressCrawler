@@ -3,7 +3,7 @@
 		"code":"411221100",
 		"fullCode":"411221100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"411221"
 	},
@@ -11,7 +11,7 @@
 		"code":"411221101",
 		"fullCode":"411221101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英豪镇",
 		"parentCode":"411221"
 	},
@@ -19,7 +19,7 @@
 		"code":"411221102",
 		"fullCode":"411221102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张村镇",
 		"parentCode":"411221"
 	},
@@ -27,7 +27,7 @@
 		"code":"411221103",
 		"fullCode":"411221103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪阳镇",
 		"parentCode":"411221"
 	},
@@ -35,7 +35,7 @@
 		"code":"411221104",
 		"fullCode":"411221104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天池镇",
 		"parentCode":"411221"
 	},
@@ -43,7 +43,7 @@
 		"code":"411221105",
 		"fullCode":"411221105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仰韶镇",
 		"parentCode":"411221"
 	},
@@ -51,7 +51,7 @@
 		"code":"411221203",
 		"fullCode":"411221203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁村乡",
 		"parentCode":"411221"
 	},
@@ -59,7 +59,7 @@
 		"code":"411221206",
 		"fullCode":"411221206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"果园乡",
 		"parentCode":"411221"
 	},
@@ -67,7 +67,7 @@
 		"code":"411221207",
 		"fullCode":"411221207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈村乡",
 		"parentCode":"411221"
 	},
@@ -75,7 +75,7 @@
 		"code":"411221208",
 		"fullCode":"411221208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坡头乡",
 		"parentCode":"411221"
 	},
@@ -83,7 +83,7 @@
 		"code":"411221209",
 		"fullCode":"411221209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段村乡",
 		"parentCode":"411221"
 	},
@@ -91,7 +91,7 @@
 		"code":"411221210",
 		"fullCode":"411221210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南村乡",
 		"parentCode":"411221"
 	}

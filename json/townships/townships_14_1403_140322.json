@@ -3,7 +3,7 @@
 		"code":"140322100",
 		"fullCode":"140322100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀水镇",
 		"parentCode":"140322"
 	},
@@ -11,7 +11,7 @@
 		"code":"140322101",
 		"fullCode":"140322101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙家庄镇",
 		"parentCode":"140322"
 	},
@@ -19,7 +19,7 @@
 		"code":"140322102",
 		"fullCode":"140322102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路家村镇",
 		"parentCode":"140322"
 	},
@@ -27,7 +27,7 @@
 		"code":"140322103",
 		"fullCode":"140322103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南娄镇",
 		"parentCode":"140322"
 	},
@@ -35,7 +35,7 @@
 		"code":"140322104",
 		"fullCode":"140322104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛村镇",
 		"parentCode":"140322"
 	},
@@ -43,7 +43,7 @@
 		"code":"140322105",
 		"fullCode":"140322105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苌池镇",
 		"parentCode":"140322"
 	},
@@ -51,7 +51,7 @@
 		"code":"140322106",
 		"fullCode":"140322106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上社镇",
 		"parentCode":"140322"
 	},
@@ -59,7 +59,7 @@
 		"code":"140322107",
 		"fullCode":"140322107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西烟镇",
 		"parentCode":"140322"
 	},
@@ -67,7 +67,7 @@
 		"code":"140322200",
 		"fullCode":"140322200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙人乡",
 		"parentCode":"140322"
 	},
@@ -75,7 +75,7 @@
 		"code":"140322201",
 		"fullCode":"140322201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北下庄乡",
 		"parentCode":"140322"
 	},
@@ -83,7 +83,7 @@
 		"code":"140322203",
 		"fullCode":"140322203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁家寨乡",
 		"parentCode":"140322"
 	},
@@ -91,7 +91,7 @@
 		"code":"140322204",
 		"fullCode":"140322204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西潘乡",
 		"parentCode":"140322"
 	},
@@ -99,7 +99,7 @@
 		"code":"140322205",
 		"fullCode":"140322205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东梁乡",
 		"parentCode":"140322"
 	}

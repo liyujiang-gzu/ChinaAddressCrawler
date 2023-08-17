@@ -3,7 +3,7 @@
 		"code":"220702001",
 		"fullCode":"220702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结街道",
 		"parentCode":"220702"
 	},
@@ -11,7 +11,7 @@
 		"code":"220702002",
 		"fullCode":"220702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文化街道",
 		"parentCode":"220702"
 	},
@@ -19,7 +19,7 @@
 		"code":"220702003",
 		"fullCode":"220702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民主街道",
 		"parentCode":"220702"
 	},
@@ -27,7 +27,7 @@
 		"code":"220702004",
 		"fullCode":"220702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江街道",
 		"parentCode":"220702"
 	},
@@ -35,7 +35,7 @@
 		"code":"220702005",
 		"fullCode":"220702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新区街道",
 		"parentCode":"220702"
 	},
@@ -43,7 +43,7 @@
 		"code":"220702006",
 		"fullCode":"220702006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进街道",
 		"parentCode":"220702"
 	},
@@ -51,7 +51,7 @@
 		"code":"220702007",
 		"fullCode":"220702007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"220702"
 	},
@@ -59,7 +59,7 @@
 		"code":"220702008",
 		"fullCode":"220702008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工农街道",
 		"parentCode":"220702"
 	},
@@ -67,7 +67,7 @@
 		"code":"220702009",
 		"fullCode":"220702009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿江街道",
 		"parentCode":"220702"
 	},
@@ -75,7 +75,7 @@
 		"code":"220702010",
 		"fullCode":"220702010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西街道",
 		"parentCode":"220702"
 	},
@@ -83,7 +83,7 @@
 		"code":"220702011",
 		"fullCode":"220702011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"繁荣街道",
 		"parentCode":"220702"
 	},
@@ -91,7 +91,7 @@
 		"code":"220702012",
 		"fullCode":"220702012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设街道",
 		"parentCode":"220702"
 	},
@@ -99,7 +99,7 @@
 		"code":"220702013",
 		"fullCode":"220702013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石化街道",
 		"parentCode":"220702"
 	},
@@ -107,7 +107,7 @@
 		"code":"220702014",
 		"fullCode":"220702014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伯都讷街道",
 		"parentCode":"220702"
 	},
@@ -115,7 +115,7 @@
 		"code":"220702015",
 		"fullCode":"220702015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长宁街道",
 		"parentCode":"220702"
 	},
@@ -123,7 +123,7 @@
 		"code":"220702016",
 		"fullCode":"220702016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨江街道",
 		"parentCode":"220702"
 	},
@@ -131,7 +131,7 @@
 		"code":"220702017",
 		"fullCode":"220702017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镜湖街道",
 		"parentCode":"220702"
 	},
@@ -139,7 +139,7 @@
 		"code":"220702100",
 		"fullCode":"220702100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大洼镇",
 		"parentCode":"220702"
 	},
@@ -147,7 +147,7 @@
 		"code":"220702101",
 		"fullCode":"220702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"善友镇",
 		"parentCode":"220702"
 	},
@@ -155,7 +155,7 @@
 		"code":"220702102",
 		"fullCode":"220702102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛都站镇",
 		"parentCode":"220702"
 	},
@@ -163,7 +163,7 @@
 		"code":"220702103",
 		"fullCode":"220702103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈达山镇",
 		"parentCode":"220702"
 	},
@@ -171,7 +171,7 @@
 		"code":"220702200",
 		"fullCode":"220702200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城乡",
 		"parentCode":"220702"
 	},
@@ -179,7 +179,7 @@
 		"code":"220702202",
 		"fullCode":"220702202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伯都乡",
 		"parentCode":"220702"
 	},
@@ -187,7 +187,7 @@
 		"code":"220702400",
 		"fullCode":"220702400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华侨农场",
 		"parentCode":"220702"
 	},
@@ -195,7 +195,7 @@
 		"code":"220702401",
 		"fullCode":"220702401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大洼商业渔场",
 		"parentCode":"220702"
 	},
@@ -203,7 +203,7 @@
 		"code":"220702402",
 		"fullCode":"220702402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营善友林场",
 		"parentCode":"220702"
 	},
@@ -211,7 +211,7 @@
 		"code":"220702403",
 		"fullCode":"220702403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营八家子苗圃",
 		"parentCode":"220702"
 	},
@@ -219,7 +219,7 @@
 		"code":"220702404",
 		"fullCode":"220702404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良种繁育场",
 		"parentCode":"220702"
 	},
@@ -227,7 +227,7 @@
 		"code":"220702405",
 		"fullCode":"220702405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈达山林场",
 		"parentCode":"220702"
 	},
@@ -235,7 +235,7 @@
 		"code":"220702406",
 		"fullCode":"220702406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅达虹工业集中区",
 		"parentCode":"220702"
 	}

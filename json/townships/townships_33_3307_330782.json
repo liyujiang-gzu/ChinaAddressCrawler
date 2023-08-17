@@ -3,7 +3,7 @@
 		"code":"330782001",
 		"fullCode":"330782001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稠城街道",
 		"parentCode":"330782"
 	},
@@ -11,7 +11,7 @@
 		"code":"330782002",
 		"fullCode":"330782002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江东街道",
 		"parentCode":"330782"
 	},
@@ -19,7 +19,7 @@
 		"code":"330782003",
 		"fullCode":"330782003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稠江街道",
 		"parentCode":"330782"
 	},
@@ -27,7 +27,7 @@
 		"code":"330782004",
 		"fullCode":"330782004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北苑街道",
 		"parentCode":"330782"
 	},
@@ -35,7 +35,7 @@
 		"code":"330782005",
 		"fullCode":"330782005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后宅街道",
 		"parentCode":"330782"
 	},
@@ -43,7 +43,7 @@
 		"code":"330782006",
 		"fullCode":"330782006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"330782"
 	},
@@ -51,7 +51,7 @@
 		"code":"330782007",
 		"fullCode":"330782007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"廿三里街道",
 		"parentCode":"330782"
 	},
@@ -59,7 +59,7 @@
 		"code":"330782008",
 		"fullCode":"330782008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福田街道",
 		"parentCode":"330782"
 	},
@@ -67,7 +67,7 @@
 		"code":"330782100",
 		"fullCode":"330782100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛堂镇",
 		"parentCode":"330782"
 	},
@@ -75,7 +75,7 @@
 		"code":"330782101",
 		"fullCode":"330782101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤岸镇",
 		"parentCode":"330782"
 	},
@@ -83,7 +83,7 @@
 		"code":"330782102",
 		"fullCode":"330782102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义亭镇",
 		"parentCode":"330782"
 	},
@@ -91,7 +91,7 @@
 		"code":"330782104",
 		"fullCode":"330782104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上溪镇",
 		"parentCode":"330782"
 	},
@@ -99,7 +99,7 @@
 		"code":"330782105",
 		"fullCode":"330782105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏溪镇",
 		"parentCode":"330782"
 	},
@@ -107,7 +107,7 @@
 		"code":"330782106",
 		"fullCode":"330782106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大陈镇",
 		"parentCode":"330782"
 	}

@@ -3,7 +3,7 @@
 		"code":"410773001",
 		"fullCode":"410773001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙源街道",
 		"parentCode":"410773"
 	},
@@ -11,7 +11,7 @@
 		"code":"410773101",
 		"fullCode":"410773101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"原武镇",
 		"parentCode":"410773"
 	},
@@ -19,7 +19,7 @@
 		"code":"410773102",
 		"fullCode":"410773102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"师寨镇",
 		"parentCode":"410773"
 	},
@@ -27,7 +27,7 @@
 		"code":"410773106",
 		"fullCode":"410773106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩董庄镇",
 		"parentCode":"410773"
 	},
@@ -35,7 +35,7 @@
 		"code":"410773203",
 		"fullCode":"410773203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祝楼乡",
 		"parentCode":"410773"
 	},
@@ -43,7 +43,7 @@
 		"code":"410773204",
 		"fullCode":"410773204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥北乡",
 		"parentCode":"410773"
 	}

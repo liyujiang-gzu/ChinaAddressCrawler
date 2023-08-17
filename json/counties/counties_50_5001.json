@@ -3,7 +3,7 @@
 		"code":"500101",
 		"fullCode":"500101000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"万州区",
 		"parentCode":"5001"
 	},
@@ -11,7 +11,7 @@
 		"code":"500102",
 		"fullCode":"500102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"涪陵区",
 		"parentCode":"5001"
 	},
@@ -19,7 +19,7 @@
 		"code":"500103",
 		"fullCode":"500103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"渝中区",
 		"parentCode":"5001"
 	},
@@ -27,7 +27,7 @@
 		"code":"500104",
 		"fullCode":"500104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大渡口区",
 		"parentCode":"5001"
 	},
@@ -35,7 +35,7 @@
 		"code":"500105",
 		"fullCode":"500105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江北区",
 		"parentCode":"5001"
 	},
@@ -43,7 +43,7 @@
 		"code":"500106",
 		"fullCode":"500106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沙坪坝区",
 		"parentCode":"5001"
 	},
@@ -51,7 +51,7 @@
 		"code":"500107",
 		"fullCode":"500107000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"九龙坡区",
 		"parentCode":"5001"
 	},
@@ -59,7 +59,7 @@
 		"code":"500108",
 		"fullCode":"500108000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南岸区",
 		"parentCode":"5001"
 	},
@@ -67,7 +67,7 @@
 		"code":"500109",
 		"fullCode":"500109000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"北碚区",
 		"parentCode":"5001"
 	},
@@ -75,7 +75,7 @@
 		"code":"500110",
 		"fullCode":"500110000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"綦江区",
 		"parentCode":"5001"
 	},
@@ -83,7 +83,7 @@
 		"code":"500111",
 		"fullCode":"500111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大足区",
 		"parentCode":"5001"
 	},
@@ -91,7 +91,7 @@
 		"code":"500112",
 		"fullCode":"500112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"渝北区",
 		"parentCode":"5001"
 	},
@@ -99,7 +99,7 @@
 		"code":"500113",
 		"fullCode":"500113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巴南区",
 		"parentCode":"5001"
 	},
@@ -107,7 +107,7 @@
 		"code":"500114",
 		"fullCode":"500114000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黔江区",
 		"parentCode":"5001"
 	},
@@ -115,7 +115,7 @@
 		"code":"500115",
 		"fullCode":"500115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长寿区",
 		"parentCode":"5001"
 	},
@@ -123,7 +123,7 @@
 		"code":"500116",
 		"fullCode":"500116000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江津区",
 		"parentCode":"5001"
 	},
@@ -131,7 +131,7 @@
 		"code":"500117",
 		"fullCode":"500117000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"合川区",
 		"parentCode":"5001"
 	},
@@ -139,7 +139,7 @@
 		"code":"500118",
 		"fullCode":"500118000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永川区",
 		"parentCode":"5001"
 	},
@@ -147,7 +147,7 @@
 		"code":"500119",
 		"fullCode":"500119000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南川区",
 		"parentCode":"5001"
 	},
@@ -155,7 +155,7 @@
 		"code":"500120",
 		"fullCode":"500120000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"璧山区",
 		"parentCode":"5001"
 	},
@@ -163,7 +163,7 @@
 		"code":"500151",
 		"fullCode":"500151000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铜梁区",
 		"parentCode":"5001"
 	},
@@ -171,7 +171,7 @@
 		"code":"500152",
 		"fullCode":"500152000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"潼南区",
 		"parentCode":"5001"
 	},
@@ -179,7 +179,7 @@
 		"code":"500153",
 		"fullCode":"500153000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"荣昌区",
 		"parentCode":"5001"
 	},
@@ -187,7 +187,7 @@
 		"code":"500154",
 		"fullCode":"500154000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"开州区",
 		"parentCode":"5001"
 	},
@@ -195,7 +195,7 @@
 		"code":"500155",
 		"fullCode":"500155000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"梁平区",
 		"parentCode":"5001"
 	},
@@ -203,7 +203,7 @@
 		"code":"500156",
 		"fullCode":"500156000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武隆区",
 		"parentCode":"5001"
 	}

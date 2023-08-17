@@ -3,7 +3,7 @@
 		"code":"140426101",
 		"fullCode":"140426101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东阳关镇",
 		"parentCode":"140426"
 	},
@@ -11,7 +11,7 @@
 		"code":"140426102",
 		"fullCode":"140426102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上遥镇",
 		"parentCode":"140426"
 	},
@@ -19,7 +19,7 @@
 		"code":"140426103",
 		"fullCode":"140426103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西井镇",
 		"parentCode":"140426"
 	},
@@ -27,7 +27,7 @@
 		"code":"140426104",
 		"fullCode":"140426104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄崖洞镇",
 		"parentCode":"140426"
 	},
@@ -35,7 +35,7 @@
 		"code":"140426105",
 		"fullCode":"140426105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎侯镇",
 		"parentCode":"140426"
 	},
@@ -43,7 +43,7 @@
 		"code":"140426106",
 		"fullCode":"140426106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪井镇",
 		"parentCode":"140426"
 	},
@@ -51,7 +51,7 @@
 		"code":"140426107",
 		"fullCode":"140426107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西仵镇",
 		"parentCode":"140426"
 	},
@@ -59,7 +59,7 @@
 		"code":"140426108",
 		"fullCode":"140426108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程家山镇",
 		"parentCode":"140426"
 	},
@@ -67,7 +67,7 @@
 		"code":"140426400",
 		"fullCode":"140426400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎城县经济技术开发区",
 		"parentCode":"140426"
 	}

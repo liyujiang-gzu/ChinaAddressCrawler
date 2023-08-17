@@ -3,7 +3,7 @@
 		"code":"220523001",
 		"fullCode":"220523001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东凤街道",
 		"parentCode":"220523"
 	},
@@ -11,7 +11,7 @@
 		"code":"220523002",
 		"fullCode":"220523002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝辉街道",
 		"parentCode":"220523"
 	},
@@ -19,7 +19,7 @@
 		"code":"220523003",
 		"fullCode":"220523003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西凤街道",
 		"parentCode":"220523"
 	},
@@ -27,7 +27,7 @@
 		"code":"220523100",
 		"fullCode":"220523100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳镇",
 		"parentCode":"220523"
 	},
@@ -35,7 +35,7 @@
 		"code":"220523101",
 		"fullCode":"220523101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辉南镇",
 		"parentCode":"220523"
 	},
@@ -43,7 +43,7 @@
 		"code":"220523102",
 		"fullCode":"220523102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"样子哨镇",
 		"parentCode":"220523"
 	},
@@ -51,7 +51,7 @@
 		"code":"220523103",
 		"fullCode":"220523103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杉松岗镇",
 		"parentCode":"220523"
 	},
@@ -59,7 +59,7 @@
 		"code":"220523104",
 		"fullCode":"220523104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石道河镇",
 		"parentCode":"220523"
 	},
@@ -67,7 +67,7 @@
 		"code":"220523105",
 		"fullCode":"220523105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辉发城镇",
 		"parentCode":"220523"
 	},
@@ -75,7 +75,7 @@
 		"code":"220523106",
 		"fullCode":"220523106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抚民镇",
 		"parentCode":"220523"
 	},
@@ -83,7 +83,7 @@
 		"code":"220523107",
 		"fullCode":"220523107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金川镇",
 		"parentCode":"220523"
 	},
@@ -91,7 +91,7 @@
 		"code":"220523108",
 		"fullCode":"220523108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团林镇",
 		"parentCode":"220523"
 	},
@@ -99,7 +99,7 @@
 		"code":"220523109",
 		"fullCode":"220523109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆阳镇",
 		"parentCode":"220523"
 	},
@@ -107,7 +107,7 @@
 		"code":"220523200",
 		"fullCode":"220523200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楼街朝鲜族乡",
 		"parentCode":"220523"
 	}

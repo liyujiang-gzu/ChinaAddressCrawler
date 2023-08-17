@@ -3,7 +3,7 @@
 		"code":"211324001",
 		"fullCode":"211324001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大城子街道",
 		"parentCode":"211324"
 	},
@@ -11,7 +11,7 @@
 		"code":"211324002",
 		"fullCode":"211324002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利州街道",
 		"parentCode":"211324"
 	},
@@ -19,7 +19,7 @@
 		"code":"211324101",
 		"fullCode":"211324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南公营子镇",
 		"parentCode":"211324"
 	},
@@ -27,7 +27,7 @@
 		"code":"211324102",
 		"fullCode":"211324102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山嘴子镇",
 		"parentCode":"211324"
 	},
@@ -35,7 +35,7 @@
 		"code":"211324104",
 		"fullCode":"211324104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公营子镇",
 		"parentCode":"211324"
 	},
@@ -43,7 +43,7 @@
 		"code":"211324105",
 		"fullCode":"211324105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔子镇",
 		"parentCode":"211324"
 	},
@@ -51,7 +51,7 @@
 		"code":"211324106",
 		"fullCode":"211324106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中三家镇",
 		"parentCode":"211324"
 	},
@@ -59,7 +59,7 @@
 		"code":"211324107",
 		"fullCode":"211324107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老爷庙镇",
 		"parentCode":"211324"
 	},
@@ -67,7 +67,7 @@
 		"code":"211324108",
 		"fullCode":"211324108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六官营子镇",
 		"parentCode":"211324"
 	},
@@ -75,7 +75,7 @@
 		"code":"211324109",
 		"fullCode":"211324109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平房子镇",
 		"parentCode":"211324"
 	},
@@ -83,7 +83,7 @@
 		"code":"211324110",
 		"fullCode":"211324110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十二德堡镇",
 		"parentCode":"211324"
 	},
@@ -91,7 +91,7 @@
 		"code":"211324111",
 		"fullCode":"211324111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊角沟镇",
 		"parentCode":"211324"
 	},
@@ -99,7 +99,7 @@
 		"code":"211324112",
 		"fullCode":"211324112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆庄镇",
 		"parentCode":"211324"
 	},
@@ -107,7 +107,7 @@
 		"code":"211324113",
 		"fullCode":"211324113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘招镇",
 		"parentCode":"211324"
 	},
@@ -115,7 +115,7 @@
 		"code":"211324114",
 		"fullCode":"211324114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东哨镇",
 		"parentCode":"211324"
 	},
@@ -123,7 +123,7 @@
 		"code":"211324115",
 		"fullCode":"211324115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水泉镇",
 		"parentCode":"211324"
 	},
@@ -131,7 +131,7 @@
 		"code":"211324204",
 		"fullCode":"211324204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尤杖子乡",
 		"parentCode":"211324"
 	},
@@ -139,7 +139,7 @@
 		"code":"211324207",
 		"fullCode":"211324207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草场乡",
 		"parentCode":"211324"
 	},
@@ -147,7 +147,7 @@
 		"code":"211324210",
 		"fullCode":"211324210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坤都营子乡",
 		"parentCode":"211324"
 	},
@@ -155,7 +155,7 @@
 		"code":"211324211",
 		"fullCode":"211324211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营子乡",
 		"parentCode":"211324"
 	},
@@ -163,7 +163,7 @@
 		"code":"211324214",
 		"fullCode":"211324214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧虎沟乡",
 		"parentCode":"211324"
 	},
@@ -171,7 +171,7 @@
 		"code":"211324400",
 		"fullCode":"211324400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营官大海农场",
 		"parentCode":"211324"
 	}

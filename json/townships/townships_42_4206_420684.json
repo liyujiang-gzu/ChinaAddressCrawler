@@ -3,7 +3,7 @@
 		"code":"420684001",
 		"fullCode":"420684001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鄢城街道",
 		"parentCode":"420684"
 	},
@@ -11,7 +11,7 @@
 		"code":"420684002",
 		"fullCode":"420684002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南营街道",
 		"parentCode":"420684"
 	},
@@ -19,7 +19,7 @@
 		"code":"420684003",
 		"fullCode":"420684003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头街道",
 		"parentCode":"420684"
 	},
@@ -27,7 +27,7 @@
 		"code":"420684102",
 		"fullCode":"420684102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑集镇",
 		"parentCode":"420684"
 	},
@@ -35,7 +35,7 @@
 		"code":"420684103",
 		"fullCode":"420684103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小河镇",
 		"parentCode":"420684"
 	},
@@ -43,7 +43,7 @@
 		"code":"420684104",
 		"fullCode":"420684104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘猴镇",
 		"parentCode":"420684"
 	},
@@ -51,7 +51,7 @@
 		"code":"420684105",
 		"fullCode":"420684105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔湾镇",
 		"parentCode":"420684"
 	},
@@ -59,7 +59,7 @@
 		"code":"420684106",
 		"fullCode":"420684106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流水镇",
 		"parentCode":"420684"
 	},
@@ -67,7 +67,7 @@
 		"code":"420684107",
 		"fullCode":"420684107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥店镇",
 		"parentCode":"420684"
 	},
@@ -75,7 +75,7 @@
 		"code":"420684108",
 		"fullCode":"420684108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王集镇",
 		"parentCode":"420684"
 	},
@@ -83,7 +83,7 @@
 		"code":"420684109",
 		"fullCode":"420684109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷河镇",
 		"parentCode":"420684"
 	},
@@ -91,7 +91,7 @@
 		"code":"420684400",
 		"fullCode":"420684400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"襄南监狱",
 		"parentCode":"420684"
 	},
@@ -99,7 +99,7 @@
 		"code":"420684401",
 		"fullCode":"420684401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"劳教所",
 		"parentCode":"420684"
 	},
@@ -107,7 +107,7 @@
 		"code":"420684450",
 		"fullCode":"420684450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大雁工业园区",
 		"parentCode":"420684"
 	},
@@ -115,7 +115,7 @@
 		"code":"420684452",
 		"fullCode":"420684452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜城经济开发区",
 		"parentCode":"420684"
 	}

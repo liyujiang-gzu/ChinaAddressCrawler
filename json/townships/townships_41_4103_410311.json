@@ -3,7 +3,7 @@
 		"code":"410311002",
 		"fullCode":"410311002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开元路街道",
 		"parentCode":"410311"
 	},
@@ -11,7 +11,7 @@
 		"code":"410311003",
 		"fullCode":"410311003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门石窟街道",
 		"parentCode":"410311"
 	},
@@ -19,7 +19,7 @@
 		"code":"410311004",
 		"fullCode":"410311004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关林街道",
 		"parentCode":"410311"
 	},
@@ -27,7 +27,7 @@
 		"code":"410311005",
 		"fullCode":"410311005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太康东路街道",
 		"parentCode":"410311"
 	},
@@ -35,7 +35,7 @@
 		"code":"410311006",
 		"fullCode":"410311006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城街道",
 		"parentCode":"410311"
 	},
@@ -43,7 +43,7 @@
 		"code":"410311007",
 		"fullCode":"410311007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科技园街道",
 		"parentCode":"410311"
 	},
@@ -51,7 +51,7 @@
 		"code":"410311008",
 		"fullCode":"410311008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠云路街道",
 		"parentCode":"410311"
 	},
@@ -59,7 +59,7 @@
 		"code":"410311009",
 		"fullCode":"410311009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门街道",
 		"parentCode":"410311"
 	},
@@ -67,7 +67,7 @@
 		"code":"410311010",
 		"fullCode":"410311010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学府街道",
 		"parentCode":"410311"
 	},
@@ -75,7 +75,7 @@
 		"code":"410311011",
 		"fullCode":"410311011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定鼎门街道",
 		"parentCode":"410311"
 	},
@@ -83,7 +83,7 @@
 		"code":"410311012",
 		"fullCode":"410311012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李楼街道",
 		"parentCode":"410311"
 	},
@@ -91,7 +91,7 @@
 		"code":"410311013",
 		"fullCode":"410311013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安乐街道",
 		"parentCode":"410311"
 	},
@@ -99,7 +99,7 @@
 		"code":"410311014",
 		"fullCode":"410311014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰李街道",
 		"parentCode":"410311"
 	},
@@ -107,7 +107,7 @@
 		"code":"410311021",
 		"fullCode":"410311021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李村街道",
 		"parentCode":"410311"
 	},
@@ -115,7 +115,7 @@
 		"code":"410311194",
 		"fullCode":"410311194000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寇店镇",
 		"parentCode":"410311"
 	},
@@ -123,7 +123,7 @@
 		"code":"410311195",
 		"fullCode":"410311195000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"诸葛镇",
 		"parentCode":"410311"
 	},
@@ -131,7 +131,7 @@
 		"code":"410311197",
 		"fullCode":"410311197000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庞村镇",
 		"parentCode":"410311"
 	},
@@ -139,7 +139,7 @@
 		"code":"410311199",
 		"fullCode":"410311199000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佃庄镇",
 		"parentCode":"410311"
 	}

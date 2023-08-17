@@ -3,7 +3,7 @@
 		"code":"440304001",
 		"fullCode":"440304001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南园街道",
 		"parentCode":"440304"
 	},
@@ -11,7 +11,7 @@
 		"code":"440304002",
 		"fullCode":"440304002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"园岭街道",
 		"parentCode":"440304"
 	},
@@ -19,7 +19,7 @@
 		"code":"440304004",
 		"fullCode":"440304004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福田街道",
 		"parentCode":"440304"
 	},
@@ -27,7 +27,7 @@
 		"code":"440304005",
 		"fullCode":"440304005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙头街道",
 		"parentCode":"440304"
 	},
@@ -35,7 +35,7 @@
 		"code":"440304006",
 		"fullCode":"440304006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香蜜湖街道",
 		"parentCode":"440304"
 	},
@@ -43,7 +43,7 @@
 		"code":"440304007",
 		"fullCode":"440304007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅林街道",
 		"parentCode":"440304"
 	},
@@ -51,7 +51,7 @@
 		"code":"440304008",
 		"fullCode":"440304008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花街道",
 		"parentCode":"440304"
 	},
@@ -59,7 +59,7 @@
 		"code":"440304009",
 		"fullCode":"440304009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华富街道",
 		"parentCode":"440304"
 	},
@@ -67,7 +67,7 @@
 		"code":"440304010",
 		"fullCode":"440304010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福保街道",
 		"parentCode":"440304"
 	},
@@ -75,7 +75,7 @@
 		"code":"440304011",
 		"fullCode":"440304011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华强北街道",
 		"parentCode":"440304"
 	},
@@ -83,7 +83,7 @@
 		"code":"440304400",
 		"fullCode":"440304400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福田保税区",
 		"parentCode":"440304"
 	}

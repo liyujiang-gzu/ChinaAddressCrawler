@@ -3,7 +3,7 @@
 		"code":"150623100",
 		"fullCode":"150623100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敖勒召其镇",
 		"parentCode":"150623"
 	},
@@ -11,7 +11,7 @@
 		"code":"150623101",
 		"fullCode":"150623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上海庙镇",
 		"parentCode":"150623"
 	},
@@ -19,7 +19,7 @@
 		"code":"150623102",
 		"fullCode":"150623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城川镇",
 		"parentCode":"150623"
 	},
@@ -27,7 +27,7 @@
 		"code":"150623103",
 		"fullCode":"150623103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昂素镇",
 		"parentCode":"150623"
 	},
@@ -35,7 +35,7 @@
 		"code":"150623400",
 		"fullCode":"150623400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上海庙经济开发区",
 		"parentCode":"150623"
 	}

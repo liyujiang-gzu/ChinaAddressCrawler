@@ -3,7 +3,7 @@
 		"code":"652301",
 		"fullCode":"652301000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"昌吉市",
 		"parentCode":"6523"
 	},
@@ -11,7 +11,7 @@
 		"code":"652302",
 		"fullCode":"652302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阜康市",
 		"parentCode":"6523"
 	},
@@ -19,7 +19,7 @@
 		"code":"652323",
 		"fullCode":"652323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"呼图壁县",
 		"parentCode":"6523"
 	},
@@ -27,7 +27,7 @@
 		"code":"652324",
 		"fullCode":"652324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"玛纳斯县",
 		"parentCode":"6523"
 	},
@@ -35,7 +35,7 @@
 		"code":"652325",
 		"fullCode":"652325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"奇台县",
 		"parentCode":"6523"
 	},
@@ -43,7 +43,7 @@
 		"code":"652327",
 		"fullCode":"652327000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"吉木萨尔县",
 		"parentCode":"6523"
 	},
@@ -51,7 +51,7 @@
 		"code":"652328",
 		"fullCode":"652328000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"木垒哈萨克自治县",
 		"parentCode":"6523"
 	}

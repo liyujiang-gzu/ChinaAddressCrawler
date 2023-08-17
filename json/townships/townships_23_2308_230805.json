@@ -3,7 +3,7 @@
 		"code":"230805007",
 		"fullCode":"230805007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晓云街道",
 		"parentCode":"230805"
 	},
@@ -11,7 +11,7 @@
 		"code":"230805008",
 		"fullCode":"230805008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佳东街道",
 		"parentCode":"230805"
 	},
@@ -19,7 +19,7 @@
 		"code":"230805009",
 		"fullCode":"230805009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建国街道",
 		"parentCode":"230805"
 	},
@@ -27,7 +27,7 @@
 		"code":"230805010",
 		"fullCode":"230805010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佳南街道",
 		"parentCode":"230805"
 	},
@@ -35,7 +35,7 @@
 		"code":"230805100",
 		"fullCode":"230805100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建国镇",
 		"parentCode":"230805"
 	},
@@ -43,7 +43,7 @@
 		"code":"230805200",
 		"fullCode":"230805200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松江乡",
 		"parentCode":"230805"
 	}

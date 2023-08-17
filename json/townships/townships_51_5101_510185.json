@@ -3,7 +3,7 @@
 		"code":"510185001",
 		"fullCode":"510185001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"简城街道",
 		"parentCode":"510185"
 	},
@@ -11,7 +11,7 @@
 		"code":"510185002",
 		"fullCode":"510185002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"射洪坝街道",
 		"parentCode":"510185"
 	},
@@ -19,7 +19,7 @@
 		"code":"510185003",
 		"fullCode":"510185003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新市街道",
 		"parentCode":"510185"
 	},
@@ -27,7 +27,7 @@
 		"code":"510185005",
 		"fullCode":"510185005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东溪街道",
 		"parentCode":"510185"
 	},
@@ -35,7 +35,7 @@
 		"code":"510185006",
 		"fullCode":"510185006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平泉街道",
 		"parentCode":"510185"
 	},
@@ -43,7 +43,7 @@
 		"code":"510185007",
 		"fullCode":"510185007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥街道",
 		"parentCode":"510185"
 	},
@@ -51,7 +51,7 @@
 		"code":"510185008",
 		"fullCode":"510185008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤水街道",
 		"parentCode":"510185"
 	},
@@ -59,7 +59,7 @@
 		"code":"510185009",
 		"fullCode":"510185009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石盘街道",
 		"parentCode":"510185"
 	},
@@ -67,7 +67,7 @@
 		"code":"510185010",
 		"fullCode":"510185010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"养马街道",
 		"parentCode":"510185"
 	},
@@ -75,7 +75,7 @@
 		"code":"510185011",
 		"fullCode":"510185011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾家街道",
 		"parentCode":"510185"
 	},
@@ -83,7 +83,7 @@
 		"code":"510185012",
 		"fullCode":"510185012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石板凳街道",
 		"parentCode":"510185"
 	},
@@ -91,7 +91,7 @@
 		"code":"510185013",
 		"fullCode":"510185013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔街道",
 		"parentCode":"510185"
 	},
@@ -99,7 +99,7 @@
 		"code":"510185014",
 		"fullCode":"510185014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草池街道",
 		"parentCode":"510185"
 	},
@@ -107,7 +107,7 @@
 		"code":"510185015",
 		"fullCode":"510185015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福田街道",
 		"parentCode":"510185"
 	},
@@ -115,7 +115,7 @@
 		"code":"510185016",
 		"fullCode":"510185016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉成街道",
 		"parentCode":"510185"
 	},
@@ -123,7 +123,7 @@
 		"code":"510185017",
 		"fullCode":"510185017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹景街道",
 		"parentCode":"510185"
 	},
@@ -131,7 +131,7 @@
 		"code":"510185102",
 		"fullCode":"510185102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家镇",
 		"parentCode":"510185"
 	},
@@ -139,7 +139,7 @@
 		"code":"510185106",
 		"fullCode":"510185106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾丰镇",
 		"parentCode":"510185"
 	},
@@ -147,7 +147,7 @@
 		"code":"510185107",
 		"fullCode":"510185107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云龙镇",
 		"parentCode":"510185"
 	},
@@ -155,7 +155,7 @@
 		"code":"510185108",
 		"fullCode":"510185108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三星镇",
 		"parentCode":"510185"
 	},
@@ -163,7 +163,7 @@
 		"code":"510185113",
 		"fullCode":"510185113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇金镇",
 		"parentCode":"510185"
 	},
@@ -171,7 +171,7 @@
 		"code":"510185114",
 		"fullCode":"510185114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石钟镇",
 		"parentCode":"510185"
 	},
@@ -179,7 +179,7 @@
 		"code":"510185115",
 		"fullCode":"510185115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"施家镇",
 		"parentCode":"510185"
 	},
@@ -187,7 +187,7 @@
 		"code":"510185116",
 		"fullCode":"510185116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三合镇",
 		"parentCode":"510185"
 	},
@@ -195,7 +195,7 @@
 		"code":"510185117",
 		"fullCode":"510185117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平武镇",
 		"parentCode":"510185"
 	},
@@ -203,7 +203,7 @@
 		"code":"510185119",
 		"fullCode":"510185119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"踏水镇",
 		"parentCode":"510185"
 	},
@@ -211,7 +211,7 @@
 		"code":"510185120",
 		"fullCode":"510185120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江源镇",
 		"parentCode":"510185"
 	},
@@ -219,7 +219,7 @@
 		"code":"510185121",
 		"fullCode":"510185121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涌泉镇",
 		"parentCode":"510185"
 	},
@@ -227,7 +227,7 @@
 		"code":"510185122",
 		"fullCode":"510185122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦葭镇",
 		"parentCode":"510185"
 	},
@@ -235,7 +235,7 @@
 		"code":"510185125",
 		"fullCode":"510185125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙镇",
 		"parentCode":"510185"
 	},
@@ -243,7 +243,7 @@
 		"code":"510185126",
 		"fullCode":"510185126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高明镇",
 		"parentCode":"510185"
 	},
@@ -251,7 +251,7 @@
 		"code":"510185127",
 		"fullCode":"510185127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武庙镇",
 		"parentCode":"510185"
 	},
@@ -259,7 +259,7 @@
 		"code":"510185128",
 		"fullCode":"510185128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"壮溪镇",
 		"parentCode":"510185"
 	},
@@ -267,7 +267,7 @@
 		"code":"510185129",
 		"fullCode":"510185129000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏缘镇",
 		"parentCode":"510185"
 	},
@@ -275,7 +275,7 @@
 		"code":"510185130",
 		"fullCode":"510185130000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷家镇",
 		"parentCode":"510185"
 	},
@@ -283,7 +283,7 @@
 		"code":"510185131",
 		"fullCode":"510185131000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董家埂镇",
 		"parentCode":"510185"
 	},
@@ -291,7 +291,7 @@
 		"code":"510185132",
 		"fullCode":"510185132000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海螺镇",
 		"parentCode":"510185"
 	}

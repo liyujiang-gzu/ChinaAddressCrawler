@@ -3,7 +3,7 @@
 		"code":"330903001",
 		"fullCode":"330903001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈家门街道",
 		"parentCode":"330903"
 	},
@@ -11,7 +11,7 @@
 		"code":"330903003",
 		"fullCode":"330903003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东港街道",
 		"parentCode":"330903"
 	},
@@ -19,7 +19,7 @@
 		"code":"330903004",
 		"fullCode":"330903004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱家尖街道",
 		"parentCode":"330903"
 	},
@@ -27,7 +27,7 @@
 		"code":"330903005",
 		"fullCode":"330903005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"展茅街道",
 		"parentCode":"330903"
 	},
@@ -35,7 +35,7 @@
 		"code":"330903100",
 		"fullCode":"330903100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六横镇",
 		"parentCode":"330903"
 	},
@@ -43,7 +43,7 @@
 		"code":"330903102",
 		"fullCode":"330903102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虾峙镇",
 		"parentCode":"330903"
 	},
@@ -51,7 +51,7 @@
 		"code":"330903104",
 		"fullCode":"330903104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃花镇",
 		"parentCode":"330903"
 	},
@@ -59,7 +59,7 @@
 		"code":"330903105",
 		"fullCode":"330903105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东极镇",
 		"parentCode":"330903"
 	},
@@ -67,7 +67,7 @@
 		"code":"330903106",
 		"fullCode":"330903106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普陀山镇",
 		"parentCode":"330903"
 	}

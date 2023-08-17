@@ -3,7 +3,7 @@
 		"code":"430503001",
 		"fullCode":"430503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中心路街道",
 		"parentCode":"430503"
 	},
@@ -11,7 +11,7 @@
 		"code":"430503002",
 		"fullCode":"430503002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗路街道",
 		"parentCode":"430503"
 	},
@@ -19,7 +19,7 @@
 		"code":"430503003",
 		"fullCode":"430503003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北路街道",
 		"parentCode":"430503"
 	},
@@ -27,7 +27,7 @@
 		"code":"430503004",
 		"fullCode":"430503004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"430503"
 	},
@@ -35,7 +35,7 @@
 		"code":"430503005",
 		"fullCode":"430503005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠园街道",
 		"parentCode":"430503"
 	},
@@ -43,7 +43,7 @@
 		"code":"430503006",
 		"fullCode":"430503006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百春园街道",
 		"parentCode":"430503"
 	},
@@ -51,7 +51,7 @@
 		"code":"430503007",
 		"fullCode":"430503007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"430503"
 	},
@@ -59,7 +59,7 @@
 		"code":"430503008",
 		"fullCode":"430503008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火车南站街道",
 		"parentCode":"430503"
 	},
@@ -67,7 +67,7 @@
 		"code":"430503009",
 		"fullCode":"430503009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学院路街道",
 		"parentCode":"430503"
 	},
@@ -75,7 +75,7 @@
 		"code":"430503010",
 		"fullCode":"430503010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雨溪街道",
 		"parentCode":"430503"
 	},
@@ -83,7 +83,7 @@
 		"code":"430503011",
 		"fullCode":"430503011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"檀江街道",
 		"parentCode":"430503"
 	},
@@ -91,7 +91,7 @@
 		"code":"430503101",
 		"fullCode":"430503101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗市镇",
 		"parentCode":"430503"
 	},
@@ -99,7 +99,7 @@
 		"code":"430503202",
 		"fullCode":"430503202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡锷乡",
 		"parentCode":"430503"
 	},
@@ -107,7 +107,7 @@
 		"code":"430503203",
 		"fullCode":"430503203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥乡",
 		"parentCode":"430503"
 	}

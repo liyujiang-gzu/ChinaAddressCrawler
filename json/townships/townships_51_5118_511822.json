@@ -3,7 +3,7 @@
 		"code":"511822001",
 		"fullCode":"511822001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"严道街道",
 		"parentCode":"511822"
 	},
@@ -11,7 +11,7 @@
 		"code":"511822101",
 		"fullCode":"511822101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花滩镇",
 		"parentCode":"511822"
 	},
@@ -19,7 +19,7 @@
 		"code":"511822102",
 		"fullCode":"511822102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙苍沟镇",
 		"parentCode":"511822"
 	},
@@ -27,7 +27,7 @@
 		"code":"511822103",
 		"fullCode":"511822103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛背山镇",
 		"parentCode":"511822"
 	},
@@ -35,7 +35,7 @@
 		"code":"511822104",
 		"fullCode":"511822104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新添镇",
 		"parentCode":"511822"
 	},
@@ -43,7 +43,7 @@
 		"code":"511822105",
 		"fullCode":"511822105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙镇",
 		"parentCode":"511822"
 	},
@@ -51,7 +51,7 @@
 		"code":"511822106",
 		"fullCode":"511822106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荥河镇",
 		"parentCode":"511822"
 	},
@@ -59,7 +59,7 @@
 		"code":"511822107",
 		"fullCode":"511822107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五宪镇",
 		"parentCode":"511822"
 	},
@@ -67,7 +67,7 @@
 		"code":"511822202",
 		"fullCode":"511822202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安靖乡",
 		"parentCode":"511822"
 	},
@@ -75,7 +75,7 @@
 		"code":"511822203",
 		"fullCode":"511822203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民建彝族乡",
 		"parentCode":"511822"
 	},
@@ -83,7 +83,7 @@
 		"code":"511822207",
 		"fullCode":"511822207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗坪乡",
 		"parentCode":"511822"
 	},
@@ -91,7 +91,7 @@
 		"code":"511822212",
 		"fullCode":"511822212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝峰彝族乡",
 		"parentCode":"511822"
 	}

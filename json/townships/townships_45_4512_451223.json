@@ -3,7 +3,7 @@
 		"code":"451223001",
 		"fullCode":"451223001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思源街道",
 		"parentCode":"451223"
 	},
@@ -11,7 +11,7 @@
 		"code":"451223100",
 		"fullCode":"451223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤城镇",
 		"parentCode":"451223"
 	},
@@ -19,7 +19,7 @@
 		"code":"451223101",
 		"fullCode":"451223101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长洲镇",
 		"parentCode":"451223"
 	},
@@ -27,7 +27,7 @@
 		"code":"451223102",
 		"fullCode":"451223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三门海镇",
 		"parentCode":"451223"
 	},
@@ -35,7 +35,7 @@
 		"code":"451223201",
 		"fullCode":"451223201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"砦牙乡",
 		"parentCode":"451223"
 	},
@@ -43,7 +43,7 @@
 		"code":"451223203",
 		"fullCode":"451223203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔音乡",
 		"parentCode":"451223"
 	},
@@ -51,7 +51,7 @@
 		"code":"451223205",
 		"fullCode":"451223205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金牙瑶族乡",
 		"parentCode":"451223"
 	},
@@ -59,7 +59,7 @@
 		"code":"451223207",
 		"fullCode":"451223207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中亭乡",
 		"parentCode":"451223"
 	},
@@ -67,7 +67,7 @@
 		"code":"451223208",
 		"fullCode":"451223208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平乐瑶族乡",
 		"parentCode":"451223"
 	},
@@ -75,7 +75,7 @@
 		"code":"451223209",
 		"fullCode":"451223209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江洲瑶族乡",
 		"parentCode":"451223"
 	}

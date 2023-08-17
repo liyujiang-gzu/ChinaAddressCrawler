@@ -3,7 +3,7 @@
 		"code":"500120001",
 		"fullCode":"500120001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"璧城街道",
 		"parentCode":"500120"
 	},
@@ -11,7 +11,7 @@
 		"code":"500120002",
 		"fullCode":"500120002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"璧泉街道",
 		"parentCode":"500120"
 	},
@@ -19,7 +19,7 @@
 		"code":"500120003",
 		"fullCode":"500120003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青杠街道",
 		"parentCode":"500120"
 	},
@@ -27,7 +27,7 @@
 		"code":"500120004",
 		"fullCode":"500120004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"来凤街道",
 		"parentCode":"500120"
 	},
@@ -35,7 +35,7 @@
 		"code":"500120005",
 		"fullCode":"500120005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁家街道",
 		"parentCode":"500120"
 	},
@@ -43,7 +43,7 @@
 		"code":"500120006",
 		"fullCode":"500120006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大路街道",
 		"parentCode":"500120"
 	},
@@ -51,7 +51,7 @@
 		"code":"500120100",
 		"fullCode":"500120100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八塘镇",
 		"parentCode":"500120"
 	},
@@ -59,7 +59,7 @@
 		"code":"500120101",
 		"fullCode":"500120101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七塘镇",
 		"parentCode":"500120"
 	},
@@ -67,7 +67,7 @@
 		"code":"500120102",
 		"fullCode":"500120102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河边镇",
 		"parentCode":"500120"
 	},
@@ -75,7 +75,7 @@
 		"code":"500120103",
 		"fullCode":"500120103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福禄镇",
 		"parentCode":"500120"
 	},
@@ -83,7 +83,7 @@
 		"code":"500120104",
 		"fullCode":"500120104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴镇",
 		"parentCode":"500120"
 	},
@@ -91,7 +91,7 @@
 		"code":"500120105",
 		"fullCode":"500120105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正兴镇",
 		"parentCode":"500120"
 	},
@@ -99,7 +99,7 @@
 		"code":"500120106",
 		"fullCode":"500120106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广普镇",
 		"parentCode":"500120"
 	},
@@ -107,7 +107,7 @@
 		"code":"500120107",
 		"fullCode":"500120107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三合镇",
 		"parentCode":"500120"
 	},
@@ -115,7 +115,7 @@
 		"code":"500120108",
 		"fullCode":"500120108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"健龙镇",
 		"parentCode":"500120"
 	}

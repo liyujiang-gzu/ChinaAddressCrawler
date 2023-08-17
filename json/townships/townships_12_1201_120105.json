@@ -3,7 +3,7 @@
 		"code":"120105001",
 		"fullCode":"120105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光复道街道",
 		"parentCode":"120105"
 	},
@@ -11,7 +11,7 @@
 		"code":"120105002",
 		"fullCode":"120105002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望海楼街道",
 		"parentCode":"120105"
 	},
@@ -19,7 +19,7 @@
 		"code":"120105003",
 		"fullCode":"120105003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸿顺里街道",
 		"parentCode":"120105"
 	},
@@ -27,7 +27,7 @@
 		"code":"120105004",
 		"fullCode":"120105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新开河街道",
 		"parentCode":"120105"
 	},
@@ -35,7 +35,7 @@
 		"code":"120105005",
 		"fullCode":"120105005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁东路街道",
 		"parentCode":"120105"
 	},
@@ -43,7 +43,7 @@
 		"code":"120105006",
 		"fullCode":"120105006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建昌道街道",
 		"parentCode":"120105"
 	},
@@ -51,7 +51,7 @@
 		"code":"120105007",
 		"fullCode":"120105007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁园街道",
 		"parentCode":"120105"
 	},
@@ -59,7 +59,7 @@
 		"code":"120105008",
 		"fullCode":"120105008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王串场街道",
 		"parentCode":"120105"
 	},
@@ -67,7 +67,7 @@
 		"code":"120105009",
 		"fullCode":"120105009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江都路街道",
 		"parentCode":"120105"
 	},
@@ -75,7 +75,7 @@
 		"code":"120105010",
 		"fullCode":"120105010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月牙河街道",
 		"parentCode":"120105"
 	}

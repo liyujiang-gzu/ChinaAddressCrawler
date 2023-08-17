@@ -3,7 +3,7 @@
 		"code":"140722100",
 		"fullCode":"140722100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽阳镇",
 		"parentCode":"140722"
 	},
@@ -11,7 +11,7 @@
 		"code":"140722101",
 		"fullCode":"140722101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐峪镇",
 		"parentCode":"140722"
 	},
@@ -19,7 +19,7 @@
 		"code":"140722102",
 		"fullCode":"140722102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻田镇",
 		"parentCode":"140722"
 	},
@@ -27,7 +27,7 @@
 		"code":"140722103",
 		"fullCode":"140722103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芹泉镇",
 		"parentCode":"140722"
 	},
@@ -35,7 +35,7 @@
 		"code":"140722104",
 		"fullCode":"140722104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拐儿镇",
 		"parentCode":"140722"
 	},
@@ -43,7 +43,7 @@
 		"code":"140722200",
 		"fullCode":"140722200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寒王乡",
 		"parentCode":"140722"
 	},
@@ -51,7 +51,7 @@
 		"code":"140722201",
 		"fullCode":"140722201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石匣乡",
 		"parentCode":"140722"
 	},
@@ -59,7 +59,7 @@
 		"code":"140722204",
 		"fullCode":"140722204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊角乡",
 		"parentCode":"140722"
 	},
@@ -67,7 +67,7 @@
 		"code":"140722400",
 		"fullCode":"140722400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城区",
 		"parentCode":"140722"
 	}

@@ -3,7 +3,7 @@
 		"code":"532626101",
 		"fullCode":"532626101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦屏镇",
 		"parentCode":"532626"
 	},
@@ -11,7 +11,7 @@
 		"code":"532626102",
 		"fullCode":"532626102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曰者镇",
 		"parentCode":"532626"
 	},
@@ -19,7 +19,7 @@
 		"code":"532626103",
 		"fullCode":"532626103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙营镇",
 		"parentCode":"532626"
 	},
@@ -27,7 +27,7 @@
 		"code":"532626201",
 		"fullCode":"532626201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八道哨彝族乡",
 		"parentCode":"532626"
 	},
@@ -35,7 +35,7 @@
 		"code":"532626202",
 		"fullCode":"532626202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天星乡",
 		"parentCode":"532626"
 	},
@@ -43,7 +43,7 @@
 		"code":"532626203",
 		"fullCode":"532626203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平寨乡",
 		"parentCode":"532626"
 	},
@@ -51,7 +51,7 @@
 		"code":"532626204",
 		"fullCode":"532626204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"树皮彝族乡",
 		"parentCode":"532626"
 	},
@@ -59,7 +59,7 @@
 		"code":"532626205",
 		"fullCode":"532626205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腻脚彝族乡",
 		"parentCode":"532626"
 	},
@@ -67,7 +67,7 @@
 		"code":"532626206",
 		"fullCode":"532626206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店彝族乡",
 		"parentCode":"532626"
 	},
@@ -75,7 +75,7 @@
 		"code":"532626207",
 		"fullCode":"532626207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舍得彝族乡",
 		"parentCode":"532626"
 	},
@@ -83,7 +83,7 @@
 		"code":"532626208",
 		"fullCode":"532626208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官寨乡",
 		"parentCode":"532626"
 	},
@@ -91,7 +91,7 @@
 		"code":"532626209",
 		"fullCode":"532626209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温浏乡",
 		"parentCode":"532626"
 	}

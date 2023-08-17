@@ -3,7 +3,7 @@
 		"code":"230421100",
 		"fullCode":"230421100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤翔镇",
 		"parentCode":"230421"
 	},
@@ -11,7 +11,7 @@
 		"code":"230421101",
 		"fullCode":"230421101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤北镇",
 		"parentCode":"230421"
 	},
@@ -19,7 +19,7 @@
 		"code":"230421102",
 		"fullCode":"230421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"名山镇",
 		"parentCode":"230421"
 	},
@@ -27,7 +27,7 @@
 		"code":"230421103",
 		"fullCode":"230421103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结镇",
 		"parentCode":"230421"
 	},
@@ -35,7 +35,7 @@
 		"code":"230421104",
 		"fullCode":"230421104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肇兴镇",
 		"parentCode":"230421"
 	},
@@ -43,7 +43,7 @@
 		"code":"230421105",
 		"fullCode":"230421105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云山镇",
 		"parentCode":"230421"
 	},
@@ -51,7 +51,7 @@
 		"code":"230421200",
 		"fullCode":"230421200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东明朝鲜族乡",
 		"parentCode":"230421"
 	},
@@ -59,7 +59,7 @@
 		"code":"230421203",
 		"fullCode":"230421203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平沟乡",
 		"parentCode":"230421"
 	},
@@ -67,7 +67,7 @@
 		"code":"230421400",
 		"fullCode":"230421400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萝北县林业局",
 		"parentCode":"230421"
 	},
@@ -75,7 +75,7 @@
 		"code":"230421401",
 		"fullCode":"230421401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤北林业局",
 		"parentCode":"230421"
 	},
@@ -83,7 +83,7 @@
 		"code":"230421500",
 		"fullCode":"230421500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝泉岭管理局局直",
 		"parentCode":"230421"
 	},
@@ -91,7 +91,7 @@
 		"code":"230421501",
 		"fullCode":"230421501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江滨农场",
 		"parentCode":"230421"
 	},
@@ -99,7 +99,7 @@
 		"code":"230421502",
 		"fullCode":"230421502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"军川农场",
 		"parentCode":"230421"
 	},
@@ -107,7 +107,7 @@
 		"code":"230421503",
 		"fullCode":"230421503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"名山农场",
 		"parentCode":"230421"
 	},
@@ -115,7 +115,7 @@
 		"code":"230421504",
 		"fullCode":"230421504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延军农场",
 		"parentCode":"230421"
 	},
@@ -123,7 +123,7 @@
 		"code":"230421505",
 		"fullCode":"230421505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共青农场",
 		"parentCode":"230421"
 	},
@@ -131,7 +131,7 @@
 		"code":"230421506",
 		"fullCode":"230421506000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝泉岭农场",
 		"parentCode":"230421"
 	},
@@ -139,7 +139,7 @@
 		"code":"230421580",
 		"fullCode":"230421580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萝北县农业局",
 		"parentCode":"230421"
 	}

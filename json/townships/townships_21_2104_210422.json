@@ -3,7 +3,7 @@
 		"code":"210422100",
 		"fullCode":"210422100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新宾镇",
 		"parentCode":"210422"
 	},
@@ -11,7 +11,7 @@
 		"code":"210422101",
 		"fullCode":"210422101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旺清门镇",
 		"parentCode":"210422"
 	},
@@ -19,7 +19,7 @@
 		"code":"210422102",
 		"fullCode":"210422102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永陵镇",
 		"parentCode":"210422"
 	},
@@ -27,7 +27,7 @@
 		"code":"210422103",
 		"fullCode":"210422103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平顶山镇",
 		"parentCode":"210422"
 	},
@@ -35,7 +35,7 @@
 		"code":"210422104",
 		"fullCode":"210422104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大四平镇",
 		"parentCode":"210422"
 	},
@@ -43,7 +43,7 @@
 		"code":"210422105",
 		"fullCode":"210422105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苇子峪镇",
 		"parentCode":"210422"
 	},
@@ -51,7 +51,7 @@
 		"code":"210422106",
 		"fullCode":"210422106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木奇镇",
 		"parentCode":"210422"
 	},
@@ -59,7 +59,7 @@
 		"code":"210422108",
 		"fullCode":"210422108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上夹河镇",
 		"parentCode":"210422"
 	},
@@ -67,7 +67,7 @@
 		"code":"210422109",
 		"fullCode":"210422109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南杂木镇",
 		"parentCode":"210422"
 	},
@@ -75,7 +75,7 @@
 		"code":"210422202",
 		"fullCode":"210422202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红升乡",
 		"parentCode":"210422"
 	},
@@ -83,7 +83,7 @@
 		"code":"210422203",
 		"fullCode":"210422203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"响水河子乡",
 		"parentCode":"210422"
 	},
@@ -91,7 +91,7 @@
 		"code":"210422204",
 		"fullCode":"210422204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红庙子乡",
 		"parentCode":"210422"
 	},
@@ -99,7 +99,7 @@
 		"code":"210422205",
 		"fullCode":"210422205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北四平乡",
 		"parentCode":"210422"
 	},
@@ -107,7 +107,7 @@
 		"code":"210422207",
 		"fullCode":"210422207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆树乡",
 		"parentCode":"210422"
 	},
@@ -115,7 +115,7 @@
 		"code":"210422208",
 		"fullCode":"210422208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下夹河乡",
 		"parentCode":"210422"
 	}

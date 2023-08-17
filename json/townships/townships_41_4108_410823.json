@@ -3,7 +3,7 @@
 		"code":"410823001",
 		"fullCode":"410823001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木城街道",
 		"parentCode":"410823"
 	},
@@ -11,7 +11,7 @@
 		"code":"410823002",
 		"fullCode":"410823002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙源街道",
 		"parentCode":"410823"
 	},
@@ -19,7 +19,7 @@
 		"code":"410823003",
 		"fullCode":"410823003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉街道",
 		"parentCode":"410823"
 	},
@@ -27,7 +27,7 @@
 		"code":"410823004",
 		"fullCode":"410823004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木栾街道",
 		"parentCode":"410823"
 	},
@@ -35,7 +35,7 @@
 		"code":"410823101",
 		"fullCode":"410823101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"詹店镇",
 		"parentCode":"410823"
 	},
@@ -43,7 +43,7 @@
 		"code":"410823102",
 		"fullCode":"410823102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西陶镇",
 		"parentCode":"410823"
 	},
@@ -51,7 +51,7 @@
 		"code":"410823103",
 		"fullCode":"410823103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢旗营镇",
 		"parentCode":"410823"
 	},
@@ -59,7 +59,7 @@
 		"code":"410823104",
 		"fullCode":"410823104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大封镇",
 		"parentCode":"410823"
 	},
@@ -67,7 +67,7 @@
 		"code":"410823107",
 		"fullCode":"410823107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔庙镇",
 		"parentCode":"410823"
 	},
@@ -75,7 +75,7 @@
 		"code":"410823108",
 		"fullCode":"410823108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圪垱店镇",
 		"parentCode":"410823"
 	},
@@ -83,7 +83,7 @@
 		"code":"410823200",
 		"fullCode":"410823200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉应观乡",
 		"parentCode":"410823"
 	},
@@ -91,7 +91,7 @@
 		"code":"410823203",
 		"fullCode":"410823203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三阳乡",
 		"parentCode":"410823"
 	},
@@ -99,7 +99,7 @@
 		"code":"410823204",
 		"fullCode":"410823204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小董乡",
 		"parentCode":"410823"
 	},
@@ -107,7 +107,7 @@
 		"code":"410823205",
 		"fullCode":"410823205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大虹桥乡",
 		"parentCode":"410823"
 	},
@@ -115,7 +115,7 @@
 		"code":"410823206",
 		"fullCode":"410823206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北郭乡",
 		"parentCode":"410823"
 	},
@@ -123,7 +123,7 @@
 		"code":"410823598",
 		"fullCode":"410823598000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武陟宁郭农场",
 		"parentCode":"410823"
 	}

@@ -3,7 +3,7 @@
 		"code":"620402001",
 		"fullCode":"620402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人民路街道",
 		"parentCode":"620402"
 	},
@@ -11,7 +11,7 @@
 		"code":"620402002",
 		"fullCode":"620402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公园路街道",
 		"parentCode":"620402"
 	},
@@ -19,7 +19,7 @@
 		"code":"620402003",
 		"fullCode":"620402003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四龙路街道",
 		"parentCode":"620402"
 	},
@@ -27,7 +27,7 @@
 		"code":"620402004",
 		"fullCode":"620402004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工农路街道",
 		"parentCode":"620402"
 	},
@@ -35,7 +35,7 @@
 		"code":"620402005",
 		"fullCode":"620402005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纺织路街道",
 		"parentCode":"620402"
 	},
@@ -43,7 +43,7 @@
 		"code":"620402100",
 		"fullCode":"620402100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水川镇",
 		"parentCode":"620402"
 	},
@@ -51,7 +51,7 @@
 		"code":"620402101",
 		"fullCode":"620402101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四龙镇",
 		"parentCode":"620402"
 	},
@@ -59,7 +59,7 @@
 		"code":"620402102",
 		"fullCode":"620402102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王岘镇",
 		"parentCode":"620402"
 	},
@@ -67,7 +67,7 @@
 		"code":"620402201",
 		"fullCode":"620402201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"强湾乡",
 		"parentCode":"620402"
 	},
@@ -75,7 +75,7 @@
 		"code":"620402202",
 		"fullCode":"620402202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武川乡",
 		"parentCode":"620402"
 	}

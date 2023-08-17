@@ -3,7 +3,7 @@
 		"code":"320206001",
 		"fullCode":"320206001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堰桥街道",
 		"parentCode":"320206"
 	},
@@ -11,7 +11,7 @@
 		"code":"320206002",
 		"fullCode":"320206002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安街道",
 		"parentCode":"320206"
 	},
@@ -19,7 +19,7 @@
 		"code":"320206003",
 		"fullCode":"320206003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱桥街道",
 		"parentCode":"320206"
 	},
@@ -27,7 +27,7 @@
 		"code":"320206004",
 		"fullCode":"320206004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前洲街道",
 		"parentCode":"320206"
 	},
@@ -35,7 +35,7 @@
 		"code":"320206005",
 		"fullCode":"320206005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉祁街道",
 		"parentCode":"320206"
 	},
@@ -43,7 +43,7 @@
 		"code":"320206102",
 		"fullCode":"320206102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛社镇",
 		"parentCode":"320206"
 	},
@@ -51,7 +51,7 @@
 		"code":"320206103",
 		"fullCode":"320206103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳山镇",
 		"parentCode":"320206"
 	},
@@ -59,7 +59,7 @@
 		"code":"320206401",
 		"fullCode":"320206401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无锡惠山经济开发区",
 		"parentCode":"320206"
 	},
@@ -67,7 +67,7 @@
 		"code":"320206500",
 		"fullCode":"320206500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无锡惠山工业转型集聚区",
 		"parentCode":"320206"
 	}

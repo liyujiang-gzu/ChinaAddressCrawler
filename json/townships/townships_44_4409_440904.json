@@ -3,7 +3,7 @@
 		"code":"440904001",
 		"fullCode":"440904001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南海街道",
 		"parentCode":"440904"
 	},
@@ -11,7 +11,7 @@
 		"code":"440904002",
 		"fullCode":"440904002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高地街道",
 		"parentCode":"440904"
 	},
@@ -19,7 +19,7 @@
 		"code":"440904003",
 		"fullCode":"440904003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水东街道",
 		"parentCode":"440904"
 	},
@@ -27,7 +27,7 @@
 		"code":"440904004",
 		"fullCode":"440904004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"电海街道",
 		"parentCode":"440904"
 	},
@@ -35,7 +35,7 @@
 		"code":"440904005",
 		"fullCode":"440904005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈村街道",
 		"parentCode":"440904"
 	},
@@ -43,7 +43,7 @@
 		"code":"440904100",
 		"fullCode":"440904100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马踏镇",
 		"parentCode":"440904"
 	},
@@ -51,7 +51,7 @@
 		"code":"440904101",
 		"fullCode":"440904101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭门镇",
 		"parentCode":"440904"
 	},
@@ -59,7 +59,7 @@
 		"code":"440904102",
 		"fullCode":"440904102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坡心镇",
 		"parentCode":"440904"
 	},
@@ -67,7 +67,7 @@
 		"code":"440904103",
 		"fullCode":"440904103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七迳镇",
 		"parentCode":"440904"
 	},
@@ -75,7 +75,7 @@
 		"code":"440904104",
 		"fullCode":"440904104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"树仔镇",
 		"parentCode":"440904"
 	},
@@ -83,7 +83,7 @@
 		"code":"440904105",
 		"fullCode":"440904105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙院镇",
 		"parentCode":"440904"
 	},
@@ -91,7 +91,7 @@
 		"code":"440904106",
 		"fullCode":"440904106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻岗镇",
 		"parentCode":"440904"
 	},
@@ -99,7 +99,7 @@
 		"code":"440904107",
 		"fullCode":"440904107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旦场镇",
 		"parentCode":"440904"
 	},
@@ -107,7 +107,7 @@
 		"code":"440904109",
 		"fullCode":"440904109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小良镇",
 		"parentCode":"440904"
 	},
@@ -115,7 +115,7 @@
 		"code":"440904115",
 		"fullCode":"440904115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞洞镇",
 		"parentCode":"440904"
 	},
@@ -123,7 +123,7 @@
 		"code":"440904116",
 		"fullCode":"440904116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观珠镇",
 		"parentCode":"440904"
 	},
@@ -131,7 +131,7 @@
 		"code":"440904117",
 		"fullCode":"440904117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙琅镇",
 		"parentCode":"440904"
 	},
@@ -139,7 +139,7 @@
 		"code":"440904118",
 		"fullCode":"440904118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄岭镇",
 		"parentCode":"440904"
 	},
@@ -147,7 +147,7 @@
 		"code":"440904119",
 		"fullCode":"440904119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望夫镇",
 		"parentCode":"440904"
 	},
@@ -155,7 +155,7 @@
 		"code":"440904120",
 		"fullCode":"440904120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗坑镇",
 		"parentCode":"440904"
 	},
@@ -163,7 +163,7 @@
 		"code":"440904121",
 		"fullCode":"440904121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那霍镇",
 		"parentCode":"440904"
 	},
@@ -171,7 +171,7 @@
 		"code":"440904125",
 		"fullCode":"440904125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博贺镇",
 		"parentCode":"440904"
 	},
@@ -179,7 +179,7 @@
 		"code":"440904126",
 		"fullCode":"440904126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林头镇",
 		"parentCode":"440904"
 	},
@@ -187,7 +187,7 @@
 		"code":"440904127",
 		"fullCode":"440904127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"电城镇",
 		"parentCode":"440904"
 	},
@@ -195,7 +195,7 @@
 		"code":"440904451",
 		"fullCode":"440904451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曙光农场",
 		"parentCode":"440904"
 	},
@@ -203,7 +203,7 @@
 		"code":"440904452",
 		"fullCode":"440904452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水丰农场",
 		"parentCode":"440904"
 	},
@@ -211,7 +211,7 @@
 		"code":"440904453",
 		"fullCode":"440904453000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华农场",
 		"parentCode":"440904"
 	},
@@ -219,7 +219,7 @@
 		"code":"440904454",
 		"fullCode":"440904454000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"电白盐场",
 		"parentCode":"440904"
 	}

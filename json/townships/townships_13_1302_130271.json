@@ -3,7 +3,7 @@
 		"code":"130271100",
 		"fullCode":"130271100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海北镇",
 		"parentCode":"130271"
 	},
@@ -11,7 +11,7 @@
 		"code":"130271450",
 		"fullCode":"130271450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华路街道",
 		"parentCode":"130271"
 	}

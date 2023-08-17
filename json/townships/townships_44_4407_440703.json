@@ -3,7 +3,7 @@
 		"code":"440703002",
 		"fullCode":"440703002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙街道",
 		"parentCode":"440703"
 	},
@@ -11,7 +11,7 @@
 		"code":"440703005",
 		"fullCode":"440703005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潮连街道",
 		"parentCode":"440703"
 	},
@@ -19,7 +19,7 @@
 		"code":"440703006",
 		"fullCode":"440703006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"环市街道",
 		"parentCode":"440703"
 	},
@@ -27,7 +27,7 @@
 		"code":"440703101",
 		"fullCode":"440703101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棠下镇",
 		"parentCode":"440703"
 	},
@@ -35,7 +35,7 @@
 		"code":"440703102",
 		"fullCode":"440703102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷塘镇",
 		"parentCode":"440703"
 	},
@@ -43,7 +43,7 @@
 		"code":"440703103",
 		"fullCode":"440703103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜阮镇",
 		"parentCode":"440703"
 	}

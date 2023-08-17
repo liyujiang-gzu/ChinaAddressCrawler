@@ -3,7 +3,7 @@
 		"code":"500114001",
 		"fullCode":"500114001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"500114"
 	},
@@ -11,7 +11,7 @@
 		"code":"500114002",
 		"fullCode":"500114002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"500114"
 	},
@@ -19,7 +19,7 @@
 		"code":"500114003",
 		"fullCode":"500114003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"500114"
 	},
@@ -27,7 +27,7 @@
 		"code":"500114004",
 		"fullCode":"500114004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳街道",
 		"parentCode":"500114"
 	},
@@ -35,7 +35,7 @@
 		"code":"500114005",
 		"fullCode":"500114005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舟白街道",
 		"parentCode":"500114"
 	},
@@ -43,7 +43,7 @@
 		"code":"500114006",
 		"fullCode":"500114006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯家街道",
 		"parentCode":"500114"
 	},
@@ -51,7 +51,7 @@
 		"code":"500114105",
 		"fullCode":"500114105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿蓬江镇",
 		"parentCode":"500114"
 	},
@@ -59,7 +59,7 @@
 		"code":"500114106",
 		"fullCode":"500114106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石会镇",
 		"parentCode":"500114"
 	},
@@ -67,7 +67,7 @@
 		"code":"500114107",
 		"fullCode":"500114107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑溪镇",
 		"parentCode":"500114"
 	},
@@ -75,7 +75,7 @@
 		"code":"500114108",
 		"fullCode":"500114108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄溪镇",
 		"parentCode":"500114"
 	},
@@ -83,7 +83,7 @@
 		"code":"500114109",
 		"fullCode":"500114109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎水镇",
 		"parentCode":"500114"
 	},
@@ -91,7 +91,7 @@
 		"code":"500114110",
 		"fullCode":"500114110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金溪镇",
 		"parentCode":"500114"
 	},
@@ -99,7 +99,7 @@
 		"code":"500114111",
 		"fullCode":"500114111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马喇镇",
 		"parentCode":"500114"
 	},
@@ -107,7 +107,7 @@
 		"code":"500114112",
 		"fullCode":"500114112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濯水镇",
 		"parentCode":"500114"
 	},
@@ -115,7 +115,7 @@
 		"code":"500114113",
 		"fullCode":"500114113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石家镇",
 		"parentCode":"500114"
 	},
@@ -123,7 +123,7 @@
 		"code":"500114114",
 		"fullCode":"500114114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹅池镇",
 		"parentCode":"500114"
 	},
@@ -131,7 +131,7 @@
 		"code":"500114117",
 		"fullCode":"500114117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小南海镇",
 		"parentCode":"500114"
 	},
@@ -139,7 +139,7 @@
 		"code":"500114119",
 		"fullCode":"500114119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邻鄂镇",
 		"parentCode":"500114"
 	},
@@ -147,7 +147,7 @@
 		"code":"500114120",
 		"fullCode":"500114120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石镇",
 		"parentCode":"500114"
 	},
@@ -155,7 +155,7 @@
 		"code":"500114121",
 		"fullCode":"500114121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中塘镇",
 		"parentCode":"500114"
 	},
@@ -163,7 +163,7 @@
 		"code":"500114122",
 		"fullCode":"500114122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坝镇",
 		"parentCode":"500114"
 	},
@@ -171,7 +171,7 @@
 		"code":"500114123",
 		"fullCode":"500114123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太极镇",
 		"parentCode":"500114"
 	},
@@ -179,7 +179,7 @@
 		"code":"500114124",
 		"fullCode":"500114124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里镇",
 		"parentCode":"500114"
 	},
@@ -187,7 +187,7 @@
 		"code":"500114125",
 		"fullCode":"500114125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水市镇",
 		"parentCode":"500114"
 	},
@@ -195,7 +195,7 @@
 		"code":"500114246",
 		"fullCode":"500114246000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓬东乡",
 		"parentCode":"500114"
 	},
@@ -203,7 +203,7 @@
 		"code":"500114249",
 		"fullCode":"500114249000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杉岭乡",
 		"parentCode":"500114"
 	},
@@ -211,7 +211,7 @@
 		"code":"500114251",
 		"fullCode":"500114251000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水田乡",
 		"parentCode":"500114"
 	},
@@ -219,7 +219,7 @@
 		"code":"500114252",
 		"fullCode":"500114252000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白土乡",
 		"parentCode":"500114"
 	},
@@ -227,7 +227,7 @@
 		"code":"500114253",
 		"fullCode":"500114253000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金洞乡",
 		"parentCode":"500114"
 	},
@@ -235,7 +235,7 @@
 		"code":"500114256",
 		"fullCode":"500114256000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华乡",
 		"parentCode":"500114"
 	}

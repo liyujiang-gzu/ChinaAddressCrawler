@@ -3,7 +3,7 @@
 		"code":"210104002",
 		"fullCode":"210104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大北街道",
 		"parentCode":"210104"
 	},
@@ -11,7 +11,7 @@
 		"code":"210104003",
 		"fullCode":"210104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万泉街道",
 		"parentCode":"210104"
 	},
@@ -19,7 +19,7 @@
 		"code":"210104006",
 		"fullCode":"210104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文官街道",
 		"parentCode":"210104"
 	},
@@ -27,7 +27,7 @@
 		"code":"210104007",
 		"fullCode":"210104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二台子街道",
 		"parentCode":"210104"
 	},
@@ -35,7 +35,7 @@
 		"code":"210104008",
 		"fullCode":"210104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"津桥街道",
 		"parentCode":"210104"
 	},
@@ -43,7 +43,7 @@
 		"code":"210104009",
 		"fullCode":"210104009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东站街道",
 		"parentCode":"210104"
 	},
@@ -51,7 +51,7 @@
 		"code":"210104012",
 		"fullCode":"210104012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安街道",
 		"parentCode":"210104"
 	},
@@ -59,7 +59,7 @@
 		"code":"210104015",
 		"fullCode":"210104015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东塔街道",
 		"parentCode":"210104"
 	},
@@ -67,7 +67,7 @@
 		"code":"210104017",
 		"fullCode":"210104017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上园街道",
 		"parentCode":"210104"
 	},
@@ -75,7 +75,7 @@
 		"code":"210104018",
 		"fullCode":"210104018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进街道",
 		"parentCode":"210104"
 	}

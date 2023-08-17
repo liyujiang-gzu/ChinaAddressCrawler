@@ -3,7 +3,7 @@
 		"code":"440117001",
 		"fullCode":"440117001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"街口街道",
 		"parentCode":"440117"
 	},
@@ -11,7 +11,7 @@
 		"code":"440117002",
 		"fullCode":"440117002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江埔街道",
 		"parentCode":"440117"
 	},
@@ -19,7 +19,7 @@
 		"code":"440117003",
 		"fullCode":"440117003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊街道",
 		"parentCode":"440117"
 	},
@@ -27,7 +27,7 @@
 		"code":"440117103",
 		"fullCode":"440117103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉镇",
 		"parentCode":"440117"
 	},
@@ -35,7 +35,7 @@
 		"code":"440117104",
 		"fullCode":"440117104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良口镇",
 		"parentCode":"440117"
 	},
@@ -43,7 +43,7 @@
 		"code":"440117107",
 		"fullCode":"440117107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吕田镇",
 		"parentCode":"440117"
 	},
@@ -51,7 +51,7 @@
 		"code":"440117111",
 		"fullCode":"440117111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"440117"
 	},
@@ -59,7 +59,7 @@
 		"code":"440117113",
 		"fullCode":"440117113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鳌头镇",
 		"parentCode":"440117"
 	},
@@ -67,7 +67,7 @@
 		"code":"440117404",
 		"fullCode":"440117404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄龙带水库",
 		"parentCode":"440117"
 	},
@@ -75,7 +75,7 @@
 		"code":"440117405",
 		"fullCode":"440117405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大岭山林场",
 		"parentCode":"440117"
 	}

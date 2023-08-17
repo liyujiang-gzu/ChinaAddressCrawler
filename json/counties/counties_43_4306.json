@@ -3,7 +3,7 @@
 		"code":"430602",
 		"fullCode":"430602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岳阳楼区",
 		"parentCode":"4306"
 	},
@@ -11,7 +11,7 @@
 		"code":"430603",
 		"fullCode":"430603000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"云溪区",
 		"parentCode":"4306"
 	},
@@ -19,7 +19,7 @@
 		"code":"430611",
 		"fullCode":"430611000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"君山区",
 		"parentCode":"4306"
 	},
@@ -27,7 +27,7 @@
 		"code":"430621",
 		"fullCode":"430621000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岳阳县",
 		"parentCode":"4306"
 	},
@@ -35,7 +35,7 @@
 		"code":"430623",
 		"fullCode":"430623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"华容县",
 		"parentCode":"4306"
 	},
@@ -43,7 +43,7 @@
 		"code":"430624",
 		"fullCode":"430624000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"湘阴县",
 		"parentCode":"4306"
 	},
@@ -51,7 +51,7 @@
 		"code":"430626",
 		"fullCode":"430626000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平江县",
 		"parentCode":"4306"
 	},
@@ -59,7 +59,7 @@
 		"code":"430671",
 		"fullCode":"430671000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岳阳市屈原管理区",
 		"parentCode":"4306"
 	},
@@ -67,7 +67,7 @@
 		"code":"430681",
 		"fullCode":"430681000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汨罗市",
 		"parentCode":"4306"
 	},
@@ -75,7 +75,7 @@
 		"code":"430682",
 		"fullCode":"430682000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临湘市",
 		"parentCode":"4306"
 	}

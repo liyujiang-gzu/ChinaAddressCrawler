@@ -3,7 +3,7 @@
 		"code":"510302",
 		"fullCode":"510302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"自流井区",
 		"parentCode":"5103"
 	},
@@ -11,7 +11,7 @@
 		"code":"510303",
 		"fullCode":"510303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"贡井区",
 		"parentCode":"5103"
 	},
@@ -19,7 +19,7 @@
 		"code":"510304",
 		"fullCode":"510304000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大安区",
 		"parentCode":"5103"
 	},
@@ -27,7 +27,7 @@
 		"code":"510311",
 		"fullCode":"510311000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沿滩区",
 		"parentCode":"5103"
 	},
@@ -35,7 +35,7 @@
 		"code":"510321",
 		"fullCode":"510321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"荣县",
 		"parentCode":"5103"
 	},
@@ -43,7 +43,7 @@
 		"code":"510322",
 		"fullCode":"510322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"富顺县",
 		"parentCode":"5103"
 	}

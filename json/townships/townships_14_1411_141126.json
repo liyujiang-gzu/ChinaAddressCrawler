@@ -3,7 +3,7 @@
 		"code":"141126100",
 		"fullCode":"141126100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵泉镇",
 		"parentCode":"141126"
 	},
@@ -11,7 +11,7 @@
 		"code":"141126101",
 		"fullCode":"141126101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗村镇",
 		"parentCode":"141126"
 	},
@@ -19,7 +19,7 @@
 		"code":"141126102",
 		"fullCode":"141126102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义牒镇",
 		"parentCode":"141126"
 	},
@@ -27,7 +27,7 @@
 		"code":"141126103",
 		"fullCode":"141126103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小蒜镇",
 		"parentCode":"141126"
 	},
@@ -35,7 +35,7 @@
 		"code":"141126104",
 		"fullCode":"141126104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛关镇",
 		"parentCode":"141126"
 	},
@@ -43,7 +43,7 @@
 		"code":"141126200",
 		"fullCode":"141126200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙交乡",
 		"parentCode":"141126"
 	},
@@ -51,7 +51,7 @@
 		"code":"141126201",
 		"fullCode":"141126201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和合乡",
 		"parentCode":"141126"
 	},
@@ -59,7 +59,7 @@
 		"code":"141126203",
 		"fullCode":"141126203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹家垣乡",
 		"parentCode":"141126"
 	},
@@ -67,7 +67,7 @@
 		"code":"141126204",
 		"fullCode":"141126204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裴沟乡",
 		"parentCode":"141126"
 	}

@@ -3,7 +3,7 @@
 		"code":"220122001",
 		"fullCode":"220122001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴农街道",
 		"parentCode":"220122"
 	},
@@ -11,7 +11,7 @@
 		"code":"220122002",
 		"fullCode":"220122002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝塔街道",
 		"parentCode":"220122"
 	},
@@ -19,7 +19,7 @@
 		"code":"220122003",
 		"fullCode":"220122003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和谐街道",
 		"parentCode":"220122"
 	},
@@ -27,7 +27,7 @@
 		"code":"220122004",
 		"fullCode":"220122004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄龙街道",
 		"parentCode":"220122"
 	},
@@ -35,7 +35,7 @@
 		"code":"220122100",
 		"fullCode":"220122100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"农安镇",
 		"parentCode":"220122"
 	},
@@ -43,7 +43,7 @@
 		"code":"220122101",
 		"fullCode":"220122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伏龙泉镇",
 		"parentCode":"220122"
 	},
@@ -51,7 +51,7 @@
 		"code":"220122102",
 		"fullCode":"220122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉海镇",
 		"parentCode":"220122"
 	},
@@ -59,7 +59,7 @@
 		"code":"220122103",
 		"fullCode":"220122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靠山镇",
 		"parentCode":"220122"
 	},
@@ -67,7 +67,7 @@
 		"code":"220122104",
 		"fullCode":"220122104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开安镇",
 		"parentCode":"220122"
 	},
@@ -75,7 +75,7 @@
 		"code":"220122105",
 		"fullCode":"220122105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烧锅镇",
 		"parentCode":"220122"
 	},
@@ -83,7 +83,7 @@
 		"code":"220122106",
 		"fullCode":"220122106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高家店镇",
 		"parentCode":"220122"
 	},
@@ -91,7 +91,7 @@
 		"code":"220122107",
 		"fullCode":"220122107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华家镇",
 		"parentCode":"220122"
 	},
@@ -99,7 +99,7 @@
 		"code":"220122108",
 		"fullCode":"220122108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三盛玉镇",
 		"parentCode":"220122"
 	},
@@ -107,7 +107,7 @@
 		"code":"220122109",
 		"fullCode":"220122109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴吉垒镇",
 		"parentCode":"220122"
 	},
@@ -115,7 +115,7 @@
 		"code":"220122110",
 		"fullCode":"220122110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岗镇",
 		"parentCode":"220122"
 	},
@@ -123,7 +123,7 @@
 		"code":"220122200",
 		"fullCode":"220122200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前岗乡",
 		"parentCode":"220122"
 	},
@@ -131,7 +131,7 @@
 		"code":"220122201",
 		"fullCode":"220122201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙王乡",
 		"parentCode":"220122"
 	},
@@ -139,7 +139,7 @@
 		"code":"220122203",
 		"fullCode":"220122203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万顺乡",
 		"parentCode":"220122"
 	},
@@ -147,7 +147,7 @@
 		"code":"220122204",
 		"fullCode":"220122204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨树林乡",
 		"parentCode":"220122"
 	},
@@ -155,7 +155,7 @@
 		"code":"220122205",
 		"fullCode":"220122205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安乡",
 		"parentCode":"220122"
 	},
@@ -163,7 +163,7 @@
 		"code":"220122206",
 		"fullCode":"220122206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山口乡",
 		"parentCode":"220122"
 	},
@@ -171,7 +171,7 @@
 		"code":"220122207",
 		"fullCode":"220122207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄鱼圈乡",
 		"parentCode":"220122"
 	},
@@ -179,7 +179,7 @@
 		"code":"220122208",
 		"fullCode":"220122208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新农乡",
 		"parentCode":"220122"
 	},
@@ -187,7 +187,7 @@
 		"code":"220122209",
 		"fullCode":"220122209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万金塔乡",
 		"parentCode":"220122"
 	},
@@ -195,7 +195,7 @@
 		"code":"220122210",
 		"fullCode":"220122210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小城子乡",
 		"parentCode":"220122"
 	},
@@ -203,7 +203,7 @@
 		"code":"220122400",
 		"fullCode":"220122400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洼中高农场",
 		"parentCode":"220122"
 	}

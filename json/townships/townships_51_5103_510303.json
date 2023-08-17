@@ -3,7 +3,7 @@
 		"code":"510303001",
 		"fullCode":"510303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"筱溪街道",
 		"parentCode":"510303"
 	},
@@ -11,7 +11,7 @@
 		"code":"510303002",
 		"fullCode":"510303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贡井街道",
 		"parentCode":"510303"
 	},
@@ -19,7 +19,7 @@
 		"code":"510303003",
 		"fullCode":"510303003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长土街道",
 		"parentCode":"510303"
 	},
@@ -27,7 +27,7 @@
 		"code":"510303100",
 		"fullCode":"510303100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艾叶镇",
 		"parentCode":"510303"
 	},
@@ -35,7 +35,7 @@
 		"code":"510303101",
 		"fullCode":"510303101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设镇",
 		"parentCode":"510303"
 	},
@@ -43,7 +43,7 @@
 		"code":"510303104",
 		"fullCode":"510303104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭镇",
 		"parentCode":"510303"
 	},
@@ -51,7 +51,7 @@
 		"code":"510303105",
 		"fullCode":"510303105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头镇",
 		"parentCode":"510303"
 	},
@@ -59,7 +59,7 @@
 		"code":"510303106",
 		"fullCode":"510303106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五宝镇",
 		"parentCode":"510303"
 	},
@@ -67,7 +67,7 @@
 		"code":"510303107",
 		"fullCode":"510303107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花镇",
 		"parentCode":"510303"
 	},
@@ -75,7 +75,7 @@
 		"code":"510303108",
 		"fullCode":"510303108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"成佳镇",
 		"parentCode":"510303"
 	}

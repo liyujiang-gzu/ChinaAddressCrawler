@@ -3,7 +3,7 @@
 		"code":"513436100",
 		"fullCode":"513436100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴普镇",
 		"parentCode":"513436"
 	},
@@ -11,7 +11,7 @@
 		"code":"513436101",
 		"fullCode":"513436101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪溪镇",
 		"parentCode":"513436"
 	},
@@ -19,7 +19,7 @@
 		"code":"513436102",
 		"fullCode":"513436102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥镇",
 		"parentCode":"513436"
 	},
@@ -27,7 +27,7 @@
 		"code":"513436103",
 		"fullCode":"513436103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛牛坝镇",
 		"parentCode":"513436"
 	},
@@ -35,7 +35,7 @@
 		"code":"513436104",
 		"fullCode":"513436104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉马镇",
 		"parentCode":"513436"
 	},
@@ -43,7 +43,7 @@
 		"code":"513436105",
 		"fullCode":"513436105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"候播乃拖镇",
 		"parentCode":"513436"
 	},
@@ -51,7 +51,7 @@
 		"code":"513436106",
 		"fullCode":"513436106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"候古莫镇",
 		"parentCode":"513436"
 	},
@@ -59,7 +59,7 @@
 		"code":"513436200",
 		"fullCode":"513436200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"觉洛乡",
 		"parentCode":"513436"
 	},
@@ -67,7 +67,7 @@
 		"code":"513436201",
 		"fullCode":"513436201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井叶特西乡",
 		"parentCode":"513436"
 	},
@@ -75,7 +75,7 @@
 		"code":"513436202",
 		"fullCode":"513436202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合姑洛乡",
 		"parentCode":"513436"
 	},
@@ -83,7 +83,7 @@
 		"code":"513436208",
 		"fullCode":"513436208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"典补乡",
 		"parentCode":"513436"
 	},
@@ -91,7 +91,7 @@
 		"code":"513436217",
 		"fullCode":"513436217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九口乡",
 		"parentCode":"513436"
 	},
@@ -99,7 +99,7 @@
 		"code":"513436218",
 		"fullCode":"513436218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛俄依甘乡",
 		"parentCode":"513436"
 	},
@@ -107,7 +107,7 @@
 		"code":"513436221",
 		"fullCode":"513436221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳洪乡",
 		"parentCode":"513436"
 	},
@@ -115,7 +115,7 @@
 		"code":"513436225",
 		"fullCode":"513436225000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峨曲古乡",
 		"parentCode":"513436"
 	},
@@ -123,7 +123,7 @@
 		"code":"513436229",
 		"fullCode":"513436229000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门乡",
 		"parentCode":"513436"
 	},
@@ -131,7 +131,7 @@
 		"code":"513436231",
 		"fullCode":"513436231000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洒库乡",
 		"parentCode":"513436"
 	},
@@ -139,7 +139,7 @@
 		"code":"513436235",
 		"fullCode":"513436235000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦候乡",
 		"parentCode":"513436"
 	}

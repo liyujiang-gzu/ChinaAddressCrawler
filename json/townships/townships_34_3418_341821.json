@@ -3,7 +3,7 @@
 		"code":"341821001",
 		"fullCode":"341821001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郎步街道",
 		"parentCode":"341821"
 	},
@@ -11,7 +11,7 @@
 		"code":"341821002",
 		"fullCode":"341821002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郎川街道",
 		"parentCode":"341821"
 	},
@@ -19,7 +19,7 @@
 		"code":"341821003",
 		"fullCode":"341821003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟桥街道",
 		"parentCode":"341821"
 	},
@@ -27,7 +27,7 @@
 		"code":"341821100",
 		"fullCode":"341821100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建平镇",
 		"parentCode":"341821"
 	},
@@ -35,7 +35,7 @@
 		"code":"341821101",
 		"fullCode":"341821101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十字镇",
 		"parentCode":"341821"
 	},
@@ -43,7 +43,7 @@
 		"code":"341821102",
 		"fullCode":"341821102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新发镇",
 		"parentCode":"341821"
 	},
@@ -51,7 +51,7 @@
 		"code":"341821103",
 		"fullCode":"341821103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涛城镇",
 		"parentCode":"341821"
 	},
@@ -59,7 +59,7 @@
 		"code":"341821105",
 		"fullCode":"341821105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅渚镇",
 		"parentCode":"341821"
 	},
@@ -67,7 +67,7 @@
 		"code":"341821107",
 		"fullCode":"341821107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毕桥镇",
 		"parentCode":"341821"
 	},
@@ -75,7 +75,7 @@
 		"code":"341821108",
 		"fullCode":"341821108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"飞鲤镇",
 		"parentCode":"341821"
 	},
@@ -83,7 +83,7 @@
 		"code":"341821109",
 		"fullCode":"341821109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凌笪镇",
 		"parentCode":"341821"
 	},
@@ -91,7 +91,7 @@
 		"code":"341821110",
 		"fullCode":"341821110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚村镇",
 		"parentCode":"341821"
 	},
@@ -99,7 +99,7 @@
 		"code":"341821400",
 		"fullCode":"341821400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郎溪经济开发区",
 		"parentCode":"341821"
 	},
@@ -107,7 +107,7 @@
 		"code":"341821500",
 		"fullCode":"341821500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽省国营十字铺茶场",
 		"parentCode":"341821"
 	},
@@ -115,7 +115,7 @@
 		"code":"341821501",
 		"fullCode":"341821501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上海市白茅岭监狱",
 		"parentCode":"341821"
 	}

@@ -3,7 +3,7 @@
 		"code":"410308002",
 		"fullCode":"410308002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西霞院街道",
 		"parentCode":"410308"
 	},
@@ -11,7 +11,7 @@
 		"code":"410308003",
 		"fullCode":"410308003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康乐街道",
 		"parentCode":"410308"
 	},
@@ -19,7 +19,7 @@
 		"code":"410308004",
 		"fullCode":"410308004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉利街道",
 		"parentCode":"410308"
 	},
@@ -27,7 +27,7 @@
 		"code":"410308005",
 		"fullCode":"410308005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河阳街道",
 		"parentCode":"410308"
 	},
@@ -35,7 +35,7 @@
 		"code":"410308100",
 		"fullCode":"410308100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"410308"
 	},
@@ -43,7 +43,7 @@
 		"code":"410308101",
 		"fullCode":"410308101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会盟镇",
 		"parentCode":"410308"
 	},
@@ -51,7 +51,7 @@
 		"code":"410308102",
 		"fullCode":"410308102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平乐镇",
 		"parentCode":"410308"
 	},
@@ -59,7 +59,7 @@
 		"code":"410308103",
 		"fullCode":"410308103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"送庄镇",
 		"parentCode":"410308"
 	},
@@ -67,7 +67,7 @@
 		"code":"410308104",
 		"fullCode":"410308104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鹤镇",
 		"parentCode":"410308"
 	},
@@ -75,7 +75,7 @@
 		"code":"410308105",
 		"fullCode":"410308105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳镇",
 		"parentCode":"410308"
 	},
@@ -83,7 +83,7 @@
 		"code":"410308106",
 		"fullCode":"410308106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马屯镇",
 		"parentCode":"410308"
 	},
@@ -91,7 +91,7 @@
 		"code":"410308107",
 		"fullCode":"410308107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻屯镇",
 		"parentCode":"410308"
 	},
@@ -99,7 +99,7 @@
 		"code":"410308108",
 		"fullCode":"410308108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横水镇",
 		"parentCode":"410308"
 	},
@@ -107,7 +107,7 @@
 		"code":"410308109",
 		"fullCode":"410308109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常袋镇",
 		"parentCode":"410308"
 	}

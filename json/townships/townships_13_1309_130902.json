@@ -3,7 +3,7 @@
 		"code":"130902001",
 		"fullCode":"130902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设北街街道",
 		"parentCode":"130902"
 	},
@@ -11,7 +11,7 @@
 		"code":"130902002",
 		"fullCode":"130902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车站街道",
 		"parentCode":"130902"
 	},
@@ -19,7 +19,7 @@
 		"code":"130902003",
 		"fullCode":"130902003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南大街街道",
 		"parentCode":"130902"
 	},
@@ -27,7 +27,7 @@
 		"code":"130902004",
 		"fullCode":"130902004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东环中街街道",
 		"parentCode":"130902"
 	},
@@ -35,7 +35,7 @@
 		"code":"130902005",
 		"fullCode":"130902005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道东街道",
 		"parentCode":"130902"
 	},
@@ -43,7 +43,7 @@
 		"code":"130902200",
 		"fullCode":"130902200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小赵庄乡",
 		"parentCode":"130902"
 	}

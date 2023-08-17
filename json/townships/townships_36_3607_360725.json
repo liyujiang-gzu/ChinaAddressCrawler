@@ -3,7 +3,7 @@
 		"code":"360725100",
 		"fullCode":"360725100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横水镇",
 		"parentCode":"360725"
 	},
@@ -11,7 +11,7 @@
 		"code":"360725101",
 		"fullCode":"360725101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扬眉镇",
 		"parentCode":"360725"
 	},
@@ -19,7 +19,7 @@
 		"code":"360725102",
 		"fullCode":"360725102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"过埠镇",
 		"parentCode":"360725"
 	},
@@ -27,7 +27,7 @@
 		"code":"360725103",
 		"fullCode":"360725103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铅厂镇",
 		"parentCode":"360725"
 	},
@@ -35,7 +35,7 @@
 		"code":"360725104",
 		"fullCode":"360725104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长龙镇",
 		"parentCode":"360725"
 	},
@@ -43,7 +43,7 @@
 		"code":"360725105",
 		"fullCode":"360725105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关田镇",
 		"parentCode":"360725"
 	},
@@ -51,7 +51,7 @@
 		"code":"360725200",
 		"fullCode":"360725200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙勾乡",
 		"parentCode":"360725"
 	},
@@ -59,7 +59,7 @@
 		"code":"360725201",
 		"fullCode":"360725201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杰坝乡",
 		"parentCode":"360725"
 	},
@@ -67,7 +67,7 @@
 		"code":"360725202",
 		"fullCode":"360725202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金坑乡",
 		"parentCode":"360725"
 	},
@@ -75,7 +75,7 @@
 		"code":"360725203",
 		"fullCode":"360725203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思顺乡",
 		"parentCode":"360725"
 	},
@@ -83,7 +83,7 @@
 		"code":"360725204",
 		"fullCode":"360725204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麟潭乡",
 		"parentCode":"360725"
 	},
@@ -91,7 +91,7 @@
 		"code":"360725205",
 		"fullCode":"360725205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上堡乡",
 		"parentCode":"360725"
 	},
@@ -99,7 +99,7 @@
 		"code":"360725206",
 		"fullCode":"360725206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聂都乡",
 		"parentCode":"360725"
 	},
@@ -107,7 +107,7 @@
 		"code":"360725207",
 		"fullCode":"360725207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文英乡",
 		"parentCode":"360725"
 	},
@@ -115,7 +115,7 @@
 		"code":"360725208",
 		"fullCode":"360725208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐洞乡",
 		"parentCode":"360725"
 	},
@@ -123,7 +123,7 @@
 		"code":"360725209",
 		"fullCode":"360725209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰州乡",
 		"parentCode":"360725"
 	}

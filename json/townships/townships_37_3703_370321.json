@@ -3,7 +3,7 @@
 		"code":"370321001",
 		"fullCode":"370321001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"索镇街道",
 		"parentCode":"370321"
 	},
@@ -11,7 +11,7 @@
 		"code":"370321002",
 		"fullCode":"370321002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"少海街道",
 		"parentCode":"370321"
 	},
@@ -19,7 +19,7 @@
 		"code":"370321101",
 		"fullCode":"370321101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"起凤镇",
 		"parentCode":"370321"
 	},
@@ -27,7 +27,7 @@
 		"code":"370321103",
 		"fullCode":"370321103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田庄镇",
 		"parentCode":"370321"
 	},
@@ -35,7 +35,7 @@
 		"code":"370321104",
 		"fullCode":"370321104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荆家镇",
 		"parentCode":"370321"
 	},
@@ -43,7 +43,7 @@
 		"code":"370321105",
 		"fullCode":"370321105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马桥镇",
 		"parentCode":"370321"
 	},
@@ -51,7 +51,7 @@
 		"code":"370321107",
 		"fullCode":"370321107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城镇",
 		"parentCode":"370321"
 	},
@@ -59,7 +59,7 @@
 		"code":"370321109",
 		"fullCode":"370321109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐山镇",
 		"parentCode":"370321"
 	},
@@ -67,7 +67,7 @@
 		"code":"370321110",
 		"fullCode":"370321110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"果里镇",
 		"parentCode":"370321"
 	}

@@ -3,7 +3,7 @@
 		"code":"331004001",
 		"fullCode":"331004001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路南街道",
 		"parentCode":"331004"
 	},
@@ -11,7 +11,7 @@
 		"code":"331004002",
 		"fullCode":"331004002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路桥街道",
 		"parentCode":"331004"
 	},
@@ -19,7 +19,7 @@
 		"code":"331004003",
 		"fullCode":"331004003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路北街道",
 		"parentCode":"331004"
 	},
@@ -27,7 +27,7 @@
 		"code":"331004004",
 		"fullCode":"331004004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"螺洋街道",
 		"parentCode":"331004"
 	},
@@ -35,7 +35,7 @@
 		"code":"331004005",
 		"fullCode":"331004005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐屿街道",
 		"parentCode":"331004"
 	},
@@ -43,7 +43,7 @@
 		"code":"331004006",
 		"fullCode":"331004006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峰江街道",
 		"parentCode":"331004"
 	},
@@ -51,7 +51,7 @@
 		"code":"331004103",
 		"fullCode":"331004103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥镇",
 		"parentCode":"331004"
 	},
@@ -59,7 +59,7 @@
 		"code":"331004104",
 		"fullCode":"331004104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横街镇",
 		"parentCode":"331004"
 	},
@@ -67,7 +67,7 @@
 		"code":"331004106",
 		"fullCode":"331004106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金清镇",
 		"parentCode":"331004"
 	},
@@ -75,7 +75,7 @@
 		"code":"331004107",
 		"fullCode":"331004107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓬街镇",
 		"parentCode":"331004"
 	},
@@ -83,7 +83,7 @@
 		"code":"331004400",
 		"fullCode":"331004400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海工业城",
 		"parentCode":"331004"
 	},
@@ -91,7 +91,7 @@
 		"code":"331004401",
 		"fullCode":"331004401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海新区",
 		"parentCode":"331004"
 	}

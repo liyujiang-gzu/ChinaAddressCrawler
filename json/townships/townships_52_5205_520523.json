@@ -3,7 +3,7 @@
 		"code":"520523001",
 		"fullCode":"520523001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西洛街道",
 		"parentCode":"520523"
 	},
@@ -11,7 +11,7 @@
 		"code":"520523002",
 		"fullCode":"520523002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩孔街道",
 		"parentCode":"520523"
 	},
@@ -19,7 +19,7 @@
 		"code":"520523003",
 		"fullCode":"520523003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五龙街道",
 		"parentCode":"520523"
 	},
@@ -27,7 +27,7 @@
 		"code":"520523004",
 		"fullCode":"520523004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼓场街道",
 		"parentCode":"520523"
 	},
@@ -35,7 +35,7 @@
 		"code":"520523005",
 		"fullCode":"520523005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民兴街道",
 		"parentCode":"520523"
 	},
@@ -43,7 +43,7 @@
 		"code":"520523101",
 		"fullCode":"520523101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安底镇",
 		"parentCode":"520523"
 	},
@@ -51,7 +51,7 @@
 		"code":"520523102",
 		"fullCode":"520523102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙土镇",
 		"parentCode":"520523"
 	},
@@ -59,7 +59,7 @@
 		"code":"520523104",
 		"fullCode":"520523104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禹谟镇",
 		"parentCode":"520523"
 	},
@@ -67,7 +67,7 @@
 		"code":"520523105",
 		"fullCode":"520523105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岚头镇",
 		"parentCode":"520523"
 	},
@@ -75,7 +75,7 @@
 		"code":"520523106",
 		"fullCode":"520523106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清池镇",
 		"parentCode":"520523"
 	},
@@ -83,7 +83,7 @@
 		"code":"520523107",
 		"fullCode":"520523107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳塘镇",
 		"parentCode":"520523"
 	},
@@ -91,7 +91,7 @@
 		"code":"520523108",
 		"fullCode":"520523108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平坝镇",
 		"parentCode":"520523"
 	},
@@ -99,7 +99,7 @@
 		"code":"520523109",
 		"fullCode":"520523109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"源村镇",
 		"parentCode":"520523"
 	},
@@ -107,7 +107,7 @@
 		"code":"520523110",
 		"fullCode":"520523110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坪镇",
 		"parentCode":"520523"
 	},
@@ -115,7 +115,7 @@
 		"code":"520523111",
 		"fullCode":"520523111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化觉镇",
 		"parentCode":"520523"
 	},
@@ -123,7 +123,7 @@
 		"code":"520523112",
 		"fullCode":"520523112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶园镇",
 		"parentCode":"520523"
 	},
@@ -131,7 +131,7 @@
 		"code":"520523113",
 		"fullCode":"520523113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木孔镇",
 		"parentCode":"520523"
 	},
@@ -139,7 +139,7 @@
 		"code":"520523114",
 		"fullCode":"520523114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长坝镇",
 		"parentCode":"520523"
 	},
@@ -147,7 +147,7 @@
 		"code":"520523115",
 		"fullCode":"520523115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后山镇",
 		"parentCode":"520523"
 	},
@@ -155,7 +155,7 @@
 		"code":"520523202",
 		"fullCode":"520523202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石场苗族彝族乡",
 		"parentCode":"520523"
 	},
@@ -163,7 +163,7 @@
 		"code":"520523203",
 		"fullCode":"520523203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂花乡",
 		"parentCode":"520523"
 	},
@@ -171,7 +171,7 @@
 		"code":"520523204",
 		"fullCode":"520523204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平彝族苗族乡",
 		"parentCode":"520523"
 	},
@@ -179,7 +179,7 @@
 		"code":"520523215",
 		"fullCode":"520523215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安洛苗族彝族满族乡",
 		"parentCode":"520523"
 	},
@@ -187,7 +187,7 @@
 		"code":"520523216",
 		"fullCode":"520523216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新化苗族彝族满族乡",
 		"parentCode":"520523"
 	},
@@ -195,7 +195,7 @@
 		"code":"520523217",
 		"fullCode":"520523217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大田彝族苗族布依族乡",
 		"parentCode":"520523"
 	},
@@ -203,7 +203,7 @@
 		"code":"520523218",
 		"fullCode":"520523218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马路彝族苗族乡",
 		"parentCode":"520523"
 	}

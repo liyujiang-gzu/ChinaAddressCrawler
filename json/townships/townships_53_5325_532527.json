@@ -3,7 +3,7 @@
 		"code":"532527101",
 		"fullCode":"532527101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中枢镇",
 		"parentCode":"532527"
 	},
@@ -11,7 +11,7 @@
 		"code":"532527102",
 		"fullCode":"532527102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金马镇",
 		"parentCode":"532527"
 	},
@@ -19,7 +19,7 @@
 		"code":"532527104",
 		"fullCode":"532527104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧城镇",
 		"parentCode":"532527"
 	},
@@ -27,7 +27,7 @@
 		"code":"532527106",
 		"fullCode":"532527106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"午街铺镇",
 		"parentCode":"532527"
 	},
@@ -35,7 +35,7 @@
 		"code":"532527107",
 		"fullCode":"532527107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白水镇",
 		"parentCode":"532527"
 	},
@@ -43,7 +43,7 @@
 		"code":"532527201",
 		"fullCode":"532527201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳乡",
 		"parentCode":"532527"
 	},
@@ -51,7 +51,7 @@
 		"code":"532527202",
 		"fullCode":"532527202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三塘乡",
 		"parentCode":"532527"
 	},
@@ -59,7 +59,7 @@
 		"code":"532527203",
 		"fullCode":"532527203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁乡",
 		"parentCode":"532527"
 	}

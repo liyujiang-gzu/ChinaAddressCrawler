@@ -3,7 +3,7 @@
 		"code":"511902",
 		"fullCode":"511902000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巴州区",
 		"parentCode":"5119"
 	},
@@ -11,7 +11,7 @@
 		"code":"511903",
 		"fullCode":"511903000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"恩阳区",
 		"parentCode":"5119"
 	},
@@ -19,7 +19,7 @@
 		"code":"511921",
 		"fullCode":"511921000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"通江县",
 		"parentCode":"5119"
 	},
@@ -27,7 +27,7 @@
 		"code":"511922",
 		"fullCode":"511922000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南江县",
 		"parentCode":"5119"
 	},
@@ -35,7 +35,7 @@
 		"code":"511923",
 		"fullCode":"511923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平昌县",
 		"parentCode":"5119"
 	}

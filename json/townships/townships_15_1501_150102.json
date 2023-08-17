@@ -3,7 +3,7 @@
 		"code":"150102001",
 		"fullCode":"150102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海拉尔东路街道",
 		"parentCode":"150102"
 	},
@@ -11,7 +11,7 @@
 		"code":"150102002",
 		"fullCode":"150102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锡林北路街道",
 		"parentCode":"150102"
 	},
@@ -19,7 +19,7 @@
 		"code":"150102003",
 		"fullCode":"150102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山东路街道",
 		"parentCode":"150102"
 	},
@@ -27,7 +27,7 @@
 		"code":"150102004",
 		"fullCode":"150102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东街街道",
 		"parentCode":"150102"
 	},
@@ -35,7 +35,7 @@
 		"code":"150102005",
 		"fullCode":"150102005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西街街道",
 		"parentCode":"150102"
 	},
@@ -43,7 +43,7 @@
 		"code":"150102006",
 		"fullCode":"150102006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风路街道",
 		"parentCode":"150102"
 	},
@@ -51,7 +51,7 @@
 		"code":"150102007",
 		"fullCode":"150102007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎新路街道",
 		"parentCode":"150102"
 	},
@@ -59,7 +59,7 @@
 		"code":"150102008",
 		"fullCode":"150102008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"成吉思汗大街街道",
 		"parentCode":"150102"
 	},
@@ -67,7 +67,7 @@
 		"code":"150102101",
 		"fullCode":"150102101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保合少镇",
 		"parentCode":"150102"
 	},
@@ -75,7 +75,7 @@
 		"code":"150102400",
 		"fullCode":"150102400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城区鸿盛高科技园区",
 		"parentCode":"150102"
 	}

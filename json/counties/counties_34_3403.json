@@ -3,7 +3,7 @@
 		"code":"340302",
 		"fullCode":"340302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙子湖区",
 		"parentCode":"3403"
 	},
@@ -11,7 +11,7 @@
 		"code":"340303",
 		"fullCode":"340303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蚌山区",
 		"parentCode":"3403"
 	},
@@ -19,7 +19,7 @@
 		"code":"340304",
 		"fullCode":"340304000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"禹会区",
 		"parentCode":"3403"
 	},
@@ -27,7 +27,7 @@
 		"code":"340311",
 		"fullCode":"340311000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"淮上区",
 		"parentCode":"3403"
 	},
@@ -35,7 +35,7 @@
 		"code":"340321",
 		"fullCode":"340321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"怀远县",
 		"parentCode":"3403"
 	},
@@ -43,7 +43,7 @@
 		"code":"340322",
 		"fullCode":"340322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五河县",
 		"parentCode":"3403"
 	},
@@ -51,7 +51,7 @@
 		"code":"340323",
 		"fullCode":"340323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"固镇县",
 		"parentCode":"3403"
 	},
@@ -59,7 +59,7 @@
 		"code":"340371",
 		"fullCode":"340371000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蚌埠市高新技术开发区",
 		"parentCode":"3403"
 	},
@@ -67,7 +67,7 @@
 		"code":"340372",
 		"fullCode":"340372000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蚌埠市经济开发区",
 		"parentCode":"3403"
 	}

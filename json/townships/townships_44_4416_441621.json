@@ -3,7 +3,7 @@
 		"code":"441621100",
 		"fullCode":"441621100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫城镇",
 		"parentCode":"441621"
 	},
@@ -11,7 +11,7 @@
 		"code":"441621102",
 		"fullCode":"441621102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙窝镇",
 		"parentCode":"441621"
 	},
@@ -19,7 +19,7 @@
 		"code":"441621103",
 		"fullCode":"441621103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九和镇",
 		"parentCode":"441621"
 	},
@@ -27,7 +27,7 @@
 		"code":"441621104",
 		"fullCode":"441621104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上义镇",
 		"parentCode":"441621"
 	},
@@ -35,7 +35,7 @@
 		"code":"441621105",
 		"fullCode":"441621105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝塘镇",
 		"parentCode":"441621"
 	},
@@ -43,7 +43,7 @@
 		"code":"441621106",
 		"fullCode":"441621106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤安镇",
 		"parentCode":"441621"
 	},
@@ -51,7 +51,7 @@
 		"code":"441621107",
 		"fullCode":"441621107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义容镇",
 		"parentCode":"441621"
 	},
@@ -59,7 +59,7 @@
 		"code":"441621108",
 		"fullCode":"441621108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古竹镇",
 		"parentCode":"441621"
 	},
@@ -67,7 +67,7 @@
 		"code":"441621109",
 		"fullCode":"441621109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江镇",
 		"parentCode":"441621"
 	},
@@ -75,7 +75,7 @@
 		"code":"441621110",
 		"fullCode":"441621110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏埔镇",
 		"parentCode":"441621"
 	},
@@ -83,7 +83,7 @@
 		"code":"441621111",
 		"fullCode":"441621111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄塘镇",
 		"parentCode":"441621"
 	},
@@ -91,7 +91,7 @@
 		"code":"441621112",
 		"fullCode":"441621112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敬梓镇",
 		"parentCode":"441621"
 	},
@@ -99,7 +99,7 @@
 		"code":"441621114",
 		"fullCode":"441621114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水墩镇",
 		"parentCode":"441621"
 	},
@@ -107,7 +107,7 @@
 		"code":"441621115",
 		"fullCode":"441621115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岭镇",
 		"parentCode":"441621"
 	},
@@ -115,7 +115,7 @@
 		"code":"441621116",
 		"fullCode":"441621116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏区镇",
 		"parentCode":"441621"
 	},
@@ -123,7 +123,7 @@
 		"code":"441621117",
 		"fullCode":"441621117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦溪镇",
 		"parentCode":"441621"
 	},
@@ -131,7 +131,7 @@
 		"code":"441621118",
 		"fullCode":"441621118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"好义镇",
 		"parentCode":"441621"
 	},
@@ -139,7 +139,7 @@
 		"code":"441621119",
 		"fullCode":"441621119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中坝镇",
 		"parentCode":"441621"
 	}

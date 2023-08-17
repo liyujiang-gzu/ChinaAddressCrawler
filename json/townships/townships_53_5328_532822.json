@@ -3,7 +3,7 @@
 		"code":"532822101",
 		"fullCode":"532822101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐海镇",
 		"parentCode":"532822"
 	},
@@ -11,7 +11,7 @@
 		"code":"532822102",
 		"fullCode":"532822102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"打洛镇",
 		"parentCode":"532822"
 	},
@@ -19,7 +19,7 @@
 		"code":"532822103",
 		"fullCode":"532822103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐混镇",
 		"parentCode":"532822"
 	},
@@ -27,7 +27,7 @@
 		"code":"532822104",
 		"fullCode":"532822104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐遮镇",
 		"parentCode":"532822"
 	},
@@ -35,7 +35,7 @@
 		"code":"532822105",
 		"fullCode":"532822105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐满镇",
 		"parentCode":"532822"
 	},
@@ -43,7 +43,7 @@
 		"code":"532822106",
 		"fullCode":"532822106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐阿镇",
 		"parentCode":"532822"
 	},
@@ -51,7 +51,7 @@
 		"code":"532822201",
 		"fullCode":"532822201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐宋乡",
 		"parentCode":"532822"
 	},
@@ -59,7 +59,7 @@
 		"code":"532822202",
 		"fullCode":"532822202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐往乡",
 		"parentCode":"532822"
 	},
@@ -67,7 +67,7 @@
 		"code":"532822203",
 		"fullCode":"532822203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"格朗和哈尼族乡",
 		"parentCode":"532822"
 	},
@@ -75,7 +75,7 @@
 		"code":"532822204",
 		"fullCode":"532822204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布朗山布朗族乡",
 		"parentCode":"532822"
 	},
@@ -83,7 +83,7 @@
 		"code":"532822205",
 		"fullCode":"532822205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西定哈尼族布朗族乡",
 		"parentCode":"532822"
 	},
@@ -91,7 +91,7 @@
 		"code":"532822401",
 		"fullCode":"532822401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎明农场",
 		"parentCode":"532822"
 	}

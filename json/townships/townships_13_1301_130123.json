@@ -3,7 +3,7 @@
 		"code":"130123001",
 		"fullCode":"130123001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"诸福屯街道",
 		"parentCode":"130123"
 	},
@@ -11,7 +11,7 @@
 		"code":"130123002",
 		"fullCode":"130123002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里屯街道",
 		"parentCode":"130123"
 	},
@@ -19,7 +19,7 @@
 		"code":"130123100",
 		"fullCode":"130123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正定镇",
 		"parentCode":"130123"
 	},
@@ -27,7 +27,7 @@
 		"code":"130123102",
 		"fullCode":"130123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城铺镇",
 		"parentCode":"130123"
 	},
@@ -35,7 +35,7 @@
 		"code":"130123103",
 		"fullCode":"130123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安镇",
 		"parentCode":"130123"
 	},
@@ -43,7 +43,7 @@
 		"code":"130123104",
 		"fullCode":"130123104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岗镇",
 		"parentCode":"130123"
 	},
@@ -51,7 +51,7 @@
 		"code":"130123105",
 		"fullCode":"130123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲阳桥镇",
 		"parentCode":"130123"
 	},
@@ -59,7 +59,7 @@
 		"code":"130123200",
 		"fullCode":"130123200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南牛乡",
 		"parentCode":"130123"
 	},
@@ -67,7 +67,7 @@
 		"code":"130123201",
 		"fullCode":"130123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南楼乡",
 		"parentCode":"130123"
 	},
@@ -75,7 +75,7 @@
 		"code":"130123202",
 		"fullCode":"130123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西平乐乡",
 		"parentCode":"130123"
 	}

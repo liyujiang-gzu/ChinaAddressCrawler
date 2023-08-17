@@ -3,7 +3,7 @@
 		"code":"530427001",
 		"fullCode":"530427001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂山街道",
 		"parentCode":"530427"
 	},
@@ -11,7 +11,7 @@
 		"code":"530427002",
 		"fullCode":"530427002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城街道",
 		"parentCode":"530427"
 	},
@@ -19,7 +19,7 @@
 		"code":"530427100",
 		"fullCode":"530427100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扬武镇",
 		"parentCode":"530427"
 	},
@@ -27,7 +27,7 @@
 		"code":"530427101",
 		"fullCode":"530427101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漠沙镇",
 		"parentCode":"530427"
 	},
@@ -35,7 +35,7 @@
 		"code":"530427102",
 		"fullCode":"530427102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戛洒镇",
 		"parentCode":"530427"
 	},
@@ -43,7 +43,7 @@
 		"code":"530427103",
 		"fullCode":"530427103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水塘镇",
 		"parentCode":"530427"
 	},
@@ -51,7 +51,7 @@
 		"code":"530427200",
 		"fullCode":"530427200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平甸乡",
 		"parentCode":"530427"
 	},
@@ -59,7 +59,7 @@
 		"code":"530427201",
 		"fullCode":"530427201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新化乡",
 		"parentCode":"530427"
 	},
@@ -67,7 +67,7 @@
 		"code":"530427202",
 		"fullCode":"530427202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建兴乡",
 		"parentCode":"530427"
 	},
@@ -75,7 +75,7 @@
 		"code":"530427203",
 		"fullCode":"530427203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老厂乡",
 		"parentCode":"530427"
 	},
@@ -83,7 +83,7 @@
 		"code":"530427204",
 		"fullCode":"530427204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"者竜乡",
 		"parentCode":"530427"
 	},
@@ -91,7 +91,7 @@
 		"code":"530427205",
 		"fullCode":"530427205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平掌乡",
 		"parentCode":"530427"
 	}

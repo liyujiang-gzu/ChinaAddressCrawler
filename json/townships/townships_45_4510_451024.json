@@ -3,7 +3,7 @@
 		"code":"451024100",
 		"fullCode":"451024100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"451024"
 	},
@@ -11,7 +11,7 @@
 		"code":"451024101",
 		"fullCode":"451024101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"足荣镇",
 		"parentCode":"451024"
 	},
@@ -19,7 +19,7 @@
 		"code":"451024102",
 		"fullCode":"451024102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆桑镇",
 		"parentCode":"451024"
 	},
@@ -27,7 +27,7 @@
 		"code":"451024103",
 		"fullCode":"451024103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敬德镇",
 		"parentCode":"451024"
 	},
@@ -35,7 +35,7 @@
 		"code":"451024104",
 		"fullCode":"451024104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马隘镇",
 		"parentCode":"451024"
 	},
@@ -43,7 +43,7 @@
 		"code":"451024105",
 		"fullCode":"451024105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东凌镇",
 		"parentCode":"451024"
 	},
@@ -51,7 +51,7 @@
 		"code":"451024106",
 		"fullCode":"451024106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那甲镇",
 		"parentCode":"451024"
 	},
@@ -59,7 +59,7 @@
 		"code":"451024200",
 		"fullCode":"451024200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都安乡",
 		"parentCode":"451024"
 	},
@@ -67,7 +67,7 @@
 		"code":"451024203",
 		"fullCode":"451024203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣华乡",
 		"parentCode":"451024"
 	},
@@ -75,7 +75,7 @@
 		"code":"451024204",
 		"fullCode":"451024204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕峒乡",
 		"parentCode":"451024"
 	},
@@ -83,7 +83,7 @@
 		"code":"451024205",
 		"fullCode":"451024205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙光乡",
 		"parentCode":"451024"
 	},
@@ -91,7 +91,7 @@
 		"code":"451024206",
 		"fullCode":"451024206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴头乡",
 		"parentCode":"451024"
 	},
@@ -99,7 +99,7 @@
 		"code":"451024450",
 		"fullCode":"451024450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德保铝业",
 		"parentCode":"451024"
 	}

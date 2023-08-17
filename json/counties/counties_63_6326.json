@@ -3,7 +3,7 @@
 		"code":"632621",
 		"fullCode":"632621000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"玛沁县",
 		"parentCode":"6326"
 	},
@@ -11,7 +11,7 @@
 		"code":"632622",
 		"fullCode":"632622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"班玛县",
 		"parentCode":"6326"
 	},
@@ -19,7 +19,7 @@
 		"code":"632623",
 		"fullCode":"632623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"甘德县",
 		"parentCode":"6326"
 	},
@@ -27,7 +27,7 @@
 		"code":"632624",
 		"fullCode":"632624000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"达日县",
 		"parentCode":"6326"
 	},
@@ -35,7 +35,7 @@
 		"code":"632625",
 		"fullCode":"632625000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"久治县",
 		"parentCode":"6326"
 	},
@@ -43,7 +43,7 @@
 		"code":"632626",
 		"fullCode":"632626000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"玛多县",
 		"parentCode":"6326"
 	}

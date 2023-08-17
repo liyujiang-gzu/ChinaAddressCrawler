@@ -3,7 +3,7 @@
 		"code":"450204001",
 		"fullCode":"450204001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西街道",
 		"parentCode":"450204"
 	},
@@ -11,7 +11,7 @@
 		"code":"450204002",
 		"fullCode":"450204002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南站街道",
 		"parentCode":"450204"
 	},
@@ -19,7 +19,7 @@
 		"code":"450204003",
 		"fullCode":"450204003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹅山街道",
 		"parentCode":"450204"
 	},
@@ -27,7 +27,7 @@
 		"code":"450204004",
 		"fullCode":"450204004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳南街道",
 		"parentCode":"450204"
 	},
@@ -35,7 +35,7 @@
 		"code":"450204005",
 		"fullCode":"450204005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳石街道",
 		"parentCode":"450204"
 	},
@@ -43,7 +43,7 @@
 		"code":"450204006",
 		"fullCode":"450204006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银山街道",
 		"parentCode":"450204"
 	},
@@ -51,7 +51,7 @@
 		"code":"450204007",
 		"fullCode":"450204007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭西街道",
 		"parentCode":"450204"
 	},
@@ -59,7 +59,7 @@
 		"code":"450204008",
 		"fullCode":"450204008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南环街道",
 		"parentCode":"450204"
 	},
@@ -67,7 +67,7 @@
 		"code":"450204100",
 		"fullCode":"450204100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太阳村镇",
 		"parentCode":"450204"
 	},
@@ -75,7 +75,7 @@
 		"code":"450204101",
 		"fullCode":"450204101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛满镇",
 		"parentCode":"450204"
 	},
@@ -83,7 +83,7 @@
 		"code":"450204102",
 		"fullCode":"450204102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流山镇",
 		"parentCode":"450204"
 	}

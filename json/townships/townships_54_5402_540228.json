@@ -3,7 +3,7 @@
 		"code":"540228100",
 		"fullCode":"540228100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛江镇",
 		"parentCode":"540228"
 	},
@@ -11,7 +11,7 @@
 		"code":"540228101",
 		"fullCode":"540228101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎东镇",
 		"parentCode":"540228"
 	},
@@ -19,7 +19,7 @@
 		"code":"540228200",
 		"fullCode":"540228200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴扎乡",
 		"parentCode":"540228"
 	},
@@ -27,7 +27,7 @@
 		"code":"540228201",
 		"fullCode":"540228201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玛乡",
 		"parentCode":"540228"
 	},
@@ -35,7 +35,7 @@
 		"code":"540228202",
 		"fullCode":"540228202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旺丹乡",
 		"parentCode":"540228"
 	},
@@ -43,7 +43,7 @@
 		"code":"540228203",
 		"fullCode":"540228203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲奴乡",
 		"parentCode":"540228"
 	},
@@ -51,7 +51,7 @@
 		"code":"540228204",
 		"fullCode":"540228204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜琼乡",
 		"parentCode":"540228"
 	},
@@ -59,7 +59,7 @@
 		"code":"540228205",
 		"fullCode":"540228205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"强堆乡",
 		"parentCode":"540228"
 	},
@@ -67,7 +67,7 @@
 		"code":"540228206",
 		"fullCode":"540228206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎普乡",
 		"parentCode":"540228"
 	},
@@ -75,7 +75,7 @@
 		"code":"540228207",
 		"fullCode":"540228207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"者下乡",
 		"parentCode":"540228"
 	},
@@ -83,7 +83,7 @@
 		"code":"540228208",
 		"fullCode":"540228208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东喜乡",
 		"parentCode":"540228"
 	}

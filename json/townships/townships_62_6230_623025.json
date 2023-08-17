@@ -3,7 +3,7 @@
 		"code":"623025100",
 		"fullCode":"623025100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼玛镇",
 		"parentCode":"623025"
 	},
@@ -11,7 +11,7 @@
 		"code":"623025101",
 		"fullCode":"623025101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曼日玛镇",
 		"parentCode":"623025"
 	},
@@ -19,7 +19,7 @@
 		"code":"623025102",
 		"fullCode":"623025102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿万仓镇",
 		"parentCode":"623025"
 	},
@@ -27,7 +27,7 @@
 		"code":"623025103",
 		"fullCode":"623025103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐哈玛镇",
 		"parentCode":"623025"
 	},
@@ -35,7 +35,7 @@
 		"code":"623025104",
 		"fullCode":"623025104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"采日玛镇",
 		"parentCode":"623025"
 	},
@@ -43,7 +43,7 @@
 		"code":"623025105",
 		"fullCode":"623025105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欧拉镇",
 		"parentCode":"623025"
 	},
@@ -51,7 +51,7 @@
 		"code":"623025201",
 		"fullCode":"623025201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欧拉秀玛乡",
 		"parentCode":"623025"
 	},
@@ -59,7 +59,7 @@
 		"code":"623025203",
 		"fullCode":"623025203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木西合乡",
 		"parentCode":"623025"
 	},
@@ -67,7 +67,7 @@
 		"code":"623025400",
 		"fullCode":"623025400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河曲马场",
 		"parentCode":"623025"
 	},
@@ -75,7 +75,7 @@
 		"code":"623025401",
 		"fullCode":"623025401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大水军牧场",
 		"parentCode":"623025"
 	},
@@ -83,7 +83,7 @@
 		"code":"623025402",
 		"fullCode":"623025402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高原生物研究所",
 		"parentCode":"623025"
 	}

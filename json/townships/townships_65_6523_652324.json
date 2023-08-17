@@ -3,7 +3,7 @@
 		"code":"652324100",
 		"fullCode":"652324100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玛纳斯镇",
 		"parentCode":"652324"
 	},
@@ -11,7 +11,7 @@
 		"code":"652324101",
 		"fullCode":"652324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐土驿镇",
 		"parentCode":"652324"
 	},
@@ -19,7 +19,7 @@
 		"code":"652324102",
 		"fullCode":"652324102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"包家店镇",
 		"parentCode":"652324"
 	},
@@ -27,7 +27,7 @@
 		"code":"652324103",
 		"fullCode":"652324103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉州户镇",
 		"parentCode":"652324"
 	},
@@ -35,7 +35,7 @@
 		"code":"652324104",
 		"fullCode":"652324104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北五岔镇",
 		"parentCode":"652324"
 	},
@@ -43,7 +43,7 @@
 		"code":"652324105",
 		"fullCode":"652324105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六户地镇",
 		"parentCode":"652324"
 	},
@@ -51,7 +51,7 @@
 		"code":"652324106",
 		"fullCode":"652324106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰州湾镇",
 		"parentCode":"652324"
 	},
@@ -59,7 +59,7 @@
 		"code":"652324201",
 		"fullCode":"652324201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广东地乡",
 		"parentCode":"652324"
 	},
@@ -67,7 +67,7 @@
 		"code":"652324202",
 		"fullCode":"652324202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水河子哈萨克民族乡",
 		"parentCode":"652324"
 	},
@@ -75,7 +75,7 @@
 		"code":"652324203",
 		"fullCode":"652324203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔西河乡",
 		"parentCode":"652324"
 	},
@@ -83,7 +83,7 @@
 		"code":"652324204",
 		"fullCode":"652324204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旱卡子滩乡",
 		"parentCode":"652324"
 	},
@@ -91,7 +91,7 @@
 		"code":"652324400",
 		"fullCode":"652324400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玛电工业区",
 		"parentCode":"652324"
 	},
@@ -99,7 +99,7 @@
 		"code":"652324402",
 		"fullCode":"652324402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"自治区林业厅玛纳斯平原林场",
 		"parentCode":"652324"
 	},
@@ -107,7 +107,7 @@
 		"code":"652324404",
 		"fullCode":"652324404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新疆农业科学院玛纳斯县试验站",
 		"parentCode":"652324"
 	},
@@ -115,7 +115,7 @@
 		"code":"652324520",
 		"fullCode":"652324520000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团农六师新湖农场",
 		"parentCode":"652324"
 	},
@@ -123,7 +123,7 @@
 		"code":"652324521",
 		"fullCode":"652324521000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一四七团",
 		"parentCode":"652324"
 	},
@@ -131,7 +131,7 @@
 		"code":"652324522",
 		"fullCode":"652324522000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一四八团",
 		"parentCode":"652324"
 	},
@@ -139,7 +139,7 @@
 		"code":"652324523",
 		"fullCode":"652324523000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一四九团",
 		"parentCode":"652324"
 	},
@@ -147,7 +147,7 @@
 		"code":"652324524",
 		"fullCode":"652324524000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一五零团",
 		"parentCode":"652324"
 	}

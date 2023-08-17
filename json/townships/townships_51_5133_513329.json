@@ -3,7 +3,7 @@
 		"code":"513329100",
 		"fullCode":"513329100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"如龙镇",
 		"parentCode":"513329"
 	},
@@ -11,7 +11,7 @@
 		"code":"513329101",
 		"fullCode":"513329101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉日马镇",
 		"parentCode":"513329"
 	},
@@ -19,7 +19,7 @@
 		"code":"513329102",
 		"fullCode":"513329102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大盖镇",
 		"parentCode":"513329"
 	},
@@ -27,7 +27,7 @@
 		"code":"513329103",
 		"fullCode":"513329103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通宵镇",
 		"parentCode":"513329"
 	},
@@ -35,7 +35,7 @@
 		"code":"513329104",
 		"fullCode":"513329104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"色威镇",
 		"parentCode":"513329"
 	},
@@ -43,7 +43,7 @@
 		"code":"513329105",
 		"fullCode":"513329105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尤拉西镇",
 		"parentCode":"513329"
 	},
@@ -51,7 +51,7 @@
 		"code":"513329200",
 		"fullCode":"513329200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙堆乡",
 		"parentCode":"513329"
 	},
@@ -59,7 +59,7 @@
 		"code":"513329203",
 		"fullCode":"513329203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绕鲁乡",
 		"parentCode":"513329"
 	},
@@ -67,7 +67,7 @@
 		"code":"513329207",
 		"fullCode":"513329207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博美乡",
 		"parentCode":"513329"
 	},
@@ -75,7 +75,7 @@
 		"code":"513329209",
 		"fullCode":"513329209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"子拖西乡",
 		"parentCode":"513329"
 	},
@@ -83,7 +83,7 @@
 		"code":"513329210",
 		"fullCode":"513329210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平乡",
 		"parentCode":"513329"
 	},
@@ -91,7 +91,7 @@
 		"code":"513329211",
 		"fullCode":"513329211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛古乡",
 		"parentCode":"513329"
 	},
@@ -99,7 +99,7 @@
 		"code":"513329212",
 		"fullCode":"513329212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雄龙西乡",
 		"parentCode":"513329"
 	},
@@ -107,7 +107,7 @@
 		"code":"513329213",
 		"fullCode":"513329213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻日乡",
 		"parentCode":"513329"
 	},
@@ -115,7 +115,7 @@
 		"code":"513329215",
 		"fullCode":"513329215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友谊乡",
 		"parentCode":"513329"
 	},
@@ -123,7 +123,7 @@
 		"code":"513329217",
 		"fullCode":"513329217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银多乡",
 		"parentCode":"513329"
 	}

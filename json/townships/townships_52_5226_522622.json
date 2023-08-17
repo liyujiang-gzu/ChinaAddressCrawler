@@ -3,7 +3,7 @@
 		"code":"522622100",
 		"fullCode":"522622100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新州镇",
 		"parentCode":"522622"
 	},
@@ -11,7 +11,7 @@
 		"code":"522622101",
 		"fullCode":"522622101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧州镇",
 		"parentCode":"522622"
 	},
@@ -19,7 +19,7 @@
 		"code":"522622102",
 		"fullCode":"522622102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"重安镇",
 		"parentCode":"522622"
 	},
@@ -27,7 +27,7 @@
 		"code":"522622103",
 		"fullCode":"522622103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷陇镇",
 		"parentCode":"522622"
 	},
@@ -35,7 +35,7 @@
 		"code":"522622104",
 		"fullCode":"522622104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平溪镇",
 		"parentCode":"522622"
 	},
@@ -43,7 +43,7 @@
 		"code":"522622105",
 		"fullCode":"522622105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"野洞河镇",
 		"parentCode":"522622"
 	},
@@ -51,7 +51,7 @@
 		"code":"522622106",
 		"fullCode":"522622106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浪洞镇",
 		"parentCode":"522622"
 	},
@@ -59,7 +59,7 @@
 		"code":"522622107",
 		"fullCode":"522622107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上塘镇",
 		"parentCode":"522622"
 	},
@@ -67,7 +67,7 @@
 		"code":"522622203",
 		"fullCode":"522622203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"一碗水乡",
 		"parentCode":"522622"
 	},
@@ -75,7 +75,7 @@
 		"code":"522622204",
 		"fullCode":"522622204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纸房乡",
 		"parentCode":"522622"
 	},
@@ -83,7 +83,7 @@
 		"code":"522622206",
 		"fullCode":"522622206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翁坪乡",
 		"parentCode":"522622"
 	}

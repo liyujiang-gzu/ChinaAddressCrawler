@@ -3,7 +3,7 @@
 		"code":"5201",
 		"fullCode":"520100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"贵阳市",
 		"parentCode":"52"
 	},
@@ -11,7 +11,7 @@
 		"code":"5202",
 		"fullCode":"520200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"六盘水市",
 		"parentCode":"52"
 	},
@@ -19,7 +19,7 @@
 		"code":"5203",
 		"fullCode":"520300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"遵义市",
 		"parentCode":"52"
 	},
@@ -27,7 +27,7 @@
 		"code":"5204",
 		"fullCode":"520400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"安顺市",
 		"parentCode":"52"
 	},
@@ -35,7 +35,7 @@
 		"code":"5205",
 		"fullCode":"520500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"毕节市",
 		"parentCode":"52"
 	},
@@ -43,7 +43,7 @@
 		"code":"5206",
 		"fullCode":"520600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"铜仁市",
 		"parentCode":"52"
 	},
@@ -51,7 +51,7 @@
 		"code":"5223",
 		"fullCode":"522300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"黔西南布依族苗族自治州",
 		"parentCode":"52"
 	},
@@ -59,7 +59,7 @@
 		"code":"5226",
 		"fullCode":"522600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"黔东南苗族侗族自治州",
 		"parentCode":"52"
 	},
@@ -67,7 +67,7 @@
 		"code":"5227",
 		"fullCode":"522700000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"黔南布依族苗族自治州",
 		"parentCode":"52"
 	}

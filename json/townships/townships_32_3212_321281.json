@@ -3,7 +3,7 @@
 		"code":"321281001",
 		"fullCode":"321281001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昭阳街道",
 		"parentCode":"321281"
 	},
@@ -11,7 +11,7 @@
 		"code":"321281002",
 		"fullCode":"321281002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临城街道",
 		"parentCode":"321281"
 	},
@@ -19,7 +19,7 @@
 		"code":"321281003",
 		"fullCode":"321281003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垛田街道",
 		"parentCode":"321281"
 	},
@@ -27,7 +27,7 @@
 		"code":"321281100",
 		"fullCode":"321281100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戴窑镇",
 		"parentCode":"321281"
 	},
@@ -35,7 +35,7 @@
 		"code":"321281101",
 		"fullCode":"321281101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合陈镇",
 		"parentCode":"321281"
 	},
@@ -43,7 +43,7 @@
 		"code":"321281102",
 		"fullCode":"321281102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰镇",
 		"parentCode":"321281"
 	},
@@ -51,7 +51,7 @@
 		"code":"321281103",
 		"fullCode":"321281103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新垛镇",
 		"parentCode":"321281"
 	},
@@ -59,7 +59,7 @@
 		"code":"321281104",
 		"fullCode":"321281104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安丰镇",
 		"parentCode":"321281"
 	},
@@ -67,7 +67,7 @@
 		"code":"321281105",
 		"fullCode":"321281105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海南镇",
 		"parentCode":"321281"
 	},
@@ -75,7 +75,7 @@
 		"code":"321281106",
 		"fullCode":"321281106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钓鱼镇",
 		"parentCode":"321281"
 	},
@@ -83,7 +83,7 @@
 		"code":"321281107",
 		"fullCode":"321281107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大邹镇",
 		"parentCode":"321281"
 	},
@@ -91,7 +91,7 @@
 		"code":"321281108",
 		"fullCode":"321281108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙沟镇",
 		"parentCode":"321281"
 	},
@@ -99,7 +99,7 @@
 		"code":"321281109",
 		"fullCode":"321281109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中堡镇",
 		"parentCode":"321281"
 	},
@@ -107,7 +107,7 @@
 		"code":"321281114",
 		"fullCode":"321281114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹泓镇",
 		"parentCode":"321281"
 	},
@@ -115,7 +115,7 @@
 		"code":"321281115",
 		"fullCode":"321281115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈伦镇",
 		"parentCode":"321281"
 	},
@@ -123,7 +123,7 @@
 		"code":"321281116",
 		"fullCode":"321281116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大垛镇",
 		"parentCode":"321281"
 	},
@@ -131,7 +131,7 @@
 		"code":"321281117",
 		"fullCode":"321281117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荻垛镇",
 		"parentCode":"321281"
 	},
@@ -139,7 +139,7 @@
 		"code":"321281118",
 		"fullCode":"321281118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶庄镇",
 		"parentCode":"321281"
 	},
@@ -147,7 +147,7 @@
 		"code":"321281119",
 		"fullCode":"321281119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌荣镇",
 		"parentCode":"321281"
 	},
@@ -155,7 +155,7 @@
 		"code":"321281121",
 		"fullCode":"321281121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周庄镇",
 		"parentCode":"321281"
 	},
@@ -163,7 +163,7 @@
 		"code":"321281122",
 		"fullCode":"321281122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈堡镇",
 		"parentCode":"321281"
 	},
@@ -171,7 +171,7 @@
 		"code":"321281123",
 		"fullCode":"321281123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戴南镇",
 		"parentCode":"321281"
 	},
@@ -179,7 +179,7 @@
 		"code":"321281126",
 		"fullCode":"321281126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营镇",
 		"parentCode":"321281"
 	},
@@ -187,7 +187,7 @@
 		"code":"321281129",
 		"fullCode":"321281129000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴东镇",
 		"parentCode":"321281"
 	},
@@ -195,7 +195,7 @@
 		"code":"321281130",
 		"fullCode":"321281130000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千垛镇",
 		"parentCode":"321281"
 	},
@@ -203,7 +203,7 @@
 		"code":"321281204",
 		"fullCode":"321281204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林湖乡",
 		"parentCode":"321281"
 	},
@@ -211,7 +211,7 @@
 		"code":"321281400",
 		"fullCode":"321281400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开发区",
 		"parentCode":"321281"
 	},
@@ -219,7 +219,7 @@
 		"code":"321281401",
 		"fullCode":"321281401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良种场",
 		"parentCode":"321281"
 	}

@@ -3,7 +3,7 @@
 		"code":"532931101",
 		"fullCode":"532931101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金华镇",
 		"parentCode":"532931"
 	},
@@ -11,7 +11,7 @@
 		"code":"532931102",
 		"fullCode":"532931102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老君山镇",
 		"parentCode":"532931"
 	},
@@ -19,7 +19,7 @@
 		"code":"532931103",
 		"fullCode":"532931103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甸南镇",
 		"parentCode":"532931"
 	},
@@ -27,7 +27,7 @@
 		"code":"532931104",
 		"fullCode":"532931104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙溪镇",
 		"parentCode":"532931"
 	},
@@ -35,7 +35,7 @@
 		"code":"532931105",
 		"fullCode":"532931105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马登镇",
 		"parentCode":"532931"
 	},
@@ -43,7 +43,7 @@
 		"code":"532931201",
 		"fullCode":"532931201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊岑乡",
 		"parentCode":"532931"
 	},
@@ -51,7 +51,7 @@
 		"code":"532931202",
 		"fullCode":"532931202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弥沙乡",
 		"parentCode":"532931"
 	},
@@ -59,7 +59,7 @@
 		"code":"532931203",
 		"fullCode":"532931203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象图乡",
 		"parentCode":"532931"
 	}

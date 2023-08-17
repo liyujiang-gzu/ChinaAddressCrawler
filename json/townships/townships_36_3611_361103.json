@@ -3,7 +3,7 @@
 		"code":"361103001",
 		"fullCode":"361103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰街道",
 		"parentCode":"361103"
 	},
@@ -11,7 +11,7 @@
 		"code":"361103002",
 		"fullCode":"361103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦林街道",
 		"parentCode":"361103"
 	},
@@ -19,7 +19,7 @@
 		"code":"361103003",
 		"fullCode":"361103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰溪街道",
 		"parentCode":"361103"
 	},
@@ -27,7 +27,7 @@
 		"code":"361103004",
 		"fullCode":"361103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下溪街道",
 		"parentCode":"361103"
 	},
@@ -35,7 +35,7 @@
 		"code":"361103005",
 		"fullCode":"361103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石街道",
 		"parentCode":"361103"
 	},
@@ -43,7 +43,7 @@
 		"code":"361103101",
 		"fullCode":"361103101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五都镇",
 		"parentCode":"361103"
 	},
@@ -51,7 +51,7 @@
 		"code":"361103102",
 		"fullCode":"361103102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋口镇",
 		"parentCode":"361103"
 	},
@@ -59,7 +59,7 @@
 		"code":"361103103",
 		"fullCode":"361103103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横山镇",
 		"parentCode":"361103"
 	},
@@ -67,7 +67,7 @@
 		"code":"361103104",
 		"fullCode":"361103104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐畈镇",
 		"parentCode":"361103"
 	},
@@ -75,7 +75,7 @@
 		"code":"361103105",
 		"fullCode":"361103105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖丰镇",
 		"parentCode":"361103"
 	},
@@ -83,7 +83,7 @@
 		"code":"361103106",
 		"fullCode":"361103106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大南镇",
 		"parentCode":"361103"
 	},
@@ -91,7 +91,7 @@
 		"code":"361103107",
 		"fullCode":"361103107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"排山镇",
 		"parentCode":"361103"
 	},
@@ -99,7 +99,7 @@
 		"code":"361103108",
 		"fullCode":"361103108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛村镇",
 		"parentCode":"361103"
 	},
@@ -107,7 +107,7 @@
 		"code":"361103109",
 		"fullCode":"361103109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枧底镇",
 		"parentCode":"361103"
 	},
@@ -115,7 +115,7 @@
 		"code":"361103110",
 		"fullCode":"361103110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉波镇",
 		"parentCode":"361103"
 	},
@@ -123,7 +123,7 @@
 		"code":"361103111",
 		"fullCode":"361103111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"壶峤镇",
 		"parentCode":"361103"
 	},
@@ -131,7 +131,7 @@
 		"code":"361103112",
 		"fullCode":"361103112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞峰镇",
 		"parentCode":"361103"
 	},
@@ -139,7 +139,7 @@
 		"code":"361103114",
 		"fullCode":"361103114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴村镇",
 		"parentCode":"361103"
 	},
@@ -147,7 +147,7 @@
 		"code":"361103115",
 		"fullCode":"361103115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙田镇",
 		"parentCode":"361103"
 	},
@@ -155,7 +155,7 @@
 		"code":"361103116",
 		"fullCode":"361103116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜钹山镇",
 		"parentCode":"361103"
 	},
@@ -163,7 +163,7 @@
 		"code":"361103202",
 		"fullCode":"361103202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东阳乡",
 		"parentCode":"361103"
 	},
@@ -171,7 +171,7 @@
 		"code":"361103204",
 		"fullCode":"361103204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嵩峰乡",
 		"parentCode":"361103"
 	},
@@ -179,7 +179,7 @@
 		"code":"361103206",
 		"fullCode":"361103206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"少阳乡",
 		"parentCode":"361103"
 	},
@@ -187,7 +187,7 @@
 		"code":"361103500",
 		"fullCode":"361103500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜拔山垦殖场",
 		"parentCode":"361103"
 	}

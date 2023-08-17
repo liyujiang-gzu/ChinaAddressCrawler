@@ -3,7 +3,7 @@
 		"code":"140824100",
 		"fullCode":"140824100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稷峰镇",
 		"parentCode":"140824"
 	},
@@ -11,7 +11,7 @@
 		"code":"140824101",
 		"fullCode":"140824101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西社镇",
 		"parentCode":"140824"
 	},
@@ -19,7 +19,7 @@
 		"code":"140824102",
 		"fullCode":"140824102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化峪镇",
 		"parentCode":"140824"
 	},
@@ -27,7 +27,7 @@
 		"code":"140824103",
 		"fullCode":"140824103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翟店镇",
 		"parentCode":"140824"
 	},
@@ -35,7 +35,7 @@
 		"code":"140824104",
 		"fullCode":"140824104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河镇",
 		"parentCode":"140824"
 	},
@@ -43,7 +43,7 @@
 		"code":"140824200",
 		"fullCode":"140824200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡村乡",
 		"parentCode":"140824"
 	},
@@ -51,7 +51,7 @@
 		"code":"140824201",
 		"fullCode":"140824201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太阳乡",
 		"parentCode":"140824"
 	},
@@ -59,7 +59,7 @@
 		"code":"140824400",
 		"fullCode":"140824400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稷山县社区",
 		"parentCode":"140824"
 	},
@@ -67,7 +67,7 @@
 		"code":"140824401",
 		"fullCode":"140824401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稷山县经济技术开发区",
 		"parentCode":"140824"
 	}

@@ -3,7 +3,7 @@
 		"code":"532930101",
 		"fullCode":"532930101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茈碧湖镇",
 		"parentCode":"532930"
 	},
@@ -11,7 +11,7 @@
 		"code":"532930102",
 		"fullCode":"532930102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓川镇",
 		"parentCode":"532930"
 	},
@@ -19,7 +19,7 @@
 		"code":"532930103",
 		"fullCode":"532930103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"右所镇",
 		"parentCode":"532930"
 	},
@@ -27,7 +27,7 @@
 		"code":"532930104",
 		"fullCode":"532930104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三营镇",
 		"parentCode":"532930"
 	},
@@ -35,7 +35,7 @@
 		"code":"532930105",
 		"fullCode":"532930105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤羽镇",
 		"parentCode":"532930"
 	},
@@ -43,7 +43,7 @@
 		"code":"532930106",
 		"fullCode":"532930106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔后镇",
 		"parentCode":"532930"
 	},
@@ -51,7 +51,7 @@
 		"code":"532930201",
 		"fullCode":"532930201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛街乡",
 		"parentCode":"532930"
 	},
@@ -59,7 +59,7 @@
 		"code":"532930202",
 		"fullCode":"532930202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炼铁乡",
 		"parentCode":"532930"
 	},
@@ -67,7 +67,7 @@
 		"code":"532930203",
 		"fullCode":"532930203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西山乡",
 		"parentCode":"532930"
 	}

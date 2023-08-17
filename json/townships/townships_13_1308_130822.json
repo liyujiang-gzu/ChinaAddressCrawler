@@ -3,7 +3,7 @@
 		"code":"130822100",
 		"fullCode":"130822100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"130822"
 	},
@@ -11,7 +11,7 @@
 		"code":"130822101",
 		"fullCode":"130822101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半壁山镇",
 		"parentCode":"130822"
 	},
@@ -19,7 +19,7 @@
 		"code":"130822102",
 		"fullCode":"130822102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"挂兰峪镇",
 		"parentCode":"130822"
 	},
@@ -27,7 +27,7 @@
 		"code":"130822103",
 		"fullCode":"130822103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青松岭镇",
 		"parentCode":"130822"
 	},
@@ -35,7 +35,7 @@
 		"code":"130822104",
 		"fullCode":"130822104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六道河镇",
 		"parentCode":"130822"
 	},
@@ -43,7 +43,7 @@
 		"code":"130822105",
 		"fullCode":"130822105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安堡镇",
 		"parentCode":"130822"
 	},
@@ -51,7 +51,7 @@
 		"code":"130822106",
 		"fullCode":"130822106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北营房镇",
 		"parentCode":"130822"
 	},
@@ -59,7 +59,7 @@
 		"code":"130822107",
 		"fullCode":"130822107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孤山子镇",
 		"parentCode":"130822"
 	},
@@ -67,7 +67,7 @@
 		"code":"130822108",
 		"fullCode":"130822108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝旗营镇",
 		"parentCode":"130822"
 	},
@@ -75,7 +75,7 @@
 		"code":"130822109",
 		"fullCode":"130822109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雾灵山镇",
 		"parentCode":"130822"
 	},
@@ -83,7 +83,7 @@
 		"code":"130822110",
 		"fullCode":"130822110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家营镇",
 		"parentCode":"130822"
 	},
@@ -91,7 +91,7 @@
 		"code":"130822111",
 		"fullCode":"130822111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大杖子镇",
 		"parentCode":"130822"
 	},
@@ -99,7 +99,7 @@
 		"code":"130822112",
 		"fullCode":"130822112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道河镇",
 		"parentCode":"130822"
 	},
@@ -107,7 +107,7 @@
 		"code":"130822113",
 		"fullCode":"130822113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蘑菇峪镇",
 		"parentCode":"130822"
 	},
@@ -115,7 +115,7 @@
 		"code":"130822114",
 		"fullCode":"130822114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大水泉镇",
 		"parentCode":"130822"
 	},
@@ -123,7 +123,7 @@
 		"code":"130822200",
 		"fullCode":"130822200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南天门满族乡",
 		"parentCode":"130822"
 	},
@@ -131,7 +131,7 @@
 		"code":"130822202",
 		"fullCode":"130822202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八卦岭满族乡",
 		"parentCode":"130822"
 	},
@@ -139,7 +139,7 @@
 		"code":"130822203",
 		"fullCode":"130822203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陡子峪乡",
 		"parentCode":"130822"
 	},
@@ -147,7 +147,7 @@
 		"code":"130822204",
 		"fullCode":"130822204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上石洞乡",
 		"parentCode":"130822"
 	},
@@ -155,7 +155,7 @@
 		"code":"130822211",
 		"fullCode":"130822211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安子岭乡",
 		"parentCode":"130822"
 	}

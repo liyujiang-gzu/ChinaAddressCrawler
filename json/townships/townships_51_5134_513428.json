@@ -3,7 +3,7 @@
 		"code":"513428100",
 		"fullCode":"513428100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普基镇",
 		"parentCode":"513428"
 	},
@@ -11,7 +11,7 @@
 		"code":"513428101",
 		"fullCode":"513428101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荞窝镇",
 		"parentCode":"513428"
 	},
@@ -19,7 +19,7 @@
 		"code":"513428102",
 		"fullCode":"513428102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"螺髻山镇",
 		"parentCode":"513428"
 	},
@@ -27,7 +27,7 @@
 		"code":"513428103",
 		"fullCode":"513428103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五道箐镇",
 		"parentCode":"513428"
 	},
@@ -35,7 +35,7 @@
 		"code":"513428104",
 		"fullCode":"513428104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花山镇",
 		"parentCode":"513428"
 	},
@@ -43,7 +43,7 @@
 		"code":"513428105",
 		"fullCode":"513428105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日都迪萨镇",
 		"parentCode":"513428"
 	},
@@ -51,7 +51,7 @@
 		"code":"513428106",
 		"fullCode":"513428106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西洛镇",
 		"parentCode":"513428"
 	},
@@ -59,7 +59,7 @@
 		"code":"513428107",
 		"fullCode":"513428107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹铁镇",
 		"parentCode":"513428"
 	},
@@ -67,7 +67,7 @@
 		"code":"513428203",
 		"fullCode":"513428203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎安乡",
 		"parentCode":"513428"
 	},
@@ -75,7 +75,7 @@
 		"code":"513428206",
 		"fullCode":"513428206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坪乡",
 		"parentCode":"513428"
 	},
@@ -83,7 +83,7 @@
 		"code":"513428213",
 		"fullCode":"513428213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"特兹乡",
 		"parentCode":"513428"
 	},
@@ -91,7 +91,7 @@
 		"code":"513428218",
 		"fullCode":"513428218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦洛乡",
 		"parentCode":"513428"
 	},
@@ -99,7 +99,7 @@
 		"code":"513428227",
 		"fullCode":"513428227000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大槽乡",
 		"parentCode":"513428"
 	}

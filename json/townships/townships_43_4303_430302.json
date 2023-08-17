@@ -3,7 +3,7 @@
 		"code":"430302001",
 		"fullCode":"430302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雨湖路街道",
 		"parentCode":"430302"
 	},
@@ -11,7 +11,7 @@
 		"code":"430302002",
 		"fullCode":"430302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城正街街道",
 		"parentCode":"430302"
 	},
@@ -19,7 +19,7 @@
 		"code":"430302003",
 		"fullCode":"430302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云塘街道",
 		"parentCode":"430302"
 	},
@@ -27,7 +27,7 @@
 		"code":"430302004",
 		"fullCode":"430302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广场街道",
 		"parentCode":"430302"
 	},
@@ -35,7 +35,7 @@
 		"code":"430302005",
 		"fullCode":"430302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑湾街道",
 		"parentCode":"430302"
 	},
@@ -43,7 +43,7 @@
 		"code":"430302006",
 		"fullCode":"430302006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昭潭街道",
 		"parentCode":"430302"
 	},
@@ -51,7 +51,7 @@
 		"code":"430302007",
 		"fullCode":"430302007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万楼街道",
 		"parentCode":"430302"
 	},
@@ -59,7 +59,7 @@
 		"code":"430302008",
 		"fullCode":"430302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先锋街道",
 		"parentCode":"430302"
 	},
@@ -67,7 +67,7 @@
 		"code":"430302100",
 		"fullCode":"430302100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤岭镇",
 		"parentCode":"430302"
 	},
@@ -75,7 +75,7 @@
 		"code":"430302101",
 		"fullCode":"430302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楠竹山镇",
 		"parentCode":"430302"
 	},
@@ -83,7 +83,7 @@
 		"code":"430302102",
 		"fullCode":"430302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜畲镇",
 		"parentCode":"430302"
 	},
@@ -91,7 +91,7 @@
 		"code":"430302202",
 		"fullCode":"430302202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长城乡",
 		"parentCode":"430302"
 	}

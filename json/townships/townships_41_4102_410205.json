@@ -3,7 +3,7 @@
 		"code":"410205001",
 		"fullCode":"410205001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里堡街道",
 		"parentCode":"410205"
 	},
@@ -11,7 +11,7 @@
 		"code":"410205002",
 		"fullCode":"410205002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新门关街道",
 		"parentCode":"410205"
 	},
@@ -19,7 +19,7 @@
 		"code":"410205003",
 		"fullCode":"410205003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"繁塔街道",
 		"parentCode":"410205"
 	},
@@ -27,7 +27,7 @@
 		"code":"410205004",
 		"fullCode":"410205004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官坊街道",
 		"parentCode":"410205"
 	},
@@ -35,7 +35,7 @@
 		"code":"410205005",
 		"fullCode":"410205005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菜市街道",
 		"parentCode":"410205"
 	},
@@ -43,7 +43,7 @@
 		"code":"410205200",
 		"fullCode":"410205200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南郊乡",
 		"parentCode":"410205"
 	},
@@ -51,7 +51,7 @@
 		"code":"410205201",
 		"fullCode":"410205201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪屯乡",
 		"parentCode":"410205"
 	}

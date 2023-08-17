@@ -3,7 +3,7 @@
 		"code":"530827101",
 		"fullCode":"530827101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"娜允镇",
 		"parentCode":"530827"
 	},
@@ -11,7 +11,7 @@
 		"code":"530827102",
 		"fullCode":"530827102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐马镇",
 		"parentCode":"530827"
 	},
@@ -19,7 +19,7 @@
 		"code":"530827103",
 		"fullCode":"530827103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芒信镇",
 		"parentCode":"530827"
 	},
@@ -27,7 +27,7 @@
 		"code":"530827104",
 		"fullCode":"530827104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富岩镇",
 		"parentCode":"530827"
 	},
@@ -35,7 +35,7 @@
 		"code":"530827201",
 		"fullCode":"530827201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景信乡",
 		"parentCode":"530827"
 	},
@@ -43,7 +43,7 @@
 		"code":"530827202",
 		"fullCode":"530827202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公信乡",
 		"parentCode":"530827"
 	}

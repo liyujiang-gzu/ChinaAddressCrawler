@@ -3,7 +3,7 @@
 		"code":"152524100",
 		"fullCode":"152524100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛汉塔拉镇",
 		"parentCode":"152524"
 	},
@@ -11,7 +11,7 @@
 		"code":"152524101",
 		"fullCode":"152524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱日和镇",
 		"parentCode":"152524"
 	},
@@ -19,7 +19,7 @@
 		"code":"152524102",
 		"fullCode":"152524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌日根塔拉镇",
 		"parentCode":"152524"
 	},
@@ -27,7 +27,7 @@
 		"code":"152524200",
 		"fullCode":"152524200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑宝拉格苏木",
 		"parentCode":"152524"
 	},
@@ -35,7 +35,7 @@
 		"code":"152524201",
 		"fullCode":"152524201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"额仁淖尔苏木",
 		"parentCode":"152524"
 	},
@@ -43,7 +43,7 @@
 		"code":"152524202",
 		"fullCode":"152524202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛罕乌力吉苏木",
 		"parentCode":"152524"
 	},
@@ -51,7 +51,7 @@
 		"code":"152524203",
 		"fullCode":"152524203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿其图乌拉苏木",
 		"parentCode":"152524"
 	},
@@ -59,7 +59,7 @@
 		"code":"152524400",
 		"fullCode":"152524400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏尼特右旗朱日和工业园",
 		"parentCode":"152524"
 	}

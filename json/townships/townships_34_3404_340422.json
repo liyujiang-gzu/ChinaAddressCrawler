@@ -3,7 +3,7 @@
 		"code":"340422100",
 		"fullCode":"340422100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寿春镇",
 		"parentCode":"340422"
 	},
@@ -11,7 +11,7 @@
 		"code":"340422101",
 		"fullCode":"340422101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桥镇",
 		"parentCode":"340422"
 	},
@@ -19,7 +19,7 @@
 		"code":"340422102",
 		"fullCode":"340422102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涧沟镇",
 		"parentCode":"340422"
 	},
@@ -27,7 +27,7 @@
 		"code":"340422103",
 		"fullCode":"340422103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰庄镇",
 		"parentCode":"340422"
 	},
@@ -35,7 +35,7 @@
 		"code":"340422104",
 		"fullCode":"340422104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳关镇",
 		"parentCode":"340422"
 	},
@@ -43,7 +43,7 @@
 		"code":"340422105",
 		"fullCode":"340422105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎河镇",
 		"parentCode":"340422"
 	},
@@ -51,7 +51,7 @@
 		"code":"340422106",
 		"fullCode":"340422106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"340422"
 	},
@@ -59,7 +59,7 @@
 		"code":"340422107",
 		"fullCode":"340422107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安丰塘镇",
 		"parentCode":"340422"
 	},
@@ -67,7 +67,7 @@
 		"code":"340422108",
 		"fullCode":"340422108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堰口镇",
 		"parentCode":"340422"
 	},
@@ -75,7 +75,7 @@
 		"code":"340422109",
 		"fullCode":"340422109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保义镇",
 		"parentCode":"340422"
 	},
@@ -83,7 +83,7 @@
 		"code":"340422110",
 		"fullCode":"340422110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隐贤镇",
 		"parentCode":"340422"
 	},
@@ -91,7 +91,7 @@
 		"code":"340422111",
 		"fullCode":"340422111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安丰镇",
 		"parentCode":"340422"
 	},
@@ -99,7 +99,7 @@
 		"code":"340422112",
 		"fullCode":"340422112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"众兴镇",
 		"parentCode":"340422"
 	},
@@ -107,7 +107,7 @@
 		"code":"340422113",
 		"fullCode":"340422113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶庵镇",
 		"parentCode":"340422"
 	},
@@ -115,7 +115,7 @@
 		"code":"340422114",
 		"fullCode":"340422114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三觉镇",
 		"parentCode":"340422"
 	},
@@ -123,7 +123,7 @@
 		"code":"340422115",
 		"fullCode":"340422115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炎刘镇",
 		"parentCode":"340422"
 	},
@@ -131,7 +131,7 @@
 		"code":"340422116",
 		"fullCode":"340422116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘岗镇",
 		"parentCode":"340422"
 	},
@@ -139,7 +139,7 @@
 		"code":"340422117",
 		"fullCode":"340422117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双庙集镇",
 		"parentCode":"340422"
 	},
@@ -147,7 +147,7 @@
 		"code":"340422118",
 		"fullCode":"340422118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小甸镇",
 		"parentCode":"340422"
 	},
@@ -155,7 +155,7 @@
 		"code":"340422119",
 		"fullCode":"340422119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦埠镇",
 		"parentCode":"340422"
 	},
@@ -163,7 +163,7 @@
 		"code":"340422120",
 		"fullCode":"340422120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大顺镇",
 		"parentCode":"340422"
 	},
@@ -171,7 +171,7 @@
 		"code":"340422121",
 		"fullCode":"340422121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑口镇",
 		"parentCode":"340422"
 	},
@@ -179,7 +179,7 @@
 		"code":"340422200",
 		"fullCode":"340422200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八公山乡",
 		"parentCode":"340422"
 	},
@@ -187,7 +187,7 @@
 		"code":"340422201",
 		"fullCode":"340422201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张李乡",
 		"parentCode":"340422"
 	},
@@ -195,7 +195,7 @@
 		"code":"340422203",
 		"fullCode":"340422203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶店回族乡",
 		"parentCode":"340422"
 	},
@@ -203,7 +203,7 @@
 		"code":"340422402",
 		"fullCode":"340422402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽寿县经济开发区",
 		"parentCode":"340422"
 	},
@@ -211,7 +211,7 @@
 		"code":"340422500",
 		"fullCode":"340422500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寿西湖农场",
 		"parentCode":"340422"
 	},
@@ -219,7 +219,7 @@
 		"code":"340422501",
 		"fullCode":"340422501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳关农场",
 		"parentCode":"340422"
 	}

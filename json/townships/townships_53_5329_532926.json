@@ -3,7 +3,7 @@
 		"code":"532926101",
 		"fullCode":"532926101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南涧镇",
 		"parentCode":"532926"
 	},
@@ -11,7 +11,7 @@
 		"code":"532926102",
 		"fullCode":"532926102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小湾东镇",
 		"parentCode":"532926"
 	},
@@ -19,7 +19,7 @@
 		"code":"532926103",
 		"fullCode":"532926103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公郎镇",
 		"parentCode":"532926"
 	},
@@ -27,7 +27,7 @@
 		"code":"532926104",
 		"fullCode":"532926104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝华镇",
 		"parentCode":"532926"
 	},
@@ -35,7 +35,7 @@
 		"code":"532926105",
 		"fullCode":"532926105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无量山镇",
 		"parentCode":"532926"
 	},
@@ -43,7 +43,7 @@
 		"code":"532926201",
 		"fullCode":"532926201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拥翠乡",
 		"parentCode":"532926"
 	},
@@ -51,7 +51,7 @@
 		"code":"532926202",
 		"fullCode":"532926202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐秋乡",
 		"parentCode":"532926"
 	},
@@ -59,7 +59,7 @@
 		"code":"532926203",
 		"fullCode":"532926203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧溪乡",
 		"parentCode":"532926"
 	}

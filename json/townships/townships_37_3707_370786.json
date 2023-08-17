@@ -3,7 +3,7 @@
 		"code":"370786001",
 		"fullCode":"370786001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奎聚街道",
 		"parentCode":"370786"
 	},
@@ -11,7 +11,7 @@
 		"code":"370786002",
 		"fullCode":"370786002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都昌街道",
 		"parentCode":"370786"
 	},
@@ -19,7 +19,7 @@
 		"code":"370786003",
 		"fullCode":"370786003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"围子街道",
 		"parentCode":"370786"
 	},
@@ -27,7 +27,7 @@
 		"code":"370786101",
 		"fullCode":"370786101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳疃镇",
 		"parentCode":"370786"
 	},
@@ -35,7 +35,7 @@
 		"code":"370786102",
 		"fullCode":"370786102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙池镇",
 		"parentCode":"370786"
 	},
@@ -43,7 +43,7 @@
 		"code":"370786104",
 		"fullCode":"370786104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卜庄镇",
 		"parentCode":"370786"
 	},
@@ -51,7 +51,7 @@
 		"code":"370786108",
 		"fullCode":"370786108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"饮马镇",
 		"parentCode":"370786"
 	},
@@ -59,7 +59,7 @@
 		"code":"370786109",
 		"fullCode":"370786109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北孟镇",
 		"parentCode":"370786"
 	},
@@ -67,7 +67,7 @@
 		"code":"370786112",
 		"fullCode":"370786112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下营镇",
 		"parentCode":"370786"
 	}

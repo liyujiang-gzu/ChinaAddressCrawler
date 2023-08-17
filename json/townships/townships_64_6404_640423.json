@@ -3,7 +3,7 @@
 		"code":"640423100",
 		"fullCode":"640423100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"640423"
 	},
@@ -11,7 +11,7 @@
 		"code":"640423101",
 		"fullCode":"640423101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙塘镇",
 		"parentCode":"640423"
 	},
@@ -19,7 +19,7 @@
 		"code":"640423102",
 		"fullCode":"640423102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联财镇",
 		"parentCode":"640423"
 	},
@@ -27,7 +27,7 @@
 		"code":"640423200",
 		"fullCode":"640423200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈靳乡",
 		"parentCode":"640423"
 	},
@@ -35,7 +35,7 @@
 		"code":"640423201",
 		"fullCode":"640423201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"好水乡",
 		"parentCode":"640423"
 	},
@@ -43,7 +43,7 @@
 		"code":"640423202",
 		"fullCode":"640423202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观庄乡",
 		"parentCode":"640423"
 	},
@@ -51,7 +51,7 @@
 		"code":"640423203",
 		"fullCode":"640423203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨河乡",
 		"parentCode":"640423"
 	},
@@ -59,7 +59,7 @@
 		"code":"640423204",
 		"fullCode":"640423204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神林乡",
 		"parentCode":"640423"
 	},
@@ -67,7 +67,7 @@
 		"code":"640423205",
 		"fullCode":"640423205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张程乡",
 		"parentCode":"640423"
 	},
@@ -75,7 +75,7 @@
 		"code":"640423206",
 		"fullCode":"640423206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤岭乡",
 		"parentCode":"640423"
 	},
@@ -83,7 +83,7 @@
 		"code":"640423207",
 		"fullCode":"640423207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山河乡",
 		"parentCode":"640423"
 	},
@@ -91,7 +91,7 @@
 		"code":"640423208",
 		"fullCode":"640423208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温堡乡",
 		"parentCode":"640423"
 	},
@@ -99,7 +99,7 @@
 		"code":"640423209",
 		"fullCode":"640423209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奠安乡",
 		"parentCode":"640423"
 	}

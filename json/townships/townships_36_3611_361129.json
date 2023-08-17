@@ -3,7 +3,7 @@
 		"code":"361129100",
 		"fullCode":"361129100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈营镇",
 		"parentCode":"361129"
 	},
@@ -11,7 +11,7 @@
 		"code":"361129101",
 		"fullCode":"361129101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石镇镇",
 		"parentCode":"361129"
 	},
@@ -19,7 +19,7 @@
 		"code":"361129102",
 		"fullCode":"361129102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青云镇",
 		"parentCode":"361129"
 	},
@@ -27,7 +27,7 @@
 		"code":"361129103",
 		"fullCode":"361129103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梓埠镇",
 		"parentCode":"361129"
 	},
@@ -35,7 +35,7 @@
 		"code":"361129104",
 		"fullCode":"361129104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大源镇",
 		"parentCode":"361129"
 	},
@@ -43,7 +43,7 @@
 		"code":"361129105",
 		"fullCode":"361129105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裴梅镇",
 		"parentCode":"361129"
 	},
@@ -51,7 +51,7 @@
 		"code":"361129200",
 		"fullCode":"361129200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖云乡",
 		"parentCode":"361129"
 	},
@@ -59,7 +59,7 @@
 		"code":"361129201",
 		"fullCode":"361129201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐埠乡",
 		"parentCode":"361129"
 	},
@@ -67,7 +67,7 @@
 		"code":"361129203",
 		"fullCode":"361129203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪家乡",
 		"parentCode":"361129"
 	},
@@ -75,7 +75,7 @@
 		"code":"361129205",
 		"fullCode":"361129205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上坊乡",
 		"parentCode":"361129"
 	},
@@ -83,7 +83,7 @@
 		"code":"361129206",
 		"fullCode":"361129206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏桥乡",
 		"parentCode":"361129"
 	},
@@ -91,7 +91,7 @@
 		"code":"361129208",
 		"fullCode":"361129208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠田乡",
 		"parentCode":"361129"
 	}

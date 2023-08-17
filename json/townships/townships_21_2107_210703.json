@@ -3,7 +3,7 @@
 		"code":"210703002",
 		"fullCode":"210703002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥子街道",
 		"parentCode":"210703"
 	},
@@ -11,7 +11,7 @@
 		"code":"210703003",
 		"fullCode":"210703003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙江街道",
 		"parentCode":"210703"
 	},
@@ -19,7 +19,7 @@
 		"code":"210703004",
 		"fullCode":"210703004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榴花街道",
 		"parentCode":"210703"
 	},
@@ -27,7 +27,7 @@
 		"code":"210703008",
 		"fullCode":"210703008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康宁街道",
 		"parentCode":"210703"
 	},
@@ -35,7 +35,7 @@
 		"code":"210703009",
 		"fullCode":"210703009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦铁街道",
 		"parentCode":"210703"
 	},
@@ -43,7 +43,7 @@
 		"code":"210703011",
 		"fullCode":"210703011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫荆街道",
 		"parentCode":"210703"
 	},
@@ -51,7 +51,7 @@
 		"code":"210703403",
 		"fullCode":"210703403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦州北山农工商总公司",
 		"parentCode":"210703"
 	}

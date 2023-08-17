@@ -3,7 +3,7 @@
 		"code":"511322001",
 		"fullCode":"511322001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥安街道",
 		"parentCode":"511322"
 	},
@@ -11,7 +11,7 @@
 		"code":"511322002",
 		"fullCode":"511322002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朗池街道",
 		"parentCode":"511322"
 	},
@@ -19,7 +19,7 @@
 		"code":"511322003",
 		"fullCode":"511322003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"511322"
 	},
@@ -27,7 +27,7 @@
 		"code":"511322101",
 		"fullCode":"511322101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渌井镇",
 		"parentCode":"511322"
 	},
@@ -35,7 +35,7 @@
 		"code":"511322102",
 		"fullCode":"511322102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东升镇",
 		"parentCode":"511322"
 	},
@@ -43,7 +43,7 @@
 		"code":"511322103",
 		"fullCode":"511322103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骆市镇",
 		"parentCode":"511322"
 	},
@@ -51,7 +51,7 @@
 		"code":"511322104",
 		"fullCode":"511322104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄渡镇",
 		"parentCode":"511322"
 	},
@@ -59,7 +59,7 @@
 		"code":"511322105",
 		"fullCode":"511322105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小桥镇",
 		"parentCode":"511322"
 	},
@@ -67,7 +67,7 @@
 		"code":"511322106",
 		"fullCode":"511322106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵鹫镇",
 		"parentCode":"511322"
 	},
@@ -75,7 +75,7 @@
 		"code":"511322107",
 		"fullCode":"511322107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老林镇",
 		"parentCode":"511322"
 	},
@@ -83,7 +83,7 @@
 		"code":"511322108",
 		"fullCode":"511322108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木垭镇",
 		"parentCode":"511322"
 	},
@@ -91,7 +91,7 @@
 		"code":"511322109",
 		"fullCode":"511322109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"消水镇",
 		"parentCode":"511322"
 	},
@@ -99,7 +99,7 @@
 		"code":"511322110",
 		"fullCode":"511322110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双流镇",
 		"parentCode":"511322"
 	},
@@ -107,7 +107,7 @@
 		"code":"511322111",
 		"fullCode":"511322111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绿水镇",
 		"parentCode":"511322"
 	},
@@ -115,7 +115,7 @@
 		"code":"511322113",
 		"fullCode":"511322113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓼叶镇",
 		"parentCode":"511322"
 	},
@@ -123,7 +123,7 @@
 		"code":"511322114",
 		"fullCode":"511322114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店镇",
 		"parentCode":"511322"
 	},
@@ -131,7 +131,7 @@
 		"code":"511322115",
 		"fullCode":"511322115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回龙镇",
 		"parentCode":"511322"
 	},
@@ -139,7 +139,7 @@
 		"code":"511322116",
 		"fullCode":"511322116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星火镇",
 		"parentCode":"511322"
 	},
@@ -147,7 +147,7 @@
 		"code":"511322117",
 		"fullCode":"511322117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西桥镇",
 		"parentCode":"511322"
 	},
@@ -155,7 +155,7 @@
 		"code":"511322121",
 		"fullCode":"511322121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望龙湖镇",
 		"parentCode":"511322"
 	},
@@ -163,7 +163,7 @@
 		"code":"511322122",
 		"fullCode":"511322122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山镇",
 		"parentCode":"511322"
 	},
@@ -171,7 +171,7 @@
 		"code":"511322212",
 		"fullCode":"511322212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木顶乡",
 		"parentCode":"511322"
 	},
@@ -179,7 +179,7 @@
 		"code":"511322216",
 		"fullCode":"511322216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明德乡",
 		"parentCode":"511322"
 	},
@@ -187,7 +187,7 @@
 		"code":"511322219",
 		"fullCode":"511322219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太蓬乡",
 		"parentCode":"511322"
 	},
@@ -195,7 +195,7 @@
 		"code":"511322221",
 		"fullCode":"511322221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏林乡",
 		"parentCode":"511322"
 	},
@@ -203,7 +203,7 @@
 		"code":"511322225",
 		"fullCode":"511322225000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"悦中乡",
 		"parentCode":"511322"
 	},
@@ -211,7 +211,7 @@
 		"code":"511322230",
 		"fullCode":"511322230000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庙乡",
 		"parentCode":"511322"
 	},
@@ -219,7 +219,7 @@
 		"code":"511322232",
 		"fullCode":"511322232000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安化乡",
 		"parentCode":"511322"
 	},
@@ -227,7 +227,7 @@
 		"code":"511322237",
 		"fullCode":"511322237000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水乡",
 		"parentCode":"511322"
 	}

@@ -3,7 +3,7 @@
 		"code":"532924101",
 		"fullCode":"532924101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金牛镇",
 		"parentCode":"532924"
 	},
@@ -11,7 +11,7 @@
 		"code":"532924102",
 		"fullCode":"532924102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宾居镇",
 		"parentCode":"532924"
 	},
@@ -19,7 +19,7 @@
 		"code":"532924103",
 		"fullCode":"532924103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"州城镇",
 		"parentCode":"532924"
 	},
@@ -27,7 +27,7 @@
 		"code":"532924104",
 		"fullCode":"532924104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营镇",
 		"parentCode":"532924"
 	},
@@ -35,7 +35,7 @@
 		"code":"532924105",
 		"fullCode":"532924105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡足山镇",
 		"parentCode":"532924"
 	},
@@ -43,7 +43,7 @@
 		"code":"532924106",
 		"fullCode":"532924106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"力角镇",
 		"parentCode":"532924"
 	},
@@ -51,7 +51,7 @@
 		"code":"532924107",
 		"fullCode":"532924107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平川镇",
 		"parentCode":"532924"
 	},
@@ -59,7 +59,7 @@
 		"code":"532924108",
 		"fullCode":"532924108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔甸镇",
 		"parentCode":"532924"
 	},
@@ -67,7 +67,7 @@
 		"code":"532924201",
 		"fullCode":"532924201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟英傈僳族彝族乡",
 		"parentCode":"532924"
 	},
@@ -75,7 +75,7 @@
 		"code":"532924202",
 		"fullCode":"532924202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉乌彝族乡",
 		"parentCode":"532924"
 	}

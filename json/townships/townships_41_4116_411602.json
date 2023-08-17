@@ -3,7 +3,7 @@
 		"code":"411602001",
 		"fullCode":"411602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈州街回族街道",
 		"parentCode":"411602"
 	},
@@ -11,7 +11,7 @@
 		"code":"411602002",
 		"fullCode":"411602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七一路街道",
 		"parentCode":"411602"
 	},
@@ -19,7 +19,7 @@
 		"code":"411602003",
 		"fullCode":"411602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷花路街道",
 		"parentCode":"411602"
 	},
@@ -27,7 +27,7 @@
 		"code":"411602004",
 		"fullCode":"411602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人和街街道",
 		"parentCode":"411602"
 	},
@@ -35,7 +35,7 @@
 		"code":"411602005",
 		"fullCode":"411602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小桥街街道",
 		"parentCode":"411602"
 	},
@@ -43,7 +43,7 @@
 		"code":"411602006",
 		"fullCode":"411602006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"411602"
 	},
@@ -51,7 +51,7 @@
 		"code":"411602007",
 		"fullCode":"411602007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"411602"
 	},
@@ -59,7 +59,7 @@
 		"code":"411602008",
 		"fullCode":"411602008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌街道",
 		"parentCode":"411602"
 	},
@@ -67,7 +67,7 @@
 		"code":"411602009",
 		"fullCode":"411602009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"搬口街道",
 		"parentCode":"411602"
 	},
@@ -75,7 +75,7 @@
 		"code":"411602010",
 		"fullCode":"411602010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金海路街道",
 		"parentCode":"411602"
 	},
@@ -83,7 +83,7 @@
 		"code":"411602013",
 		"fullCode":"411602013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李埠口街道",
 		"parentCode":"411602"
 	},
@@ -91,7 +91,7 @@
 		"code":"411602014",
 		"fullCode":"411602014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许湾街道",
 		"parentCode":"411602"
 	}

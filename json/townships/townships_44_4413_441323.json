@@ -3,7 +3,7 @@
 		"code":"441323001",
 		"fullCode":"441323001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山街道",
 		"parentCode":"441323"
 	},
@@ -11,7 +11,7 @@
 		"code":"441323002",
 		"fullCode":"441323002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大岭街道",
 		"parentCode":"441323"
 	},
@@ -19,7 +19,7 @@
 		"code":"441323102",
 		"fullCode":"441323102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白花镇",
 		"parentCode":"441323"
 	},
@@ -27,7 +27,7 @@
 		"code":"441323103",
 		"fullCode":"441323103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁化镇",
 		"parentCode":"441323"
 	},
@@ -35,7 +35,7 @@
 		"code":"441323104",
 		"fullCode":"441323104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稔山镇",
 		"parentCode":"441323"
 	},
@@ -43,7 +43,7 @@
 		"code":"441323105",
 		"fullCode":"441323105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁涌镇",
 		"parentCode":"441323"
 	},
@@ -51,7 +51,7 @@
 		"code":"441323106",
 		"fullCode":"441323106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平海镇",
 		"parentCode":"441323"
 	},
@@ -59,7 +59,7 @@
 		"code":"441323109",
 		"fullCode":"441323109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉隆镇",
 		"parentCode":"441323"
 	},
@@ -67,7 +67,7 @@
 		"code":"441323110",
 		"fullCode":"441323110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄埠镇",
 		"parentCode":"441323"
 	},
@@ -75,7 +75,7 @@
 		"code":"441323113",
 		"fullCode":"441323113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多祝镇",
 		"parentCode":"441323"
 	},
@@ -83,7 +83,7 @@
 		"code":"441323115",
 		"fullCode":"441323115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安墩镇",
 		"parentCode":"441323"
 	},
@@ -91,7 +91,7 @@
 		"code":"441323118",
 		"fullCode":"441323118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高潭镇",
 		"parentCode":"441323"
 	},
@@ -99,7 +99,7 @@
 		"code":"441323120",
 		"fullCode":"441323120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝口镇",
 		"parentCode":"441323"
 	},
@@ -107,7 +107,7 @@
 		"code":"441323121",
 		"fullCode":"441323121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白盆珠镇",
 		"parentCode":"441323"
 	},
@@ -115,7 +115,7 @@
 		"code":"441323450",
 		"fullCode":"441323450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广东省惠州市国营惠东梁化林场",
 		"parentCode":"441323"
 	},
@@ -123,7 +123,7 @@
 		"code":"441323451",
 		"fullCode":"441323451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广东省惠州市国营惠东九龙峰林场",
 		"parentCode":"441323"
 	},
@@ -131,7 +131,7 @@
 		"code":"441323452",
 		"fullCode":"441323452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠东县港口海龟湾自然保护区",
 		"parentCode":"441323"
 	},
@@ -139,7 +139,7 @@
 		"code":"441323453",
 		"fullCode":"441323453000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花山白盆珠省级自然保护区",
 		"parentCode":"441323"
 	},
@@ -147,7 +147,7 @@
 		"code":"441323454",
 		"fullCode":"441323454000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广东惠东古田省级自然保护区",
 		"parentCode":"441323"
 	},
@@ -155,7 +155,7 @@
 		"code":"441323455",
 		"fullCode":"441323455000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠东县珠三角产业转移园",
 		"parentCode":"441323"
 	},
@@ -163,7 +163,7 @@
 		"code":"441323570",
 		"fullCode":"441323570000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巺寮滨海旅游度假区",
 		"parentCode":"441323"
 	}

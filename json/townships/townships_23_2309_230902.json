@@ -3,7 +3,7 @@
 		"code":"230902031",
 		"fullCode":"230902031000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴安街道",
 		"parentCode":"230902"
 	},
@@ -11,7 +11,7 @@
 		"code":"230902032",
 		"fullCode":"230902032000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴富街道",
 		"parentCode":"230902"
 	},
@@ -19,7 +19,7 @@
 		"code":"230902033",
 		"fullCode":"230902033000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴和街道",
 		"parentCode":"230902"
 	},
@@ -27,7 +27,7 @@
 		"code":"230902034",
 		"fullCode":"230902034000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴盛街道",
 		"parentCode":"230902"
 	},
@@ -35,7 +35,7 @@
 		"code":"230902035",
 		"fullCode":"230902035000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欣源街道",
 		"parentCode":"230902"
 	},
@@ -43,7 +43,7 @@
 		"code":"230902036",
 		"fullCode":"230902036000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北山街道",
 		"parentCode":"230902"
 	},
@@ -51,7 +51,7 @@
 		"code":"230902037",
 		"fullCode":"230902037000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华街道",
 		"parentCode":"230902"
 	},
@@ -59,7 +59,7 @@
 		"code":"230902038",
 		"fullCode":"230902038000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙街道",
 		"parentCode":"230902"
 	},
@@ -67,7 +67,7 @@
 		"code":"230902100",
 		"fullCode":"230902100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗镇",
 		"parentCode":"230902"
 	},
@@ -75,7 +75,7 @@
 		"code":"230902200",
 		"fullCode":"230902200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长兴乡",
 		"parentCode":"230902"
 	},
@@ -83,7 +83,7 @@
 		"code":"230902400",
 		"fullCode":"230902400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七台河经济开发区管理委员会",
 		"parentCode":"230902"
 	}

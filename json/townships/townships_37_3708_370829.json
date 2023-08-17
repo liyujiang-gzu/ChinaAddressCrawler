@@ -3,7 +3,7 @@
 		"code":"370829001",
 		"fullCode":"370829001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉祥街道",
 		"parentCode":"370829"
 	},
@@ -11,7 +11,7 @@
 		"code":"370829002",
 		"fullCode":"370829002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧龙山街道",
 		"parentCode":"370829"
 	},
@@ -19,7 +19,7 @@
 		"code":"370829003",
 		"fullCode":"370829003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万张街道",
 		"parentCode":"370829"
 	},
@@ -27,7 +27,7 @@
 		"code":"370829101",
 		"fullCode":"370829101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纸坊镇",
 		"parentCode":"370829"
 	},
@@ -35,7 +35,7 @@
 		"code":"370829102",
 		"fullCode":"370829102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁宝寺镇",
 		"parentCode":"370829"
 	},
@@ -43,7 +43,7 @@
 		"code":"370829104",
 		"fullCode":"370829104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"疃里镇",
 		"parentCode":"370829"
 	},
@@ -51,7 +51,7 @@
 		"code":"370829105",
 		"fullCode":"370829105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马村镇",
 		"parentCode":"370829"
 	},
@@ -59,7 +59,7 @@
 		"code":"370829106",
 		"fullCode":"370829106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金屯镇",
 		"parentCode":"370829"
 	},
@@ -67,7 +67,7 @@
 		"code":"370829107",
 		"fullCode":"370829107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大张楼镇",
 		"parentCode":"370829"
 	},
@@ -75,7 +75,7 @@
 		"code":"370829108",
 		"fullCode":"370829108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马集镇",
 		"parentCode":"370829"
 	},
@@ -83,7 +83,7 @@
 		"code":"370829110",
 		"fullCode":"370829110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟姑集镇",
 		"parentCode":"370829"
 	},
@@ -91,7 +91,7 @@
 		"code":"370829111",
 		"fullCode":"370829111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老僧堂镇",
 		"parentCode":"370829"
 	},
@@ -99,7 +99,7 @@
 		"code":"370829112",
 		"fullCode":"370829112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仲山镇",
 		"parentCode":"370829"
 	},
@@ -107,7 +107,7 @@
 		"code":"370829113",
 		"fullCode":"370829113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满硐镇",
 		"parentCode":"370829"
 	},
@@ -115,7 +115,7 @@
 		"code":"370829114",
 		"fullCode":"370829114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄垓镇",
 		"parentCode":"370829"
 	},
@@ -123,7 +123,7 @@
 		"code":"370829400",
 		"fullCode":"370829400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉祥经济开发区管理委员会",
 		"parentCode":"370829"
 	}

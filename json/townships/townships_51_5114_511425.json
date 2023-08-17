@@ -3,7 +3,7 @@
 		"code":"511425001",
 		"fullCode":"511425001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青竹街道",
 		"parentCode":"511425"
 	},
@@ -11,7 +11,7 @@
 		"code":"511425102",
 		"fullCode":"511425102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉阳镇",
 		"parentCode":"511425"
 	},
@@ -19,7 +19,7 @@
 		"code":"511425108",
 		"fullCode":"511425108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑞峰镇",
 		"parentCode":"511425"
 	},
@@ -27,7 +27,7 @@
 		"code":"511425110",
 		"fullCode":"511425110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西龙镇",
 		"parentCode":"511425"
 	},
@@ -35,7 +35,7 @@
 		"code":"511425112",
 		"fullCode":"511425112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高台镇",
 		"parentCode":"511425"
 	},
@@ -43,7 +43,7 @@
 		"code":"511425217",
 		"fullCode":"511425217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白果乡",
 		"parentCode":"511425"
 	},
@@ -51,7 +51,7 @@
 		"code":"511425218",
 		"fullCode":"511425218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗波乡",
 		"parentCode":"511425"
 	}

@@ -3,7 +3,7 @@
 		"code":"220702",
 		"fullCode":"220702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁江区",
 		"parentCode":"2207"
 	},
@@ -11,7 +11,7 @@
 		"code":"220721",
 		"fullCode":"220721000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"前郭尔罗斯蒙古族自治县",
 		"parentCode":"2207"
 	},
@@ -19,7 +19,7 @@
 		"code":"220722",
 		"fullCode":"220722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长岭县",
 		"parentCode":"2207"
 	},
@@ -27,7 +27,7 @@
 		"code":"220723",
 		"fullCode":"220723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乾安县",
 		"parentCode":"2207"
 	},
@@ -35,7 +35,7 @@
 		"code":"220771",
 		"fullCode":"220771000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"吉林松原经济开发区",
 		"parentCode":"2207"
 	},
@@ -43,7 +43,7 @@
 		"code":"220781",
 		"fullCode":"220781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"扶余市",
 		"parentCode":"2207"
 	}

@@ -3,7 +3,7 @@
 		"code":"230108001",
 		"fullCode":"230108001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴建街道",
 		"parentCode":"230108"
 	},
@@ -11,7 +11,7 @@
 		"code":"230108002",
 		"fullCode":"230108002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保国街道",
 		"parentCode":"230108"
 	},
@@ -19,7 +19,7 @@
 		"code":"230108003",
 		"fullCode":"230108003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联盟街道",
 		"parentCode":"230108"
 	},
@@ -27,7 +27,7 @@
 		"code":"230108004",
 		"fullCode":"230108004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友协街道",
 		"parentCode":"230108"
 	},
@@ -35,7 +35,7 @@
 		"code":"230108005",
 		"fullCode":"230108005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新疆街道",
 		"parentCode":"230108"
 	},
@@ -43,7 +43,7 @@
 		"code":"230108006",
 		"fullCode":"230108006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新伟街道",
 		"parentCode":"230108"
 	},
@@ -51,7 +51,7 @@
 		"code":"230108007",
 		"fullCode":"230108007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平新街道",
 		"parentCode":"230108"
 	},
@@ -59,7 +59,7 @@
 		"code":"230108008",
 		"fullCode":"230108008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建安街道",
 		"parentCode":"230108"
 	},
@@ -67,7 +67,7 @@
 		"code":"230108009",
 		"fullCode":"230108009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平盛街道",
 		"parentCode":"230108"
 	},
@@ -75,7 +75,7 @@
 		"code":"230108101",
 		"fullCode":"230108101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平房镇",
 		"parentCode":"230108"
 	},
@@ -83,7 +83,7 @@
 		"code":"230108579",
 		"fullCode":"230108579000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平房农垦",
 		"parentCode":"230108"
 	}

@@ -3,7 +3,7 @@
 		"code":"330282002",
 		"fullCode":"330282002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗汉街道",
 		"parentCode":"330282"
 	},
@@ -11,7 +11,7 @@
 		"code":"330282003",
 		"fullCode":"330282003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坎墩街道",
 		"parentCode":"330282"
 	},
@@ -19,7 +19,7 @@
 		"code":"330282004",
 		"fullCode":"330282004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浒山街道",
 		"parentCode":"330282"
 	},
@@ -27,7 +27,7 @@
 		"code":"330282005",
 		"fullCode":"330282005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙路街道",
 		"parentCode":"330282"
 	},
@@ -35,7 +35,7 @@
 		"code":"330282006",
 		"fullCode":"330282006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古塘街道",
 		"parentCode":"330282"
 	},
@@ -43,7 +43,7 @@
 		"code":"330282104",
 		"fullCode":"330282104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"掌起镇",
 		"parentCode":"330282"
 	},
@@ -51,7 +51,7 @@
 		"code":"330282107",
 		"fullCode":"330282107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观海卫镇",
 		"parentCode":"330282"
 	},
@@ -59,7 +59,7 @@
 		"code":"330282108",
 		"fullCode":"330282108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"附海镇",
 		"parentCode":"330282"
 	},
@@ -67,7 +67,7 @@
 		"code":"330282109",
 		"fullCode":"330282109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头镇",
 		"parentCode":"330282"
 	},
@@ -75,7 +75,7 @@
 		"code":"330282110",
 		"fullCode":"330282110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"匡堰镇",
 		"parentCode":"330282"
 	},
@@ -83,7 +83,7 @@
 		"code":"330282111",
 		"fullCode":"330282111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"逍林镇",
 		"parentCode":"330282"
 	},
@@ -91,7 +91,7 @@
 		"code":"330282112",
 		"fullCode":"330282112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新浦镇",
 		"parentCode":"330282"
 	},
@@ -99,7 +99,7 @@
 		"code":"330282113",
 		"fullCode":"330282113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜山镇",
 		"parentCode":"330282"
 	},
@@ -107,7 +107,7 @@
 		"code":"330282114",
 		"fullCode":"330282114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横河镇",
 		"parentCode":"330282"
 	},
@@ -115,7 +115,7 @@
 		"code":"330282116",
 		"fullCode":"330282116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇寿镇",
 		"parentCode":"330282"
 	},
@@ -123,7 +123,7 @@
 		"code":"330282118",
 		"fullCode":"330282118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庵东镇",
 		"parentCode":"330282"
 	},
@@ -131,7 +131,7 @@
 		"code":"330282120",
 		"fullCode":"330282120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长河镇",
 		"parentCode":"330282"
 	},
@@ -139,7 +139,7 @@
 		"code":"330282121",
 		"fullCode":"330282121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周巷镇",
 		"parentCode":"330282"
 	},
@@ -147,7 +147,7 @@
 		"code":"330282123",
 		"fullCode":"330282123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山镇",
 		"parentCode":"330282"
 	},
@@ -155,7 +155,7 @@
 		"code":"330282402",
 		"fullCode":"330282402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海经济开发区",
 		"parentCode":"330282"
 	}

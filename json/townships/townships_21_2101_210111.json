@@ -3,7 +3,7 @@
 		"code":"210111001",
 		"fullCode":"210111001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放街道",
 		"parentCode":"210111"
 	},
@@ -11,7 +11,7 @@
 		"code":"210111003",
 		"fullCode":"210111003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民主街道",
 		"parentCode":"210111"
 	},
@@ -19,7 +19,7 @@
 		"code":"210111005",
 		"fullCode":"210111005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中兴街道",
 		"parentCode":"210111"
 	},
@@ -27,7 +27,7 @@
 		"code":"210111009",
 		"fullCode":"210111009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林盛街道",
 		"parentCode":"210111"
 	},
@@ -35,7 +35,7 @@
 		"code":"210111010",
 		"fullCode":"210111010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河街道",
 		"parentCode":"210111"
 	},
@@ -43,7 +43,7 @@
 		"code":"210111011",
 		"fullCode":"210111011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里河街道",
 		"parentCode":"210111"
 	},
@@ -51,7 +51,7 @@
 		"code":"210111012",
 		"fullCode":"210111012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈相街道",
 		"parentCode":"210111"
 	},
@@ -59,7 +59,7 @@
 		"code":"210111015",
 		"fullCode":"210111015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乐街道",
 		"parentCode":"210111"
 	},
@@ -67,7 +67,7 @@
 		"code":"210111018",
 		"fullCode":"210111018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佟沟街道",
 		"parentCode":"210111"
 	},
@@ -75,7 +75,7 @@
 		"code":"210111019",
 		"fullCode":"210111019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八一红菱街道",
 		"parentCode":"210111"
 	},
@@ -83,7 +83,7 @@
 		"code":"210111020",
 		"fullCode":"210111020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈水街道",
 		"parentCode":"210111"
 	},
@@ -91,7 +91,7 @@
 		"code":"210111021",
 		"fullCode":"210111021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白清姚千街道",
 		"parentCode":"210111"
 	}

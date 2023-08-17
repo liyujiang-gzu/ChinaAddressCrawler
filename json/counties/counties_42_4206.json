@@ -3,7 +3,7 @@
 		"code":"420602",
 		"fullCode":"420602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"襄城区",
 		"parentCode":"4206"
 	},
@@ -11,7 +11,7 @@
 		"code":"420606",
 		"fullCode":"420606000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"樊城区",
 		"parentCode":"4206"
 	},
@@ -19,7 +19,7 @@
 		"code":"420607",
 		"fullCode":"420607000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"襄州区",
 		"parentCode":"4206"
 	},
@@ -27,7 +27,7 @@
 		"code":"420624",
 		"fullCode":"420624000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南漳县",
 		"parentCode":"4206"
 	},
@@ -35,7 +35,7 @@
 		"code":"420625",
 		"fullCode":"420625000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"谷城县",
 		"parentCode":"4206"
 	},
@@ -43,7 +43,7 @@
 		"code":"420626",
 		"fullCode":"420626000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"保康县",
 		"parentCode":"4206"
 	},
@@ -51,7 +51,7 @@
 		"code":"420682",
 		"fullCode":"420682000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"老河口市",
 		"parentCode":"4206"
 	},
@@ -59,7 +59,7 @@
 		"code":"420683",
 		"fullCode":"420683000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"枣阳市",
 		"parentCode":"4206"
 	},
@@ -67,7 +67,7 @@
 		"code":"420684",
 		"fullCode":"420684000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宜城市",
 		"parentCode":"4206"
 	}

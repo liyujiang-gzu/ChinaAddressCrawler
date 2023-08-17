@@ -3,7 +3,7 @@
 		"code":"350302001",
 		"fullCode":"350302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙桥街道",
 		"parentCode":"350302"
 	},
@@ -11,7 +11,7 @@
 		"code":"350302002",
 		"fullCode":"350302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰山街道",
 		"parentCode":"350302"
 	},
@@ -19,7 +19,7 @@
 		"code":"350302003",
 		"fullCode":"350302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞林街道",
 		"parentCode":"350302"
 	},
@@ -27,7 +27,7 @@
 		"code":"350302100",
 		"fullCode":"350302100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常太镇",
 		"parentCode":"350302"
 	},
@@ -35,7 +35,7 @@
 		"code":"350302101",
 		"fullCode":"350302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华亭镇",
 		"parentCode":"350302"
 	},
@@ -43,7 +43,7 @@
 		"code":"350302102",
 		"fullCode":"350302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵川镇",
 		"parentCode":"350302"
 	},
@@ -51,7 +51,7 @@
 		"code":"350302103",
 		"fullCode":"350302103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东海镇",
 		"parentCode":"350302"
 	}

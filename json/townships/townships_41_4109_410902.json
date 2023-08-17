@@ -3,7 +3,7 @@
 		"code":"410902001",
 		"fullCode":"410902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中原路街道",
 		"parentCode":"410902"
 	},
@@ -11,7 +11,7 @@
 		"code":"410902002",
 		"fullCode":"410902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利路街道",
 		"parentCode":"410902"
 	},
@@ -19,7 +19,7 @@
 		"code":"410902003",
 		"fullCode":"410902003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设路街道",
 		"parentCode":"410902"
 	},
@@ -27,7 +27,7 @@
 		"code":"410902004",
 		"fullCode":"410902004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人民路街道",
 		"parentCode":"410902"
 	},
@@ -35,7 +35,7 @@
 		"code":"410902005",
 		"fullCode":"410902005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庆路街道",
 		"parentCode":"410902"
 	},
@@ -43,7 +43,7 @@
 		"code":"410902006",
 		"fullCode":"410902006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄河路街道",
 		"parentCode":"410902"
 	},
@@ -51,7 +51,7 @@
 		"code":"410902007",
 		"fullCode":"410902007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"任丘路街道",
 		"parentCode":"410902"
 	},
@@ -59,7 +59,7 @@
 		"code":"410902008",
 		"fullCode":"410902008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长庆路街道",
 		"parentCode":"410902"
 	},
@@ -67,7 +67,7 @@
 		"code":"410902009",
 		"fullCode":"410902009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濮东街道",
 		"parentCode":"410902"
 	},
@@ -75,7 +75,7 @@
 		"code":"410902101",
 		"fullCode":"410902101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳村镇",
 		"parentCode":"410902"
 	},
@@ -83,7 +83,7 @@
 		"code":"410902203",
 		"fullCode":"410902203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟轲乡",
 		"parentCode":"410902"
 	}

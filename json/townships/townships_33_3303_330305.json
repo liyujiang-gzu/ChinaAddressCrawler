@@ -3,7 +3,7 @@
 		"code":"330305001",
 		"fullCode":"330305001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北岙街道",
 		"parentCode":"330305"
 	},
@@ -11,7 +11,7 @@
 		"code":"330305002",
 		"fullCode":"330305002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵昆街道",
 		"parentCode":"330305"
 	},
@@ -19,7 +19,7 @@
 		"code":"330305003",
 		"fullCode":"330305003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东屏街道",
 		"parentCode":"330305"
 	},
@@ -27,7 +27,7 @@
 		"code":"330305004",
 		"fullCode":"330305004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元觉街道",
 		"parentCode":"330305"
 	},
@@ -35,7 +35,7 @@
 		"code":"330305005",
 		"fullCode":"330305005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霓屿街道",
 		"parentCode":"330305"
 	},
@@ -43,7 +43,7 @@
 		"code":"330305006",
 		"fullCode":"330305006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆鹏街道",
 		"parentCode":"330305"
 	},
@@ -51,7 +51,7 @@
 		"code":"330305101",
 		"fullCode":"330305101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大门镇",
 		"parentCode":"330305"
 	},
@@ -59,7 +59,7 @@
 		"code":"330305202",
 		"fullCode":"330305202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿西乡",
 		"parentCode":"330305"
 	}

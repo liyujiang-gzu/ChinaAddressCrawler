@@ -3,7 +3,7 @@
 		"code":"632857100",
 		"fullCode":"632857100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柴旦镇",
 		"parentCode":"632857"
 	},
@@ -11,7 +11,7 @@
 		"code":"632857101",
 		"fullCode":"632857101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锡铁山镇",
 		"parentCode":"632857"
 	}

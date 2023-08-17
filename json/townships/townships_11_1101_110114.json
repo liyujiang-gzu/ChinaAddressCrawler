@@ -3,7 +3,7 @@
 		"code":"110114001",
 		"fullCode":"110114001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"110114"
 	},
@@ -11,7 +11,7 @@
 		"code":"110114002",
 		"fullCode":"110114002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南口地区",
 		"parentCode":"110114"
 	},
@@ -19,7 +19,7 @@
 		"code":"110114003",
 		"fullCode":"110114003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马池口地区",
 		"parentCode":"110114"
 	},
@@ -27,7 +27,7 @@
 		"code":"110114004",
 		"fullCode":"110114004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河地区",
 		"parentCode":"110114"
 	},
@@ -35,7 +35,7 @@
 		"code":"110114005",
 		"fullCode":"110114005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"110114"
 	},
@@ -43,7 +43,7 @@
 		"code":"110114007",
 		"fullCode":"110114007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东小口地区",
 		"parentCode":"110114"
 	},
@@ -51,7 +51,7 @@
 		"code":"110114008",
 		"fullCode":"110114008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天通苑北街道",
 		"parentCode":"110114"
 	},
@@ -59,7 +59,7 @@
 		"code":"110114009",
 		"fullCode":"110114009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天通苑南街道",
 		"parentCode":"110114"
 	},
@@ -67,7 +67,7 @@
 		"code":"110114010",
 		"fullCode":"110114010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霍营街道",
 		"parentCode":"110114"
 	},
@@ -75,7 +75,7 @@
 		"code":"110114011",
 		"fullCode":"110114011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回龙观街道",
 		"parentCode":"110114"
 	},
@@ -83,7 +83,7 @@
 		"code":"110114012",
 		"fullCode":"110114012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泽园街道",
 		"parentCode":"110114"
 	},
@@ -91,7 +91,7 @@
 		"code":"110114013",
 		"fullCode":"110114013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"史各庄街道",
 		"parentCode":"110114"
 	},
@@ -99,7 +99,7 @@
 		"code":"110114104",
 		"fullCode":"110114104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳坊镇",
 		"parentCode":"110114"
 	},
@@ -107,7 +107,7 @@
 		"code":"110114110",
 		"fullCode":"110114110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小汤山镇",
 		"parentCode":"110114"
 	},
@@ -115,7 +115,7 @@
 		"code":"110114111",
 		"fullCode":"110114111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南邵镇",
 		"parentCode":"110114"
 	},
@@ -123,7 +123,7 @@
 		"code":"110114112",
 		"fullCode":"110114112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崔村镇",
 		"parentCode":"110114"
 	},
@@ -131,7 +131,7 @@
 		"code":"110114113",
 		"fullCode":"110114113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百善镇",
 		"parentCode":"110114"
 	},
@@ -139,7 +139,7 @@
 		"code":"110114115",
 		"fullCode":"110114115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北七家镇",
 		"parentCode":"110114"
 	},
@@ -147,7 +147,7 @@
 		"code":"110114116",
 		"fullCode":"110114116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴寿镇",
 		"parentCode":"110114"
 	},
@@ -155,7 +155,7 @@
 		"code":"110114118",
 		"fullCode":"110114118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流村镇",
 		"parentCode":"110114"
 	},
@@ -163,7 +163,7 @@
 		"code":"110114119",
 		"fullCode":"110114119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十三陵镇",
 		"parentCode":"110114"
 	},
@@ -171,7 +171,7 @@
 		"code":"110114120",
 		"fullCode":"110114120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延寿镇",
 		"parentCode":"110114"
 	}

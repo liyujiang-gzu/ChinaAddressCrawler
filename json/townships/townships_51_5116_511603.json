@@ -3,7 +3,7 @@
 		"code":"511603001",
 		"fullCode":"511603001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奎阁街道",
 		"parentCode":"511603"
 	},
@@ -11,7 +11,7 @@
 		"code":"511603002",
 		"fullCode":"511603002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大佛寺街道",
 		"parentCode":"511603"
 	},
@@ -19,7 +19,7 @@
 		"code":"511603003",
 		"fullCode":"511603003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙塘街道",
 		"parentCode":"511603"
 	},
@@ -27,7 +27,7 @@
 		"code":"511603004",
 		"fullCode":"511603004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥街道",
 		"parentCode":"511603"
 	},
@@ -35,7 +35,7 @@
 		"code":"511603101",
 		"fullCode":"511603101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂兴镇",
 		"parentCode":"511603"
 	},
@@ -43,7 +43,7 @@
 		"code":"511603102",
 		"fullCode":"511603102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观阁镇",
 		"parentCode":"511603"
 	},
@@ -51,7 +51,7 @@
 		"code":"511603103",
 		"fullCode":"511603103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广兴镇",
 		"parentCode":"511603"
 	},
@@ -59,7 +59,7 @@
 		"code":"511603104",
 		"fullCode":"511603104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"代市镇",
 		"parentCode":"511603"
 	},
@@ -67,7 +67,7 @@
 		"code":"511603105",
 		"fullCode":"511603105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观塘镇",
 		"parentCode":"511603"
 	},
@@ -75,7 +75,7 @@
 		"code":"511603106",
 		"fullCode":"511603106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"护安镇",
 		"parentCode":"511603"
 	},
@@ -83,7 +83,7 @@
 		"code":"511603107",
 		"fullCode":"511603107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙滩镇",
 		"parentCode":"511603"
 	},
@@ -91,7 +91,7 @@
 		"code":"511603108",
 		"fullCode":"511603108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎城镇",
 		"parentCode":"511603"
 	}

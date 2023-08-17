@@ -3,7 +3,7 @@
 		"code":"410923100",
 		"fullCode":"410923100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"410923"
 	},
@@ -11,7 +11,7 @@
 		"code":"410923101",
 		"fullCode":"410923101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩张镇",
 		"parentCode":"410923"
 	},
@@ -19,7 +19,7 @@
 		"code":"410923102",
 		"fullCode":"410923102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元村镇",
 		"parentCode":"410923"
 	},
@@ -27,7 +27,7 @@
 		"code":"410923103",
 		"fullCode":"410923103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福堪镇",
 		"parentCode":"410923"
 	},
@@ -35,7 +35,7 @@
 		"code":"410923104",
 		"fullCode":"410923104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张果屯镇",
 		"parentCode":"410923"
 	},
@@ -43,7 +43,7 @@
 		"code":"410923105",
 		"fullCode":"410923105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千口镇",
 		"parentCode":"410923"
 	},
@@ -51,7 +51,7 @@
 		"code":"410923106",
 		"fullCode":"410923106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷金楼镇",
 		"parentCode":"410923"
 	},
@@ -59,7 +59,7 @@
 		"code":"410923200",
 		"fullCode":"410923200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨村乡",
 		"parentCode":"410923"
 	},
@@ -67,7 +67,7 @@
 		"code":"410923205",
 		"fullCode":"410923205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西邵乡",
 		"parentCode":"410923"
 	},
@@ -75,7 +75,7 @@
 		"code":"410923206",
 		"fullCode":"410923206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺庄乡",
 		"parentCode":"410923"
 	},
@@ -83,7 +83,7 @@
 		"code":"410923207",
 		"fullCode":"410923207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁村乡",
 		"parentCode":"410923"
 	},
@@ -91,7 +91,7 @@
 		"code":"410923208",
 		"fullCode":"410923208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"近德固乡",
 		"parentCode":"410923"
 	}

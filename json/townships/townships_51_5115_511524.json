@@ -3,7 +3,7 @@
 		"code":"511524100",
 		"fullCode":"511524100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长宁镇",
 		"parentCode":"511524"
 	},
@@ -11,7 +11,7 @@
 		"code":"511524101",
 		"fullCode":"511524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅硐镇",
 		"parentCode":"511524"
 	},
@@ -19,7 +19,7 @@
 		"code":"511524102",
 		"fullCode":"511524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河镇",
 		"parentCode":"511524"
 	},
@@ -27,7 +27,7 @@
 		"code":"511524103",
 		"fullCode":"511524103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"硐底镇",
 		"parentCode":"511524"
 	},
@@ -35,7 +35,7 @@
 		"code":"511524104",
 		"fullCode":"511524104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花滩镇",
 		"parentCode":"511524"
 	},
@@ -43,7 +43,7 @@
 		"code":"511524105",
 		"fullCode":"511524105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹海镇",
 		"parentCode":"511524"
 	},
@@ -51,7 +51,7 @@
 		"code":"511524106",
 		"fullCode":"511524106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老翁镇",
 		"parentCode":"511524"
 	},
@@ -59,7 +59,7 @@
 		"code":"511524107",
 		"fullCode":"511524107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古河镇",
 		"parentCode":"511524"
 	},
@@ -67,7 +67,7 @@
 		"code":"511524110",
 		"fullCode":"511524110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头镇",
 		"parentCode":"511524"
 	},
@@ -75,7 +75,7 @@
 		"code":"511524112",
 		"fullCode":"511524112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜鼓镇",
 		"parentCode":"511524"
 	},
@@ -83,7 +83,7 @@
 		"code":"511524113",
 		"fullCode":"511524113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井江镇",
 		"parentCode":"511524"
 	},
@@ -91,7 +91,7 @@
 		"code":"511524114",
 		"fullCode":"511524114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜锣镇",
 		"parentCode":"511524"
 	},
@@ -99,7 +99,7 @@
 		"code":"511524115",
 		"fullCode":"511524115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅白镇",
 		"parentCode":"511524"
 	}

@@ -3,7 +3,7 @@
 		"code":"630121100",
 		"fullCode":"630121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头镇",
 		"parentCode":"630121"
 	},
@@ -11,7 +11,7 @@
 		"code":"630121101",
 		"fullCode":"630121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"630121"
 	},
@@ -19,7 +19,7 @@
 		"code":"630121102",
 		"fullCode":"630121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔尔镇",
 		"parentCode":"630121"
 	},
@@ -27,7 +27,7 @@
 		"code":"630121103",
 		"fullCode":"630121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东峡镇",
 		"parentCode":"630121"
 	},
@@ -35,7 +35,7 @@
 		"code":"630121104",
 		"fullCode":"630121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄家寨镇",
 		"parentCode":"630121"
 	},
@@ -43,7 +43,7 @@
 		"code":"630121105",
 		"fullCode":"630121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长宁镇",
 		"parentCode":"630121"
 	},
@@ -51,7 +51,7 @@
 		"code":"630121106",
 		"fullCode":"630121106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景阳镇",
 		"parentCode":"630121"
 	},
@@ -59,7 +59,7 @@
 		"code":"630121107",
 		"fullCode":"630121107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多林镇",
 		"parentCode":"630121"
 	},
@@ -67,7 +67,7 @@
 		"code":"630121108",
 		"fullCode":"630121108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新庄镇",
 		"parentCode":"630121"
 	},
@@ -75,7 +75,7 @@
 		"code":"630121200",
 		"fullCode":"630121200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青林乡",
 		"parentCode":"630121"
 	},
@@ -83,7 +83,7 @@
 		"code":"630121201",
 		"fullCode":"630121201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山乡",
 		"parentCode":"630121"
 	},
@@ -91,7 +91,7 @@
 		"code":"630121202",
 		"fullCode":"630121202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"逊让乡",
 		"parentCode":"630121"
 	},
@@ -99,7 +99,7 @@
 		"code":"630121203",
 		"fullCode":"630121203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"极乐乡",
 		"parentCode":"630121"
 	},
@@ -107,7 +107,7 @@
 		"code":"630121204",
 		"fullCode":"630121204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石山乡",
 		"parentCode":"630121"
 	},
@@ -115,7 +115,7 @@
 		"code":"630121205",
 		"fullCode":"630121205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝库乡",
 		"parentCode":"630121"
 	},
@@ -123,7 +123,7 @@
 		"code":"630121206",
 		"fullCode":"630121206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斜沟乡",
 		"parentCode":"630121"
 	},
@@ -131,7 +131,7 @@
 		"code":"630121207",
 		"fullCode":"630121207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良教乡",
 		"parentCode":"630121"
 	},
@@ -139,7 +139,7 @@
 		"code":"630121208",
 		"fullCode":"630121208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向化藏族乡",
 		"parentCode":"630121"
 	},
@@ -147,7 +147,7 @@
 		"code":"630121209",
 		"fullCode":"630121209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桦林乡",
 		"parentCode":"630121"
 	},
@@ -155,7 +155,7 @@
 		"code":"630121210",
 		"fullCode":"630121210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朔北藏族乡",
 		"parentCode":"630121"
 	}

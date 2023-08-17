@@ -3,7 +3,7 @@
 		"code":"341181003",
 		"fullCode":"341181003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广陵街道",
 		"parentCode":"341181"
 	},
@@ -11,7 +11,7 @@
 		"code":"341181004",
 		"fullCode":"341181004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千秋街道",
 		"parentCode":"341181"
 	},
@@ -19,7 +19,7 @@
 		"code":"341181100",
 		"fullCode":"341181100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜城镇",
 		"parentCode":"341181"
 	},
@@ -27,7 +27,7 @@
 		"code":"341181101",
 		"fullCode":"341181101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汊涧镇",
 		"parentCode":"341181"
 	},
@@ -35,7 +35,7 @@
 		"code":"341181102",
 		"fullCode":"341181102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦栏镇",
 		"parentCode":"341181"
 	},
@@ -43,7 +43,7 @@
 		"code":"341181103",
 		"fullCode":"341181103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大通镇",
 		"parentCode":"341181"
 	},
@@ -51,7 +51,7 @@
 		"code":"341181104",
 		"fullCode":"341181104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨村镇",
 		"parentCode":"341181"
 	},
@@ -59,7 +59,7 @@
 		"code":"341181105",
 		"fullCode":"341181105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石梁镇",
 		"parentCode":"341181"
 	},
@@ -67,7 +67,7 @@
 		"code":"341181106",
 		"fullCode":"341181106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金集镇",
 		"parentCode":"341181"
 	},
@@ -75,7 +75,7 @@
 		"code":"341181107",
 		"fullCode":"341181107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰镇",
 		"parentCode":"341181"
 	},
@@ -83,7 +83,7 @@
 		"code":"341181108",
 		"fullCode":"341181108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁和集镇",
 		"parentCode":"341181"
 	},
@@ -91,7 +91,7 @@
 		"code":"341181109",
 		"fullCode":"341181109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冶山镇",
 		"parentCode":"341181"
 	},
@@ -99,7 +99,7 @@
 		"code":"341181110",
 		"fullCode":"341181110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑集镇",
 		"parentCode":"341181"
 	},
@@ -107,7 +107,7 @@
 		"code":"341181111",
 		"fullCode":"341181111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张铺镇",
 		"parentCode":"341181"
 	},
@@ -115,7 +115,7 @@
 		"code":"341181112",
 		"fullCode":"341181112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街镇",
 		"parentCode":"341181"
 	},
@@ -123,7 +123,7 @@
 		"code":"341181113",
 		"fullCode":"341181113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万寿镇",
 		"parentCode":"341181"
 	}

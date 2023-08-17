@@ -3,7 +3,7 @@
 		"code":"511921001",
 		"fullCode":"511921001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"壁州街道",
 		"parentCode":"511921"
 	},
@@ -11,7 +11,7 @@
 		"code":"511921100",
 		"fullCode":"511921100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"诺江镇",
 		"parentCode":"511921"
 	},
@@ -19,7 +19,7 @@
 		"code":"511921101",
 		"fullCode":"511921101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民胜镇",
 		"parentCode":"511921"
 	},
@@ -27,7 +27,7 @@
 		"code":"511921102",
 		"fullCode":"511921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火炬镇",
 		"parentCode":"511921"
 	},
@@ -35,7 +35,7 @@
 		"code":"511921103",
 		"fullCode":"511921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广纳镇",
 		"parentCode":"511921"
 	},
@@ -43,7 +43,7 @@
 		"code":"511921104",
 		"fullCode":"511921104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁佛镇",
 		"parentCode":"511921"
 	},
@@ -51,7 +51,7 @@
 		"code":"511921105",
 		"fullCode":"511921105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻石镇",
 		"parentCode":"511921"
 	},
@@ -59,7 +59,7 @@
 		"code":"511921106",
 		"fullCode":"511921106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"至诚镇",
 		"parentCode":"511921"
 	},
@@ -67,7 +67,7 @@
 		"code":"511921107",
 		"fullCode":"511921107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪口镇",
 		"parentCode":"511921"
 	},
@@ -75,7 +75,7 @@
 		"code":"511921108",
 		"fullCode":"511921108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙溪镇",
 		"parentCode":"511921"
 	},
@@ -83,7 +83,7 @@
 		"code":"511921109",
 		"fullCode":"511921109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦室镇",
 		"parentCode":"511921"
 	},
@@ -91,7 +91,7 @@
 		"code":"511921110",
 		"fullCode":"511921110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安镇",
 		"parentCode":"511921"
 	},
@@ -99,7 +99,7 @@
 		"code":"511921111",
 		"fullCode":"511921111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁溪镇",
 		"parentCode":"511921"
 	},
@@ -107,7 +107,7 @@
 		"code":"511921112",
 		"fullCode":"511921112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涪阳镇",
 		"parentCode":"511921"
 	},
@@ -115,7 +115,7 @@
 		"code":"511921113",
 		"fullCode":"511921113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"诺水河镇",
 		"parentCode":"511921"
 	},
@@ -123,7 +123,7 @@
 		"code":"511921114",
 		"fullCode":"511921114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛浴镇",
 		"parentCode":"511921"
 	},
@@ -131,7 +131,7 @@
 		"code":"511921115",
 		"fullCode":"511921115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥溪镇",
 		"parentCode":"511921"
 	},
@@ -139,7 +139,7 @@
 		"code":"511921116",
 		"fullCode":"511921116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两河口镇",
 		"parentCode":"511921"
 	},
@@ -147,7 +147,7 @@
 		"code":"511921117",
 		"fullCode":"511921117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥口镇",
 		"parentCode":"511921"
 	},
@@ -155,7 +155,7 @@
 		"code":"511921118",
 		"fullCode":"511921118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新场镇",
 		"parentCode":"511921"
 	},
@@ -163,7 +163,7 @@
 		"code":"511921119",
 		"fullCode":"511921119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨柏镇",
 		"parentCode":"511921"
 	},
@@ -171,7 +171,7 @@
 		"code":"511921120",
 		"fullCode":"511921120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三溪镇",
 		"parentCode":"511921"
 	},
@@ -179,7 +179,7 @@
 		"code":"511921121",
 		"fullCode":"511921121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春在镇",
 		"parentCode":"511921"
 	},
@@ -187,7 +187,7 @@
 		"code":"511921122",
 		"fullCode":"511921122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙凤场镇",
 		"parentCode":"511921"
 	},
@@ -195,7 +195,7 @@
 		"code":"511921123",
 		"fullCode":"511921123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"空山镇",
 		"parentCode":"511921"
 	},
@@ -203,7 +203,7 @@
 		"code":"511921124",
 		"fullCode":"511921124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唱歌镇",
 		"parentCode":"511921"
 	},
@@ -211,7 +211,7 @@
 		"code":"511921125",
 		"fullCode":"511921125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈河镇",
 		"parentCode":"511921"
 	},
@@ -219,7 +219,7 @@
 		"code":"511921126",
 		"fullCode":"511921126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青峪镇",
 		"parentCode":"511921"
 	},
@@ -227,7 +227,7 @@
 		"code":"511921127",
 		"fullCode":"511921127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"511921"
 	},
@@ -235,7 +235,7 @@
 		"code":"511921128",
 		"fullCode":"511921128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烟溪镇",
 		"parentCode":"511921"
 	},
@@ -243,7 +243,7 @@
 		"code":"511921129",
 		"fullCode":"511921129000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长坪镇",
 		"parentCode":"511921"
 	},
@@ -251,7 +251,7 @@
 		"code":"511921214",
 		"fullCode":"511921214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松溪乡",
 		"parentCode":"511921"
 	},
@@ -259,7 +259,7 @@
 		"code":"511921216",
 		"fullCode":"511921216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利乡",
 		"parentCode":"511921"
 	}

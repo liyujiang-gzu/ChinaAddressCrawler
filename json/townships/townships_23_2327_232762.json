@@ -3,7 +3,7 @@
 		"code":"232762100",
 		"fullCode":"232762100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小扬气镇",
 		"parentCode":"232762"
 	},
@@ -11,7 +11,7 @@
 		"code":"232762101",
 		"fullCode":"232762101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"劲松镇",
 		"parentCode":"232762"
 	},
@@ -19,7 +19,7 @@
 		"code":"232762102",
 		"fullCode":"232762102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古源镇",
 		"parentCode":"232762"
 	}

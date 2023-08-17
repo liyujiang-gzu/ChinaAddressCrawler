@@ -3,7 +3,7 @@
 		"code":"632625100",
 		"fullCode":"632625100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"智青松多镇",
 		"parentCode":"632625"
 	},
@@ -11,7 +11,7 @@
 		"code":"632625200",
 		"fullCode":"632625200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门堂乡",
 		"parentCode":"632625"
 	},
@@ -19,7 +19,7 @@
 		"code":"632625201",
 		"fullCode":"632625201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哇赛乡",
 		"parentCode":"632625"
 	},
@@ -27,7 +27,7 @@
 		"code":"632625202",
 		"fullCode":"632625202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"索呼日麻乡",
 		"parentCode":"632625"
 	},
@@ -35,7 +35,7 @@
 		"code":"632625203",
 		"fullCode":"632625203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白玉乡",
 		"parentCode":"632625"
 	},
@@ -43,7 +43,7 @@
 		"code":"632625204",
 		"fullCode":"632625204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哇尔依乡",
 		"parentCode":"632625"
 	}

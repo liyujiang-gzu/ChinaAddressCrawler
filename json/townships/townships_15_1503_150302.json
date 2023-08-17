@@ -3,7 +3,7 @@
 		"code":"150302001",
 		"fullCode":"150302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰岭街道",
 		"parentCode":"150302"
 	},
@@ -11,7 +11,7 @@
 		"code":"150302002",
 		"fullCode":"150302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海北街道",
 		"parentCode":"150302"
 	},
@@ -19,7 +19,7 @@
 		"code":"150302003",
 		"fullCode":"150302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街道",
 		"parentCode":"150302"
 	},
@@ -27,7 +27,7 @@
 		"code":"150302004",
 		"fullCode":"150302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华西街道",
 		"parentCode":"150302"
 	},
@@ -35,7 +35,7 @@
 		"code":"150302007",
 		"fullCode":"150302007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨河街道",
 		"parentCode":"150302"
 	},
@@ -43,7 +43,7 @@
 		"code":"150302008",
 		"fullCode":"150302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林荫街道",
 		"parentCode":"150302"
 	},
@@ -51,7 +51,7 @@
 		"code":"150302101",
 		"fullCode":"150302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千里山镇",
 		"parentCode":"150302"
 	},
@@ -59,7 +59,7 @@
 		"code":"150302400",
 		"fullCode":"150302400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌海高新技术产业开发区海勃湾产业园综合服务中心",
 		"parentCode":"150302"
 	}

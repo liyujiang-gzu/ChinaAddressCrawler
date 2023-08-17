@@ -3,7 +3,7 @@
 		"code":"340207001",
 		"fullCode":"340207001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四褐山街道",
 		"parentCode":"340207"
 	},
@@ -11,7 +11,7 @@
 		"code":"340207002",
 		"fullCode":"340207002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕溪口街道",
 		"parentCode":"340207"
 	},
@@ -19,7 +19,7 @@
 		"code":"340207003",
 		"fullCode":"340207003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官陡街道",
 		"parentCode":"340207"
 	},
@@ -27,7 +27,7 @@
 		"code":"340207004",
 		"fullCode":"340207004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾里街道",
 		"parentCode":"340207"
 	},
@@ -35,7 +35,7 @@
 		"code":"340207005",
 		"fullCode":"340207005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水街道",
 		"parentCode":"340207"
 	},
@@ -43,7 +43,7 @@
 		"code":"340207101",
 		"fullCode":"340207101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈巷镇",
 		"parentCode":"340207"
 	},
@@ -51,7 +51,7 @@
 		"code":"340207102",
 		"fullCode":"340207102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二坝镇",
 		"parentCode":"340207"
 	},
@@ -59,7 +59,7 @@
 		"code":"340207103",
 		"fullCode":"340207103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤沟镇",
 		"parentCode":"340207"
 	},
@@ -67,7 +67,7 @@
 		"code":"340207104",
 		"fullCode":"340207104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白茆镇",
 		"parentCode":"340207"
 	},
@@ -75,7 +75,7 @@
 		"code":"340207401",
 		"fullCode":"340207401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽省江北产业集中区",
 		"parentCode":"340207"
 	},
@@ -83,7 +83,7 @@
 		"code":"340207402",
 		"fullCode":"340207402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽芜湖鸠江经济开发区",
 		"parentCode":"340207"
 	},
@@ -91,7 +91,7 @@
 		"code":"340207403",
 		"fullCode":"340207403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸠江经济开发区二坝园区",
 		"parentCode":"340207"
 	}

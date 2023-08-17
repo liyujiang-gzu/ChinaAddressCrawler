@@ -3,7 +3,7 @@
 		"code":"140302001",
 		"fullCode":"140302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上站街道",
 		"parentCode":"140302"
 	},
@@ -11,7 +11,7 @@
 		"code":"140302002",
 		"fullCode":"140302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下站街道",
 		"parentCode":"140302"
 	},
@@ -19,7 +19,7 @@
 		"code":"140302003",
 		"fullCode":"140302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北大街街道",
 		"parentCode":"140302"
 	},
@@ -27,7 +27,7 @@
 		"code":"140302004",
 		"fullCode":"140302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山路街道",
 		"parentCode":"140302"
 	},
@@ -35,7 +35,7 @@
 		"code":"140302005",
 		"fullCode":"140302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义井街道",
 		"parentCode":"140302"
 	},
@@ -43,7 +43,7 @@
 		"code":"140302100",
 		"fullCode":"140302100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义井镇",
 		"parentCode":"140302"
 	}

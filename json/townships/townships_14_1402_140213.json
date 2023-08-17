@@ -3,7 +3,7 @@
 		"code":"140213050",
 		"fullCode":"140213050000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永泰街道",
 		"parentCode":"140213"
 	},
@@ -11,7 +11,7 @@
 		"code":"140213051",
 		"fullCode":"140213051000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城街道",
 		"parentCode":"140213"
 	},
@@ -19,7 +19,7 @@
 		"code":"140213052",
 		"fullCode":"140213052000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新旺街道",
 		"parentCode":"140213"
 	},
@@ -27,7 +27,7 @@
 		"code":"140213053",
 		"fullCode":"140213053000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎宾街道",
 		"parentCode":"140213"
 	},
@@ -35,7 +35,7 @@
 		"code":"140213054",
 		"fullCode":"140213054000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振华街道",
 		"parentCode":"140213"
 	},
@@ -43,7 +43,7 @@
 		"code":"140213055",
 		"fullCode":"140213055000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清远街道",
 		"parentCode":"140213"
 	},
@@ -51,7 +51,7 @@
 		"code":"140213056",
 		"fullCode":"140213056000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武定街道",
 		"parentCode":"140213"
 	},
@@ -59,7 +59,7 @@
 		"code":"140213057",
 		"fullCode":"140213057000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"御河街道",
 		"parentCode":"140213"
 	},
@@ -67,7 +67,7 @@
 		"code":"140213058",
 		"fullCode":"140213058000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开源街道",
 		"parentCode":"140213"
 	},
@@ -75,7 +75,7 @@
 		"code":"140213059",
 		"fullCode":"140213059000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庆路街道",
 		"parentCode":"140213"
 	},
@@ -83,7 +83,7 @@
 		"code":"140213060",
 		"fullCode":"140213060000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马军营街道",
 		"parentCode":"140213"
 	},
@@ -91,7 +91,7 @@
 		"code":"140213061",
 		"fullCode":"140213061000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧虎湾街道",
 		"parentCode":"140213"
 	},
@@ -99,7 +99,7 @@
 		"code":"140213062",
 		"fullCode":"140213062000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街道",
 		"parentCode":"140213"
 	},
@@ -107,7 +107,7 @@
 		"code":"140213063",
 		"fullCode":"140213063000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿苑街道",
 		"parentCode":"140213"
 	},
@@ -115,7 +115,7 @@
 		"code":"140213064",
 		"fullCode":"140213064000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白登山街道",
 		"parentCode":"140213"
 	},
@@ -123,7 +123,7 @@
 		"code":"140213065",
 		"fullCode":"140213065000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文瀛湖街道",
 		"parentCode":"140213"
 	},
@@ -131,7 +131,7 @@
 		"code":"140213066",
 		"fullCode":"140213066000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水泊寺街道",
 		"parentCode":"140213"
 	},
@@ -139,7 +139,7 @@
 		"code":"140213067",
 		"fullCode":"140213067000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小南头街道",
 		"parentCode":"140213"
 	}

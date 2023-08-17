@@ -3,7 +3,7 @@
 		"code":"321012100",
 		"fullCode":"321012100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙女镇",
 		"parentCode":"321012"
 	},
@@ -11,7 +11,7 @@
 		"code":"321012101",
 		"fullCode":"321012101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小纪镇",
 		"parentCode":"321012"
 	},
@@ -19,7 +19,7 @@
 		"code":"321012103",
 		"fullCode":"321012103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武坚镇",
 		"parentCode":"321012"
 	},
@@ -27,7 +27,7 @@
 		"code":"321012106",
 		"fullCode":"321012106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樊川镇",
 		"parentCode":"321012"
 	},
@@ -35,7 +35,7 @@
 		"code":"321012108",
 		"fullCode":"321012108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"真武镇",
 		"parentCode":"321012"
 	},
@@ -43,7 +43,7 @@
 		"code":"321012109",
 		"fullCode":"321012109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜陵镇",
 		"parentCode":"321012"
 	},
@@ -51,7 +51,7 @@
 		"code":"321012110",
 		"fullCode":"321012110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁沟镇",
 		"parentCode":"321012"
 	},
@@ -59,7 +59,7 @@
 		"code":"321012112",
 		"fullCode":"321012112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭村镇",
 		"parentCode":"321012"
 	},
@@ -67,7 +67,7 @@
 		"code":"321012114",
 		"fullCode":"321012114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邵伯镇",
 		"parentCode":"321012"
 	},
@@ -75,7 +75,7 @@
 		"code":"321012116",
 		"fullCode":"321012116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁伙镇",
 		"parentCode":"321012"
 	},
@@ -83,7 +83,7 @@
 		"code":"321012118",
 		"fullCode":"321012118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥镇",
 		"parentCode":"321012"
 	},
@@ -91,7 +91,7 @@
 		"code":"321012119",
 		"fullCode":"321012119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴桥镇",
 		"parentCode":"321012"
 	},
@@ -99,7 +99,7 @@
 		"code":"321012120",
 		"fullCode":"321012120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浦头镇",
 		"parentCode":"321012"
 	},
@@ -107,7 +107,7 @@
 		"code":"321012400",
 		"fullCode":"321012400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"立新农场",
 		"parentCode":"321012"
 	}

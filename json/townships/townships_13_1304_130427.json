@@ -3,7 +3,7 @@
 		"code":"130427100",
 		"fullCode":"130427100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磁州镇",
 		"parentCode":"130427"
 	},
@@ -11,7 +11,7 @@
 		"code":"130427103",
 		"fullCode":"130427103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"讲武城镇",
 		"parentCode":"130427"
 	},
@@ -19,7 +19,7 @@
 		"code":"130427104",
 		"fullCode":"130427104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳城镇",
 		"parentCode":"130427"
 	},
@@ -27,7 +27,7 @@
 		"code":"130427105",
 		"fullCode":"130427105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观台镇",
 		"parentCode":"130427"
 	},
@@ -35,7 +35,7 @@
 		"code":"130427107",
 		"fullCode":"130427107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白土镇",
 		"parentCode":"130427"
 	},
@@ -43,7 +43,7 @@
 		"code":"130427108",
 		"fullCode":"130427108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄沙镇",
 		"parentCode":"130427"
 	},
@@ -51,7 +51,7 @@
 		"code":"130427200",
 		"fullCode":"130427200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路村营乡",
 		"parentCode":"130427"
 	},
@@ -59,7 +59,7 @@
 		"code":"130427204",
 		"fullCode":"130427204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"时村营乡",
 		"parentCode":"130427"
 	},
@@ -67,7 +67,7 @@
 		"code":"130427207",
 		"fullCode":"130427207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶泉乡",
 		"parentCode":"130427"
 	},
@@ -75,7 +75,7 @@
 		"code":"130427208",
 		"fullCode":"130427208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都党乡",
 		"parentCode":"130427"
 	},
@@ -83,7 +83,7 @@
 		"code":"130427209",
 		"fullCode":"130427209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北贾壁乡",
 		"parentCode":"130427"
 	}

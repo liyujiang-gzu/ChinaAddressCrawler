@@ -3,7 +3,7 @@
 		"code":"230904001",
 		"fullCode":"230904001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风街道",
 		"parentCode":"230904"
 	},
@@ -11,7 +11,7 @@
 		"code":"230904003",
 		"fullCode":"230904003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富强街道",
 		"parentCode":"230904"
 	},
@@ -19,7 +19,7 @@
 		"code":"230904005",
 		"fullCode":"230904005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湖街道",
 		"parentCode":"230904"
 	},
@@ -27,7 +27,7 @@
 		"code":"230904006",
 		"fullCode":"230904006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东胜街道",
 		"parentCode":"230904"
 	},
@@ -35,7 +35,7 @@
 		"code":"230904007",
 		"fullCode":"230904007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖东街道",
 		"parentCode":"230904"
 	},
@@ -43,7 +43,7 @@
 		"code":"230904008",
 		"fullCode":"230904008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通达街道",
 		"parentCode":"230904"
 	},
@@ -51,7 +51,7 @@
 		"code":"230904100",
 		"fullCode":"230904100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茄子河镇",
 		"parentCode":"230904"
 	},
@@ -59,7 +59,7 @@
 		"code":"230904101",
 		"fullCode":"230904101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏伟镇",
 		"parentCode":"230904"
 	},
@@ -67,7 +67,7 @@
 		"code":"230904200",
 		"fullCode":"230904200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁山乡",
 		"parentCode":"230904"
 	},
@@ -75,7 +75,7 @@
 		"code":"230904201",
 		"fullCode":"230904201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中心河乡",
 		"parentCode":"230904"
 	},
@@ -83,7 +83,7 @@
 		"code":"230904500",
 		"fullCode":"230904500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北兴农场",
 		"parentCode":"230904"
 	},
@@ -91,7 +91,7 @@
 		"code":"230904579",
 		"fullCode":"230904579000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑龙江红兴隆农垦宝利采金",
 		"parentCode":"230904"
 	}

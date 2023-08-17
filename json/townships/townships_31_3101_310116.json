@@ -3,7 +3,7 @@
 		"code":"310116001",
 		"fullCode":"310116001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石化街道",
 		"parentCode":"310116"
 	},
@@ -11,7 +11,7 @@
 		"code":"310116101",
 		"fullCode":"310116101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱泾镇",
 		"parentCode":"310116"
 	},
@@ -19,7 +19,7 @@
 		"code":"310116102",
 		"fullCode":"310116102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫泾镇",
 		"parentCode":"310116"
 	},
@@ -27,7 +27,7 @@
 		"code":"310116103",
 		"fullCode":"310116103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张堰镇",
 		"parentCode":"310116"
 	},
@@ -35,7 +35,7 @@
 		"code":"310116104",
 		"fullCode":"310116104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亭林镇",
 		"parentCode":"310116"
 	},
@@ -43,7 +43,7 @@
 		"code":"310116105",
 		"fullCode":"310116105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吕巷镇",
 		"parentCode":"310116"
 	},
@@ -51,7 +51,7 @@
 		"code":"310116107",
 		"fullCode":"310116107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"廊下镇",
 		"parentCode":"310116"
 	},
@@ -59,7 +59,7 @@
 		"code":"310116109",
 		"fullCode":"310116109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山卫镇",
 		"parentCode":"310116"
 	},
@@ -67,7 +67,7 @@
 		"code":"310116112",
 		"fullCode":"310116112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漕泾镇",
 		"parentCode":"310116"
 	},
@@ -75,7 +75,7 @@
 		"code":"310116113",
 		"fullCode":"310116113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山阳镇",
 		"parentCode":"310116"
 	},
@@ -83,7 +83,7 @@
 		"code":"310116503",
 		"fullCode":"310116503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上海湾区高新技术产业开发区",
 		"parentCode":"310116"
 	}

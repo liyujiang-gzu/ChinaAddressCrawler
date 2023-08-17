@@ -3,7 +3,7 @@
 		"code":"330402007",
 		"fullCode":"330402007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设街道",
 		"parentCode":"330402"
 	},
@@ -11,7 +11,7 @@
 		"code":"330402008",
 		"fullCode":"330402008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放街道",
 		"parentCode":"330402"
 	},
@@ -19,7 +19,7 @@
 		"code":"330402009",
 		"fullCode":"330402009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新嘉街道",
 		"parentCode":"330402"
 	},
@@ -27,7 +27,7 @@
 		"code":"330402010",
 		"fullCode":"330402010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖街道",
 		"parentCode":"330402"
 	},
@@ -35,7 +35,7 @@
 		"code":"330402011",
 		"fullCode":"330402011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴街道",
 		"parentCode":"330402"
 	},
@@ -43,7 +43,7 @@
 		"code":"330402012",
 		"fullCode":"330402012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"330402"
 	},
@@ -51,7 +51,7 @@
 		"code":"330402013",
 		"fullCode":"330402013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东栅街道",
 		"parentCode":"330402"
 	},
@@ -59,7 +59,7 @@
 		"code":"330402014",
 		"fullCode":"330402014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长水街道",
 		"parentCode":"330402"
 	},
@@ -67,7 +67,7 @@
 		"code":"330402015",
 		"fullCode":"330402015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七星街道",
 		"parentCode":"330402"
 	},
@@ -75,7 +75,7 @@
 		"code":"330402100",
 		"fullCode":"330402100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤桥镇",
 		"parentCode":"330402"
 	},
@@ -83,7 +83,7 @@
 		"code":"330402101",
 		"fullCode":"330402101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余新镇",
 		"parentCode":"330402"
 	},
@@ -91,7 +91,7 @@
 		"code":"330402103",
 		"fullCode":"330402103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新丰镇",
 		"parentCode":"330402"
 	},
@@ -99,7 +99,7 @@
 		"code":"330402105",
 		"fullCode":"330402105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥镇",
 		"parentCode":"330402"
 	}

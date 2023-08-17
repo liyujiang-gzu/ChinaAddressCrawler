@@ -3,7 +3,7 @@
 		"code":"510822100",
 		"fullCode":"510822100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔庄镇",
 		"parentCode":"510822"
 	},
@@ -11,7 +11,7 @@
 		"code":"510822101",
 		"fullCode":"510822101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青溪镇",
 		"parentCode":"510822"
 	},
@@ -19,7 +19,7 @@
 		"code":"510822102",
 		"fullCode":"510822102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"房石镇",
 		"parentCode":"510822"
 	},
@@ -27,7 +27,7 @@
 		"code":"510822103",
 		"fullCode":"510822103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关庄镇",
 		"parentCode":"510822"
 	},
@@ -35,7 +35,7 @@
 		"code":"510822104",
 		"fullCode":"510822104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉水镇",
 		"parentCode":"510822"
 	},
@@ -43,7 +43,7 @@
 		"code":"510822105",
 		"fullCode":"510822105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹园镇",
 		"parentCode":"510822"
 	},
@@ -51,7 +51,7 @@
 		"code":"510822106",
 		"fullCode":"510822106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木鱼镇",
 		"parentCode":"510822"
 	},
@@ -59,7 +59,7 @@
 		"code":"510822107",
 		"fullCode":"510822107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙州镇",
 		"parentCode":"510822"
 	},
@@ -67,7 +67,7 @@
 		"code":"510822108",
 		"fullCode":"510822108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚渡镇",
 		"parentCode":"510822"
 	},
@@ -75,7 +75,7 @@
 		"code":"510822109",
 		"fullCode":"510822109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三锅镇",
 		"parentCode":"510822"
 	},
@@ -83,7 +83,7 @@
 		"code":"510822111",
 		"fullCode":"510822111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建峰镇",
 		"parentCode":"510822"
 	},
@@ -91,7 +91,7 @@
 		"code":"510822112",
 		"fullCode":"510822112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐安镇",
 		"parentCode":"510822"
 	},
@@ -99,7 +99,7 @@
 		"code":"510822203",
 		"fullCode":"510822203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶坝乡",
 		"parentCode":"510822"
 	},
@@ -107,7 +107,7 @@
 		"code":"510822207",
 		"fullCode":"510822207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒿溪回族乡",
 		"parentCode":"510822"
 	},
@@ -115,7 +115,7 @@
 		"code":"510822210",
 		"fullCode":"510822210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲河乡",
 		"parentCode":"510822"
 	},
@@ -123,7 +123,7 @@
 		"code":"510822212",
 		"fullCode":"510822212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石坝乡",
 		"parentCode":"510822"
 	},
@@ -131,7 +131,7 @@
 		"code":"510822216",
 		"fullCode":"510822216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大院回族乡",
 		"parentCode":"510822"
 	},
@@ -139,7 +139,7 @@
 		"code":"510822220",
 		"fullCode":"510822220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七佛乡",
 		"parentCode":"510822"
 	},
@@ -147,7 +147,7 @@
 		"code":"510822224",
 		"fullCode":"510822224000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骑马乡",
 		"parentCode":"510822"
 	},
@@ -155,7 +155,7 @@
 		"code":"510822225",
 		"fullCode":"510822225000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音店乡",
 		"parentCode":"510822"
 	},
@@ -163,7 +163,7 @@
 		"code":"510822400",
 		"fullCode":"510822400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐家河国家级自然保护区",
 		"parentCode":"510822"
 	}

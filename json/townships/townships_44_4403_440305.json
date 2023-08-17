@@ -3,7 +3,7 @@
 		"code":"440305001",
 		"fullCode":"440305001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南头街道",
 		"parentCode":"440305"
 	},
@@ -11,7 +11,7 @@
 		"code":"440305002",
 		"fullCode":"440305002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山街道",
 		"parentCode":"440305"
 	},
@@ -19,7 +19,7 @@
 		"code":"440305003",
 		"fullCode":"440305003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河街道",
 		"parentCode":"440305"
 	},
@@ -27,7 +27,7 @@
 		"code":"440305005",
 		"fullCode":"440305005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蛇口街道",
 		"parentCode":"440305"
 	},
@@ -35,7 +35,7 @@
 		"code":"440305006",
 		"fullCode":"440305006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"招商街道",
 		"parentCode":"440305"
 	},
@@ -43,7 +43,7 @@
 		"code":"440305007",
 		"fullCode":"440305007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"粤海街道",
 		"parentCode":"440305"
 	},
@@ -51,7 +51,7 @@
 		"code":"440305008",
 		"fullCode":"440305008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃源街道",
 		"parentCode":"440305"
 	},
@@ -59,7 +59,7 @@
 		"code":"440305009",
 		"fullCode":"440305009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西丽街道",
 		"parentCode":"440305"
 	},
@@ -67,7 +67,7 @@
 		"code":"440305400",
 		"fullCode":"440305400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前海合作区",
 		"parentCode":"440305"
 	}

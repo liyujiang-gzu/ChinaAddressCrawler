@@ -3,7 +3,7 @@
 		"code":"513201100",
 		"fullCode":"513201100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马尔康镇",
 		"parentCode":"513201"
 	},
@@ -11,7 +11,7 @@
 		"code":"513201102",
 		"fullCode":"513201102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松岗镇",
 		"parentCode":"513201"
 	},
@@ -19,7 +19,7 @@
 		"code":"513201103",
 		"fullCode":"513201103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙尔宗镇",
 		"parentCode":"513201"
 	},
@@ -27,7 +27,7 @@
 		"code":"513201200",
 		"fullCode":"513201200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梭磨乡",
 		"parentCode":"513201"
 	},
@@ -35,7 +35,7 @@
 		"code":"513201201",
 		"fullCode":"513201201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白湾乡",
 		"parentCode":"513201"
 	},
@@ -43,7 +43,7 @@
 		"code":"513201202",
 		"fullCode":"513201202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"党坝乡",
 		"parentCode":"513201"
 	},
@@ -51,7 +51,7 @@
 		"code":"513201203",
 		"fullCode":"513201203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木尔宗乡",
 		"parentCode":"513201"
 	},
@@ -59,7 +59,7 @@
 		"code":"513201204",
 		"fullCode":"513201204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"脚木足乡",
 		"parentCode":"513201"
 	},
@@ -67,7 +67,7 @@
 		"code":"513201206",
 		"fullCode":"513201206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙尔甲乡",
 		"parentCode":"513201"
 	},
@@ -75,7 +75,7 @@
 		"code":"513201207",
 		"fullCode":"513201207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大藏乡",
 		"parentCode":"513201"
 	},
@@ -83,7 +83,7 @@
 		"code":"513201208",
 		"fullCode":"513201208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康山乡",
 		"parentCode":"513201"
 	},
@@ -91,7 +91,7 @@
 		"code":"513201209",
 		"fullCode":"513201209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草登乡",
 		"parentCode":"513201"
 	},
@@ -99,7 +99,7 @@
 		"code":"513201210",
 		"fullCode":"513201210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日部乡",
 		"parentCode":"513201"
 	}

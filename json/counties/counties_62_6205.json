@@ -3,7 +3,7 @@
 		"code":"620502",
 		"fullCode":"620502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"秦州区",
 		"parentCode":"6205"
 	},
@@ -11,7 +11,7 @@
 		"code":"620503",
 		"fullCode":"620503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"麦积区",
 		"parentCode":"6205"
 	},
@@ -19,7 +19,7 @@
 		"code":"620521",
 		"fullCode":"620521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"清水县",
 		"parentCode":"6205"
 	},
@@ -27,7 +27,7 @@
 		"code":"620522",
 		"fullCode":"620522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"秦安县",
 		"parentCode":"6205"
 	},
@@ -35,7 +35,7 @@
 		"code":"620523",
 		"fullCode":"620523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"甘谷县",
 		"parentCode":"6205"
 	},
@@ -43,7 +43,7 @@
 		"code":"620524",
 		"fullCode":"620524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武山县",
 		"parentCode":"6205"
 	},
@@ -51,7 +51,7 @@
 		"code":"620525",
 		"fullCode":"620525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"张家川回族自治县",
 		"parentCode":"6205"
 	}

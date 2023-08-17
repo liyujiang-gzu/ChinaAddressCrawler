@@ -3,7 +3,7 @@
 		"code":"330602001",
 		"fullCode":"330602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔山街道",
 		"parentCode":"330602"
 	},
@@ -11,7 +11,7 @@
 		"code":"330602002",
 		"fullCode":"330602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"府山街道",
 		"parentCode":"330602"
 	},
@@ -19,7 +19,7 @@
 		"code":"330602004",
 		"fullCode":"330602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北海街道",
 		"parentCode":"330602"
 	},
@@ -27,7 +27,7 @@
 		"code":"330602005",
 		"fullCode":"330602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"330602"
 	},
@@ -35,7 +35,7 @@
 		"code":"330602006",
 		"fullCode":"330602006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稽山街道",
 		"parentCode":"330602"
 	},
@@ -43,7 +43,7 @@
 		"code":"330602007",
 		"fullCode":"330602007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迪荡街道",
 		"parentCode":"330602"
 	},
@@ -51,7 +51,7 @@
 		"code":"330602008",
 		"fullCode":"330602008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖街道",
 		"parentCode":"330602"
 	},
@@ -59,7 +59,7 @@
 		"code":"330602009",
 		"fullCode":"330602009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵芝街道",
 		"parentCode":"330602"
 	},
@@ -67,7 +67,7 @@
 		"code":"330602010",
 		"fullCode":"330602010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东浦街道",
 		"parentCode":"330602"
 	},
@@ -75,7 +75,7 @@
 		"code":"330602011",
 		"fullCode":"330602011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鉴湖街道",
 		"parentCode":"330602"
 	},
@@ -83,7 +83,7 @@
 		"code":"330602012",
 		"fullCode":"330602012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斗门街道",
 		"parentCode":"330602"
 	},
@@ -91,7 +91,7 @@
 		"code":"330602013",
 		"fullCode":"330602013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皋埠街道",
 		"parentCode":"330602"
 	},
@@ -99,7 +99,7 @@
 		"code":"330602014",
 		"fullCode":"330602014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马山街道",
 		"parentCode":"330602"
 	},
@@ -107,7 +107,7 @@
 		"code":"330602015",
 		"fullCode":"330602015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙端街道",
 		"parentCode":"330602"
 	},
@@ -115,7 +115,7 @@
 		"code":"330602016",
 		"fullCode":"330602016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶堰街道",
 		"parentCode":"330602"
 	},
@@ -123,7 +123,7 @@
 		"code":"330602017",
 		"fullCode":"330602017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沥海街道",
 		"parentCode":"330602"
 	},
@@ -131,7 +131,7 @@
 		"code":"330602108",
 		"fullCode":"330602108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富盛镇",
 		"parentCode":"330602"
 	}

@@ -3,7 +3,7 @@
 		"code":"610430001",
 		"fullCode":"610430001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"610430"
 	},
@@ -11,7 +11,7 @@
 		"code":"610430101",
 		"fullCode":"610430101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官庄镇",
 		"parentCode":"610430"
 	},
@@ -19,7 +19,7 @@
 		"code":"610430103",
 		"fullCode":"610430103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方里镇",
 		"parentCode":"610430"
 	},
@@ -27,7 +27,7 @@
 		"code":"610430104",
 		"fullCode":"610430104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"润镇",
 		"parentCode":"610430"
 	},
@@ -35,7 +35,7 @@
 		"code":"610430105",
 		"fullCode":"610430105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车坞镇",
 		"parentCode":"610430"
 	},
@@ -43,7 +43,7 @@
 		"code":"610430106",
 		"fullCode":"610430106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁王镇",
 		"parentCode":"610430"
 	},
@@ -51,7 +51,7 @@
 		"code":"610430107",
 		"fullCode":"610430107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥镇",
 		"parentCode":"610430"
 	},
@@ -59,7 +59,7 @@
 		"code":"610430109",
 		"fullCode":"610430109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里塬镇",
 		"parentCode":"610430"
 	}

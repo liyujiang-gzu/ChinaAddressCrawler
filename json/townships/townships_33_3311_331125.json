@@ -3,7 +3,7 @@
 		"code":"331125001",
 		"fullCode":"331125001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浮云街道",
 		"parentCode":"331125"
 	},
@@ -11,7 +11,7 @@
 		"code":"331125002",
 		"fullCode":"331125002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元和街道",
 		"parentCode":"331125"
 	},
@@ -19,7 +19,7 @@
 		"code":"331125003",
 		"fullCode":"331125003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白龙山街道",
 		"parentCode":"331125"
 	},
@@ -27,7 +27,7 @@
 		"code":"331125004",
 		"fullCode":"331125004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰山街道",
 		"parentCode":"331125"
 	},
@@ -35,7 +35,7 @@
 		"code":"331125105",
 		"fullCode":"331125105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇头镇",
 		"parentCode":"331125"
 	},
@@ -43,7 +43,7 @@
 		"code":"331125106",
 		"fullCode":"331125106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石塘镇",
 		"parentCode":"331125"
 	},
@@ -51,7 +51,7 @@
 		"code":"331125107",
 		"fullCode":"331125107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紧水滩镇",
 		"parentCode":"331125"
 	},
@@ -59,7 +59,7 @@
 		"code":"331125201",
 		"fullCode":"331125201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雾溪畲族乡",
 		"parentCode":"331125"
 	},
@@ -67,7 +67,7 @@
 		"code":"331125202",
 		"fullCode":"331125202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安溪畲族乡",
 		"parentCode":"331125"
 	},
@@ -75,7 +75,7 @@
 		"code":"331125206",
 		"fullCode":"331125206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤石乡",
 		"parentCode":"331125"
 	}

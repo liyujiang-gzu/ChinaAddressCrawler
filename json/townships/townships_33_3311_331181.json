@@ -3,7 +3,7 @@
 		"code":"331181001",
 		"fullCode":"331181001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙渊街道",
 		"parentCode":"331181"
 	},
@@ -11,7 +11,7 @@
 		"code":"331181002",
 		"fullCode":"331181002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西街街道",
 		"parentCode":"331181"
 	},
@@ -19,7 +19,7 @@
 		"code":"331181003",
 		"fullCode":"331181003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"剑池街道",
 		"parentCode":"331181"
 	},
@@ -27,7 +27,7 @@
 		"code":"331181004",
 		"fullCode":"331181004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石达石街道",
 		"parentCode":"331181"
 	},
@@ -35,7 +35,7 @@
 		"code":"331181100",
 		"fullCode":"331181100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八都镇",
 		"parentCode":"331181"
 	},
@@ -43,7 +43,7 @@
 		"code":"331181101",
 		"fullCode":"331181101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上垟镇",
 		"parentCode":"331181"
 	},
@@ -51,7 +51,7 @@
 		"code":"331181102",
 		"fullCode":"331181102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小梅镇",
 		"parentCode":"331181"
 	},
@@ -59,7 +59,7 @@
 		"code":"331181103",
 		"fullCode":"331181103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查田镇",
 		"parentCode":"331181"
 	},
@@ -67,7 +67,7 @@
 		"code":"331181104",
 		"fullCode":"331181104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安仁镇",
 		"parentCode":"331181"
 	},
@@ -75,7 +75,7 @@
 		"code":"331181105",
 		"fullCode":"331181105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦溪镇",
 		"parentCode":"331181"
 	},
@@ -83,7 +83,7 @@
 		"code":"331181106",
 		"fullCode":"331181106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"住龙镇",
 		"parentCode":"331181"
 	},
@@ -91,7 +91,7 @@
 		"code":"331181107",
 		"fullCode":"331181107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屏南镇",
 		"parentCode":"331181"
 	},
@@ -99,7 +99,7 @@
 		"code":"331181200",
 		"fullCode":"331181200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰巨乡",
 		"parentCode":"331181"
 	},
@@ -107,7 +107,7 @@
 		"code":"331181202",
 		"fullCode":"331181202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝溪乡",
 		"parentCode":"331181"
 	},
@@ -115,7 +115,7 @@
 		"code":"331181203",
 		"fullCode":"331181203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹垟畲族乡",
 		"parentCode":"331181"
 	},
@@ -123,7 +123,7 @@
 		"code":"331181204",
 		"fullCode":"331181204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道太乡",
 		"parentCode":"331181"
 	},
@@ -131,7 +131,7 @@
 		"code":"331181205",
 		"fullCode":"331181205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩樟乡",
 		"parentCode":"331181"
 	},
@@ -139,7 +139,7 @@
 		"code":"331181206",
 		"fullCode":"331181206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北乡",
 		"parentCode":"331181"
 	},
@@ -147,7 +147,7 @@
 		"code":"331181207",
 		"fullCode":"331181207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙南乡",
 		"parentCode":"331181"
 	}

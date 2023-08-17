@@ -3,7 +3,7 @@
 		"code":"522726001",
 		"fullCode":"522726001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井城街道",
 		"parentCode":"522726"
 	},
@@ -11,7 +11,7 @@
 		"code":"522726108",
 		"fullCode":"522726108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百泉镇",
 		"parentCode":"522726"
 	},
@@ -19,7 +19,7 @@
 		"code":"522726109",
 		"fullCode":"522726109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"影山镇",
 		"parentCode":"522726"
 	},
@@ -27,7 +27,7 @@
 		"code":"522726110",
 		"fullCode":"522726110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"基长镇",
 		"parentCode":"522726"
 	},
@@ -35,7 +35,7 @@
 		"code":"522726111",
 		"fullCode":"522726111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下司镇",
 		"parentCode":"522726"
 	},
@@ -43,7 +43,7 @@
 		"code":"522726112",
 		"fullCode":"522726112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻尾镇",
 		"parentCode":"522726"
 	},
@@ -51,7 +51,7 @@
 		"code":"522726113",
 		"fullCode":"522726113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻万镇",
 		"parentCode":"522726"
 	},
@@ -59,7 +59,7 @@
 		"code":"522726114",
 		"fullCode":"522726114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上司镇",
 		"parentCode":"522726"
 	},
@@ -67,7 +67,7 @@
 		"code":"522726115",
 		"fullCode":"522726115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉水镇",
 		"parentCode":"522726"
 	}

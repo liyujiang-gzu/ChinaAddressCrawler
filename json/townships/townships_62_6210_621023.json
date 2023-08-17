@@ -3,7 +3,7 @@
 		"code":"621023100",
 		"fullCode":"621023100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"悦乐镇",
 		"parentCode":"621023"
 	},
@@ -11,7 +11,7 @@
 		"code":"621023101",
 		"fullCode":"621023101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柔远镇",
 		"parentCode":"621023"
 	},
@@ -19,7 +19,7 @@
 		"code":"621023102",
 		"fullCode":"621023102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元城镇",
 		"parentCode":"621023"
 	},
@@ -27,7 +27,7 @@
 		"code":"621023103",
 		"fullCode":"621023103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南梁镇",
 		"parentCode":"621023"
 	},
@@ -35,7 +35,7 @@
 		"code":"621023104",
 		"fullCode":"621023104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城壕镇",
 		"parentCode":"621023"
 	},
@@ -43,7 +43,7 @@
 		"code":"621023105",
 		"fullCode":"621023105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五蛟镇",
 		"parentCode":"621023"
 	},
@@ -51,7 +51,7 @@
 		"code":"621023202",
 		"fullCode":"621023202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上里塬乡",
 		"parentCode":"621023"
 	},
@@ -59,7 +59,7 @@
 		"code":"621023203",
 		"fullCode":"621023203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王咀子乡",
 		"parentCode":"621023"
 	},
@@ -67,7 +67,7 @@
 		"code":"621023204",
 		"fullCode":"621023204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马乡",
 		"parentCode":"621023"
 	},
@@ -75,7 +75,7 @@
 		"code":"621023205",
 		"fullCode":"621023205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀安乡",
 		"parentCode":"621023"
 	},
@@ -83,7 +83,7 @@
 		"code":"621023206",
 		"fullCode":"621023206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔川乡",
 		"parentCode":"621023"
 	},
@@ -91,7 +91,7 @@
 		"code":"621023207",
 		"fullCode":"621023207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔河乡",
 		"parentCode":"621023"
 	},
@@ -99,7 +99,7 @@
 		"code":"621023208",
 		"fullCode":"621023208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山庄乡",
 		"parentCode":"621023"
 	},
@@ -107,7 +107,7 @@
 		"code":"621023210",
 		"fullCode":"621023210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林镇乡",
 		"parentCode":"621023"
 	},
@@ -115,7 +115,7 @@
 		"code":"621023211",
 		"fullCode":"621023211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫坊畔乡",
 		"parentCode":"621023"
 	}

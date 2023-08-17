@@ -3,7 +3,7 @@
 		"code":"220602",
 		"fullCode":"220602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浑江区",
 		"parentCode":"2206"
 	},
@@ -11,7 +11,7 @@
 		"code":"220605",
 		"fullCode":"220605000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江源区",
 		"parentCode":"2206"
 	},
@@ -19,7 +19,7 @@
 		"code":"220621",
 		"fullCode":"220621000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"抚松县",
 		"parentCode":"2206"
 	},
@@ -27,7 +27,7 @@
 		"code":"220622",
 		"fullCode":"220622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"靖宇县",
 		"parentCode":"2206"
 	},
@@ -35,7 +35,7 @@
 		"code":"220623",
 		"fullCode":"220623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长白朝鲜族自治县",
 		"parentCode":"2206"
 	},
@@ -43,7 +43,7 @@
 		"code":"220681",
 		"fullCode":"220681000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临江市",
 		"parentCode":"2206"
 	}

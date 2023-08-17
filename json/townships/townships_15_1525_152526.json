@@ -3,7 +3,7 @@
 		"code":"152526100",
 		"fullCode":"152526100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴拉嘎尔高勒镇",
 		"parentCode":"152526"
 	},
@@ -11,7 +11,7 @@
 		"code":"152526101",
 		"fullCode":"152526101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦花镇",
 		"parentCode":"152526"
 	},
@@ -19,7 +19,7 @@
 		"code":"152526102",
 		"fullCode":"152526102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉仁高勒镇",
 		"parentCode":"152526"
 	},
@@ -27,7 +27,7 @@
 		"code":"152526103",
 		"fullCode":"152526103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浩勒图高勒镇",
 		"parentCode":"152526"
 	},
@@ -35,7 +35,7 @@
 		"code":"152526104",
 		"fullCode":"152526104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高日罕镇",
 		"parentCode":"152526"
 	},
@@ -43,7 +43,7 @@
 		"code":"152526200",
 		"fullCode":"152526200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦胡舒苏木",
 		"parentCode":"152526"
 	},
@@ -51,7 +51,7 @@
 		"code":"152526201",
 		"fullCode":"152526201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰哈拉嘎苏木",
 		"parentCode":"152526"
 	},
@@ -59,7 +59,7 @@
 		"code":"152526400",
 		"fullCode":"152526400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西乌旗白音华能源化工园区",
 		"parentCode":"152526"
 	},
@@ -67,7 +67,7 @@
 		"code":"152526500",
 		"fullCode":"152526500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林业总场",
 		"parentCode":"152526"
 	}

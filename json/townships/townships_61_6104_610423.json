@@ -3,7 +3,7 @@
 		"code":"610423001",
 		"fullCode":"610423001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泾干街道",
 		"parentCode":"610423"
 	},
@@ -11,7 +11,7 @@
 		"code":"610423101",
 		"fullCode":"610423101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乐镇",
 		"parentCode":"610423"
 	},
@@ -19,7 +19,7 @@
 		"code":"610423102",
 		"fullCode":"610423102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云阳镇",
 		"parentCode":"610423"
 	},
@@ -27,7 +27,7 @@
 		"code":"610423103",
 		"fullCode":"610423103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥底镇",
 		"parentCode":"610423"
 	},
@@ -35,7 +35,7 @@
 		"code":"610423104",
 		"fullCode":"610423104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王桥镇",
 		"parentCode":"610423"
 	},
@@ -43,7 +43,7 @@
 		"code":"610423105",
 		"fullCode":"610423105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"口镇",
 		"parentCode":"610423"
 	},
@@ -51,7 +51,7 @@
 		"code":"610423107",
 		"fullCode":"610423107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三渠镇",
 		"parentCode":"610423"
 	},
@@ -59,7 +59,7 @@
 		"code":"610423108",
 		"fullCode":"610423108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高庄镇",
 		"parentCode":"610423"
 	},
@@ -67,7 +67,7 @@
 		"code":"610423111",
 		"fullCode":"610423111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"610423"
 	},
@@ -75,7 +75,7 @@
 		"code":"610423112",
 		"fullCode":"610423112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇文镇",
 		"parentCode":"610423"
 	},
@@ -83,7 +83,7 @@
 		"code":"610423113",
 		"fullCode":"610423113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安吴镇",
 		"parentCode":"610423"
 	},
@@ -91,7 +91,7 @@
 		"code":"610423114",
 		"fullCode":"610423114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"610423"
 	},
@@ -99,7 +99,7 @@
 		"code":"610423115",
 		"fullCode":"610423115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中张镇",
 		"parentCode":"610423"
 	}

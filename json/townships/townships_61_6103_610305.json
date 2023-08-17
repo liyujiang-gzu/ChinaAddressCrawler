@@ -3,7 +3,7 @@
 		"code":"610305100",
 		"fullCode":"610305100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"610305"
 	},
@@ -11,7 +11,7 @@
 		"code":"610305101",
 		"fullCode":"610305101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虢王镇",
 		"parentCode":"610305"
 	},
@@ -19,7 +19,7 @@
 		"code":"610305102",
 		"fullCode":"610305102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彪角镇",
 		"parentCode":"610305"
 	},
@@ -27,7 +27,7 @@
 		"code":"610305103",
 		"fullCode":"610305103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横水镇",
 		"parentCode":"610305"
 	},
@@ -35,7 +35,7 @@
 		"code":"610305104",
 		"fullCode":"610305104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田家庄镇",
 		"parentCode":"610305"
 	},
@@ -43,7 +43,7 @@
 		"code":"610305105",
 		"fullCode":"610305105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"糜杆桥镇",
 		"parentCode":"610305"
 	},
@@ -51,7 +51,7 @@
 		"code":"610305107",
 		"fullCode":"610305107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南指挥镇",
 		"parentCode":"610305"
 	},
@@ -59,7 +59,7 @@
 		"code":"610305108",
 		"fullCode":"610305108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈村镇",
 		"parentCode":"610305"
 	},
@@ -67,7 +67,7 @@
 		"code":"610305109",
 		"fullCode":"610305109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长青镇",
 		"parentCode":"610305"
 	},
@@ -75,7 +75,7 @@
 		"code":"610305110",
 		"fullCode":"610305110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳林镇",
 		"parentCode":"610305"
 	},
@@ -83,7 +83,7 @@
 		"code":"610305111",
 		"fullCode":"610305111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚家沟镇",
 		"parentCode":"610305"
 	},
@@ -91,7 +91,7 @@
 		"code":"610305112",
 		"fullCode":"610305112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范家寨镇",
 		"parentCode":"610305"
 	}

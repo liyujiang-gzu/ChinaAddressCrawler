@@ -3,7 +3,7 @@
 		"code":"500107001",
 		"fullCode":"500107001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家坪街道",
 		"parentCode":"500107"
 	},
@@ -11,7 +11,7 @@
 		"code":"500107002",
 		"fullCode":"500107002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄桷坪街道",
 		"parentCode":"500107"
 	},
@@ -19,7 +19,7 @@
 		"code":"500107003",
 		"fullCode":"500107003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢家湾街道",
 		"parentCode":"500107"
 	},
@@ -27,7 +27,7 @@
 		"code":"500107004",
 		"fullCode":"500107004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石坪桥街道",
 		"parentCode":"500107"
 	},
@@ -35,7 +35,7 @@
 		"code":"500107005",
 		"fullCode":"500107005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥铺街道",
 		"parentCode":"500107"
 	},
@@ -43,7 +43,7 @@
 		"code":"500107006",
 		"fullCode":"500107006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中梁山街道",
 		"parentCode":"500107"
 	},
@@ -51,7 +51,7 @@
 		"code":"500107007",
 		"fullCode":"500107007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渝州路街道",
 		"parentCode":"500107"
 	},
@@ -59,7 +59,7 @@
 		"code":"500107008",
 		"fullCode":"500107008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二郎街道",
 		"parentCode":"500107"
 	},
@@ -67,7 +67,7 @@
 		"code":"500107009",
 		"fullCode":"500107009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙街道",
 		"parentCode":"500107"
 	},
@@ -75,7 +75,7 @@
 		"code":"500107102",
 		"fullCode":"500107102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华岩镇",
 		"parentCode":"500107"
 	},
@@ -83,7 +83,7 @@
 		"code":"500107103",
 		"fullCode":"500107103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"含谷镇",
 		"parentCode":"500107"
 	},
@@ -91,7 +91,7 @@
 		"code":"500107104",
 		"fullCode":"500107104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金凤镇",
 		"parentCode":"500107"
 	},
@@ -99,7 +99,7 @@
 		"code":"500107105",
 		"fullCode":"500107105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白市驿镇",
 		"parentCode":"500107"
 	},
@@ -107,7 +107,7 @@
 		"code":"500107106",
 		"fullCode":"500107106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"走马镇",
 		"parentCode":"500107"
 	},
@@ -115,7 +115,7 @@
 		"code":"500107107",
 		"fullCode":"500107107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石板镇",
 		"parentCode":"500107"
 	},
@@ -123,7 +123,7 @@
 		"code":"500107108",
 		"fullCode":"500107108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴福镇",
 		"parentCode":"500107"
 	},
@@ -131,7 +131,7 @@
 		"code":"500107109",
 		"fullCode":"500107109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶家镇",
 		"parentCode":"500107"
 	},
@@ -139,7 +139,7 @@
 		"code":"500107110",
 		"fullCode":"500107110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西彭镇",
 		"parentCode":"500107"
 	},
@@ -147,7 +147,7 @@
 		"code":"500107111",
 		"fullCode":"500107111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜罐驿镇",
 		"parentCode":"500107"
 	}

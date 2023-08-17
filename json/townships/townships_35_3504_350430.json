@@ -3,7 +3,7 @@
 		"code":"350430100",
 		"fullCode":"350430100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濉溪镇",
 		"parentCode":"350430"
 	},
@@ -11,7 +11,7 @@
 		"code":"350430101",
 		"fullCode":"350430101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里心镇",
 		"parentCode":"350430"
 	},
@@ -19,7 +19,7 @@
 		"code":"350430102",
 		"fullCode":"350430102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪口镇",
 		"parentCode":"350430"
 	},
@@ -27,7 +27,7 @@
 		"code":"350430103",
 		"fullCode":"350430103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"均口镇",
 		"parentCode":"350430"
 	},
@@ -35,7 +35,7 @@
 		"code":"350430201",
 		"fullCode":"350430201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊家乡",
 		"parentCode":"350430"
 	},
@@ -43,7 +43,7 @@
 		"code":"350430202",
 		"fullCode":"350430202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄坊乡",
 		"parentCode":"350430"
 	},
@@ -51,7 +51,7 @@
 		"code":"350430203",
 		"fullCode":"350430203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪源乡",
 		"parentCode":"350430"
 	},
@@ -59,7 +59,7 @@
 		"code":"350430204",
 		"fullCode":"350430204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"客坊乡",
 		"parentCode":"350430"
 	},
@@ -67,7 +67,7 @@
 		"code":"350430205",
 		"fullCode":"350430205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄埠乡",
 		"parentCode":"350430"
 	},
@@ -75,7 +75,7 @@
 		"code":"350430400",
 		"fullCode":"350430400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福建建宁经济开发区",
 		"parentCode":"350430"
 	}

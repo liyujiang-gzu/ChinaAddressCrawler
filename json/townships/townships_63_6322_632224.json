@@ -3,7 +3,7 @@
 		"code":"632224100",
 		"fullCode":"632224100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙柳河镇",
 		"parentCode":"632224"
 	},
@@ -11,7 +11,7 @@
 		"code":"632224101",
 		"fullCode":"632224101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈尔盖镇",
 		"parentCode":"632224"
 	},
@@ -19,7 +19,7 @@
 		"code":"632224200",
 		"fullCode":"632224200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊克乌兰乡",
 		"parentCode":"632224"
 	},
@@ -27,7 +27,7 @@
 		"code":"632224201",
 		"fullCode":"632224201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉吉乡",
 		"parentCode":"632224"
 	},
@@ -35,7 +35,7 @@
 		"code":"632224202",
 		"fullCode":"632224202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉尔孟乡",
 		"parentCode":"632224"
 	}

@@ -3,7 +3,7 @@
 		"code":"330303001",
 		"fullCode":"330303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永中街道",
 		"parentCode":"330303"
 	},
@@ -11,7 +11,7 @@
 		"code":"330303002",
 		"fullCode":"330303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲州街道",
 		"parentCode":"330303"
 	},
@@ -19,7 +19,7 @@
 		"code":"330303003",
 		"fullCode":"330303003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海滨街道",
 		"parentCode":"330303"
 	},
@@ -27,7 +27,7 @@
 		"code":"330303004",
 		"fullCode":"330303004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴街道",
 		"parentCode":"330303"
 	},
@@ -35,7 +35,7 @@
 		"code":"330303006",
 		"fullCode":"330303006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"状元街道",
 		"parentCode":"330303"
 	},
@@ -43,7 +43,7 @@
 		"code":"330303007",
 		"fullCode":"330303007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑶溪街道",
 		"parentCode":"330303"
 	},
@@ -51,7 +51,7 @@
 		"code":"330303012",
 		"fullCode":"330303012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海城街道",
 		"parentCode":"330303"
 	},
@@ -59,7 +59,7 @@
 		"code":"330303013",
 		"fullCode":"330303013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙城街道",
 		"parentCode":"330303"
 	},
@@ -67,7 +67,7 @@
 		"code":"330303014",
 		"fullCode":"330303014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天河街道",
 		"parentCode":"330303"
 	},
@@ -75,7 +75,7 @@
 		"code":"330303015",
 		"fullCode":"330303015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星海街道",
 		"parentCode":"330303"
 	}

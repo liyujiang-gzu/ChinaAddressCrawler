@@ -3,7 +3,7 @@
 		"code":"350604001",
 		"fullCode":"350604001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石码街道",
 		"parentCode":"350604"
 	},
@@ -11,7 +11,7 @@
 		"code":"350604100",
 		"fullCode":"350604100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海澄镇",
 		"parentCode":"350604"
 	},
@@ -19,7 +19,7 @@
 		"code":"350604101",
 		"fullCode":"350604101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"角美镇",
 		"parentCode":"350604"
 	},
@@ -27,7 +27,7 @@
 		"code":"350604102",
 		"fullCode":"350604102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白水镇",
 		"parentCode":"350604"
 	},
@@ -35,7 +35,7 @@
 		"code":"350604103",
 		"fullCode":"350604103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浮宫镇",
 		"parentCode":"350604"
 	},
@@ -43,7 +43,7 @@
 		"code":"350604104",
 		"fullCode":"350604104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程溪镇",
 		"parentCode":"350604"
 	},
@@ -51,7 +51,7 @@
 		"code":"350604105",
 		"fullCode":"350604105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港尾镇",
 		"parentCode":"350604"
 	},
@@ -59,7 +59,7 @@
 		"code":"350604106",
 		"fullCode":"350604106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九湖镇",
 		"parentCode":"350604"
 	},
@@ -67,7 +67,7 @@
 		"code":"350604107",
 		"fullCode":"350604107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"颜厝镇",
 		"parentCode":"350604"
 	},
@@ -75,7 +75,7 @@
 		"code":"350604108",
 		"fullCode":"350604108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榜山镇",
 		"parentCode":"350604"
 	},
@@ -83,7 +83,7 @@
 		"code":"350604109",
 		"fullCode":"350604109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫泥镇",
 		"parentCode":"350604"
 	},
@@ -91,7 +91,7 @@
 		"code":"350604110",
 		"fullCode":"350604110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东园镇",
 		"parentCode":"350604"
 	},
@@ -99,7 +99,7 @@
 		"code":"350604200",
 		"fullCode":"350604200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东泗乡",
 		"parentCode":"350604"
 	},
@@ -107,7 +107,7 @@
 		"code":"350604201",
 		"fullCode":"350604201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆教畲族乡",
 		"parentCode":"350604"
 	},
@@ -115,7 +115,7 @@
 		"code":"350604400",
 		"fullCode":"350604400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双第华侨农场",
 		"parentCode":"350604"
 	},
@@ -123,7 +123,7 @@
 		"code":"350604401",
 		"fullCode":"350604401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙岭林场",
 		"parentCode":"350604"
 	},
@@ -131,7 +131,7 @@
 		"code":"350604402",
 		"fullCode":"350604402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程溪农场",
 		"parentCode":"350604"
 	},
@@ -139,7 +139,7 @@
 		"code":"350604403",
 		"fullCode":"350604403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良种场",
 		"parentCode":"350604"
 	},
@@ -147,7 +147,7 @@
 		"code":"350604405",
 		"fullCode":"350604405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林下林场",
 		"parentCode":"350604"
 	},
@@ -155,7 +155,7 @@
 		"code":"350604501",
 		"fullCode":"350604501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"招商局漳州开发区",
 		"parentCode":"350604"
 	}

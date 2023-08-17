@@ -3,7 +3,7 @@
 		"code":"220721100",
 		"fullCode":"220721100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前郭尔罗斯镇",
 		"parentCode":"220721"
 	},
@@ -11,7 +11,7 @@
 		"code":"220721101",
 		"fullCode":"220721101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长山镇",
 		"parentCode":"220721"
 	},
@@ -19,7 +19,7 @@
 		"code":"220721102",
 		"fullCode":"220721102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海渤日戈镇",
 		"parentCode":"220721"
 	},
@@ -27,7 +27,7 @@
 		"code":"220721103",
 		"fullCode":"220721103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰图嘎镇",
 		"parentCode":"220721"
 	},
@@ -35,7 +35,7 @@
 		"code":"220721104",
 		"fullCode":"220721104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查干花镇",
 		"parentCode":"220721"
 	},
@@ -43,7 +43,7 @@
 		"code":"220721105",
 		"fullCode":"220721105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王府站镇",
 		"parentCode":"220721"
 	},
@@ -51,7 +51,7 @@
 		"code":"220721106",
 		"fullCode":"220721106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八郎镇",
 		"parentCode":"220721"
 	},
@@ -59,7 +59,7 @@
 		"code":"220721107",
 		"fullCode":"220721107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉毛都镇",
 		"parentCode":"220721"
 	},
@@ -67,7 +67,7 @@
 		"code":"220721108",
 		"fullCode":"220721108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查干湖镇",
 		"parentCode":"220721"
 	},
@@ -75,7 +75,7 @@
 		"code":"220721200",
 		"fullCode":"220721200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝甸乡",
 		"parentCode":"220721"
 	},
@@ -83,7 +83,7 @@
 		"code":"220721201",
 		"fullCode":"220721201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平凤乡",
 		"parentCode":"220721"
 	},
@@ -91,7 +91,7 @@
 		"code":"220721203",
 		"fullCode":"220721203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达里巴乡",
 		"parentCode":"220721"
 	},
@@ -99,7 +99,7 @@
 		"code":"220721204",
 		"fullCode":"220721204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉拉吐乡",
 		"parentCode":"220721"
 	},
@@ -107,7 +107,7 @@
 		"code":"220721205",
 		"fullCode":"220721205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白依拉嘎乡",
 		"parentCode":"220721"
 	},
@@ -115,7 +115,7 @@
 		"code":"220721206",
 		"fullCode":"220721206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪泉乡",
 		"parentCode":"220721"
 	},
@@ -123,7 +123,7 @@
 		"code":"220721207",
 		"fullCode":"220721207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"额如乡",
 		"parentCode":"220721"
 	},
@@ -131,7 +131,7 @@
 		"code":"220721208",
 		"fullCode":"220721208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"套浩太乡",
 		"parentCode":"220721"
 	},
@@ -139,7 +139,7 @@
 		"code":"220721209",
 		"fullCode":"220721209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长龙乡",
 		"parentCode":"220721"
 	},
@@ -147,7 +147,7 @@
 		"code":"220721210",
 		"fullCode":"220721210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰塔拉乡",
 		"parentCode":"220721"
 	},
@@ -155,7 +155,7 @@
 		"code":"220721211",
 		"fullCode":"220721211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东三家子乡",
 		"parentCode":"220721"
 	},
@@ -163,7 +163,7 @@
 		"code":"220721212",
 		"fullCode":"220721212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浩特芒哈乡",
 		"parentCode":"220721"
 	},
@@ -171,7 +171,7 @@
 		"code":"220721213",
 		"fullCode":"220721213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰敖都乡",
 		"parentCode":"220721"
 	},
@@ -179,7 +179,7 @@
 		"code":"220721400",
 		"fullCode":"220721400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗农场",
 		"parentCode":"220721"
 	},
@@ -187,7 +187,7 @@
 		"code":"220721401",
 		"fullCode":"220721401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红光农场",
 		"parentCode":"220721"
 	},
@@ -195,7 +195,7 @@
 		"code":"220721402",
 		"fullCode":"220721402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星牧场",
 		"parentCode":"220721"
 	},
@@ -203,7 +203,7 @@
 		"code":"220721403",
 		"fullCode":"220721403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查干花种畜场",
 		"parentCode":"220721"
 	},
@@ -211,7 +211,7 @@
 		"code":"220721404",
 		"fullCode":"220721404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花泡农场",
 		"parentCode":"220721"
 	},
@@ -219,7 +219,7 @@
 		"code":"220721405",
 		"fullCode":"220721405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"深井子牧场",
 		"parentCode":"220721"
 	},
@@ -227,7 +227,7 @@
 		"code":"220721406",
 		"fullCode":"220721406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前郭尔罗斯蒙古族自治县国有林总场",
 		"parentCode":"220721"
 	},
@@ -235,7 +235,7 @@
 		"code":"220721407",
 		"fullCode":"220721407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查干湖旅游经济开发区",
 		"parentCode":"220721"
 	},
@@ -243,7 +243,7 @@
 		"code":"220721408",
 		"fullCode":"220721408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八郎农场",
 		"parentCode":"220721"
 	},
@@ -251,7 +251,7 @@
 		"code":"220721409",
 		"fullCode":"220721409000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查干湖渔场",
 		"parentCode":"220721"
 	},
@@ -259,7 +259,7 @@
 		"code":"220721411",
 		"fullCode":"220721411000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长山余热鱼苗繁殖场",
 		"parentCode":"220721"
 	},
@@ -267,7 +267,7 @@
 		"code":"220721412",
 		"fullCode":"220721412000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"库里渔场",
 		"parentCode":"220721"
 	},
@@ -275,7 +275,7 @@
 		"code":"220721413",
 		"fullCode":"220721413000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉毛都良种场",
 		"parentCode":"220721"
 	},
@@ -283,7 +283,7 @@
 		"code":"220721415",
 		"fullCode":"220721415000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新庙泡渔场",
 		"parentCode":"220721"
 	},
@@ -291,7 +291,7 @@
 		"code":"220721417",
 		"fullCode":"220721417000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉林前郭经济技术开发区",
 		"parentCode":"220721"
 	}

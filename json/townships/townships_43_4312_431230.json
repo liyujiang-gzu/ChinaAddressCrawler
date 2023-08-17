@@ -3,7 +3,7 @@
 		"code":"431230100",
 		"fullCode":"431230100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双江镇",
 		"parentCode":"431230"
 	},
@@ -11,7 +11,7 @@
 		"code":"431230101",
 		"fullCode":"431230101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县溪镇",
 		"parentCode":"431230"
 	},
@@ -19,7 +19,7 @@
 		"code":"431230102",
 		"fullCode":"431230102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"播阳镇",
 		"parentCode":"431230"
 	},
@@ -27,7 +27,7 @@
 		"code":"431230104",
 		"fullCode":"431230104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牙屯堡镇",
 		"parentCode":"431230"
 	},
@@ -35,7 +35,7 @@
 		"code":"431230105",
 		"fullCode":"431230105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菁芜洲镇",
 		"parentCode":"431230"
 	},
@@ -43,7 +43,7 @@
 		"code":"431230106",
 		"fullCode":"431230106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪口镇",
 		"parentCode":"431230"
 	},
@@ -51,7 +51,7 @@
 		"code":"431230107",
 		"fullCode":"431230107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陇城镇",
 		"parentCode":"431230"
 	},
@@ -59,7 +59,7 @@
 		"code":"431230108",
 		"fullCode":"431230108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万佛山镇",
 		"parentCode":"431230"
 	},
@@ -67,7 +67,7 @@
 		"code":"431230109",
 		"fullCode":"431230109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"独坡镇",
 		"parentCode":"431230"
 	},
@@ -75,7 +75,7 @@
 		"code":"431230203",
 		"fullCode":"431230203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大高坪苗族乡",
 		"parentCode":"431230"
 	},
@@ -83,7 +83,7 @@
 		"code":"431230216",
 		"fullCode":"431230216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪坦乡",
 		"parentCode":"431230"
 	},
@@ -91,7 +91,7 @@
 		"code":"431230400",
 		"fullCode":"431230400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通道县地连林场",
 		"parentCode":"431230"
 	},
@@ -99,7 +99,7 @@
 		"code":"431230401",
 		"fullCode":"431230401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通道县播阳农场",
 		"parentCode":"431230"
 	}

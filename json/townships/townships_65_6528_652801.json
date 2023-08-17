@@ -3,7 +3,7 @@
 		"code":"652801001",
 		"fullCode":"652801001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结街道",
 		"parentCode":"652801"
 	},
@@ -11,7 +11,7 @@
 		"code":"652801002",
 		"fullCode":"652801002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨依巴格街道",
 		"parentCode":"652801"
 	},
@@ -19,7 +19,7 @@
 		"code":"652801003",
 		"fullCode":"652801003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天山街道",
 		"parentCode":"652801"
 	},
@@ -27,7 +27,7 @@
 		"code":"652801004",
 		"fullCode":"652801004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"652801"
 	},
@@ -35,7 +35,7 @@
 		"code":"652801005",
 		"fullCode":"652801005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设街道",
 		"parentCode":"652801"
 	},
@@ -43,7 +43,7 @@
 		"code":"652801006",
 		"fullCode":"652801006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳街道",
 		"parentCode":"652801"
 	},
@@ -51,7 +51,7 @@
 		"code":"652801007",
 		"fullCode":"652801007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨香街道",
 		"parentCode":"652801"
 	},
@@ -59,7 +59,7 @@
 		"code":"652801100",
 		"fullCode":"652801100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔什店镇",
 		"parentCode":"652801"
 	},
@@ -67,7 +67,7 @@
 		"code":"652801101",
 		"fullCode":"652801101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上户镇",
 		"parentCode":"652801"
 	},
@@ -75,7 +75,7 @@
 		"code":"652801102",
 		"fullCode":"652801102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"库尔勒市西尼尔镇",
 		"parentCode":"652801"
 	},
@@ -83,7 +83,7 @@
 		"code":"652801200",
 		"fullCode":"652801200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁克其乡",
 		"parentCode":"652801"
 	},
@@ -91,7 +91,7 @@
 		"code":"652801201",
 		"fullCode":"652801201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恰尔巴格乡",
 		"parentCode":"652801"
 	},
@@ -99,7 +99,7 @@
 		"code":"652801202",
 		"fullCode":"652801202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英下乡",
 		"parentCode":"652801"
 	},
@@ -107,7 +107,7 @@
 		"code":"652801203",
 		"fullCode":"652801203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"库尔勒市兰干乡",
 		"parentCode":"652801"
 	},
@@ -115,7 +115,7 @@
 		"code":"652801204",
 		"fullCode":"652801204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和什力克乡",
 		"parentCode":"652801"
 	},
@@ -123,7 +123,7 @@
 		"code":"652801205",
 		"fullCode":"652801205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉玉宫乡",
 		"parentCode":"652801"
 	},
@@ -131,7 +131,7 @@
 		"code":"652801206",
 		"fullCode":"652801206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿瓦提乡",
 		"parentCode":"652801"
 	},
@@ -139,7 +139,7 @@
 		"code":"652801207",
 		"fullCode":"652801207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"库尔勒市托布力其乡",
 		"parentCode":"652801"
 	},
@@ -147,7 +147,7 @@
 		"code":"652801208",
 		"fullCode":"652801208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普惠乡",
 		"parentCode":"652801"
 	},
@@ -155,7 +155,7 @@
 		"code":"652801400",
 		"fullCode":"652801400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"库尔楚园艺场",
 		"parentCode":"652801"
 	},
@@ -163,7 +163,7 @@
 		"code":"652801401",
 		"fullCode":"652801401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"包头湖农场",
 		"parentCode":"652801"
 	},
@@ -171,7 +171,7 @@
 		"code":"652801402",
 		"fullCode":"652801402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普惠农场",
 		"parentCode":"652801"
 	},
@@ -179,7 +179,7 @@
 		"code":"652801403",
 		"fullCode":"652801403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴州阿瓦提农场",
 		"parentCode":"652801"
 	},
@@ -187,7 +187,7 @@
 		"code":"652801404",
 		"fullCode":"652801404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴州沙依东园艺场",
 		"parentCode":"652801"
 	},
@@ -195,7 +195,7 @@
 		"code":"652801408",
 		"fullCode":"652801408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴州奶牛场",
 		"parentCode":"652801"
 	},
@@ -203,7 +203,7 @@
 		"code":"652801409",
 		"fullCode":"652801409000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普惠牧场",
 		"parentCode":"652801"
 	},
@@ -211,7 +211,7 @@
 		"code":"652801410",
 		"fullCode":"652801410000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"经济牧场",
 		"parentCode":"652801"
 	},
@@ -219,7 +219,7 @@
 		"code":"652801411",
 		"fullCode":"652801411000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良种场",
 		"parentCode":"652801"
 	}

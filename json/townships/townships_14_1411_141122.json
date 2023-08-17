@@ -3,7 +3,7 @@
 		"code":"141122100",
 		"fullCode":"141122100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天宁镇",
 		"parentCode":"141122"
 	},
@@ -11,7 +11,7 @@
 		"code":"141122101",
 		"fullCode":"141122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏家营镇",
 		"parentCode":"141122"
 	},
@@ -19,7 +19,7 @@
 		"code":"141122102",
 		"fullCode":"141122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西营镇",
 		"parentCode":"141122"
 	},
@@ -27,7 +27,7 @@
 		"code":"141122103",
 		"fullCode":"141122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水峪贯镇",
 		"parentCode":"141122"
 	},
@@ -35,7 +35,7 @@
 		"code":"141122104",
 		"fullCode":"141122104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西社镇",
 		"parentCode":"141122"
 	},
@@ -43,7 +43,7 @@
 		"code":"141122105",
 		"fullCode":"141122105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庞泉沟镇",
 		"parentCode":"141122"
 	},
@@ -51,7 +51,7 @@
 		"code":"141122106",
 		"fullCode":"141122106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪相镇",
 		"parentCode":"141122"
 	},
@@ -59,7 +59,7 @@
 		"code":"141122202",
 		"fullCode":"141122202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坡底乡",
 		"parentCode":"141122"
 	},
@@ -67,7 +67,7 @@
 		"code":"141122400",
 		"fullCode":"141122400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏家营生态工业园区",
 		"parentCode":"141122"
 	}

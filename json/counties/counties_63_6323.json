@@ -3,7 +3,7 @@
 		"code":"632301",
 		"fullCode":"632301000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"同仁市",
 		"parentCode":"6323"
 	},
@@ -11,7 +11,7 @@
 		"code":"632322",
 		"fullCode":"632322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"尖扎县",
 		"parentCode":"6323"
 	},
@@ -19,7 +19,7 @@
 		"code":"632323",
 		"fullCode":"632323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泽库县",
 		"parentCode":"6323"
 	},
@@ -27,7 +27,7 @@
 		"code":"632324",
 		"fullCode":"632324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"河南蒙古族自治县",
 		"parentCode":"6323"
 	}

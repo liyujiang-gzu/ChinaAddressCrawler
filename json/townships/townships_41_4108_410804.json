@@ -3,7 +3,7 @@
 		"code":"410804001",
 		"fullCode":"410804001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马村街道",
 		"parentCode":"410804"
 	},
@@ -11,7 +11,7 @@
 		"code":"410804002",
 		"fullCode":"410804002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武王街道",
 		"parentCode":"410804"
 	},
@@ -19,7 +19,7 @@
 		"code":"410804003",
 		"fullCode":"410804003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯营街道",
 		"parentCode":"410804"
 	},
@@ -27,7 +27,7 @@
 		"code":"410804004",
 		"fullCode":"410804004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九里山街道",
 		"parentCode":"410804"
 	},
@@ -35,7 +35,7 @@
 		"code":"410804005",
 		"fullCode":"410804005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"待王街道",
 		"parentCode":"410804"
 	},
@@ -43,7 +43,7 @@
 		"code":"410804006",
 		"fullCode":"410804006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安阳城街道",
 		"parentCode":"410804"
 	},
@@ -51,7 +51,7 @@
 		"code":"410804007",
 		"fullCode":"410804007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"演马街道",
 		"parentCode":"410804"
 	}

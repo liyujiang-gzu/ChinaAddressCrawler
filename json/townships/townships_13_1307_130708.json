@@ -3,7 +3,7 @@
 		"code":"130708100",
 		"fullCode":"130708100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔家庄镇",
 		"parentCode":"130708"
 	},
@@ -11,7 +11,7 @@
 		"code":"130708101",
 		"fullCode":"130708101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万全镇",
 		"parentCode":"130708"
 	},
@@ -19,7 +19,7 @@
 		"code":"130708102",
 		"fullCode":"130708102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洗马林镇",
 		"parentCode":"130708"
 	},
@@ -27,7 +27,7 @@
 		"code":"130708103",
 		"fullCode":"130708103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭磊庄镇",
 		"parentCode":"130708"
 	},
@@ -35,7 +35,7 @@
 		"code":"130708200",
 		"fullCode":"130708200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"膳房堡乡",
 		"parentCode":"130708"
 	},
@@ -43,7 +43,7 @@
 		"code":"130708201",
 		"fullCode":"130708201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北新屯乡",
 		"parentCode":"130708"
 	},
@@ -51,7 +51,7 @@
 		"code":"130708202",
 		"fullCode":"130708202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宣平堡乡",
 		"parentCode":"130708"
 	},
@@ -59,7 +59,7 @@
 		"code":"130708203",
 		"fullCode":"130708203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高庙堡乡",
 		"parentCode":"130708"
 	},
@@ -67,7 +67,7 @@
 		"code":"130708204",
 		"fullCode":"130708204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧堡乡",
 		"parentCode":"130708"
 	},
@@ -75,7 +75,7 @@
 		"code":"130708205",
 		"fullCode":"130708205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安家堡乡",
 		"parentCode":"130708"
 	},
@@ -83,7 +83,7 @@
 		"code":"130708206",
 		"fullCode":"130708206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北沙城乡",
 		"parentCode":"130708"
 	},
@@ -91,7 +91,7 @@
 		"code":"130708400",
 		"fullCode":"130708400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔家庄街道办事处",
 		"parentCode":"130708"
 	},
@@ -99,7 +99,7 @@
 		"code":"130708401",
 		"fullCode":"130708401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宣平街道办事处筹委会",
 		"parentCode":"130708"
 	}

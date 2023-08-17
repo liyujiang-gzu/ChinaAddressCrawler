@@ -3,7 +3,7 @@
 		"code":"140404001",
 		"fullCode":"140404001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩店街道",
 		"parentCode":"140404"
 	},
@@ -11,7 +11,7 @@
 		"code":"140404101",
 		"fullCode":"140404101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏店镇",
 		"parentCode":"140404"
 	},
@@ -19,7 +19,7 @@
 		"code":"140404102",
 		"fullCode":"140404102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荫城镇",
 		"parentCode":"140404"
 	},
@@ -27,7 +27,7 @@
 		"code":"140404103",
 		"fullCode":"140404103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西火镇",
 		"parentCode":"140404"
 	},
@@ -35,7 +35,7 @@
 		"code":"140404104",
 		"fullCode":"140404104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八义镇",
 		"parentCode":"140404"
 	},
@@ -43,7 +43,7 @@
 		"code":"140404106",
 		"fullCode":"140404106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郝家庄镇",
 		"parentCode":"140404"
 	},
@@ -51,7 +51,7 @@
 		"code":"140404107",
 		"fullCode":"140404107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南宋镇",
 		"parentCode":"140404"
 	},
@@ -59,7 +59,7 @@
 		"code":"140404201",
 		"fullCode":"140404201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西池乡",
 		"parentCode":"140404"
 	},
@@ -67,7 +67,7 @@
 		"code":"140404202",
 		"fullCode":"140404202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北呈乡",
 		"parentCode":"140404"
 	},
@@ -75,7 +75,7 @@
 		"code":"140404203",
 		"fullCode":"140404203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东和乡",
 		"parentCode":"140404"
 	},
@@ -83,7 +83,7 @@
 		"code":"140404400",
 		"fullCode":"140404400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振兴乡村生态文化旅游区",
 		"parentCode":"140404"
 	},
@@ -91,7 +91,7 @@
 		"code":"140404401",
 		"fullCode":"140404401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上党经济技术开发区",
 		"parentCode":"140404"
 	},
@@ -99,7 +99,7 @@
 		"code":"140404406",
 		"fullCode":"140404406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长治市经济技术开发区上党区部分",
 		"parentCode":"140404"
 	}

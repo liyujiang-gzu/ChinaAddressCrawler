@@ -3,7 +3,7 @@
 		"code":"140403",
 		"fullCode":"140403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"潞州区",
 		"parentCode":"1404"
 	},
@@ -11,7 +11,7 @@
 		"code":"140404",
 		"fullCode":"140404000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"上党区",
 		"parentCode":"1404"
 	},
@@ -19,7 +19,7 @@
 		"code":"140405",
 		"fullCode":"140405000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"屯留区",
 		"parentCode":"1404"
 	},
@@ -27,7 +27,7 @@
 		"code":"140406",
 		"fullCode":"140406000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"潞城区",
 		"parentCode":"1404"
 	},
@@ -35,7 +35,7 @@
 		"code":"140423",
 		"fullCode":"140423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"襄垣县",
 		"parentCode":"1404"
 	},
@@ -43,7 +43,7 @@
 		"code":"140425",
 		"fullCode":"140425000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平顺县",
 		"parentCode":"1404"
 	},
@@ -51,7 +51,7 @@
 		"code":"140426",
 		"fullCode":"140426000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黎城县",
 		"parentCode":"1404"
 	},
@@ -59,7 +59,7 @@
 		"code":"140427",
 		"fullCode":"140427000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"壶关县",
 		"parentCode":"1404"
 	},
@@ -67,7 +67,7 @@
 		"code":"140428",
 		"fullCode":"140428000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长子县",
 		"parentCode":"1404"
 	},
@@ -75,7 +75,7 @@
 		"code":"140429",
 		"fullCode":"140429000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武乡县",
 		"parentCode":"1404"
 	},
@@ -83,7 +83,7 @@
 		"code":"140430",
 		"fullCode":"140430000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沁县",
 		"parentCode":"1404"
 	},
@@ -91,7 +91,7 @@
 		"code":"140431",
 		"fullCode":"140431000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沁源县",
 		"parentCode":"1404"
 	},
@@ -99,7 +99,7 @@
 		"code":"140471",
 		"fullCode":"140471000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"山西长治高新技术产业园区",
 		"parentCode":"1404"
 	}

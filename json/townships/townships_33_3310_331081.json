@@ -3,7 +3,7 @@
 		"code":"331081001",
 		"fullCode":"331081001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平街道",
 		"parentCode":"331081"
 	},
@@ -11,7 +11,7 @@
 		"code":"331081002",
 		"fullCode":"331081002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"331081"
 	},
@@ -19,7 +19,7 @@
 		"code":"331081003",
 		"fullCode":"331081003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"331081"
 	},
@@ -27,7 +27,7 @@
 		"code":"331081004",
 		"fullCode":"331081004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"331081"
 	},
@@ -35,7 +35,7 @@
 		"code":"331081005",
 		"fullCode":"331081005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横峰街道",
 		"parentCode":"331081"
 	},
@@ -43,7 +43,7 @@
 		"code":"331081100",
 		"fullCode":"331081100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泽国镇",
 		"parentCode":"331081"
 	},
@@ -51,7 +51,7 @@
 		"code":"331081101",
 		"fullCode":"331081101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大溪镇",
 		"parentCode":"331081"
 	},
@@ -59,7 +59,7 @@
 		"code":"331081102",
 		"fullCode":"331081102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松门镇",
 		"parentCode":"331081"
 	},
@@ -67,7 +67,7 @@
 		"code":"331081103",
 		"fullCode":"331081103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"箬横镇",
 		"parentCode":"331081"
 	},
@@ -75,7 +75,7 @@
 		"code":"331081104",
 		"fullCode":"331081104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新河镇",
 		"parentCode":"331081"
 	},
@@ -83,7 +83,7 @@
 		"code":"331081105",
 		"fullCode":"331081105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石塘镇",
 		"parentCode":"331081"
 	},
@@ -91,7 +91,7 @@
 		"code":"331081106",
 		"fullCode":"331081106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海镇",
 		"parentCode":"331081"
 	},
@@ -99,7 +99,7 @@
 		"code":"331081107",
 		"fullCode":"331081107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温峤镇",
 		"parentCode":"331081"
 	},
@@ -107,7 +107,7 @@
 		"code":"331081108",
 		"fullCode":"331081108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南镇",
 		"parentCode":"331081"
 	},
@@ -115,7 +115,7 @@
 		"code":"331081109",
 		"fullCode":"331081109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥头镇",
 		"parentCode":"331081"
 	},
@@ -123,7 +123,7 @@
 		"code":"331081110",
 		"fullCode":"331081110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坞根镇",
 		"parentCode":"331081"
 	},
@@ -131,7 +131,7 @@
 		"code":"331081400",
 		"fullCode":"331081400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东部新区",
 		"parentCode":"331081"
 	}

@@ -3,7 +3,7 @@
 		"code":"150702",
 		"fullCode":"150702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海拉尔区",
 		"parentCode":"1507"
 	},
@@ -11,7 +11,7 @@
 		"code":"150703",
 		"fullCode":"150703000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"扎赉诺尔区",
 		"parentCode":"1507"
 	},
@@ -19,7 +19,7 @@
 		"code":"150721",
 		"fullCode":"150721000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿荣旗",
 		"parentCode":"1507"
 	},
@@ -27,7 +27,7 @@
 		"code":"150722",
 		"fullCode":"150722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"莫力达瓦达斡尔族自治旗",
 		"parentCode":"1507"
 	},
@@ -35,7 +35,7 @@
 		"code":"150723",
 		"fullCode":"150723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鄂伦春自治旗",
 		"parentCode":"1507"
 	},
@@ -43,7 +43,7 @@
 		"code":"150724",
 		"fullCode":"150724000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鄂温克族自治旗",
 		"parentCode":"1507"
 	},
@@ -51,7 +51,7 @@
 		"code":"150725",
 		"fullCode":"150725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"陈巴尔虎旗",
 		"parentCode":"1507"
 	},
@@ -59,7 +59,7 @@
 		"code":"150726",
 		"fullCode":"150726000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新巴尔虎左旗",
 		"parentCode":"1507"
 	},
@@ -67,7 +67,7 @@
 		"code":"150727",
 		"fullCode":"150727000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新巴尔虎右旗",
 		"parentCode":"1507"
 	},
@@ -75,7 +75,7 @@
 		"code":"150781",
 		"fullCode":"150781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"满洲里市",
 		"parentCode":"1507"
 	},
@@ -83,7 +83,7 @@
 		"code":"150782",
 		"fullCode":"150782000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"牙克石市",
 		"parentCode":"1507"
 	},
@@ -91,7 +91,7 @@
 		"code":"150783",
 		"fullCode":"150783000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"扎兰屯市",
 		"parentCode":"1507"
 	},
@@ -99,7 +99,7 @@
 		"code":"150784",
 		"fullCode":"150784000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"额尔古纳市",
 		"parentCode":"1507"
 	},
@@ -107,7 +107,7 @@
 		"code":"150785",
 		"fullCode":"150785000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"根河市",
 		"parentCode":"1507"
 	}

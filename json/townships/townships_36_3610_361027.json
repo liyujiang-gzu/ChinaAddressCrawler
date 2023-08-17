@@ -3,7 +3,7 @@
 		"code":"361027100",
 		"fullCode":"361027100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀谷镇",
 		"parentCode":"361027"
 	},
@@ -11,7 +11,7 @@
 		"code":"361027101",
 		"fullCode":"361027101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浒湾镇",
 		"parentCode":"361027"
 	},
@@ -19,7 +19,7 @@
 		"code":"361027102",
 		"fullCode":"361027102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双塘镇",
 		"parentCode":"361027"
 	},
@@ -27,7 +27,7 @@
 		"code":"361027103",
 		"fullCode":"361027103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何源镇",
 		"parentCode":"361027"
 	},
@@ -35,7 +35,7 @@
 		"code":"361027104",
 		"fullCode":"361027104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合市镇",
 		"parentCode":"361027"
 	},
@@ -43,7 +43,7 @@
 		"code":"361027105",
 		"fullCode":"361027105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琅琚镇",
 		"parentCode":"361027"
 	},
@@ -51,7 +51,7 @@
 		"code":"361027106",
 		"fullCode":"361027106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"左坊镇",
 		"parentCode":"361027"
 	},
@@ -59,7 +59,7 @@
 		"code":"361027107",
 		"fullCode":"361027107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"对桥镇",
 		"parentCode":"361027"
 	},
@@ -67,7 +67,7 @@
 		"code":"361027200",
 		"fullCode":"361027200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄通乡",
 		"parentCode":"361027"
 	},
@@ -75,7 +75,7 @@
 		"code":"361027202",
 		"fullCode":"361027202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陆坊乡",
 		"parentCode":"361027"
 	},
@@ -83,7 +83,7 @@
 		"code":"361027203",
 		"fullCode":"361027203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈坊积乡",
 		"parentCode":"361027"
 	},
@@ -91,7 +91,7 @@
 		"code":"361027204",
 		"fullCode":"361027204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琉璃乡",
 		"parentCode":"361027"
 	},
@@ -99,7 +99,7 @@
 		"code":"361027205",
 		"fullCode":"361027205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门乡",
 		"parentCode":"361027"
 	},
@@ -107,7 +107,7 @@
 		"code":"361027400",
 		"fullCode":"361027400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华侨管理区",
 		"parentCode":"361027"
 	},
@@ -115,7 +115,7 @@
 		"code":"361027401",
 		"fullCode":"361027401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江西金溪工业园区管理委员会",
 		"parentCode":"361027"
 	}

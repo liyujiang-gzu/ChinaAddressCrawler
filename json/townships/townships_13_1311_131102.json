@@ -3,7 +3,7 @@
 		"code":"131102001",
 		"fullCode":"131102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西街道",
 		"parentCode":"131102"
 	},
@@ -11,7 +11,7 @@
 		"code":"131102002",
 		"fullCode":"131102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东街道",
 		"parentCode":"131102"
 	},
@@ -19,7 +19,7 @@
 		"code":"131102003",
 		"fullCode":"131102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路北街道",
 		"parentCode":"131102"
 	},
@@ -27,7 +27,7 @@
 		"code":"131102004",
 		"fullCode":"131102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华大街街道",
 		"parentCode":"131102"
 	},
@@ -35,7 +35,7 @@
 		"code":"131102100",
 		"fullCode":"131102100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑家河沿镇",
 		"parentCode":"131102"
 	},
@@ -43,7 +43,7 @@
 		"code":"131102101",
 		"fullCode":"131102101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵家圈镇",
 		"parentCode":"131102"
 	},
@@ -51,7 +51,7 @@
 		"code":"131102102",
 		"fullCode":"131102102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓庄镇",
 		"parentCode":"131102"
 	},
@@ -59,7 +59,7 @@
 		"code":"131102200",
 		"fullCode":"131102200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何家庄乡",
 		"parentCode":"131102"
 	}

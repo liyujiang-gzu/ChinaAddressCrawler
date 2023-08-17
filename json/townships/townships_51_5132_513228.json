@@ -3,7 +3,7 @@
 		"code":"513228100",
 		"fullCode":"513228100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦花镇",
 		"parentCode":"513228"
 	},
@@ -11,7 +11,7 @@
 		"code":"513228101",
 		"fullCode":"513228101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡龙镇",
 		"parentCode":"513228"
 	},
@@ -19,7 +19,7 @@
 		"code":"513228102",
 		"fullCode":"513228102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"色尔古镇",
 		"parentCode":"513228"
 	},
@@ -27,7 +27,7 @@
 		"code":"513228103",
 		"fullCode":"513228103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西尔镇",
 		"parentCode":"513228"
 	},
@@ -35,7 +35,7 @@
 		"code":"513228104",
 		"fullCode":"513228104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木苏镇",
 		"parentCode":"513228"
 	},
@@ -43,7 +43,7 @@
 		"code":"513228105",
 		"fullCode":"513228105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙石多镇",
 		"parentCode":"513228"
 	},
@@ -51,7 +51,7 @@
 		"code":"513228106",
 		"fullCode":"513228106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"知木林镇",
 		"parentCode":"513228"
 	},
@@ -59,7 +59,7 @@
 		"code":"513228107",
 		"fullCode":"513228107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎窝镇",
 		"parentCode":"513228"
 	},
@@ -67,7 +67,7 @@
 		"code":"513228204",
 		"fullCode":"513228204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦钵梁子乡",
 		"parentCode":"513228"
 	},
@@ -75,7 +75,7 @@
 		"code":"513228206",
 		"fullCode":"513228206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石碉楼乡",
 		"parentCode":"513228"
 	},
@@ -83,7 +83,7 @@
 		"code":"513228207",
 		"fullCode":"513228207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙坝乡",
 		"parentCode":"513228"
 	},
@@ -91,7 +91,7 @@
 		"code":"513228208",
 		"fullCode":"513228208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛多乡",
 		"parentCode":"513228"
 	},
@@ -99,7 +99,7 @@
 		"code":"513228210",
 		"fullCode":"513228210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"维古乡",
 		"parentCode":"513228"
 	},
@@ -107,7 +107,7 @@
 		"code":"513228213",
 		"fullCode":"513228213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晴朗乡",
 		"parentCode":"513228"
 	},
@@ -115,7 +115,7 @@
 		"code":"513228214",
 		"fullCode":"513228214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"慈坝乡",
 		"parentCode":"513228"
 	}

@@ -3,7 +3,7 @@
 		"code":"632821100",
 		"fullCode":"632821100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"希里沟镇",
 		"parentCode":"632821"
 	},
@@ -11,7 +11,7 @@
 		"code":"632821101",
 		"fullCode":"632821101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶卡镇",
 		"parentCode":"632821"
 	},
@@ -19,7 +19,7 @@
 		"code":"632821102",
 		"fullCode":"632821102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯柯镇",
 		"parentCode":"632821"
 	},
@@ -27,7 +27,7 @@
 		"code":"632821103",
 		"fullCode":"632821103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜普镇",
 		"parentCode":"632821"
 	},
@@ -35,7 +35,7 @@
 		"code":"632821500",
 		"fullCode":"632821500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海西州莫河畜牧场",
 		"parentCode":"632821"
 	}

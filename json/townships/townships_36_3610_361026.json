@@ -3,7 +3,7 @@
 		"code":"361026100",
 		"fullCode":"361026100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤冈镇",
 		"parentCode":"361026"
 	},
@@ -11,7 +11,7 @@
 		"code":"361026101",
 		"fullCode":"361026101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棠阴镇",
 		"parentCode":"361026"
 	},
@@ -19,7 +19,7 @@
 		"code":"361026102",
 		"fullCode":"361026102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄陂镇",
 		"parentCode":"361026"
 	},
@@ -27,7 +27,7 @@
 		"code":"361026103",
 		"fullCode":"361026103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东陂镇",
 		"parentCode":"361026"
 	},
@@ -35,7 +35,7 @@
 		"code":"361026104",
 		"fullCode":"361026104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨溪镇",
 		"parentCode":"361026"
 	},
@@ -43,7 +43,7 @@
 		"code":"361026105",
 		"fullCode":"361026105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二都镇",
 		"parentCode":"361026"
 	},
@@ -51,7 +51,7 @@
 		"code":"361026106",
 		"fullCode":"361026106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中港镇",
 		"parentCode":"361026"
 	},
@@ -59,7 +59,7 @@
 		"code":"361026107",
 		"fullCode":"361026107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃陂镇",
 		"parentCode":"361026"
 	},
@@ -67,7 +67,7 @@
 		"code":"361026201",
 		"fullCode":"361026201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新丰乡",
 		"parentCode":"361026"
 	},
@@ -75,7 +75,7 @@
 		"code":"361026202",
 		"fullCode":"361026202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神岗乡",
 		"parentCode":"361026"
 	},
@@ -83,7 +83,7 @@
 		"code":"361026203",
 		"fullCode":"361026203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圳口乡",
 		"parentCode":"361026"
 	},
@@ -91,7 +91,7 @@
 		"code":"361026204",
 		"fullCode":"361026204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南源乡",
 		"parentCode":"361026"
 	},
@@ -99,7 +99,7 @@
 		"code":"361026400",
 		"fullCode":"361026400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄柏岭垦殖场",
 		"parentCode":"361026"
 	},
@@ -107,7 +107,7 @@
 		"code":"361026401",
 		"fullCode":"361026401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青年垦殖场",
 		"parentCode":"361026"
 	},
@@ -115,7 +115,7 @@
 		"code":"361026500",
 		"fullCode":"361026500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜黄县工业园区",
 		"parentCode":"361026"
 	}

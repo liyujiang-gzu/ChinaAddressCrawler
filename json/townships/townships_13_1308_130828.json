@@ -3,7 +3,7 @@
 		"code":"130828100",
 		"fullCode":"130828100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"围场镇",
 		"parentCode":"130828"
 	},
@@ -11,7 +11,7 @@
 		"code":"130828101",
 		"fullCode":"130828101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四合永镇",
 		"parentCode":"130828"
 	},
@@ -19,7 +19,7 @@
 		"code":"130828102",
 		"fullCode":"130828102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克勒沟镇",
 		"parentCode":"130828"
 	},
@@ -27,7 +27,7 @@
 		"code":"130828103",
 		"fullCode":"130828103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棋盘山镇",
 		"parentCode":"130828"
 	},
@@ -35,7 +35,7 @@
 		"code":"130828104",
 		"fullCode":"130828104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半截塔镇",
 		"parentCode":"130828"
 	},
@@ -43,7 +43,7 @@
 		"code":"130828105",
 		"fullCode":"130828105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳地镇",
 		"parentCode":"130828"
 	},
@@ -51,7 +51,7 @@
 		"code":"130828106",
 		"fullCode":"130828106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳湾镇",
 		"parentCode":"130828"
 	},
@@ -59,7 +59,7 @@
 		"code":"130828107",
 		"fullCode":"130828107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰站镇",
 		"parentCode":"130828"
 	},
@@ -67,7 +67,7 @@
 		"code":"130828108",
 		"fullCode":"130828108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头山镇",
 		"parentCode":"130828"
 	},
@@ -75,7 +75,7 @@
 		"code":"130828109",
 		"fullCode":"130828109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新拨镇",
 		"parentCode":"130828"
 	},
@@ -83,7 +83,7 @@
 		"code":"130828110",
 		"fullCode":"130828110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"御道口镇",
 		"parentCode":"130828"
 	},
@@ -91,7 +91,7 @@
 		"code":"130828111",
 		"fullCode":"130828111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城子镇",
 		"parentCode":"130828"
 	},
@@ -99,7 +99,7 @@
 		"code":"130828112",
 		"fullCode":"130828112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新地镇",
 		"parentCode":"130828"
 	},
@@ -107,7 +107,7 @@
 		"code":"130828113",
 		"fullCode":"130828113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈里哈镇",
 		"parentCode":"130828"
 	},
@@ -115,7 +115,7 @@
 		"code":"130828200",
 		"fullCode":"130828200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道坝子乡",
 		"parentCode":"130828"
 	},
@@ -123,7 +123,7 @@
 		"code":"130828203",
 		"fullCode":"130828203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄土坎乡",
 		"parentCode":"130828"
 	},
@@ -131,7 +131,7 @@
 		"code":"130828204",
 		"fullCode":"130828204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四道沟乡",
 		"parentCode":"130828"
 	},
@@ -139,7 +139,7 @@
 		"code":"130828205",
 		"fullCode":"130828205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰旗卡伦乡",
 		"parentCode":"130828"
 	},
@@ -147,7 +147,7 @@
 		"code":"130828206",
 		"fullCode":"130828206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银窝沟乡",
 		"parentCode":"130828"
 	},
@@ -155,7 +155,7 @@
 		"code":"130828208",
 		"fullCode":"130828208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广发永乡",
 		"parentCode":"130828"
 	},
@@ -163,7 +163,7 @@
 		"code":"130828209",
 		"fullCode":"130828209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"育太和乡",
 		"parentCode":"130828"
 	},
@@ -171,7 +171,7 @@
 		"code":"130828210",
 		"fullCode":"130828210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭家湾乡",
 		"parentCode":"130828"
 	},
@@ -179,7 +179,7 @@
 		"code":"130828211",
 		"fullCode":"130828211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家湾乡",
 		"parentCode":"130828"
 	},
@@ -187,7 +187,7 @@
 		"code":"130828212",
 		"fullCode":"130828212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大唤起乡",
 		"parentCode":"130828"
 	},
@@ -195,7 +195,7 @@
 		"code":"130828215",
 		"fullCode":"130828215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家湾乡",
 		"parentCode":"130828"
 	},
@@ -203,7 +203,7 @@
 		"code":"130828216",
 		"fullCode":"130828216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝元栈乡",
 		"parentCode":"130828"
 	},
@@ -211,7 +211,7 @@
 		"code":"130828217",
 		"fullCode":"130828217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山湾子乡",
 		"parentCode":"130828"
 	},
@@ -219,7 +219,7 @@
 		"code":"130828218",
 		"fullCode":"130828218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三义永乡",
 		"parentCode":"130828"
 	},
@@ -227,7 +227,7 @@
 		"code":"130828219",
 		"fullCode":"130828219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜家店乡",
 		"parentCode":"130828"
 	},
@@ -235,7 +235,7 @@
 		"code":"130828220",
 		"fullCode":"130828220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下伙房乡",
 		"parentCode":"130828"
 	},
@@ -243,7 +243,7 @@
 		"code":"130828221",
 		"fullCode":"130828221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕格柏乡",
 		"parentCode":"130828"
 	},
@@ -251,7 +251,7 @@
 		"code":"130828222",
 		"fullCode":"130828222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牌楼乡",
 		"parentCode":"130828"
 	},
@@ -259,7 +259,7 @@
 		"code":"130828224",
 		"fullCode":"130828224000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老窝铺乡",
 		"parentCode":"130828"
 	},
@@ -267,7 +267,7 @@
 		"code":"130828226",
 		"fullCode":"130828226000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桌子乡",
 		"parentCode":"130828"
 	},
@@ -275,7 +275,7 @@
 		"code":"130828227",
 		"fullCode":"130828227000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大头山乡",
 		"parentCode":"130828"
 	},
@@ -283,7 +283,7 @@
 		"code":"130828228",
 		"fullCode":"130828228000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山嘴乡",
 		"parentCode":"130828"
 	},
@@ -291,7 +291,7 @@
 		"code":"130828229",
 		"fullCode":"130828229000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西龙头乡",
 		"parentCode":"130828"
 	},
@@ -299,7 +299,7 @@
 		"code":"130828450",
 		"fullCode":"130828450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塞罕坝机械林场",
 		"parentCode":"130828"
 	},
@@ -307,7 +307,7 @@
 		"code":"130828500",
 		"fullCode":"130828500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营御道口牧场",
 		"parentCode":"130828"
 	}

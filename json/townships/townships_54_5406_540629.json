@@ -3,7 +3,7 @@
 		"code":"540629100",
 		"fullCode":"540629100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼玛镇",
 		"parentCode":"540629"
 	},
@@ -11,7 +11,7 @@
 		"code":"540629201",
 		"fullCode":"540629201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卓尼乡",
 		"parentCode":"540629"
 	},
@@ -19,7 +19,7 @@
 		"code":"540629202",
 		"fullCode":"540629202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达果乡",
 		"parentCode":"540629"
 	},
@@ -27,7 +27,7 @@
 		"code":"540629203",
 		"fullCode":"540629203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿索乡",
 		"parentCode":"540629"
 	},
@@ -35,7 +35,7 @@
 		"code":"540629204",
 		"fullCode":"540629204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣玛乡",
 		"parentCode":"540629"
 	},
@@ -43,7 +43,7 @@
 		"code":"540629205",
 		"fullCode":"540629205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中仓乡",
 		"parentCode":"540629"
 	},
@@ -51,7 +51,7 @@
 		"code":"540629206",
 		"fullCode":"540629206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"来多乡",
 		"parentCode":"540629"
 	},
@@ -59,7 +59,7 @@
 		"code":"540629207",
 		"fullCode":"540629207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"申亚乡",
 		"parentCode":"540629"
 	},
@@ -67,7 +67,7 @@
 		"code":"540629208",
 		"fullCode":"540629208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卓瓦乡",
 		"parentCode":"540629"
 	},
@@ -75,7 +75,7 @@
 		"code":"540629209",
 		"fullCode":"540629209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俄久乡",
 		"parentCode":"540629"
 	},
@@ -83,7 +83,7 @@
 		"code":"540629210",
 		"fullCode":"540629210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文部乡",
 		"parentCode":"540629"
 	},
@@ -91,7 +91,7 @@
 		"code":"540629211",
 		"fullCode":"540629211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲谷乡",
 		"parentCode":"540629"
 	},
@@ -99,7 +99,7 @@
 		"code":"540629212",
 		"fullCode":"540629212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"军仓乡",
 		"parentCode":"540629"
 	},
@@ -107,7 +107,7 @@
 		"code":"540629219",
 		"fullCode":"540629219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉瓦乡",
 		"parentCode":"540629"
 	}

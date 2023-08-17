@@ -3,7 +3,7 @@
 		"code":"350602",
 		"fullCode":"350602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"芗城区",
 		"parentCode":"3506"
 	},
@@ -11,7 +11,7 @@
 		"code":"350603",
 		"fullCode":"350603000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙文区",
 		"parentCode":"3506"
 	},
@@ -19,7 +19,7 @@
 		"code":"350604",
 		"fullCode":"350604000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙海区",
 		"parentCode":"3506"
 	},
@@ -27,7 +27,7 @@
 		"code":"350605",
 		"fullCode":"350605000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长泰区",
 		"parentCode":"3506"
 	},
@@ -35,7 +35,7 @@
 		"code":"350622",
 		"fullCode":"350622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"云霄县",
 		"parentCode":"3506"
 	},
@@ -43,7 +43,7 @@
 		"code":"350623",
 		"fullCode":"350623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"漳浦县",
 		"parentCode":"3506"
 	},
@@ -51,7 +51,7 @@
 		"code":"350624",
 		"fullCode":"350624000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"诏安县",
 		"parentCode":"3506"
 	},
@@ -59,7 +59,7 @@
 		"code":"350626",
 		"fullCode":"350626000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东山县",
 		"parentCode":"3506"
 	},
@@ -67,7 +67,7 @@
 		"code":"350627",
 		"fullCode":"350627000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南靖县",
 		"parentCode":"3506"
 	},
@@ -75,7 +75,7 @@
 		"code":"350628",
 		"fullCode":"350628000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平和县",
 		"parentCode":"3506"
 	},
@@ -83,7 +83,7 @@
 		"code":"350629",
 		"fullCode":"350629000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"华安县",
 		"parentCode":"3506"
 	}

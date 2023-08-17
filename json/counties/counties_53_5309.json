@@ -3,7 +3,7 @@
 		"code":"530902",
 		"fullCode":"530902000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临翔区",
 		"parentCode":"5309"
 	},
@@ -11,7 +11,7 @@
 		"code":"530921",
 		"fullCode":"530921000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凤庆县",
 		"parentCode":"5309"
 	},
@@ -19,7 +19,7 @@
 		"code":"530922",
 		"fullCode":"530922000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"云县",
 		"parentCode":"5309"
 	},
@@ -27,7 +27,7 @@
 		"code":"530923",
 		"fullCode":"530923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永德县",
 		"parentCode":"5309"
 	},
@@ -35,7 +35,7 @@
 		"code":"530924",
 		"fullCode":"530924000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"镇康县",
 		"parentCode":"5309"
 	},
@@ -43,7 +43,7 @@
 		"code":"530925",
 		"fullCode":"530925000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"双江拉祜族佤族布朗族傣族自治县",
 		"parentCode":"5309"
 	},
@@ -51,7 +51,7 @@
 		"code":"530926",
 		"fullCode":"530926000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"耿马傣族佤族自治县",
 		"parentCode":"5309"
 	},
@@ -59,7 +59,7 @@
 		"code":"530927",
 		"fullCode":"530927000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沧源佤族自治县",
 		"parentCode":"5309"
 	}

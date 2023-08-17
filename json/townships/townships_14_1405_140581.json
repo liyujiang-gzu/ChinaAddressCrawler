@@ -3,7 +3,7 @@
 		"code":"140581001",
 		"fullCode":"140581001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"140581"
 	},
@@ -11,7 +11,7 @@
 		"code":"140581002",
 		"fullCode":"140581002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"140581"
 	},
@@ -19,7 +19,7 @@
 		"code":"140581003",
 		"fullCode":"140581003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城街道",
 		"parentCode":"140581"
 	},
@@ -27,7 +27,7 @@
 		"code":"140581101",
 		"fullCode":"140581101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米山镇",
 		"parentCode":"140581"
 	},
@@ -35,7 +35,7 @@
 		"code":"140581102",
 		"fullCode":"140581102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三甲镇",
 		"parentCode":"140581"
 	},
@@ -43,7 +43,7 @@
 		"code":"140581103",
 		"fullCode":"140581103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神农镇",
 		"parentCode":"140581"
 	},
@@ -51,7 +51,7 @@
 		"code":"140581104",
 		"fullCode":"140581104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈区镇",
 		"parentCode":"140581"
 	},
@@ -59,7 +59,7 @@
 		"code":"140581105",
 		"fullCode":"140581105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北诗镇",
 		"parentCode":"140581"
 	},
@@ -67,7 +67,7 @@
 		"code":"140581106",
 		"fullCode":"140581106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西镇",
 		"parentCode":"140581"
 	},
@@ -75,7 +75,7 @@
 		"code":"140581107",
 		"fullCode":"140581107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马村镇",
 		"parentCode":"140581"
 	},
@@ -83,7 +83,7 @@
 		"code":"140581108",
 		"fullCode":"140581108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"野川镇",
 		"parentCode":"140581"
 	},
@@ -91,7 +91,7 @@
 		"code":"140581109",
 		"fullCode":"140581109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺庄镇",
 		"parentCode":"140581"
 	},
@@ -99,7 +99,7 @@
 		"code":"140581201",
 		"fullCode":"140581201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建宁乡",
 		"parentCode":"140581"
 	},
@@ -107,7 +107,7 @@
 		"code":"140581202",
 		"fullCode":"140581202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石末乡",
 		"parentCode":"140581"
 	},
@@ -115,7 +115,7 @@
 		"code":"140581203",
 		"fullCode":"140581203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"原村乡",
 		"parentCode":"140581"
 	}

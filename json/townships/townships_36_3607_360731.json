@@ -3,7 +3,7 @@
 		"code":"360731100",
 		"fullCode":"360731100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贡江镇",
 		"parentCode":"360731"
 	},
@@ -11,7 +11,7 @@
 		"code":"360731101",
 		"fullCode":"360731101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁山垅镇",
 		"parentCode":"360731"
 	},
@@ -19,7 +19,7 @@
 		"code":"360731102",
 		"fullCode":"360731102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘古山镇",
 		"parentCode":"360731"
 	},
@@ -27,7 +27,7 @@
 		"code":"360731103",
 		"fullCode":"360731103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾丰镇",
 		"parentCode":"360731"
 	},
@@ -35,7 +35,7 @@
 		"code":"360731104",
 		"fullCode":"360731104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祁禄山镇",
 		"parentCode":"360731"
 	},
@@ -43,7 +43,7 @@
 		"code":"360731105",
 		"fullCode":"360731105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梓山镇",
 		"parentCode":"360731"
 	},
@@ -51,7 +51,7 @@
 		"code":"360731106",
 		"fullCode":"360731106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银坑镇",
 		"parentCode":"360731"
 	},
@@ -59,7 +59,7 @@
 		"code":"360731107",
 		"fullCode":"360731107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭背镇",
 		"parentCode":"360731"
 	},
@@ -67,7 +67,7 @@
 		"code":"360731108",
 		"fullCode":"360731108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗坳镇",
 		"parentCode":"360731"
 	},
@@ -75,7 +75,7 @@
 		"code":"360731200",
 		"fullCode":"360731200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗江乡",
 		"parentCode":"360731"
 	},
@@ -83,7 +83,7 @@
 		"code":"360731201",
 		"fullCode":"360731201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小溪乡",
 		"parentCode":"360731"
 	},
@@ -91,7 +91,7 @@
 		"code":"360731202",
 		"fullCode":"360731202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利村乡",
 		"parentCode":"360731"
 	},
@@ -99,7 +99,7 @@
 		"code":"360731203",
 		"fullCode":"360731203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新陂乡",
 		"parentCode":"360731"
 	},
@@ -107,7 +107,7 @@
 		"code":"360731204",
 		"fullCode":"360731204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖石乡",
 		"parentCode":"360731"
 	},
@@ -115,7 +115,7 @@
 		"code":"360731205",
 		"fullCode":"360731205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄麟乡",
 		"parentCode":"360731"
 	},
@@ -123,7 +123,7 @@
 		"code":"360731206",
 		"fullCode":"360731206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙心乡",
 		"parentCode":"360731"
 	},
@@ -131,7 +131,7 @@
 		"code":"360731207",
 		"fullCode":"360731207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宽田乡",
 		"parentCode":"360731"
 	},
@@ -139,7 +139,7 @@
 		"code":"360731208",
 		"fullCode":"360731208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛坳乡",
 		"parentCode":"360731"
 	},
@@ -147,7 +147,7 @@
 		"code":"360731209",
 		"fullCode":"360731209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头乡",
 		"parentCode":"360731"
 	},
@@ -155,7 +155,7 @@
 		"code":"360731210",
 		"fullCode":"360731210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马安乡",
 		"parentCode":"360731"
 	},
@@ -163,7 +163,7 @@
 		"code":"360731211",
 		"fullCode":"360731211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙下乡",
 		"parentCode":"360731"
 	},
@@ -171,7 +171,7 @@
 		"code":"360731212",
 		"fullCode":"360731212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车溪乡",
 		"parentCode":"360731"
 	},
@@ -179,7 +179,7 @@
 		"code":"360731213",
 		"fullCode":"360731213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段屋乡",
 		"parentCode":"360731"
 	},
@@ -187,7 +187,7 @@
 		"code":"360731400",
 		"fullCode":"360731400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"于都工业园",
 		"parentCode":"360731"
 	}

@@ -3,7 +3,7 @@
 		"code":"652924100",
 		"fullCode":"652924100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙雅镇",
 		"parentCode":"652924"
 	},
@@ -11,7 +11,7 @@
 		"code":"652924101",
 		"fullCode":"652924101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托依堡勒迪镇",
 		"parentCode":"652924"
 	},
@@ -19,7 +19,7 @@
 		"code":"652924102",
 		"fullCode":"652924102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗镇",
 		"parentCode":"652924"
 	},
@@ -27,7 +27,7 @@
 		"code":"652924103",
 		"fullCode":"652924103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英买力镇",
 		"parentCode":"652924"
 	},
@@ -35,7 +35,7 @@
 		"code":"652924104",
 		"fullCode":"652924104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙雅县哈德墩镇",
 		"parentCode":"652924"
 	},
@@ -43,7 +43,7 @@
 		"code":"652924105",
 		"fullCode":"652924105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古勒巴格镇",
 		"parentCode":"652924"
 	},
@@ -51,7 +51,7 @@
 		"code":"652924106",
 		"fullCode":"652924106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海楼镇",
 		"parentCode":"652924"
 	},
@@ -59,7 +59,7 @@
 		"code":"652924205",
 		"fullCode":"652924205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"努尔巴格乡",
 		"parentCode":"652924"
 	},
@@ -67,7 +67,7 @@
 		"code":"652924206",
 		"fullCode":"652924206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔里木乡",
 		"parentCode":"652924"
 	},
@@ -75,7 +75,7 @@
 		"code":"652924207",
 		"fullCode":"652924207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盖孜库木乡",
 		"parentCode":"652924"
 	},
@@ -83,7 +83,7 @@
 		"code":"652924208",
 		"fullCode":"652924208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"央塔克协海尔乡",
 		"parentCode":"652924"
 	},
@@ -91,7 +91,7 @@
 		"code":"652924402",
 		"fullCode":"652924402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙雅县塔河管理委员会",
 		"parentCode":"652924"
 	}

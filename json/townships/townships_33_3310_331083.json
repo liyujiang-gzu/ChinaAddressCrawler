@@ -3,7 +3,7 @@
 		"code":"331083001",
 		"fullCode":"331083001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉城街道",
 		"parentCode":"331083"
 	},
@@ -11,7 +11,7 @@
 		"code":"331083002",
 		"fullCode":"331083002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坎门街道",
 		"parentCode":"331083"
 	},
@@ -19,7 +19,7 @@
 		"code":"331083003",
 		"fullCode":"331083003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大麦屿街道",
 		"parentCode":"331083"
 	},
@@ -27,7 +27,7 @@
 		"code":"331083101",
 		"fullCode":"331083101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清港镇",
 		"parentCode":"331083"
 	},
@@ -35,7 +35,7 @@
 		"code":"331083102",
 		"fullCode":"331083102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楚门镇",
 		"parentCode":"331083"
 	},
@@ -43,7 +43,7 @@
 		"code":"331083103",
 		"fullCode":"331083103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"干江镇",
 		"parentCode":"331083"
 	},
@@ -51,7 +51,7 @@
 		"code":"331083105",
 		"fullCode":"331083105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙门镇",
 		"parentCode":"331083"
 	},
@@ -59,7 +59,7 @@
 		"code":"331083106",
 		"fullCode":"331083106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦浦镇",
 		"parentCode":"331083"
 	},
@@ -67,7 +67,7 @@
 		"code":"331083107",
 		"fullCode":"331083107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙溪镇",
 		"parentCode":"331083"
 	},
@@ -75,7 +75,7 @@
 		"code":"331083201",
 		"fullCode":"331083201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡山乡",
 		"parentCode":"331083"
 	},
@@ -83,7 +83,7 @@
 		"code":"331083202",
 		"fullCode":"331083202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海山乡",
 		"parentCode":"331083"
 	},
@@ -91,7 +91,7 @@
 		"code":"331083400",
 		"fullCode":"331083400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉环经济开发区",
 		"parentCode":"331083"
 	}

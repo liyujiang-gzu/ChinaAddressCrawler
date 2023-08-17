@@ -3,7 +3,7 @@
 		"code":"331123001",
 		"fullCode":"331123001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"妙高街道",
 		"parentCode":"331123"
 	},
@@ -11,7 +11,7 @@
 		"code":"331123002",
 		"fullCode":"331123002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云峰街道",
 		"parentCode":"331123"
 	},
@@ -19,7 +19,7 @@
 		"code":"331123102",
 		"fullCode":"331123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新路湾镇",
 		"parentCode":"331123"
 	},
@@ -27,7 +27,7 @@
 		"code":"331123103",
 		"fullCode":"331123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北界镇",
 		"parentCode":"331123"
 	},
@@ -35,7 +35,7 @@
 		"code":"331123104",
 		"fullCode":"331123104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金竹镇",
 		"parentCode":"331123"
 	},
@@ -43,7 +43,7 @@
 		"code":"331123105",
 		"fullCode":"331123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大柘镇",
 		"parentCode":"331123"
 	},
@@ -51,7 +51,7 @@
 		"code":"331123106",
 		"fullCode":"331123106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石练镇",
 		"parentCode":"331123"
 	},
@@ -59,7 +59,7 @@
 		"code":"331123107",
 		"fullCode":"331123107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王村口镇",
 		"parentCode":"331123"
 	},
@@ -67,7 +67,7 @@
 		"code":"331123108",
 		"fullCode":"331123108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄沙腰镇",
 		"parentCode":"331123"
 	},
@@ -75,7 +75,7 @@
 		"code":"331123200",
 		"fullCode":"331123200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三仁畲族乡",
 		"parentCode":"331123"
 	},
@@ -83,7 +83,7 @@
 		"code":"331123201",
 		"fullCode":"331123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濂竹乡",
 		"parentCode":"331123"
 	},
@@ -91,7 +91,7 @@
 		"code":"331123202",
 		"fullCode":"331123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"应村乡",
 		"parentCode":"331123"
 	},
@@ -99,7 +99,7 @@
 		"code":"331123203",
 		"fullCode":"331123203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坪乡",
 		"parentCode":"331123"
 	},
@@ -107,7 +107,7 @@
 		"code":"331123204",
 		"fullCode":"331123204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖山乡",
 		"parentCode":"331123"
 	},
@@ -115,7 +115,7 @@
 		"code":"331123205",
 		"fullCode":"331123205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡源乡",
 		"parentCode":"331123"
 	},
@@ -123,7 +123,7 @@
 		"code":"331123206",
 		"fullCode":"331123206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"焦滩乡",
 		"parentCode":"331123"
 	},
@@ -131,7 +131,7 @@
 		"code":"331123207",
 		"fullCode":"331123207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙洋乡",
 		"parentCode":"331123"
 	},
@@ -139,7 +139,7 @@
 		"code":"331123208",
 		"fullCode":"331123208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柘岱口乡",
 		"parentCode":"331123"
 	},
@@ -147,7 +147,7 @@
 		"code":"331123209",
 		"fullCode":"331123209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西畈乡",
 		"parentCode":"331123"
 	},
@@ -155,7 +155,7 @@
 		"code":"331123210",
 		"fullCode":"331123210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垵口乡",
 		"parentCode":"331123"
 	}

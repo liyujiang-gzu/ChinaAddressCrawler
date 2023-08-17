@@ -3,7 +3,7 @@
 		"code":"140524100",
 		"fullCode":"140524100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇文镇",
 		"parentCode":"140524"
 	},
@@ -11,7 +11,7 @@
 		"code":"140524101",
 		"fullCode":"140524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"礼义镇",
 		"parentCode":"140524"
 	},
@@ -19,7 +19,7 @@
 		"code":"140524102",
 		"fullCode":"140524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"附城镇",
 		"parentCode":"140524"
 	},
@@ -27,7 +27,7 @@
 		"code":"140524103",
 		"fullCode":"140524103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河底镇",
 		"parentCode":"140524"
 	},
@@ -35,7 +35,7 @@
 		"code":"140524104",
 		"fullCode":"140524104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平城镇",
 		"parentCode":"140524"
 	},
@@ -43,7 +43,7 @@
 		"code":"140524105",
 		"fullCode":"140524105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨村镇",
 		"parentCode":"140524"
 	},
@@ -51,7 +51,7 @@
 		"code":"140524106",
 		"fullCode":"140524106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潞城镇",
 		"parentCode":"140524"
 	},
@@ -59,7 +59,7 @@
 		"code":"140524204",
 		"fullCode":"140524204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夺火乡",
 		"parentCode":"140524"
 	},
@@ -67,7 +67,7 @@
 		"code":"140524206",
 		"fullCode":"140524206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马圪当乡",
 		"parentCode":"140524"
 	},
@@ -75,7 +75,7 @@
 		"code":"140524207",
 		"fullCode":"140524207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古郊乡",
 		"parentCode":"140524"
 	},
@@ -83,7 +83,7 @@
 		"code":"140524209",
 		"fullCode":"140524209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六泉乡",
 		"parentCode":"140524"
 	}

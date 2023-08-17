@@ -3,7 +3,7 @@
 		"code":"411622001",
 		"fullCode":"411622001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"娲城街道",
 		"parentCode":"411622"
 	},
@@ -11,7 +11,7 @@
 		"code":"411622002",
 		"fullCode":"411622002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"箕子台街道",
 		"parentCode":"411622"
 	},
@@ -19,7 +19,7 @@
 		"code":"411622003",
 		"fullCode":"411622003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆山街道",
 		"parentCode":"411622"
 	},
@@ -27,7 +27,7 @@
 		"code":"411622004",
 		"fullCode":"411622004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皮营街道",
 		"parentCode":"411622"
 	},
@@ -35,7 +35,7 @@
 		"code":"411622005",
 		"fullCode":"411622005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华泰街道",
 		"parentCode":"411622"
 	},
@@ -43,7 +43,7 @@
 		"code":"411622101",
 		"fullCode":"411622101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西夏亭镇",
 		"parentCode":"411622"
 	},
@@ -51,7 +51,7 @@
 		"code":"411622102",
 		"fullCode":"411622102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"逍遥镇",
 		"parentCode":"411622"
 	},
@@ -59,7 +59,7 @@
 		"code":"411622103",
 		"fullCode":"411622103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奉母镇",
 		"parentCode":"411622"
 	},
@@ -67,7 +67,7 @@
 		"code":"411622104",
 		"fullCode":"411622104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红花集镇",
 		"parentCode":"411622"
 	},
@@ -75,7 +75,7 @@
 		"code":"411622105",
 		"fullCode":"411622105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聂堆镇",
 		"parentCode":"411622"
 	},
@@ -83,7 +83,7 @@
 		"code":"411622106",
 		"fullCode":"411622106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东夏亭镇",
 		"parentCode":"411622"
 	},
@@ -91,7 +91,7 @@
 		"code":"411622107",
 		"fullCode":"411622107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西华营镇",
 		"parentCode":"411622"
 	},
@@ -99,7 +99,7 @@
 		"code":"411622108",
 		"fullCode":"411622108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"址坊镇",
 		"parentCode":"411622"
 	},
@@ -107,7 +107,7 @@
 		"code":"411622109",
 		"fullCode":"411622109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迟营镇",
 		"parentCode":"411622"
 	},
@@ -115,7 +115,7 @@
 		"code":"411622200",
 		"fullCode":"411622200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田口乡",
 		"parentCode":"411622"
 	},
@@ -123,7 +123,7 @@
 		"code":"411622201",
 		"fullCode":"411622201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河驿乡",
 		"parentCode":"411622"
 	},
@@ -131,7 +131,7 @@
 		"code":"411622203",
 		"fullCode":"411622203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东王营乡",
 		"parentCode":"411622"
 	},
@@ -139,7 +139,7 @@
 		"code":"411622204",
 		"fullCode":"411622204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大王庄乡",
 		"parentCode":"411622"
 	},
@@ -147,7 +147,7 @@
 		"code":"411622205",
 		"fullCode":"411622205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李大庄乡",
 		"parentCode":"411622"
 	},
@@ -155,7 +155,7 @@
 		"code":"411622206",
 		"fullCode":"411622206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叶埠口乡",
 		"parentCode":"411622"
 	},
@@ -163,7 +163,7 @@
 		"code":"411622208",
 		"fullCode":"411622208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄桥乡",
 		"parentCode":"411622"
 	},
@@ -171,7 +171,7 @@
 		"code":"411622209",
 		"fullCode":"411622209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艾岗乡",
 		"parentCode":"411622"
 	},
@@ -179,7 +179,7 @@
 		"code":"411622405",
 		"fullCode":"411622405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄泛区农场",
 		"parentCode":"411622"
 	},
@@ -187,7 +187,7 @@
 		"code":"411622406",
 		"fullCode":"411622406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五二农场",
 		"parentCode":"411622"
 	}

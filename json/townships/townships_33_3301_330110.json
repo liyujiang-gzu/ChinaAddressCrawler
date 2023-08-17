@@ -3,7 +3,7 @@
 		"code":"330110005",
 		"fullCode":"330110005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五常街道",
 		"parentCode":"330110"
 	},
@@ -11,7 +11,7 @@
 		"code":"330110009",
 		"fullCode":"330110009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁和街道",
 		"parentCode":"330110"
 	},
@@ -19,7 +19,7 @@
 		"code":"330110010",
 		"fullCode":"330110010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良渚街道",
 		"parentCode":"330110"
 	},
@@ -27,7 +27,7 @@
 		"code":"330110011",
 		"fullCode":"330110011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闲林街道",
 		"parentCode":"330110"
 	},
@@ -35,7 +35,7 @@
 		"code":"330110012",
 		"fullCode":"330110012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仓前街道",
 		"parentCode":"330110"
 	},
@@ -43,7 +43,7 @@
 		"code":"330110013",
 		"fullCode":"330110013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余杭街道",
 		"parentCode":"330110"
 	},
@@ -51,7 +51,7 @@
 		"code":"330110014",
 		"fullCode":"330110014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中泰街道",
 		"parentCode":"330110"
 	},
@@ -59,7 +59,7 @@
 		"code":"330110109",
 		"fullCode":"330110109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"径山镇",
 		"parentCode":"330110"
 	},
@@ -67,7 +67,7 @@
 		"code":"330110110",
 		"fullCode":"330110110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓶窑镇",
 		"parentCode":"330110"
 	},
@@ -75,7 +75,7 @@
 		"code":"330110111",
 		"fullCode":"330110111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸬鸟镇",
 		"parentCode":"330110"
 	},
@@ -83,7 +83,7 @@
 		"code":"330110112",
 		"fullCode":"330110112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百丈镇",
 		"parentCode":"330110"
 	},
@@ -91,7 +91,7 @@
 		"code":"330110113",
 		"fullCode":"330110113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄湖镇",
 		"parentCode":"330110"
 	}

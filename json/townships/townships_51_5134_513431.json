@@ -3,7 +3,7 @@
 		"code":"513431100",
 		"fullCode":"513431100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城镇",
 		"parentCode":"513431"
 	},
@@ -11,7 +11,7 @@
 		"code":"513431101",
 		"fullCode":"513431101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北镇",
 		"parentCode":"513431"
 	},
@@ -19,7 +19,7 @@
 		"code":"513431102",
 		"fullCode":"513431102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹核镇",
 		"parentCode":"513431"
 	},
@@ -27,7 +27,7 @@
 		"code":"513431103",
 		"fullCode":"513431103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷曲镇",
 		"parentCode":"513431"
 	},
@@ -35,7 +35,7 @@
 		"code":"513431104",
 		"fullCode":"513431104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"比尔镇",
 		"parentCode":"513431"
 	},
@@ -43,7 +43,7 @@
 		"code":"513431105",
 		"fullCode":"513431105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放沟镇",
 		"parentCode":"513431"
 	},
@@ -51,7 +51,7 @@
 		"code":"513431106",
 		"fullCode":"513431106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔河镇",
 		"parentCode":"513431"
 	},
@@ -59,7 +59,7 @@
 		"code":"513431107",
 		"fullCode":"513431107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四开镇",
 		"parentCode":"513431"
 	},
@@ -67,7 +67,7 @@
 		"code":"513431108",
 		"fullCode":"513431108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地莫镇",
 		"parentCode":"513431"
 	},
@@ -75,7 +75,7 @@
 		"code":"513431109",
 		"fullCode":"513431109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古里镇",
 		"parentCode":"513431"
 	},
@@ -83,7 +83,7 @@
 		"code":"513431110",
 		"fullCode":"513431110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俄尔镇",
 		"parentCode":"513431"
 	},
@@ -91,7 +91,7 @@
 		"code":"513431205",
 		"fullCode":"513431205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美甘乡",
 		"parentCode":"513431"
 	},
@@ -99,7 +99,7 @@
 		"code":"513431210",
 		"fullCode":"513431210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博洛乡",
 		"parentCode":"513431"
 	},
@@ -107,7 +107,7 @@
 		"code":"513431227",
 		"fullCode":"513431227000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"特布洛乡",
 		"parentCode":"513431"
 	},
@@ -115,7 +115,7 @@
 		"code":"513431228",
 		"fullCode":"513431228000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆恒乡",
 		"parentCode":"513431"
 	},
@@ -123,7 +123,7 @@
 		"code":"513431231",
 		"fullCode":"513431231000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"补约乡",
 		"parentCode":"513431"
 	},
@@ -131,7 +131,7 @@
 		"code":"513431234",
 		"fullCode":"513431234000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金曲乡",
 		"parentCode":"513431"
 	},
@@ -139,7 +139,7 @@
 		"code":"513431238",
 		"fullCode":"513431238000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"则普乡",
 		"parentCode":"513431"
 	},
@@ -147,7 +147,7 @@
 		"code":"513431244",
 		"fullCode":"513431244000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日哈乡",
 		"parentCode":"513431"
 	},
@@ -155,7 +155,7 @@
 		"code":"513431245",
 		"fullCode":"513431245000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈甘乡",
 		"parentCode":"513431"
 	}

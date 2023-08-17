@@ -3,7 +3,7 @@
 		"code":"130706001",
 		"fullCode":"130706001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城镇街道",
 		"parentCode":"130706"
 	},
@@ -11,7 +11,7 @@
 		"code":"130706002",
 		"fullCode":"130706002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"煤矿街道",
 		"parentCode":"130706"
 	},
@@ -19,7 +19,7 @@
 		"code":"130706200",
 		"fullCode":"130706200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花园乡",
 		"parentCode":"130706"
 	},
@@ -27,7 +27,7 @@
 		"code":"130706201",
 		"fullCode":"130706201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛庄子乡",
 		"parentCode":"130706"
 	},
@@ -35,7 +35,7 @@
 		"code":"130706202",
 		"fullCode":"130706202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定方水乡",
 		"parentCode":"130706"
 	},
@@ -43,7 +43,7 @@
 		"code":"130706203",
 		"fullCode":"130706203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段家堡乡",
 		"parentCode":"130706"
 	}

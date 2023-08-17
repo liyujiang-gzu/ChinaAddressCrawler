@@ -3,7 +3,7 @@
 		"code":"360112001",
 		"fullCode":"360112001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站前街道",
 		"parentCode":"360112"
 	},
@@ -11,7 +11,7 @@
 		"code":"360112002",
 		"fullCode":"360112002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福街道",
 		"parentCode":"360112"
 	},
@@ -19,7 +19,7 @@
 		"code":"360112003",
 		"fullCode":"360112003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蛟桥街道",
 		"parentCode":"360112"
 	},
@@ -27,7 +27,7 @@
 		"code":"360112004",
 		"fullCode":"360112004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长堎街道",
 		"parentCode":"360112"
 	},
@@ -35,7 +35,7 @@
 		"code":"360112005",
 		"fullCode":"360112005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欣悦湖街道",
 		"parentCode":"360112"
 	},
@@ -43,7 +43,7 @@
 		"code":"360112101",
 		"fullCode":"360112101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望城镇",
 		"parentCode":"360112"
 	},
@@ -51,7 +51,7 @@
 		"code":"360112103",
 		"fullCode":"360112103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西山镇",
 		"parentCode":"360112"
 	},
@@ -59,7 +59,7 @@
 		"code":"360112104",
 		"fullCode":"360112104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石岗镇",
 		"parentCode":"360112"
 	},
@@ -67,7 +67,7 @@
 		"code":"360112105",
 		"fullCode":"360112105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松湖镇",
 		"parentCode":"360112"
 	},
@@ -75,7 +75,7 @@
 		"code":"360112106",
 		"fullCode":"360112106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樵舍镇",
 		"parentCode":"360112"
 	},
@@ -83,7 +83,7 @@
 		"code":"360112107",
 		"fullCode":"360112107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐化镇",
 		"parentCode":"360112"
 	},
@@ -91,7 +91,7 @@
 		"code":"360112108",
 		"fullCode":"360112108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪霞镇",
 		"parentCode":"360112"
 	},
@@ -99,7 +99,7 @@
 		"code":"360112109",
 		"fullCode":"360112109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象山镇",
 		"parentCode":"360112"
 	},
@@ -107,7 +107,7 @@
 		"code":"360112110",
 		"fullCode":"360112110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石埠镇",
 		"parentCode":"360112"
 	},
@@ -115,7 +115,7 @@
 		"code":"360112111",
 		"fullCode":"360112111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联圩镇",
 		"parentCode":"360112"
 	},
@@ -123,7 +123,7 @@
 		"code":"360112113",
 		"fullCode":"360112113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"360112"
 	},
@@ -131,7 +131,7 @@
 		"code":"360112114",
 		"fullCode":"360112114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗亭镇",
 		"parentCode":"360112"
 	},
@@ -139,7 +139,7 @@
 		"code":"360112115",
 		"fullCode":"360112115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"招贤镇",
 		"parentCode":"360112"
 	},
@@ -147,7 +147,7 @@
 		"code":"360112116",
 		"fullCode":"360112116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅岭镇",
 		"parentCode":"360112"
 	},
@@ -155,7 +155,7 @@
 		"code":"360112204",
 		"fullCode":"360112204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金桥乡",
 		"parentCode":"360112"
 	},
@@ -163,7 +163,7 @@
 		"code":"360112205",
 		"fullCode":"360112205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁河乡",
 		"parentCode":"360112"
 	},
@@ -171,7 +171,7 @@
 		"code":"360112206",
 		"fullCode":"360112206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大塘坪乡",
 		"parentCode":"360112"
 	},
@@ -179,7 +179,7 @@
 		"code":"360112207",
 		"fullCode":"360112207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌邑乡",
 		"parentCode":"360112"
 	},
@@ -187,7 +187,7 @@
 		"code":"360112208",
 		"fullCode":"360112208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南矶乡",
 		"parentCode":"360112"
 	},
@@ -195,7 +195,7 @@
 		"code":"360112400",
 		"fullCode":"360112400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恒湖垦殖场",
 		"parentCode":"360112"
 	},
@@ -203,7 +203,7 @@
 		"code":"360112402",
 		"fullCode":"360112402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"成新实业有限公司",
 		"parentCode":"360112"
 	},
@@ -211,7 +211,7 @@
 		"code":"360112403",
 		"fullCode":"360112403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱港实业有限公司",
 		"parentCode":"360112"
 	},
@@ -219,7 +219,7 @@
 		"code":"360112404",
 		"fullCode":"360112404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江西新建经济开发区",
 		"parentCode":"360112"
 	},
@@ -227,7 +227,7 @@
 		"code":"360112405",
 		"fullCode":"360112405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洗药湖管理处",
 		"parentCode":"360112"
 	},
@@ -235,7 +235,7 @@
 		"code":"360112460",
 		"fullCode":"360112460000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江西桑海集团有限公司",
 		"parentCode":"360112"
 	},
@@ -243,7 +243,7 @@
 		"code":"360112461",
 		"fullCode":"360112461000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新祺周管理处",
 		"parentCode":"360112"
 	},
@@ -251,7 +251,7 @@
 		"code":"360112481",
 		"fullCode":"360112481000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白水湖管理处",
 		"parentCode":"360112"
 	},
@@ -259,7 +259,7 @@
 		"code":"360112482",
 		"fullCode":"360112482000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冠山管理处",
 		"parentCode":"360112"
 	},
@@ -267,7 +267,7 @@
 		"code":"360112502",
 		"fullCode":"360112502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新丰管理处",
 		"parentCode":"360112"
 	}

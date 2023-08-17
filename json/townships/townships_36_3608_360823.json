@@ -3,7 +3,7 @@
 		"code":"360823100",
 		"fullCode":"360823100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水边镇",
 		"parentCode":"360823"
 	},
@@ -11,7 +11,7 @@
 		"code":"360823101",
 		"fullCode":"360823101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马埠镇",
 		"parentCode":"360823"
 	},
@@ -19,7 +19,7 @@
 		"code":"360823102",
 		"fullCode":"360823102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴邱镇",
 		"parentCode":"360823"
 	},
@@ -27,7 +27,7 @@
 		"code":"360823103",
 		"fullCode":"360823103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁和镇",
 		"parentCode":"360823"
 	},
@@ -35,7 +35,7 @@
 		"code":"360823104",
 		"fullCode":"360823104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"砚溪镇",
 		"parentCode":"360823"
 	},
@@ -43,7 +43,7 @@
 		"code":"360823105",
 		"fullCode":"360823105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗田镇",
 		"parentCode":"360823"
 	},
@@ -51,7 +51,7 @@
 		"code":"360823200",
 		"fullCode":"360823200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐林乡",
 		"parentCode":"360823"
 	},
@@ -59,7 +59,7 @@
 		"code":"360823201",
 		"fullCode":"360823201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福民乡",
 		"parentCode":"360823"
 	},
@@ -67,7 +67,7 @@
 		"code":"360823202",
 		"fullCode":"360823202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戈坪乡",
 		"parentCode":"360823"
 	},
@@ -75,7 +75,7 @@
 		"code":"360823203",
 		"fullCode":"360823203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金江乡",
 		"parentCode":"360823"
 	},
@@ -83,7 +83,7 @@
 		"code":"360823204",
 		"fullCode":"360823204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金坪民族乡",
 		"parentCode":"360823"
 	},
@@ -91,7 +91,7 @@
 		"code":"360823400",
 		"fullCode":"360823400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峡江县工业园区",
 		"parentCode":"360823"
 	}

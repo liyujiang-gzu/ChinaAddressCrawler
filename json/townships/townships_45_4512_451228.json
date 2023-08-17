@@ -3,7 +3,7 @@
 		"code":"451228100",
 		"fullCode":"451228100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安阳镇",
 		"parentCode":"451228"
 	},
@@ -11,7 +11,7 @@
 		"code":"451228101",
 		"fullCode":"451228101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高岭镇",
 		"parentCode":"451228"
 	},
@@ -19,7 +19,7 @@
 		"code":"451228102",
 		"fullCode":"451228102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地苏镇",
 		"parentCode":"451228"
 	},
@@ -27,7 +27,7 @@
 		"code":"451228103",
 		"fullCode":"451228103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下坳镇",
 		"parentCode":"451228"
 	},
@@ -35,7 +35,7 @@
 		"code":"451228104",
 		"fullCode":"451228104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉烈镇",
 		"parentCode":"451228"
 	},
@@ -43,7 +43,7 @@
 		"code":"451228105",
 		"fullCode":"451228105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百旺镇",
 		"parentCode":"451228"
 	},
@@ -51,7 +51,7 @@
 		"code":"451228106",
 		"fullCode":"451228106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澄江镇",
 		"parentCode":"451228"
 	},
@@ -59,7 +59,7 @@
 		"code":"451228107",
 		"fullCode":"451228107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴镇",
 		"parentCode":"451228"
 	},
@@ -67,7 +67,7 @@
 		"code":"451228108",
 		"fullCode":"451228108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉仁镇",
 		"parentCode":"451228"
 	},
@@ -75,7 +75,7 @@
 		"code":"451228109",
 		"fullCode":"451228109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安镇",
 		"parentCode":"451228"
 	},
@@ -83,7 +83,7 @@
 		"code":"451228204",
 		"fullCode":"451228204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东庙乡",
 		"parentCode":"451228"
 	},
@@ -91,7 +91,7 @@
 		"code":"451228208",
 		"fullCode":"451228208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆福乡",
 		"parentCode":"451228"
 	},
@@ -99,7 +99,7 @@
 		"code":"451228209",
 		"fullCode":"451228209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保安乡",
 		"parentCode":"451228"
 	},
@@ -107,7 +107,7 @@
 		"code":"451228210",
 		"fullCode":"451228210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板岭乡",
 		"parentCode":"451228"
 	},
@@ -115,7 +115,7 @@
 		"code":"451228212",
 		"fullCode":"451228212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三只羊乡",
 		"parentCode":"451228"
 	},
@@ -123,7 +123,7 @@
 		"code":"451228213",
 		"fullCode":"451228213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湾乡",
 		"parentCode":"451228"
 	},
@@ -131,7 +131,7 @@
 		"code":"451228214",
 		"fullCode":"451228214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菁盛乡",
 		"parentCode":"451228"
 	},
@@ -139,7 +139,7 @@
 		"code":"451228217",
 		"fullCode":"451228217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加贵乡",
 		"parentCode":"451228"
 	},
@@ -147,7 +147,7 @@
 		"code":"451228219",
 		"fullCode":"451228219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九渡乡",
 		"parentCode":"451228"
 	}

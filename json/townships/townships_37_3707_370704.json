@@ -3,7 +3,7 @@
 		"code":"370704003",
 		"fullCode":"370704003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰街道",
 		"parentCode":"370704"
 	},
@@ -11,7 +11,7 @@
 		"code":"370704004",
 		"fullCode":"370704004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坊安街道",
 		"parentCode":"370704"
 	},
@@ -19,7 +19,7 @@
 		"code":"370704005",
 		"fullCode":"370704005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坊城街道",
 		"parentCode":"370704"
 	},
@@ -27,7 +27,7 @@
 		"code":"370704006",
 		"fullCode":"370704006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙街道",
 		"parentCode":"370704"
 	},
@@ -35,7 +35,7 @@
 		"code":"370704007",
 		"fullCode":"370704007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄旗堡街道",
 		"parentCode":"370704"
 	},
@@ -43,7 +43,7 @@
 		"code":"370704008",
 		"fullCode":"370704008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太保庄街道",
 		"parentCode":"370704"
 	},
@@ -51,7 +51,7 @@
 		"code":"370704009",
 		"fullCode":"370704009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家庄街道",
 		"parentCode":"370704"
 	}

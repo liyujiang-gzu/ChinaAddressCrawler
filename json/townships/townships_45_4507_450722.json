@@ -3,7 +3,7 @@
 		"code":"450722001",
 		"fullCode":"450722001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小江街道",
 		"parentCode":"450722"
 	},
@@ -11,7 +11,7 @@
 		"code":"450722002",
 		"fullCode":"450722002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江城街道",
 		"parentCode":"450722"
 	},
@@ -19,7 +19,7 @@
 		"code":"450722101",
 		"fullCode":"450722101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉水镇",
 		"parentCode":"450722"
 	},
@@ -27,7 +27,7 @@
 		"code":"450722102",
 		"fullCode":"450722102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石埇镇",
 		"parentCode":"450722"
 	},
@@ -35,7 +35,7 @@
 		"code":"450722103",
 		"fullCode":"450722103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安石镇",
 		"parentCode":"450722"
 	},
@@ -43,7 +43,7 @@
 		"code":"450722104",
 		"fullCode":"450722104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张黄镇",
 		"parentCode":"450722"
 	},
@@ -51,7 +51,7 @@
 		"code":"450722105",
 		"fullCode":"450722105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大成镇",
 		"parentCode":"450722"
 	},
@@ -59,7 +59,7 @@
 		"code":"450722106",
 		"fullCode":"450722106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石水镇",
 		"parentCode":"450722"
 	},
@@ -67,7 +67,7 @@
 		"code":"450722107",
 		"fullCode":"450722107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北通镇",
 		"parentCode":"450722"
 	},
@@ -75,7 +75,7 @@
 		"code":"450722108",
 		"fullCode":"450722108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三合镇",
 		"parentCode":"450722"
 	},
@@ -83,7 +83,7 @@
 		"code":"450722109",
 		"fullCode":"450722109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门镇",
 		"parentCode":"450722"
 	},
@@ -91,7 +91,7 @@
 		"code":"450722110",
 		"fullCode":"450722110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福旺镇",
 		"parentCode":"450722"
 	},
@@ -99,7 +99,7 @@
 		"code":"450722111",
 		"fullCode":"450722111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨圩镇",
 		"parentCode":"450722"
 	},
@@ -107,7 +107,7 @@
 		"code":"450722112",
 		"fullCode":"450722112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐民镇",
 		"parentCode":"450722"
 	},
@@ -115,7 +115,7 @@
 		"code":"450722113",
 		"fullCode":"450722113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六硍镇",
 		"parentCode":"450722"
 	},
@@ -123,7 +123,7 @@
 		"code":"450722114",
 		"fullCode":"450722114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平睦镇",
 		"parentCode":"450722"
 	},
@@ -131,7 +131,7 @@
 		"code":"450722115",
 		"fullCode":"450722115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官垌镇",
 		"parentCode":"450722"
 	}

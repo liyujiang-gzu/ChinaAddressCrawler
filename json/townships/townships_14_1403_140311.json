@@ -3,7 +3,7 @@
 		"code":"140311100",
 		"fullCode":"140311100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荫营镇",
 		"parentCode":"140311"
 	},
@@ -11,7 +11,7 @@
 		"code":"140311101",
 		"fullCode":"140311101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河底镇",
 		"parentCode":"140311"
 	},
@@ -19,7 +19,7 @@
 		"code":"140311103",
 		"fullCode":"140311103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平坦镇",
 		"parentCode":"140311"
 	},
@@ -27,7 +27,7 @@
 		"code":"140311200",
 		"fullCode":"140311200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西南舁乡",
 		"parentCode":"140311"
 	},
@@ -35,7 +35,7 @@
 		"code":"140311201",
 		"fullCode":"140311201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家庄乡",
 		"parentCode":"140311"
 	},
@@ -43,7 +43,7 @@
 		"code":"140311202",
 		"fullCode":"140311202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家庄乡",
 		"parentCode":"140311"
 	},
@@ -51,7 +51,7 @@
 		"code":"140311203",
 		"fullCode":"140311203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧街乡",
 		"parentCode":"140311"
 	},
@@ -59,7 +59,7 @@
 		"code":"140311400",
 		"fullCode":"140311400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开发区",
 		"parentCode":"140311"
 	}

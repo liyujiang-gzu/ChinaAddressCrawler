@@ -3,7 +3,7 @@
 		"code":"421102001",
 		"fullCode":"421102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤壁街道",
 		"parentCode":"421102"
 	},
@@ -11,7 +11,7 @@
 		"code":"421102002",
 		"fullCode":"421102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖街道",
 		"parentCode":"421102"
 	},
@@ -19,7 +19,7 @@
 		"code":"421102003",
 		"fullCode":"421102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禹王街道",
 		"parentCode":"421102"
 	},
@@ -27,7 +27,7 @@
 		"code":"421102004",
 		"fullCode":"421102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖街道",
 		"parentCode":"421102"
 	},
@@ -35,7 +35,7 @@
 		"code":"421102005",
 		"fullCode":"421102005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖街道",
 		"parentCode":"421102"
 	},
@@ -43,7 +43,7 @@
 		"code":"421102100",
 		"fullCode":"421102100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路口镇",
 		"parentCode":"421102"
 	},
@@ -51,7 +51,7 @@
 		"code":"421102101",
 		"fullCode":"421102101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堵城镇",
 		"parentCode":"421102"
 	},
@@ -59,7 +59,7 @@
 		"code":"421102102",
 		"fullCode":"421102102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈策楼镇",
 		"parentCode":"421102"
 	},
@@ -67,7 +67,7 @@
 		"code":"421102200",
 		"fullCode":"421102200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶店乡",
 		"parentCode":"421102"
 	},
@@ -75,7 +75,7 @@
 		"code":"421102450",
 		"fullCode":"421102450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火车站开发区",
 		"parentCode":"421102"
 	}

@@ -3,7 +3,7 @@
 		"code":"230725100",
 		"fullCode":"230725100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"带岭镇",
 		"parentCode":"230725"
 	},
@@ -11,7 +11,7 @@
 		"code":"230725101",
 		"fullCode":"230725101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朗乡镇",
 		"parentCode":"230725"
 	}

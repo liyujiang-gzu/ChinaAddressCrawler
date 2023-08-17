@@ -3,7 +3,7 @@
 		"code":"450721001",
 		"fullCode":"450721001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵城街道",
 		"parentCode":"450721"
 	},
@@ -11,7 +11,7 @@
 		"code":"450721002",
 		"fullCode":"450721002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三海街道",
 		"parentCode":"450721"
 	},
@@ -19,7 +19,7 @@
 		"code":"450721101",
 		"fullCode":"450721101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新圩镇",
 		"parentCode":"450721"
 	},
@@ -27,7 +27,7 @@
 		"code":"450721102",
 		"fullCode":"450721102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰塘镇",
 		"parentCode":"450721"
 	},
@@ -35,7 +35,7 @@
 		"code":"450721103",
 		"fullCode":"450721103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山镇",
 		"parentCode":"450721"
 	},
@@ -43,7 +43,7 @@
 		"code":"450721104",
 		"fullCode":"450721104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石塘镇",
 		"parentCode":"450721"
 	},
@@ -51,7 +51,7 @@
 		"code":"450721105",
 		"fullCode":"450721105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛子镇",
 		"parentCode":"450721"
 	},
@@ -59,7 +59,7 @@
 		"code":"450721106",
 		"fullCode":"450721106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平南镇",
 		"parentCode":"450721"
 	},
@@ -67,7 +67,7 @@
 		"code":"450721107",
 		"fullCode":"450721107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烟墩镇",
 		"parentCode":"450721"
 	},
@@ -75,7 +75,7 @@
 		"code":"450721108",
 		"fullCode":"450721108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"檀圩镇",
 		"parentCode":"450721"
 	},
@@ -83,7 +83,7 @@
 		"code":"450721109",
 		"fullCode":"450721109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那隆镇",
 		"parentCode":"450721"
 	},
@@ -91,7 +91,7 @@
 		"code":"450721110",
 		"fullCode":"450721110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三隆镇",
 		"parentCode":"450721"
 	},
@@ -99,7 +99,7 @@
 		"code":"450721111",
 		"fullCode":"450721111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陆屋镇",
 		"parentCode":"450721"
 	},
@@ -107,7 +107,7 @@
 		"code":"450721112",
 		"fullCode":"450721112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧州镇",
 		"parentCode":"450721"
 	},
@@ -115,7 +115,7 @@
 		"code":"450721113",
 		"fullCode":"450721113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"450721"
 	},
@@ -123,7 +123,7 @@
 		"code":"450721114",
 		"fullCode":"450721114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坪镇",
 		"parentCode":"450721"
 	},
@@ -131,7 +131,7 @@
 		"code":"450721115",
 		"fullCode":"450721115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武利镇",
 		"parentCode":"450721"
 	},
@@ -139,7 +139,7 @@
 		"code":"450721116",
 		"fullCode":"450721116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文利镇",
 		"parentCode":"450721"
 	},
@@ -147,7 +147,7 @@
 		"code":"450721117",
 		"fullCode":"450721117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伯劳镇",
 		"parentCode":"450721"
 	}

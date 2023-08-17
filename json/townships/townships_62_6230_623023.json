@@ -3,7 +3,7 @@
 		"code":"623023100",
 		"fullCode":"623023100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"623023"
 	},
@@ -11,7 +11,7 @@
 		"code":"623023101",
 		"fullCode":"623023101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大川镇",
 		"parentCode":"623023"
 	},
@@ -19,7 +19,7 @@
 		"code":"623023102",
 		"fullCode":"623023102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峰迭镇",
 		"parentCode":"623023"
 	},
@@ -27,7 +27,7 @@
 		"code":"623023103",
 		"fullCode":"623023103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"立节镇",
 		"parentCode":"623023"
 	},
@@ -35,7 +35,7 @@
 		"code":"623023104",
 		"fullCode":"623023104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山镇",
 		"parentCode":"623023"
 	},
@@ -43,7 +43,7 @@
 		"code":"623023105",
 		"fullCode":"623023105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲告纳镇",
 		"parentCode":"623023"
 	},
@@ -51,7 +51,7 @@
 		"code":"623023106",
 		"fullCode":"623023106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博峪镇",
 		"parentCode":"623023"
 	},
@@ -59,7 +59,7 @@
 		"code":"623023107",
 		"fullCode":"623023107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴藏镇",
 		"parentCode":"623023"
 	},
@@ -67,7 +67,7 @@
 		"code":"623023108",
 		"fullCode":"623023108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"憨班镇",
 		"parentCode":"623023"
 	},
@@ -75,7 +75,7 @@
 		"code":"623023109",
 		"fullCode":"623023109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪定镇",
 		"parentCode":"623023"
 	},
@@ -83,7 +83,7 @@
 		"code":"623023110",
 		"fullCode":"623023110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"果耶镇",
 		"parentCode":"623023"
 	},
@@ -91,7 +91,7 @@
 		"code":"623023111",
 		"fullCode":"623023111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武坪镇",
 		"parentCode":"623023"
 	},
@@ -99,7 +99,7 @@
 		"code":"623023112",
 		"fullCode":"623023112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大峪镇",
 		"parentCode":"623023"
 	},
@@ -107,7 +107,7 @@
 		"code":"623023113",
 		"fullCode":"623023113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江盘镇",
 		"parentCode":"623023"
 	},
@@ -115,7 +115,7 @@
 		"code":"623023114",
 		"fullCode":"623023114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拱坝镇",
 		"parentCode":"623023"
 	},
@@ -123,7 +123,7 @@
 		"code":"623023200",
 		"fullCode":"623023200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲瓦乡",
 		"parentCode":"623023"
 	},
@@ -131,7 +131,7 @@
 		"code":"623023208",
 		"fullCode":"623023208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南峪乡",
 		"parentCode":"623023"
 	},
@@ -139,7 +139,7 @@
 		"code":"623023210",
 		"fullCode":"623023210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八楞乡",
 		"parentCode":"623023"
 	},
@@ -147,7 +147,7 @@
 		"code":"623023212",
 		"fullCode":"623023212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"插岗乡",
 		"parentCode":"623023"
 	}

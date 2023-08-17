@@ -3,7 +3,7 @@
 		"code":"411502",
 		"fullCode":"411502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浉河区",
 		"parentCode":"4115"
 	},
@@ -11,7 +11,7 @@
 		"code":"411503",
 		"fullCode":"411503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平桥区",
 		"parentCode":"4115"
 	},
@@ -19,7 +19,7 @@
 		"code":"411521",
 		"fullCode":"411521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"罗山县",
 		"parentCode":"4115"
 	},
@@ -27,7 +27,7 @@
 		"code":"411522",
 		"fullCode":"411522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"光山县",
 		"parentCode":"4115"
 	},
@@ -35,7 +35,7 @@
 		"code":"411523",
 		"fullCode":"411523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新县",
 		"parentCode":"4115"
 	},
@@ -43,7 +43,7 @@
 		"code":"411524",
 		"fullCode":"411524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"商城县",
 		"parentCode":"4115"
 	},
@@ -51,7 +51,7 @@
 		"code":"411525",
 		"fullCode":"411525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"固始县",
 		"parentCode":"4115"
 	},
@@ -59,7 +59,7 @@
 		"code":"411526",
 		"fullCode":"411526000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"潢川县",
 		"parentCode":"4115"
 	},
@@ -67,7 +67,7 @@
 		"code":"411527",
 		"fullCode":"411527000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"淮滨县",
 		"parentCode":"4115"
 	},
@@ -75,7 +75,7 @@
 		"code":"411528",
 		"fullCode":"411528000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"息县",
 		"parentCode":"4115"
 	},
@@ -83,7 +83,7 @@
 		"code":"411571",
 		"fullCode":"411571000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"信阳高新技术产业开发区",
 		"parentCode":"4115"
 	}

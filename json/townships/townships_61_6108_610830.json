@@ -3,7 +3,7 @@
 		"code":"610830100",
 		"fullCode":"610830100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宽州镇",
 		"parentCode":"610830"
 	},
@@ -11,7 +11,7 @@
 		"code":"610830101",
 		"fullCode":"610830101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石咀驿镇",
 		"parentCode":"610830"
 	},
@@ -19,7 +19,7 @@
 		"code":"610830102",
 		"fullCode":"610830102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"折家坪镇",
 		"parentCode":"610830"
 	},
@@ -27,7 +27,7 @@
 		"code":"610830103",
 		"fullCode":"610830103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉家河镇",
 		"parentCode":"610830"
 	},
@@ -35,7 +35,7 @@
 		"code":"610830104",
 		"fullCode":"610830104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高杰村镇",
 		"parentCode":"610830"
 	},
@@ -43,7 +43,7 @@
 		"code":"610830105",
 		"fullCode":"610830105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家塔镇",
 		"parentCode":"610830"
 	},
@@ -51,7 +51,7 @@
 		"code":"610830106",
 		"fullCode":"610830106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店则沟镇",
 		"parentCode":"610830"
 	},
@@ -59,7 +59,7 @@
 		"code":"610830107",
 		"fullCode":"610830107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解家沟镇",
 		"parentCode":"610830"
 	},
@@ -67,7 +67,7 @@
 		"code":"610830108",
 		"fullCode":"610830108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下廿里铺镇",
 		"parentCode":"610830"
 	}

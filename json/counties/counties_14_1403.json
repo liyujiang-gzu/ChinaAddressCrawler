@@ -3,7 +3,7 @@
 		"code":"140302",
 		"fullCode":"140302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"城区",
 		"parentCode":"1403"
 	},
@@ -11,7 +11,7 @@
 		"code":"140303",
 		"fullCode":"140303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"矿区",
 		"parentCode":"1403"
 	},
@@ -19,7 +19,7 @@
 		"code":"140311",
 		"fullCode":"140311000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郊区",
 		"parentCode":"1403"
 	},
@@ -27,7 +27,7 @@
 		"code":"140321",
 		"fullCode":"140321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平定县",
 		"parentCode":"1403"
 	},
@@ -35,7 +35,7 @@
 		"code":"140322",
 		"fullCode":"140322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"盂县",
 		"parentCode":"1403"
 	}

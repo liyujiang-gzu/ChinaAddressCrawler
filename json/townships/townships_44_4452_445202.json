@@ -3,7 +3,7 @@
 		"code":"445202001",
 		"fullCode":"445202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榕华街道",
 		"parentCode":"445202"
 	},
@@ -11,7 +11,7 @@
 		"code":"445202002",
 		"fullCode":"445202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴街道",
 		"parentCode":"445202"
 	},
@@ -19,7 +19,7 @@
 		"code":"445202003",
 		"fullCode":"445202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山街道",
 		"parentCode":"445202"
 	},
@@ -27,7 +27,7 @@
 		"code":"445202004",
 		"fullCode":"445202004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西马街道",
 		"parentCode":"445202"
 	},
@@ -35,7 +35,7 @@
 		"code":"445202005",
 		"fullCode":"445202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴街道",
 		"parentCode":"445202"
 	},
@@ -43,7 +43,7 @@
 		"code":"445202006",
 		"fullCode":"445202006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榕东街道",
 		"parentCode":"445202"
 	},
@@ -51,7 +51,7 @@
 		"code":"445202007",
 		"fullCode":"445202007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙桥街道",
 		"parentCode":"445202"
 	},
@@ -59,7 +59,7 @@
 		"code":"445202008",
 		"fullCode":"445202008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅云街道",
 		"parentCode":"445202"
 	},
@@ -67,7 +67,7 @@
 		"code":"445202009",
 		"fullCode":"445202009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东升街道",
 		"parentCode":"445202"
 	},
@@ -75,7 +75,7 @@
 		"code":"445202010",
 		"fullCode":"445202010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东阳街道",
 		"parentCode":"445202"
 	},
@@ -83,7 +83,7 @@
 		"code":"445202011",
 		"fullCode":"445202011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔湖街道",
 		"parentCode":"445202"
 	},
@@ -91,7 +91,7 @@
 		"code":"445202102",
 		"fullCode":"445202102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炮台镇",
 		"parentCode":"445202"
 	},
@@ -99,7 +99,7 @@
 		"code":"445202103",
 		"fullCode":"445202103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地都镇",
 		"parentCode":"445202"
 	},
@@ -107,7 +107,7 @@
 		"code":"445202105",
 		"fullCode":"445202105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"登岗镇",
 		"parentCode":"445202"
 	}

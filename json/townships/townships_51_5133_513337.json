@@ -3,7 +3,7 @@
 		"code":"513337100",
 		"fullCode":"513337100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金珠镇",
 		"parentCode":"513337"
 	},
@@ -11,7 +11,7 @@
 		"code":"513337101",
 		"fullCode":"513337101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香格里拉镇",
 		"parentCode":"513337"
 	},
@@ -19,7 +19,7 @@
 		"code":"513337102",
 		"fullCode":"513337102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑堆镇",
 		"parentCode":"513337"
 	},
@@ -27,7 +27,7 @@
 		"code":"513337103",
 		"fullCode":"513337103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉呷镇",
 		"parentCode":"513337"
 	},
@@ -35,7 +35,7 @@
 		"code":"513337104",
 		"fullCode":"513337104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"噶通镇",
 		"parentCode":"513337"
 	},
@@ -43,7 +43,7 @@
 		"code":"513337201",
 		"fullCode":"513337201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"省母乡",
 		"parentCode":"513337"
 	},
@@ -51,7 +51,7 @@
 		"code":"513337204",
 		"fullCode":"513337204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨龙乡",
 		"parentCode":"513337"
 	},
@@ -59,7 +59,7 @@
 		"code":"513337205",
 		"fullCode":"513337205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓坡乡",
 		"parentCode":"513337"
 	},
@@ -67,7 +67,7 @@
 		"code":"513337206",
 		"fullCode":"513337206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木拉乡",
 		"parentCode":"513337"
 	},
@@ -75,7 +75,7 @@
 		"code":"513337207",
 		"fullCode":"513337207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤土乡",
 		"parentCode":"513337"
 	},
@@ -83,7 +83,7 @@
 		"code":"513337209",
 		"fullCode":"513337209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒙自乡",
 		"parentCode":"513337"
 	},
@@ -91,7 +91,7 @@
 		"code":"513337210",
 		"fullCode":"513337210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"各卡乡",
 		"parentCode":"513337"
 	},
@@ -99,7 +99,7 @@
 		"code":"513337212",
 		"fullCode":"513337212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俄牙同乡",
 		"parentCode":"513337"
 	}

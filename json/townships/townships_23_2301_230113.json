@@ -3,7 +3,7 @@
 		"code":"230113002",
 		"fullCode":"230113002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五家街道",
 		"parentCode":"230113"
 	},
@@ -11,7 +11,7 @@
 		"code":"230113003",
 		"fullCode":"230113003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴街道",
 		"parentCode":"230113"
 	},
@@ -19,7 +19,7 @@
 		"code":"230113004",
 		"fullCode":"230113004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰棱街道",
 		"parentCode":"230113"
 	},
@@ -27,7 +27,7 @@
 		"code":"230113005",
 		"fullCode":"230113005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周家街道",
 		"parentCode":"230113"
 	},
@@ -35,7 +35,7 @@
 		"code":"230113006",
 		"fullCode":"230113006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公正街道",
 		"parentCode":"230113"
 	},
@@ -43,7 +43,7 @@
 		"code":"230113007",
 		"fullCode":"230113007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"承旭街道",
 		"parentCode":"230113"
 	},
@@ -51,7 +51,7 @@
 		"code":"230113008",
 		"fullCode":"230113008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"承恩街道",
 		"parentCode":"230113"
 	},
@@ -59,7 +59,7 @@
 		"code":"230113009",
 		"fullCode":"230113009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永治街道",
 		"parentCode":"230113"
 	},
@@ -67,7 +67,7 @@
 		"code":"230113010",
 		"fullCode":"230113010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永和街道",
 		"parentCode":"230113"
 	},
@@ -75,7 +75,7 @@
 		"code":"230113011",
 		"fullCode":"230113011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福街道",
 		"parentCode":"230113"
 	},
@@ -83,7 +83,7 @@
 		"code":"230113104",
 		"fullCode":"230113104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩甸镇",
 		"parentCode":"230113"
 	},
@@ -91,7 +91,7 @@
 		"code":"230113105",
 		"fullCode":"230113105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"单城镇",
 		"parentCode":"230113"
 	},
@@ -99,7 +99,7 @@
 		"code":"230113106",
 		"fullCode":"230113106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东官镇",
 		"parentCode":"230113"
 	},
@@ -107,7 +107,7 @@
 		"code":"230113107",
 		"fullCode":"230113107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"农丰满族锡伯族镇",
 		"parentCode":"230113"
 	},
@@ -115,7 +115,7 @@
 		"code":"230113108",
 		"fullCode":"230113108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏山镇",
 		"parentCode":"230113"
 	},
@@ -123,7 +123,7 @@
 		"code":"230113109",
 		"fullCode":"230113109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西官镇",
 		"parentCode":"230113"
 	},
@@ -131,7 +131,7 @@
 		"code":"230113110",
 		"fullCode":"230113110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联兴镇",
 		"parentCode":"230113"
 	},
@@ -139,7 +139,7 @@
 		"code":"230113111",
 		"fullCode":"230113111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永胜镇",
 		"parentCode":"230113"
 	},
@@ -147,7 +147,7 @@
 		"code":"230113112",
 		"fullCode":"230113112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜丰镇",
 		"parentCode":"230113"
 	},
@@ -155,7 +155,7 @@
 		"code":"230113201",
 		"fullCode":"230113201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金城乡",
 		"parentCode":"230113"
 	},
@@ -163,7 +163,7 @@
 		"code":"230113203",
 		"fullCode":"230113203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青岭满族乡",
 		"parentCode":"230113"
 	},
@@ -171,7 +171,7 @@
 		"code":"230113209",
 		"fullCode":"230113209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江乡",
 		"parentCode":"230113"
 	},
@@ -179,7 +179,7 @@
 		"code":"230113210",
 		"fullCode":"230113210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水泉乡",
 		"parentCode":"230113"
 	},
@@ -187,7 +187,7 @@
 		"code":"230113211",
 		"fullCode":"230113211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐群满族乡",
 		"parentCode":"230113"
 	},
@@ -195,7 +195,7 @@
 		"code":"230113214",
 		"fullCode":"230113214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万隆乡",
 		"parentCode":"230113"
 	},
@@ -203,7 +203,7 @@
 		"code":"230113216",
 		"fullCode":"230113216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"希勤满族乡",
 		"parentCode":"230113"
 	},
@@ -211,7 +211,7 @@
 		"code":"230113217",
 		"fullCode":"230113217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同心满族乡",
 		"parentCode":"230113"
 	}

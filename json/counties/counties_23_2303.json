@@ -3,7 +3,7 @@
 		"code":"230302",
 		"fullCode":"230302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鸡冠区",
 		"parentCode":"2303"
 	},
@@ -11,7 +11,7 @@
 		"code":"230303",
 		"fullCode":"230303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"恒山区",
 		"parentCode":"2303"
 	},
@@ -19,7 +19,7 @@
 		"code":"230304",
 		"fullCode":"230304000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"滴道区",
 		"parentCode":"2303"
 	},
@@ -27,7 +27,7 @@
 		"code":"230305",
 		"fullCode":"230305000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"梨树区",
 		"parentCode":"2303"
 	},
@@ -35,7 +35,7 @@
 		"code":"230306",
 		"fullCode":"230306000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"城子河区",
 		"parentCode":"2303"
 	},
@@ -43,7 +43,7 @@
 		"code":"230307",
 		"fullCode":"230307000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"麻山区",
 		"parentCode":"2303"
 	},
@@ -51,7 +51,7 @@
 		"code":"230321",
 		"fullCode":"230321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鸡东县",
 		"parentCode":"2303"
 	},
@@ -59,7 +59,7 @@
 		"code":"230381",
 		"fullCode":"230381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"虎林市",
 		"parentCode":"2303"
 	},
@@ -67,7 +67,7 @@
 		"code":"230382",
 		"fullCode":"230382000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"密山市",
 		"parentCode":"2303"
 	}

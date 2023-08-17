@@ -3,7 +3,7 @@
 		"code":"330328100",
 		"fullCode":"330328100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大峃镇",
 		"parentCode":"330328"
 	},
@@ -11,7 +11,7 @@
 		"code":"330328101",
 		"fullCode":"330328101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百丈漈镇",
 		"parentCode":"330328"
 	},
@@ -19,7 +19,7 @@
 		"code":"330328102",
 		"fullCode":"330328102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南田镇",
 		"parentCode":"330328"
 	},
@@ -27,7 +27,7 @@
 		"code":"330328103",
 		"fullCode":"330328103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西坑畲族镇",
 		"parentCode":"330328"
 	},
@@ -35,7 +35,7 @@
 		"code":"330328104",
 		"fullCode":"330328104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄坦镇",
 		"parentCode":"330328"
 	},
@@ -43,7 +43,7 @@
 		"code":"330328105",
 		"fullCode":"330328105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珊溪镇",
 		"parentCode":"330328"
 	},
@@ -51,7 +51,7 @@
 		"code":"330328106",
 		"fullCode":"330328106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨屿镇",
 		"parentCode":"330328"
 	},
@@ -59,7 +59,7 @@
 		"code":"330328107",
 		"fullCode":"330328107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉壶镇",
 		"parentCode":"330328"
 	},
@@ -67,7 +67,7 @@
 		"code":"330328108",
 		"fullCode":"330328108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峃口镇",
 		"parentCode":"330328"
 	},
@@ -75,7 +75,7 @@
 		"code":"330328109",
 		"fullCode":"330328109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周壤镇",
 		"parentCode":"330328"
 	},
@@ -83,7 +83,7 @@
 		"code":"330328110",
 		"fullCode":"330328110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜铃山镇",
 		"parentCode":"330328"
 	},
@@ -91,7 +91,7 @@
 		"code":"330328111",
 		"fullCode":"330328111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二源镇",
 		"parentCode":"330328"
 	},
@@ -99,7 +99,7 @@
 		"code":"330328217",
 		"fullCode":"330328217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周山畲族乡",
 		"parentCode":"330328"
 	},
@@ -107,7 +107,7 @@
 		"code":"330328225",
 		"fullCode":"330328225000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂山乡",
 		"parentCode":"330328"
 	},
@@ -115,7 +115,7 @@
 		"code":"330328226",
 		"fullCode":"330328226000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桂乡",
 		"parentCode":"330328"
 	},
@@ -123,7 +123,7 @@
 		"code":"330328227",
 		"fullCode":"330328227000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平和乡",
 		"parentCode":"330328"
 	},
@@ -131,7 +131,7 @@
 		"code":"330328228",
 		"fullCode":"330328228000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公阳乡",
 		"parentCode":"330328"
 	}

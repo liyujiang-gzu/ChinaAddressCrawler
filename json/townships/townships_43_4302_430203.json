@@ -3,7 +3,7 @@
 		"code":"430203001",
 		"fullCode":"430203001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贺家土街道",
 		"parentCode":"430203"
 	},
@@ -11,7 +11,7 @@
 		"code":"430203002",
 		"fullCode":"430203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设街道",
 		"parentCode":"430203"
 	},
@@ -19,7 +19,7 @@
 		"code":"430203003",
 		"fullCode":"430203003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建宁街道",
 		"parentCode":"430203"
 	},
@@ -27,7 +27,7 @@
 		"code":"430203004",
 		"fullCode":"430203004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董家段街道",
 		"parentCode":"430203"
 	},
@@ -35,7 +35,7 @@
 		"code":"430203005",
 		"fullCode":"430203005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆云街道",
 		"parentCode":"430203"
 	},
@@ -43,7 +43,7 @@
 		"code":"430203006",
 		"fullCode":"430203006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫溪街道",
 		"parentCode":"430203"
 	},
@@ -51,7 +51,7 @@
 		"code":"430203007",
 		"fullCode":"430203007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉街道",
 		"parentCode":"430203"
 	},
@@ -59,7 +59,7 @@
 		"code":"430203100",
 		"fullCode":"430203100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白关镇",
 		"parentCode":"430203"
 	}

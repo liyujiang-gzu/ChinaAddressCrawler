@@ -3,7 +3,7 @@
 		"code":"360603001",
 		"fullCode":"360603001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓埠街道",
 		"parentCode":"360603"
 	},
@@ -11,7 +11,7 @@
 		"code":"360603101",
 		"fullCode":"360603101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦江镇",
 		"parentCode":"360603"
 	},
@@ -19,7 +19,7 @@
 		"code":"360603102",
 		"fullCode":"360603102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潢溪镇",
 		"parentCode":"360603"
 	},
@@ -27,7 +27,7 @@
 		"code":"360603103",
 		"fullCode":"360603103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中童镇",
 		"parentCode":"360603"
 	},
@@ -35,7 +35,7 @@
 		"code":"360603104",
 		"fullCode":"360603104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马荃镇",
 		"parentCode":"360603"
 	},
@@ -43,7 +43,7 @@
 		"code":"360603105",
 		"fullCode":"360603105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"画桥镇",
 		"parentCode":"360603"
 	},
@@ -51,7 +51,7 @@
 		"code":"360603106",
 		"fullCode":"360603106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春涛镇",
 		"parentCode":"360603"
 	},
@@ -59,7 +59,7 @@
 		"code":"360603200",
 		"fullCode":"360603200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平定乡",
 		"parentCode":"360603"
 	},
@@ -67,7 +67,7 @@
 		"code":"360603202",
 		"fullCode":"360603202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨溪乡",
 		"parentCode":"360603"
 	},
@@ -75,7 +75,7 @@
 		"code":"360603203",
 		"fullCode":"360603203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪湖乡",
 		"parentCode":"360603"
 	},
@@ -83,7 +83,7 @@
 		"code":"360603204",
 		"fullCode":"360603204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄庄乡",
 		"parentCode":"360603"
 	},
@@ -91,7 +91,7 @@
 		"code":"360603205",
 		"fullCode":"360603205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘家站乡",
 		"parentCode":"360603"
 	},
@@ -99,7 +99,7 @@
 		"code":"360603408",
 		"fullCode":"360603408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余江县工业园区",
 		"parentCode":"360603"
 	},
@@ -107,7 +107,7 @@
 		"code":"360603409",
 		"fullCode":"360603409000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹰潭市龙岗新区",
 		"parentCode":"360603"
 	},
@@ -115,7 +115,7 @@
 		"code":"360603501",
 		"fullCode":"360603501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高公寨营林场",
 		"parentCode":"360603"
 	},
@@ -123,7 +123,7 @@
 		"code":"360603504",
 		"fullCode":"360603504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余江县水产场",
 		"parentCode":"360603"
 	},
@@ -131,7 +131,7 @@
 		"code":"360603505",
 		"fullCode":"360603505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘潮源林场",
 		"parentCode":"360603"
 	},
@@ -139,7 +139,7 @@
 		"code":"360603506",
 		"fullCode":"360603506000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张公桥农场",
 		"parentCode":"360603"
 	},
@@ -147,7 +147,7 @@
 		"code":"360603508",
 		"fullCode":"360603508000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥农场",
 		"parentCode":"360603"
 	},
@@ -155,7 +155,7 @@
 		"code":"360603509",
 		"fullCode":"360603509000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余江区邓原农业示范园",
 		"parentCode":"360603"
 	}

@@ -3,7 +3,7 @@
 		"code":"340621100",
 		"fullCode":"340621100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濉溪镇",
 		"parentCode":"340621"
 	},
@@ -11,7 +11,7 @@
 		"code":"340621101",
 		"fullCode":"340621101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩村镇",
 		"parentCode":"340621"
 	},
@@ -19,7 +19,7 @@
 		"code":"340621102",
 		"fullCode":"340621102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘桥镇",
 		"parentCode":"340621"
 	},
@@ -27,7 +27,7 @@
 		"code":"340621103",
 		"fullCode":"340621103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五沟镇",
 		"parentCode":"340621"
 	},
@@ -35,7 +35,7 @@
 		"code":"340621104",
 		"fullCode":"340621104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临涣镇",
 		"parentCode":"340621"
 	},
@@ -43,7 +43,7 @@
 		"code":"340621105",
 		"fullCode":"340621105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双堆集镇",
 		"parentCode":"340621"
 	},
@@ -51,7 +51,7 @@
 		"code":"340621106",
 		"fullCode":"340621106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁佛镇",
 		"parentCode":"340621"
 	},
@@ -59,7 +59,7 @@
 		"code":"340621107",
 		"fullCode":"340621107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南坪镇",
 		"parentCode":"340621"
 	},
@@ -67,7 +67,7 @@
 		"code":"340621108",
 		"fullCode":"340621108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百善镇",
 		"parentCode":"340621"
 	},
@@ -75,7 +75,7 @@
 		"code":"340621109",
 		"fullCode":"340621109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙疃镇",
 		"parentCode":"340621"
 	},
@@ -83,7 +83,7 @@
 		"code":"340621110",
 		"fullCode":"340621110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四铺镇",
 		"parentCode":"340621"
 	},
@@ -91,7 +91,7 @@
 		"code":"340621400",
 		"fullCode":"340621400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽省濉溪经济开发区",
 		"parentCode":"340621"
 	},
@@ -99,7 +99,7 @@
 		"code":"340621401",
 		"fullCode":"340621401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濉溪芜湖现代产业园区",
 		"parentCode":"340621"
 	}

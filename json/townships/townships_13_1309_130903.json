@@ -3,7 +3,7 @@
 		"code":"130903001",
 		"fullCode":"130903001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水月寺街街道",
 		"parentCode":"130903"
 	},
@@ -11,7 +11,7 @@
 		"code":"130903002",
 		"fullCode":"130903002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南环中路街道",
 		"parentCode":"130903"
 	},
@@ -19,7 +19,7 @@
 		"code":"130903003",
 		"fullCode":"130903003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖街道",
 		"parentCode":"130903"
 	},
@@ -27,7 +27,7 @@
 		"code":"130903004",
 		"fullCode":"130903004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市场街道",
 		"parentCode":"130903"
 	},
@@ -35,7 +35,7 @@
 		"code":"130903005",
 		"fullCode":"130903005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西环中街街道",
 		"parentCode":"130903"
 	},
@@ -43,7 +43,7 @@
 		"code":"130903006",
 		"fullCode":"130903006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公园街道",
 		"parentCode":"130903"
 	},
@@ -51,7 +51,7 @@
 		"code":"130903100",
 		"fullCode":"130903100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小王庄镇",
 		"parentCode":"130903"
 	},
@@ -59,7 +59,7 @@
 		"code":"130903101",
 		"fullCode":"130903101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南陈屯镇",
 		"parentCode":"130903"
 	}

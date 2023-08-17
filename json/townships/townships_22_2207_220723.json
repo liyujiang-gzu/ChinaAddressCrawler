@@ -3,7 +3,7 @@
 		"code":"220723001",
 		"fullCode":"220723001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣业街道",
 		"parentCode":"220723"
 	},
@@ -11,7 +11,7 @@
 		"code":"220723002",
 		"fullCode":"220723002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驰誉街道",
 		"parentCode":"220723"
 	},
@@ -19,7 +19,7 @@
 		"code":"220723003",
 		"fullCode":"220723003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"如松街道",
 		"parentCode":"220723"
 	},
@@ -27,7 +27,7 @@
 		"code":"220723100",
 		"fullCode":"220723100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乾安镇",
 		"parentCode":"220723"
 	},
@@ -35,7 +35,7 @@
 		"code":"220723101",
 		"fullCode":"220723101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大布苏镇",
 		"parentCode":"220723"
 	},
@@ -43,7 +43,7 @@
 		"code":"220723102",
 		"fullCode":"220723102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水字镇",
 		"parentCode":"220723"
 	},
@@ -51,7 +51,7 @@
 		"code":"220723103",
 		"fullCode":"220723103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"让字镇",
 		"parentCode":"220723"
 	},
@@ -59,7 +59,7 @@
 		"code":"220723104",
 		"fullCode":"220723104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"所字镇",
 		"parentCode":"220723"
 	},
@@ -67,7 +67,7 @@
 		"code":"220723105",
 		"fullCode":"220723105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安字镇",
 		"parentCode":"220723"
 	},
@@ -75,7 +75,7 @@
 		"code":"220723200",
 		"fullCode":"220723200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余字乡",
 		"parentCode":"220723"
 	},
@@ -83,7 +83,7 @@
 		"code":"220723201",
 		"fullCode":"220723201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道字乡",
 		"parentCode":"220723"
 	},
@@ -91,7 +91,7 @@
 		"code":"220723202",
 		"fullCode":"220723202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"严字乡",
 		"parentCode":"220723"
 	},
@@ -99,7 +99,7 @@
 		"code":"220723203",
 		"fullCode":"220723203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赞字乡",
 		"parentCode":"220723"
 	},
@@ -107,7 +107,7 @@
 		"code":"220723400",
 		"fullCode":"220723400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营林场",
 		"parentCode":"220723"
 	},
@@ -115,7 +115,7 @@
 		"code":"220723401",
 		"fullCode":"220723401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腾字种畜场",
 		"parentCode":"220723"
 	},
@@ -123,7 +123,7 @@
 		"code":"220723402",
 		"fullCode":"220723402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大遐畜牧场",
 		"parentCode":"220723"
 	},
@@ -131,7 +131,7 @@
 		"code":"220723403",
 		"fullCode":"220723403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乾安鹿场",
 		"parentCode":"220723"
 	},
@@ -139,7 +139,7 @@
 		"code":"220723404",
 		"fullCode":"220723404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"来字良种繁育基地",
 		"parentCode":"220723"
 	},
@@ -147,7 +147,7 @@
 		"code":"220723405",
 		"fullCode":"220723405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地字种畜场",
 		"parentCode":"220723"
 	}

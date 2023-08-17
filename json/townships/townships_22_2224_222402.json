@@ -3,7 +3,7 @@
 		"code":"222402001",
 		"fullCode":"222402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向上街道",
 		"parentCode":"222402"
 	},
@@ -11,7 +11,7 @@
 		"code":"222402002",
 		"fullCode":"222402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街道",
 		"parentCode":"222402"
 	},
@@ -19,7 +19,7 @@
 		"code":"222402003",
 		"fullCode":"222402003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月宫街道",
 		"parentCode":"222402"
 	},
@@ -27,7 +27,7 @@
 		"code":"222402100",
 		"fullCode":"222402100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月晴镇",
 		"parentCode":"222402"
 	},
@@ -35,7 +35,7 @@
 		"code":"222402101",
 		"fullCode":"222402101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石岘镇",
 		"parentCode":"222402"
 	},
@@ -43,7 +43,7 @@
 		"code":"222402102",
 		"fullCode":"222402102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安镇",
 		"parentCode":"222402"
 	},
@@ -51,7 +51,7 @@
 		"code":"222402103",
 		"fullCode":"222402103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉水镇",
 		"parentCode":"222402"
 	}

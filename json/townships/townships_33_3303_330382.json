@@ -3,7 +3,7 @@
 		"code":"330382001",
 		"fullCode":"330382001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"330382"
 	},
@@ -11,7 +11,7 @@
 		"code":"330382002",
 		"fullCode":"330382002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐成街道",
 		"parentCode":"330382"
 	},
@@ -19,7 +19,7 @@
 		"code":"330382003",
 		"fullCode":"330382003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"330382"
 	},
@@ -27,7 +27,7 @@
 		"code":"330382004",
 		"fullCode":"330382004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐盆街道",
 		"parentCode":"330382"
 	},
@@ -35,7 +35,7 @@
 		"code":"330382005",
 		"fullCode":"330382005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翁垟街道",
 		"parentCode":"330382"
 	},
@@ -43,7 +43,7 @@
 		"code":"330382006",
 		"fullCode":"330382006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石街道",
 		"parentCode":"330382"
 	},
@@ -51,7 +51,7 @@
 		"code":"330382007",
 		"fullCode":"330382007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石帆街道",
 		"parentCode":"330382"
 	},
@@ -59,7 +59,7 @@
 		"code":"330382008",
 		"fullCode":"330382008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天成街道",
 		"parentCode":"330382"
 	},
@@ -67,7 +67,7 @@
 		"code":"330382101",
 		"fullCode":"330382101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大荆镇",
 		"parentCode":"330382"
 	},
@@ -75,7 +75,7 @@
 		"code":"330382102",
 		"fullCode":"330382102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙溪镇",
 		"parentCode":"330382"
 	},
@@ -83,7 +83,7 @@
 		"code":"330382104",
 		"fullCode":"330382104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雁荡镇",
 		"parentCode":"330382"
 	},
@@ -91,7 +91,7 @@
 		"code":"330382105",
 		"fullCode":"330382105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芙蓉镇",
 		"parentCode":"330382"
 	},
@@ -99,7 +99,7 @@
 		"code":"330382106",
 		"fullCode":"330382106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清江镇",
 		"parentCode":"330382"
 	},
@@ -107,7 +107,7 @@
 		"code":"330382108",
 		"fullCode":"330382108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虹桥镇",
 		"parentCode":"330382"
 	},
@@ -115,7 +115,7 @@
 		"code":"330382111",
 		"fullCode":"330382111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淡溪镇",
 		"parentCode":"330382"
 	},
@@ -123,7 +123,7 @@
 		"code":"330382114",
 		"fullCode":"330382114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳市镇",
 		"parentCode":"330382"
 	},
@@ -131,7 +131,7 @@
 		"code":"330382115",
 		"fullCode":"330382115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北白象镇",
 		"parentCode":"330382"
 	},
@@ -139,7 +139,7 @@
 		"code":"330382121",
 		"fullCode":"330382121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖雾镇",
 		"parentCode":"330382"
 	},
@@ -147,7 +147,7 @@
 		"code":"330382122",
 		"fullCode":"330382122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南塘镇",
 		"parentCode":"330382"
 	},
@@ -155,7 +155,7 @@
 		"code":"330382123",
 		"fullCode":"330382123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岳镇",
 		"parentCode":"330382"
 	},
@@ -163,7 +163,7 @@
 		"code":"330382124",
 		"fullCode":"330382124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲岐镇",
 		"parentCode":"330382"
 	},
@@ -171,7 +171,7 @@
 		"code":"330382125",
 		"fullCode":"330382125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磐石镇",
 		"parentCode":"330382"
 	},
@@ -179,7 +179,7 @@
 		"code":"330382210",
 		"fullCode":"330382210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"智仁乡",
 		"parentCode":"330382"
 	},
@@ -187,7 +187,7 @@
 		"code":"330382211",
 		"fullCode":"330382211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙西乡",
 		"parentCode":"330382"
 	},
@@ -195,7 +195,7 @@
 		"code":"330382212",
 		"fullCode":"330382212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭底乡",
 		"parentCode":"330382"
 	}

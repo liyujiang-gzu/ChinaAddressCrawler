@@ -3,7 +3,7 @@
 		"code":"610803001",
 		"fullCode":"610803001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"610803"
 	},
@@ -11,7 +11,7 @@
 		"code":"610803002",
 		"fullCode":"610803002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀远街道",
 		"parentCode":"610803"
 	},
@@ -19,7 +19,7 @@
 		"code":"610803003",
 		"fullCode":"610803003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏州街道",
 		"parentCode":"610803"
 	},
@@ -27,7 +27,7 @@
 		"code":"610803004",
 		"fullCode":"610803004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀仁路街道",
 		"parentCode":"610803"
 	},
@@ -35,7 +35,7 @@
 		"code":"610803005",
 		"fullCode":"610803005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇德路街道",
 		"parentCode":"610803"
 	},
@@ -43,7 +43,7 @@
 		"code":"610803101",
 		"fullCode":"610803101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石湾镇",
 		"parentCode":"610803"
 	},
@@ -51,7 +51,7 @@
 		"code":"610803102",
 		"fullCode":"610803102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高镇",
 		"parentCode":"610803"
 	},
@@ -59,7 +59,7 @@
 		"code":"610803103",
 		"fullCode":"610803103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武镇",
 		"parentCode":"610803"
 	},
@@ -67,7 +67,7 @@
 		"code":"610803104",
 		"fullCode":"610803104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"党岔镇",
 		"parentCode":"610803"
 	},
@@ -75,7 +75,7 @@
 		"code":"610803105",
 		"fullCode":"610803105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"响水镇",
 		"parentCode":"610803"
 	},
@@ -83,7 +83,7 @@
 		"code":"610803106",
 		"fullCode":"610803106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波罗镇",
 		"parentCode":"610803"
 	},
@@ -91,7 +91,7 @@
 		"code":"610803107",
 		"fullCode":"610803107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"殿市镇",
 		"parentCode":"610803"
 	},
@@ -99,7 +99,7 @@
 		"code":"610803108",
 		"fullCode":"610803108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔湾镇",
 		"parentCode":"610803"
 	},
@@ -107,7 +107,7 @@
 		"code":"610803109",
 		"fullCode":"610803109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵石畔镇",
 		"parentCode":"610803"
 	},
@@ -115,7 +115,7 @@
 		"code":"610803110",
 		"fullCode":"610803110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魏家楼镇",
 		"parentCode":"610803"
 	},
@@ -123,7 +123,7 @@
 		"code":"610803111",
 		"fullCode":"610803111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩岔镇",
 		"parentCode":"610803"
 	},
@@ -131,7 +131,7 @@
 		"code":"610803112",
 		"fullCode":"610803112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白界镇",
 		"parentCode":"610803"
 	},
@@ -139,7 +139,7 @@
 		"code":"610803113",
 		"fullCode":"610803113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷龙湾镇",
 		"parentCode":"610803"
 	}

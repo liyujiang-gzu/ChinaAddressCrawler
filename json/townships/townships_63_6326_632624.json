@@ -3,7 +3,7 @@
 		"code":"632624100",
 		"fullCode":"632624100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉迈镇",
 		"parentCode":"632624"
 	},
@@ -11,7 +11,7 @@
 		"code":"632624200",
 		"fullCode":"632624200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满掌乡",
 		"parentCode":"632624"
 	},
@@ -19,7 +19,7 @@
 		"code":"632624201",
 		"fullCode":"632624201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德昂乡",
 		"parentCode":"632624"
 	},
@@ -27,7 +27,7 @@
 		"code":"632624202",
 		"fullCode":"632624202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窝赛乡",
 		"parentCode":"632624"
 	},
@@ -35,7 +35,7 @@
 		"code":"632624203",
 		"fullCode":"632624203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫坝乡",
 		"parentCode":"632624"
 	},
@@ -43,7 +43,7 @@
 		"code":"632624204",
 		"fullCode":"632624204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上红科乡",
 		"parentCode":"632624"
 	},
@@ -51,7 +51,7 @@
 		"code":"632624205",
 		"fullCode":"632624205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下红科乡",
 		"parentCode":"632624"
 	},
@@ -59,7 +59,7 @@
 		"code":"632624206",
 		"fullCode":"632624206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设乡",
 		"parentCode":"632624"
 	},
@@ -67,7 +67,7 @@
 		"code":"632624207",
 		"fullCode":"632624207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑日麻乡",
 		"parentCode":"632624"
 	},
@@ -75,7 +75,7 @@
 		"code":"632624208",
 		"fullCode":"632624208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"特合土乡",
 		"parentCode":"632624"
 	}

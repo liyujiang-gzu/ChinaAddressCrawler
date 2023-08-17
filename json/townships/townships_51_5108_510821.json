@@ -3,7 +3,7 @@
 		"code":"510821100",
 		"fullCode":"510821100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东河镇",
 		"parentCode":"510821"
 	},
@@ -11,7 +11,7 @@
 		"code":"510821101",
 		"fullCode":"510821101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉川镇",
 		"parentCode":"510821"
 	},
@@ -19,7 +19,7 @@
 		"code":"510821102",
 		"fullCode":"510821102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木门镇",
 		"parentCode":"510821"
 	},
@@ -27,7 +27,7 @@
 		"code":"510821103",
 		"fullCode":"510821103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白水镇",
 		"parentCode":"510821"
 	},
@@ -35,7 +35,7 @@
 		"code":"510821105",
 		"fullCode":"510821105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张华镇",
 		"parentCode":"510821"
 	},
@@ -43,7 +43,7 @@
 		"code":"510821106",
 		"fullCode":"510821106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄洋镇",
 		"parentCode":"510821"
 	},
@@ -51,7 +51,7 @@
 		"code":"510821107",
 		"fullCode":"510821107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普济镇",
 		"parentCode":"510821"
 	},
@@ -59,7 +59,7 @@
 		"code":"510821108",
 		"fullCode":"510821108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三江镇",
 		"parentCode":"510821"
 	},
@@ -67,7 +67,7 @@
 		"code":"510821110",
 		"fullCode":"510821110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五权镇",
 		"parentCode":"510821"
 	},
@@ -75,7 +75,7 @@
 		"code":"510821111",
 		"fullCode":"510821111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高阳镇",
 		"parentCode":"510821"
 	},
@@ -83,7 +83,7 @@
 		"code":"510821112",
 		"fullCode":"510821112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双汇镇",
 		"parentCode":"510821"
 	},
@@ -91,7 +91,7 @@
 		"code":"510821113",
 		"fullCode":"510821113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英萃镇",
 		"parentCode":"510821"
 	},
@@ -99,7 +99,7 @@
 		"code":"510821114",
 		"fullCode":"510821114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国华镇",
 		"parentCode":"510821"
 	},
@@ -107,7 +107,7 @@
 		"code":"510821115",
 		"fullCode":"510821115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙凤镇",
 		"parentCode":"510821"
 	},
@@ -115,7 +115,7 @@
 		"code":"510821116",
 		"fullCode":"510821116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙镇",
 		"parentCode":"510821"
 	},
@@ -123,7 +123,7 @@
 		"code":"510821117",
 		"fullCode":"510821117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米仓山镇",
 		"parentCode":"510821"
 	},
@@ -131,7 +131,7 @@
 		"code":"510821118",
 		"fullCode":"510821118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大德镇",
 		"parentCode":"510821"
 	},
@@ -139,7 +139,7 @@
 		"code":"510821119",
 		"fullCode":"510821119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大两镇",
 		"parentCode":"510821"
 	},
@@ -147,7 +147,7 @@
 		"code":"510821120",
 		"fullCode":"510821120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水磨镇",
 		"parentCode":"510821"
 	},
@@ -155,7 +155,7 @@
 		"code":"510821121",
 		"fullCode":"510821121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐河镇",
 		"parentCode":"510821"
 	},
@@ -163,7 +163,7 @@
 		"code":"510821122",
 		"fullCode":"510821122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天星镇",
 		"parentCode":"510821"
 	},
@@ -171,7 +171,7 @@
 		"code":"510821204",
 		"fullCode":"510821204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕子乡",
 		"parentCode":"510821"
 	},
@@ -179,7 +179,7 @@
 		"code":"510821207",
 		"fullCode":"510821207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"檬子乡",
 		"parentCode":"510821"
 	}

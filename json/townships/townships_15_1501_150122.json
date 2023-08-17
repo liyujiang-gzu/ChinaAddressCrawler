@@ -3,7 +3,7 @@
 		"code":"150122100",
 		"fullCode":"150122100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河镇",
 		"parentCode":"150122"
 	},
@@ -11,7 +11,7 @@
 		"code":"150122101",
 		"fullCode":"150122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新营子镇",
 		"parentCode":"150122"
 	},
@@ -19,7 +19,7 @@
 		"code":"150122102",
 		"fullCode":"150122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五申镇",
 		"parentCode":"150122"
 	},
@@ -27,7 +27,7 @@
 		"code":"150122103",
 		"fullCode":"150122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伍什家镇",
 		"parentCode":"150122"
 	},
@@ -35,7 +35,7 @@
 		"code":"150122104",
 		"fullCode":"150122104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"150122"
 	},
@@ -43,7 +43,7 @@
 		"code":"150122400",
 		"fullCode":"150122400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托县工业园区",
 		"parentCode":"150122"
 	}

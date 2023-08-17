@@ -3,7 +3,7 @@
 		"code":"620981002",
 		"fullCode":"620981002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新市区街道",
 		"parentCode":"620981"
 	},
@@ -11,7 +11,7 @@
 		"code":"620981101",
 		"fullCode":"620981101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉门镇",
 		"parentCode":"620981"
 	},
@@ -19,7 +19,7 @@
 		"code":"620981102",
 		"fullCode":"620981102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤金镇",
 		"parentCode":"620981"
 	},
@@ -27,7 +27,7 @@
 		"code":"620981103",
 		"fullCode":"620981103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花海镇",
 		"parentCode":"620981"
 	},
@@ -35,7 +35,7 @@
 		"code":"620981104",
 		"fullCode":"620981104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老君庙镇",
 		"parentCode":"620981"
 	},
@@ -43,7 +43,7 @@
 		"code":"620981105",
 		"fullCode":"620981105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄闸湾镇",
 		"parentCode":"620981"
 	},
@@ -51,7 +51,7 @@
 		"code":"620981106",
 		"fullCode":"620981106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下西号镇",
 		"parentCode":"620981"
 	},
@@ -59,7 +59,7 @@
 		"code":"620981107",
 		"fullCode":"620981107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳河镇",
 		"parentCode":"620981"
 	},
@@ -67,7 +67,7 @@
 		"code":"620981108",
 		"fullCode":"620981108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌马镇",
 		"parentCode":"620981"
 	},
@@ -75,7 +75,7 @@
 		"code":"620981109",
 		"fullCode":"620981109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳湖镇",
 		"parentCode":"620981"
 	},
@@ -83,7 +83,7 @@
 		"code":"620981110",
 		"fullCode":"620981110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六墩镇",
 		"parentCode":"620981"
 	},
@@ -91,7 +91,7 @@
 		"code":"620981206",
 		"fullCode":"620981206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小金湾东乡族乡",
 		"parentCode":"620981"
 	},
@@ -99,7 +99,7 @@
 		"code":"620981208",
 		"fullCode":"620981208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"独山子东乡族乡",
 		"parentCode":"620981"
 	},
@@ -107,7 +107,7 @@
 		"code":"620981400",
 		"fullCode":"620981400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营饮马农场",
 		"parentCode":"620981"
 	},
@@ -115,7 +115,7 @@
 		"code":"620981401",
 		"fullCode":"620981401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营黄花农场",
 		"parentCode":"620981"
 	},
@@ -123,7 +123,7 @@
 		"code":"620981404",
 		"fullCode":"620981404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘肃矿区",
 		"parentCode":"620981"
 	}

@@ -3,7 +3,7 @@
 		"code":"210803002",
 		"fullCode":"210803002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清华街道",
 		"parentCode":"210803"
 	},
@@ -11,7 +11,7 @@
 		"code":"210803003",
 		"fullCode":"210803003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海街道",
 		"parentCode":"210803"
 	},
@@ -19,7 +19,7 @@
 		"code":"210803004",
 		"fullCode":"210803004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"得胜街道",
 		"parentCode":"210803"
 	},
@@ -27,7 +27,7 @@
 		"code":"210803005",
 		"fullCode":"210803005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五台子街道",
 		"parentCode":"210803"
 	},
@@ -35,7 +35,7 @@
 		"code":"210803006",
 		"fullCode":"210803006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔市街道",
 		"parentCode":"210803"
 	},
@@ -43,7 +43,7 @@
 		"code":"210803400",
 		"fullCode":"210803400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽宁自贸区营口片区",
 		"parentCode":"210803"
 	},
@@ -51,7 +51,7 @@
 		"code":"210803401",
 		"fullCode":"210803401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽宁（营口）沿海产业基地",
 		"parentCode":"210803"
 	}

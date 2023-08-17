@@ -3,7 +3,7 @@
 		"code":"210302002",
 		"fullCode":"210302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放街道",
 		"parentCode":"210302"
 	},
@@ -11,7 +11,7 @@
 		"code":"210302003",
 		"fullCode":"210302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山南街道",
 		"parentCode":"210302"
 	},
@@ -19,7 +19,7 @@
 		"code":"210302004",
 		"fullCode":"210302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"园林街道",
 		"parentCode":"210302"
 	},
@@ -27,7 +27,7 @@
 		"code":"210302006",
 		"fullCode":"210302006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站前街道",
 		"parentCode":"210302"
 	},
@@ -35,7 +35,7 @@
 		"code":"210302008",
 		"fullCode":"210302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"210302"
 	},
@@ -43,7 +43,7 @@
 		"code":"210302011",
 		"fullCode":"210302011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖南街道",
 		"parentCode":"210302"
 	},
@@ -51,7 +51,7 @@
 		"code":"210302013",
 		"fullCode":"210302013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴街道",
 		"parentCode":"210302"
 	},
@@ -59,7 +59,7 @@
 		"code":"210302014",
 		"fullCode":"210302014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧堡街道",
 		"parentCode":"210302"
 	},
@@ -67,7 +67,7 @@
 		"code":"210302015",
 		"fullCode":"210302015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大孤山街道",
 		"parentCode":"210302"
 	},
@@ -75,7 +75,7 @@
 		"code":"210302017",
 		"fullCode":"210302017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长甸街道",
 		"parentCode":"210302"
 	},
@@ -83,7 +83,7 @@
 		"code":"210302400",
 		"fullCode":"210302400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉佛山风景区",
 		"parentCode":"210302"
 	}

@@ -3,7 +3,7 @@
 		"code":"330203",
 		"fullCode":"330203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海曙区",
 		"parentCode":"3302"
 	},
@@ -11,7 +11,7 @@
 		"code":"330205",
 		"fullCode":"330205000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江北区",
 		"parentCode":"3302"
 	},
@@ -19,7 +19,7 @@
 		"code":"330206",
 		"fullCode":"330206000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"北仑区",
 		"parentCode":"3302"
 	},
@@ -27,7 +27,7 @@
 		"code":"330211",
 		"fullCode":"330211000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"镇海区",
 		"parentCode":"3302"
 	},
@@ -35,7 +35,7 @@
 		"code":"330212",
 		"fullCode":"330212000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鄞州区",
 		"parentCode":"3302"
 	},
@@ -43,7 +43,7 @@
 		"code":"330213",
 		"fullCode":"330213000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"奉化区",
 		"parentCode":"3302"
 	},
@@ -51,7 +51,7 @@
 		"code":"330225",
 		"fullCode":"330225000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"象山县",
 		"parentCode":"3302"
 	},
@@ -59,7 +59,7 @@
 		"code":"330226",
 		"fullCode":"330226000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁海县",
 		"parentCode":"3302"
 	},
@@ -67,7 +67,7 @@
 		"code":"330281",
 		"fullCode":"330281000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"余姚市",
 		"parentCode":"3302"
 	},
@@ -75,7 +75,7 @@
 		"code":"330282",
 		"fullCode":"330282000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"慈溪市",
 		"parentCode":"3302"
 	}

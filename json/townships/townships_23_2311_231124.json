@@ -3,7 +3,7 @@
 		"code":"231124100",
 		"fullCode":"231124100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙吴镇",
 		"parentCode":"231124"
 	},
@@ -11,7 +11,7 @@
 		"code":"231124101",
 		"fullCode":"231124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辰清镇",
 		"parentCode":"231124"
 	},
@@ -19,7 +19,7 @@
 		"code":"231124201",
 		"fullCode":"231124201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西兴乡",
 		"parentCode":"231124"
 	},
@@ -27,7 +27,7 @@
 		"code":"231124202",
 		"fullCode":"231124202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿江满族达斡尔族乡",
 		"parentCode":"231124"
 	},
@@ -35,7 +35,7 @@
 		"code":"231124203",
 		"fullCode":"231124203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰屯乡",
 		"parentCode":"231124"
 	},
@@ -43,7 +43,7 @@
 		"code":"231124204",
 		"fullCode":"231124204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧牛河乡",
 		"parentCode":"231124"
 	},
@@ -51,7 +51,7 @@
 		"code":"231124205",
 		"fullCode":"231124205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"群山乡",
 		"parentCode":"231124"
 	},
@@ -59,7 +59,7 @@
 		"code":"231124206",
 		"fullCode":"231124206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奋斗乡",
 		"parentCode":"231124"
 	},
@@ -67,7 +67,7 @@
 		"code":"231124207",
 		"fullCode":"231124207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗乡",
 		"parentCode":"231124"
 	},
@@ -75,7 +75,7 @@
 		"code":"231124208",
 		"fullCode":"231124208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳山乡",
 		"parentCode":"231124"
 	},
@@ -83,7 +83,7 @@
 		"code":"231124210",
 		"fullCode":"231124210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清溪乡",
 		"parentCode":"231124"
 	},
@@ -91,7 +91,7 @@
 		"code":"231124402",
 		"fullCode":"231124402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进林场",
 		"parentCode":"231124"
 	},
@@ -99,7 +99,7 @@
 		"code":"231124403",
 		"fullCode":"231124403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河口林场",
 		"parentCode":"231124"
 	},
@@ -107,7 +107,7 @@
 		"code":"231124404",
 		"fullCode":"231124404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳林场",
 		"parentCode":"231124"
 	},
@@ -115,7 +115,7 @@
 		"code":"231124405",
 		"fullCode":"231124405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山林场",
 		"parentCode":"231124"
 	},
@@ -123,7 +123,7 @@
 		"code":"231124406",
 		"fullCode":"231124406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿江林场",
 		"parentCode":"231124"
 	},
@@ -131,7 +131,7 @@
 		"code":"231124407",
 		"fullCode":"231124407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辰清林场",
 		"parentCode":"231124"
 	},
@@ -139,7 +139,7 @@
 		"code":"231124408",
 		"fullCode":"231124408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗林场",
 		"parentCode":"231124"
 	},
@@ -147,7 +147,7 @@
 		"code":"231124409",
 		"fullCode":"231124409000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳林场",
 		"parentCode":"231124"
 	},
@@ -155,7 +155,7 @@
 		"code":"231124410",
 		"fullCode":"231124410000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良种场",
 		"parentCode":"231124"
 	},
@@ -163,7 +163,7 @@
 		"code":"231124411",
 		"fullCode":"231124411000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"种畜场",
 		"parentCode":"231124"
 	}

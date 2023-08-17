@@ -3,7 +3,7 @@
 		"code":"140821100",
 		"fullCode":"140821100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"猗氏镇",
 		"parentCode":"140821"
 	},
@@ -11,7 +11,7 @@
 		"code":"140821101",
 		"fullCode":"140821101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嵋阳镇",
 		"parentCode":"140821"
 	},
@@ -19,7 +19,7 @@
 		"code":"140821102",
 		"fullCode":"140821102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临晋镇",
 		"parentCode":"140821"
 	},
@@ -27,7 +27,7 @@
 		"code":"140821103",
 		"fullCode":"140821103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七级镇",
 		"parentCode":"140821"
 	},
@@ -35,7 +35,7 @@
 		"code":"140821104",
 		"fullCode":"140821104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东张镇",
 		"parentCode":"140821"
 	},
@@ -43,7 +43,7 @@
 		"code":"140821105",
 		"fullCode":"140821105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙吉镇",
 		"parentCode":"140821"
 	},
@@ -51,7 +51,7 @@
 		"code":"140821106",
 		"fullCode":"140821106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三管镇",
 		"parentCode":"140821"
 	},
@@ -59,7 +59,7 @@
 		"code":"140821107",
 		"fullCode":"140821107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛杜镇",
 		"parentCode":"140821"
 	},
@@ -67,7 +67,7 @@
 		"code":"140821108",
 		"fullCode":"140821108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"耽子镇",
 		"parentCode":"140821"
 	},
@@ -75,7 +75,7 @@
 		"code":"140821109",
 		"fullCode":"140821109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"角杯镇",
 		"parentCode":"140821"
 	},
@@ -83,7 +83,7 @@
 		"code":"140821200",
 		"fullCode":"140821200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楚侯乡",
 		"parentCode":"140821"
 	},
@@ -91,7 +91,7 @@
 		"code":"140821201",
 		"fullCode":"140821201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙上乡",
 		"parentCode":"140821"
 	},
@@ -99,7 +99,7 @@
 		"code":"140821203",
 		"fullCode":"140821203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北辛乡",
 		"parentCode":"140821"
 	},
@@ -107,7 +107,7 @@
 		"code":"140821204",
 		"fullCode":"140821204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北景乡",
 		"parentCode":"140821"
 	},
@@ -115,7 +115,7 @@
 		"code":"140821402",
 		"fullCode":"140821402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临猗县城市社区",
 		"parentCode":"140821"
 	}

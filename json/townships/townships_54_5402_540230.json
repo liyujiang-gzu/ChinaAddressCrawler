@@ -3,7 +3,7 @@
 		"code":"540230100",
 		"fullCode":"540230100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康马镇",
 		"parentCode":"540230"
 	},
@@ -11,7 +11,7 @@
 		"code":"540230200",
 		"fullCode":"540230200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南尼乡",
 		"parentCode":"540230"
 	},
@@ -19,7 +19,7 @@
 		"code":"540230201",
 		"fullCode":"540230201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"少岗乡",
 		"parentCode":"540230"
 	},
@@ -27,7 +27,7 @@
 		"code":"540230202",
 		"fullCode":"540230202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康如乡",
 		"parentCode":"540230"
 	},
@@ -35,7 +35,7 @@
 		"code":"540230203",
 		"fullCode":"540230203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨玛达乡",
 		"parentCode":"540230"
 	},
@@ -43,7 +43,7 @@
 		"code":"540230204",
 		"fullCode":"540230204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎拉乡",
 		"parentCode":"540230"
 	},
@@ -51,7 +51,7 @@
 		"code":"540230205",
 		"fullCode":"540230205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涅如堆乡",
 		"parentCode":"540230"
 	},
@@ -59,7 +59,7 @@
 		"code":"540230206",
 		"fullCode":"540230206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涅如麦乡",
 		"parentCode":"540230"
 	},
@@ -67,7 +67,7 @@
 		"code":"540230207",
 		"fullCode":"540230207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雄章乡",
 		"parentCode":"540230"
 	}

@@ -3,7 +3,7 @@
 		"code":"340271001",
 		"fullCode":"340271001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山街道",
 		"parentCode":"340271"
 	},
@@ -11,7 +11,7 @@
 		"code":"340271002",
 		"fullCode":"340271002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万春街道",
 		"parentCode":"340271"
 	}

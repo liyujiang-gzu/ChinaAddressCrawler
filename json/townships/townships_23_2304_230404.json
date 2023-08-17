@@ -3,7 +3,7 @@
 		"code":"230404001",
 		"fullCode":"230404001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西街道",
 		"parentCode":"230404"
 	},
@@ -11,7 +11,7 @@
 		"code":"230404002",
 		"fullCode":"230404002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁东街道",
 		"parentCode":"230404"
 	},
@@ -19,7 +19,7 @@
 		"code":"230404003",
 		"fullCode":"230404003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六号街道",
 		"parentCode":"230404"
 	},
@@ -27,7 +27,7 @@
 		"code":"230404004",
 		"fullCode":"230404004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大陆街道",
 		"parentCode":"230404"
 	},
@@ -35,7 +35,7 @@
 		"code":"230404005",
 		"fullCode":"230404005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富力街道",
 		"parentCode":"230404"
 	},
@@ -43,7 +43,7 @@
 		"code":"230404006",
 		"fullCode":"230404006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麓林山街道",
 		"parentCode":"230404"
 	}

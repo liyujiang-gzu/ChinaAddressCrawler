@@ -3,7 +3,7 @@
 		"code":"445302",
 		"fullCode":"445302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"云城区",
 		"parentCode":"4453"
 	},
@@ -11,7 +11,7 @@
 		"code":"445303",
 		"fullCode":"445303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"云安区",
 		"parentCode":"4453"
 	},
@@ -19,7 +19,7 @@
 		"code":"445321",
 		"fullCode":"445321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新兴县",
 		"parentCode":"4453"
 	},
@@ -27,7 +27,7 @@
 		"code":"445322",
 		"fullCode":"445322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郁南县",
 		"parentCode":"4453"
 	},
@@ -35,7 +35,7 @@
 		"code":"445381",
 		"fullCode":"445381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"罗定市",
 		"parentCode":"4453"
 	}

@@ -3,7 +3,7 @@
 		"code":"220821001",
 		"fullCode":"220821001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤城街道",
 		"parentCode":"220821"
 	},
@@ -11,7 +11,7 @@
 		"code":"220821002",
 		"fullCode":"220821002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇东街道",
 		"parentCode":"220821"
 	},
@@ -19,7 +19,7 @@
 		"code":"220821003",
 		"fullCode":"220821003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赉北街道",
 		"parentCode":"220821"
 	},
@@ -27,7 +27,7 @@
 		"code":"220821100",
 		"fullCode":"220821100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇赉镇",
 		"parentCode":"220821"
 	},
@@ -35,7 +35,7 @@
 		"code":"220821101",
 		"fullCode":"220821101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坦途镇",
 		"parentCode":"220821"
 	},
@@ -43,7 +43,7 @@
 		"code":"220821102",
 		"fullCode":"220821102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东屏镇",
 		"parentCode":"220821"
 	},
@@ -51,7 +51,7 @@
 		"code":"220821103",
 		"fullCode":"220821103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大屯镇",
 		"parentCode":"220821"
 	},
@@ -59,7 +59,7 @@
 		"code":"220821104",
 		"fullCode":"220821104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿江镇",
 		"parentCode":"220821"
 	},
@@ -67,7 +67,7 @@
 		"code":"220821105",
 		"fullCode":"220821105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五棵树镇",
 		"parentCode":"220821"
 	},
@@ -75,7 +75,7 @@
 		"code":"220821106",
 		"fullCode":"220821106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑鱼泡镇",
 		"parentCode":"220821"
 	},
@@ -83,7 +83,7 @@
 		"code":"220821200",
 		"fullCode":"220821200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈吐气蒙古族乡",
 		"parentCode":"220821"
 	},
@@ -91,7 +91,7 @@
 		"code":"220821201",
 		"fullCode":"220821201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫莫格蒙古族乡",
 		"parentCode":"220821"
 	},
@@ -99,7 +99,7 @@
 		"code":"220821202",
 		"fullCode":"220821202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建平乡",
 		"parentCode":"220821"
 	},
@@ -107,7 +107,7 @@
 		"code":"220821203",
 		"fullCode":"220821203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎什根乡",
 		"parentCode":"220821"
 	},
@@ -115,7 +115,7 @@
 		"code":"220821400",
 		"fullCode":"220821400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四方坨子农场",
 		"parentCode":"220821"
 	},
@@ -123,7 +123,7 @@
 		"code":"220821402",
 		"fullCode":"220821402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良种繁育场",
 		"parentCode":"220821"
 	},
@@ -131,7 +131,7 @@
 		"code":"220821403",
 		"fullCode":"220821403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙山马场",
 		"parentCode":"220821"
 	},
@@ -139,7 +139,7 @@
 		"code":"220821406",
 		"fullCode":"220821406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营渔场",
 		"parentCode":"220821"
 	}

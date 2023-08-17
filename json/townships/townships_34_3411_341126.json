@@ -3,7 +3,7 @@
 		"code":"341126001",
 		"fullCode":"341126001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中都街道",
 		"parentCode":"341126"
 	},
@@ -11,7 +11,7 @@
 		"code":"341126002",
 		"fullCode":"341126002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玄武街道",
 		"parentCode":"341126"
 	},
@@ -19,7 +19,7 @@
 		"code":"341126100",
 		"fullCode":"341126100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"府城镇",
 		"parentCode":"341126"
 	},
@@ -27,7 +27,7 @@
 		"code":"341126101",
 		"fullCode":"341126101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临淮关镇",
 		"parentCode":"341126"
 	},
@@ -35,7 +35,7 @@
 		"code":"341126102",
 		"fullCode":"341126102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武店镇",
 		"parentCode":"341126"
 	},
@@ -43,7 +43,7 @@
 		"code":"341126103",
 		"fullCode":"341126103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西泉镇",
 		"parentCode":"341126"
 	},
@@ -51,7 +51,7 @@
 		"code":"341126104",
 		"fullCode":"341126104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官塘镇",
 		"parentCode":"341126"
 	},
@@ -59,7 +59,7 @@
 		"code":"341126105",
 		"fullCode":"341126105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘府镇",
 		"parentCode":"341126"
 	},
@@ -67,7 +67,7 @@
 		"code":"341126106",
 		"fullCode":"341126106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庙镇",
 		"parentCode":"341126"
 	},
@@ -75,7 +75,7 @@
 		"code":"341126107",
 		"fullCode":"341126107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"殷涧镇",
 		"parentCode":"341126"
 	},
@@ -83,7 +83,7 @@
 		"code":"341126108",
 		"fullCode":"341126108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"总铺镇",
 		"parentCode":"341126"
 	},
@@ -91,7 +91,7 @@
 		"code":"341126109",
 		"fullCode":"341126109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红心镇",
 		"parentCode":"341126"
 	},
@@ -99,7 +99,7 @@
 		"code":"341126110",
 		"fullCode":"341126110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"341126"
 	},
@@ -107,7 +107,7 @@
 		"code":"341126111",
 		"fullCode":"341126111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大溪河镇",
 		"parentCode":"341126"
 	},
@@ -115,7 +115,7 @@
 		"code":"341126112",
 		"fullCode":"341126112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小溪河镇",
 		"parentCode":"341126"
 	},
@@ -123,7 +123,7 @@
 		"code":"341126113",
 		"fullCode":"341126113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣巷镇",
 		"parentCode":"341126"
 	},
@@ -131,7 +131,7 @@
 		"code":"341126201",
 		"fullCode":"341126201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄湾乡",
 		"parentCode":"341126"
 	},
@@ -139,7 +139,7 @@
 		"code":"341126401",
 		"fullCode":"341126401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽凤阳经济开发区管理委员会",
 		"parentCode":"341126"
 	}

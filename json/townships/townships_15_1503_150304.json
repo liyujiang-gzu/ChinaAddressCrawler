@@ -3,7 +3,7 @@
 		"code":"150304002",
 		"fullCode":"150304002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道坎街道",
 		"parentCode":"150304"
 	},
@@ -11,7 +11,7 @@
 		"code":"150304003",
 		"fullCode":"150304003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五虎山街道",
 		"parentCode":"150304"
 	},
@@ -19,7 +19,7 @@
 		"code":"150304008",
 		"fullCode":"150304008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新达街道",
 		"parentCode":"150304"
 	},
@@ -27,7 +27,7 @@
 		"code":"150304009",
 		"fullCode":"150304009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴音赛街道",
 		"parentCode":"150304"
 	},
@@ -35,7 +35,7 @@
 		"code":"150304010",
 		"fullCode":"150304010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁家沟街道",
 		"parentCode":"150304"
 	},
@@ -43,7 +43,7 @@
 		"code":"150304011",
 		"fullCode":"150304011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏海图街道",
 		"parentCode":"150304"
 	},
@@ -51,7 +51,7 @@
 		"code":"150304012",
 		"fullCode":"150304012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海街道",
 		"parentCode":"150304"
 	},
@@ -59,7 +59,7 @@
 		"code":"150304101",
 		"fullCode":"150304101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰淖尔镇",
 		"parentCode":"150304"
 	},
@@ -67,7 +67,7 @@
 		"code":"150304400",
 		"fullCode":"150304400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌达经济开发区",
 		"parentCode":"150304"
 	}

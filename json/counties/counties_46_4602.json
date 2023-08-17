@@ -3,7 +3,7 @@
 		"code":"460202",
 		"fullCode":"460202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海棠区",
 		"parentCode":"4602"
 	},
@@ -11,7 +11,7 @@
 		"code":"460203",
 		"fullCode":"460203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"吉阳区",
 		"parentCode":"4602"
 	},
@@ -19,7 +19,7 @@
 		"code":"460204",
 		"fullCode":"460204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天涯区",
 		"parentCode":"4602"
 	},
@@ -27,7 +27,7 @@
 		"code":"460205",
 		"fullCode":"460205000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"崖州区",
 		"parentCode":"4602"
 	}

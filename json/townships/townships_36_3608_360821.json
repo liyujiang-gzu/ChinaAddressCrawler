@@ -3,7 +3,7 @@
 		"code":"360821001",
 		"fullCode":"360821001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高新街道",
 		"parentCode":"360821"
 	},
@@ -11,7 +11,7 @@
 		"code":"360821002",
 		"fullCode":"360821002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金鸡湖街道",
 		"parentCode":"360821"
 	},
@@ -19,7 +19,7 @@
 		"code":"360821100",
 		"fullCode":"360821100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敦厚镇",
 		"parentCode":"360821"
 	},
@@ -27,7 +27,7 @@
 		"code":"360821101",
 		"fullCode":"360821101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永阳镇",
 		"parentCode":"360821"
 	},
@@ -35,7 +35,7 @@
 		"code":"360821102",
 		"fullCode":"360821102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天河镇",
 		"parentCode":"360821"
 	},
@@ -43,7 +43,7 @@
 		"code":"360821103",
 		"fullCode":"360821103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横江镇",
 		"parentCode":"360821"
 	},
@@ -51,7 +51,7 @@
 		"code":"360821104",
 		"fullCode":"360821104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固江镇",
 		"parentCode":"360821"
 	},
@@ -59,7 +59,7 @@
 		"code":"360821105",
 		"fullCode":"360821105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万福镇",
 		"parentCode":"360821"
 	},
@@ -67,7 +67,7 @@
 		"code":"360821106",
 		"fullCode":"360821106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永和镇",
 		"parentCode":"360821"
 	},
@@ -75,7 +75,7 @@
 		"code":"360821107",
 		"fullCode":"360821107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐坪镇",
 		"parentCode":"360821"
 	},
@@ -83,7 +83,7 @@
 		"code":"360821108",
 		"fullCode":"360821108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰镇",
 		"parentCode":"360821"
 	},
@@ -91,7 +91,7 @@
 		"code":"360821109",
 		"fullCode":"360821109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"油田镇",
 		"parentCode":"360821"
 	},
@@ -99,7 +99,7 @@
 		"code":"360821110",
 		"fullCode":"360821110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敖城镇",
 		"parentCode":"360821"
 	},
@@ -107,7 +107,7 @@
 		"code":"360821111",
 		"fullCode":"360821111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅塘镇",
 		"parentCode":"360821"
 	},
@@ -115,7 +115,7 @@
 		"code":"360821112",
 		"fullCode":"360821112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浬田镇",
 		"parentCode":"360821"
 	},
@@ -123,7 +123,7 @@
 		"code":"360821200",
 		"fullCode":"360821200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北源乡",
 		"parentCode":"360821"
 	},
@@ -131,7 +131,7 @@
 		"code":"360821201",
 		"fullCode":"360821201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大冲乡",
 		"parentCode":"360821"
 	},
@@ -139,7 +139,7 @@
 		"code":"360821204",
 		"fullCode":"360821204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"登龙乡",
 		"parentCode":"360821"
 	},
@@ -147,7 +147,7 @@
 		"code":"360821205",
 		"fullCode":"360821205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安塘乡",
 		"parentCode":"360821"
 	},
@@ -155,7 +155,7 @@
 		"code":"360821206",
 		"fullCode":"360821206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官田乡",
 		"parentCode":"360821"
 	},
@@ -163,7 +163,7 @@
 		"code":"360821207",
 		"fullCode":"360821207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"指阳乡",
 		"parentCode":"360821"
 	},
@@ -171,7 +171,7 @@
 		"code":"360821400",
 		"fullCode":"360821400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉安高新技术产业园区",
 		"parentCode":"360821"
 	},
@@ -179,7 +179,7 @@
 		"code":"360821401",
 		"fullCode":"360821401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井冈山经济技术开发区",
 		"parentCode":"360821"
 	}

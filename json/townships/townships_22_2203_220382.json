@@ -3,7 +3,7 @@
 		"code":"220382001",
 		"fullCode":"220382001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑家屯街道",
 		"parentCode":"220382"
 	},
@@ -11,7 +11,7 @@
 		"code":"220382002",
 		"fullCode":"220382002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽西街道",
 		"parentCode":"220382"
 	},
@@ -19,7 +19,7 @@
 		"code":"220382003",
 		"fullCode":"220382003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽南街道",
 		"parentCode":"220382"
 	},
@@ -27,7 +27,7 @@
 		"code":"220382004",
 		"fullCode":"220382004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽北街道",
 		"parentCode":"220382"
 	},
@@ -35,7 +35,7 @@
 		"code":"220382005",
 		"fullCode":"220382005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽东街道",
 		"parentCode":"220382"
 	},
@@ -43,7 +43,7 @@
 		"code":"220382006",
 		"fullCode":"220382006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街道",
 		"parentCode":"220382"
 	},
@@ -51,7 +51,7 @@
 		"code":"220382100",
 		"fullCode":"220382100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茂林镇",
 		"parentCode":"220382"
 	},
@@ -59,7 +59,7 @@
 		"code":"220382101",
 		"fullCode":"220382101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双山镇",
 		"parentCode":"220382"
 	},
@@ -67,7 +67,7 @@
 		"code":"220382102",
 		"fullCode":"220382102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧虎镇",
 		"parentCode":"220382"
 	},
@@ -75,7 +75,7 @@
 		"code":"220382103",
 		"fullCode":"220382103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"服先镇",
 		"parentCode":"220382"
 	},
@@ -83,7 +83,7 @@
 		"code":"220382104",
 		"fullCode":"220382104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王奔镇",
 		"parentCode":"220382"
 	},
@@ -91,7 +91,7 @@
 		"code":"220382105",
 		"fullCode":"220382105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玻璃山镇",
 		"parentCode":"220382"
 	},
@@ -99,7 +99,7 @@
 		"code":"220382106",
 		"fullCode":"220382106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"220382"
 	},
@@ -107,7 +107,7 @@
 		"code":"220382107",
 		"fullCode":"220382107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东明镇",
 		"parentCode":"220382"
 	},
@@ -115,7 +115,7 @@
 		"code":"220382200",
 		"fullCode":"220382200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那木乡",
 		"parentCode":"220382"
 	},
@@ -123,7 +123,7 @@
 		"code":"220382201",
 		"fullCode":"220382201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳条乡",
 		"parentCode":"220382"
 	},
@@ -131,7 +131,7 @@
 		"code":"220382202",
 		"fullCode":"220382202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新立乡",
 		"parentCode":"220382"
 	},
@@ -139,7 +139,7 @@
 		"code":"220382203",
 		"fullCode":"220382203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永加乡",
 		"parentCode":"220382"
 	},
@@ -147,7 +147,7 @@
 		"code":"220382402",
 		"fullCode":"220382402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉林双辽经济开发区",
 		"parentCode":"220382"
 	}

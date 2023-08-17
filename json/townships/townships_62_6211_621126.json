@@ -3,7 +3,7 @@
 		"code":"621126100",
 		"fullCode":"621126100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岷阳镇",
 		"parentCode":"621126"
 	},
@@ -11,7 +11,7 @@
 		"code":"621126101",
 		"fullCode":"621126101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲麻镇",
 		"parentCode":"621126"
 	},
@@ -19,7 +19,7 @@
 		"code":"621126102",
 		"fullCode":"621126102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西寨镇",
 		"parentCode":"621126"
 	},
@@ -27,7 +27,7 @@
 		"code":"621126103",
 		"fullCode":"621126103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅川镇",
 		"parentCode":"621126"
 	},
@@ -35,7 +35,7 @@
 		"code":"621126104",
 		"fullCode":"621126104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西江镇",
 		"parentCode":"621126"
 	},
@@ -43,7 +43,7 @@
 		"code":"621126105",
 		"fullCode":"621126105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闾井镇",
 		"parentCode":"621126"
 	},
@@ -51,7 +51,7 @@
 		"code":"621126106",
 		"fullCode":"621126106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里镇",
 		"parentCode":"621126"
 	},
@@ -59,7 +59,7 @@
 		"code":"621126107",
 		"fullCode":"621126107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶埠镇",
 		"parentCode":"621126"
 	},
@@ -67,7 +67,7 @@
 		"code":"621126108",
 		"fullCode":"621126108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中寨镇",
 		"parentCode":"621126"
 	},
@@ -75,7 +75,7 @@
 		"code":"621126109",
 		"fullCode":"621126109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水镇",
 		"parentCode":"621126"
 	},
@@ -83,7 +83,7 @@
 		"code":"621126110",
 		"fullCode":"621126110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺沟镇",
 		"parentCode":"621126"
 	},
@@ -91,7 +91,7 @@
 		"code":"621126111",
 		"fullCode":"621126111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻子川镇",
 		"parentCode":"621126"
 	},
@@ -99,7 +99,7 @@
 		"code":"621126112",
 		"fullCode":"621126112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"维新镇",
 		"parentCode":"621126"
 	},
@@ -107,7 +107,7 @@
 		"code":"621126113",
 		"fullCode":"621126113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾驮镇",
 		"parentCode":"621126"
 	},
@@ -115,7 +115,7 @@
 		"code":"621126114",
 		"fullCode":"621126114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坞镇",
 		"parentCode":"621126"
 	},
@@ -123,7 +123,7 @@
 		"code":"621126204",
 		"fullCode":"621126204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦许乡",
 		"parentCode":"621126"
 	},
@@ -131,7 +131,7 @@
 		"code":"621126207",
 		"fullCode":"621126207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"申都乡",
 		"parentCode":"621126"
 	},
@@ -139,7 +139,7 @@
 		"code":"621126208",
 		"fullCode":"621126208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锁龙乡",
 		"parentCode":"621126"
 	}

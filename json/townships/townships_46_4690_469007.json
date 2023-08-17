@@ -3,7 +3,7 @@
 		"code":"469007100",
 		"fullCode":"469007100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八所镇",
 		"parentCode":"469007"
 	},
@@ -11,7 +11,7 @@
 		"code":"469007101",
 		"fullCode":"469007101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东河镇",
 		"parentCode":"469007"
 	},
@@ -19,7 +19,7 @@
 		"code":"469007102",
 		"fullCode":"469007102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大田镇",
 		"parentCode":"469007"
 	},
@@ -27,7 +27,7 @@
 		"code":"469007103",
 		"fullCode":"469007103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"感城镇",
 		"parentCode":"469007"
 	},
@@ -35,7 +35,7 @@
 		"code":"469007104",
 		"fullCode":"469007104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"469007"
 	},
@@ -43,7 +43,7 @@
 		"code":"469007105",
 		"fullCode":"469007105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三家镇",
 		"parentCode":"469007"
 	},
@@ -51,7 +51,7 @@
 		"code":"469007106",
 		"fullCode":"469007106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四更镇",
 		"parentCode":"469007"
 	},
@@ -59,7 +59,7 @@
 		"code":"469007107",
 		"fullCode":"469007107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新龙镇",
 		"parentCode":"469007"
 	},
@@ -67,7 +67,7 @@
 		"code":"469007200",
 		"fullCode":"469007200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天安乡",
 		"parentCode":"469007"
 	},
@@ -75,7 +75,7 @@
 		"code":"469007201",
 		"fullCode":"469007201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江边乡",
 		"parentCode":"469007"
 	},
@@ -83,7 +83,7 @@
 		"code":"469007500",
 		"fullCode":"469007500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方华侨农场",
 		"parentCode":"469007"
 	}

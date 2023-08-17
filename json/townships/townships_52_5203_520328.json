@@ -3,7 +3,7 @@
 		"code":"520328004",
 		"fullCode":"520328004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湄江街道",
 		"parentCode":"520328"
 	},
@@ -11,7 +11,7 @@
 		"code":"520328005",
 		"fullCode":"520328005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄家坝街道",
 		"parentCode":"520328"
 	},
@@ -19,7 +19,7 @@
 		"code":"520328006",
 		"fullCode":"520328006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼泉街道",
 		"parentCode":"520328"
 	},
@@ -27,7 +27,7 @@
 		"code":"520328101",
 		"fullCode":"520328101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴镇",
 		"parentCode":"520328"
 	},
@@ -35,7 +35,7 @@
 		"code":"520328102",
 		"fullCode":"520328102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复兴镇",
 		"parentCode":"520328"
 	},
@@ -43,7 +43,7 @@
 		"code":"520328103",
 		"fullCode":"520328103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马山镇",
 		"parentCode":"520328"
 	},
@@ -51,7 +51,7 @@
 		"code":"520328106",
 		"fullCode":"520328106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高台镇",
 		"parentCode":"520328"
 	},
@@ -59,7 +59,7 @@
 		"code":"520328107",
 		"fullCode":"520328107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅坪镇",
 		"parentCode":"520328"
 	},
@@ -67,7 +67,7 @@
 		"code":"520328108",
 		"fullCode":"520328108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"520328"
 	},
@@ -75,7 +75,7 @@
 		"code":"520328109",
 		"fullCode":"520328109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新南镇",
 		"parentCode":"520328"
 	},
@@ -83,7 +83,7 @@
 		"code":"520328110",
 		"fullCode":"520328110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石莲镇",
 		"parentCode":"520328"
 	},
@@ -91,7 +91,7 @@
 		"code":"520328111",
 		"fullCode":"520328111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河镇",
 		"parentCode":"520328"
 	},
@@ -99,7 +99,7 @@
 		"code":"520328112",
 		"fullCode":"520328112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洗马镇",
 		"parentCode":"520328"
 	},
@@ -107,7 +107,7 @@
 		"code":"520328113",
 		"fullCode":"520328113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抄乐镇",
 		"parentCode":"520328"
 	},
@@ -115,7 +115,7 @@
 		"code":"520328114",
 		"fullCode":"520328114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天城镇",
 		"parentCode":"520328"
 	}

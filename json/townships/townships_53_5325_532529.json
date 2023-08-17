@@ -3,7 +3,7 @@
 		"code":"532529101",
 		"fullCode":"532529101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迤萨镇",
 		"parentCode":"532529"
 	},
@@ -11,7 +11,7 @@
 		"code":"532529102",
 		"fullCode":"532529102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲寅镇",
 		"parentCode":"532529"
 	},
@@ -19,7 +19,7 @@
 		"code":"532529103",
 		"fullCode":"532529103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝华镇",
 		"parentCode":"532529"
 	},
@@ -27,7 +27,7 @@
 		"code":"532529104",
 		"fullCode":"532529104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐育镇",
 		"parentCode":"532529"
 	},
@@ -35,7 +35,7 @@
 		"code":"532529105",
 		"fullCode":"532529105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浪堤镇",
 		"parentCode":"532529"
 	},
@@ -43,7 +43,7 @@
 		"code":"532529203",
 		"fullCode":"532529203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛恩乡",
 		"parentCode":"532529"
 	},
@@ -51,7 +51,7 @@
 		"code":"532529204",
 		"fullCode":"532529204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石头寨乡",
 		"parentCode":"532529"
 	},
@@ -59,7 +59,7 @@
 		"code":"532529205",
 		"fullCode":"532529205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿扎河乡",
 		"parentCode":"532529"
 	},
@@ -67,7 +67,7 @@
 		"code":"532529208",
 		"fullCode":"532529208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大羊街乡",
 		"parentCode":"532529"
 	},
@@ -75,7 +75,7 @@
 		"code":"532529209",
 		"fullCode":"532529209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车古乡",
 		"parentCode":"532529"
 	},
@@ -83,7 +83,7 @@
 		"code":"532529210",
 		"fullCode":"532529210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"架车乡",
 		"parentCode":"532529"
 	},
@@ -91,7 +91,7 @@
 		"code":"532529211",
 		"fullCode":"532529211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垤玛乡",
 		"parentCode":"532529"
 	},
@@ -99,7 +99,7 @@
 		"code":"532529212",
 		"fullCode":"532529212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三村乡",
 		"parentCode":"532529"
 	}

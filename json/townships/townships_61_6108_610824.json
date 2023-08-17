@@ -3,7 +3,7 @@
 		"code":"610824001",
 		"fullCode":"610824001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家畔街道",
 		"parentCode":"610824"
 	},
@@ -11,7 +11,7 @@
 		"code":"610824101",
 		"fullCode":"610824101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坑镇",
 		"parentCode":"610824"
 	},
@@ -19,7 +19,7 @@
 		"code":"610824102",
 		"fullCode":"610824102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青阳岔镇",
 		"parentCode":"610824"
 	},
@@ -27,7 +27,7 @@
 		"code":"610824103",
 		"fullCode":"610824103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁条梁镇",
 		"parentCode":"610824"
 	},
@@ -35,7 +35,7 @@
 		"code":"610824104",
 		"fullCode":"610824104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周河镇",
 		"parentCode":"610824"
 	},
@@ -43,7 +43,7 @@
 		"code":"610824105",
 		"fullCode":"610824105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红墩界镇",
 		"parentCode":"610824"
 	},
@@ -51,7 +51,7 @@
 		"code":"610824106",
 		"fullCode":"610824106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨桥畔镇",
 		"parentCode":"610824"
 	},
@@ -59,7 +59,7 @@
 		"code":"610824107",
 		"fullCode":"610824107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王渠则镇",
 		"parentCode":"610824"
 	},
@@ -67,7 +67,7 @@
 		"code":"610824108",
 		"fullCode":"610824108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山涧镇",
 		"parentCode":"610824"
 	},
@@ -75,7 +75,7 @@
 		"code":"610824109",
 		"fullCode":"610824109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨米涧镇",
 		"parentCode":"610824"
 	},
@@ -83,7 +83,7 @@
 		"code":"610824110",
 		"fullCode":"610824110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天赐湾镇",
 		"parentCode":"610824"
 	},
@@ -91,7 +91,7 @@
 		"code":"610824111",
 		"fullCode":"610824111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小河镇",
 		"parentCode":"610824"
 	},
@@ -99,7 +99,7 @@
 		"code":"610824112",
 		"fullCode":"610824112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙洲镇",
 		"parentCode":"610824"
 	},
@@ -107,7 +107,7 @@
 		"code":"610824113",
 		"fullCode":"610824113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄蒿界镇",
 		"parentCode":"610824"
 	},
@@ -115,7 +115,7 @@
 		"code":"610824114",
 		"fullCode":"610824114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海则滩镇",
 		"parentCode":"610824"
 	},
@@ -123,7 +123,7 @@
 		"code":"610824115",
 		"fullCode":"610824115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"席麻湾镇",
 		"parentCode":"610824"
 	},
@@ -131,7 +131,7 @@
 		"code":"610824116",
 		"fullCode":"610824116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇靖镇",
 		"parentCode":"610824"
 	}

@@ -3,7 +3,7 @@
 		"code":"371302",
 		"fullCode":"371302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兰山区",
 		"parentCode":"3713"
 	},
@@ -11,7 +11,7 @@
 		"code":"371311",
 		"fullCode":"371311000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"罗庄区",
 		"parentCode":"3713"
 	},
@@ -19,7 +19,7 @@
 		"code":"371312",
 		"fullCode":"371312000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"河东区",
 		"parentCode":"3713"
 	},
@@ -27,7 +27,7 @@
 		"code":"371321",
 		"fullCode":"371321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沂南县",
 		"parentCode":"3713"
 	},
@@ -35,7 +35,7 @@
 		"code":"371322",
 		"fullCode":"371322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郯城县",
 		"parentCode":"3713"
 	},
@@ -43,7 +43,7 @@
 		"code":"371323",
 		"fullCode":"371323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沂水县",
 		"parentCode":"3713"
 	},
@@ -51,7 +51,7 @@
 		"code":"371324",
 		"fullCode":"371324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兰陵县",
 		"parentCode":"3713"
 	},
@@ -59,7 +59,7 @@
 		"code":"371325",
 		"fullCode":"371325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"费县",
 		"parentCode":"3713"
 	},
@@ -67,7 +67,7 @@
 		"code":"371326",
 		"fullCode":"371326000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平邑县",
 		"parentCode":"3713"
 	},
@@ -75,7 +75,7 @@
 		"code":"371327",
 		"fullCode":"371327000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"莒南县",
 		"parentCode":"3713"
 	},
@@ -83,7 +83,7 @@
 		"code":"371328",
 		"fullCode":"371328000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蒙阴县",
 		"parentCode":"3713"
 	},
@@ -91,7 +91,7 @@
 		"code":"371329",
 		"fullCode":"371329000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临沭县",
 		"parentCode":"3713"
 	},
@@ -99,7 +99,7 @@
 		"code":"371371",
 		"fullCode":"371371000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临沂高新技术产业开发区",
 		"parentCode":"3713"
 	}

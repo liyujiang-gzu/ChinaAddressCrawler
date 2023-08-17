@@ -3,7 +3,7 @@
 		"code":"513333100",
 		"fullCode":"513333100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"色柯镇",
 		"parentCode":"513333"
 	},
@@ -11,7 +11,7 @@
 		"code":"513333101",
 		"fullCode":"513333101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翁达镇",
 		"parentCode":"513333"
 	},
@@ -19,7 +19,7 @@
 		"code":"513333102",
 		"fullCode":"513333102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛若镇",
 		"parentCode":"513333"
 	},
@@ -27,7 +27,7 @@
 		"code":"513333103",
 		"fullCode":"513333103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥朵镇",
 		"parentCode":"513333"
 	},
@@ -35,7 +35,7 @@
 		"code":"513333104",
 		"fullCode":"513333104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲学镇",
 		"parentCode":"513333"
 	},
@@ -43,7 +43,7 @@
 		"code":"513333201",
 		"fullCode":"513333201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克果乡",
 		"parentCode":"513333"
 	},
@@ -51,7 +51,7 @@
 		"code":"513333202",
 		"fullCode":"513333202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"然充乡",
 		"parentCode":"513333"
 	},
@@ -59,7 +59,7 @@
 		"code":"513333203",
 		"fullCode":"513333203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康勒乡",
 		"parentCode":"513333"
 	},
@@ -67,7 +67,7 @@
 		"code":"513333204",
 		"fullCode":"513333204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大章乡",
 		"parentCode":"513333"
 	},
@@ -75,7 +75,7 @@
 		"code":"513333205",
 		"fullCode":"513333205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大则乡",
 		"parentCode":"513333"
 	},
@@ -83,7 +83,7 @@
 		"code":"513333206",
 		"fullCode":"513333206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚龙乡",
 		"parentCode":"513333"
 	},
@@ -91,7 +91,7 @@
 		"code":"513333207",
 		"fullCode":"513333207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔子乡",
 		"parentCode":"513333"
 	},
@@ -99,7 +99,7 @@
 		"code":"513333208",
 		"fullCode":"513333208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"年龙乡",
 		"parentCode":"513333"
 	},
@@ -107,7 +107,7 @@
 		"code":"513333210",
 		"fullCode":"513333210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霍西乡",
 		"parentCode":"513333"
 	},
@@ -115,7 +115,7 @@
 		"code":"513333211",
 		"fullCode":"513333211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旭日乡",
 		"parentCode":"513333"
 	},
@@ -123,7 +123,7 @@
 		"code":"513333212",
 		"fullCode":"513333212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨各乡",
 		"parentCode":"513333"
 	}

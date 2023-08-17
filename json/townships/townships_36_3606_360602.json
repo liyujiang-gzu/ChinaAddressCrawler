@@ -3,7 +3,7 @@
 		"code":"360602001",
 		"fullCode":"360602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江边街道",
 		"parentCode":"360602"
 	},
@@ -11,7 +11,7 @@
 		"code":"360602002",
 		"fullCode":"360602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"交通街道",
 		"parentCode":"360602"
 	},
@@ -19,7 +19,7 @@
 		"code":"360602003",
 		"fullCode":"360602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖街道",
 		"parentCode":"360602"
 	},
@@ -27,7 +27,7 @@
 		"code":"360602004",
 		"fullCode":"360602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅园街道",
 		"parentCode":"360602"
 	},
@@ -35,7 +35,7 @@
 		"code":"360602005",
 		"fullCode":"360602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四青街道",
 		"parentCode":"360602"
 	},
@@ -43,7 +43,7 @@
 		"code":"360602006",
 		"fullCode":"360602006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白露街道",
 		"parentCode":"360602"
 	},
@@ -51,7 +51,7 @@
 		"code":"360602007",
 		"fullCode":"360602007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏埠街道",
 		"parentCode":"360602"
 	},
@@ -59,7 +59,7 @@
 		"code":"360602100",
 		"fullCode":"360602100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"童家镇",
 		"parentCode":"360602"
 	}

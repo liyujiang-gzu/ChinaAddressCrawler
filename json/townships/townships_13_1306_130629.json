@@ -3,7 +3,7 @@
 		"code":"130629100",
 		"fullCode":"130629100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"容城镇",
 		"parentCode":"130629"
 	},
@@ -11,7 +11,7 @@
 		"code":"130629101",
 		"fullCode":"130629101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小里镇",
 		"parentCode":"130629"
 	},
@@ -19,7 +19,7 @@
 		"code":"130629102",
 		"fullCode":"130629102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南张镇",
 		"parentCode":"130629"
 	},
@@ -27,7 +27,7 @@
 		"code":"130629103",
 		"fullCode":"130629103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河镇",
 		"parentCode":"130629"
 	},
@@ -35,7 +35,7 @@
 		"code":"130629104",
 		"fullCode":"130629104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晾马台镇",
 		"parentCode":"130629"
 	},
@@ -43,7 +43,7 @@
 		"code":"130629200",
 		"fullCode":"130629200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八于乡",
 		"parentCode":"130629"
 	},
@@ -51,7 +51,7 @@
 		"code":"130629201",
 		"fullCode":"130629201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾光乡",
 		"parentCode":"130629"
 	},
@@ -59,7 +59,7 @@
 		"code":"130629203",
 		"fullCode":"130629203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平王乡",
 		"parentCode":"130629"
 	}

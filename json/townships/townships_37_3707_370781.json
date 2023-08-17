@@ -3,7 +3,7 @@
 		"code":"370781001",
 		"fullCode":"370781001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王府街道",
 		"parentCode":"370781"
 	},
@@ -11,7 +11,7 @@
 		"code":"370781002",
 		"fullCode":"370781002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"益都街道",
 		"parentCode":"370781"
 	},
@@ -19,7 +19,7 @@
 		"code":"370781006",
 		"fullCode":"370781006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云门山街道",
 		"parentCode":"370781"
 	},
@@ -27,7 +27,7 @@
 		"code":"370781007",
 		"fullCode":"370781007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄楼街道",
 		"parentCode":"370781"
 	},
@@ -35,7 +35,7 @@
 		"code":"370781100",
 		"fullCode":"370781100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弥河镇",
 		"parentCode":"370781"
 	},
@@ -43,7 +43,7 @@
 		"code":"370781101",
 		"fullCode":"370781101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王坟镇",
 		"parentCode":"370781"
 	},
@@ -51,7 +51,7 @@
 		"code":"370781103",
 		"fullCode":"370781103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙子镇",
 		"parentCode":"370781"
 	},
@@ -59,7 +59,7 @@
 		"code":"370781105",
 		"fullCode":"370781105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邵庄镇",
 		"parentCode":"370781"
 	},
@@ -67,7 +67,7 @@
 		"code":"370781109",
 		"fullCode":"370781109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高柳镇",
 		"parentCode":"370781"
 	},
@@ -75,7 +75,7 @@
 		"code":"370781111",
 		"fullCode":"370781111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何官镇",
 		"parentCode":"370781"
 	},
@@ -83,7 +83,7 @@
 		"code":"370781113",
 		"fullCode":"370781113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东夏镇",
 		"parentCode":"370781"
 	},
@@ -91,7 +91,7 @@
 		"code":"370781115",
 		"fullCode":"370781115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谭坊镇",
 		"parentCode":"370781"
 	},
@@ -99,7 +99,7 @@
 		"code":"370781400",
 		"fullCode":"370781400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王母宫经济发展区",
 		"parentCode":"370781"
 	}

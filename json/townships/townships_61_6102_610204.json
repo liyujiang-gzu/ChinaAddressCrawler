@@ -3,7 +3,7 @@
 		"code":"610204001",
 		"fullCode":"610204001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安路街道",
 		"parentCode":"610204"
 	},
@@ -11,7 +11,7 @@
 		"code":"610204002",
 		"fullCode":"610204002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天宝路街道",
 		"parentCode":"610204"
 	},
@@ -19,7 +19,7 @@
 		"code":"610204003",
 		"fullCode":"610204003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"咸丰路街道",
 		"parentCode":"610204"
 	},
@@ -27,7 +27,7 @@
 		"code":"610204004",
 		"fullCode":"610204004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳路街道",
 		"parentCode":"610204"
 	},
@@ -35,7 +35,7 @@
 		"code":"610204005",
 		"fullCode":"610204005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦阳路街道",
 		"parentCode":"610204"
 	},
@@ -43,7 +43,7 @@
 		"code":"610204006",
 		"fullCode":"610204006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坡头街道",
 		"parentCode":"610204"
 	},
@@ -51,7 +51,7 @@
 		"code":"610204101",
 		"fullCode":"610204101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董家河镇",
 		"parentCode":"610204"
 	},
@@ -59,7 +59,7 @@
 		"code":"610204102",
 		"fullCode":"610204102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙湾镇",
 		"parentCode":"610204"
 	},
@@ -67,7 +67,7 @@
 		"code":"610204103",
 		"fullCode":"610204103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑶曲镇",
 		"parentCode":"610204"
 	},
@@ -75,7 +75,7 @@
 		"code":"610204104",
 		"fullCode":"610204104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"照金镇",
 		"parentCode":"610204"
 	},
@@ -83,7 +83,7 @@
 		"code":"610204107",
 		"fullCode":"610204107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小丘镇",
 		"parentCode":"610204"
 	},
@@ -91,7 +91,7 @@
 		"code":"610204108",
 		"fullCode":"610204108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙原镇",
 		"parentCode":"610204"
 	},
@@ -99,7 +99,7 @@
 		"code":"610204109",
 		"fullCode":"610204109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关庄镇",
 		"parentCode":"610204"
 	},
@@ -107,7 +107,7 @@
 		"code":"610204111",
 		"fullCode":"610204111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石柱镇",
 		"parentCode":"610204"
 	}

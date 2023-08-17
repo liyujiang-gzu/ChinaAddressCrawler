@@ -3,7 +3,7 @@
 		"code":"210904001",
 		"fullCode":"210904001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红树街道",
 		"parentCode":"210904"
 	},
@@ -11,7 +11,7 @@
 		"code":"210904003",
 		"fullCode":"210904003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高德街道",
 		"parentCode":"210904"
 	},
@@ -19,7 +19,7 @@
 		"code":"210904004",
 		"fullCode":"210904004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙家湾街道",
 		"parentCode":"210904"
 	},
@@ -27,7 +27,7 @@
 		"code":"210904101",
 		"fullCode":"210904101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水泉镇",
 		"parentCode":"210904"
 	}

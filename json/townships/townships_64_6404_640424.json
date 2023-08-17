@@ -3,7 +3,7 @@
 		"code":"640424100",
 		"fullCode":"640424100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香水镇",
 		"parentCode":"640424"
 	},
@@ -11,7 +11,7 @@
 		"code":"640424101",
 		"fullCode":"640424101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泾河源镇",
 		"parentCode":"640424"
 	},
@@ -19,7 +19,7 @@
 		"code":"640424102",
 		"fullCode":"640424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六盘山镇",
 		"parentCode":"640424"
 	},
@@ -27,7 +27,7 @@
 		"code":"640424200",
 		"fullCode":"640424200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民乡",
 		"parentCode":"640424"
 	},
@@ -35,7 +35,7 @@
 		"code":"640424201",
 		"fullCode":"640424201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴盛乡",
 		"parentCode":"640424"
 	},
@@ -43,7 +43,7 @@
 		"code":"640424202",
 		"fullCode":"640424202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄花乡",
 		"parentCode":"640424"
 	},
@@ -51,7 +51,7 @@
 		"code":"640424203",
 		"fullCode":"640424203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大湾乡",
 		"parentCode":"640424"
 	}

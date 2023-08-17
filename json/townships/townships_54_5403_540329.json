@@ -3,7 +3,7 @@
 		"code":"540329100",
 		"fullCode":"540329100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孜托镇",
 		"parentCode":"540329"
 	},
@@ -11,7 +11,7 @@
 		"code":"540329101",
 		"fullCode":"540329101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"硕督镇",
 		"parentCode":"540329"
 	},
@@ -19,7 +19,7 @@
 		"code":"540329111",
 		"fullCode":"540329111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康沙镇",
 		"parentCode":"540329"
 	},
@@ -27,7 +27,7 @@
 		"code":"540329112",
 		"fullCode":"540329112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马利镇",
 		"parentCode":"540329"
 	},
@@ -35,7 +35,7 @@
 		"code":"540329200",
 		"fullCode":"540329200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达龙乡",
 		"parentCode":"540329"
 	},
@@ -43,7 +43,7 @@
 		"code":"540329201",
 		"fullCode":"540329201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新荣乡",
 		"parentCode":"540329"
 	},
@@ -51,7 +51,7 @@
 		"code":"540329202",
 		"fullCode":"540329202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白达乡",
 		"parentCode":"540329"
 	},
@@ -59,7 +59,7 @@
 		"code":"540329203",
 		"fullCode":"540329203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉西乡",
 		"parentCode":"540329"
 	},
@@ -67,7 +67,7 @@
 		"code":"540329204",
 		"fullCode":"540329204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腊久乡",
 		"parentCode":"540329"
 	},
@@ -75,7 +75,7 @@
 		"code":"540329205",
 		"fullCode":"540329205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俄西乡",
 		"parentCode":"540329"
 	},
@@ -83,7 +83,7 @@
 		"code":"540329206",
 		"fullCode":"540329206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中亦乡",
 		"parentCode":"540329"
 	}

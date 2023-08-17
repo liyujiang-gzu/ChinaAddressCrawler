@@ -3,7 +3,7 @@
 		"code":"130624100",
 		"fullCode":"130624100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阜平镇",
 		"parentCode":"130624"
 	},
@@ -11,7 +11,7 @@
 		"code":"130624101",
 		"fullCode":"130624101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉关镇",
 		"parentCode":"130624"
 	},
@@ -19,7 +19,7 @@
 		"code":"130624102",
 		"fullCode":"130624102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平阳镇",
 		"parentCode":"130624"
 	},
@@ -27,7 +27,7 @@
 		"code":"130624103",
 		"fullCode":"130624103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南庄镇",
 		"parentCode":"130624"
 	},
@@ -35,7 +35,7 @@
 		"code":"130624104",
 		"fullCode":"130624104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天生桥镇",
 		"parentCode":"130624"
 	},
@@ -43,7 +43,7 @@
 		"code":"130624105",
 		"fullCode":"130624105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王林口镇",
 		"parentCode":"130624"
 	},
@@ -51,7 +51,7 @@
 		"code":"130624106",
 		"fullCode":"130624106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"砂窝镇",
 		"parentCode":"130624"
 	},
@@ -59,7 +59,7 @@
 		"code":"130624107",
 		"fullCode":"130624107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北果园镇",
 		"parentCode":"130624"
 	},
@@ -67,7 +67,7 @@
 		"code":"130624202",
 		"fullCode":"130624202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台峪乡",
 		"parentCode":"130624"
 	},
@@ -75,7 +75,7 @@
 		"code":"130624203",
 		"fullCode":"130624203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大台乡",
 		"parentCode":"130624"
 	},
@@ -83,7 +83,7 @@
 		"code":"130624204",
 		"fullCode":"130624204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"史家寨乡",
 		"parentCode":"130624"
 	},
@@ -91,7 +91,7 @@
 		"code":"130624206",
 		"fullCode":"130624206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴王口乡",
 		"parentCode":"130624"
 	},
@@ -99,7 +99,7 @@
 		"code":"130624207",
 		"fullCode":"130624207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏庄乡",
 		"parentCode":"130624"
 	},
@@ -107,7 +107,7 @@
 		"code":"130624400",
 		"fullCode":"130624400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北阜平经济开发区",
 		"parentCode":"130624"
 	}

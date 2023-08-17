@@ -3,7 +3,7 @@
 		"code":"620602",
 		"fullCode":"620602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凉州区",
 		"parentCode":"6206"
 	},
@@ -11,7 +11,7 @@
 		"code":"620621",
 		"fullCode":"620621000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"民勤县",
 		"parentCode":"6206"
 	},
@@ -19,7 +19,7 @@
 		"code":"620622",
 		"fullCode":"620622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"古浪县",
 		"parentCode":"6206"
 	},
@@ -27,7 +27,7 @@
 		"code":"620623",
 		"fullCode":"620623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天祝藏族自治县",
 		"parentCode":"6206"
 	}

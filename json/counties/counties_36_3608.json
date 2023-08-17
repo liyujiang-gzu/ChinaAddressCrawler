@@ -3,7 +3,7 @@
 		"code":"360802",
 		"fullCode":"360802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"吉州区",
 		"parentCode":"3608"
 	},
@@ -11,7 +11,7 @@
 		"code":"360803",
 		"fullCode":"360803000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"青原区",
 		"parentCode":"3608"
 	},
@@ -19,7 +19,7 @@
 		"code":"360821",
 		"fullCode":"360821000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"吉安县",
 		"parentCode":"3608"
 	},
@@ -27,7 +27,7 @@
 		"code":"360822",
 		"fullCode":"360822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"吉水县",
 		"parentCode":"3608"
 	},
@@ -35,7 +35,7 @@
 		"code":"360823",
 		"fullCode":"360823000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"峡江县",
 		"parentCode":"3608"
 	},
@@ -43,7 +43,7 @@
 		"code":"360824",
 		"fullCode":"360824000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新干县",
 		"parentCode":"3608"
 	},
@@ -51,7 +51,7 @@
 		"code":"360825",
 		"fullCode":"360825000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永丰县",
 		"parentCode":"3608"
 	},
@@ -59,7 +59,7 @@
 		"code":"360826",
 		"fullCode":"360826000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泰和县",
 		"parentCode":"3608"
 	},
@@ -67,7 +67,7 @@
 		"code":"360827",
 		"fullCode":"360827000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"遂川县",
 		"parentCode":"3608"
 	},
@@ -75,7 +75,7 @@
 		"code":"360828",
 		"fullCode":"360828000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"万安县",
 		"parentCode":"3608"
 	},
@@ -83,7 +83,7 @@
 		"code":"360829",
 		"fullCode":"360829000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安福县",
 		"parentCode":"3608"
 	},
@@ -91,7 +91,7 @@
 		"code":"360830",
 		"fullCode":"360830000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永新县",
 		"parentCode":"3608"
 	},
@@ -99,7 +99,7 @@
 		"code":"360881",
 		"fullCode":"360881000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"井冈山市",
 		"parentCode":"3608"
 	}

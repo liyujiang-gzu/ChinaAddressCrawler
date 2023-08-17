@@ -3,7 +3,7 @@
 		"code":"230605008",
 		"fullCode":"230605008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏南街道",
 		"parentCode":"230605"
 	},
@@ -11,7 +11,7 @@
 		"code":"230605009",
 		"fullCode":"230605009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"创业街道",
 		"parentCode":"230605"
 	},
@@ -19,7 +19,7 @@
 		"code":"230605010",
 		"fullCode":"230605010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红岗街道",
 		"parentCode":"230605"
 	},
@@ -27,7 +27,7 @@
 		"code":"230605011",
 		"fullCode":"230605011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八百垧街道",
 		"parentCode":"230605"
 	},
@@ -35,7 +35,7 @@
 		"code":"230605012",
 		"fullCode":"230605012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银河街道",
 		"parentCode":"230605"
 	},
@@ -43,7 +43,7 @@
 		"code":"230605013",
 		"fullCode":"230605013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放街道",
 		"parentCode":"230605"
 	},
@@ -51,7 +51,7 @@
 		"code":"230605100",
 		"fullCode":"230605100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏树岗镇",
 		"parentCode":"230605"
 	},
@@ -59,7 +59,7 @@
 		"code":"230605480",
 		"fullCode":"230605480000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑龙江红岗经济开发区",
 		"parentCode":"230605"
 	}

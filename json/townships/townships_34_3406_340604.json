@@ -3,7 +3,7 @@
 		"code":"340604001",
 		"fullCode":"340604001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨庄街道",
 		"parentCode":"340604"
 	},
@@ -11,7 +11,7 @@
 		"code":"340604002",
 		"fullCode":"340604002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临海童街道",
 		"parentCode":"340604"
 	},
@@ -19,7 +19,7 @@
 		"code":"340604003",
 		"fullCode":"340604003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百善街道",
 		"parentCode":"340604"
 	},
@@ -27,7 +27,7 @@
 		"code":"340604004",
 		"fullCode":"340604004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"任楼街道",
 		"parentCode":"340604"
 	},
@@ -35,7 +35,7 @@
 		"code":"340604100",
 		"fullCode":"340604100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烈山镇",
 		"parentCode":"340604"
 	},
@@ -43,7 +43,7 @@
 		"code":"340604101",
 		"fullCode":"340604101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋町镇",
 		"parentCode":"340604"
 	},
@@ -51,7 +51,7 @@
 		"code":"340604102",
 		"fullCode":"340604102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古饶镇",
 		"parentCode":"340604"
 	},
@@ -59,7 +59,7 @@
 		"code":"340604400",
 		"fullCode":"340604400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烈山区工业园",
 		"parentCode":"340604"
 	}

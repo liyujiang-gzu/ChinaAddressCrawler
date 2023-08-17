@@ -3,7 +3,7 @@
 		"code":"120119001",
 		"fullCode":"120119001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌街道",
 		"parentCode":"120119"
 	},
@@ -11,7 +11,7 @@
 		"code":"120119100",
 		"fullCode":"120119100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔阳镇",
 		"parentCode":"120119"
 	},
@@ -19,7 +19,7 @@
 		"code":"120119101",
 		"fullCode":"120119101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洇溜镇",
 		"parentCode":"120119"
 	},
@@ -27,7 +27,7 @@
 		"code":"120119102",
 		"fullCode":"120119102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官庄镇",
 		"parentCode":"120119"
 	},
@@ -35,7 +35,7 @@
 		"code":"120119103",
 		"fullCode":"120119103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马伸桥镇",
 		"parentCode":"120119"
 	},
@@ -43,7 +43,7 @@
 		"code":"120119104",
 		"fullCode":"120119104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下营镇",
 		"parentCode":"120119"
 	},
@@ -51,7 +51,7 @@
 		"code":"120119105",
 		"fullCode":"120119105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邦均镇",
 		"parentCode":"120119"
 	},
@@ -59,7 +59,7 @@
 		"code":"120119106",
 		"fullCode":"120119106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"别山镇",
 		"parentCode":"120119"
 	},
@@ -67,7 +67,7 @@
 		"code":"120119108",
 		"fullCode":"120119108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尤古庄镇",
 		"parentCode":"120119"
 	},
@@ -75,7 +75,7 @@
 		"code":"120119109",
 		"fullCode":"120119109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上仓镇",
 		"parentCode":"120119"
 	},
@@ -83,7 +83,7 @@
 		"code":"120119111",
 		"fullCode":"120119111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下仓镇",
 		"parentCode":"120119"
 	},
@@ -91,7 +91,7 @@
 		"code":"120119112",
 		"fullCode":"120119112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗庄子镇",
 		"parentCode":"120119"
 	},
@@ -99,7 +99,7 @@
 		"code":"120119113",
 		"fullCode":"120119113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白涧镇",
 		"parentCode":"120119"
 	},
@@ -107,7 +107,7 @@
 		"code":"120119115",
 		"fullCode":"120119115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侯家营镇",
 		"parentCode":"120119"
 	},
@@ -115,7 +115,7 @@
 		"code":"120119116",
 		"fullCode":"120119116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑梓镇",
 		"parentCode":"120119"
 	},
@@ -123,7 +123,7 @@
 		"code":"120119117",
 		"fullCode":"120119117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东施古镇",
 		"parentCode":"120119"
 	},
@@ -131,7 +131,7 @@
 		"code":"120119118",
 		"fullCode":"120119118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下窝头镇",
 		"parentCode":"120119"
 	},
@@ -139,7 +139,7 @@
 		"code":"120119119",
 		"fullCode":"120119119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨津庄镇",
 		"parentCode":"120119"
 	},
@@ -147,7 +147,7 @@
 		"code":"120119120",
 		"fullCode":"120119120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"出头岭镇",
 		"parentCode":"120119"
 	},
@@ -155,7 +155,7 @@
 		"code":"120119121",
 		"fullCode":"120119121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西龙虎峪镇",
 		"parentCode":"120119"
 	},
@@ -163,7 +163,7 @@
 		"code":"120119122",
 		"fullCode":"120119122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"穿芳峪镇",
 		"parentCode":"120119"
 	},
@@ -171,7 +171,7 @@
 		"code":"120119123",
 		"fullCode":"120119123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东二营镇",
 		"parentCode":"120119"
 	},
@@ -179,7 +179,7 @@
 		"code":"120119124",
 		"fullCode":"120119124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许家台镇",
 		"parentCode":"120119"
 	},
@@ -187,7 +187,7 @@
 		"code":"120119125",
 		"fullCode":"120119125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"礼明庄镇",
 		"parentCode":"120119"
 	},
@@ -195,7 +195,7 @@
 		"code":"120119126",
 		"fullCode":"120119126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东赵各庄镇",
 		"parentCode":"120119"
 	},
@@ -203,7 +203,7 @@
 		"code":"120119127",
 		"fullCode":"120119127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"州河湾镇",
 		"parentCode":"120119"
 	},
@@ -211,7 +211,7 @@
 		"code":"120119203",
 		"fullCode":"120119203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙各庄满族乡",
 		"parentCode":"120119"
 	},
@@ -219,7 +219,7 @@
 		"code":"120119401",
 		"fullCode":"120119401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津市蓟州区经济开发区管理委员会",
 		"parentCode":"120119"
 	}

@@ -3,7 +3,7 @@
 		"code":"621222100",
 		"fullCode":"621222100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"621222"
 	},
@@ -11,7 +11,7 @@
 		"code":"621222101",
 		"fullCode":"621222101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧口镇",
 		"parentCode":"621222"
 	},
@@ -19,7 +19,7 @@
 		"code":"621222102",
 		"fullCode":"621222102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚德镇",
 		"parentCode":"621222"
 	},
@@ -27,7 +27,7 @@
 		"code":"621222103",
 		"fullCode":"621222103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中寨镇",
 		"parentCode":"621222"
 	},
@@ -35,7 +35,7 @@
 		"code":"621222104",
 		"fullCode":"621222104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江镇",
 		"parentCode":"621222"
 	},
@@ -43,7 +43,7 @@
 		"code":"621222105",
 		"fullCode":"621222105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头镇",
 		"parentCode":"621222"
 	},
@@ -51,7 +51,7 @@
 		"code":"621222106",
 		"fullCode":"621222106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨坪镇",
 		"parentCode":"621222"
 	},
@@ -59,7 +59,7 @@
 		"code":"621222107",
 		"fullCode":"621222107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天池镇",
 		"parentCode":"621222"
 	},
@@ -67,7 +67,7 @@
 		"code":"621222108",
 		"fullCode":"621222108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堡子坝镇",
 		"parentCode":"621222"
 	},
@@ -75,7 +75,7 @@
 		"code":"621222109",
 		"fullCode":"621222109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石坊镇",
 		"parentCode":"621222"
 	},
@@ -83,7 +83,7 @@
 		"code":"621222110",
 		"fullCode":"621222110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石鸡坝镇",
 		"parentCode":"621222"
 	},
@@ -91,7 +91,7 @@
 		"code":"621222111",
 		"fullCode":"621222111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹堡镇",
 		"parentCode":"621222"
 	},
@@ -99,7 +99,7 @@
 		"code":"621222112",
 		"fullCode":"621222112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中庙镇",
 		"parentCode":"621222"
 	},
@@ -107,7 +107,7 @@
 		"code":"621222113",
 		"fullCode":"621222113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范坝镇",
 		"parentCode":"621222"
 	},
@@ -115,7 +115,7 @@
 		"code":"621222200",
 		"fullCode":"621222200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁楼藏族乡",
 		"parentCode":"621222"
 	},
@@ -123,7 +123,7 @@
 		"code":"621222205",
 		"fullCode":"621222205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘家坪乡",
 		"parentCode":"621222"
 	},
@@ -131,7 +131,7 @@
 		"code":"621222206",
 		"fullCode":"621222206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉垒乡",
 		"parentCode":"621222"
 	},
@@ -139,7 +139,7 @@
 		"code":"621222211",
 		"fullCode":"621222211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"口头坝乡",
 		"parentCode":"621222"
 	},
@@ -147,7 +147,7 @@
 		"code":"621222212",
 		"fullCode":"621222212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尖山乡",
 		"parentCode":"621222"
 	},
@@ -155,7 +155,7 @@
 		"code":"621222215",
 		"fullCode":"621222215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舍书乡",
 		"parentCode":"621222"
 	}

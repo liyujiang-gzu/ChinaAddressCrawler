@@ -3,7 +3,7 @@
 		"code":"360424100",
 		"fullCode":"360424100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义宁镇",
 		"parentCode":"360424"
 	},
@@ -11,7 +11,7 @@
 		"code":"360424101",
 		"fullCode":"360424101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白岭镇",
 		"parentCode":"360424"
 	},
@@ -19,7 +19,7 @@
 		"code":"360424102",
 		"fullCode":"360424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"全丰镇",
 		"parentCode":"360424"
 	},
@@ -27,7 +27,7 @@
 		"code":"360424103",
 		"fullCode":"360424103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古市镇",
 		"parentCode":"360424"
 	},
@@ -35,7 +35,7 @@
 		"code":"360424104",
 		"fullCode":"360424104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥镇",
 		"parentCode":"360424"
 	},
@@ -43,7 +43,7 @@
 		"code":"360424105",
 		"fullCode":"360424105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渣津镇",
 		"parentCode":"360424"
 	},
@@ -51,7 +51,7 @@
 		"code":"360424106",
 		"fullCode":"360424106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坳镇",
 		"parentCode":"360424"
 	},
@@ -59,7 +59,7 @@
 		"code":"360424107",
 		"fullCode":"360424107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杭口镇",
 		"parentCode":"360424"
 	},
@@ -67,7 +67,7 @@
 		"code":"360424108",
 		"fullCode":"360424108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港口镇",
 		"parentCode":"360424"
 	},
@@ -75,7 +75,7 @@
 		"code":"360424109",
 		"fullCode":"360424109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪口镇",
 		"parentCode":"360424"
 	},
@@ -83,7 +83,7 @@
 		"code":"360424110",
 		"fullCode":"360424110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西港镇",
 		"parentCode":"360424"
 	},
@@ -91,7 +91,7 @@
 		"code":"360424111",
 		"fullCode":"360424111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山口镇",
 		"parentCode":"360424"
 	},
@@ -99,7 +99,7 @@
 		"code":"360424112",
 		"fullCode":"360424112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄沙镇",
 		"parentCode":"360424"
 	},
@@ -107,7 +107,7 @@
 		"code":"360424113",
 		"fullCode":"360424113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄港镇",
 		"parentCode":"360424"
 	},
@@ -115,7 +115,7 @@
 		"code":"360424114",
 		"fullCode":"360424114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何市镇",
 		"parentCode":"360424"
 	},
@@ -123,7 +123,7 @@
 		"code":"360424115",
 		"fullCode":"360424115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上奉镇",
 		"parentCode":"360424"
 	},
@@ -131,7 +131,7 @@
 		"code":"360424116",
 		"fullCode":"360424116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四都镇",
 		"parentCode":"360424"
 	},
@@ -139,7 +139,7 @@
 		"code":"360424117",
 		"fullCode":"360424117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太阳升镇",
 		"parentCode":"360424"
 	},
@@ -147,7 +147,7 @@
 		"code":"360424118",
 		"fullCode":"360424118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁州镇",
 		"parentCode":"360424"
 	},
@@ -155,7 +155,7 @@
 		"code":"360424200",
 		"fullCode":"360424200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路口乡",
 		"parentCode":"360424"
 	},
@@ -163,7 +163,7 @@
 		"code":"360424201",
 		"fullCode":"360424201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄龙乡",
 		"parentCode":"360424"
 	},
@@ -171,7 +171,7 @@
 		"code":"360424202",
 		"fullCode":"360424202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上衫乡",
 		"parentCode":"360424"
 	},
@@ -179,7 +179,7 @@
 		"code":"360424203",
 		"fullCode":"360424203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余段乡",
 		"parentCode":"360424"
 	},
@@ -187,7 +187,7 @@
 		"code":"360424204",
 		"fullCode":"360424204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水源乡",
 		"parentCode":"360424"
 	},
@@ -195,7 +195,7 @@
 		"code":"360424205",
 		"fullCode":"360424205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石坳乡",
 		"parentCode":"360424"
 	},
@@ -203,7 +203,7 @@
 		"code":"360424206",
 		"fullCode":"360424206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东港乡",
 		"parentCode":"360424"
 	},
@@ -211,7 +211,7 @@
 		"code":"360424207",
 		"fullCode":"360424207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上杭乡",
 		"parentCode":"360424"
 	},
@@ -219,7 +219,7 @@
 		"code":"360424209",
 		"fullCode":"360424209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新湾乡",
 		"parentCode":"360424"
 	},
@@ -227,7 +227,7 @@
 		"code":"360424210",
 		"fullCode":"360424210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布甲乡",
 		"parentCode":"360424"
 	},
@@ -235,7 +235,7 @@
 		"code":"360424211",
 		"fullCode":"360424211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漫江乡",
 		"parentCode":"360424"
 	},
@@ -243,7 +243,7 @@
 		"code":"360424212",
 		"fullCode":"360424212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复原乡",
 		"parentCode":"360424"
 	},
@@ -251,7 +251,7 @@
 		"code":"360424213",
 		"fullCode":"360424213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹坪乡",
 		"parentCode":"360424"
 	},
@@ -259,7 +259,7 @@
 		"code":"360424214",
 		"fullCode":"360424214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"征村乡",
 		"parentCode":"360424"
 	},
@@ -267,7 +267,7 @@
 		"code":"360424215",
 		"fullCode":"360424215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙岭乡",
 		"parentCode":"360424"
 	},
@@ -275,7 +275,7 @@
 		"code":"360424216",
 		"fullCode":"360424216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄坳乡",
 		"parentCode":"360424"
 	},
@@ -283,7 +283,7 @@
 		"code":"360424217",
 		"fullCode":"360424217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大椿乡",
 		"parentCode":"360424"
 	}

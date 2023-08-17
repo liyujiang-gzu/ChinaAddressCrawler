@@ -3,7 +3,7 @@
 		"code":"410811001",
 		"fullCode":"410811001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方红街道",
 		"parentCode":"410811"
 	},
@@ -11,7 +11,7 @@
 		"code":"410811002",
 		"fullCode":"410811002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"焦东街道",
 		"parentCode":"410811"
 	},
@@ -19,7 +19,7 @@
 		"code":"410811003",
 		"fullCode":"410811003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百间房街道",
 		"parentCode":"410811"
 	},
@@ -27,7 +27,7 @@
 		"code":"410811004",
 		"fullCode":"410811004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太行街道",
 		"parentCode":"410811"
 	},
@@ -35,7 +35,7 @@
 		"code":"410811005",
 		"fullCode":"410811005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艺新街道",
 		"parentCode":"410811"
 	},
@@ -43,7 +43,7 @@
 		"code":"410811006",
 		"fullCode":"410811006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光亚街道",
 		"parentCode":"410811"
 	},
@@ -51,7 +51,7 @@
 		"code":"410811007",
 		"fullCode":"410811007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定和街道",
 		"parentCode":"410811"
 	},
@@ -59,7 +59,7 @@
 		"code":"410811008",
 		"fullCode":"410811008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中星街道",
 		"parentCode":"410811"
 	},
@@ -67,7 +67,7 @@
 		"code":"410811009",
 		"fullCode":"410811009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"410811"
 	}

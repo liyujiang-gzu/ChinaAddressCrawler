@@ -3,7 +3,7 @@
 		"code":"420881001",
 		"fullCode":"420881001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郢中街道",
 		"parentCode":"420881"
 	},
@@ -11,7 +11,7 @@
 		"code":"420881002",
 		"fullCode":"420881002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇庄街道",
 		"parentCode":"420881"
 	},
@@ -19,7 +19,7 @@
 		"code":"420881100",
 		"fullCode":"420881100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋梓镇",
 		"parentCode":"420881"
 	},
@@ -27,7 +27,7 @@
 		"code":"420881101",
 		"fullCode":"420881101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长寿镇",
 		"parentCode":"420881"
 	},
@@ -35,7 +35,7 @@
 		"code":"420881102",
 		"fullCode":"420881102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰乐镇",
 		"parentCode":"420881"
 	},
@@ -43,7 +43,7 @@
 		"code":"420881103",
 		"fullCode":"420881103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡集镇",
 		"parentCode":"420881"
 	},
@@ -51,7 +51,7 @@
 		"code":"420881104",
 		"fullCode":"420881104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河镇",
 		"parentCode":"420881"
 	},
@@ -59,7 +59,7 @@
 		"code":"420881105",
 		"fullCode":"420881105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磷矿镇",
 		"parentCode":"420881"
 	},
@@ -67,7 +67,7 @@
 		"code":"420881106",
 		"fullCode":"420881106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文集镇",
 		"parentCode":"420881"
 	},
@@ -75,7 +75,7 @@
 		"code":"420881107",
 		"fullCode":"420881107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冷水镇",
 		"parentCode":"420881"
 	},
@@ -83,7 +83,7 @@
 		"code":"420881108",
 		"fullCode":"420881108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石牌镇",
 		"parentCode":"420881"
 	},
@@ -91,7 +91,7 @@
 		"code":"420881109",
 		"fullCode":"420881109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧口镇",
 		"parentCode":"420881"
 	},
@@ -99,7 +99,7 @@
 		"code":"420881110",
 		"fullCode":"420881110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柴湖镇",
 		"parentCode":"420881"
 	},
@@ -107,7 +107,7 @@
 		"code":"420881111",
 		"fullCode":"420881111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长滩镇",
 		"parentCode":"420881"
 	},
@@ -115,7 +115,7 @@
 		"code":"420881112",
 		"fullCode":"420881112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东桥镇",
 		"parentCode":"420881"
 	},
@@ -123,7 +123,7 @@
 		"code":"420881113",
 		"fullCode":"420881113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"客店镇",
 		"parentCode":"420881"
 	},
@@ -131,7 +131,7 @@
 		"code":"420881114",
 		"fullCode":"420881114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张集镇",
 		"parentCode":"420881"
 	},
@@ -139,7 +139,7 @@
 		"code":"420881200",
 		"fullCode":"420881200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九里乡",
 		"parentCode":"420881"
 	},
@@ -147,7 +147,7 @@
 		"code":"420881400",
 		"fullCode":"420881400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖北钟祥经济开发区",
 		"parentCode":"420881"
 	},
@@ -155,7 +155,7 @@
 		"code":"420881450",
 		"fullCode":"420881450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟祥市官庄湖管理区",
 		"parentCode":"420881"
 	},
@@ -163,7 +163,7 @@
 		"code":"420881451",
 		"fullCode":"420881451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖原种场",
 		"parentCode":"420881"
 	},
@@ -171,7 +171,7 @@
 		"code":"420881452",
 		"fullCode":"420881452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗汉寺种畜场",
 		"parentCode":"420881"
 	},
@@ -179,7 +179,7 @@
 		"code":"420881453",
 		"fullCode":"420881453000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桥原种场",
 		"parentCode":"420881"
 	},
@@ -187,7 +187,7 @@
 		"code":"420881454",
 		"fullCode":"420881454000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东岳种畜场",
 		"parentCode":"420881"
 	},
@@ -195,7 +195,7 @@
 		"code":"420881455",
 		"fullCode":"420881455000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康桥湖农场",
 		"parentCode":"420881"
 	},
@@ -203,7 +203,7 @@
 		"code":"420881456",
 		"fullCode":"420881456000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大口林场",
 		"parentCode":"420881"
 	},
@@ -211,7 +211,7 @@
 		"code":"420881457",
 		"fullCode":"420881457000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘石岭林场",
 		"parentCode":"420881"
 	},
@@ -219,7 +219,7 @@
 		"code":"420881458",
 		"fullCode":"420881458000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温峡水库",
 		"parentCode":"420881"
 	},
@@ -227,7 +227,7 @@
 		"code":"420881459",
 		"fullCode":"420881459000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门水库",
 		"parentCode":"420881"
 	},
@@ -235,7 +235,7 @@
 		"code":"420881460",
 		"fullCode":"420881460000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄坡水库",
 		"parentCode":"420881"
 	},
@@ -243,7 +243,7 @@
 		"code":"420881461",
 		"fullCode":"420881461000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖北钟祥胡集经济技术开发区",
 		"parentCode":"420881"
 	}

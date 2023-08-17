@@ -3,7 +3,7 @@
 		"code":"500229001",
 		"fullCode":"500229001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛城街道",
 		"parentCode":"500229"
 	},
@@ -11,7 +11,7 @@
 		"code":"500229002",
 		"fullCode":"500229002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复兴街道",
 		"parentCode":"500229"
 	},
@@ -19,7 +19,7 @@
 		"code":"500229102",
 		"fullCode":"500229102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴山镇",
 		"parentCode":"500229"
 	},
@@ -27,7 +27,7 @@
 		"code":"500229103",
 		"fullCode":"500229103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪坝镇",
 		"parentCode":"500229"
 	},
@@ -35,7 +35,7 @@
 		"code":"500229104",
 		"fullCode":"500229104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙坝镇",
 		"parentCode":"500229"
 	},
@@ -43,7 +43,7 @@
 		"code":"500229105",
 		"fullCode":"500229105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明通镇",
 		"parentCode":"500229"
 	},
@@ -51,7 +51,7 @@
 		"code":"500229106",
 		"fullCode":"500229106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"修齐镇",
 		"parentCode":"500229"
 	},
@@ -59,7 +59,7 @@
 		"code":"500229107",
 		"fullCode":"500229107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高观镇",
 		"parentCode":"500229"
 	},
@@ -67,7 +67,7 @@
 		"code":"500229108",
 		"fullCode":"500229108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高燕镇",
 		"parentCode":"500229"
 	},
@@ -75,7 +75,7 @@
 		"code":"500229109",
 		"fullCode":"500229109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东安镇",
 		"parentCode":"500229"
 	},
@@ -83,7 +83,7 @@
 		"code":"500229110",
 		"fullCode":"500229110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"咸宜镇",
 		"parentCode":"500229"
 	},
@@ -91,7 +91,7 @@
 		"code":"500229111",
 		"fullCode":"500229111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高楠镇",
 		"parentCode":"500229"
 	},
@@ -99,7 +99,7 @@
 		"code":"500229201",
 		"fullCode":"500229201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙田乡",
 		"parentCode":"500229"
 	},
@@ -107,7 +107,7 @@
 		"code":"500229202",
 		"fullCode":"500229202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北屏乡",
 		"parentCode":"500229"
 	},
@@ -115,7 +115,7 @@
 		"code":"500229205",
 		"fullCode":"500229205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"左岚乡",
 		"parentCode":"500229"
 	},
@@ -123,7 +123,7 @@
 		"code":"500229208",
 		"fullCode":"500229208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿河乡",
 		"parentCode":"500229"
 	},
@@ -131,7 +131,7 @@
 		"code":"500229210",
 		"fullCode":"500229210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河乡",
 		"parentCode":"500229"
 	},
@@ -139,7 +139,7 @@
 		"code":"500229211",
 		"fullCode":"500229211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓼子乡",
 		"parentCode":"500229"
 	},
@@ -147,7 +147,7 @@
 		"code":"500229212",
 		"fullCode":"500229212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡鸣乡",
 		"parentCode":"500229"
 	},
@@ -155,7 +155,7 @@
 		"code":"500229214",
 		"fullCode":"500229214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周溪乡",
 		"parentCode":"500229"
 	},
@@ -163,7 +163,7 @@
 		"code":"500229216",
 		"fullCode":"500229216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明中乡",
 		"parentCode":"500229"
 	},
@@ -171,7 +171,7 @@
 		"code":"500229217",
 		"fullCode":"500229217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"治平乡",
 		"parentCode":"500229"
 	},
@@ -179,7 +179,7 @@
 		"code":"500229219",
 		"fullCode":"500229219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岚天乡",
 		"parentCode":"500229"
 	},
@@ -187,7 +187,7 @@
 		"code":"500229220",
 		"fullCode":"500229220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"厚坪乡",
 		"parentCode":"500229"
 	},
@@ -195,7 +195,7 @@
 		"code":"500229221",
 		"fullCode":"500229221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河鱼乡",
 		"parentCode":"500229"
 	}

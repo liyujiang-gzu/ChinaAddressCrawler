@@ -3,7 +3,7 @@
 		"code":"410882001",
 		"fullCode":"410882001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"覃怀街道",
 		"parentCode":"410882"
 	},
@@ -11,7 +11,7 @@
 		"code":"410882002",
 		"fullCode":"410882002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀庆街道",
 		"parentCode":"410882"
 	},
@@ -19,7 +19,7 @@
 		"code":"410882003",
 		"fullCode":"410882003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太行街道",
 		"parentCode":"410882"
 	},
@@ -27,7 +27,7 @@
 		"code":"410882004",
 		"fullCode":"410882004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沁园街道",
 		"parentCode":"410882"
 	},
@@ -35,7 +35,7 @@
 		"code":"410882100",
 		"fullCode":"410882100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇义镇",
 		"parentCode":"410882"
 	},
@@ -43,7 +43,7 @@
 		"code":"410882101",
 		"fullCode":"410882101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西向镇",
 		"parentCode":"410882"
 	},
@@ -51,7 +51,7 @@
 		"code":"410882102",
 		"fullCode":"410882102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西万镇",
 		"parentCode":"410882"
 	},
@@ -59,7 +59,7 @@
 		"code":"410882103",
 		"fullCode":"410882103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏香镇",
 		"parentCode":"410882"
 	},
@@ -67,7 +67,7 @@
 		"code":"410882104",
 		"fullCode":"410882104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山王庄镇",
 		"parentCode":"410882"
 	},
@@ -75,7 +75,7 @@
 		"code":"410882105",
 		"fullCode":"410882105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫陵镇",
 		"parentCode":"410882"
 	},
@@ -83,7 +83,7 @@
 		"code":"410882200",
 		"fullCode":"410882200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常平乡",
 		"parentCode":"410882"
 	},
@@ -91,7 +91,7 @@
 		"code":"410882201",
 		"fullCode":"410882201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王召乡",
 		"parentCode":"410882"
 	},
@@ -99,7 +99,7 @@
 		"code":"410882202",
 		"fullCode":"410882202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王曲乡",
 		"parentCode":"410882"
 	}

@@ -3,7 +3,7 @@
 		"code":"420112001",
 		"fullCode":"420112001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴家山街道",
 		"parentCode":"420112"
 	},
@@ -11,7 +11,7 @@
 		"code":"420112002",
 		"fullCode":"420112002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏泉办事处街道",
 		"parentCode":"420112"
 	},
@@ -19,7 +19,7 @@
 		"code":"420112004",
 		"fullCode":"420112004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"将军路街道",
 		"parentCode":"420112"
 	},
@@ -27,7 +27,7 @@
 		"code":"420112005",
 		"fullCode":"420112005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"慈惠街道",
 		"parentCode":"420112"
 	},
@@ -35,7 +35,7 @@
 		"code":"420112006",
 		"fullCode":"420112006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"走马岭街道",
 		"parentCode":"420112"
 	},
@@ -43,7 +43,7 @@
 		"code":"420112007",
 		"fullCode":"420112007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"径河街道",
 		"parentCode":"420112"
 	},
@@ -51,7 +51,7 @@
 		"code":"420112008",
 		"fullCode":"420112008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长青街道",
 		"parentCode":"420112"
 	},
@@ -59,7 +59,7 @@
 		"code":"420112011",
 		"fullCode":"420112011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛安渡办事处街道",
 		"parentCode":"420112"
 	},
@@ -67,7 +67,7 @@
 		"code":"420112012",
 		"fullCode":"420112012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山办事处街道",
 		"parentCode":"420112"
 	},
@@ -75,7 +75,7 @@
 		"code":"420112013",
 		"fullCode":"420112013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常青花园新区管理委员会街道",
 		"parentCode":"420112"
 	},
@@ -83,7 +83,7 @@
 		"code":"420112014",
 		"fullCode":"420112014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新沟镇街道",
 		"parentCode":"420112"
 	},
@@ -91,7 +91,7 @@
 		"code":"420112015",
 		"fullCode":"420112015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金银湖街道",
 		"parentCode":"420112"
 	},
@@ -99,7 +99,7 @@
 		"code":"420112400",
 		"fullCode":"420112400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"产业管理处",
 		"parentCode":"420112"
 	},
@@ -107,7 +107,7 @@
 		"code":"420112401",
 		"fullCode":"420112401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保税物流管理处",
 		"parentCode":"420112"
 	},
@@ -115,7 +115,7 @@
 		"code":"420112402",
 		"fullCode":"420112402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海峡两岸科技产业管理处",
 		"parentCode":"420112"
 	},
@@ -123,7 +123,7 @@
 		"code":"420112403",
 		"fullCode":"420112403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"食品工业管理处",
 		"parentCode":"420112"
 	},
@@ -131,7 +131,7 @@
 		"code":"420112404",
 		"fullCode":"420112404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临空经济管理处",
 		"parentCode":"420112"
 	},
@@ -139,7 +139,7 @@
 		"code":"420112405",
 		"fullCode":"420112405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"农科所管理处",
 		"parentCode":"420112"
 	},
@@ -147,7 +147,7 @@
 		"code":"420112406",
 		"fullCode":"420112406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"现代服务业管理处",
 		"parentCode":"420112"
 	}

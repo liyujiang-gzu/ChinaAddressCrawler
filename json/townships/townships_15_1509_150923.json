@@ -3,7 +3,7 @@
 		"code":"150923101",
 		"fullCode":"150923101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七台镇",
 		"parentCode":"150923"
 	},
@@ -11,7 +11,7 @@
 		"code":"150923102",
 		"fullCode":"150923102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十八顷镇",
 		"parentCode":"150923"
 	},
@@ -19,7 +19,7 @@
 		"code":"150923103",
 		"fullCode":"150923103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大黑沙土镇",
 		"parentCode":"150923"
 	},
@@ -27,7 +27,7 @@
 		"code":"150923104",
 		"fullCode":"150923104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西井子镇",
 		"parentCode":"150923"
 	},
@@ -35,7 +35,7 @@
 		"code":"150923105",
 		"fullCode":"150923105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屯垦队镇",
 		"parentCode":"150923"
 	},
@@ -43,7 +43,7 @@
 		"code":"150923106",
 		"fullCode":"150923106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小海子镇",
 		"parentCode":"150923"
 	},
@@ -51,7 +51,7 @@
 		"code":"150923200",
 		"fullCode":"150923200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大库伦乡",
 		"parentCode":"150923"
 	},
@@ -59,7 +59,7 @@
 		"code":"150923201",
 		"fullCode":"150923201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卯都乡",
 		"parentCode":"150923"
 	},
@@ -67,7 +67,7 @@
 		"code":"150923202",
 		"fullCode":"150923202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玻璃忽镜乡",
 		"parentCode":"150923"
 	},
@@ -75,7 +75,7 @@
 		"code":"150923203",
 		"fullCode":"150923203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三大顷乡",
 		"parentCode":"150923"
 	}

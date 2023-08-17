@@ -3,7 +3,7 @@
 		"code":"140123100",
 		"fullCode":"140123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"娄烦镇",
 		"parentCode":"140123"
 	},
@@ -11,7 +11,7 @@
 		"code":"140123101",
 		"fullCode":"140123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"静游镇",
 		"parentCode":"140123"
 	},
@@ -19,7 +19,7 @@
 		"code":"140123102",
 		"fullCode":"140123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜交曲镇",
 		"parentCode":"140123"
 	},
@@ -27,7 +27,7 @@
 		"code":"140123201",
 		"fullCode":"140123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马家庄乡",
 		"parentCode":"140123"
 	},
@@ -35,7 +35,7 @@
 		"code":"140123202",
 		"fullCode":"140123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盖家庄乡",
 		"parentCode":"140123"
 	},
@@ -43,7 +43,7 @@
 		"code":"140123203",
 		"fullCode":"140123203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米峪镇乡",
 		"parentCode":"140123"
 	},
@@ -51,7 +51,7 @@
 		"code":"140123204",
 		"fullCode":"140123204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天池店乡",
 		"parentCode":"140123"
 	}

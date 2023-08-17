@@ -3,7 +3,7 @@
 		"code":"610627001",
 		"fullCode":"610627001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美水街道",
 		"parentCode":"610627"
 	},
@@ -11,7 +11,7 @@
 		"code":"610627101",
 		"fullCode":"610627101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下寺湾镇",
 		"parentCode":"610627"
 	},
@@ -19,7 +19,7 @@
 		"code":"610627102",
 		"fullCode":"610627102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道镇",
 		"parentCode":"610627"
 	},
@@ -27,7 +27,7 @@
 		"code":"610627103",
 		"fullCode":"610627103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门镇",
 		"parentCode":"610627"
 	},
@@ -35,7 +35,7 @@
 		"code":"610627200",
 		"fullCode":"610627200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥镇乡",
 		"parentCode":"610627"
 	},
@@ -43,7 +43,7 @@
 		"code":"610627203",
 		"fullCode":"610627203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"劳山乡",
 		"parentCode":"610627"
 	}

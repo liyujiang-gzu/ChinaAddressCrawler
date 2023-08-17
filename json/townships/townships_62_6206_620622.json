@@ -3,7 +3,7 @@
 		"code":"620622100",
 		"fullCode":"620622100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古浪镇",
 		"parentCode":"620622"
 	},
@@ -11,7 +11,7 @@
 		"code":"620622101",
 		"fullCode":"620622101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗水镇",
 		"parentCode":"620622"
 	},
@@ -19,7 +19,7 @@
 		"code":"620622102",
 		"fullCode":"620622102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土门镇",
 		"parentCode":"620622"
 	},
@@ -27,7 +27,7 @@
 		"code":"620622103",
 		"fullCode":"620622103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大靖镇",
 		"parentCode":"620622"
 	},
@@ -35,7 +35,7 @@
 		"code":"620622104",
 		"fullCode":"620622104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裴家营镇",
 		"parentCode":"620622"
 	},
@@ -43,7 +43,7 @@
 		"code":"620622105",
 		"fullCode":"620622105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海子滩镇",
 		"parentCode":"620622"
 	},
@@ -51,7 +51,7 @@
 		"code":"620622106",
 		"fullCode":"620622106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定宁镇",
 		"parentCode":"620622"
 	},
@@ -59,7 +59,7 @@
 		"code":"620622107",
 		"fullCode":"620622107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄羊川镇",
 		"parentCode":"620622"
 	},
@@ -67,7 +67,7 @@
 		"code":"620622108",
 		"fullCode":"620622108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑松驿镇",
 		"parentCode":"620622"
 	},
@@ -75,7 +75,7 @@
 		"code":"620622109",
 		"fullCode":"620622109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰滩镇",
 		"parentCode":"620622"
 	},
@@ -83,7 +83,7 @@
 		"code":"620622110",
 		"fullCode":"620622110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄花滩镇",
 		"parentCode":"620622"
 	},
@@ -91,7 +91,7 @@
 		"code":"620622111",
 		"fullCode":"620622111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西靖镇",
 		"parentCode":"620622"
 	},
@@ -99,7 +99,7 @@
 		"code":"620622112",
 		"fullCode":"620622112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民权镇",
 		"parentCode":"620622"
 	},
@@ -107,7 +107,7 @@
 		"code":"620622113",
 		"fullCode":"620622113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"直滩镇",
 		"parentCode":"620622"
 	},
@@ -115,7 +115,7 @@
 		"code":"620622114",
 		"fullCode":"620622114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古丰镇",
 		"parentCode":"620622"
 	},
@@ -123,7 +123,7 @@
 		"code":"620622205",
 		"fullCode":"620622205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新堡乡",
 		"parentCode":"620622"
 	},
@@ -131,7 +131,7 @@
 		"code":"620622206",
 		"fullCode":"620622206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"干城乡",
 		"parentCode":"620622"
 	},
@@ -139,7 +139,7 @@
 		"code":"620622207",
 		"fullCode":"620622207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横梁乡",
 		"parentCode":"620622"
 	},
@@ -147,7 +147,7 @@
 		"code":"620622208",
 		"fullCode":"620622208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十八里堡乡",
 		"parentCode":"620622"
 	}

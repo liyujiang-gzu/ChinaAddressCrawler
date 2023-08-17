@@ -3,7 +3,7 @@
 		"code":"130105001",
 		"fullCode":"130105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"革新街街道",
 		"parentCode":"130105"
 	},
@@ -11,7 +11,7 @@
 		"code":"130105003",
 		"fullCode":"130105003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华路街道",
 		"parentCode":"130105"
 	},
@@ -19,7 +19,7 @@
 		"code":"130105004",
 		"fullCode":"130105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁安街道",
 		"parentCode":"130105"
 	},
@@ -27,7 +27,7 @@
 		"code":"130105005",
 		"fullCode":"130105005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东焦街道",
 		"parentCode":"130105"
 	},
@@ -35,7 +35,7 @@
 		"code":"130105006",
 		"fullCode":"130105006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西苑街道",
 		"parentCode":"130105"
 	},
@@ -43,7 +43,7 @@
 		"code":"130105007",
 		"fullCode":"130105007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合作路街道",
 		"parentCode":"130105"
 	},
@@ -51,7 +51,7 @@
 		"code":"130105008",
 		"fullCode":"130105008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联盟街道",
 		"parentCode":"130105"
 	},
@@ -59,7 +59,7 @@
 		"code":"130105009",
 		"fullCode":"130105009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石岗街道",
 		"parentCode":"130105"
 	},
@@ -67,7 +67,7 @@
 		"code":"130105011",
 		"fullCode":"130105011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天苑街道",
 		"parentCode":"130105"
 	},
@@ -75,7 +75,7 @@
 		"code":"130105012",
 		"fullCode":"130105012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北苑街道",
 		"parentCode":"130105"
 	},
@@ -83,7 +83,7 @@
 		"code":"130105013",
 		"fullCode":"130105013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵陵铺路街道",
 		"parentCode":"130105"
 	},
@@ -91,7 +91,7 @@
 		"code":"130105014",
 		"fullCode":"130105014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西三庄街道",
 		"parentCode":"130105"
 	},
@@ -99,7 +99,7 @@
 		"code":"130105015",
 		"fullCode":"130105015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大郭街道",
 		"parentCode":"130105"
 	},
@@ -107,7 +107,7 @@
 		"code":"130105016",
 		"fullCode":"130105016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜北街道",
 		"parentCode":"130105"
 	},
@@ -115,7 +115,7 @@
 		"code":"130105017",
 		"fullCode":"130105017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵佗路街道",
 		"parentCode":"130105"
 	}

@@ -3,7 +3,7 @@
 		"code":"540222100",
 		"fullCode":"540222100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江孜镇",
 		"parentCode":"540222"
 	},
@@ -11,7 +11,7 @@
 		"code":"540222200",
 		"fullCode":"540222200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳如乡",
 		"parentCode":"540222"
 	},
@@ -19,7 +19,7 @@
 		"code":"540222201",
 		"fullCode":"540222201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡麦乡",
 		"parentCode":"540222"
 	},
@@ -27,7 +27,7 @@
 		"code":"540222202",
 		"fullCode":"540222202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡堆乡",
 		"parentCode":"540222"
 	},
@@ -35,7 +35,7 @@
 		"code":"540222203",
 		"fullCode":"540222203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"藏改乡",
 		"parentCode":"540222"
 	},
@@ -43,7 +43,7 @@
 		"code":"540222204",
 		"fullCode":"540222204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日朗乡",
 		"parentCode":"540222"
 	},
@@ -51,7 +51,7 @@
 		"code":"540222205",
 		"fullCode":"540222205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达孜乡",
 		"parentCode":"540222"
 	},
@@ -59,7 +59,7 @@
 		"code":"540222206",
 		"fullCode":"540222206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热索乡",
 		"parentCode":"540222"
 	},
@@ -67,7 +67,7 @@
 		"code":"540222207",
 		"fullCode":"540222207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"重孜乡",
 		"parentCode":"540222"
 	},
@@ -75,7 +75,7 @@
 		"code":"540222208",
 		"fullCode":"540222208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙马乡",
 		"parentCode":"540222"
 	},
@@ -83,7 +83,7 @@
 		"code":"540222209",
 		"fullCode":"540222209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加克西乡",
 		"parentCode":"540222"
 	},
@@ -91,7 +91,7 @@
 		"code":"540222210",
 		"fullCode":"540222210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫金乡",
 		"parentCode":"540222"
 	},
@@ -99,7 +99,7 @@
 		"code":"540222211",
 		"fullCode":"540222211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江热乡",
 		"parentCode":"540222"
 	},
@@ -107,7 +107,7 @@
 		"code":"540222212",
 		"fullCode":"540222212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"年雄乡",
 		"parentCode":"540222"
 	},
@@ -115,7 +115,7 @@
 		"code":"540222213",
 		"fullCode":"540222213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康卓乡",
 		"parentCode":"540222"
 	},
@@ -123,7 +123,7 @@
 		"code":"540222214",
 		"fullCode":"540222214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金嘎乡",
 		"parentCode":"540222"
 	},
@@ -131,7 +131,7 @@
 		"code":"540222215",
 		"fullCode":"540222215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日星乡",
 		"parentCode":"540222"
 	},
@@ -139,7 +139,7 @@
 		"code":"540222216",
 		"fullCode":"540222216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车仁乡",
 		"parentCode":"540222"
 	},
@@ -147,7 +147,7 @@
 		"code":"540222217",
 		"fullCode":"540222217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热龙乡",
 		"parentCode":"540222"
 	}

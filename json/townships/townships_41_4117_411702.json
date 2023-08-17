@@ -3,7 +3,7 @@
 		"code":"411702001",
 		"fullCode":"411702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人民街街道",
 		"parentCode":"411702"
 	},
@@ -11,7 +11,7 @@
 		"code":"411702002",
 		"fullCode":"411702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风路街道",
 		"parentCode":"411702"
 	},
@@ -19,7 +19,7 @@
 		"code":"411702003",
 		"fullCode":"411702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西园街街道",
 		"parentCode":"411702"
 	},
@@ -27,7 +27,7 @@
 		"code":"411702004",
 		"fullCode":"411702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街街道",
 		"parentCode":"411702"
 	},
@@ -35,7 +35,7 @@
 		"code":"411702005",
 		"fullCode":"411702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南海街道",
 		"parentCode":"411702"
 	},
@@ -43,7 +43,7 @@
 		"code":"411702006",
 		"fullCode":"411702006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老街街道",
 		"parentCode":"411702"
 	},
@@ -51,7 +51,7 @@
 		"code":"411702007",
 		"fullCode":"411702007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"橡林街道",
 		"parentCode":"411702"
 	},
@@ -59,7 +59,7 @@
 		"code":"411702008",
 		"fullCode":"411702008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪松街道",
 		"parentCode":"411702"
 	},
@@ -67,7 +67,7 @@
 		"code":"411702009",
 		"fullCode":"411702009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺河街道",
 		"parentCode":"411702"
 	},
@@ -75,7 +75,7 @@
 		"code":"411702010",
 		"fullCode":"411702010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘阁街道",
 		"parentCode":"411702"
 	},
@@ -83,7 +83,7 @@
 		"code":"411702011",
 		"fullCode":"411702011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香山街道",
 		"parentCode":"411702"
 	},
@@ -91,7 +91,7 @@
 		"code":"411702012",
 		"fullCode":"411702012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城街道",
 		"parentCode":"411702"
 	},
@@ -99,7 +99,7 @@
 		"code":"411702100",
 		"fullCode":"411702100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水屯镇",
 		"parentCode":"411702"
 	},
@@ -107,7 +107,7 @@
 		"code":"411702101",
 		"fullCode":"411702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河店镇",
 		"parentCode":"411702"
 	},
@@ -115,7 +115,7 @@
 		"code":"411702102",
 		"fullCode":"411702102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"411702"
 	},
@@ -123,7 +123,7 @@
 		"code":"411702103",
 		"fullCode":"411702103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"诸市镇",
 		"parentCode":"411702"
 	},
@@ -131,7 +131,7 @@
 		"code":"411702104",
 		"fullCode":"411702104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蚁蜂镇",
 		"parentCode":"411702"
 	},
@@ -139,7 +139,7 @@
 		"code":"411702201",
 		"fullCode":"411702201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老河乡",
 		"parentCode":"411702"
 	},
@@ -147,7 +147,7 @@
 		"code":"411702204",
 		"fullCode":"411702204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱古洞乡",
 		"parentCode":"411702"
 	},
@@ -155,7 +155,7 @@
 		"code":"411702205",
 		"fullCode":"411702205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡庙乡",
 		"parentCode":"411702"
 	},
@@ -163,7 +163,7 @@
 		"code":"411702561",
 		"fullCode":"411702561000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金桥街道",
 		"parentCode":"411702"
 	}

@@ -3,7 +3,7 @@
 		"code":"451221100",
 		"fullCode":"451221100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"451221"
 	},
@@ -11,7 +11,7 @@
 		"code":"451221101",
 		"fullCode":"451221101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大厂镇",
 		"parentCode":"451221"
 	},
@@ -19,7 +19,7 @@
 		"code":"451221102",
 		"fullCode":"451221102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车河镇",
 		"parentCode":"451221"
 	},
@@ -27,7 +27,7 @@
 		"code":"451221103",
 		"fullCode":"451221103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芒场镇",
 		"parentCode":"451221"
 	},
@@ -35,7 +35,7 @@
 		"code":"451221104",
 		"fullCode":"451221104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六寨镇",
 		"parentCode":"451221"
 	},
@@ -43,7 +43,7 @@
 		"code":"451221105",
 		"fullCode":"451221105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月里镇",
 		"parentCode":"451221"
 	},
@@ -51,7 +51,7 @@
 		"code":"451221106",
 		"fullCode":"451221106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吾隘镇",
 		"parentCode":"451221"
 	},
@@ -59,7 +59,7 @@
 		"code":"451221107",
 		"fullCode":"451221107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗富镇",
 		"parentCode":"451221"
 	},
@@ -67,7 +67,7 @@
 		"code":"451221202",
 		"fullCode":"451221202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中堡苗族乡",
 		"parentCode":"451221"
 	},
@@ -75,7 +75,7 @@
 		"code":"451221203",
 		"fullCode":"451221203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八圩瑶族乡",
 		"parentCode":"451221"
 	},
@@ -83,7 +83,7 @@
 		"code":"451221204",
 		"fullCode":"451221204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里湖瑶族乡",
 		"parentCode":"451221"
 	}

@@ -3,7 +3,7 @@
 		"code":"210702",
 		"fullCode":"210702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"古塔区",
 		"parentCode":"2107"
 	},
@@ -11,7 +11,7 @@
 		"code":"210703",
 		"fullCode":"210703000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凌河区",
 		"parentCode":"2107"
 	},
@@ -19,7 +19,7 @@
 		"code":"210711",
 		"fullCode":"210711000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"太和区",
 		"parentCode":"2107"
 	},
@@ -27,7 +27,7 @@
 		"code":"210726",
 		"fullCode":"210726000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黑山县",
 		"parentCode":"2107"
 	},
@@ -35,7 +35,7 @@
 		"code":"210727",
 		"fullCode":"210727000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"义县",
 		"parentCode":"2107"
 	},
@@ -43,7 +43,7 @@
 		"code":"210781",
 		"fullCode":"210781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凌海市",
 		"parentCode":"2107"
 	},
@@ -51,7 +51,7 @@
 		"code":"210782",
 		"fullCode":"210782000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"北镇市",
 		"parentCode":"2107"
 	}

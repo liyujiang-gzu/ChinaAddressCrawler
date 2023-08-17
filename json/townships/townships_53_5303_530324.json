@@ -3,7 +3,7 @@
 		"code":"530324001",
 		"fullCode":"530324001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗雄街道",
 		"parentCode":"530324"
 	},
@@ -11,7 +11,7 @@
 		"code":"530324002",
 		"fullCode":"530324002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腊山街道",
 		"parentCode":"530324"
 	},
@@ -19,7 +19,7 @@
 		"code":"530324003",
 		"fullCode":"530324003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙街道",
 		"parentCode":"530324"
 	},
@@ -27,7 +27,7 @@
 		"code":"530324102",
 		"fullCode":"530324102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"530324"
 	},
@@ -35,7 +35,7 @@
 		"code":"530324103",
 		"fullCode":"530324103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马街镇",
 		"parentCode":"530324"
 	},
@@ -43,7 +43,7 @@
 		"code":"530324104",
 		"fullCode":"530324104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富乐镇",
 		"parentCode":"530324"
 	},
@@ -51,7 +51,7 @@
 		"code":"530324106",
 		"fullCode":"530324106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿岗镇",
 		"parentCode":"530324"
 	},
@@ -59,7 +59,7 @@
 		"code":"530324201",
 		"fullCode":"530324201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大水井乡",
 		"parentCode":"530324"
 	},
@@ -67,7 +67,7 @@
 		"code":"530324202",
 		"fullCode":"530324202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁布革布依族苗族乡",
 		"parentCode":"530324"
 	},
@@ -75,7 +75,7 @@
 		"code":"530324203",
 		"fullCode":"530324203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧屋基彝族乡",
 		"parentCode":"530324"
 	},
@@ -83,7 +83,7 @@
 		"code":"530324204",
 		"fullCode":"530324204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟山乡",
 		"parentCode":"530324"
 	},
@@ -91,7 +91,7 @@
 		"code":"530324205",
 		"fullCode":"530324205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长底布依族乡",
 		"parentCode":"530324"
 	},
@@ -99,7 +99,7 @@
 		"code":"530324206",
 		"fullCode":"530324206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老厂乡",
 		"parentCode":"530324"
 	}

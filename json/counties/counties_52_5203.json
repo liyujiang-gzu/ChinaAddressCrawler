@@ -3,7 +3,7 @@
 		"code":"520302",
 		"fullCode":"520302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"红花岗区",
 		"parentCode":"5203"
 	},
@@ -11,7 +11,7 @@
 		"code":"520303",
 		"fullCode":"520303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汇川区",
 		"parentCode":"5203"
 	},
@@ -19,7 +19,7 @@
 		"code":"520304",
 		"fullCode":"520304000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"播州区",
 		"parentCode":"5203"
 	},
@@ -27,7 +27,7 @@
 		"code":"520322",
 		"fullCode":"520322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桐梓县",
 		"parentCode":"5203"
 	},
@@ -35,7 +35,7 @@
 		"code":"520323",
 		"fullCode":"520323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"绥阳县",
 		"parentCode":"5203"
 	},
@@ -43,7 +43,7 @@
 		"code":"520324",
 		"fullCode":"520324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"正安县",
 		"parentCode":"5203"
 	},
@@ -51,7 +51,7 @@
 		"code":"520325",
 		"fullCode":"520325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"道真仡佬族苗族自治县",
 		"parentCode":"5203"
 	},
@@ -59,7 +59,7 @@
 		"code":"520326",
 		"fullCode":"520326000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"务川仡佬族苗族自治县",
 		"parentCode":"5203"
 	},
@@ -67,7 +67,7 @@
 		"code":"520327",
 		"fullCode":"520327000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凤冈县",
 		"parentCode":"5203"
 	},
@@ -75,7 +75,7 @@
 		"code":"520328",
 		"fullCode":"520328000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"湄潭县",
 		"parentCode":"5203"
 	},
@@ -83,7 +83,7 @@
 		"code":"520329",
 		"fullCode":"520329000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"余庆县",
 		"parentCode":"5203"
 	},
@@ -91,7 +91,7 @@
 		"code":"520330",
 		"fullCode":"520330000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"习水县",
 		"parentCode":"5203"
 	},
@@ -99,7 +99,7 @@
 		"code":"520381",
 		"fullCode":"520381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"赤水市",
 		"parentCode":"5203"
 	},
@@ -107,7 +107,7 @@
 		"code":"520382",
 		"fullCode":"520382000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"仁怀市",
 		"parentCode":"5203"
 	}

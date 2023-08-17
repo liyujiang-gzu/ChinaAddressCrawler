@@ -3,7 +3,7 @@
 		"code":"653225100",
 		"fullCode":"653225100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"策勒镇",
 		"parentCode":"653225"
 	},
@@ -11,7 +11,7 @@
 		"code":"653225101",
 		"fullCode":"653225101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固拉合玛镇",
 		"parentCode":"653225"
 	},
@@ -19,7 +19,7 @@
 		"code":"653225200",
 		"fullCode":"653225200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"策勒乡",
 		"parentCode":"653225"
 	},
@@ -27,7 +27,7 @@
 		"code":"653225202",
 		"fullCode":"653225202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达玛沟乡",
 		"parentCode":"653225"
 	},
@@ -35,7 +35,7 @@
 		"code":"653225203",
 		"fullCode":"653225203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恰哈乡",
 		"parentCode":"653225"
 	},
@@ -43,7 +43,7 @@
 		"code":"653225204",
 		"fullCode":"653225204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌鲁克萨依乡",
 		"parentCode":"653225"
 	},
@@ -51,7 +51,7 @@
 		"code":"653225205",
 		"fullCode":"653225205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奴尔乡",
 		"parentCode":"653225"
 	},
@@ -59,7 +59,7 @@
 		"code":"653225206",
 		"fullCode":"653225206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博斯坦乡",
 		"parentCode":"653225"
 	}

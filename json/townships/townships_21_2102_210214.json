@@ -3,7 +3,7 @@
 		"code":"210214001",
 		"fullCode":"210214001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰荣街道",
 		"parentCode":"210214"
 	},
@@ -11,7 +11,7 @@
 		"code":"210214002",
 		"fullCode":"210214002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西街道",
 		"parentCode":"210214"
 	},
@@ -19,7 +19,7 @@
 		"code":"210214003",
 		"fullCode":"210214003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平街道",
 		"parentCode":"210214"
 	},
@@ -27,7 +27,7 @@
 		"code":"210214005",
 		"fullCode":"210214005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皮口街道",
 		"parentCode":"210214"
 	},
@@ -35,7 +35,7 @@
 		"code":"210214006",
 		"fullCode":"210214006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城子坦街道",
 		"parentCode":"210214"
 	},
@@ -43,7 +43,7 @@
 		"code":"210214007",
 		"fullCode":"210214007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大刘家街道",
 		"parentCode":"210214"
 	},
@@ -51,7 +51,7 @@
 		"code":"210214008",
 		"fullCode":"210214008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨树房街道",
 		"parentCode":"210214"
 	},
@@ -59,7 +59,7 @@
 		"code":"210214009",
 		"fullCode":"210214009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大谭街道",
 		"parentCode":"210214"
 	},
@@ -67,7 +67,7 @@
 		"code":"210214010",
 		"fullCode":"210214010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐家房街道",
 		"parentCode":"210214"
 	},
@@ -75,7 +75,7 @@
 		"code":"210214011",
 		"fullCode":"210214011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲山街道",
 		"parentCode":"210214"
 	},
@@ -83,7 +83,7 @@
 		"code":"210214012",
 		"fullCode":"210214012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安波街道",
 		"parentCode":"210214"
 	},
@@ -91,7 +91,7 @@
 		"code":"210214013",
 		"fullCode":"210214013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙包街道",
 		"parentCode":"210214"
 	},
@@ -99,7 +99,7 @@
 		"code":"210214014",
 		"fullCode":"210214014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星台街道",
 		"parentCode":"210214"
 	},
@@ -107,7 +107,7 @@
 		"code":"210214015",
 		"fullCode":"210214015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墨盘街道",
 		"parentCode":"210214"
 	},
@@ -115,7 +115,7 @@
 		"code":"210214016",
 		"fullCode":"210214016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同益街道",
 		"parentCode":"210214"
 	},
@@ -123,7 +123,7 @@
 		"code":"210214017",
 		"fullCode":"210214017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐甲街道",
 		"parentCode":"210214"
 	},
@@ -131,7 +131,7 @@
 		"code":"210214018",
 		"fullCode":"210214018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双塔街道",
 		"parentCode":"210214"
 	},
@@ -139,7 +139,7 @@
 		"code":"210214019",
 		"fullCode":"210214019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四平街道",
 		"parentCode":"210214"
 	}

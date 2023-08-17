@@ -3,7 +3,7 @@
 		"code":"410502",
 		"fullCode":"410502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"文峰区",
 		"parentCode":"4105"
 	},
@@ -11,7 +11,7 @@
 		"code":"410503",
 		"fullCode":"410503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"北关区",
 		"parentCode":"4105"
 	},
@@ -19,7 +19,7 @@
 		"code":"410505",
 		"fullCode":"410505000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"殷都区",
 		"parentCode":"4105"
 	},
@@ -27,7 +27,7 @@
 		"code":"410506",
 		"fullCode":"410506000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙安区",
 		"parentCode":"4105"
 	},
@@ -35,7 +35,7 @@
 		"code":"410522",
 		"fullCode":"410522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安阳县",
 		"parentCode":"4105"
 	},
@@ -43,7 +43,7 @@
 		"code":"410523",
 		"fullCode":"410523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汤阴县",
 		"parentCode":"4105"
 	},
@@ -51,7 +51,7 @@
 		"code":"410526",
 		"fullCode":"410526000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"滑县",
 		"parentCode":"4105"
 	},
@@ -59,7 +59,7 @@
 		"code":"410527",
 		"fullCode":"410527000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"内黄县",
 		"parentCode":"4105"
 	},
@@ -67,7 +67,7 @@
 		"code":"410571",
 		"fullCode":"410571000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安阳高新技术产业开发区",
 		"parentCode":"4105"
 	},
@@ -75,7 +75,7 @@
 		"code":"410581",
 		"fullCode":"410581000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"林州市",
 		"parentCode":"4105"
 	}

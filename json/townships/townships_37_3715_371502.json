@@ -3,7 +3,7 @@
 		"code":"371502001",
 		"fullCode":"371502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古楼街道",
 		"parentCode":"371502"
 	},
@@ -11,7 +11,7 @@
 		"code":"371502002",
 		"fullCode":"371502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳园街道",
 		"parentCode":"371502"
 	},
@@ -19,7 +19,7 @@
 		"code":"371502003",
 		"fullCode":"371502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新区街道",
 		"parentCode":"371502"
 	},
@@ -27,7 +27,7 @@
 		"code":"371502004",
 		"fullCode":"371502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖西街道",
 		"parentCode":"371502"
 	},
@@ -35,7 +35,7 @@
 		"code":"371502005",
 		"fullCode":"371502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道口铺街道",
 		"parentCode":"371502"
 	},
@@ -43,7 +43,7 @@
 		"code":"371502006",
 		"fullCode":"371502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闫寺街道",
 		"parentCode":"371502"
 	},
@@ -51,7 +51,7 @@
 		"code":"371502008",
 		"fullCode":"371502008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"371502"
 	},
@@ -59,7 +59,7 @@
 		"code":"371502009",
 		"fullCode":"371502009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"371502"
 	},
@@ -67,7 +67,7 @@
 		"code":"371502010",
 		"fullCode":"371502010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋官屯街道",
 		"parentCode":"371502"
 	},
@@ -75,7 +75,7 @@
 		"code":"371502011",
 		"fullCode":"371502011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李海务街道",
 		"parentCode":"371502"
 	},
@@ -83,7 +83,7 @@
 		"code":"371502100",
 		"fullCode":"371502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侯营镇",
 		"parentCode":"371502"
 	},
@@ -91,7 +91,7 @@
 		"code":"371502101",
 		"fullCode":"371502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙镇镇",
 		"parentCode":"371502"
 	},
@@ -99,7 +99,7 @@
 		"code":"371502102",
 		"fullCode":"371502102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堂邑镇",
 		"parentCode":"371502"
 	},
@@ -107,7 +107,7 @@
 		"code":"371502103",
 		"fullCode":"371502103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁水镇",
 		"parentCode":"371502"
 	},
@@ -115,7 +115,7 @@
 		"code":"371502104",
 		"fullCode":"371502104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斗虎屯镇",
 		"parentCode":"371502"
 	},
@@ -123,7 +123,7 @@
 		"code":"371502105",
 		"fullCode":"371502105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑家镇",
 		"parentCode":"371502"
 	},
@@ -131,7 +131,7 @@
 		"code":"371502106",
 		"fullCode":"371502106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张炉集镇",
 		"parentCode":"371502"
 	},
@@ -139,7 +139,7 @@
 		"code":"371502107",
 		"fullCode":"371502107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"于集镇",
 		"parentCode":"371502"
 	},
@@ -147,7 +147,7 @@
 		"code":"371502108",
 		"fullCode":"371502108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许营镇",
 		"parentCode":"371502"
 	},
@@ -155,7 +155,7 @@
 		"code":"371502109",
 		"fullCode":"371502109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱老庄镇",
 		"parentCode":"371502"
 	},
@@ -163,7 +163,7 @@
 		"code":"371502110",
 		"fullCode":"371502110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顾官屯镇",
 		"parentCode":"371502"
 	},
@@ -171,7 +171,7 @@
 		"code":"371502115",
 		"fullCode":"371502115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩集镇",
 		"parentCode":"371502"
 	},
@@ -179,7 +179,7 @@
 		"code":"371502116",
 		"fullCode":"371502116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广平镇",
 		"parentCode":"371502"
 	},
@@ -187,7 +187,7 @@
 		"code":"371502400",
 		"fullCode":"371502400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香江光彩大市场服务中心",
 		"parentCode":"371502"
 	}

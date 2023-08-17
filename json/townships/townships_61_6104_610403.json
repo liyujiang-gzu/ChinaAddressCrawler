@@ -3,7 +3,7 @@
 		"code":"610403001",
 		"fullCode":"610403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨陵街道",
 		"parentCode":"610403"
 	},
@@ -11,7 +11,7 @@
 		"code":"610403002",
 		"fullCode":"610403002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李台街道",
 		"parentCode":"610403"
 	},
@@ -19,7 +19,7 @@
 		"code":"610403003",
 		"fullCode":"610403003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大寨街道",
 		"parentCode":"610403"
 	},
@@ -27,7 +27,7 @@
 		"code":"610403100",
 		"fullCode":"610403100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五泉镇",
 		"parentCode":"610403"
 	},
@@ -35,7 +35,7 @@
 		"code":"610403102",
 		"fullCode":"610403102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"揉谷镇",
 		"parentCode":"610403"
 	}

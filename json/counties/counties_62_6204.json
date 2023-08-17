@@ -3,7 +3,7 @@
 		"code":"620402",
 		"fullCode":"620402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"白银区",
 		"parentCode":"6204"
 	},
@@ -11,7 +11,7 @@
 		"code":"620403",
 		"fullCode":"620403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平川区",
 		"parentCode":"6204"
 	},
@@ -19,7 +19,7 @@
 		"code":"620421",
 		"fullCode":"620421000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"靖远县",
 		"parentCode":"6204"
 	},
@@ -27,7 +27,7 @@
 		"code":"620422",
 		"fullCode":"620422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"会宁县",
 		"parentCode":"6204"
 	},
@@ -35,7 +35,7 @@
 		"code":"620423",
 		"fullCode":"620423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"景泰县",
 		"parentCode":"6204"
 	}

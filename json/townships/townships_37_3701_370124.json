@@ -3,7 +3,7 @@
 		"code":"370124001",
 		"fullCode":"370124001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆山街道",
 		"parentCode":"370124"
 	},
@@ -11,7 +11,7 @@
 		"code":"370124002",
 		"fullCode":"370124002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦水街道",
 		"parentCode":"370124"
 	},
@@ -19,7 +19,7 @@
 		"code":"370124102",
 		"fullCode":"370124102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东阿镇",
 		"parentCode":"370124"
 	},
@@ -27,7 +27,7 @@
 		"code":"370124103",
 		"fullCode":"370124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孝直镇",
 		"parentCode":"370124"
 	},
@@ -35,7 +35,7 @@
 		"code":"370124104",
 		"fullCode":"370124104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔村镇",
 		"parentCode":"370124"
 	},
@@ -43,7 +43,7 @@
 		"code":"370124105",
 		"fullCode":"370124105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪范池镇",
 		"parentCode":"370124"
 	},
@@ -51,7 +51,7 @@
 		"code":"370124106",
 		"fullCode":"370124106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玫瑰镇",
 		"parentCode":"370124"
 	},
@@ -59,7 +59,7 @@
 		"code":"370124107",
 		"fullCode":"370124107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安城镇",
 		"parentCode":"370124"
 	}

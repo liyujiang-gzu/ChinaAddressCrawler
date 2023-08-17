@@ -3,7 +3,7 @@
 		"code":"522634001",
 		"fullCode":"522634001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头街道",
 		"parentCode":"522634"
 	},
@@ -11,7 +11,7 @@
 		"code":"522634100",
 		"fullCode":"522634100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹江镇",
 		"parentCode":"522634"
 	},
@@ -19,7 +19,7 @@
 		"code":"522634101",
 		"fullCode":"522634101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西江镇",
 		"parentCode":"522634"
 	},
@@ -27,7 +27,7 @@
 		"code":"522634102",
 		"fullCode":"522634102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乐镇",
 		"parentCode":"522634"
 	},
@@ -35,7 +35,7 @@
 		"code":"522634103",
 		"fullCode":"522634103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郎德镇",
 		"parentCode":"522634"
 	},
@@ -43,7 +43,7 @@
 		"code":"522634104",
 		"fullCode":"522634104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大塘镇",
 		"parentCode":"522634"
 	},
@@ -51,7 +51,7 @@
 		"code":"522634200",
 		"fullCode":"522634200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望丰乡",
 		"parentCode":"522634"
 	},
@@ -59,7 +59,7 @@
 		"code":"522634203",
 		"fullCode":"522634203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达地水族乡",
 		"parentCode":"522634"
 	},
@@ -67,7 +67,7 @@
 		"code":"522634204",
 		"fullCode":"522634204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方祥乡",
 		"parentCode":"522634"
 	}

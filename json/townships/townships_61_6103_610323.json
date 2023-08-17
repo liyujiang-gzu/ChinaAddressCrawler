@@ -3,7 +3,7 @@
 		"code":"610323100",
 		"fullCode":"610323100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤鸣镇",
 		"parentCode":"610323"
 	},
@@ -11,7 +11,7 @@
 		"code":"610323101",
 		"fullCode":"610323101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡家坡镇",
 		"parentCode":"610323"
 	},
@@ -19,7 +19,7 @@
 		"code":"610323103",
 		"fullCode":"610323103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"益店镇",
 		"parentCode":"610323"
 	},
@@ -27,7 +27,7 @@
 		"code":"610323104",
 		"fullCode":"610323104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲村镇",
 		"parentCode":"610323"
 	},
@@ -35,7 +35,7 @@
 		"code":"610323106",
 		"fullCode":"610323106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青化镇",
 		"parentCode":"610323"
 	},
@@ -43,7 +43,7 @@
 		"code":"610323107",
 		"fullCode":"610323107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣林镇",
 		"parentCode":"610323"
 	},
@@ -51,7 +51,7 @@
 		"code":"610323108",
 		"fullCode":"610323108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雍川镇",
 		"parentCode":"610323"
 	},
@@ -59,7 +59,7 @@
 		"code":"610323111",
 		"fullCode":"610323111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"故郡镇",
 		"parentCode":"610323"
 	},
@@ -67,7 +67,7 @@
 		"code":"610323112",
 		"fullCode":"610323112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"京当镇",
 		"parentCode":"610323"
 	}

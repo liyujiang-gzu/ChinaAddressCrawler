@@ -3,7 +3,7 @@
 		"code":"654203101",
 		"fullCode":"654203101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四道河子镇",
 		"parentCode":"654203"
 	},
@@ -11,7 +11,7 @@
 		"code":"654203102",
 		"fullCode":"654203102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老沙湾镇",
 		"parentCode":"654203"
 	},
@@ -19,7 +19,7 @@
 		"code":"654203103",
 		"fullCode":"654203103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰乌苏镇",
 		"parentCode":"654203"
 	},
@@ -27,7 +27,7 @@
 		"code":"654203104",
 		"fullCode":"654203104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安集海镇",
 		"parentCode":"654203"
 	},
@@ -35,7 +35,7 @@
 		"code":"654203105",
 		"fullCode":"654203105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湾镇",
 		"parentCode":"654203"
 	},
@@ -43,7 +43,7 @@
 		"code":"654203106",
 		"fullCode":"654203106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西戈壁镇",
 		"parentCode":"654203"
 	},
@@ -51,7 +51,7 @@
 		"code":"654203107",
 		"fullCode":"654203107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳毛湾镇",
 		"parentCode":"654203"
 	},
@@ -59,7 +59,7 @@
 		"code":"654203108",
 		"fullCode":"654203108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沟河镇",
 		"parentCode":"654203"
 	},
@@ -67,7 +67,7 @@
 		"code":"654203109",
 		"fullCode":"654203109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道河子镇",
 		"parentCode":"654203"
 	},
@@ -75,7 +75,7 @@
 		"code":"654203200",
 		"fullCode":"654203200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商户地乡",
 		"parentCode":"654203"
 	},
@@ -83,7 +83,7 @@
 		"code":"654203201",
 		"fullCode":"654203201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大泉乡",
 		"parentCode":"654203"
 	},
@@ -91,7 +91,7 @@
 		"code":"654203202",
 		"fullCode":"654203202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博尔通古乡",
 		"parentCode":"654203"
 	},
@@ -99,7 +99,7 @@
 		"code":"654203500",
 		"fullCode":"654203500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团北泉镇分部",
 		"parentCode":"654203"
 	},
@@ -107,7 +107,7 @@
 		"code":"654203503",
 		"fullCode":"654203503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一二一团",
 		"parentCode":"654203"
 	},
@@ -115,7 +115,7 @@
 		"code":"654203506",
 		"fullCode":"654203506000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一三三团",
 		"parentCode":"654203"
 	},
@@ -123,7 +123,7 @@
 		"code":"654203507",
 		"fullCode":"654203507000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一三四团",
 		"parentCode":"654203"
 	},
@@ -131,7 +131,7 @@
 		"code":"654203509",
 		"fullCode":"654203509000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一四一团",
 		"parentCode":"654203"
 	},
@@ -139,7 +139,7 @@
 		"code":"654203510",
 		"fullCode":"654203510000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一四二团",
 		"parentCode":"654203"
 	},
@@ -147,7 +147,7 @@
 		"code":"654203511",
 		"fullCode":"654203511000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一四三团",
 		"parentCode":"654203"
 	},
@@ -155,7 +155,7 @@
 		"code":"654203512",
 		"fullCode":"654203512000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一四四团",
 		"parentCode":"654203"
 	}

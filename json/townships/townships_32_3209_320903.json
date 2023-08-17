@@ -3,7 +3,7 @@
 		"code":"320903002",
 		"fullCode":"320903002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张庄街道",
 		"parentCode":"320903"
 	},
@@ -11,7 +11,7 @@
 		"code":"320903003",
 		"fullCode":"320903003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐龙街道",
 		"parentCode":"320903"
 	},
@@ -19,7 +19,7 @@
 		"code":"320903004",
 		"fullCode":"320903004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘黄街道",
 		"parentCode":"320903"
 	},
@@ -27,7 +27,7 @@
 		"code":"320903012",
 		"fullCode":"320903012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐渎街道",
 		"parentCode":"320903"
 	},
@@ -35,7 +35,7 @@
 		"code":"320903050",
 		"fullCode":"320903050000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新都街道",
 		"parentCode":"320903"
 	},
@@ -43,7 +43,7 @@
 		"code":"320903051",
 		"fullCode":"320903051000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科城街道",
 		"parentCode":"320903"
 	},
@@ -51,7 +51,7 @@
 		"code":"320903100",
 		"fullCode":"320903100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大纵湖镇",
 		"parentCode":"320903"
 	},
@@ -59,7 +59,7 @@
 		"code":"320903102",
 		"fullCode":"320903102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楼王镇",
 		"parentCode":"320903"
 	},
@@ -67,7 +67,7 @@
 		"code":"320903103",
 		"fullCode":"320903103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学富镇",
 		"parentCode":"320903"
 	},
@@ -75,7 +75,7 @@
 		"code":"320903105",
 		"fullCode":"320903105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚庄镇",
 		"parentCode":"320903"
 	},
@@ -83,7 +83,7 @@
 		"code":"320903108",
 		"fullCode":"320903108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦南镇",
 		"parentCode":"320903"
 	},
@@ -91,7 +91,7 @@
 		"code":"320903109",
 		"fullCode":"320903109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙冈镇",
 		"parentCode":"320903"
 	},
@@ -99,7 +99,7 @@
 		"code":"320903111",
 		"fullCode":"320903111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭猛镇",
 		"parentCode":"320903"
 	},
@@ -107,7 +107,7 @@
 		"code":"320903112",
 		"fullCode":"320903112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大冈镇",
 		"parentCode":"320903"
 	},
@@ -115,7 +115,7 @@
 		"code":"320903403",
 		"fullCode":"320903403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大纵湖旅游度假区",
 		"parentCode":"320903"
 	},
@@ -123,7 +123,7 @@
 		"code":"320903404",
 		"fullCode":"320903404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台湾农民创业园",
 		"parentCode":"320903"
 	}

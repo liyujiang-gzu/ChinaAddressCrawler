@@ -3,7 +3,7 @@
 		"code":"341002",
 		"fullCode":"341002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"屯溪区",
 		"parentCode":"3410"
 	},
@@ -11,7 +11,7 @@
 		"code":"341003",
 		"fullCode":"341003000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黄山区",
 		"parentCode":"3410"
 	},
@@ -19,7 +19,7 @@
 		"code":"341004",
 		"fullCode":"341004000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"徽州区",
 		"parentCode":"3410"
 	},
@@ -27,7 +27,7 @@
 		"code":"341021",
 		"fullCode":"341021000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"歙县",
 		"parentCode":"3410"
 	},
@@ -35,7 +35,7 @@
 		"code":"341022",
 		"fullCode":"341022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"休宁县",
 		"parentCode":"3410"
 	},
@@ -43,7 +43,7 @@
 		"code":"341023",
 		"fullCode":"341023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黟县",
 		"parentCode":"3410"
 	},
@@ -51,7 +51,7 @@
 		"code":"341024",
 		"fullCode":"341024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"祁门县",
 		"parentCode":"3410"
 	}

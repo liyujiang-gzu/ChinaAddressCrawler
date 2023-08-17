@@ -3,7 +3,7 @@
 		"code":"450602001",
 		"fullCode":"450602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔州坪街道",
 		"parentCode":"450602"
 	},
@@ -11,7 +11,7 @@
 		"code":"450602002",
 		"fullCode":"450602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙万街道",
 		"parentCode":"450602"
 	},
@@ -19,7 +19,7 @@
 		"code":"450602003",
 		"fullCode":"450602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙潭江街道",
 		"parentCode":"450602"
 	},
@@ -27,7 +27,7 @@
 		"code":"450602004",
 		"fullCode":"450602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王府街道",
 		"parentCode":"450602"
 	},
@@ -35,7 +35,7 @@
 		"code":"450602100",
 		"fullCode":"450602100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"企沙镇",
 		"parentCode":"450602"
 	},
@@ -43,7 +43,7 @@
 		"code":"450602101",
 		"fullCode":"450602101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光坡镇",
 		"parentCode":"450602"
 	}

@@ -3,7 +3,7 @@
 		"code":"130728100",
 		"fullCode":"130728100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柴沟堡镇",
 		"parentCode":"130728"
 	},
@@ -11,7 +11,7 @@
 		"code":"130728101",
 		"fullCode":"130728101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"左卫镇",
 		"parentCode":"130728"
 	},
@@ -19,7 +19,7 @@
 		"code":"130728102",
 		"fullCode":"130728102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头百户镇",
 		"parentCode":"130728"
 	},
@@ -27,7 +27,7 @@
 		"code":"130728103",
 		"fullCode":"130728103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀安城镇",
 		"parentCode":"130728"
 	},
@@ -35,7 +35,7 @@
 		"code":"130728200",
 		"fullCode":"130728200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渡口堡乡",
 		"parentCode":"130728"
 	},
@@ -43,7 +43,7 @@
 		"code":"130728201",
 		"fullCode":"130728201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第六屯乡",
 		"parentCode":"130728"
 	},
@@ -51,7 +51,7 @@
 		"code":"130728202",
 		"fullCode":"130728202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湾堡乡",
 		"parentCode":"130728"
 	},
@@ -59,7 +59,7 @@
 		"code":"130728203",
 		"fullCode":"130728203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西沙城乡",
 		"parentCode":"130728"
 	},
@@ -67,7 +67,7 @@
 		"code":"130728204",
 		"fullCode":"130728204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平庄乡",
 		"parentCode":"130728"
 	},
@@ -75,7 +75,7 @@
 		"code":"130728205",
 		"fullCode":"130728205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王虎屯乡",
 		"parentCode":"130728"
 	},
@@ -83,7 +83,7 @@
 		"code":"130728206",
 		"fullCode":"130728206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第三堡乡",
 		"parentCode":"130728"
 	}

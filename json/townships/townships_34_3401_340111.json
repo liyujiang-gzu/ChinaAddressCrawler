@@ -3,7 +3,7 @@
 		"code":"340111001",
 		"fullCode":"340111001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骆岗街道",
 		"parentCode":"340111"
 	},
@@ -11,7 +11,7 @@
 		"code":"340111002",
 		"fullCode":"340111002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常青街道",
 		"parentCode":"340111"
 	},
@@ -19,7 +19,7 @@
 		"code":"340111003",
 		"fullCode":"340111003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芜湖路街道",
 		"parentCode":"340111"
 	},
@@ -27,7 +27,7 @@
 		"code":"340111004",
 		"fullCode":"340111004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"包公街道",
 		"parentCode":"340111"
 	},
@@ -35,7 +35,7 @@
 		"code":"340111005",
 		"fullCode":"340111005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望湖街道",
 		"parentCode":"340111"
 	},
@@ -43,7 +43,7 @@
 		"code":"340111006",
 		"fullCode":"340111006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义城街道",
 		"parentCode":"340111"
 	},
@@ -51,7 +51,7 @@
 		"code":"340111007",
 		"fullCode":"340111007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烟墩街道",
 		"parentCode":"340111"
 	},
@@ -59,7 +59,7 @@
 		"code":"340111008",
 		"fullCode":"340111008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨湖世纪社区街道",
 		"parentCode":"340111"
 	},
@@ -67,7 +67,7 @@
 		"code":"340111009",
 		"fullCode":"340111009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方兴社区街道",
 		"parentCode":"340111"
 	},
@@ -75,7 +75,7 @@
 		"code":"340111010",
 		"fullCode":"340111010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万年埠街道",
 		"parentCode":"340111"
 	},
@@ -83,7 +83,7 @@
 		"code":"340111011",
 		"fullCode":"340111011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同安街道",
 		"parentCode":"340111"
 	},
@@ -91,7 +91,7 @@
 		"code":"340111100",
 		"fullCode":"340111100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淝河镇",
 		"parentCode":"340111"
 	},
@@ -99,7 +99,7 @@
 		"code":"340111102",
 		"fullCode":"340111102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大圩镇",
 		"parentCode":"340111"
 	}

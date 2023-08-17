@@ -3,7 +3,7 @@
 		"code":"140110001",
 		"fullCode":"140110001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义井街道",
 		"parentCode":"140110"
 	},
@@ -11,7 +11,7 @@
 		"code":"140110002",
 		"fullCode":"140110002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗城街道",
 		"parentCode":"140110"
 	},
@@ -19,7 +19,7 @@
 		"code":"140110003",
 		"fullCode":"140110003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋源街道",
 		"parentCode":"140110"
 	},
@@ -27,7 +27,7 @@
 		"code":"140110100",
 		"fullCode":"140110100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金胜镇",
 		"parentCode":"140110"
 	},
@@ -35,7 +35,7 @@
 		"code":"140110101",
 		"fullCode":"140110101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋祠镇",
 		"parentCode":"140110"
 	},
@@ -43,7 +43,7 @@
 		"code":"140110102",
 		"fullCode":"140110102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚村镇",
 		"parentCode":"140110"
 	}

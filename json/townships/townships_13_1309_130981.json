@@ -3,7 +3,7 @@
 		"code":"130981001",
 		"fullCode":"130981001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放街道",
 		"parentCode":"130981"
 	},
@@ -11,7 +11,7 @@
 		"code":"130981002",
 		"fullCode":"130981002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东街道",
 		"parentCode":"130981"
 	},
@@ -19,7 +19,7 @@
 		"code":"130981003",
 		"fullCode":"130981003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼓楼街道",
 		"parentCode":"130981"
 	},
@@ -27,7 +27,7 @@
 		"code":"130981100",
 		"fullCode":"130981100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泊镇",
 		"parentCode":"130981"
 	},
@@ -35,7 +35,7 @@
 		"code":"130981101",
 		"fullCode":"130981101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"交河镇",
 		"parentCode":"130981"
 	},
@@ -43,7 +43,7 @@
 		"code":"130981102",
 		"fullCode":"130981102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐桥镇",
 		"parentCode":"130981"
 	},
@@ -51,7 +51,7 @@
 		"code":"130981103",
 		"fullCode":"130981103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺门村镇",
 		"parentCode":"130981"
 	},
@@ -59,7 +59,7 @@
 		"code":"130981104",
 		"fullCode":"130981104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郝村镇",
 		"parentCode":"130981"
 	},
@@ -67,7 +67,7 @@
 		"code":"130981105",
 		"fullCode":"130981105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富镇镇",
 		"parentCode":"130981"
 	},
@@ -75,7 +75,7 @@
 		"code":"130981106",
 		"fullCode":"130981106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文庙镇",
 		"parentCode":"130981"
 	},
@@ -83,7 +83,7 @@
 		"code":"130981107",
 		"fullCode":"130981107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洼里王镇",
 		"parentCode":"130981"
 	},
@@ -91,7 +91,7 @@
 		"code":"130981108",
 		"fullCode":"130981108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四营镇",
 		"parentCode":"130981"
 	},
@@ -99,7 +99,7 @@
 		"code":"130981201",
 		"fullCode":"130981201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王武庄乡",
 		"parentCode":"130981"
 	},
@@ -107,7 +107,7 @@
 		"code":"130981202",
 		"fullCode":"130981202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营子乡",
 		"parentCode":"130981"
 	},
@@ -115,7 +115,7 @@
 		"code":"130981204",
 		"fullCode":"130981204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西辛店乡",
 		"parentCode":"130981"
 	},
@@ -123,7 +123,7 @@
 		"code":"130981400",
 		"fullCode":"130981400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北泊头经济开发区",
 		"parentCode":"130981"
 	}

@@ -3,7 +3,7 @@
 		"code":"431271001",
 		"fullCode":"431271001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河滨路街道",
 		"parentCode":"431271"
 	},
@@ -11,7 +11,7 @@
 		"code":"431271002",
 		"fullCode":"431271002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沅江路街道",
 		"parentCode":"431271"
 	},
@@ -19,7 +19,7 @@
 		"code":"431271003",
 		"fullCode":"431271003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街街道",
 		"parentCode":"431271"
 	},
@@ -27,7 +27,7 @@
 		"code":"431271004",
 		"fullCode":"431271004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坡街街道",
 		"parentCode":"431271"
 	},
@@ -35,7 +35,7 @@
 		"code":"431271218",
 		"fullCode":"431271218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横岩乡",
 		"parentCode":"431271"
 	},
@@ -43,7 +43,7 @@
 		"code":"431271220",
 		"fullCode":"431271220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂花园乡",
 		"parentCode":"431271"
 	}

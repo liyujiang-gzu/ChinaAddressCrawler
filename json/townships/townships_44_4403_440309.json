@@ -3,7 +3,7 @@
 		"code":"440309001",
 		"fullCode":"440309001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观湖街道",
 		"parentCode":"440309"
 	},
@@ -11,7 +11,7 @@
 		"code":"440309002",
 		"fullCode":"440309002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民治街道",
 		"parentCode":"440309"
 	},
@@ -19,7 +19,7 @@
 		"code":"440309003",
 		"fullCode":"440309003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙华街道",
 		"parentCode":"440309"
 	},
@@ -27,7 +27,7 @@
 		"code":"440309004",
 		"fullCode":"440309004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大浪街道",
 		"parentCode":"440309"
 	},
@@ -35,7 +35,7 @@
 		"code":"440309005",
 		"fullCode":"440309005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福城街道",
 		"parentCode":"440309"
 	},
@@ -43,7 +43,7 @@
 		"code":"440309006",
 		"fullCode":"440309006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观澜街道",
 		"parentCode":"440309"
 	}

@@ -3,7 +3,7 @@
 		"code":"210727001",
 		"fullCode":"210727001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义州街道",
 		"parentCode":"210727"
 	},
@@ -11,7 +11,7 @@
 		"code":"210727002",
 		"fullCode":"210727002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"210727"
 	},
@@ -19,7 +19,7 @@
 		"code":"210727101",
 		"fullCode":"210727101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘龙台镇",
 		"parentCode":"210727"
 	},
@@ -27,7 +27,7 @@
 		"code":"210727102",
 		"fullCode":"210727102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里河镇",
 		"parentCode":"210727"
 	},
@@ -35,7 +35,7 @@
 		"code":"210727103",
 		"fullCode":"210727103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大榆树堡镇",
 		"parentCode":"210727"
 	},
@@ -43,7 +43,7 @@
 		"code":"210727104",
 		"fullCode":"210727104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稍户营子镇",
 		"parentCode":"210727"
 	},
@@ -51,7 +51,7 @@
 		"code":"210727105",
 		"fullCode":"210727105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九道岭镇",
 		"parentCode":"210727"
 	},
@@ -59,7 +59,7 @@
 		"code":"210727106",
 		"fullCode":"210727106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高台子镇",
 		"parentCode":"210727"
 	},
@@ -67,7 +67,7 @@
 		"code":"210727108",
 		"fullCode":"210727108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦子峪镇",
 		"parentCode":"210727"
 	},
@@ -75,7 +75,7 @@
 		"code":"210727109",
 		"fullCode":"210727109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头台镇",
 		"parentCode":"210727"
 	},
@@ -83,7 +83,7 @@
 		"code":"210727110",
 		"fullCode":"210727110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前杨镇",
 		"parentCode":"210727"
 	},
@@ -91,7 +91,7 @@
 		"code":"210727111",
 		"fullCode":"210727111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家堡镇",
 		"parentCode":"210727"
 	},
@@ -99,7 +99,7 @@
 		"code":"210727112",
 		"fullCode":"210727112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头道河镇",
 		"parentCode":"210727"
 	},
@@ -107,7 +107,7 @@
 		"code":"210727113",
 		"fullCode":"210727113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留龙沟镇",
 		"parentCode":"210727"
 	},
@@ -115,7 +115,7 @@
 		"code":"210727114",
 		"fullCode":"210727114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聚粮屯镇",
 		"parentCode":"210727"
 	},
@@ -123,7 +123,7 @@
 		"code":"210727203",
 		"fullCode":"210727203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地藏寺满族乡",
 		"parentCode":"210727"
 	},
@@ -131,7 +131,7 @@
 		"code":"210727205",
 		"fullCode":"210727205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大定堡满族乡",
 		"parentCode":"210727"
 	},
@@ -139,7 +139,7 @@
 		"code":"210727207",
 		"fullCode":"210727207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白庙子乡",
 		"parentCode":"210727"
 	}

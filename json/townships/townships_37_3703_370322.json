@@ -3,7 +3,7 @@
 		"code":"370322001",
 		"fullCode":"370322001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田镇街道",
 		"parentCode":"370322"
 	},
@@ -11,7 +11,7 @@
 		"code":"370322002",
 		"fullCode":"370322002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦湖街道",
 		"parentCode":"370322"
 	},
@@ -19,7 +19,7 @@
 		"code":"370322101",
 		"fullCode":"370322101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青城镇",
 		"parentCode":"370322"
 	},
@@ -27,7 +27,7 @@
 		"code":"370322102",
 		"fullCode":"370322102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高城镇",
 		"parentCode":"370322"
 	},
@@ -35,7 +35,7 @@
 		"code":"370322103",
 		"fullCode":"370322103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑里寨镇",
 		"parentCode":"370322"
 	},
@@ -43,7 +43,7 @@
 		"code":"370322104",
 		"fullCode":"370322104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐坊镇",
 		"parentCode":"370322"
 	},
@@ -51,7 +51,7 @@
 		"code":"370322105",
 		"fullCode":"370322105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常家镇",
 		"parentCode":"370322"
 	},
@@ -59,7 +59,7 @@
 		"code":"370322106",
 		"fullCode":"370322106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花沟镇",
 		"parentCode":"370322"
 	},
@@ -67,7 +67,7 @@
 		"code":"370322108",
 		"fullCode":"370322108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木李镇",
 		"parentCode":"370322"
 	}

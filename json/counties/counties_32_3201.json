@@ -3,7 +3,7 @@
 		"code":"320102",
 		"fullCode":"320102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"玄武区",
 		"parentCode":"3201"
 	},
@@ -11,7 +11,7 @@
 		"code":"320104",
 		"fullCode":"320104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"秦淮区",
 		"parentCode":"3201"
 	},
@@ -19,7 +19,7 @@
 		"code":"320105",
 		"fullCode":"320105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"建邺区",
 		"parentCode":"3201"
 	},
@@ -27,7 +27,7 @@
 		"code":"320106",
 		"fullCode":"320106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鼓楼区",
 		"parentCode":"3201"
 	},
@@ -35,7 +35,7 @@
 		"code":"320111",
 		"fullCode":"320111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浦口区",
 		"parentCode":"3201"
 	},
@@ -43,7 +43,7 @@
 		"code":"320113",
 		"fullCode":"320113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"栖霞区",
 		"parentCode":"3201"
 	},
@@ -51,7 +51,7 @@
 		"code":"320114",
 		"fullCode":"320114000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"雨花台区",
 		"parentCode":"3201"
 	},
@@ -59,7 +59,7 @@
 		"code":"320115",
 		"fullCode":"320115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江宁区",
 		"parentCode":"3201"
 	},
@@ -67,7 +67,7 @@
 		"code":"320116",
 		"fullCode":"320116000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"六合区",
 		"parentCode":"3201"
 	},
@@ -75,7 +75,7 @@
 		"code":"320117",
 		"fullCode":"320117000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"溧水区",
 		"parentCode":"3201"
 	},
@@ -83,7 +83,7 @@
 		"code":"320118",
 		"fullCode":"320118000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"高淳区",
 		"parentCode":"3201"
 	}

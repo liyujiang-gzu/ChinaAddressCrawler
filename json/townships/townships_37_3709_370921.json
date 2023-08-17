@@ -3,7 +3,7 @@
 		"code":"370921001",
 		"fullCode":"370921001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文庙街道",
 		"parentCode":"370921"
 	},
@@ -11,7 +11,7 @@
 		"code":"370921002",
 		"fullCode":"370921002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八仙桥街道",
 		"parentCode":"370921"
 	},
@@ -19,7 +19,7 @@
 		"code":"370921101",
 		"fullCode":"370921101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗店镇",
 		"parentCode":"370921"
 	},
@@ -27,7 +27,7 @@
 		"code":"370921102",
 		"fullCode":"370921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东疏镇",
 		"parentCode":"370921"
 	},
@@ -35,7 +35,7 @@
 		"code":"370921103",
 		"fullCode":"370921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伏山镇",
 		"parentCode":"370921"
 	},
@@ -43,7 +43,7 @@
 		"code":"370921105",
 		"fullCode":"370921105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堽城镇",
 		"parentCode":"370921"
 	},
@@ -51,7 +51,7 @@
 		"code":"370921107",
 		"fullCode":"370921107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋集镇",
 		"parentCode":"370921"
 	},
@@ -59,7 +59,7 @@
 		"code":"370921109",
 		"fullCode":"370921109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磁窑镇",
 		"parentCode":"370921"
 	},
@@ -67,7 +67,7 @@
 		"code":"370921110",
 		"fullCode":"370921110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华丰镇",
 		"parentCode":"370921"
 	},
@@ -75,7 +75,7 @@
 		"code":"370921111",
 		"fullCode":"370921111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛石镇",
 		"parentCode":"370921"
 	},
@@ -83,7 +83,7 @@
 		"code":"370921112",
 		"fullCode":"370921112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东庄镇",
 		"parentCode":"370921"
 	},
@@ -91,7 +91,7 @@
 		"code":"370921113",
 		"fullCode":"370921113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤山镇",
 		"parentCode":"370921"
 	},
@@ -99,7 +99,7 @@
 		"code":"370921206",
 		"fullCode":"370921206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乡饮乡",
 		"parentCode":"370921"
 	}

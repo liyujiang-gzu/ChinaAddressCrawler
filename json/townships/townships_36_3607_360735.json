@@ -3,7 +3,7 @@
 		"code":"360735100",
 		"fullCode":"360735100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琴江镇",
 		"parentCode":"360735"
 	},
@@ -11,7 +11,7 @@
 		"code":"360735101",
 		"fullCode":"360735101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小松镇",
 		"parentCode":"360735"
 	},
@@ -19,7 +19,7 @@
 		"code":"360735102",
 		"fullCode":"360735102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屏山镇",
 		"parentCode":"360735"
 	},
@@ -27,7 +27,7 @@
 		"code":"360735103",
 		"fullCode":"360735103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横江镇",
 		"parentCode":"360735"
 	},
@@ -35,7 +35,7 @@
 		"code":"360735104",
 		"fullCode":"360735104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高田镇",
 		"parentCode":"360735"
 	},
@@ -43,7 +43,7 @@
 		"code":"360735105",
 		"fullCode":"360735105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赣江源镇",
 		"parentCode":"360735"
 	},
@@ -51,7 +51,7 @@
 		"code":"360735200",
 		"fullCode":"360735200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木兰乡",
 		"parentCode":"360735"
 	},
@@ -59,7 +59,7 @@
 		"code":"360735201",
 		"fullCode":"360735201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰山乡",
 		"parentCode":"360735"
 	},
@@ -67,7 +67,7 @@
 		"code":"360735202",
 		"fullCode":"360735202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大由乡",
 		"parentCode":"360735"
 	},
@@ -75,7 +75,7 @@
 		"code":"360735203",
 		"fullCode":"360735203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙岗乡",
 		"parentCode":"360735"
 	},
@@ -83,7 +83,7 @@
 		"code":"360735204",
 		"fullCode":"360735204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠坑乡",
 		"parentCode":"360735"
 	}

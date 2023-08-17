@@ -3,7 +3,7 @@
 		"code":"350629100",
 		"fullCode":"350629100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华丰镇",
 		"parentCode":"350629"
 	},
@@ -11,7 +11,7 @@
 		"code":"350629101",
 		"fullCode":"350629101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰山镇",
 		"parentCode":"350629"
 	},
@@ -19,7 +19,7 @@
 		"code":"350629102",
 		"fullCode":"350629102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙建镇",
 		"parentCode":"350629"
 	},
@@ -27,7 +27,7 @@
 		"code":"350629103",
 		"fullCode":"350629103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新圩镇",
 		"parentCode":"350629"
 	},
@@ -35,7 +35,7 @@
 		"code":"350629104",
 		"fullCode":"350629104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高安镇",
 		"parentCode":"350629"
 	},
@@ -43,7 +43,7 @@
 		"code":"350629105",
 		"fullCode":"350629105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙都镇",
 		"parentCode":"350629"
 	},
@@ -51,7 +51,7 @@
 		"code":"350629200",
 		"fullCode":"350629200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高车乡",
 		"parentCode":"350629"
 	},
@@ -59,7 +59,7 @@
 		"code":"350629201",
 		"fullCode":"350629201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坑乡",
 		"parentCode":"350629"
 	},
@@ -67,7 +67,7 @@
 		"code":"350629203",
 		"fullCode":"350629203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖林乡",
 		"parentCode":"350629"
 	},
@@ -75,7 +75,7 @@
 		"code":"350629400",
 		"fullCode":"350629400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福建土楼（华安）旅游区",
 		"parentCode":"350629"
 	}

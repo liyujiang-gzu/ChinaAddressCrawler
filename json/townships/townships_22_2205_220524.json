@@ -3,7 +3,7 @@
 		"code":"220524001",
 		"fullCode":"220524001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"采胜街道",
 		"parentCode":"220524"
 	},
@@ -11,7 +11,7 @@
 		"code":"220524002",
 		"fullCode":"220524002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中岗街道",
 		"parentCode":"220524"
 	},
@@ -19,7 +19,7 @@
 		"code":"220524003",
 		"fullCode":"220524003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"导航街道",
 		"parentCode":"220524"
 	},
@@ -27,7 +27,7 @@
 		"code":"220524100",
 		"fullCode":"220524100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳河镇",
 		"parentCode":"220524"
 	},
@@ -35,7 +35,7 @@
 		"code":"220524101",
 		"fullCode":"220524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三源浦朝鲜族镇",
 		"parentCode":"220524"
 	},
@@ -43,7 +43,7 @@
 		"code":"220524102",
 		"fullCode":"220524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五道沟镇",
 		"parentCode":"220524"
 	},
@@ -51,7 +51,7 @@
 		"code":"220524103",
 		"fullCode":"220524103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驼腰岭镇",
 		"parentCode":"220524"
 	},
@@ -59,7 +59,7 @@
 		"code":"220524104",
 		"fullCode":"220524104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孤山子镇",
 		"parentCode":"220524"
 	},
@@ -67,7 +67,7 @@
 		"code":"220524105",
 		"fullCode":"220524105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圣水镇",
 		"parentCode":"220524"
 	},
@@ -75,7 +75,7 @@
 		"code":"220524106",
 		"fullCode":"220524106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗通山镇",
 		"parentCode":"220524"
 	},
@@ -83,7 +83,7 @@
 		"code":"220524107",
 		"fullCode":"220524107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安口镇",
 		"parentCode":"220524"
 	},
@@ -91,7 +91,7 @@
 		"code":"220524108",
 		"fullCode":"220524108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳镇",
 		"parentCode":"220524"
 	},
@@ -99,7 +99,7 @@
 		"code":"220524109",
 		"fullCode":"220524109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红石镇",
 		"parentCode":"220524"
 	},
@@ -107,7 +107,7 @@
 		"code":"220524110",
 		"fullCode":"220524110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉水河子镇",
 		"parentCode":"220524"
 	},
@@ -115,7 +115,7 @@
 		"code":"220524111",
 		"fullCode":"220524111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亨通镇",
 		"parentCode":"220524"
 	},
@@ -123,7 +123,7 @@
 		"code":"220524200",
 		"fullCode":"220524200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳南乡",
 		"parentCode":"220524"
 	},
@@ -131,7 +131,7 @@
 		"code":"220524201",
 		"fullCode":"220524201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"时家店乡",
 		"parentCode":"220524"
 	},
@@ -139,7 +139,7 @@
 		"code":"220524202",
 		"fullCode":"220524202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜家店朝鲜族乡",
 		"parentCode":"220524"
 	}

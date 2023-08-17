@@ -3,7 +3,7 @@
 		"code":"410326100",
 		"fullCode":"410326100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"410326"
 	},
@@ -11,7 +11,7 @@
 		"code":"410326101",
 		"fullCode":"410326101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上店镇",
 		"parentCode":"410326"
 	},
@@ -19,7 +19,7 @@
 		"code":"410326102",
 		"fullCode":"410326102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"付店镇",
 		"parentCode":"410326"
 	},
@@ -27,7 +27,7 @@
 		"code":"410326103",
 		"fullCode":"410326103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小店镇",
 		"parentCode":"410326"
 	},
@@ -35,7 +35,7 @@
 		"code":"410326104",
 		"fullCode":"410326104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三屯镇",
 		"parentCode":"410326"
 	},
@@ -43,7 +43,7 @@
 		"code":"410326105",
 		"fullCode":"410326105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘店镇",
 		"parentCode":"410326"
 	},
@@ -51,7 +51,7 @@
 		"code":"410326106",
 		"fullCode":"410326106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内埠镇",
 		"parentCode":"410326"
 	},
@@ -59,7 +59,7 @@
 		"code":"410326107",
 		"fullCode":"410326107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶营镇",
 		"parentCode":"410326"
 	},
@@ -67,7 +67,7 @@
 		"code":"410326200",
 		"fullCode":"410326200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏树乡",
 		"parentCode":"410326"
 	},
@@ -75,7 +75,7 @@
 		"code":"410326202",
 		"fullCode":"410326202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十八盘乡",
 		"parentCode":"410326"
 	},
@@ -83,7 +83,7 @@
 		"code":"410326203",
 		"fullCode":"410326203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靳村乡",
 		"parentCode":"410326"
 	},
@@ -91,7 +91,7 @@
 		"code":"410326204",
 		"fullCode":"410326204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王坪乡",
 		"parentCode":"410326"
 	},
@@ -99,7 +99,7 @@
 		"code":"410326209",
 		"fullCode":"410326209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡店乡",
 		"parentCode":"410326"
 	},
@@ -107,7 +107,7 @@
 		"code":"410326400",
 		"fullCode":"410326400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安工业园区",
 		"parentCode":"410326"
 	}

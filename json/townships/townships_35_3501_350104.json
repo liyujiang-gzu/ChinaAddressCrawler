@@ -3,7 +3,7 @@
 		"code":"350104001",
 		"fullCode":"350104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仓前街道",
 		"parentCode":"350104"
 	},
@@ -11,7 +11,7 @@
 		"code":"350104002",
 		"fullCode":"350104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东升街道",
 		"parentCode":"350104"
 	},
@@ -19,7 +19,7 @@
 		"code":"350104003",
 		"fullCode":"350104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"对湖街道",
 		"parentCode":"350104"
 	},
@@ -27,7 +27,7 @@
 		"code":"350104004",
 		"fullCode":"350104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江街道",
 		"parentCode":"350104"
 	},
@@ -35,7 +35,7 @@
 		"code":"350104005",
 		"fullCode":"350104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三叉街街道",
 		"parentCode":"350104"
 	},
@@ -43,7 +43,7 @@
 		"code":"350104006",
 		"fullCode":"350104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上渡街道",
 		"parentCode":"350104"
 	},
@@ -51,7 +51,7 @@
 		"code":"350104007",
 		"fullCode":"350104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下渡街道",
 		"parentCode":"350104"
 	},
@@ -59,7 +59,7 @@
 		"code":"350104008",
 		"fullCode":"350104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山街道",
 		"parentCode":"350104"
 	},
@@ -67,7 +67,7 @@
 		"code":"350104100",
 		"fullCode":"350104100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仓山镇",
 		"parentCode":"350104"
 	},
@@ -75,7 +75,7 @@
 		"code":"350104101",
 		"fullCode":"350104101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城门镇",
 		"parentCode":"350104"
 	},
@@ -83,7 +83,7 @@
 		"code":"350104102",
 		"fullCode":"350104102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盖山镇",
 		"parentCode":"350104"
 	},
@@ -91,7 +91,7 @@
 		"code":"350104103",
 		"fullCode":"350104103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建新镇",
 		"parentCode":"350104"
 	},
@@ -99,7 +99,7 @@
 		"code":"350104104",
 		"fullCode":"350104104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"螺洲镇",
 		"parentCode":"350104"
 	},
@@ -107,7 +107,7 @@
 		"code":"350104400",
 		"fullCode":"350104400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星农场",
 		"parentCode":"350104"
 	}

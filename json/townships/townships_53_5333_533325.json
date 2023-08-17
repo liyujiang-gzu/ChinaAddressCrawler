@@ -3,7 +3,7 @@
 		"code":"533325001",
 		"fullCode":"533325001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠屏街道",
 		"parentCode":"533325"
 	},
@@ -11,7 +11,7 @@
 		"code":"533325002",
 		"fullCode":"533325002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金顶街道",
 		"parentCode":"533325"
 	},
@@ -19,7 +19,7 @@
 		"code":"533325102",
 		"fullCode":"533325102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"啦井镇",
 		"parentCode":"533325"
 	},
@@ -27,7 +27,7 @@
 		"code":"533325103",
 		"fullCode":"533325103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营盘镇",
 		"parentCode":"533325"
 	},
@@ -35,7 +35,7 @@
 		"code":"533325104",
 		"fullCode":"533325104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通甸镇",
 		"parentCode":"533325"
 	},
@@ -43,7 +43,7 @@
 		"code":"533325201",
 		"fullCode":"533325201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西乡",
 		"parentCode":"533325"
 	},
@@ -51,7 +51,7 @@
 		"code":"533325202",
 		"fullCode":"533325202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中排乡",
 		"parentCode":"533325"
 	},
@@ -59,7 +59,7 @@
 		"code":"533325203",
 		"fullCode":"533325203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石登乡",
 		"parentCode":"533325"
 	},
@@ -67,7 +67,7 @@
 		"code":"533325204",
 		"fullCode":"533325204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兔峨乡",
 		"parentCode":"533325"
 	}

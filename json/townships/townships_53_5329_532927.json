@@ -3,7 +3,7 @@
 		"code":"532927101",
 		"fullCode":"532927101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南诏镇",
 		"parentCode":"532927"
 	},
@@ -11,7 +11,7 @@
 		"code":"532927102",
 		"fullCode":"532927102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙街镇",
 		"parentCode":"532927"
 	},
@@ -19,7 +19,7 @@
 		"code":"532927103",
 		"fullCode":"532927103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大仓镇",
 		"parentCode":"532927"
 	},
@@ -27,7 +27,7 @@
 		"code":"532927104",
 		"fullCode":"532927104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永建镇",
 		"parentCode":"532927"
 	},
@@ -35,7 +35,7 @@
 		"code":"532927201",
 		"fullCode":"532927201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巍宝山乡",
 		"parentCode":"532927"
 	},
@@ -43,7 +43,7 @@
 		"code":"532927202",
 		"fullCode":"532927202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马鞍山乡",
 		"parentCode":"532927"
 	},
@@ -51,7 +51,7 @@
 		"code":"532927203",
 		"fullCode":"532927203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫金乡",
 		"parentCode":"532927"
 	},
@@ -59,7 +59,7 @@
 		"code":"532927204",
 		"fullCode":"532927204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五印乡",
 		"parentCode":"532927"
 	},
@@ -67,7 +67,7 @@
 		"code":"532927205",
 		"fullCode":"532927205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛街乡",
 		"parentCode":"532927"
 	},
@@ -75,7 +75,7 @@
 		"code":"532927206",
 		"fullCode":"532927206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青华乡",
 		"parentCode":"532927"
 	}

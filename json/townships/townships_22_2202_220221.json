@@ -3,7 +3,7 @@
 		"code":"220221100",
 		"fullCode":"220221100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"口前镇",
 		"parentCode":"220221"
 	},
@@ -11,7 +11,7 @@
 		"code":"220221101",
 		"fullCode":"220221101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河镇",
 		"parentCode":"220221"
 	},
@@ -19,7 +19,7 @@
 		"code":"220221102",
 		"fullCode":"220221102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西阳镇",
 		"parentCode":"220221"
 	},
@@ -27,7 +27,7 @@
 		"code":"220221103",
 		"fullCode":"220221103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北大湖镇",
 		"parentCode":"220221"
 	},
@@ -35,7 +35,7 @@
 		"code":"220221104",
 		"fullCode":"220221104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"一拉溪镇",
 		"parentCode":"220221"
 	},
@@ -43,7 +43,7 @@
 		"code":"220221171",
 		"fullCode":"220221171000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万昌镇",
 		"parentCode":"220221"
 	},
@@ -51,7 +51,7 @@
 		"code":"220221172",
 		"fullCode":"220221172000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永吉经济开发区特殊乡镇",
 		"parentCode":"220221"
 	},
@@ -59,7 +59,7 @@
 		"code":"220221200",
 		"fullCode":"220221200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金家乡",
 		"parentCode":"220221"
 	},
@@ -67,7 +67,7 @@
 		"code":"220221201",
 		"fullCode":"220221201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄榆乡",
 		"parentCode":"220221"
 	}

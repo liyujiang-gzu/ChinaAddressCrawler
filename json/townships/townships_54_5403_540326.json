@@ -3,7 +3,7 @@
 		"code":"540326100",
 		"fullCode":"540326100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白玛镇",
 		"parentCode":"540326"
 	},
@@ -11,7 +11,7 @@
 		"code":"540326101",
 		"fullCode":"540326101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"帮达镇",
 		"parentCode":"540326"
 	},
@@ -19,7 +19,7 @@
 		"code":"540326102",
 		"fullCode":"540326102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"然乌镇",
 		"parentCode":"540326"
 	},
@@ -27,7 +27,7 @@
 		"code":"540326103",
 		"fullCode":"540326103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同卡镇",
 		"parentCode":"540326"
 	},
@@ -35,7 +35,7 @@
 		"code":"540326202",
 		"fullCode":"540326202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭庆乡",
 		"parentCode":"540326"
 	},
@@ -43,7 +43,7 @@
 		"code":"540326203",
 		"fullCode":"540326203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉根乡",
 		"parentCode":"540326"
 	},
@@ -51,7 +51,7 @@
 		"code":"540326204",
 		"fullCode":"540326204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"益庆乡",
 		"parentCode":"540326"
 	},
@@ -59,7 +59,7 @@
 		"code":"540326205",
 		"fullCode":"540326205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉中乡",
 		"parentCode":"540326"
 	},
@@ -67,7 +67,7 @@
 		"code":"540326206",
 		"fullCode":"540326206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡瓦白庆乡",
 		"parentCode":"540326"
 	},
@@ -75,7 +75,7 @@
 		"code":"540326207",
 		"fullCode":"540326207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉达乡",
 		"parentCode":"540326"
 	},
@@ -83,7 +83,7 @@
 		"code":"540326208",
 		"fullCode":"540326208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏里乡",
 		"parentCode":"540326"
 	},
@@ -91,7 +91,7 @@
 		"code":"540326209",
 		"fullCode":"540326209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拥乡",
 		"parentCode":"540326"
 	},
@@ -99,7 +99,7 @@
 		"code":"540326210",
 		"fullCode":"540326210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦乡",
 		"parentCode":"540326"
 	},
@@ -107,7 +107,7 @@
 		"code":"540326211",
 		"fullCode":"540326211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林卡乡",
 		"parentCode":"540326"
 	}

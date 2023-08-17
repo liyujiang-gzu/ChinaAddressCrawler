@@ -3,7 +3,7 @@
 		"code":"360881002",
 		"fullCode":"360881002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星街道",
 		"parentCode":"360881"
 	},
@@ -11,7 +11,7 @@
 		"code":"360881100",
 		"fullCode":"360881100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"厦坪镇",
 		"parentCode":"360881"
 	},
@@ -19,7 +19,7 @@
 		"code":"360881101",
 		"fullCode":"360881101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙市镇",
 		"parentCode":"360881"
 	},
@@ -27,7 +27,7 @@
 		"code":"360881102",
 		"fullCode":"360881102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"360881"
 	},
@@ -35,7 +35,7 @@
 		"code":"360881103",
 		"fullCode":"360881103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城镇",
 		"parentCode":"360881"
 	},
@@ -43,7 +43,7 @@
 		"code":"360881105",
 		"fullCode":"360881105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨坪镇",
 		"parentCode":"360881"
 	},
@@ -51,7 +51,7 @@
 		"code":"360881106",
 		"fullCode":"360881106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拿山镇",
 		"parentCode":"360881"
 	},
@@ -59,7 +59,7 @@
 		"code":"360881107",
 		"fullCode":"360881107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧溪镇",
 		"parentCode":"360881"
 	},
@@ -67,7 +67,7 @@
 		"code":"360881108",
 		"fullCode":"360881108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅坪镇",
 		"parentCode":"360881"
 	},
@@ -75,7 +75,7 @@
 		"code":"360881109",
 		"fullCode":"360881109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗浮镇",
 		"parentCode":"360881"
 	},
@@ -83,7 +83,7 @@
 		"code":"360881201",
 		"fullCode":"360881201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄垇乡",
 		"parentCode":"360881"
 	},
@@ -91,7 +91,7 @@
 		"code":"360881206",
 		"fullCode":"360881206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏露乡",
 		"parentCode":"360881"
 	},
@@ -99,7 +99,7 @@
 		"code":"360881208",
 		"fullCode":"360881208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛田乡",
 		"parentCode":"360881"
 	},
@@ -107,7 +107,7 @@
 		"code":"360881210",
 		"fullCode":"360881210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"睦村乡",
 		"parentCode":"360881"
 	},
@@ -115,7 +115,7 @@
 		"code":"360881211",
 		"fullCode":"360881211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东上乡",
 		"parentCode":"360881"
 	},
@@ -123,7 +123,7 @@
 		"code":"360881212",
 		"fullCode":"360881212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明乡",
 		"parentCode":"360881"
 	},
@@ -131,7 +131,7 @@
 		"code":"360881401",
 		"fullCode":"360881401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井冈山自然保护区",
 		"parentCode":"360881"
 	},
@@ -139,7 +139,7 @@
 		"code":"360881403",
 		"fullCode":"360881403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井冈山市工业园区",
 		"parentCode":"360881"
 	},
@@ -147,7 +147,7 @@
 		"code":"360881501",
 		"fullCode":"360881501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石垦殖场",
 		"parentCode":"360881"
 	}

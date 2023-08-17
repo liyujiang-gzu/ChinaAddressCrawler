@@ -3,7 +3,7 @@
 		"code":"331003001",
 		"fullCode":"331003001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"331003"
 	},
@@ -11,7 +11,7 @@
 		"code":"331003002",
 		"fullCode":"331003002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城街道",
 		"parentCode":"331003"
 	},
@@ -19,7 +19,7 @@
 		"code":"331003003",
 		"fullCode":"331003003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"331003"
 	},
@@ -27,7 +27,7 @@
 		"code":"331003004",
 		"fullCode":"331003004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"331003"
 	},
@@ -35,7 +35,7 @@
 		"code":"331003005",
 		"fullCode":"331003005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新前街道",
 		"parentCode":"331003"
 	},
@@ -43,7 +43,7 @@
 		"code":"331003006",
 		"fullCode":"331003006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澄江街道",
 		"parentCode":"331003"
 	},
@@ -51,7 +51,7 @@
 		"code":"331003007",
 		"fullCode":"331003007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江口街道",
 		"parentCode":"331003"
 	},
@@ -59,7 +59,7 @@
 		"code":"331003008",
 		"fullCode":"331003008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥街道",
 		"parentCode":"331003"
 	},
@@ -67,7 +67,7 @@
 		"code":"331003101",
 		"fullCode":"331003101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁溪镇",
 		"parentCode":"331003"
 	},
@@ -75,7 +75,7 @@
 		"code":"331003102",
 		"fullCode":"331003102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北洋镇",
 		"parentCode":"331003"
 	},
@@ -83,7 +83,7 @@
 		"code":"331003103",
 		"fullCode":"331003103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头陀镇",
 		"parentCode":"331003"
 	},
@@ -91,7 +91,7 @@
 		"code":"331003107",
 		"fullCode":"331003107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"院桥镇",
 		"parentCode":"331003"
 	},
@@ -99,7 +99,7 @@
 		"code":"331003108",
 		"fullCode":"331003108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙埠镇",
 		"parentCode":"331003"
 	},
@@ -107,7 +107,7 @@
 		"code":"331003200",
 		"fullCode":"331003200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屿头乡",
 		"parentCode":"331003"
 	},
@@ -115,7 +115,7 @@
 		"code":"331003201",
 		"fullCode":"331003201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上郑乡",
 		"parentCode":"331003"
 	},
@@ -123,7 +123,7 @@
 		"code":"331003202",
 		"fullCode":"331003202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富山乡",
 		"parentCode":"331003"
 	},
@@ -131,7 +131,7 @@
 		"code":"331003203",
 		"fullCode":"331003203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅畲乡",
 		"parentCode":"331003"
 	},
@@ -139,7 +139,7 @@
 		"code":"331003204",
 		"fullCode":"331003204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上垟乡",
 		"parentCode":"331003"
 	},
@@ -147,7 +147,7 @@
 		"code":"331003205",
 		"fullCode":"331003205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平田乡",
 		"parentCode":"331003"
 	}

@@ -3,7 +3,7 @@
 		"code":"611002001",
 		"fullCode":"611002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"611002"
 	},
@@ -11,7 +11,7 @@
 		"code":"611002002",
 		"fullCode":"611002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大赵峪街道",
 		"parentCode":"611002"
 	},
@@ -19,7 +19,7 @@
 		"code":"611002003",
 		"fullCode":"611002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈塬街道",
 		"parentCode":"611002"
 	},
@@ -27,7 +27,7 @@
 		"code":"611002004",
 		"fullCode":"611002004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘湾街道",
 		"parentCode":"611002"
 	},
@@ -35,7 +35,7 @@
 		"code":"611002101",
 		"fullCode":"611002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夜村镇",
 		"parentCode":"611002"
 	},
@@ -43,7 +43,7 @@
 		"code":"611002104",
 		"fullCode":"611002104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河子镇",
 		"parentCode":"611002"
 	},
@@ -51,7 +51,7 @@
 		"code":"611002105",
 		"fullCode":"611002105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨峪河镇",
 		"parentCode":"611002"
 	},
@@ -59,7 +59,7 @@
 		"code":"611002106",
 		"fullCode":"611002106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金陵寺镇",
 		"parentCode":"611002"
 	},
@@ -67,7 +67,7 @@
 		"code":"611002107",
 		"fullCode":"611002107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑山镇",
 		"parentCode":"611002"
 	},
@@ -75,7 +75,7 @@
 		"code":"611002108",
 		"fullCode":"611002108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨斜镇",
 		"parentCode":"611002"
 	},
@@ -83,7 +83,7 @@
 		"code":"611002109",
 		"fullCode":"611002109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻街镇",
 		"parentCode":"611002"
 	},
@@ -91,7 +91,7 @@
 		"code":"611002111",
 		"fullCode":"611002111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牧护关镇",
 		"parentCode":"611002"
 	},
@@ -99,7 +99,7 @@
 		"code":"611002112",
 		"fullCode":"611002112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大荆镇",
 		"parentCode":"611002"
 	},
@@ -107,7 +107,7 @@
 		"code":"611002113",
 		"fullCode":"611002113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰市镇",
 		"parentCode":"611002"
 	},
@@ -115,7 +115,7 @@
 		"code":"611002114",
 		"fullCode":"611002114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"611002"
 	},
@@ -123,7 +123,7 @@
 		"code":"611002115",
 		"fullCode":"611002115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北宽坪镇",
 		"parentCode":"611002"
 	},
@@ -131,7 +131,7 @@
 		"code":"611002119",
 		"fullCode":"611002119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔河镇",
 		"parentCode":"611002"
 	},
@@ -139,7 +139,7 @@
 		"code":"611002121",
 		"fullCode":"611002121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闫村镇",
 		"parentCode":"611002"
 	},
@@ -147,7 +147,7 @@
 		"code":"611002400",
 		"fullCode":"611002400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二龙山水库",
 		"parentCode":"611002"
 	},
@@ -155,7 +155,7 @@
 		"code":"611002401",
 		"fullCode":"611002401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南秦水库",
 		"parentCode":"611002"
 	},
@@ -163,7 +163,7 @@
 		"code":"611002402",
 		"fullCode":"611002402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二龙山国营林场",
 		"parentCode":"611002"
 	},
@@ -171,7 +171,7 @@
 		"code":"611002403",
 		"fullCode":"611002403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商丹循环工业园",
 		"parentCode":"611002"
 	},
@@ -179,7 +179,7 @@
 		"code":"611002404",
 		"fullCode":"611002404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荆河工业园",
 		"parentCode":"611002"
 	},
@@ -187,7 +187,7 @@
 		"code":"611002405",
 		"fullCode":"611002405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荆河农业示范园",
 		"parentCode":"611002"
 	},
@@ -195,7 +195,7 @@
 		"code":"611002406",
 		"fullCode":"611002406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高校园区",
 		"parentCode":"611002"
 	},
@@ -203,7 +203,7 @@
 		"code":"611002407",
 		"fullCode":"611002407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商洛职业技术学院",
 		"parentCode":"611002"
 	},
@@ -211,7 +211,7 @@
 		"code":"611002408",
 		"fullCode":"611002408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"氟化硅产业业园",
 		"parentCode":"611002"
 	}

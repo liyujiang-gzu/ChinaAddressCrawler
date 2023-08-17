@@ -3,7 +3,7 @@
 		"code":"460105001",
 		"fullCode":"460105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀英街道",
 		"parentCode":"460105"
 	},
@@ -11,7 +11,7 @@
 		"code":"460105002",
 		"fullCode":"460105002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海秀街道",
 		"parentCode":"460105"
 	},
@@ -19,7 +19,7 @@
 		"code":"460105100",
 		"fullCode":"460105100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长流镇",
 		"parentCode":"460105"
 	},
@@ -27,7 +27,7 @@
 		"code":"460105101",
 		"fullCode":"460105101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西秀镇",
 		"parentCode":"460105"
 	},
@@ -35,7 +35,7 @@
 		"code":"460105102",
 		"fullCode":"460105102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海秀镇",
 		"parentCode":"460105"
 	},
@@ -43,7 +43,7 @@
 		"code":"460105103",
 		"fullCode":"460105103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石山镇",
 		"parentCode":"460105"
 	},
@@ -51,7 +51,7 @@
 		"code":"460105104",
 		"fullCode":"460105104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴镇",
 		"parentCode":"460105"
 	},
@@ -59,7 +59,7 @@
 		"code":"460105105",
 		"fullCode":"460105105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山镇",
 		"parentCode":"460105"
 	}

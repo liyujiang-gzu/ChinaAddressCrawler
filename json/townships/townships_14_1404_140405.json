@@ -3,7 +3,7 @@
 		"code":"140405001",
 		"fullCode":"140405001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麟绛街道",
 		"parentCode":"140405"
 	},
@@ -11,7 +11,7 @@
 		"code":"140405101",
 		"fullCode":"140405101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上村镇",
 		"parentCode":"140405"
 	},
@@ -19,7 +19,7 @@
 		"code":"140405102",
 		"fullCode":"140405102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔泽镇",
 		"parentCode":"140405"
 	},
@@ -27,7 +27,7 @@
 		"code":"140405103",
 		"fullCode":"140405103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余吾镇",
 		"parentCode":"140405"
 	},
@@ -35,7 +35,7 @@
 		"code":"140405104",
 		"fullCode":"140405104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吾元镇",
 		"parentCode":"140405"
 	},
@@ -43,7 +43,7 @@
 		"code":"140405105",
 		"fullCode":"140405105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张店镇",
 		"parentCode":"140405"
 	},
@@ -51,7 +51,7 @@
 		"code":"140405106",
 		"fullCode":"140405106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰宜镇",
 		"parentCode":"140405"
 	},
@@ -59,7 +59,7 @@
 		"code":"140405200",
 		"fullCode":"140405200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李高乡",
 		"parentCode":"140405"
 	},
@@ -67,7 +67,7 @@
 		"code":"140405201",
 		"fullCode":"140405201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路村乡",
 		"parentCode":"140405"
 	},
@@ -75,7 +75,7 @@
 		"code":"140405202",
 		"fullCode":"140405202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河神庙乡",
 		"parentCode":"140405"
 	},
@@ -83,7 +83,7 @@
 		"code":"140405400",
 		"fullCode":"140405400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西流寨开发区",
 		"parentCode":"140405"
 	},
@@ -91,7 +91,7 @@
 		"code":"140405401",
 		"fullCode":"140405401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康庄工业园区",
 		"parentCode":"140405"
 	},
@@ -99,7 +99,7 @@
 		"code":"140405402",
 		"fullCode":"140405402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上莲开发区",
 		"parentCode":"140405"
 	},
@@ -107,7 +107,7 @@
 		"code":"140405403",
 		"fullCode":"140405403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屯留经济技术开发区",
 		"parentCode":"140405"
 	}

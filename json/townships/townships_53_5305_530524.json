@@ -3,7 +3,7 @@
 		"code":"530524101",
 		"fullCode":"530524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田园镇",
 		"parentCode":"530524"
 	},
@@ -11,7 +11,7 @@
 		"code":"530524102",
 		"fullCode":"530524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漭水镇",
 		"parentCode":"530524"
 	},
@@ -19,7 +19,7 @@
 		"code":"530524103",
 		"fullCode":"530524103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯街镇",
 		"parentCode":"530524"
 	},
@@ -27,7 +27,7 @@
 		"code":"530524104",
 		"fullCode":"530524104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡斯镇",
 		"parentCode":"530524"
 	},
@@ -35,7 +35,7 @@
 		"code":"530524105",
 		"fullCode":"530524105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐统镇",
 		"parentCode":"530524"
 	},
@@ -43,7 +43,7 @@
 		"code":"530524106",
 		"fullCode":"530524106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉镇",
 		"parentCode":"530524"
 	},
@@ -51,7 +51,7 @@
 		"code":"530524107",
 		"fullCode":"530524107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大田坝镇",
 		"parentCode":"530524"
 	},
@@ -59,7 +59,7 @@
 		"code":"530524108",
 		"fullCode":"530524108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡飞镇",
 		"parentCode":"530524"
 	},
@@ -67,7 +67,7 @@
 		"code":"530524109",
 		"fullCode":"530524109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翁堵镇",
 		"parentCode":"530524"
 	},
@@ -75,7 +75,7 @@
 		"code":"530524205",
 		"fullCode":"530524205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾甸傣族乡",
 		"parentCode":"530524"
 	},
@@ -83,7 +83,7 @@
 		"code":"530524206",
 		"fullCode":"530524206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"更戛乡",
 		"parentCode":"530524"
 	},
@@ -91,7 +91,7 @@
 		"code":"530524207",
 		"fullCode":"530524207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠街彝族乡",
 		"parentCode":"530524"
 	},
@@ -99,7 +99,7 @@
 		"code":"530524208",
 		"fullCode":"530524208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"耈街彝族苗族乡",
 		"parentCode":"530524"
 	}

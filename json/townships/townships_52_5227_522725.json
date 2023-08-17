@@ -3,7 +3,7 @@
 		"code":"522725001",
 		"fullCode":"522725001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雍阳街道",
 		"parentCode":"522725"
 	},
@@ -11,7 +11,7 @@
 		"code":"522725002",
 		"fullCode":"522725002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓮水街道",
 		"parentCode":"522725"
 	},
@@ -19,7 +19,7 @@
 		"code":"522725101",
 		"fullCode":"522725101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平定营镇",
 		"parentCode":"522725"
 	},
@@ -27,7 +27,7 @@
 		"code":"522725103",
 		"fullCode":"522725103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中坪镇",
 		"parentCode":"522725"
 	},
@@ -35,7 +35,7 @@
 		"code":"522725104",
 		"fullCode":"522725104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建中镇",
 		"parentCode":"522725"
 	},
@@ -43,7 +43,7 @@
 		"code":"522725105",
 		"fullCode":"522725105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永和镇",
 		"parentCode":"522725"
 	},
@@ -51,7 +51,7 @@
 		"code":"522725106",
 		"fullCode":"522725106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠藏镇",
 		"parentCode":"522725"
 	},
@@ -59,7 +59,7 @@
 		"code":"522725107",
 		"fullCode":"522725107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉山镇",
 		"parentCode":"522725"
 	},
@@ -67,7 +67,7 @@
 		"code":"522725108",
 		"fullCode":"522725108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天文镇",
 		"parentCode":"522725"
 	},
@@ -75,7 +75,7 @@
 		"code":"522725109",
 		"fullCode":"522725109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银盏镇",
 		"parentCode":"522725"
 	},
@@ -83,7 +83,7 @@
 		"code":"522725110",
 		"fullCode":"522725110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"猴场镇",
 		"parentCode":"522725"
 	},
@@ -91,7 +91,7 @@
 		"code":"522725111",
 		"fullCode":"522725111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江界河镇",
 		"parentCode":"522725"
 	},
@@ -99,7 +99,7 @@
 		"code":"522725205",
 		"fullCode":"522725205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岚关乡",
 		"parentCode":"522725"
 	}

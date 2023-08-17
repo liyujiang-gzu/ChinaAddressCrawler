@@ -3,7 +3,7 @@
 		"code":"210702002",
 		"fullCode":"210702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石油街道",
 		"parentCode":"210702"
 	},
@@ -11,7 +11,7 @@
 		"code":"210702003",
 		"fullCode":"210702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城街道",
 		"parentCode":"210702"
 	},
@@ -19,7 +19,7 @@
 		"code":"210702004",
 		"fullCode":"210702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敬业街道",
 		"parentCode":"210702"
 	},
@@ -27,7 +27,7 @@
 		"code":"210702005",
 		"fullCode":"210702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保安街道",
 		"parentCode":"210702"
 	},
@@ -35,7 +35,7 @@
 		"code":"210702009",
 		"fullCode":"210702009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"士英街道",
 		"parentCode":"210702"
 	}

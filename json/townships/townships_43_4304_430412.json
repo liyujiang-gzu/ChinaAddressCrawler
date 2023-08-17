@@ -3,7 +3,7 @@
 		"code":"430412001",
 		"fullCode":"430412001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祝融街道",
 		"parentCode":"430412"
 	},
@@ -11,7 +11,7 @@
 		"code":"430412100",
 		"fullCode":"430412100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岳镇",
 		"parentCode":"430412"
 	},
@@ -19,7 +19,7 @@
 		"code":"430412203",
 		"fullCode":"430412203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寿岳乡",
 		"parentCode":"430412"
 	}

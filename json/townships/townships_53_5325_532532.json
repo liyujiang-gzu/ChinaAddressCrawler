@@ -3,7 +3,7 @@
 		"code":"532532101",
 		"fullCode":"532532101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口镇",
 		"parentCode":"532532"
 	},
@@ -11,7 +11,7 @@
 		"code":"532532102",
 		"fullCode":"532532102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南溪镇",
 		"parentCode":"532532"
 	},
@@ -19,7 +19,7 @@
 		"code":"532532201",
 		"fullCode":"532532201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老范寨乡",
 		"parentCode":"532532"
 	},
@@ -27,7 +27,7 @@
 		"code":"532532202",
 		"fullCode":"532532202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头苗族壮族乡",
 		"parentCode":"532532"
 	},
@@ -35,7 +35,7 @@
 		"code":"532532203",
 		"fullCode":"532532203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑶山乡",
 		"parentCode":"532532"
 	},
@@ -43,7 +43,7 @@
 		"code":"532532204",
 		"fullCode":"532532204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花滩乡",
 		"parentCode":"532532"
 	}

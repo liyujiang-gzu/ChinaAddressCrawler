@@ -3,7 +3,7 @@
 		"code":"370602001",
 		"fullCode":"370602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳街道",
 		"parentCode":"370602"
 	},
@@ -11,7 +11,7 @@
 		"code":"370602002",
 		"fullCode":"370602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山街道",
 		"parentCode":"370602"
 	},
@@ -19,7 +19,7 @@
 		"code":"370602003",
 		"fullCode":"370602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毓璜顶街道",
 		"parentCode":"370602"
 	},
@@ -27,7 +27,7 @@
 		"code":"370602004",
 		"fullCode":"370602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通伸街道",
 		"parentCode":"370602"
 	},
@@ -35,7 +35,7 @@
 		"code":"370602005",
 		"fullCode":"370602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰台街道",
 		"parentCode":"370602"
 	},
@@ -43,7 +43,7 @@
 		"code":"370602006",
 		"fullCode":"370602006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奇山街道",
 		"parentCode":"370602"
 	},
@@ -51,7 +51,7 @@
 		"code":"370602007",
 		"fullCode":"370602007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石街道",
 		"parentCode":"370602"
 	},
@@ -59,7 +59,7 @@
 		"code":"370602008",
 		"fullCode":"370602008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芝罘岛街道",
 		"parentCode":"370602"
 	},
@@ -67,7 +67,7 @@
 		"code":"370602009",
 		"fullCode":"370602009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄务街道",
 		"parentCode":"370602"
 	},
@@ -75,7 +75,7 @@
 		"code":"370602010",
 		"fullCode":"370602010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"只楚街道",
 		"parentCode":"370602"
 	},
@@ -83,7 +83,7 @@
 		"code":"370602011",
 		"fullCode":"370602011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"世回尧街道",
 		"parentCode":"370602"
 	},
@@ -91,7 +91,7 @@
 		"code":"370602012",
 		"fullCode":"370602012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福街道",
 		"parentCode":"370602"
 	}

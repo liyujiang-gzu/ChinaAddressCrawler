@@ -3,7 +3,7 @@
 		"code":"611002",
 		"fullCode":"611002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"商州区",
 		"parentCode":"6110"
 	},
@@ -11,7 +11,7 @@
 		"code":"611021",
 		"fullCode":"611021000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"洛南县",
 		"parentCode":"6110"
 	},
@@ -19,7 +19,7 @@
 		"code":"611022",
 		"fullCode":"611022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丹凤县",
 		"parentCode":"6110"
 	},
@@ -27,7 +27,7 @@
 		"code":"611023",
 		"fullCode":"611023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"商南县",
 		"parentCode":"6110"
 	},
@@ -35,7 +35,7 @@
 		"code":"611024",
 		"fullCode":"611024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"山阳县",
 		"parentCode":"6110"
 	},
@@ -43,7 +43,7 @@
 		"code":"611025",
 		"fullCode":"611025000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"镇安县",
 		"parentCode":"6110"
 	},
@@ -51,7 +51,7 @@
 		"code":"611026",
 		"fullCode":"611026000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"柞水县",
 		"parentCode":"6110"
 	}

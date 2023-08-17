@@ -3,7 +3,7 @@
 		"code":"210504002",
 		"fullCode":"210504002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北地街道",
 		"parentCode":"210504"
 	},
@@ -11,7 +11,7 @@
 		"code":"210504004",
 		"fullCode":"210504004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高峪街道",
 		"parentCode":"210504"
 	},
@@ -19,7 +19,7 @@
 		"code":"210504005",
 		"fullCode":"210504005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明山街道",
 		"parentCode":"210504"
 	},
@@ -27,7 +27,7 @@
 		"code":"210504008",
 		"fullCode":"210504008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新明街道",
 		"parentCode":"210504"
 	},
@@ -35,7 +35,7 @@
 		"code":"210504009",
 		"fullCode":"210504009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛心台街道",
 		"parentCode":"210504"
 	},
@@ -43,7 +43,7 @@
 		"code":"210504010",
 		"fullCode":"210504010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧龙街道",
 		"parentCode":"210504"
 	},
@@ -51,7 +51,7 @@
 		"code":"210504011",
 		"fullCode":"210504011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高台子街道",
 		"parentCode":"210504"
 	}

@@ -3,7 +3,7 @@
 		"code":"410505001",
 		"fullCode":"410505001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅园庄街道",
 		"parentCode":"410505"
 	},
@@ -11,7 +11,7 @@
 		"code":"410505002",
 		"fullCode":"410505002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李珍街道",
 		"parentCode":"410505"
 	},
@@ -19,7 +19,7 @@
 		"code":"410505003",
 		"fullCode":"410505003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"电厂路街道",
 		"parentCode":"410505"
 	},
@@ -27,7 +27,7 @@
 		"code":"410505004",
 		"fullCode":"410505004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纱厂路街道",
 		"parentCode":"410505"
 	},
@@ -35,7 +35,7 @@
 		"code":"410505005",
 		"fullCode":"410505005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西路街道",
 		"parentCode":"410505"
 	},
@@ -43,7 +43,7 @@
 		"code":"410505006",
 		"fullCode":"410505006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水冶街道",
 		"parentCode":"410505"
 	},
@@ -51,7 +51,7 @@
 		"code":"410505007",
 		"fullCode":"410505007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清风街街道",
 		"parentCode":"410505"
 	},
@@ -59,7 +59,7 @@
 		"code":"410505008",
 		"fullCode":"410505008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北蒙街道",
 		"parentCode":"410505"
 	},
@@ -67,7 +67,7 @@
 		"code":"410505009",
 		"fullCode":"410505009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"相台街道",
 		"parentCode":"410505"
 	},
@@ -75,7 +75,7 @@
 		"code":"410505100",
 		"fullCode":"410505100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲沟镇",
 		"parentCode":"410505"
 	},
@@ -83,7 +83,7 @@
 		"code":"410505101",
 		"fullCode":"410505101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水冶镇",
 		"parentCode":"410505"
 	},
@@ -91,7 +91,7 @@
 		"code":"410505200",
 		"fullCode":"410505200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西郊乡",
 		"parentCode":"410505"
 	}

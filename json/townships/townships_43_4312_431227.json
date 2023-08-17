@@ -3,7 +3,7 @@
 		"code":"431227101",
 		"fullCode":"431227101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波洲镇",
 		"parentCode":"431227"
 	},
@@ -11,7 +11,7 @@
 		"code":"431227103",
 		"fullCode":"431227103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼市镇",
 		"parentCode":"431227"
 	},
@@ -19,7 +19,7 @@
 		"code":"431227104",
 		"fullCode":"431227104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉伞镇",
 		"parentCode":"431227"
 	},
@@ -27,7 +27,7 @@
 		"code":"431227105",
 		"fullCode":"431227105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扶罗镇",
 		"parentCode":"431227"
 	},
@@ -35,7 +35,7 @@
 		"code":"431227106",
 		"fullCode":"431227106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中寨镇",
 		"parentCode":"431227"
 	},
@@ -43,7 +43,7 @@
 		"code":"431227107",
 		"fullCode":"431227107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晃洲镇",
 		"parentCode":"431227"
 	},
@@ -51,7 +51,7 @@
 		"code":"431227108",
 		"fullCode":"431227108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林冲镇",
 		"parentCode":"431227"
 	},
@@ -59,7 +59,7 @@
 		"code":"431227109",
 		"fullCode":"431227109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贡溪镇",
 		"parentCode":"431227"
 	},
@@ -67,7 +67,7 @@
 		"code":"431227110",
 		"fullCode":"431227110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾滩镇",
 		"parentCode":"431227"
 	},
@@ -75,7 +75,7 @@
 		"code":"431227200",
 		"fullCode":"431227200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"步头降苗族乡",
 		"parentCode":"431227"
 	},
@@ -83,7 +83,7 @@
 		"code":"431227215",
 		"fullCode":"431227215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米贝苗族乡",
 		"parentCode":"431227"
 	}

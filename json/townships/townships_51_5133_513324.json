@@ -3,7 +3,7 @@
 		"code":"513324100",
 		"fullCode":"513324100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呷尔镇",
 		"parentCode":"513324"
 	},
@@ -11,7 +11,7 @@
 		"code":"513324101",
 		"fullCode":"513324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烟袋镇",
 		"parentCode":"513324"
 	},
@@ -19,7 +19,7 @@
 		"code":"513324102",
 		"fullCode":"513324102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三垭镇",
 		"parentCode":"513324"
 	},
@@ -27,7 +27,7 @@
 		"code":"513324103",
 		"fullCode":"513324103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪洼龙镇",
 		"parentCode":"513324"
 	},
@@ -35,7 +35,7 @@
 		"code":"513324104",
 		"fullCode":"513324104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾坝镇",
 		"parentCode":"513324"
 	},
@@ -43,7 +43,7 @@
 		"code":"513324105",
 		"fullCode":"513324105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤古镇",
 		"parentCode":"513324"
 	},
@@ -51,7 +51,7 @@
 		"code":"513324106",
 		"fullCode":"513324106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌拉溪镇",
 		"parentCode":"513324"
 	},
@@ -59,7 +59,7 @@
 		"code":"513324107",
 		"fullCode":"513324107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魁多镇",
 		"parentCode":"513324"
 	},
@@ -67,7 +67,7 @@
 		"code":"513324108",
 		"fullCode":"513324108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乃渠镇",
 		"parentCode":"513324"
 	},
@@ -75,7 +75,7 @@
 		"code":"513324202",
 		"fullCode":"513324202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岩龙乡",
 		"parentCode":"513324"
 	},
@@ -83,7 +83,7 @@
 		"code":"513324203",
 		"fullCode":"513324203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上团乡",
 		"parentCode":"513324"
 	},
@@ -91,7 +91,7 @@
 		"code":"513324204",
 		"fullCode":"513324204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八窝龙乡",
 		"parentCode":"513324"
 	},
@@ -99,7 +99,7 @@
 		"code":"513324209",
 		"fullCode":"513324209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"子耳彝族乡",
 		"parentCode":"513324"
 	},
@@ -107,7 +107,7 @@
 		"code":"513324212",
 		"fullCode":"513324212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小金彝族乡",
 		"parentCode":"513324"
 	},
@@ -115,7 +115,7 @@
 		"code":"513324213",
 		"fullCode":"513324213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朵洛彝族乡",
 		"parentCode":"513324"
 	},
@@ -123,7 +123,7 @@
 		"code":"513324216",
 		"fullCode":"513324216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪坝乡",
 		"parentCode":"513324"
 	}

@@ -3,7 +3,7 @@
 		"code":"530115001",
 		"fullCode":"530115001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆阳街道",
 		"parentCode":"530115"
 	},
@@ -11,7 +11,7 @@
 		"code":"530115002",
 		"fullCode":"530115002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝峰街道",
 		"parentCode":"530115"
 	},
@@ -19,7 +19,7 @@
 		"code":"530115003",
 		"fullCode":"530115003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋城街道",
 		"parentCode":"530115"
 	},
@@ -27,7 +27,7 @@
 		"code":"530115101",
 		"fullCode":"530115101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二街镇",
 		"parentCode":"530115"
 	},
@@ -35,7 +35,7 @@
 		"code":"530115102",
 		"fullCode":"530115102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上蒜镇",
 		"parentCode":"530115"
 	},
@@ -43,7 +43,7 @@
 		"code":"530115103",
 		"fullCode":"530115103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六街镇",
 		"parentCode":"530115"
 	},
@@ -51,7 +51,7 @@
 		"code":"530115200",
 		"fullCode":"530115200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河彝族乡",
 		"parentCode":"530115"
 	},
@@ -59,7 +59,7 @@
 		"code":"530115201",
 		"fullCode":"530115201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夕阳彝族乡",
 		"parentCode":"530115"
 	}

@@ -3,7 +3,7 @@
 		"code":"220172001",
 		"fullCode":"220172001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴街道",
 		"parentCode":"220172"
 	},
@@ -11,7 +11,7 @@
 		"code":"220172002",
 		"fullCode":"220172002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"净月街道",
 		"parentCode":"220172"
 	},
@@ -19,7 +19,7 @@
 		"code":"220172003",
 		"fullCode":"220172003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福祉街道",
 		"parentCode":"220172"
 	},
@@ -27,7 +27,7 @@
 		"code":"220172004",
 		"fullCode":"220172004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德正街道",
 		"parentCode":"220172"
 	},
@@ -35,7 +35,7 @@
 		"code":"220172005",
 		"fullCode":"220172005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彩织街道",
 		"parentCode":"220172"
 	},
@@ -43,7 +43,7 @@
 		"code":"220172006",
 		"fullCode":"220172006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德容街道",
 		"parentCode":"220172"
 	},
@@ -51,7 +51,7 @@
 		"code":"220172007",
 		"fullCode":"220172007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博硕街道",
 		"parentCode":"220172"
 	},
@@ -59,7 +59,7 @@
 		"code":"220172100",
 		"fullCode":"220172100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新立城镇",
 		"parentCode":"220172"
 	},
@@ -67,7 +67,7 @@
 		"code":"220172101",
 		"fullCode":"220172101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新湖镇",
 		"parentCode":"220172"
 	},
@@ -75,7 +75,7 @@
 		"code":"220172102",
 		"fullCode":"220172102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉潭镇",
 		"parentCode":"220172"
 	}

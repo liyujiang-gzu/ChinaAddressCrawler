@@ -3,7 +3,7 @@
 		"code":"310101",
 		"fullCode":"310101000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黄浦区",
 		"parentCode":"3101"
 	},
@@ -11,7 +11,7 @@
 		"code":"310104",
 		"fullCode":"310104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"徐汇区",
 		"parentCode":"3101"
 	},
@@ -19,7 +19,7 @@
 		"code":"310105",
 		"fullCode":"310105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长宁区",
 		"parentCode":"3101"
 	},
@@ -27,7 +27,7 @@
 		"code":"310106",
 		"fullCode":"310106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"静安区",
 		"parentCode":"3101"
 	},
@@ -35,7 +35,7 @@
 		"code":"310107",
 		"fullCode":"310107000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"普陀区",
 		"parentCode":"3101"
 	},
@@ -43,7 +43,7 @@
 		"code":"310109",
 		"fullCode":"310109000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"虹口区",
 		"parentCode":"3101"
 	},
@@ -51,7 +51,7 @@
 		"code":"310110",
 		"fullCode":"310110000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"杨浦区",
 		"parentCode":"3101"
 	},
@@ -59,7 +59,7 @@
 		"code":"310112",
 		"fullCode":"310112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"闵行区",
 		"parentCode":"3101"
 	},
@@ -67,7 +67,7 @@
 		"code":"310113",
 		"fullCode":"310113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宝山区",
 		"parentCode":"3101"
 	},
@@ -75,7 +75,7 @@
 		"code":"310114",
 		"fullCode":"310114000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"嘉定区",
 		"parentCode":"3101"
 	},
@@ -83,7 +83,7 @@
 		"code":"310115",
 		"fullCode":"310115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浦东新区",
 		"parentCode":"3101"
 	},
@@ -91,7 +91,7 @@
 		"code":"310116",
 		"fullCode":"310116000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金山区",
 		"parentCode":"3101"
 	},
@@ -99,7 +99,7 @@
 		"code":"310117",
 		"fullCode":"310117000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"松江区",
 		"parentCode":"3101"
 	},
@@ -107,7 +107,7 @@
 		"code":"310118",
 		"fullCode":"310118000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"青浦区",
 		"parentCode":"3101"
 	},
@@ -115,7 +115,7 @@
 		"code":"310120",
 		"fullCode":"310120000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"奉贤区",
 		"parentCode":"3101"
 	},
@@ -123,7 +123,7 @@
 		"code":"310151",
 		"fullCode":"310151000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"崇明区",
 		"parentCode":"3101"
 	}

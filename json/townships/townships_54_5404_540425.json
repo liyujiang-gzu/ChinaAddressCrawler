@@ -3,7 +3,7 @@
 		"code":"540425100",
 		"fullCode":"540425100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹瓦根镇",
 		"parentCode":"540425"
 	},
@@ -11,7 +11,7 @@
 		"code":"540425101",
 		"fullCode":"540425101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上察隅镇",
 		"parentCode":"540425"
 	},
@@ -19,7 +19,7 @@
 		"code":"540425102",
 		"fullCode":"540425102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下察隅镇",
 		"parentCode":"540425"
 	},
@@ -27,7 +27,7 @@
 		"code":"540425200",
 		"fullCode":"540425200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"察瓦龙乡",
 		"parentCode":"540425"
 	},
@@ -35,7 +35,7 @@
 		"code":"540425201",
 		"fullCode":"540425201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古拉乡",
 		"parentCode":"540425"
 	},
@@ -43,7 +43,7 @@
 		"code":"540425202",
 		"fullCode":"540425202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古玉乡",
 		"parentCode":"540425"
 	}

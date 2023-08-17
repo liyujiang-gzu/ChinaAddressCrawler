@@ -3,7 +3,7 @@
 		"code":"231283100",
 		"fullCode":"231283100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海伦镇",
 		"parentCode":"231283"
 	},
@@ -11,7 +11,7 @@
 		"code":"231283101",
 		"fullCode":"231283101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海北镇",
 		"parentCode":"231283"
 	},
@@ -19,7 +19,7 @@
 		"code":"231283102",
 		"fullCode":"231283102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伦河镇",
 		"parentCode":"231283"
 	},
@@ -27,7 +27,7 @@
 		"code":"231283103",
 		"fullCode":"231283103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共合镇",
 		"parentCode":"231283"
 	},
@@ -35,7 +35,7 @@
 		"code":"231283104",
 		"fullCode":"231283104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海兴镇",
 		"parentCode":"231283"
 	},
@@ -43,7 +43,7 @@
 		"code":"231283105",
 		"fullCode":"231283105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祥富镇",
 		"parentCode":"231283"
 	},
@@ -51,7 +51,7 @@
 		"code":"231283106",
 		"fullCode":"231283106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风镇",
 		"parentCode":"231283"
 	},
@@ -59,7 +59,7 @@
 		"code":"231283107",
 		"fullCode":"231283107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百祥镇",
 		"parentCode":"231283"
 	},
@@ -67,7 +67,7 @@
 		"code":"231283108",
 		"fullCode":"231283108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向荣镇",
 		"parentCode":"231283"
 	},
@@ -75,7 +75,7 @@
 		"code":"231283109",
 		"fullCode":"231283109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永富镇",
 		"parentCode":"231283"
 	},
@@ -83,7 +83,7 @@
 		"code":"231283110",
 		"fullCode":"231283110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长发镇",
 		"parentCode":"231283"
 	},
@@ -91,7 +91,7 @@
 		"code":"231283111",
 		"fullCode":"231283111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联发镇",
 		"parentCode":"231283"
 	},
@@ -99,7 +99,7 @@
 		"code":"231283112",
 		"fullCode":"231283112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进镇",
 		"parentCode":"231283"
 	},
@@ -107,7 +107,7 @@
 		"code":"231283113",
 		"fullCode":"231283113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共荣镇",
 		"parentCode":"231283"
 	},
@@ -115,7 +115,7 @@
 		"code":"231283114",
 		"fullCode":"231283114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东林镇",
 		"parentCode":"231283"
 	},
@@ -123,7 +123,7 @@
 		"code":"231283115",
 		"fullCode":"231283115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永和镇",
 		"parentCode":"231283"
 	},
@@ -131,7 +131,7 @@
 		"code":"231283208",
 		"fullCode":"231283208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海南乡",
 		"parentCode":"231283"
 	},
@@ -139,7 +139,7 @@
 		"code":"231283210",
 		"fullCode":"231283210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐业乡",
 		"parentCode":"231283"
 	},
@@ -147,7 +147,7 @@
 		"code":"231283211",
 		"fullCode":"231283211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福民乡",
 		"parentCode":"231283"
 	},
@@ -155,7 +155,7 @@
 		"code":"231283212",
 		"fullCode":"231283212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰山乡",
 		"parentCode":"231283"
 	},
@@ -163,7 +163,7 @@
 		"code":"231283218",
 		"fullCode":"231283218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱民乡",
 		"parentCode":"231283"
 	},
@@ -171,7 +171,7 @@
 		"code":"231283220",
 		"fullCode":"231283220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎音河乡",
 		"parentCode":"231283"
 	},
@@ -179,7 +179,7 @@
 		"code":"231283221",
 		"fullCode":"231283221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双录乡",
 		"parentCode":"231283"
 	},
@@ -187,7 +187,7 @@
 		"code":"231283400",
 		"fullCode":"231283400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海伦市森林资源保护中心",
 		"parentCode":"231283"
 	},
@@ -195,7 +195,7 @@
 		"code":"231283401",
 		"fullCode":"231283401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方红水库地区",
 		"parentCode":"231283"
 	},
@@ -203,7 +203,7 @@
 		"code":"231283500",
 		"fullCode":"231283500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海伦农场",
 		"parentCode":"231283"
 	},
@@ -211,7 +211,7 @@
 		"code":"231283501",
 		"fullCode":"231283501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红光农场",
 		"parentCode":"231283"
 	},
@@ -219,7 +219,7 @@
 		"code":"231283581",
 		"fullCode":"231283581000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海伦市董家农作物种植场",
 		"parentCode":"231283"
 	},
@@ -227,7 +227,7 @@
 		"code":"231283582",
 		"fullCode":"231283582000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海伦市东方农牧场",
 		"parentCode":"231283"
 	}

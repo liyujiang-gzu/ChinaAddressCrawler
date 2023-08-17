@@ -3,7 +3,7 @@
 		"code":"230524100",
 		"fullCode":"230524100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"饶河镇",
 		"parentCode":"230524"
 	},
@@ -11,7 +11,7 @@
 		"code":"230524101",
 		"fullCode":"230524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小佳河镇",
 		"parentCode":"230524"
 	},
@@ -19,7 +19,7 @@
 		"code":"230524102",
 		"fullCode":"230524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西丰镇",
 		"parentCode":"230524"
 	},
@@ -27,7 +27,7 @@
 		"code":"230524103",
 		"fullCode":"230524103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五林洞镇",
 		"parentCode":"230524"
 	},
@@ -35,7 +35,7 @@
 		"code":"230524200",
 		"fullCode":"230524200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西林子乡",
 		"parentCode":"230524"
 	},
@@ -43,7 +43,7 @@
 		"code":"230524201",
 		"fullCode":"230524201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四排乡",
 		"parentCode":"230524"
 	},
@@ -51,7 +51,7 @@
 		"code":"230524203",
 		"fullCode":"230524203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大佳河乡",
 		"parentCode":"230524"
 	},
@@ -59,7 +59,7 @@
 		"code":"230524204",
 		"fullCode":"230524204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山里乡",
 		"parentCode":"230524"
 	},
@@ -67,7 +67,7 @@
 		"code":"230524207",
 		"fullCode":"230524207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大通河乡",
 		"parentCode":"230524"
 	},
@@ -75,7 +75,7 @@
 		"code":"230524400",
 		"fullCode":"230524400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小佳河林场",
 		"parentCode":"230524"
 	},
@@ -83,7 +83,7 @@
 		"code":"230524401",
 		"fullCode":"230524401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"威山林场",
 		"parentCode":"230524"
 	},
@@ -91,7 +91,7 @@
 		"code":"230524402",
 		"fullCode":"230524402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西丰林场",
 		"parentCode":"230524"
 	},
@@ -99,7 +99,7 @@
 		"code":"230524403",
 		"fullCode":"230524403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大牙克林场",
 		"parentCode":"230524"
 	},
@@ -107,7 +107,7 @@
 		"code":"230524404",
 		"fullCode":"230524404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石场林场",
 		"parentCode":"230524"
 	},
@@ -115,7 +115,7 @@
 		"code":"230524405",
 		"fullCode":"230524405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝马山林场",
 		"parentCode":"230524"
 	},
@@ -123,7 +123,7 @@
 		"code":"230524406",
 		"fullCode":"230524406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大岱林场",
 		"parentCode":"230524"
 	},
@@ -131,7 +131,7 @@
 		"code":"230524407",
 		"fullCode":"230524407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永幸林场",
 		"parentCode":"230524"
 	},
@@ -139,7 +139,7 @@
 		"code":"230524408",
 		"fullCode":"230524408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奇源林场",
 		"parentCode":"230524"
 	},
@@ -147,7 +147,7 @@
 		"code":"230524409",
 		"fullCode":"230524409000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦源林场",
 		"parentCode":"230524"
 	},
@@ -155,7 +155,7 @@
 		"code":"230524410",
 		"fullCode":"230524410000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五林洞林场",
 		"parentCode":"230524"
 	},
@@ -163,7 +163,7 @@
 		"code":"230524500",
 		"fullCode":"230524500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"饶河农场",
 		"parentCode":"230524"
 	},
@@ -171,7 +171,7 @@
 		"code":"230524501",
 		"fullCode":"230524501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗岭农场",
 		"parentCode":"230524"
 	},
@@ -179,7 +179,7 @@
 		"code":"230524502",
 		"fullCode":"230524502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八五九农场",
 		"parentCode":"230524"
 	},
@@ -187,7 +187,7 @@
 		"code":"230524503",
 		"fullCode":"230524503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利农场",
 		"parentCode":"230524"
 	},
@@ -195,7 +195,7 @@
 		"code":"230524504",
 		"fullCode":"230524504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红卫农场",
 		"parentCode":"230524"
 	}

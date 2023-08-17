@@ -3,7 +3,7 @@
 		"code":"371423001",
 		"fullCode":"371423001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渤海路街道",
 		"parentCode":"371423"
 	},
@@ -11,7 +11,7 @@
 		"code":"371423100",
 		"fullCode":"371423100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆云镇",
 		"parentCode":"371423"
 	},
@@ -19,7 +19,7 @@
 		"code":"371423101",
 		"fullCode":"371423101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常家镇",
 		"parentCode":"371423"
 	},
@@ -27,7 +27,7 @@
 		"code":"371423102",
 		"fullCode":"371423102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚堂镇",
 		"parentCode":"371423"
 	},
@@ -35,7 +35,7 @@
 		"code":"371423103",
 		"fullCode":"371423103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崔口镇",
 		"parentCode":"371423"
 	},
@@ -43,7 +43,7 @@
 		"code":"371423104",
 		"fullCode":"371423104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东辛店镇",
 		"parentCode":"371423"
 	},
@@ -51,7 +51,7 @@
 		"code":"371423200",
 		"fullCode":"371423200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"严务乡",
 		"parentCode":"371423"
 	},
@@ -59,7 +59,7 @@
 		"code":"371423202",
 		"fullCode":"371423202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中丁乡",
 		"parentCode":"371423"
 	},
@@ -67,7 +67,7 @@
 		"code":"371423203",
 		"fullCode":"371423203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐园子乡",
 		"parentCode":"371423"
 	}

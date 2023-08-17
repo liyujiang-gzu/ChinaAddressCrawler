@@ -3,7 +3,7 @@
 		"code":"450405001",
 		"fullCode":"450405001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大塘街道",
 		"parentCode":"450405"
 	},
@@ -11,7 +11,7 @@
 		"code":"450405002",
 		"fullCode":"450405002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴龙街道",
 		"parentCode":"450405"
 	},
@@ -19,7 +19,7 @@
 		"code":"450405003",
 		"fullCode":"450405003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红岭街道",
 		"parentCode":"450405"
 	},
@@ -27,7 +27,7 @@
 		"code":"450405101",
 		"fullCode":"450405101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长洲镇",
 		"parentCode":"450405"
 	},
@@ -35,7 +35,7 @@
 		"code":"450405102",
 		"fullCode":"450405102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"倒水镇",
 		"parentCode":"450405"
 	}

@@ -3,7 +3,7 @@
 		"code":"621202",
 		"fullCode":"621202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武都区",
 		"parentCode":"6212"
 	},
@@ -11,7 +11,7 @@
 		"code":"621221",
 		"fullCode":"621221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"成县",
 		"parentCode":"6212"
 	},
@@ -19,7 +19,7 @@
 		"code":"621222",
 		"fullCode":"621222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"文县",
 		"parentCode":"6212"
 	},
@@ -27,7 +27,7 @@
 		"code":"621223",
 		"fullCode":"621223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宕昌县",
 		"parentCode":"6212"
 	},
@@ -35,7 +35,7 @@
 		"code":"621224",
 		"fullCode":"621224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"康县",
 		"parentCode":"6212"
 	},
@@ -43,7 +43,7 @@
 		"code":"621225",
 		"fullCode":"621225000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西和县",
 		"parentCode":"6212"
 	},
@@ -51,7 +51,7 @@
 		"code":"621226",
 		"fullCode":"621226000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"礼县",
 		"parentCode":"6212"
 	},
@@ -59,7 +59,7 @@
 		"code":"621227",
 		"fullCode":"621227000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"徽县",
 		"parentCode":"6212"
 	},
@@ -67,7 +67,7 @@
 		"code":"621228",
 		"fullCode":"621228000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"两当县",
 		"parentCode":"6212"
 	}

@@ -3,7 +3,7 @@
 		"code":"350724001",
 		"fullCode":"350724001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松源街道",
 		"parentCode":"350724"
 	},
@@ -11,7 +11,7 @@
 		"code":"350724101",
 		"fullCode":"350724101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑墩镇",
 		"parentCode":"350724"
 	},
@@ -19,7 +19,7 @@
 		"code":"350724102",
 		"fullCode":"350724102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渭田镇",
 		"parentCode":"350724"
 	},
@@ -27,7 +27,7 @@
 		"code":"350724200",
 		"fullCode":"350724200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东乡",
 		"parentCode":"350724"
 	},
@@ -35,7 +35,7 @@
 		"code":"350724201",
 		"fullCode":"350724201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶平乡",
 		"parentCode":"350724"
 	},
@@ -43,7 +43,7 @@
 		"code":"350724202",
 		"fullCode":"350724202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧县乡",
 		"parentCode":"350724"
 	},
@@ -51,7 +51,7 @@
 		"code":"350724203",
 		"fullCode":"350724203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪东乡",
 		"parentCode":"350724"
 	},
@@ -59,7 +59,7 @@
 		"code":"350724204",
 		"fullCode":"350724204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花桥乡",
 		"parentCode":"350724"
 	},
@@ -67,7 +67,7 @@
 		"code":"350724205",
 		"fullCode":"350724205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祖墩乡",
 		"parentCode":"350724"
 	}

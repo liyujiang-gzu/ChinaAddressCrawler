@@ -3,7 +3,7 @@
 		"code":"522727001",
 		"fullCode":"522727001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金盆街道",
 		"parentCode":"522727"
 	},
@@ -11,7 +11,7 @@
 		"code":"522727100",
 		"fullCode":"522727100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平舟镇",
 		"parentCode":"522727"
 	},
@@ -19,7 +19,7 @@
 		"code":"522727101",
 		"fullCode":"522727101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牙舟镇",
 		"parentCode":"522727"
 	},
@@ -27,7 +27,7 @@
 		"code":"522727102",
 		"fullCode":"522727102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通州镇",
 		"parentCode":"522727"
 	},
@@ -35,7 +35,7 @@
 		"code":"522727103",
 		"fullCode":"522727103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大塘镇",
 		"parentCode":"522727"
 	},
@@ -43,7 +43,7 @@
 		"code":"522727104",
 		"fullCode":"522727104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克度镇",
 		"parentCode":"522727"
 	},
@@ -51,7 +51,7 @@
 		"code":"522727105",
 		"fullCode":"522727105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘边镇",
 		"parentCode":"522727"
 	},
@@ -59,7 +59,7 @@
 		"code":"522727106",
 		"fullCode":"522727106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲茶镇",
 		"parentCode":"522727"
 	},
@@ -67,7 +67,7 @@
 		"code":"522727107",
 		"fullCode":"522727107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"者密镇",
 		"parentCode":"522727"
 	},
@@ -75,7 +75,7 @@
 		"code":"522727108",
 		"fullCode":"522727108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"掌布镇",
 		"parentCode":"522727"
 	},
@@ -83,7 +83,7 @@
 		"code":"522727200",
 		"fullCode":"522727200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡蒲毛南族乡",
 		"parentCode":"522727"
 	}

@@ -3,7 +3,7 @@
 		"code":"350803001",
 		"fullCode":"350803001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤城街道",
 		"parentCode":"350803"
 	},
@@ -11,7 +11,7 @@
 		"code":"350803101",
 		"fullCode":"350803101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坎市镇",
 		"parentCode":"350803"
 	},
@@ -19,7 +19,7 @@
 		"code":"350803102",
 		"fullCode":"350803102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下洋镇",
 		"parentCode":"350803"
 	},
@@ -27,7 +27,7 @@
 		"code":"350803103",
 		"fullCode":"350803103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖雷镇",
 		"parentCode":"350803"
 	},
@@ -35,7 +35,7 @@
 		"code":"350803104",
 		"fullCode":"350803104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高陂镇",
 		"parentCode":"350803"
 	},
@@ -43,7 +43,7 @@
 		"code":"350803105",
 		"fullCode":"350803105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抚市镇",
 		"parentCode":"350803"
 	},
@@ -51,7 +51,7 @@
 		"code":"350803106",
 		"fullCode":"350803106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖坑镇",
 		"parentCode":"350803"
 	},
@@ -59,7 +59,7 @@
 		"code":"350803107",
 		"fullCode":"350803107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"培丰镇",
 		"parentCode":"350803"
 	},
@@ -67,7 +67,7 @@
 		"code":"350803108",
 		"fullCode":"350803108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭镇",
 		"parentCode":"350803"
 	},
@@ -75,7 +75,7 @@
 		"code":"350803109",
 		"fullCode":"350803109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峰市镇",
 		"parentCode":"350803"
 	},
@@ -83,7 +83,7 @@
 		"code":"350803110",
 		"fullCode":"350803110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊镇",
 		"parentCode":"350803"
 	},
@@ -91,7 +91,7 @@
 		"code":"350803111",
 		"fullCode":"350803111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙师镇",
 		"parentCode":"350803"
 	},
@@ -99,7 +99,7 @@
 		"code":"350803112",
 		"fullCode":"350803112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎岗镇",
 		"parentCode":"350803"
 	},
@@ -107,7 +107,7 @@
 		"code":"350803113",
 		"fullCode":"350803113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堂堡镇",
 		"parentCode":"350803"
 	},
@@ -115,7 +115,7 @@
 		"code":"350803114",
 		"fullCode":"350803114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岐岭镇",
 		"parentCode":"350803"
 	},
@@ -123,7 +123,7 @@
 		"code":"350803115",
 		"fullCode":"350803115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金砂镇",
 		"parentCode":"350803"
 	},
@@ -131,7 +131,7 @@
 		"code":"350803116",
 		"fullCode":"350803116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪山镇",
 		"parentCode":"350803"
 	},
@@ -139,7 +139,7 @@
 		"code":"350803117",
 		"fullCode":"350803117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高头镇",
 		"parentCode":"350803"
 	},
@@ -147,7 +147,7 @@
 		"code":"350803201",
 		"fullCode":"350803201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西溪乡",
 		"parentCode":"350803"
 	},
@@ -155,7 +155,7 @@
 		"code":"350803205",
 		"fullCode":"350803205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖山乡",
 		"parentCode":"350803"
 	},
@@ -163,7 +163,7 @@
 		"code":"350803207",
 		"fullCode":"350803207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古竹乡",
 		"parentCode":"350803"
 	},
@@ -171,7 +171,7 @@
 		"code":"350803209",
 		"fullCode":"350803209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合溪乡",
 		"parentCode":"350803"
 	},
@@ -179,7 +179,7 @@
 		"code":"350803211",
 		"fullCode":"350803211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大溪乡",
 		"parentCode":"350803"
 	},
@@ -187,7 +187,7 @@
 		"code":"350803212",
 		"fullCode":"350803212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈东乡",
 		"parentCode":"350803"
 	}

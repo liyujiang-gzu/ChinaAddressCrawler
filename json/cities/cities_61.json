@@ -3,7 +3,7 @@
 		"code":"6101",
 		"fullCode":"610100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"西安市",
 		"parentCode":"61"
 	},
@@ -11,7 +11,7 @@
 		"code":"6102",
 		"fullCode":"610200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"铜川市",
 		"parentCode":"61"
 	},
@@ -19,7 +19,7 @@
 		"code":"6103",
 		"fullCode":"610300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"宝鸡市",
 		"parentCode":"61"
 	},
@@ -27,7 +27,7 @@
 		"code":"6104",
 		"fullCode":"610400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"咸阳市",
 		"parentCode":"61"
 	},
@@ -35,7 +35,7 @@
 		"code":"6105",
 		"fullCode":"610500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"渭南市",
 		"parentCode":"61"
 	},
@@ -43,7 +43,7 @@
 		"code":"6106",
 		"fullCode":"610600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"延安市",
 		"parentCode":"61"
 	},
@@ -51,7 +51,7 @@
 		"code":"6107",
 		"fullCode":"610700000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"汉中市",
 		"parentCode":"61"
 	},
@@ -59,7 +59,7 @@
 		"code":"6108",
 		"fullCode":"610800000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"榆林市",
 		"parentCode":"61"
 	},
@@ -67,7 +67,7 @@
 		"code":"6109",
 		"fullCode":"610900000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"安康市",
 		"parentCode":"61"
 	},
@@ -75,7 +75,7 @@
 		"code":"6110",
 		"fullCode":"611000000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"商洛市",
 		"parentCode":"61"
 	}

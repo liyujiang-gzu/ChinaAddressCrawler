@@ -3,7 +3,7 @@
 		"code":"370113001",
 		"fullCode":"370113001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌街道",
 		"parentCode":"370113"
 	},
@@ -11,7 +11,7 @@
 		"code":"370113002",
 		"fullCode":"370113002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崮云湖街道",
 		"parentCode":"370113"
 	},
@@ -19,7 +19,7 @@
 		"code":"370113003",
 		"fullCode":"370113003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安街道",
 		"parentCode":"370113"
 	},
@@ -27,7 +27,7 @@
 		"code":"370113004",
 		"fullCode":"370113004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五峰山街道",
 		"parentCode":"370113"
 	},
@@ -35,7 +35,7 @@
 		"code":"370113005",
 		"fullCode":"370113005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"归德街道",
 		"parentCode":"370113"
 	},
@@ -43,7 +43,7 @@
 		"code":"370113006",
 		"fullCode":"370113006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张夏街道",
 		"parentCode":"370113"
 	},
@@ -51,7 +51,7 @@
 		"code":"370113007",
 		"fullCode":"370113007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万德街道",
 		"parentCode":"370113"
 	},
@@ -59,7 +59,7 @@
 		"code":"370113008",
 		"fullCode":"370113008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孝里街道",
 		"parentCode":"370113"
 	},
@@ -67,7 +67,7 @@
 		"code":"370113107",
 		"fullCode":"370113107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马山镇",
 		"parentCode":"370113"
 	},
@@ -75,7 +75,7 @@
 		"code":"370113108",
 		"fullCode":"370113108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双泉镇",
 		"parentCode":"370113"
 	}

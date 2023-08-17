@@ -3,7 +3,7 @@
 		"code":"450802",
 		"fullCode":"450802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"港北区",
 		"parentCode":"4508"
 	},
@@ -11,7 +11,7 @@
 		"code":"450803",
 		"fullCode":"450803000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"港南区",
 		"parentCode":"4508"
 	},
@@ -19,7 +19,7 @@
 		"code":"450804",
 		"fullCode":"450804000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"覃塘区",
 		"parentCode":"4508"
 	},
@@ -27,7 +27,7 @@
 		"code":"450821",
 		"fullCode":"450821000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平南县",
 		"parentCode":"4508"
 	},
@@ -35,7 +35,7 @@
 		"code":"450881",
 		"fullCode":"450881000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桂平市",
 		"parentCode":"4508"
 	}

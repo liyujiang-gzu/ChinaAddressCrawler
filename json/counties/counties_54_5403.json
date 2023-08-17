@@ -3,7 +3,7 @@
 		"code":"540302",
 		"fullCode":"540302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"卡若区",
 		"parentCode":"5403"
 	},
@@ -11,7 +11,7 @@
 		"code":"540321",
 		"fullCode":"540321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江达县",
 		"parentCode":"5403"
 	},
@@ -19,7 +19,7 @@
 		"code":"540322",
 		"fullCode":"540322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"贡觉县",
 		"parentCode":"5403"
 	},
@@ -27,7 +27,7 @@
 		"code":"540323",
 		"fullCode":"540323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"类乌齐县",
 		"parentCode":"5403"
 	},
@@ -35,7 +35,7 @@
 		"code":"540324",
 		"fullCode":"540324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丁青县",
 		"parentCode":"5403"
 	},
@@ -43,7 +43,7 @@
 		"code":"540325",
 		"fullCode":"540325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"察雅县",
 		"parentCode":"5403"
 	},
@@ -51,7 +51,7 @@
 		"code":"540326",
 		"fullCode":"540326000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"八宿县",
 		"parentCode":"5403"
 	},
@@ -59,7 +59,7 @@
 		"code":"540327",
 		"fullCode":"540327000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"左贡县",
 		"parentCode":"5403"
 	},
@@ -67,7 +67,7 @@
 		"code":"540328",
 		"fullCode":"540328000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"芒康县",
 		"parentCode":"5403"
 	},
@@ -75,7 +75,7 @@
 		"code":"540329",
 		"fullCode":"540329000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"洛隆县",
 		"parentCode":"5403"
 	},
@@ -83,7 +83,7 @@
 		"code":"540330",
 		"fullCode":"540330000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"边坝县",
 		"parentCode":"5403"
 	}

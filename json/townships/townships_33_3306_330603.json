@@ -3,7 +3,7 @@
 		"code":"330603001",
 		"fullCode":"330603001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯桥街道",
 		"parentCode":"330603"
 	},
@@ -11,7 +11,7 @@
 		"code":"330603002",
 		"fullCode":"330603002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯岩街道",
 		"parentCode":"330603"
 	},
@@ -19,7 +19,7 @@
 		"code":"330603003",
 		"fullCode":"330603003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华舍街道",
 		"parentCode":"330603"
 	},
@@ -27,7 +27,7 @@
 		"code":"330603004",
 		"fullCode":"330603004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖塘街道",
 		"parentCode":"330603"
 	},
@@ -35,7 +35,7 @@
 		"code":"330603005",
 		"fullCode":"330603005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐贤街道",
 		"parentCode":"330603"
 	},
@@ -43,7 +43,7 @@
 		"code":"330603006",
 		"fullCode":"330603006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福全街道",
 		"parentCode":"330603"
 	},
@@ -51,7 +51,7 @@
 		"code":"330603007",
 		"fullCode":"330603007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安昌街道",
 		"parentCode":"330603"
 	},
@@ -59,7 +59,7 @@
 		"code":"330603008",
 		"fullCode":"330603008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰亭街道",
 		"parentCode":"330603"
 	},
@@ -67,7 +67,7 @@
 		"code":"330603009",
 		"fullCode":"330603009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱清街道",
 		"parentCode":"330603"
 	},
@@ -75,7 +75,7 @@
 		"code":"330603010",
 		"fullCode":"330603010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨汛桥街道",
 		"parentCode":"330603"
 	},
@@ -83,7 +83,7 @@
 		"code":"330603011",
 		"fullCode":"330603011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马鞍街道",
 		"parentCode":"330603"
 	},
@@ -91,7 +91,7 @@
 		"code":"330603105",
 		"fullCode":"330603105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平水镇",
 		"parentCode":"330603"
 	},
@@ -99,7 +99,7 @@
 		"code":"330603107",
 		"fullCode":"330603107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王坛镇",
 		"parentCode":"330603"
 	},
@@ -107,7 +107,7 @@
 		"code":"330603109",
 		"fullCode":"330603109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稽东镇",
 		"parentCode":"330603"
 	},
@@ -115,7 +115,7 @@
 		"code":"330603111",
 		"fullCode":"330603111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漓渚镇",
 		"parentCode":"330603"
 	},
@@ -123,7 +123,7 @@
 		"code":"330603114",
 		"fullCode":"330603114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏履镇",
 		"parentCode":"330603"
 	}

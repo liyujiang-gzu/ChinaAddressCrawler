@@ -3,7 +3,7 @@
 		"code":"520201",
 		"fullCode":"520201000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"钟山区",
 		"parentCode":"5202"
 	},
@@ -11,7 +11,7 @@
 		"code":"520203",
 		"fullCode":"520203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"六枝特区",
 		"parentCode":"5202"
 	},
@@ -19,7 +19,7 @@
 		"code":"520204",
 		"fullCode":"520204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"水城区",
 		"parentCode":"5202"
 	},
@@ -27,7 +27,7 @@
 		"code":"520281",
 		"fullCode":"520281000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"盘州市",
 		"parentCode":"5202"
 	}

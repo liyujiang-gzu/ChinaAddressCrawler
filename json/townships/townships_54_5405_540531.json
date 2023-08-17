@@ -3,7 +3,7 @@
 		"code":"540531100",
 		"fullCode":"540531100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浪卡子镇",
 		"parentCode":"540531"
 	},
@@ -11,7 +11,7 @@
 		"code":"540531101",
 		"fullCode":"540531101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"打隆镇",
 		"parentCode":"540531"
 	},
@@ -19,7 +19,7 @@
 		"code":"540531200",
 		"fullCode":"540531200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张达乡",
 		"parentCode":"540531"
 	},
@@ -27,7 +27,7 @@
 		"code":"540531201",
 		"fullCode":"540531201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伦布雪乡",
 		"parentCode":"540531"
 	},
@@ -35,7 +35,7 @@
 		"code":"540531202",
 		"fullCode":"540531202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多却乡",
 		"parentCode":"540531"
 	},
@@ -43,7 +43,7 @@
 		"code":"540531203",
 		"fullCode":"540531203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普玛江塘乡",
 		"parentCode":"540531"
 	},
@@ -51,7 +51,7 @@
 		"code":"540531204",
 		"fullCode":"540531204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿扎乡",
 		"parentCode":"540531"
 	},
@@ -59,7 +59,7 @@
 		"code":"540531205",
 		"fullCode":"540531205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡龙乡",
 		"parentCode":"540531"
 	},
@@ -67,7 +67,7 @@
 		"code":"540531206",
 		"fullCode":"540531206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白地乡",
 		"parentCode":"540531"
 	},
@@ -75,7 +75,7 @@
 		"code":"540531207",
 		"fullCode":"540531207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡热乡",
 		"parentCode":"540531"
 	}

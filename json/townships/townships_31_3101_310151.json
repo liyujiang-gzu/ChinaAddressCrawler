@@ -3,7 +3,7 @@
 		"code":"310151101",
 		"fullCode":"310151101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城桥镇",
 		"parentCode":"310151"
 	},
@@ -11,7 +11,7 @@
 		"code":"310151102",
 		"fullCode":"310151102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堡镇",
 		"parentCode":"310151"
 	},
@@ -19,7 +19,7 @@
 		"code":"310151103",
 		"fullCode":"310151103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新河镇",
 		"parentCode":"310151"
 	},
@@ -27,7 +27,7 @@
 		"code":"310151104",
 		"fullCode":"310151104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙镇",
 		"parentCode":"310151"
 	},
@@ -35,7 +35,7 @@
 		"code":"310151105",
 		"fullCode":"310151105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竖新镇",
 		"parentCode":"310151"
 	},
@@ -43,7 +43,7 @@
 		"code":"310151106",
 		"fullCode":"310151106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向化镇",
 		"parentCode":"310151"
 	},
@@ -51,7 +51,7 @@
 		"code":"310151107",
 		"fullCode":"310151107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三星镇",
 		"parentCode":"310151"
 	},
@@ -59,7 +59,7 @@
 		"code":"310151108",
 		"fullCode":"310151108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港沿镇",
 		"parentCode":"310151"
 	},
@@ -67,7 +67,7 @@
 		"code":"310151109",
 		"fullCode":"310151109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中兴镇",
 		"parentCode":"310151"
 	},
@@ -75,7 +75,7 @@
 		"code":"310151110",
 		"fullCode":"310151110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈家镇",
 		"parentCode":"310151"
 	},
@@ -83,7 +83,7 @@
 		"code":"310151111",
 		"fullCode":"310151111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绿华镇",
 		"parentCode":"310151"
 	},
@@ -91,7 +91,7 @@
 		"code":"310151112",
 		"fullCode":"310151112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港西镇",
 		"parentCode":"310151"
 	},
@@ -99,7 +99,7 @@
 		"code":"310151113",
 		"fullCode":"310151113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设镇",
 		"parentCode":"310151"
 	},
@@ -107,7 +107,7 @@
 		"code":"310151114",
 		"fullCode":"310151114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新海镇",
 		"parentCode":"310151"
 	},
@@ -115,7 +115,7 @@
 		"code":"310151115",
 		"fullCode":"310151115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东平镇",
 		"parentCode":"310151"
 	},
@@ -123,7 +123,7 @@
 		"code":"310151116",
 		"fullCode":"310151116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长兴镇",
 		"parentCode":"310151"
 	},
@@ -131,7 +131,7 @@
 		"code":"310151201",
 		"fullCode":"310151201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新村乡",
 		"parentCode":"310151"
 	},
@@ -139,7 +139,7 @@
 		"code":"310151202",
 		"fullCode":"310151202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横沙乡",
 		"parentCode":"310151"
 	},
@@ -147,7 +147,7 @@
 		"code":"310151401",
 		"fullCode":"310151401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前卫农场",
 		"parentCode":"310151"
 	},
@@ -155,7 +155,7 @@
 		"code":"310151402",
 		"fullCode":"310151402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东平林场",
 		"parentCode":"310151"
 	},
@@ -163,7 +163,7 @@
 		"code":"310151501",
 		"fullCode":"310151501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上实现代农业园区",
 		"parentCode":"310151"
 	}

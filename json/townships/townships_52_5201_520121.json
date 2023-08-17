@@ -3,7 +3,7 @@
 		"code":"520121001",
 		"fullCode":"520121001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"硒城街道",
 		"parentCode":"520121"
 	},
@@ -11,7 +11,7 @@
 		"code":"520121002",
 		"fullCode":"520121002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云开街道",
 		"parentCode":"520121"
 	},
@@ -19,7 +19,7 @@
 		"code":"520121003",
 		"fullCode":"520121003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫兴街道",
 		"parentCode":"520121"
 	},
@@ -27,7 +27,7 @@
 		"code":"520121101",
 		"fullCode":"520121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双流镇",
 		"parentCode":"520121"
 	},
@@ -35,7 +35,7 @@
 		"code":"520121102",
 		"fullCode":"520121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金中镇",
 		"parentCode":"520121"
 	},
@@ -43,7 +43,7 @@
 		"code":"520121103",
 		"fullCode":"520121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯三镇",
 		"parentCode":"520121"
 	},
@@ -51,7 +51,7 @@
 		"code":"520121104",
 		"fullCode":"520121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楠木渡镇",
 		"parentCode":"520121"
 	},
@@ -59,7 +59,7 @@
 		"code":"520121105",
 		"fullCode":"520121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙岗镇",
 		"parentCode":"520121"
 	},
@@ -67,7 +67,7 @@
 		"code":"520121106",
 		"fullCode":"520121106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永温镇",
 		"parentCode":"520121"
 	},
@@ -75,7 +75,7 @@
 		"code":"520121107",
 		"fullCode":"520121107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花梨镇",
 		"parentCode":"520121"
 	},
@@ -83,7 +83,7 @@
 		"code":"520121200",
 		"fullCode":"520121200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南龙乡",
 		"parentCode":"520121"
 	},
@@ -91,7 +91,7 @@
 		"code":"520121202",
 		"fullCode":"520121202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宅吉乡",
 		"parentCode":"520121"
 	},
@@ -99,7 +99,7 @@
 		"code":"520121204",
 		"fullCode":"520121204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙水乡",
 		"parentCode":"520121"
 	},
@@ -107,7 +107,7 @@
 		"code":"520121205",
 		"fullCode":"520121205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米坪乡",
 		"parentCode":"520121"
 	},
@@ -115,7 +115,7 @@
 		"code":"520121206",
 		"fullCode":"520121206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾丰布依族苗族乡",
 		"parentCode":"520121"
 	},
@@ -123,7 +123,7 @@
 		"code":"520121207",
 		"fullCode":"520121207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南江布依族苗族乡",
 		"parentCode":"520121"
 	},
@@ -131,7 +131,7 @@
 		"code":"520121208",
 		"fullCode":"520121208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高寨苗族布依族乡",
 		"parentCode":"520121"
 	},
@@ -139,7 +139,7 @@
 		"code":"520121209",
 		"fullCode":"520121209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛云乡",
 		"parentCode":"520121"
 	}

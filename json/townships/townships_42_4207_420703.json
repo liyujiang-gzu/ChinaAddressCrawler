@@ -3,7 +3,7 @@
 		"code":"420703100",
 		"fullCode":"420703100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华容镇",
 		"parentCode":"420703"
 	},
@@ -11,7 +11,7 @@
 		"code":"420703101",
 		"fullCode":"420703101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛店镇",
 		"parentCode":"420703"
 	},
@@ -19,7 +19,7 @@
 		"code":"420703102",
 		"fullCode":"420703102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙岭镇",
 		"parentCode":"420703"
 	},
@@ -27,7 +27,7 @@
 		"code":"420703103",
 		"fullCode":"420703103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段店镇",
 		"parentCode":"420703"
 	},
@@ -35,7 +35,7 @@
 		"code":"420703200",
 		"fullCode":"420703200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江乡",
 		"parentCode":"420703"
 	},
@@ -43,7 +43,7 @@
 		"code":"420703201",
 		"fullCode":"420703201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲团乡",
 		"parentCode":"420703"
 	},
@@ -51,7 +51,7 @@
 		"code":"420703400",
 		"fullCode":"420703400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛店开发区",
 		"parentCode":"420703"
 	}

@@ -3,7 +3,7 @@
 		"code":"371402",
 		"fullCode":"371402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德城区",
 		"parentCode":"3714"
 	},
@@ -11,7 +11,7 @@
 		"code":"371403",
 		"fullCode":"371403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"陵城区",
 		"parentCode":"3714"
 	},
@@ -19,7 +19,7 @@
 		"code":"371422",
 		"fullCode":"371422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁津县",
 		"parentCode":"3714"
 	},
@@ -27,7 +27,7 @@
 		"code":"371423",
 		"fullCode":"371423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"庆云县",
 		"parentCode":"3714"
 	},
@@ -35,7 +35,7 @@
 		"code":"371424",
 		"fullCode":"371424000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临邑县",
 		"parentCode":"3714"
 	},
@@ -43,7 +43,7 @@
 		"code":"371425",
 		"fullCode":"371425000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"齐河县",
 		"parentCode":"3714"
 	},
@@ -51,7 +51,7 @@
 		"code":"371426",
 		"fullCode":"371426000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平原县",
 		"parentCode":"3714"
 	},
@@ -59,7 +59,7 @@
 		"code":"371427",
 		"fullCode":"371427000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"夏津县",
 		"parentCode":"3714"
 	},
@@ -67,7 +67,7 @@
 		"code":"371428",
 		"fullCode":"371428000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武城县",
 		"parentCode":"3714"
 	},
@@ -75,7 +75,7 @@
 		"code":"371471",
 		"fullCode":"371471000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德州天衢新区",
 		"parentCode":"3714"
 	},
@@ -83,7 +83,7 @@
 		"code":"371481",
 		"fullCode":"371481000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乐陵市",
 		"parentCode":"3714"
 	},
@@ -91,7 +91,7 @@
 		"code":"371482",
 		"fullCode":"371482000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"禹城市",
 		"parentCode":"3714"
 	}

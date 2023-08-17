@@ -3,7 +3,7 @@
 		"code":"410725002",
 		"fullCode":"410725002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳和街道",
 		"parentCode":"410725"
 	},
@@ -11,7 +11,7 @@
 		"code":"410725003",
 		"fullCode":"410725003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"原兴街道",
 		"parentCode":"410725"
 	},
@@ -19,7 +19,7 @@
 		"code":"410725103",
 		"fullCode":"410725103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐街镇",
 		"parentCode":"410725"
 	},
@@ -27,7 +27,7 @@
 		"code":"410725104",
 		"fullCode":"410725104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"410725"
 	},
@@ -35,7 +35,7 @@
 		"code":"410725105",
 		"fullCode":"410725105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福宁集镇",
 		"parentCode":"410725"
 	},
@@ -43,7 +43,7 @@
 		"code":"410725107",
 		"fullCode":"410725107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官厂镇",
 		"parentCode":"410725"
 	},
@@ -51,7 +51,7 @@
 		"code":"410725108",
 		"fullCode":"410725108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大宾镇",
 		"parentCode":"410725"
 	},
@@ -59,7 +59,7 @@
 		"code":"410725200",
 		"fullCode":"410725200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛埠口乡",
 		"parentCode":"410725"
 	},
@@ -67,7 +67,7 @@
 		"code":"410725206",
 		"fullCode":"410725206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋庄乡",
 		"parentCode":"410725"
 	},
@@ -75,7 +75,7 @@
 		"code":"410725211",
 		"fullCode":"410725211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陡门乡",
 		"parentCode":"410725"
 	},
@@ -83,7 +83,7 @@
 		"code":"410725215",
 		"fullCode":"410725215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路寨乡",
 		"parentCode":"410725"
 	},
@@ -91,7 +91,7 @@
 		"code":"410725216",
 		"fullCode":"410725216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳阿乡",
 		"parentCode":"410725"
 	},
@@ -99,7 +99,7 @@
 		"code":"410725218",
 		"fullCode":"410725218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靳堂乡",
 		"parentCode":"410725"
 	}

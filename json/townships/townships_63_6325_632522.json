@@ -3,7 +3,7 @@
 		"code":"632522100",
 		"fullCode":"632522100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尕巴松多镇",
 		"parentCode":"632522"
 	},
@@ -11,7 +11,7 @@
 		"code":"632522101",
 		"fullCode":"632522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐谷镇",
 		"parentCode":"632522"
 	},
@@ -19,7 +19,7 @@
 		"code":"632522200",
 		"fullCode":"632522200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴沟乡",
 		"parentCode":"632522"
 	},
@@ -27,7 +27,7 @@
 		"code":"632522201",
 		"fullCode":"632522201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀麻乡",
 		"parentCode":"632522"
 	},
@@ -35,7 +35,7 @@
 		"code":"632522202",
 		"fullCode":"632522202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北乡",
 		"parentCode":"632522"
 	}

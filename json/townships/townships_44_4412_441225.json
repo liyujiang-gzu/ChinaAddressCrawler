@@ -3,7 +3,7 @@
 		"code":"441225001",
 		"fullCode":"441225001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江口街道",
 		"parentCode":"441225"
 	},
@@ -11,7 +11,7 @@
 		"code":"441225101",
 		"fullCode":"441225101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江川镇",
 		"parentCode":"441225"
 	},
@@ -19,7 +19,7 @@
 		"code":"441225102",
 		"fullCode":"441225102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白垢镇",
 		"parentCode":"441225"
 	},
@@ -27,7 +27,7 @@
 		"code":"441225103",
 		"fullCode":"441225103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大洲镇",
 		"parentCode":"441225"
 	},
@@ -35,7 +35,7 @@
 		"code":"441225104",
 		"fullCode":"441225104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔涝镇",
 		"parentCode":"441225"
 	},
@@ -43,7 +43,7 @@
 		"code":"441225105",
 		"fullCode":"441225105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河儿口镇",
 		"parentCode":"441225"
 	},
@@ -51,7 +51,7 @@
 		"code":"441225106",
 		"fullCode":"441225106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连都镇",
 		"parentCode":"441225"
 	},
@@ -59,7 +59,7 @@
 		"code":"441225107",
 		"fullCode":"441225107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏花镇",
 		"parentCode":"441225"
 	},
@@ -67,7 +67,7 @@
 		"code":"441225108",
 		"fullCode":"441225108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗董镇",
 		"parentCode":"441225"
 	},
@@ -75,7 +75,7 @@
 		"code":"441225109",
 		"fullCode":"441225109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岗镇",
 		"parentCode":"441225"
 	},
@@ -83,7 +83,7 @@
 		"code":"441225110",
 		"fullCode":"441225110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平凤镇",
 		"parentCode":"441225"
 	},
@@ -91,7 +91,7 @@
 		"code":"441225111",
 		"fullCode":"441225111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南丰镇",
 		"parentCode":"441225"
 	},
@@ -99,7 +99,7 @@
 		"code":"441225112",
 		"fullCode":"441225112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大玉口镇",
 		"parentCode":"441225"
 	},
@@ -107,7 +107,7 @@
 		"code":"441225113",
 		"fullCode":"441225113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都平镇",
 		"parentCode":"441225"
 	},
@@ -115,7 +115,7 @@
 		"code":"441225114",
 		"fullCode":"441225114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金装镇",
 		"parentCode":"441225"
 	},
@@ -123,7 +123,7 @@
 		"code":"441225115",
 		"fullCode":"441225115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安镇",
 		"parentCode":"441225"
 	}

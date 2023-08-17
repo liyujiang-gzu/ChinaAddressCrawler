@@ -3,7 +3,7 @@
 		"code":"230826101",
 		"fullCode":"230826101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横头山镇",
 		"parentCode":"230826"
 	},
@@ -11,7 +11,7 @@
 		"code":"230826103",
 		"fullCode":"230826103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏家店镇",
 		"parentCode":"230826"
 	},
@@ -19,7 +19,7 @@
 		"code":"230826104",
 		"fullCode":"230826104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"悦来镇",
 		"parentCode":"230826"
 	},
@@ -27,7 +27,7 @@
 		"code":"230826105",
 		"fullCode":"230826105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城镇",
 		"parentCode":"230826"
 	},
@@ -35,7 +35,7 @@
 		"code":"230826106",
 		"fullCode":"230826106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四马架镇",
 		"parentCode":"230826"
 	},
@@ -43,7 +43,7 @@
 		"code":"230826201",
 		"fullCode":"230826201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东河乡",
 		"parentCode":"230826"
 	},
@@ -51,7 +51,7 @@
 		"code":"230826202",
 		"fullCode":"230826202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨丰乡",
 		"parentCode":"230826"
 	},
@@ -59,7 +59,7 @@
 		"code":"230826205",
 		"fullCode":"230826205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"创业乡",
 		"parentCode":"230826"
 	},
@@ -67,7 +67,7 @@
 		"code":"230826207",
 		"fullCode":"230826207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星火乡",
 		"parentCode":"230826"
 	},
@@ -75,7 +75,7 @@
 		"code":"230826500",
 		"fullCode":"230826500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江川农场",
 		"parentCode":"230826"
 	},
@@ -83,7 +83,7 @@
 		"code":"230826501",
 		"fullCode":"230826501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝山农场",
 		"parentCode":"230826"
 	}

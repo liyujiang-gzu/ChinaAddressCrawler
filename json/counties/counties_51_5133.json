@@ -3,7 +3,7 @@
 		"code":"513301",
 		"fullCode":"513301000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"康定市",
 		"parentCode":"5133"
 	},
@@ -11,7 +11,7 @@
 		"code":"513322",
 		"fullCode":"513322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泸定县",
 		"parentCode":"5133"
 	},
@@ -19,7 +19,7 @@
 		"code":"513323",
 		"fullCode":"513323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丹巴县",
 		"parentCode":"5133"
 	},
@@ -27,7 +27,7 @@
 		"code":"513324",
 		"fullCode":"513324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"九龙县",
 		"parentCode":"5133"
 	},
@@ -35,7 +35,7 @@
 		"code":"513325",
 		"fullCode":"513325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"雅江县",
 		"parentCode":"5133"
 	},
@@ -43,7 +43,7 @@
 		"code":"513326",
 		"fullCode":"513326000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"道孚县",
 		"parentCode":"5133"
 	},
@@ -51,7 +51,7 @@
 		"code":"513327",
 		"fullCode":"513327000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"炉霍县",
 		"parentCode":"5133"
 	},
@@ -59,7 +59,7 @@
 		"code":"513328",
 		"fullCode":"513328000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"甘孜县",
 		"parentCode":"5133"
 	},
@@ -67,7 +67,7 @@
 		"code":"513329",
 		"fullCode":"513329000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新龙县",
 		"parentCode":"5133"
 	},
@@ -75,7 +75,7 @@
 		"code":"513330",
 		"fullCode":"513330000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德格县",
 		"parentCode":"5133"
 	},
@@ -83,7 +83,7 @@
 		"code":"513331",
 		"fullCode":"513331000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"白玉县",
 		"parentCode":"5133"
 	},
@@ -91,7 +91,7 @@
 		"code":"513332",
 		"fullCode":"513332000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石渠县",
 		"parentCode":"5133"
 	},
@@ -99,7 +99,7 @@
 		"code":"513333",
 		"fullCode":"513333000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"色达县",
 		"parentCode":"5133"
 	},
@@ -107,7 +107,7 @@
 		"code":"513334",
 		"fullCode":"513334000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"理塘县",
 		"parentCode":"5133"
 	},
@@ -115,7 +115,7 @@
 		"code":"513335",
 		"fullCode":"513335000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巴塘县",
 		"parentCode":"5133"
 	},
@@ -123,7 +123,7 @@
 		"code":"513336",
 		"fullCode":"513336000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乡城县",
 		"parentCode":"5133"
 	},
@@ -131,7 +131,7 @@
 		"code":"513337",
 		"fullCode":"513337000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"稻城县",
 		"parentCode":"5133"
 	},
@@ -139,7 +139,7 @@
 		"code":"513338",
 		"fullCode":"513338000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"得荣县",
 		"parentCode":"5133"
 	}

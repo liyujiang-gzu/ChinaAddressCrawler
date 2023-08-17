@@ -3,7 +3,7 @@
 		"code":"341202001",
 		"fullCode":"341202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼓楼街道",
 		"parentCode":"341202"
 	},
@@ -11,7 +11,7 @@
 		"code":"341202002",
 		"fullCode":"341202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰街道",
 		"parentCode":"341202"
 	},
@@ -19,7 +19,7 @@
 		"code":"341202003",
 		"fullCode":"341202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河街道",
 		"parentCode":"341202"
 	},
@@ -27,7 +27,7 @@
 		"code":"341202004",
 		"fullCode":"341202004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"颍西街道",
 		"parentCode":"341202"
 	},
@@ -35,7 +35,7 @@
 		"code":"341202100",
 		"fullCode":"341202100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王店镇",
 		"parentCode":"341202"
 	},
@@ -43,7 +43,7 @@
 		"code":"341202101",
 		"fullCode":"341202101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程集镇",
 		"parentCode":"341202"
 	},
@@ -51,7 +51,7 @@
 		"code":"341202102",
 		"fullCode":"341202102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三合镇",
 		"parentCode":"341202"
 	},
@@ -59,7 +59,7 @@
 		"code":"341202103",
 		"fullCode":"341202103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖镇",
 		"parentCode":"341202"
 	},
@@ -67,7 +67,7 @@
 		"code":"341202104",
 		"fullCode":"341202104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙镇",
 		"parentCode":"341202"
 	},
@@ -75,7 +75,7 @@
 		"code":"341202105",
 		"fullCode":"341202105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三十里铺镇",
 		"parentCode":"341202"
 	},
@@ -83,7 +83,7 @@
 		"code":"341202106",
 		"fullCode":"341202106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三塔集镇",
 		"parentCode":"341202"
 	},
@@ -91,7 +91,7 @@
 		"code":"341202200",
 		"fullCode":"341202200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马寨乡",
 		"parentCode":"341202"
 	},
@@ -99,7 +99,7 @@
 		"code":"341202400",
 		"fullCode":"341202400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽颍州经济开发区",
 		"parentCode":"341202"
 	}

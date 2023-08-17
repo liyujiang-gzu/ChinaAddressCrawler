@@ -3,7 +3,7 @@
 		"code":"620724100",
 		"fullCode":"620724100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"620724"
 	},
@@ -11,7 +11,7 @@
 		"code":"620724101",
 		"fullCode":"620724101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宣化镇",
 		"parentCode":"620724"
 	},
@@ -19,7 +19,7 @@
 		"code":"620724102",
 		"fullCode":"620724102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南华镇",
 		"parentCode":"620724"
 	},
@@ -27,7 +27,7 @@
 		"code":"620724103",
 		"fullCode":"620724103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巷道镇",
 		"parentCode":"620724"
 	},
@@ -35,7 +35,7 @@
 		"code":"620724104",
 		"fullCode":"620724104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合黎镇",
 		"parentCode":"620724"
 	},
@@ -43,7 +43,7 @@
 		"code":"620724105",
 		"fullCode":"620724105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骆驼城镇",
 		"parentCode":"620724"
 	},
@@ -51,7 +51,7 @@
 		"code":"620724106",
 		"fullCode":"620724106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新坝镇",
 		"parentCode":"620724"
 	},
@@ -59,7 +59,7 @@
 		"code":"620724107",
 		"fullCode":"620724107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑泉镇",
 		"parentCode":"620724"
 	},
@@ -67,7 +67,7 @@
 		"code":"620724108",
 		"fullCode":"620724108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗城镇",
 		"parentCode":"620724"
 	},
@@ -75,7 +75,7 @@
 		"code":"620724400",
 		"fullCode":"620724400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘肃高台工业园区",
 		"parentCode":"620724"
 	}

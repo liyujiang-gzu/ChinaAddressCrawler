@@ -3,7 +3,7 @@
 		"code":"610431001",
 		"fullCode":"610431001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普集街道",
 		"parentCode":"610431"
 	},
@@ -11,7 +11,7 @@
 		"code":"610431101",
 		"fullCode":"610431101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏坊镇",
 		"parentCode":"610431"
 	},
@@ -19,7 +19,7 @@
 		"code":"610431102",
 		"fullCode":"610431102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武功镇",
 		"parentCode":"610431"
 	},
@@ -27,7 +27,7 @@
 		"code":"610431103",
 		"fullCode":"610431103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"游凤镇",
 		"parentCode":"610431"
 	},
@@ -35,7 +35,7 @@
 		"code":"610431104",
 		"fullCode":"610431104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贞元镇",
 		"parentCode":"610431"
 	},
@@ -43,7 +43,7 @@
 		"code":"610431105",
 		"fullCode":"610431105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长宁镇",
 		"parentCode":"610431"
 	},
@@ -51,7 +51,7 @@
 		"code":"610431106",
 		"fullCode":"610431106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小村镇",
 		"parentCode":"610431"
 	},
@@ -59,7 +59,7 @@
 		"code":"610431107",
 		"fullCode":"610431107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庄镇",
 		"parentCode":"610431"
 	}

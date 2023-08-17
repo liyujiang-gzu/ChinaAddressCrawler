@@ -3,7 +3,7 @@
 		"code":"310105001",
 		"fullCode":"310105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华阳路街道",
 		"parentCode":"310105"
 	},
@@ -11,7 +11,7 @@
 		"code":"310105002",
 		"fullCode":"310105002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江苏路街道",
 		"parentCode":"310105"
 	},
@@ -19,7 +19,7 @@
 		"code":"310105004",
 		"fullCode":"310105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华路街道",
 		"parentCode":"310105"
 	},
@@ -27,7 +27,7 @@
 		"code":"310105005",
 		"fullCode":"310105005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周家桥街道",
 		"parentCode":"310105"
 	},
@@ -35,7 +35,7 @@
 		"code":"310105006",
 		"fullCode":"310105006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天山路街道",
 		"parentCode":"310105"
 	},
@@ -43,7 +43,7 @@
 		"code":"310105008",
 		"fullCode":"310105008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙霞新村街道",
 		"parentCode":"310105"
 	},
@@ -51,7 +51,7 @@
 		"code":"310105009",
 		"fullCode":"310105009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虹桥街道",
 		"parentCode":"310105"
 	},
@@ -59,7 +59,7 @@
 		"code":"310105010",
 		"fullCode":"310105010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程家桥街道",
 		"parentCode":"310105"
 	},
@@ -67,7 +67,7 @@
 		"code":"310105011",
 		"fullCode":"310105011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北新泾街道",
 		"parentCode":"310105"
 	},
@@ -75,7 +75,7 @@
 		"code":"310105102",
 		"fullCode":"310105102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新泾镇",
 		"parentCode":"310105"
 	}

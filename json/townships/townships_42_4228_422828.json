@@ -3,7 +3,7 @@
 		"code":"422828100",
 		"fullCode":"422828100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"走马镇",
 		"parentCode":"422828"
 	},
@@ -11,7 +11,7 @@
 		"code":"422828101",
 		"fullCode":"422828101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"容美镇",
 		"parentCode":"422828"
 	},
@@ -19,7 +19,7 @@
 		"code":"422828102",
 		"fullCode":"422828102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"422828"
 	},
@@ -27,7 +27,7 @@
 		"code":"422828103",
 		"fullCode":"422828103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕子镇",
 		"parentCode":"422828"
 	},
@@ -35,7 +35,7 @@
 		"code":"422828104",
 		"fullCode":"422828104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中营镇",
 		"parentCode":"422828"
 	},
@@ -43,7 +43,7 @@
 		"code":"422828200",
 		"fullCode":"422828200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁炉乡",
 		"parentCode":"422828"
 	},
@@ -51,7 +51,7 @@
 		"code":"422828201",
 		"fullCode":"422828201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里乡",
 		"parentCode":"422828"
 	},
@@ -59,7 +59,7 @@
 		"code":"422828203",
 		"fullCode":"422828203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下坪乡",
 		"parentCode":"422828"
 	},
@@ -67,7 +67,7 @@
 		"code":"422828204",
 		"fullCode":"422828204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邬阳乡",
 		"parentCode":"422828"
 	}

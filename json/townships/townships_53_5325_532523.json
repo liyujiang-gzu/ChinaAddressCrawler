@@ -3,7 +3,7 @@
 		"code":"532523101",
 		"fullCode":"532523101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉屏镇",
 		"parentCode":"532523"
 	},
@@ -11,7 +11,7 @@
 		"code":"532523102",
 		"fullCode":"532523102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新现镇",
 		"parentCode":"532523"
 	},
@@ -19,7 +19,7 @@
 		"code":"532523103",
 		"fullCode":"532523103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平镇",
 		"parentCode":"532523"
 	},
@@ -27,7 +27,7 @@
 		"code":"532523104",
 		"fullCode":"532523104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白河镇",
 		"parentCode":"532523"
 	},
@@ -35,7 +35,7 @@
 		"code":"532523204",
 		"fullCode":"532523204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白云乡",
 		"parentCode":"532523"
 	},
@@ -43,7 +43,7 @@
 		"code":"532523205",
 		"fullCode":"532523205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华乡",
 		"parentCode":"532523"
 	},
@@ -51,7 +51,7 @@
 		"code":"532523206",
 		"fullCode":"532523206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾塘乡",
 		"parentCode":"532523"
 	}

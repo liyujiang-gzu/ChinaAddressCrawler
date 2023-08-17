@@ -3,7 +3,7 @@
 		"code":"150703001",
 		"fullCode":"150703001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第三街道",
 		"parentCode":"150703"
 	},
@@ -11,7 +11,7 @@
 		"code":"150703002",
 		"fullCode":"150703002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第一街道",
 		"parentCode":"150703"
 	},
@@ -19,7 +19,7 @@
 		"code":"150703003",
 		"fullCode":"150703003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第二街道",
 		"parentCode":"150703"
 	},
@@ -27,7 +27,7 @@
 		"code":"150703004",
 		"fullCode":"150703004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第四街道",
 		"parentCode":"150703"
 	},
@@ -35,7 +35,7 @@
 		"code":"150703005",
 		"fullCode":"150703005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第五街道",
 		"parentCode":"150703"
 	},
@@ -43,7 +43,7 @@
 		"code":"150703100",
 		"fullCode":"150703100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵泉镇",
 		"parentCode":"150703"
 	}

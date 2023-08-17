@@ -3,7 +3,7 @@
 		"code":"360404001",
 		"fullCode":"360404001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河街道",
 		"parentCode":"360404"
 	},
@@ -11,7 +11,7 @@
 		"code":"360404002",
 		"fullCode":"360404002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮子街道",
 		"parentCode":"360404"
 	},
@@ -19,7 +19,7 @@
 		"code":"360404003",
 		"fullCode":"360404003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城门街道",
 		"parentCode":"360404"
 	},
@@ -27,7 +27,7 @@
 		"code":"360404101",
 		"fullCode":"360404101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马回岭镇",
 		"parentCode":"360404"
 	},
@@ -35,7 +35,7 @@
 		"code":"360404102",
 		"fullCode":"360404102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江洲镇",
 		"parentCode":"360404"
 	},
@@ -43,7 +43,7 @@
 		"code":"360404103",
 		"fullCode":"360404103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城子镇",
 		"parentCode":"360404"
 	},
@@ -51,7 +51,7 @@
 		"code":"360404104",
 		"fullCode":"360404104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港口街镇",
 		"parentCode":"360404"
 	},
@@ -59,7 +59,7 @@
 		"code":"360404105",
 		"fullCode":"360404105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新合镇",
 		"parentCode":"360404"
 	},
@@ -67,7 +67,7 @@
 		"code":"360404200",
 		"fullCode":"360404200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安乡",
 		"parentCode":"360404"
 	},
@@ -75,7 +75,7 @@
 		"code":"360404201",
 		"fullCode":"360404201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涌泉乡",
 		"parentCode":"360404"
 	},
@@ -83,7 +83,7 @@
 		"code":"360404202",
 		"fullCode":"360404202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新塘乡",
 		"parentCode":"360404"
 	},
@@ -91,7 +91,7 @@
 		"code":"360404204",
 		"fullCode":"360404204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岷山乡",
 		"parentCode":"360404"
 	},
@@ -99,7 +99,7 @@
 		"code":"360404403",
 		"fullCode":"360404403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河经济技术开发区",
 		"parentCode":"360404"
 	},
@@ -107,7 +107,7 @@
 		"code":"360404501",
 		"fullCode":"360404501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新洲垦殖场",
 		"parentCode":"360404"
 	},
@@ -115,7 +115,7 @@
 		"code":"360404502",
 		"fullCode":"360404502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛城湖水产场",
 		"parentCode":"360404"
 	},
@@ -123,7 +123,7 @@
 		"code":"360404503",
 		"fullCode":"360404503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岷山林场",
 		"parentCode":"360404"
 	}

@@ -3,7 +3,7 @@
 		"code":"532531101",
 		"fullCode":"532531101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴镇",
 		"parentCode":"532531"
 	},
@@ -11,7 +11,7 @@
 		"code":"532531102",
 		"fullCode":"532531102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛孔镇",
 		"parentCode":"532531"
 	},
@@ -19,7 +19,7 @@
 		"code":"532531103",
 		"fullCode":"532531103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大黑山镇",
 		"parentCode":"532531"
 	},
@@ -27,7 +27,7 @@
 		"code":"532531104",
 		"fullCode":"532531104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平河镇",
 		"parentCode":"532531"
 	},
@@ -35,7 +35,7 @@
 		"code":"532531201",
 		"fullCode":"532531201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戈奎乡",
 		"parentCode":"532531"
 	},
@@ -43,7 +43,7 @@
 		"code":"532531203",
 		"fullCode":"532531203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大水沟乡",
 		"parentCode":"532531"
 	},
@@ -51,7 +51,7 @@
 		"code":"532531205",
 		"fullCode":"532531205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半坡乡",
 		"parentCode":"532531"
 	},
@@ -59,7 +59,7 @@
 		"code":"532531206",
 		"fullCode":"532531206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骑马坝乡",
 		"parentCode":"532531"
 	},
@@ -67,7 +67,7 @@
 		"code":"532531207",
 		"fullCode":"532531207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三猛乡",
 		"parentCode":"532531"
 	}

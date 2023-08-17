@@ -3,7 +3,7 @@
 		"code":"210112009",
 		"fullCode":"210112009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖街道",
 		"parentCode":"210112"
 	},
@@ -11,7 +11,7 @@
 		"code":"210112010",
 		"fullCode":"210112010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五三街道",
 		"parentCode":"210112"
 	},
@@ -19,7 +19,7 @@
 		"code":"210112012",
 		"fullCode":"210112012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浑河站东街道",
 		"parentCode":"210112"
 	},
@@ -27,7 +27,7 @@
 		"code":"210112014",
 		"fullCode":"210112014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坎街道",
 		"parentCode":"210112"
 	},
@@ -35,7 +35,7 @@
 		"code":"210112015",
 		"fullCode":"210112015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满堂街道",
 		"parentCode":"210112"
 	},
@@ -43,7 +43,7 @@
 		"code":"210112016",
 		"fullCode":"210112016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"深井子街道",
 		"parentCode":"210112"
 	},
@@ -51,7 +51,7 @@
 		"code":"210112017",
 		"fullCode":"210112017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祝家街道",
 		"parentCode":"210112"
 	},
@@ -59,7 +59,7 @@
 		"code":"210112018",
 		"fullCode":"210112018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔街道",
 		"parentCode":"210112"
 	},
@@ -67,7 +67,7 @@
 		"code":"210112019",
 		"fullCode":"210112019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃仙街道",
 		"parentCode":"210112"
 	},
@@ -75,7 +75,7 @@
 		"code":"210112020",
 		"fullCode":"210112020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李相街道",
 		"parentCode":"210112"
 	},
@@ -83,7 +83,7 @@
 		"code":"210112022",
 		"fullCode":"210112022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪家街道",
 		"parentCode":"210112"
 	},
@@ -91,7 +91,7 @@
 		"code":"210112023",
 		"fullCode":"210112023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王滨街道",
 		"parentCode":"210112"
 	}

@@ -3,7 +3,7 @@
 		"code":"451321100",
 		"fullCode":"451321100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"451321"
 	},
@@ -11,7 +11,7 @@
 		"code":"451321101",
 		"fullCode":"451321101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大塘镇",
 		"parentCode":"451321"
 	},
@@ -19,7 +19,7 @@
 		"code":"451321102",
 		"fullCode":"451321102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思练镇",
 		"parentCode":"451321"
 	},
@@ -27,7 +27,7 @@
 		"code":"451321103",
 		"fullCode":"451321103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红渡镇",
 		"parentCode":"451321"
 	},
@@ -35,7 +35,7 @@
 		"code":"451321104",
 		"fullCode":"451321104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古蓬镇",
 		"parentCode":"451321"
 	},
@@ -43,7 +43,7 @@
 		"code":"451321105",
 		"fullCode":"451321105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"果遂镇",
 		"parentCode":"451321"
 	},
@@ -51,7 +51,7 @@
 		"code":"451321201",
 		"fullCode":"451321201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马泗乡",
 		"parentCode":"451321"
 	},
@@ -59,7 +59,7 @@
 		"code":"451321202",
 		"fullCode":"451321202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欧洞乡",
 		"parentCode":"451321"
 	},
@@ -67,7 +67,7 @@
 		"code":"451321203",
 		"fullCode":"451321203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安东乡",
 		"parentCode":"451321"
 	},
@@ -75,7 +75,7 @@
 		"code":"451321205",
 		"fullCode":"451321205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新圩乡",
 		"parentCode":"451321"
 	},
@@ -83,7 +83,7 @@
 		"code":"451321206",
 		"fullCode":"451321206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遂意乡",
 		"parentCode":"451321"
 	},
@@ -91,7 +91,7 @@
 		"code":"451321207",
 		"fullCode":"451321207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北更乡",
 		"parentCode":"451321"
 	}

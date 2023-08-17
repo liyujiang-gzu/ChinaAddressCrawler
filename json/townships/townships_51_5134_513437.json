@@ -3,7 +3,7 @@
 		"code":"513437100",
 		"fullCode":"513437100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦城镇",
 		"parentCode":"513437"
 	},
@@ -11,7 +11,7 @@
 		"code":"513437101",
 		"fullCode":"513437101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西宁镇",
 		"parentCode":"513437"
 	},
@@ -19,7 +19,7 @@
 		"code":"513437102",
 		"fullCode":"513437102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汶水镇",
 		"parentCode":"513437"
 	},
@@ -27,7 +27,7 @@
 		"code":"513437103",
 		"fullCode":"513437103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄琅镇",
 		"parentCode":"513437"
 	},
@@ -35,7 +35,7 @@
 		"code":"513437104",
 		"fullCode":"513437104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙镇",
 		"parentCode":"513437"
 	},
@@ -43,7 +43,7 @@
 		"code":"513437105",
 		"fullCode":"513437105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永盛镇",
 		"parentCode":"513437"
 	},
@@ -51,7 +51,7 @@
 		"code":"513437106",
 		"fullCode":"513437106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渡口镇",
 		"parentCode":"513437"
 	},
@@ -59,7 +59,7 @@
 		"code":"513437107",
 		"fullCode":"513437107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马颈子镇",
 		"parentCode":"513437"
 	},
@@ -67,7 +67,7 @@
 		"code":"513437108",
 		"fullCode":"513437108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上田坝镇",
 		"parentCode":"513437"
 	},
@@ -75,7 +75,7 @@
 		"code":"513437109",
 		"fullCode":"513437109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦岗镇",
 		"parentCode":"513437"
 	},
@@ -83,7 +83,7 @@
 		"code":"513437110",
 		"fullCode":"513437110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝山镇",
 		"parentCode":"513437"
 	},
@@ -91,7 +91,7 @@
 		"code":"513437203",
 		"fullCode":"513437203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"箐口乡",
 		"parentCode":"513437"
 	},
@@ -99,7 +99,7 @@
 		"code":"513437214",
 		"fullCode":"513437214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柑子乡",
 		"parentCode":"513437"
 	},
@@ -107,7 +107,7 @@
 		"code":"513437217",
 		"fullCode":"513437217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂花乡",
 		"parentCode":"513437"
 	},
@@ -115,7 +115,7 @@
 		"code":"513437220",
 		"fullCode":"513437220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山棱岗乡",
 		"parentCode":"513437"
 	},
@@ -123,7 +123,7 @@
 		"code":"513437222",
 		"fullCode":"513437222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷堆乡",
 		"parentCode":"513437"
 	},
@@ -131,7 +131,7 @@
 		"code":"513437224",
 		"fullCode":"513437224000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉咪乡",
 		"parentCode":"513437"
 	},
@@ -139,7 +139,7 @@
 		"code":"513437227",
 		"fullCode":"513437227000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千万贯乡",
 		"parentCode":"513437"
 	},
@@ -147,7 +147,7 @@
 		"code":"513437233",
 		"fullCode":"513437233000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫红乡",
 		"parentCode":"513437"
 	},
@@ -155,7 +155,7 @@
 		"code":"513437237",
 		"fullCode":"513437237000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴姑乡",
 		"parentCode":"513437"
 	},
@@ -163,7 +163,7 @@
 		"code":"513437241",
 		"fullCode":"513437241000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡哈洛乡",
 		"parentCode":"513437"
 	}

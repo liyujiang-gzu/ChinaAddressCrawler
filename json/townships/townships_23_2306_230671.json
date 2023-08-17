@@ -3,7 +3,7 @@
 		"code":"230671010",
 		"fullCode":"230671010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开发区黎明街道",
 		"parentCode":"230671"
 	},
@@ -11,7 +11,7 @@
 		"code":"230671580",
 		"fullCode":"230671580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高新区农场",
 		"parentCode":"230671"
 	}

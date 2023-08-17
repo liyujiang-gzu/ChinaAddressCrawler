@@ -3,7 +3,7 @@
 		"code":"610202",
 		"fullCode":"610202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"王益区",
 		"parentCode":"6102"
 	},
@@ -11,7 +11,7 @@
 		"code":"610203",
 		"fullCode":"610203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"印台区",
 		"parentCode":"6102"
 	},
@@ -19,7 +19,7 @@
 		"code":"610204",
 		"fullCode":"610204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"耀州区",
 		"parentCode":"6102"
 	},
@@ -27,7 +27,7 @@
 		"code":"610222",
 		"fullCode":"610222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宜君县",
 		"parentCode":"6102"
 	}

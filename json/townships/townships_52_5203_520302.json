@@ -3,7 +3,7 @@
 		"code":"520302001",
 		"fullCode":"520302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老城街道",
 		"parentCode":"520302"
 	},
@@ -11,7 +11,7 @@
 		"code":"520302002",
 		"fullCode":"520302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万里路街道",
 		"parentCode":"520302"
 	},
@@ -19,7 +19,7 @@
 		"code":"520302003",
 		"fullCode":"520302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华路街道",
 		"parentCode":"520302"
 	},
@@ -27,7 +27,7 @@
 		"code":"520302004",
 		"fullCode":"520302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎红街道",
 		"parentCode":"520302"
 	},
@@ -35,7 +35,7 @@
 		"code":"520302005",
 		"fullCode":"520302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延安路街道",
 		"parentCode":"520302"
 	},
@@ -43,7 +43,7 @@
 		"code":"520302006",
 		"fullCode":"520302006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舟水桥街道",
 		"parentCode":"520302"
 	},
@@ -51,7 +51,7 @@
 		"code":"520302007",
 		"fullCode":"520302007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山路街道",
 		"parentCode":"520302"
 	},
@@ -59,7 +59,7 @@
 		"code":"520302008",
 		"fullCode":"520302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北京路街道",
 		"parentCode":"520302"
 	},
@@ -67,7 +67,7 @@
 		"code":"520302009",
 		"fullCode":"520302009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长征街道",
 		"parentCode":"520302"
 	},
@@ -75,7 +75,7 @@
 		"code":"520302010",
 		"fullCode":"520302010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"礼仪街道",
 		"parentCode":"520302"
 	},
@@ -83,7 +83,7 @@
 		"code":"520302011",
 		"fullCode":"520302011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南关街道",
 		"parentCode":"520302"
 	},
@@ -91,7 +91,7 @@
 		"code":"520302012",
 		"fullCode":"520302012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忠庄街道",
 		"parentCode":"520302"
 	},
@@ -99,7 +99,7 @@
 		"code":"520302013",
 		"fullCode":"520302013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新蒲街道",
 		"parentCode":"520302"
 	},
@@ -107,7 +107,7 @@
 		"code":"520302014",
 		"fullCode":"520302014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新中街道",
 		"parentCode":"520302"
 	},
@@ -115,7 +115,7 @@
 		"code":"520302101",
 		"fullCode":"520302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巷口镇",
 		"parentCode":"520302"
 	},
@@ -123,7 +123,7 @@
 		"code":"520302104",
 		"fullCode":"520302104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海龙镇",
 		"parentCode":"520302"
 	},
@@ -131,7 +131,7 @@
 		"code":"520302105",
 		"fullCode":"520302105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"深溪镇",
 		"parentCode":"520302"
 	},
@@ -139,7 +139,7 @@
 		"code":"520302106",
 		"fullCode":"520302106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金鼎山镇",
 		"parentCode":"520302"
 	},
@@ -147,7 +147,7 @@
 		"code":"520302108",
 		"fullCode":"520302108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新舟镇",
 		"parentCode":"520302"
 	},
@@ -155,7 +155,7 @@
 		"code":"520302109",
 		"fullCode":"520302109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虾子镇",
 		"parentCode":"520302"
 	},
@@ -163,7 +163,7 @@
 		"code":"520302110",
 		"fullCode":"520302110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三渡镇",
 		"parentCode":"520302"
 	},
@@ -171,7 +171,7 @@
 		"code":"520302111",
 		"fullCode":"520302111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乐镇",
 		"parentCode":"520302"
 	},
@@ -179,7 +179,7 @@
 		"code":"520302112",
 		"fullCode":"520302112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喇叭镇",
 		"parentCode":"520302"
 	}

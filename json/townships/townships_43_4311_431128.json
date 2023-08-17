@@ -3,7 +3,7 @@
 		"code":"431128001",
 		"fullCode":"431128001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉街道",
 		"parentCode":"431128"
 	},
@@ -11,7 +11,7 @@
 		"code":"431128002",
 		"fullCode":"431128002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山街道",
 		"parentCode":"431128"
 	},
@@ -19,7 +19,7 @@
 		"code":"431128101",
 		"fullCode":"431128101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金陵镇",
 		"parentCode":"431128"
 	},
@@ -27,7 +27,7 @@
 		"code":"431128102",
 		"fullCode":"431128102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骥村镇",
 		"parentCode":"431128"
 	},
@@ -35,7 +35,7 @@
 		"code":"431128103",
 		"fullCode":"431128103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枧头镇",
 		"parentCode":"431128"
 	},
@@ -43,7 +43,7 @@
 		"code":"431128104",
 		"fullCode":"431128104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新圩镇",
 		"parentCode":"431128"
 	},
@@ -51,7 +51,7 @@
 		"code":"431128105",
 		"fullCode":"431128105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石羊镇",
 		"parentCode":"431128"
 	},
@@ -59,7 +59,7 @@
 		"code":"431128106",
 		"fullCode":"431128106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新隆镇",
 		"parentCode":"431128"
 	},
@@ -67,7 +67,7 @@
 		"code":"431128107",
 		"fullCode":"431128107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三井镇",
 		"parentCode":"431128"
 	},
@@ -75,7 +75,7 @@
 		"code":"431128108",
 		"fullCode":"431128108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坪塘镇",
 		"parentCode":"431128"
 	},
@@ -83,7 +83,7 @@
 		"code":"431128109",
 		"fullCode":"431128109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶岭镇",
 		"parentCode":"431128"
 	},
@@ -91,7 +91,7 @@
 		"code":"431128110",
 		"fullCode":"431128110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金盆镇",
 		"parentCode":"431128"
 	},
@@ -99,7 +99,7 @@
 		"code":"431128202",
 		"fullCode":"431128202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门楼下瑶族乡",
 		"parentCode":"431128"
 	}

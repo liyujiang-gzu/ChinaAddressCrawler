@@ -3,7 +3,7 @@
 		"code":"141128100",
 		"fullCode":"141128100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圪洞镇",
 		"parentCode":"141128"
 	},
@@ -11,7 +11,7 @@
 		"code":"141128101",
 		"fullCode":"141128101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坊镇",
 		"parentCode":"141128"
 	},
@@ -19,7 +19,7 @@
 		"code":"141128102",
 		"fullCode":"141128102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峪口镇",
 		"parentCode":"141128"
 	},
@@ -27,7 +27,7 @@
 		"code":"141128103",
 		"fullCode":"141128103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大武镇",
 		"parentCode":"141128"
 	},
@@ -35,7 +35,7 @@
 		"code":"141128104",
 		"fullCode":"141128104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北武当镇",
 		"parentCode":"141128"
 	},
@@ -43,7 +43,7 @@
 		"code":"141128105",
 		"fullCode":"141128105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"积翠镇",
 		"parentCode":"141128"
 	}

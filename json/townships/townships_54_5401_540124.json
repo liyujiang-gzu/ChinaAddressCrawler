@@ -3,7 +3,7 @@
 		"code":"540124100",
 		"fullCode":"540124100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲水镇",
 		"parentCode":"540124"
 	},
@@ -11,7 +11,7 @@
 		"code":"540124101",
 		"fullCode":"540124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达嘎镇",
 		"parentCode":"540124"
 	},
@@ -19,7 +19,7 @@
 		"code":"540124201",
 		"fullCode":"540124201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"才纳乡",
 		"parentCode":"540124"
 	},
@@ -27,7 +27,7 @@
 		"code":"540124202",
 		"fullCode":"540124202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南木乡",
 		"parentCode":"540124"
 	},
@@ -35,7 +35,7 @@
 		"code":"540124203",
 		"fullCode":"540124203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聂当乡",
 		"parentCode":"540124"
 	},
@@ -43,7 +43,7 @@
 		"code":"540124204",
 		"fullCode":"540124204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶巴拉乡",
 		"parentCode":"540124"
 	}

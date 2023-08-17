@@ -3,7 +3,7 @@
 		"code":"360981002",
 		"fullCode":"360981002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"剑光街道",
 		"parentCode":"360981"
 	},
@@ -11,7 +11,7 @@
 		"code":"360981006",
 		"fullCode":"360981006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河洲街道",
 		"parentCode":"360981"
 	},
@@ -19,7 +19,7 @@
 		"code":"360981007",
 		"fullCode":"360981007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"剑南街道",
 		"parentCode":"360981"
 	},
@@ -27,7 +27,7 @@
 		"code":"360981008",
 		"fullCode":"360981008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙渡街道",
 		"parentCode":"360981"
 	},
@@ -35,7 +35,7 @@
 		"code":"360981009",
 		"fullCode":"360981009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚庄街道",
 		"parentCode":"360981"
 	},
@@ -43,7 +43,7 @@
 		"code":"360981010",
 		"fullCode":"360981010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙津洲街道",
 		"parentCode":"360981"
 	},
@@ -51,7 +51,7 @@
 		"code":"360981101",
 		"fullCode":"360981101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白土镇",
 		"parentCode":"360981"
 	},
@@ -59,7 +59,7 @@
 		"code":"360981102",
 		"fullCode":"360981102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"袁渡镇",
 		"parentCode":"360981"
 	},
@@ -67,7 +67,7 @@
 		"code":"360981104",
 		"fullCode":"360981104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张巷镇",
 		"parentCode":"360981"
 	},
@@ -75,7 +75,7 @@
 		"code":"360981105",
 		"fullCode":"360981105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜市镇",
 		"parentCode":"360981"
 	},
@@ -83,7 +83,7 @@
 		"code":"360981106",
 		"fullCode":"360981106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淘沙镇",
 		"parentCode":"360981"
 	},
@@ -91,7 +91,7 @@
 		"code":"360981107",
 		"fullCode":"360981107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀市镇",
 		"parentCode":"360981"
 	},
@@ -99,7 +99,7 @@
 		"code":"360981109",
 		"fullCode":"360981109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛市镇",
 		"parentCode":"360981"
 	},
@@ -107,7 +107,7 @@
 		"code":"360981110",
 		"fullCode":"360981110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁路镇",
 		"parentCode":"360981"
 	},
@@ -115,7 +115,7 @@
 		"code":"360981111",
 		"fullCode":"360981111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丽村镇",
 		"parentCode":"360981"
 	},
@@ -123,7 +123,7 @@
 		"code":"360981115",
 		"fullCode":"360981115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董家镇",
 		"parentCode":"360981"
 	},
@@ -131,7 +131,7 @@
 		"code":"360981116",
 		"fullCode":"360981116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隍城镇",
 		"parentCode":"360981"
 	},
@@ -139,7 +139,7 @@
 		"code":"360981119",
 		"fullCode":"360981119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小港镇",
 		"parentCode":"360981"
 	},
@@ -147,7 +147,7 @@
 		"code":"360981120",
 		"fullCode":"360981120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石滩镇",
 		"parentCode":"360981"
 	},
@@ -155,7 +155,7 @@
 		"code":"360981121",
 		"fullCode":"360981121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥东镇",
 		"parentCode":"360981"
 	},
@@ -163,7 +163,7 @@
 		"code":"360981122",
 		"fullCode":"360981122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣塘镇",
 		"parentCode":"360981"
 	},
@@ -171,7 +171,7 @@
 		"code":"360981123",
 		"fullCode":"360981123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拖船镇",
 		"parentCode":"360981"
 	},
@@ -179,7 +179,7 @@
 		"code":"360981124",
 		"fullCode":"360981124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉港镇",
 		"parentCode":"360981"
 	},
@@ -187,7 +187,7 @@
 		"code":"360981125",
 		"fullCode":"360981125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅林镇",
 		"parentCode":"360981"
 	},
@@ -195,7 +195,7 @@
 		"code":"360981126",
 		"fullCode":"360981126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲江镇",
 		"parentCode":"360981"
 	},
@@ -203,7 +203,7 @@
 		"code":"360981127",
 		"fullCode":"360981127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上塘镇",
 		"parentCode":"360981"
 	},
@@ -211,7 +211,7 @@
 		"code":"360981201",
 		"fullCode":"360981201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"筱塘乡",
 		"parentCode":"360981"
 	},
@@ -219,7 +219,7 @@
 		"code":"360981202",
 		"fullCode":"360981202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段潭乡",
 		"parentCode":"360981"
 	},
@@ -227,7 +227,7 @@
 		"code":"360981203",
 		"fullCode":"360981203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蕉坑乡",
 		"parentCode":"360981"
 	},
@@ -235,7 +235,7 @@
 		"code":"360981204",
 		"fullCode":"360981204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石江乡",
 		"parentCode":"360981"
 	},
@@ -243,7 +243,7 @@
 		"code":"360981205",
 		"fullCode":"360981205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷湖乡",
 		"parentCode":"360981"
 	},
@@ -251,7 +251,7 @@
 		"code":"360981206",
 		"fullCode":"360981206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖塘乡",
 		"parentCode":"360981"
 	},
@@ -259,7 +259,7 @@
 		"code":"360981207",
 		"fullCode":"360981207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同田乡",
 		"parentCode":"360981"
 	},
@@ -267,7 +267,7 @@
 		"code":"360981402",
 		"fullCode":"360981402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜春丰城高新技术产业开发区",
 		"parentCode":"360981"
 	}

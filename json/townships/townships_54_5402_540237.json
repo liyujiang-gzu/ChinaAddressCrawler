@@ -3,7 +3,7 @@
 		"code":"540237100",
 		"fullCode":"540237100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗巴镇",
 		"parentCode":"540237"
 	},
@@ -11,7 +11,7 @@
 		"code":"540237200",
 		"fullCode":"540237200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌龙乡",
 		"parentCode":"540237"
 	},
@@ -19,7 +19,7 @@
 		"code":"540237201",
 		"fullCode":"540237201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"直克乡",
 		"parentCode":"540237"
 	},
@@ -27,7 +27,7 @@
 		"code":"540237202",
 		"fullCode":"540237202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔玛乡",
 		"parentCode":"540237"
 	},
@@ -35,7 +35,7 @@
 		"code":"540237203",
 		"fullCode":"540237203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙中乡",
 		"parentCode":"540237"
 	}

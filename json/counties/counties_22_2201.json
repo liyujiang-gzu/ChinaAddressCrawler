@@ -3,7 +3,7 @@
 		"code":"220102",
 		"fullCode":"220102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南关区",
 		"parentCode":"2201"
 	},
@@ -11,7 +11,7 @@
 		"code":"220103",
 		"fullCode":"220103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宽城区",
 		"parentCode":"2201"
 	},
@@ -19,7 +19,7 @@
 		"code":"220104",
 		"fullCode":"220104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"朝阳区",
 		"parentCode":"2201"
 	},
@@ -27,7 +27,7 @@
 		"code":"220105",
 		"fullCode":"220105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"二道区",
 		"parentCode":"2201"
 	},
@@ -35,7 +35,7 @@
 		"code":"220106",
 		"fullCode":"220106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"绿园区",
 		"parentCode":"2201"
 	},
@@ -43,7 +43,7 @@
 		"code":"220112",
 		"fullCode":"220112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"双阳区",
 		"parentCode":"2201"
 	},
@@ -51,7 +51,7 @@
 		"code":"220113",
 		"fullCode":"220113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"九台区",
 		"parentCode":"2201"
 	},
@@ -59,7 +59,7 @@
 		"code":"220122",
 		"fullCode":"220122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"农安县",
 		"parentCode":"2201"
 	},
@@ -67,7 +67,7 @@
 		"code":"220171",
 		"fullCode":"220171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长春经济技术开发区",
 		"parentCode":"2201"
 	},
@@ -75,7 +75,7 @@
 		"code":"220172",
 		"fullCode":"220172000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长春净月高新技术产业开发区",
 		"parentCode":"2201"
 	},
@@ -83,7 +83,7 @@
 		"code":"220173",
 		"fullCode":"220173000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长春高新技术产业开发区",
 		"parentCode":"2201"
 	},
@@ -91,7 +91,7 @@
 		"code":"220174",
 		"fullCode":"220174000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长春汽车经济技术开发区",
 		"parentCode":"2201"
 	},
@@ -99,7 +99,7 @@
 		"code":"220182",
 		"fullCode":"220182000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"榆树市",
 		"parentCode":"2201"
 	},
@@ -107,7 +107,7 @@
 		"code":"220183",
 		"fullCode":"220183000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德惠市",
 		"parentCode":"2201"
 	},
@@ -115,7 +115,7 @@
 		"code":"220184",
 		"fullCode":"220184000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"公主岭市",
 		"parentCode":"2201"
 	}

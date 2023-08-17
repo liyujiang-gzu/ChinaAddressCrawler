@@ -3,7 +3,7 @@
 		"code":"350581001",
 		"fullCode":"350581001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖滨街道",
 		"parentCode":"350581"
 	},
@@ -11,7 +11,7 @@
 		"code":"350581002",
 		"fullCode":"350581002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤里街道",
 		"parentCode":"350581"
 	},
@@ -19,7 +19,7 @@
 		"code":"350581100",
 		"fullCode":"350581100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵秀镇",
 		"parentCode":"350581"
 	},
@@ -27,7 +27,7 @@
 		"code":"350581101",
 		"fullCode":"350581101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝盖镇",
 		"parentCode":"350581"
 	},
@@ -35,7 +35,7 @@
 		"code":"350581102",
 		"fullCode":"350581102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蚶江镇",
 		"parentCode":"350581"
 	},
@@ -43,7 +43,7 @@
 		"code":"350581103",
 		"fullCode":"350581103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祥芝镇",
 		"parentCode":"350581"
 	},
@@ -51,7 +51,7 @@
 		"code":"350581104",
 		"fullCode":"350581104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸿山镇",
 		"parentCode":"350581"
 	},
@@ -59,7 +59,7 @@
 		"code":"350581105",
 		"fullCode":"350581105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦尚镇",
 		"parentCode":"350581"
 	},
@@ -67,7 +67,7 @@
 		"code":"350581106",
 		"fullCode":"350581106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁镇",
 		"parentCode":"350581"
 	}

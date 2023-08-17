@@ -3,7 +3,7 @@
 		"code":"440704001",
 		"fullCode":"440704001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江南街道",
 		"parentCode":"440704"
 	},
@@ -11,7 +11,7 @@
 		"code":"440704004",
 		"fullCode":"440704004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"外海街道",
 		"parentCode":"440704"
 	},
@@ -19,7 +19,7 @@
 		"code":"440704005",
 		"fullCode":"440704005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"礼乐街道",
 		"parentCode":"440704"
 	}

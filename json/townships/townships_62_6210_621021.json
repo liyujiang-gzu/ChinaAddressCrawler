@@ -3,7 +3,7 @@
 		"code":"621021100",
 		"fullCode":"621021100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆城镇",
 		"parentCode":"621021"
 	},
@@ -11,7 +11,7 @@
 		"code":"621021101",
 		"fullCode":"621021101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驿马镇",
 		"parentCode":"621021"
 	},
@@ -19,7 +19,7 @@
 		"code":"621021102",
 		"fullCode":"621021102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三十里铺镇",
 		"parentCode":"621021"
 	},
@@ -27,7 +27,7 @@
 		"code":"621021103",
 		"fullCode":"621021103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马岭镇",
 		"parentCode":"621021"
 	},
@@ -35,7 +35,7 @@
 		"code":"621021104",
 		"fullCode":"621021104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玄马镇",
 		"parentCode":"621021"
 	},
@@ -43,7 +43,7 @@
 		"code":"621021105",
 		"fullCode":"621021105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马铺镇",
 		"parentCode":"621021"
 	},
@@ -51,7 +51,7 @@
 		"code":"621021106",
 		"fullCode":"621021106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐川镇",
 		"parentCode":"621021"
 	},
@@ -59,7 +59,7 @@
 		"code":"621021107",
 		"fullCode":"621021107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤城镇",
 		"parentCode":"621021"
 	},
@@ -67,7 +67,7 @@
 		"code":"621021108",
 		"fullCode":"621021108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高楼镇",
 		"parentCode":"621021"
 	},
@@ -75,7 +75,7 @@
 		"code":"621021203",
 		"fullCode":"621021203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太白梁乡",
 		"parentCode":"621021"
 	},
@@ -83,7 +83,7 @@
 		"code":"621021204",
 		"fullCode":"621021204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土桥乡",
 		"parentCode":"621021"
 	},
@@ -91,7 +91,7 @@
 		"code":"621021205",
 		"fullCode":"621021205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡口集乡",
 		"parentCode":"621021"
 	},
@@ -99,7 +99,7 @@
 		"code":"621021207",
 		"fullCode":"621021207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南庄乡",
 		"parentCode":"621021"
 	},
@@ -107,7 +107,7 @@
 		"code":"621021208",
 		"fullCode":"621021208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翟家河乡",
 		"parentCode":"621021"
 	},
@@ -115,7 +115,7 @@
 		"code":"621021209",
 		"fullCode":"621021209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡家庙乡",
 		"parentCode":"621021"
 	}

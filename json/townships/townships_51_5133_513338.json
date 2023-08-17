@@ -3,7 +3,7 @@
 		"code":"513338101",
 		"fullCode":"513338101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦卡镇",
 		"parentCode":"513338"
 	},
@@ -11,7 +11,7 @@
 		"code":"513338102",
 		"fullCode":"513338102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白松镇",
 		"parentCode":"513338"
 	},
@@ -19,7 +19,7 @@
 		"code":"513338103",
 		"fullCode":"513338103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日雨镇",
 		"parentCode":"513338"
 	},
@@ -27,7 +27,7 @@
 		"code":"513338104",
 		"fullCode":"513338104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太阳谷镇",
 		"parentCode":"513338"
 	},
@@ -35,7 +35,7 @@
 		"code":"513338201",
 		"fullCode":"513338201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐龙乡",
 		"parentCode":"513338"
 	},
@@ -43,7 +43,7 @@
 		"code":"513338204",
 		"fullCode":"513338204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奔都乡",
 		"parentCode":"513338"
 	},
@@ -51,7 +51,7 @@
 		"code":"513338205",
 		"fullCode":"513338205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八日乡",
 		"parentCode":"513338"
 	},
@@ -59,7 +59,7 @@
 		"code":"513338206",
 		"fullCode":"513338206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古学乡",
 		"parentCode":"513338"
 	},
@@ -67,7 +67,7 @@
 		"code":"513338208",
 		"fullCode":"513338208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贡波乡",
 		"parentCode":"513338"
 	},
@@ -75,7 +75,7 @@
 		"code":"513338210",
 		"fullCode":"513338210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨巫乡",
 		"parentCode":"513338"
 	}

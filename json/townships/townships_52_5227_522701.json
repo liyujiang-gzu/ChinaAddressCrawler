@@ -3,7 +3,7 @@
 		"code":"522701001",
 		"fullCode":"522701001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广惠街道",
 		"parentCode":"522701"
 	},
@@ -11,7 +11,7 @@
 		"code":"522701002",
 		"fullCode":"522701002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰街道",
 		"parentCode":"522701"
 	},
@@ -19,7 +19,7 @@
 		"code":"522701004",
 		"fullCode":"522701004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小围寨街道",
 		"parentCode":"522701"
 	},
@@ -27,7 +27,7 @@
 		"code":"522701005",
 		"fullCode":"522701005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙包堡街道",
 		"parentCode":"522701"
 	},
@@ -35,7 +35,7 @@
 		"code":"522701006",
 		"fullCode":"522701006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绿茵湖街道",
 		"parentCode":"522701"
 	},
@@ -43,7 +43,7 @@
 		"code":"522701106",
 		"fullCode":"522701106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墨冲镇",
 		"parentCode":"522701"
 	},
@@ -51,7 +51,7 @@
 		"code":"522701107",
 		"fullCode":"522701107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平浪镇",
 		"parentCode":"522701"
 	},
@@ -59,7 +59,7 @@
 		"code":"522701110",
 		"fullCode":"522701110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛尖镇",
 		"parentCode":"522701"
 	},
@@ -67,7 +67,7 @@
 		"code":"522701111",
 		"fullCode":"522701111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"匀东镇",
 		"parentCode":"522701"
 	},
@@ -75,7 +75,7 @@
 		"code":"522701208",
 		"fullCode":"522701208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"归兰水族乡",
 		"parentCode":"522701"
 	}

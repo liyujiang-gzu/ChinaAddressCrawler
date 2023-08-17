@@ -3,7 +3,7 @@
 		"code":"610681001",
 		"fullCode":"610681001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦窑堡街道",
 		"parentCode":"610681"
 	},
@@ -11,7 +11,7 @@
 		"code":"610681002",
 		"fullCode":"610681002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀延街道",
 		"parentCode":"610681"
 	},
@@ -19,7 +19,7 @@
 		"code":"610681003",
 		"fullCode":"610681003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栾家坪街道",
 		"parentCode":"610681"
 	},
@@ -27,7 +27,7 @@
 		"code":"610681101",
 		"fullCode":"610681101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家园则镇",
 		"parentCode":"610681"
 	},
@@ -35,7 +35,7 @@
 		"code":"610681102",
 		"fullCode":"610681102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉家湾镇",
 		"parentCode":"610681"
 	},
@@ -43,7 +43,7 @@
 		"code":"610681103",
 		"fullCode":"610681103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安定镇",
 		"parentCode":"610681"
 	},
@@ -51,7 +51,7 @@
 		"code":"610681104",
 		"fullCode":"610681104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马家砭镇",
 		"parentCode":"610681"
 	},
@@ -59,7 +59,7 @@
 		"code":"610681105",
 		"fullCode":"610681105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南沟岔镇",
 		"parentCode":"610681"
 	},
@@ -67,7 +67,7 @@
 		"code":"610681106",
 		"fullCode":"610681106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涧峪岔镇",
 		"parentCode":"610681"
 	},
@@ -75,7 +75,7 @@
 		"code":"610681107",
 		"fullCode":"610681107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家岔镇",
 		"parentCode":"610681"
 	},
@@ -83,7 +83,7 @@
 		"code":"610681108",
 		"fullCode":"610681108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余家坪镇",
 		"parentCode":"610681"
 	}

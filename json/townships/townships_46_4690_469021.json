@@ -3,7 +3,7 @@
 		"code":"469021100",
 		"fullCode":"469021100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定城镇",
 		"parentCode":"469021"
 	},
@@ -11,7 +11,7 @@
 		"code":"469021101",
 		"fullCode":"469021101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新竹镇",
 		"parentCode":"469021"
 	},
@@ -19,7 +19,7 @@
 		"code":"469021102",
 		"fullCode":"469021102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湖镇",
 		"parentCode":"469021"
 	},
@@ -27,7 +27,7 @@
 		"code":"469021103",
 		"fullCode":"469021103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄竹镇",
 		"parentCode":"469021"
 	},
@@ -35,7 +35,7 @@
 		"code":"469021104",
 		"fullCode":"469021104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷鸣镇",
 		"parentCode":"469021"
 	},
@@ -43,7 +43,7 @@
 		"code":"469021105",
 		"fullCode":"469021105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门镇",
 		"parentCode":"469021"
 	},
@@ -51,7 +51,7 @@
 		"code":"469021106",
 		"fullCode":"469021106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙河镇",
 		"parentCode":"469021"
 	},
@@ -59,7 +59,7 @@
 		"code":"469021107",
 		"fullCode":"469021107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭口镇",
 		"parentCode":"469021"
 	},
@@ -67,7 +67,7 @@
 		"code":"469021108",
 		"fullCode":"469021108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翰林镇",
 		"parentCode":"469021"
 	},
@@ -75,7 +75,7 @@
 		"code":"469021109",
 		"fullCode":"469021109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富文镇",
 		"parentCode":"469021"
 	}

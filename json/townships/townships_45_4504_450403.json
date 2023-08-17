@@ -3,7 +3,7 @@
 		"code":"450403005",
 		"fullCode":"450403005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"角嘴街道",
 		"parentCode":"450403"
 	},
@@ -11,7 +11,7 @@
 		"code":"450403006",
 		"fullCode":"450403006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴街道",
 		"parentCode":"450403"
 	},
@@ -19,7 +19,7 @@
 		"code":"450403007",
 		"fullCode":"450403007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富民街道",
 		"parentCode":"450403"
 	},
@@ -27,7 +27,7 @@
 		"code":"450403008",
 		"fullCode":"450403008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"450403"
 	},
@@ -35,7 +35,7 @@
 		"code":"450403009",
 		"fullCode":"450403009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"450403"
 	},
@@ -43,7 +43,7 @@
 		"code":"450403101",
 		"fullCode":"450403101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东镇",
 		"parentCode":"450403"
 	},
@@ -51,7 +51,7 @@
 		"code":"450403103",
 		"fullCode":"450403103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湖镇",
 		"parentCode":"450403"
 	},
@@ -59,7 +59,7 @@
 		"code":"450403104",
 		"fullCode":"450403104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏郢镇",
 		"parentCode":"450403"
 	}

@@ -3,7 +3,7 @@
 		"code":"652301001",
 		"fullCode":"652301001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁边路街道",
 		"parentCode":"652301"
 	},
@@ -11,7 +11,7 @@
 		"code":"652301002",
 		"fullCode":"652301002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延安北路街道",
 		"parentCode":"652301"
 	},
@@ -19,7 +19,7 @@
 		"code":"652301003",
 		"fullCode":"652301003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北京南路街道",
 		"parentCode":"652301"
 	},
@@ -27,7 +27,7 @@
 		"code":"652301004",
 		"fullCode":"652301004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建国路街道",
 		"parentCode":"652301"
 	},
@@ -35,7 +35,7 @@
 		"code":"652301005",
 		"fullCode":"652301005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山路街道",
 		"parentCode":"652301"
 	},
@@ -43,7 +43,7 @@
 		"code":"652301006",
 		"fullCode":"652301006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绿洲路街道",
 		"parentCode":"652301"
 	},
@@ -51,7 +51,7 @@
 		"code":"652301100",
 		"fullCode":"652301100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"硫磺沟镇",
 		"parentCode":"652301"
 	},
@@ -59,7 +59,7 @@
 		"code":"652301101",
 		"fullCode":"652301101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三工镇",
 		"parentCode":"652301"
 	},
@@ -67,7 +67,7 @@
 		"code":"652301102",
 		"fullCode":"652301102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆树沟镇",
 		"parentCode":"652301"
 	},
@@ -75,7 +75,7 @@
 		"code":"652301103",
 		"fullCode":"652301103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二六工镇",
 		"parentCode":"652301"
 	},
@@ -83,7 +83,7 @@
 		"code":"652301104",
 		"fullCode":"652301104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大西渠镇",
 		"parentCode":"652301"
 	},
@@ -91,7 +91,7 @@
 		"code":"652301105",
 		"fullCode":"652301105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六工镇",
 		"parentCode":"652301"
 	},
@@ -99,7 +99,7 @@
 		"code":"652301106",
 		"fullCode":"652301106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨湖镇",
 		"parentCode":"652301"
 	},
@@ -107,7 +107,7 @@
 		"code":"652301107",
 		"fullCode":"652301107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佃坝镇",
 		"parentCode":"652301"
 	},
@@ -115,7 +115,7 @@
 		"code":"652301202",
 		"fullCode":"652301202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿什里哈萨克民族乡",
 		"parentCode":"652301"
 	},
@@ -123,7 +123,7 @@
 		"code":"652301203",
 		"fullCode":"652301203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙尔沟乡",
 		"parentCode":"652301"
 	},
@@ -131,7 +131,7 @@
 		"code":"652301400",
 		"fullCode":"652301400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新疆昌吉国家农业科技园区管理委员会",
 		"parentCode":"652301"
 	},
@@ -139,7 +139,7 @@
 		"code":"652301401",
 		"fullCode":"652301401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌吉市北部荒漠生态保护管理站",
 		"parentCode":"652301"
 	},
@@ -147,7 +147,7 @@
 		"code":"652301402",
 		"fullCode":"652301402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌吉国家高新技术产业开发区",
 		"parentCode":"652301"
 	},
@@ -155,7 +155,7 @@
 		"code":"652301500",
 		"fullCode":"652301500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团蔡家湖镇分部",
 		"parentCode":"652301"
 	},
@@ -163,7 +163,7 @@
 		"code":"652301503",
 		"fullCode":"652301503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团共青团农场",
 		"parentCode":"652301"
 	},
@@ -171,7 +171,7 @@
 		"code":"652301504",
 		"fullCode":"652301504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团军户农场",
 		"parentCode":"652301"
 	}

@@ -3,7 +3,7 @@
 		"code":"140921100",
 		"fullCode":"140921100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋昌镇",
 		"parentCode":"140921"
 	},
@@ -11,7 +11,7 @@
 		"code":"140921101",
 		"fullCode":"140921101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河边镇",
 		"parentCode":"140921"
 	},
@@ -19,7 +19,7 @@
 		"code":"140921102",
 		"fullCode":"140921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏道镇",
 		"parentCode":"140921"
 	},
@@ -27,7 +27,7 @@
 		"code":"140921103",
 		"fullCode":"140921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"季庄镇",
 		"parentCode":"140921"
 	},
@@ -35,7 +35,7 @@
 		"code":"140921104",
 		"fullCode":"140921104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋村镇",
 		"parentCode":"140921"
 	},
@@ -43,7 +43,7 @@
 		"code":"140921201",
 		"fullCode":"140921201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南王乡",
 		"parentCode":"140921"
 	},
@@ -51,7 +51,7 @@
 		"code":"140921203",
 		"fullCode":"140921203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神山乡",
 		"parentCode":"140921"
 	},
@@ -59,7 +59,7 @@
 		"code":"140921205",
 		"fullCode":"140921205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"受禄乡",
 		"parentCode":"140921"
 	},
@@ -67,7 +67,7 @@
 		"code":"140921400",
 		"fullCode":"140921400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定襄县居民办事处",
 		"parentCode":"140921"
 	}

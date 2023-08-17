@@ -3,7 +3,7 @@
 		"code":"150929100",
 		"fullCode":"150929100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰花镇",
 		"parentCode":"150929"
 	},
@@ -11,7 +11,7 @@
 		"code":"150929101",
 		"fullCode":"150929101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉生太镇",
 		"parentCode":"150929"
 	},
@@ -19,7 +19,7 @@
 		"code":"150929102",
 		"fullCode":"150929102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"库伦图镇",
 		"parentCode":"150929"
 	},
@@ -27,7 +27,7 @@
 		"code":"150929103",
 		"fullCode":"150929103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"供济堂镇",
 		"parentCode":"150929"
 	},
@@ -35,7 +35,7 @@
 		"code":"150929104",
 		"fullCode":"150929104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白音朝克图镇",
 		"parentCode":"150929"
 	},
@@ -43,7 +43,7 @@
 		"code":"150929200",
 		"fullCode":"150929200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红格尔苏木",
 		"parentCode":"150929"
 	},
@@ -51,7 +51,7 @@
 		"code":"150929201",
 		"fullCode":"150929201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江岸苏木",
 		"parentCode":"150929"
 	},
@@ -59,7 +59,7 @@
 		"code":"150929202",
 		"fullCode":"150929202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查干补力格苏木",
 		"parentCode":"150929"
 	},
@@ -67,7 +67,7 @@
 		"code":"150929203",
 		"fullCode":"150929203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"脑木更苏木",
 		"parentCode":"150929"
 	},
@@ -75,7 +75,7 @@
 		"code":"150929204",
 		"fullCode":"150929204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东八号乡",
 		"parentCode":"150929"
 	},
@@ -83,7 +83,7 @@
 		"code":"150929205",
 		"fullCode":"150929205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忽鸡图乡",
 		"parentCode":"150929"
 	},
@@ -91,7 +91,7 @@
 		"code":"150929206",
 		"fullCode":"150929206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大黑河乡",
 		"parentCode":"150929"
 	},
@@ -99,7 +99,7 @@
 		"code":"150929207",
 		"fullCode":"150929207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴音敖包苏木",
 		"parentCode":"150929"
 	},
@@ -107,7 +107,7 @@
 		"code":"150929400",
 		"fullCode":"150929400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰牧场",
 		"parentCode":"150929"
 	}

@@ -3,7 +3,7 @@
 		"code":"370523001",
 		"fullCode":"370523001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广饶街道",
 		"parentCode":"370523"
 	},
@@ -11,7 +11,7 @@
 		"code":"370523002",
 		"fullCode":"370523002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐安街道",
 		"parentCode":"370523"
 	},
@@ -19,7 +19,7 @@
 		"code":"370523003",
 		"fullCode":"370523003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁庄街道",
 		"parentCode":"370523"
 	},
@@ -27,7 +27,7 @@
 		"code":"370523101",
 		"fullCode":"370523101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大王镇",
 		"parentCode":"370523"
 	},
@@ -35,7 +35,7 @@
 		"code":"370523102",
 		"fullCode":"370523102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稻庄镇",
 		"parentCode":"370523"
 	},
@@ -43,7 +43,7 @@
 		"code":"370523106",
 		"fullCode":"370523106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李鹊镇",
 		"parentCode":"370523"
 	},
@@ -51,7 +51,7 @@
 		"code":"370523107",
 		"fullCode":"370523107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大码头镇",
 		"parentCode":"370523"
 	},
@@ -59,7 +59,7 @@
 		"code":"370523108",
 		"fullCode":"370523108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花官镇",
 		"parentCode":"370523"
 	},
@@ -67,7 +67,7 @@
 		"code":"370523109",
 		"fullCode":"370523109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈官镇",
 		"parentCode":"370523"
 	},
@@ -75,7 +75,7 @@
 		"code":"370523400",
 		"fullCode":"370523400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东营农业高新技术产业示范区",
 		"parentCode":"370523"
 	},
@@ -83,7 +83,7 @@
 		"code":"370523401",
 		"fullCode":"370523401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海新动能产业园",
 		"parentCode":"370523"
 	}

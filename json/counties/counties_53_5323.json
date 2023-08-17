@@ -3,7 +3,7 @@
 		"code":"532301",
 		"fullCode":"532301000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"楚雄市",
 		"parentCode":"5323"
 	},
@@ -11,7 +11,7 @@
 		"code":"532302",
 		"fullCode":"532302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"禄丰市",
 		"parentCode":"5323"
 	},
@@ -19,7 +19,7 @@
 		"code":"532322",
 		"fullCode":"532322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"双柏县",
 		"parentCode":"5323"
 	},
@@ -27,7 +27,7 @@
 		"code":"532323",
 		"fullCode":"532323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"牟定县",
 		"parentCode":"5323"
 	},
@@ -35,7 +35,7 @@
 		"code":"532324",
 		"fullCode":"532324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南华县",
 		"parentCode":"5323"
 	},
@@ -43,7 +43,7 @@
 		"code":"532325",
 		"fullCode":"532325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"姚安县",
 		"parentCode":"5323"
 	},
@@ -51,7 +51,7 @@
 		"code":"532326",
 		"fullCode":"532326000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大姚县",
 		"parentCode":"5323"
 	},
@@ -59,7 +59,7 @@
 		"code":"532327",
 		"fullCode":"532327000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永仁县",
 		"parentCode":"5323"
 	},
@@ -67,7 +67,7 @@
 		"code":"532328",
 		"fullCode":"532328000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"元谋县",
 		"parentCode":"5323"
 	},
@@ -75,7 +75,7 @@
 		"code":"532329",
 		"fullCode":"532329000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武定县",
 		"parentCode":"5323"
 	}

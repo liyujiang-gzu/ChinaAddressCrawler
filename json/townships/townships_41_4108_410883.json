@@ -3,7 +3,7 @@
 		"code":"410883001",
 		"fullCode":"410883001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大定街道",
 		"parentCode":"410883"
 	},
@@ -11,7 +11,7 @@
 		"code":"410883002",
 		"fullCode":"410883002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会昌街道",
 		"parentCode":"410883"
 	},
@@ -19,7 +19,7 @@
 		"code":"410883003",
 		"fullCode":"410883003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河雍街道",
 		"parentCode":"410883"
 	},
@@ -27,7 +27,7 @@
 		"code":"410883004",
 		"fullCode":"410883004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河阳街道",
 		"parentCode":"410883"
 	},
@@ -35,7 +35,7 @@
 		"code":"410883100",
 		"fullCode":"410883100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化工镇",
 		"parentCode":"410883"
 	},
@@ -43,7 +43,7 @@
 		"code":"410883101",
 		"fullCode":"410883101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南庄镇",
 		"parentCode":"410883"
 	},
@@ -51,7 +51,7 @@
 		"code":"410883102",
 		"fullCode":"410883102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城伯镇",
 		"parentCode":"410883"
 	},
@@ -59,7 +59,7 @@
 		"code":"410883103",
 		"fullCode":"410883103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷旦镇",
 		"parentCode":"410883"
 	},
@@ -67,7 +67,7 @@
 		"code":"410883104",
 		"fullCode":"410883104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵和镇",
 		"parentCode":"410883"
 	},
@@ -75,7 +75,7 @@
 		"code":"410883105",
 		"fullCode":"410883105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西虢镇",
 		"parentCode":"410883"
 	},
@@ -83,7 +83,7 @@
 		"code":"410883201",
 		"fullCode":"410883201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槐树乡",
 		"parentCode":"410883"
 	}

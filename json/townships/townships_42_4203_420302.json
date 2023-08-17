@@ -3,7 +3,7 @@
 		"code":"420302001",
 		"fullCode":"420302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武当路街道",
 		"parentCode":"420302"
 	},
@@ -11,7 +11,7 @@
 		"code":"420302002",
 		"fullCode":"420302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二堰街道",
 		"parentCode":"420302"
 	},
@@ -19,7 +19,7 @@
 		"code":"420302003",
 		"fullCode":"420302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五堰街道",
 		"parentCode":"420302"
 	},
@@ -27,7 +27,7 @@
 		"code":"420302004",
 		"fullCode":"420302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白浪开发区白浪街道",
 		"parentCode":"420302"
 	},
@@ -35,7 +35,7 @@
 		"code":"420302100",
 		"fullCode":"420302100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大川镇",
 		"parentCode":"420302"
 	},
@@ -43,7 +43,7 @@
 		"code":"420302201",
 		"fullCode":"420302201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅塔乡",
 		"parentCode":"420302"
 	},
@@ -51,7 +51,7 @@
 		"code":"420302202",
 		"fullCode":"420302202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸳鸯乡",
 		"parentCode":"420302"
 	}

@@ -3,7 +3,7 @@
 		"code":"420111001",
 		"fullCode":"420111001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珞南街道",
 		"parentCode":"420111"
 	},
@@ -11,7 +11,7 @@
 		"code":"420111002",
 		"fullCode":"420111002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关山街道",
 		"parentCode":"420111"
 	},
@@ -19,7 +19,7 @@
 		"code":"420111003",
 		"fullCode":"420111003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮子山街道",
 		"parentCode":"420111"
 	},
@@ -27,7 +27,7 @@
 		"code":"420111004",
 		"fullCode":"420111004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家湾街道",
 		"parentCode":"420111"
 	},
@@ -35,7 +35,7 @@
 		"code":"420111005",
 		"fullCode":"420111005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨园街道",
 		"parentCode":"420111"
 	},
@@ -43,7 +43,7 @@
 		"code":"420111006",
 		"fullCode":"420111006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卓刀泉街道",
 		"parentCode":"420111"
 	},
@@ -51,7 +51,7 @@
 		"code":"420111007",
 		"fullCode":"420111007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪山街街道",
 		"parentCode":"420111"
 	},
@@ -59,7 +59,7 @@
 		"code":"420111008",
 		"fullCode":"420111008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"420111"
 	},
@@ -67,7 +67,7 @@
 		"code":"420111009",
 		"fullCode":"420111009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青菱街道",
 		"parentCode":"420111"
 	},
@@ -75,7 +75,7 @@
 		"code":"420111061",
 		"fullCode":"420111061000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八吉府街道",
 		"parentCode":"420111"
 	},
@@ -83,7 +83,7 @@
 		"code":"420111080",
 		"fullCode":"420111080000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关东街道",
 		"parentCode":"420111"
 	},
@@ -91,7 +91,7 @@
 		"code":"420111081",
 		"fullCode":"420111081000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花山街道",
 		"parentCode":"420111"
 	},
@@ -99,7 +99,7 @@
 		"code":"420111082",
 		"fullCode":"420111082000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"左岭街道",
 		"parentCode":"420111"
 	},
@@ -107,7 +107,7 @@
 		"code":"420111083",
 		"fullCode":"420111083000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九峰街道",
 		"parentCode":"420111"
 	},
@@ -115,7 +115,7 @@
 		"code":"420111205",
 		"fullCode":"420111205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天兴乡",
 		"parentCode":"420111"
 	},
@@ -123,7 +123,7 @@
 		"code":"420111460",
 		"fullCode":"420111460000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清谭湖街道",
 		"parentCode":"420111"
 	},
@@ -131,7 +131,7 @@
 		"code":"420111491",
 		"fullCode":"420111491000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖风景区街道（洪山）",
 		"parentCode":"420111"
 	}

@@ -3,7 +3,7 @@
 		"code":"110101",
 		"fullCode":"110101000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东城区",
 		"parentCode":"1101"
 	},
@@ -11,7 +11,7 @@
 		"code":"110102",
 		"fullCode":"110102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西城区",
 		"parentCode":"1101"
 	},
@@ -19,7 +19,7 @@
 		"code":"110105",
 		"fullCode":"110105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"朝阳区",
 		"parentCode":"1101"
 	},
@@ -27,7 +27,7 @@
 		"code":"110106",
 		"fullCode":"110106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丰台区",
 		"parentCode":"1101"
 	},
@@ -35,7 +35,7 @@
 		"code":"110107",
 		"fullCode":"110107000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石景山区",
 		"parentCode":"1101"
 	},
@@ -43,7 +43,7 @@
 		"code":"110108",
 		"fullCode":"110108000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海淀区",
 		"parentCode":"1101"
 	},
@@ -51,7 +51,7 @@
 		"code":"110109",
 		"fullCode":"110109000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"门头沟区",
 		"parentCode":"1101"
 	},
@@ -59,7 +59,7 @@
 		"code":"110111",
 		"fullCode":"110111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"房山区",
 		"parentCode":"1101"
 	},
@@ -67,7 +67,7 @@
 		"code":"110112",
 		"fullCode":"110112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"通州区",
 		"parentCode":"1101"
 	},
@@ -75,7 +75,7 @@
 		"code":"110113",
 		"fullCode":"110113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"顺义区",
 		"parentCode":"1101"
 	},
@@ -83,7 +83,7 @@
 		"code":"110114",
 		"fullCode":"110114000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"昌平区",
 		"parentCode":"1101"
 	},
@@ -91,7 +91,7 @@
 		"code":"110115",
 		"fullCode":"110115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大兴区",
 		"parentCode":"1101"
 	},
@@ -99,7 +99,7 @@
 		"code":"110116",
 		"fullCode":"110116000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"怀柔区",
 		"parentCode":"1101"
 	},
@@ -107,7 +107,7 @@
 		"code":"110117",
 		"fullCode":"110117000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平谷区",
 		"parentCode":"1101"
 	},
@@ -115,7 +115,7 @@
 		"code":"110118",
 		"fullCode":"110118000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"密云区",
 		"parentCode":"1101"
 	},
@@ -123,7 +123,7 @@
 		"code":"110119",
 		"fullCode":"110119000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"延庆区",
 		"parentCode":"1101"
 	}

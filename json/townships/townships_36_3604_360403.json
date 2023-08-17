@@ -3,7 +3,7 @@
 		"code":"360403001",
 		"fullCode":"360403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘棠街道",
 		"parentCode":"360403"
 	},
@@ -11,7 +11,7 @@
 		"code":"360403002",
 		"fullCode":"360403002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湓浦街道",
 		"parentCode":"360403"
 	},
@@ -19,7 +19,7 @@
 		"code":"360403003",
 		"fullCode":"360403003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人民路街道",
 		"parentCode":"360403"
 	},
@@ -27,7 +27,7 @@
 		"code":"360403004",
 		"fullCode":"360403004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白水湖街道",
 		"parentCode":"360403"
 	},
@@ -35,7 +35,7 @@
 		"code":"360403005",
 		"fullCode":"360403005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金鸡坡街道",
 		"parentCode":"360403"
 	},
@@ -43,7 +43,7 @@
 		"code":"360403006",
 		"fullCode":"360403006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里湖街道",
 		"parentCode":"360403"
 	},
@@ -51,7 +51,7 @@
 		"code":"360403091",
 		"fullCode":"360403091000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳街道",
 		"parentCode":"360403"
 	},
@@ -59,7 +59,7 @@
 		"code":"360403092",
 		"fullCode":"360403092000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨兴街道",
 		"parentCode":"360403"
 	},
@@ -67,7 +67,7 @@
 		"code":"360403400",
 		"fullCode":"360403400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅山头企业集团",
 		"parentCode":"360403"
 	}

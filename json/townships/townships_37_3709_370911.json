@@ -3,7 +3,7 @@
 		"code":"370911001",
 		"fullCode":"370911001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"粥店街道",
 		"parentCode":"370911"
 	},
@@ -11,7 +11,7 @@
 		"code":"370911002",
 		"fullCode":"370911002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天平街道",
 		"parentCode":"370911"
 	},
@@ -19,7 +19,7 @@
 		"code":"370911003",
 		"fullCode":"370911003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北集坡街道",
 		"parentCode":"370911"
 	},
@@ -27,7 +27,7 @@
 		"code":"370911100",
 		"fullCode":"370911100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山口镇",
 		"parentCode":"370911"
 	},
@@ -35,7 +35,7 @@
 		"code":"370911101",
 		"fullCode":"370911101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祝阳镇",
 		"parentCode":"370911"
 	},
@@ -43,7 +43,7 @@
 		"code":"370911102",
 		"fullCode":"370911102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范镇",
 		"parentCode":"370911"
 	},
@@ -51,7 +51,7 @@
 		"code":"370911103",
 		"fullCode":"370911103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"角峪镇",
 		"parentCode":"370911"
 	},
@@ -59,7 +59,7 @@
 		"code":"370911104",
 		"fullCode":"370911104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徂徕镇",
 		"parentCode":"370911"
 	},
@@ -67,7 +67,7 @@
 		"code":"370911106",
 		"fullCode":"370911106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满庄镇",
 		"parentCode":"370911"
 	},
@@ -75,7 +75,7 @@
 		"code":"370911107",
 		"fullCode":"370911107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏张镇",
 		"parentCode":"370911"
 	},
@@ -83,7 +83,7 @@
 		"code":"370911108",
 		"fullCode":"370911108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道朗镇",
 		"parentCode":"370911"
 	},
@@ -91,7 +91,7 @@
 		"code":"370911109",
 		"fullCode":"370911109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄前镇",
 		"parentCode":"370911"
 	},
@@ -99,7 +99,7 @@
 		"code":"370911110",
 		"fullCode":"370911110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大汶口镇",
 		"parentCode":"370911"
 	},
@@ -107,7 +107,7 @@
 		"code":"370911111",
 		"fullCode":"370911111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马庄镇",
 		"parentCode":"370911"
 	},
@@ -115,7 +115,7 @@
 		"code":"370911112",
 		"fullCode":"370911112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"房村镇",
 		"parentCode":"370911"
 	},
@@ -123,7 +123,7 @@
 		"code":"370911113",
 		"fullCode":"370911113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良庄镇",
 		"parentCode":"370911"
 	},
@@ -131,7 +131,7 @@
 		"code":"370911114",
 		"fullCode":"370911114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下港镇",
 		"parentCode":"370911"
 	},
@@ -139,7 +139,7 @@
 		"code":"370911201",
 		"fullCode":"370911201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化马湾乡",
 		"parentCode":"370911"
 	}

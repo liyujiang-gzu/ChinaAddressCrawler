@@ -3,7 +3,7 @@
 		"code":"511523100",
 		"fullCode":"511523100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江安镇",
 		"parentCode":"511523"
 	},
@@ -11,7 +11,7 @@
 		"code":"511523101",
 		"fullCode":"511523101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红桥镇",
 		"parentCode":"511523"
 	},
@@ -19,7 +19,7 @@
 		"code":"511523104",
 		"fullCode":"511523104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怡乐镇",
 		"parentCode":"511523"
 	},
@@ -27,7 +27,7 @@
 		"code":"511523105",
 		"fullCode":"511523105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留耕镇",
 		"parentCode":"511523"
 	},
@@ -35,7 +35,7 @@
 		"code":"511523108",
 		"fullCode":"511523108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五矿镇",
 		"parentCode":"511523"
 	},
@@ -43,7 +43,7 @@
 		"code":"511523109",
 		"fullCode":"511523109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎安镇",
 		"parentCode":"511523"
 	},
@@ -51,7 +51,7 @@
 		"code":"511523110",
 		"fullCode":"511523110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夕佳山镇",
 		"parentCode":"511523"
 	},
@@ -59,7 +59,7 @@
 		"code":"511523112",
 		"fullCode":"511523112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁清镇",
 		"parentCode":"511523"
 	},
@@ -67,7 +67,7 @@
 		"code":"511523113",
 		"fullCode":"511523113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四面山镇",
 		"parentCode":"511523"
 	},
@@ -75,7 +75,7 @@
 		"code":"511523114",
 		"fullCode":"511523114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大井镇",
 		"parentCode":"511523"
 	},
@@ -83,7 +83,7 @@
 		"code":"511523115",
 		"fullCode":"511523115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳春镇",
 		"parentCode":"511523"
 	},
@@ -91,7 +91,7 @@
 		"code":"511523116",
 		"fullCode":"511523116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大妙镇",
 		"parentCode":"511523"
 	},
@@ -99,7 +99,7 @@
 		"code":"511523117",
 		"fullCode":"511523117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁和镇",
 		"parentCode":"511523"
 	},
@@ -107,7 +107,7 @@
 		"code":"511523118",
 		"fullCode":"511523118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下长镇",
 		"parentCode":"511523"
 	}

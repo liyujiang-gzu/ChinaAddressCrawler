@@ -3,7 +3,7 @@
 		"code":"230202",
 		"fullCode":"230202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙沙区",
 		"parentCode":"2302"
 	},
@@ -11,7 +11,7 @@
 		"code":"230203",
 		"fullCode":"230203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"建华区",
 		"parentCode":"2302"
 	},
@@ -19,7 +19,7 @@
 		"code":"230204",
 		"fullCode":"230204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铁锋区",
 		"parentCode":"2302"
 	},
@@ -27,7 +27,7 @@
 		"code":"230205",
 		"fullCode":"230205000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"昂昂溪区",
 		"parentCode":"2302"
 	},
@@ -35,7 +35,7 @@
 		"code":"230206",
 		"fullCode":"230206000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"富拉尔基区",
 		"parentCode":"2302"
 	},
@@ -43,7 +43,7 @@
 		"code":"230207",
 		"fullCode":"230207000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"碾子山区",
 		"parentCode":"2302"
 	},
@@ -51,7 +51,7 @@
 		"code":"230208",
 		"fullCode":"230208000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"梅里斯达斡尔族区",
 		"parentCode":"2302"
 	},
@@ -59,7 +59,7 @@
 		"code":"230221",
 		"fullCode":"230221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙江县",
 		"parentCode":"2302"
 	},
@@ -67,7 +67,7 @@
 		"code":"230223",
 		"fullCode":"230223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"依安县",
 		"parentCode":"2302"
 	},
@@ -75,7 +75,7 @@
 		"code":"230224",
 		"fullCode":"230224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泰来县",
 		"parentCode":"2302"
 	},
@@ -83,7 +83,7 @@
 		"code":"230225",
 		"fullCode":"230225000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"甘南县",
 		"parentCode":"2302"
 	},
@@ -91,7 +91,7 @@
 		"code":"230227",
 		"fullCode":"230227000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"富裕县",
 		"parentCode":"2302"
 	},
@@ -99,7 +99,7 @@
 		"code":"230229",
 		"fullCode":"230229000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"克山县",
 		"parentCode":"2302"
 	},
@@ -107,7 +107,7 @@
 		"code":"230230",
 		"fullCode":"230230000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"克东县",
 		"parentCode":"2302"
 	},
@@ -115,7 +115,7 @@
 		"code":"230231",
 		"fullCode":"230231000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"拜泉县",
 		"parentCode":"2302"
 	},
@@ -123,7 +123,7 @@
 		"code":"230281",
 		"fullCode":"230281000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"讷河市",
 		"parentCode":"2302"
 	}

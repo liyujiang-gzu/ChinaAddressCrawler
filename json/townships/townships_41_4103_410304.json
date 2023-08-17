@@ -3,7 +3,7 @@
 		"code":"410304001",
 		"fullCode":"410304001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关街道",
 		"parentCode":"410304"
 	},
@@ -11,7 +11,7 @@
 		"code":"410304002",
 		"fullCode":"410304002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瀍西街道",
 		"parentCode":"410304"
 	},
@@ -19,7 +19,7 @@
 		"code":"410304003",
 		"fullCode":"410304003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五股路街道",
 		"parentCode":"410304"
 	},
@@ -27,7 +27,7 @@
 		"code":"410304004",
 		"fullCode":"410304004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北窑街道",
 		"parentCode":"410304"
 	},
@@ -35,7 +35,7 @@
 		"code":"410304005",
 		"fullCode":"410304005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔湾街道",
 		"parentCode":"410304"
 	},
@@ -43,7 +43,7 @@
 		"code":"410304006",
 		"fullCode":"410304006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨文街道",
 		"parentCode":"410304"
 	},
@@ -51,7 +51,7 @@
 		"code":"410304007",
 		"fullCode":"410304007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华林街道",
 		"parentCode":"410304"
 	},
@@ -59,7 +59,7 @@
 		"code":"410304100",
 		"fullCode":"410304100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马寺镇",
 		"parentCode":"410304"
 	},
@@ -67,7 +67,7 @@
 		"code":"410304200",
 		"fullCode":"410304200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瀍河回族乡",
 		"parentCode":"410304"
 	}

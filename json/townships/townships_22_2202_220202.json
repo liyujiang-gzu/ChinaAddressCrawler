@@ -3,7 +3,7 @@
 		"code":"220202001",
 		"fullCode":"220202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华街道",
 		"parentCode":"220202"
 	},
@@ -11,7 +11,7 @@
 		"code":"220202002",
 		"fullCode":"220202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文庙街道",
 		"parentCode":"220202"
 	},
@@ -19,7 +19,7 @@
 		"code":"220202003",
 		"fullCode":"220202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东局子街道",
 		"parentCode":"220202"
 	},
@@ -27,7 +27,7 @@
 		"code":"220202004",
 		"fullCode":"220202004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新地号街道",
 		"parentCode":"220202"
 	},
@@ -35,7 +35,7 @@
 		"code":"220202005",
 		"fullCode":"220202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延安街道",
 		"parentCode":"220202"
 	},
@@ -43,7 +43,7 @@
 		"code":"220202006",
 		"fullCode":"220202006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站前街道",
 		"parentCode":"220202"
 	},
@@ -51,7 +51,7 @@
 		"code":"220202007",
 		"fullCode":"220202007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民主街道",
 		"parentCode":"220202"
 	},
@@ -59,7 +59,7 @@
 		"code":"220202008",
 		"fullCode":"220202008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花街道",
 		"parentCode":"220202"
 	},
@@ -67,7 +67,7 @@
 		"code":"220202009",
 		"fullCode":"220202009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通江街道",
 		"parentCode":"220202"
 	},
@@ -75,7 +75,7 @@
 		"code":"220202010",
 		"fullCode":"220202010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈达湾街道",
 		"parentCode":"220202"
 	},
@@ -83,7 +83,7 @@
 		"code":"220202011",
 		"fullCode":"220202011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新建街道",
 		"parentCode":"220202"
 	},
@@ -91,7 +91,7 @@
 		"code":"220202012",
 		"fullCode":"220202012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延江街道",
 		"parentCode":"220202"
 	},
@@ -99,7 +99,7 @@
 		"code":"220202100",
 		"fullCode":"220202100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孤店子镇",
 		"parentCode":"220202"
 	},
@@ -107,7 +107,7 @@
 		"code":"220202101",
 		"fullCode":"220202101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桦皮厂镇",
 		"parentCode":"220202"
 	},
@@ -115,7 +115,7 @@
 		"code":"220202102",
 		"fullCode":"220202102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"左家镇",
 		"parentCode":"220202"
 	},
@@ -123,7 +123,7 @@
 		"code":"220202200",
 		"fullCode":"220202200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两家子满族乡",
 		"parentCode":"220202"
 	},
@@ -131,7 +131,7 @@
 		"code":"220202201",
 		"fullCode":"220202201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土城子满族朝鲜族乡",
 		"parentCode":"220202"
 	},
@@ -139,7 +139,7 @@
 		"code":"220202401",
 		"fullCode":"220202401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福开发区",
 		"parentCode":"220202"
 	},
@@ -147,7 +147,7 @@
 		"code":"220202402",
 		"fullCode":"220202402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈达湾经济开发区",
 		"parentCode":"220202"
 	}

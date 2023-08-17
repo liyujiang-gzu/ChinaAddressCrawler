@@ -3,7 +3,7 @@
 		"code":"420922100",
 		"fullCode":"420922100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"420922"
 	},
@@ -11,7 +11,7 @@
 		"code":"420922101",
 		"fullCode":"420922101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳平镇",
 		"parentCode":"420922"
 	},
@@ -19,7 +19,7 @@
 		"code":"420922102",
 		"fullCode":"420922102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芳畈镇",
 		"parentCode":"420922"
 	},
@@ -27,7 +27,7 @@
 		"code":"420922103",
 		"fullCode":"420922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城镇",
 		"parentCode":"420922"
 	},
@@ -35,7 +35,7 @@
 		"code":"420922104",
 		"fullCode":"420922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏店镇",
 		"parentCode":"420922"
 	},
@@ -43,7 +43,7 @@
 		"code":"420922105",
 		"fullCode":"420922105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘集镇",
 		"parentCode":"420922"
 	},
@@ -51,7 +51,7 @@
 		"code":"420922106",
 		"fullCode":"420922106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口镇",
 		"parentCode":"420922"
 	},
@@ -59,7 +59,7 @@
 		"code":"420922107",
 		"fullCode":"420922107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四姑镇",
 		"parentCode":"420922"
 	},
@@ -67,7 +67,7 @@
 		"code":"420922108",
 		"fullCode":"420922108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吕王镇",
 		"parentCode":"420922"
 	},
@@ -75,7 +75,7 @@
 		"code":"420922109",
 		"fullCode":"420922109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄站镇",
 		"parentCode":"420922"
 	},
@@ -83,7 +83,7 @@
 		"code":"420922110",
 		"fullCode":"420922110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宣化店镇",
 		"parentCode":"420922"
 	},
@@ -91,7 +91,7 @@
 		"code":"420922111",
 		"fullCode":"420922111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰店镇",
 		"parentCode":"420922"
 	},
@@ -99,7 +99,7 @@
 		"code":"420922112",
 		"fullCode":"420922112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大新镇",
 		"parentCode":"420922"
 	},
@@ -107,7 +107,7 @@
 		"code":"420922113",
 		"fullCode":"420922113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里镇",
 		"parentCode":"420922"
 	},
@@ -115,7 +115,7 @@
 		"code":"420922200",
 		"fullCode":"420922200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高店乡",
 		"parentCode":"420922"
 	},
@@ -123,7 +123,7 @@
 		"code":"420922201",
 		"fullCode":"420922201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭店乡",
 		"parentCode":"420922"
 	},
@@ -131,7 +131,7 @@
 		"code":"420922202",
 		"fullCode":"420922202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东新乡",
 		"parentCode":"420922"
 	},
@@ -139,7 +139,7 @@
 		"code":"420922501",
 		"fullCode":"420922501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高铁试验区",
 		"parentCode":"420922"
 	},
@@ -147,7 +147,7 @@
 		"code":"420922502",
 		"fullCode":"420922502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"悟峰山度假区",
 		"parentCode":"420922"
 	}

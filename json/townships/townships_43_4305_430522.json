@@ -3,7 +3,7 @@
 		"code":"430522100",
 		"fullCode":"430522100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"酿溪镇",
 		"parentCode":"430522"
 	},
@@ -11,7 +11,7 @@
 		"code":"430522101",
 		"fullCode":"430522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"严塘镇",
 		"parentCode":"430522"
 	},
@@ -19,7 +19,7 @@
 		"code":"430522102",
 		"fullCode":"430522102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雀塘镇",
 		"parentCode":"430522"
 	},
@@ -27,7 +27,7 @@
 		"code":"430522103",
 		"fullCode":"430522103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈家坊镇",
 		"parentCode":"430522"
 	},
@@ -35,7 +35,7 @@
 		"code":"430522104",
 		"fullCode":"430522104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭溪镇",
 		"parentCode":"430522"
 	},
@@ -43,7 +43,7 @@
 		"code":"430522105",
 		"fullCode":"430522105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寸石镇",
 		"parentCode":"430522"
 	},
@@ -51,7 +51,7 @@
 		"code":"430522106",
 		"fullCode":"430522106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪上镇",
 		"parentCode":"430522"
 	},
@@ -59,7 +59,7 @@
 		"code":"430522107",
 		"fullCode":"430522107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙溪铺镇",
 		"parentCode":"430522"
 	},
@@ -67,7 +67,7 @@
 		"code":"430522108",
 		"fullCode":"430522108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨口铺镇",
 		"parentCode":"430522"
 	},
@@ -75,7 +75,7 @@
 		"code":"430522109",
 		"fullCode":"430522109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新田铺镇",
 		"parentCode":"430522"
 	},
@@ -83,7 +83,7 @@
 		"code":"430522110",
 		"fullCode":"430522110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小塘镇",
 		"parentCode":"430522"
 	},
@@ -91,7 +91,7 @@
 		"code":"430522111",
 		"fullCode":"430522111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太芝庙镇",
 		"parentCode":"430522"
 	},
@@ -99,7 +99,7 @@
 		"code":"430522112",
 		"fullCode":"430522112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大新镇",
 		"parentCode":"430522"
 	},
@@ -107,7 +107,7 @@
 		"code":"430522200",
 		"fullCode":"430522200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭府乡",
 		"parentCode":"430522"
 	},
@@ -115,7 +115,7 @@
 		"code":"430522203",
 		"fullCode":"430522203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎光乡",
 		"parentCode":"430522"
 	}

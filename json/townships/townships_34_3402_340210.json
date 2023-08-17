@@ -3,7 +3,7 @@
 		"code":"340210100",
 		"fullCode":"340210100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾沚镇",
 		"parentCode":"340210"
 	},
@@ -11,7 +11,7 @@
 		"code":"340210101",
 		"fullCode":"340210101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶辛镇",
 		"parentCode":"340210"
 	},
@@ -19,7 +19,7 @@
 		"code":"340210102",
 		"fullCode":"340210102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六郎镇",
 		"parentCode":"340210"
 	},
@@ -27,7 +27,7 @@
 		"code":"340210103",
 		"fullCode":"340210103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花桥镇",
 		"parentCode":"340210"
 	},
@@ -35,7 +35,7 @@
 		"code":"340210104",
 		"fullCode":"340210104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红杨镇",
 		"parentCode":"340210"
 	},
@@ -43,7 +43,7 @@
 		"code":"340210400",
 		"fullCode":"340210400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽新芜经济开发区",
 		"parentCode":"340210"
 	}

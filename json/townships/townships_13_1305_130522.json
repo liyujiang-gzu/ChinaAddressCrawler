@@ -3,7 +3,7 @@
 		"code":"130522100",
 		"fullCode":"130522100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临城镇",
 		"parentCode":"130522"
 	},
@@ -11,7 +11,7 @@
 		"code":"130522101",
 		"fullCode":"130522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东镇镇",
 		"parentCode":"130522"
 	},
@@ -19,7 +19,7 @@
 		"code":"130522102",
 		"fullCode":"130522102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西竖镇",
 		"parentCode":"130522"
 	},
@@ -27,7 +27,7 @@
 		"code":"130522103",
 		"fullCode":"130522103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郝庄镇",
 		"parentCode":"130522"
 	},
@@ -35,7 +35,7 @@
 		"code":"130522104",
 		"fullCode":"130522104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑城镇",
 		"parentCode":"130522"
 	},
@@ -43,7 +43,7 @@
 		"code":"130522201",
 		"fullCode":"130522201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸭鸽营乡",
 		"parentCode":"130522"
 	},
@@ -51,7 +51,7 @@
 		"code":"130522203",
 		"fullCode":"130522203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石城乡",
 		"parentCode":"130522"
 	},
@@ -59,7 +59,7 @@
 		"code":"130522205",
 		"fullCode":"130522205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵庄乡",
 		"parentCode":"130522"
 	}

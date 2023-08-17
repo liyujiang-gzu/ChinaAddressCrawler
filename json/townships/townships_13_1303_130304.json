@@ -3,7 +3,7 @@
 		"code":"130304001",
 		"fullCode":"130304001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西山街道",
 		"parentCode":"130304"
 	},
@@ -11,7 +11,7 @@
 		"code":"130304002",
 		"fullCode":"130304002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山街道",
 		"parentCode":"130304"
 	},
@@ -19,7 +19,7 @@
 		"code":"130304100",
 		"fullCode":"130304100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海滨镇",
 		"parentCode":"130304"
 	},
@@ -27,7 +27,7 @@
 		"code":"130304101",
 		"fullCode":"130304101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戴河镇",
 		"parentCode":"130304"
 	},
@@ -35,7 +35,7 @@
 		"code":"130304103",
 		"fullCode":"130304103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛头崖镇",
 		"parentCode":"130304"
 	}

@@ -3,7 +3,7 @@
 		"code":"441402",
 		"fullCode":"441402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"梅江区",
 		"parentCode":"4414"
 	},
@@ -11,7 +11,7 @@
 		"code":"441403",
 		"fullCode":"441403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"梅县区",
 		"parentCode":"4414"
 	},
@@ -19,7 +19,7 @@
 		"code":"441422",
 		"fullCode":"441422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大埔县",
 		"parentCode":"4414"
 	},
@@ -27,7 +27,7 @@
 		"code":"441423",
 		"fullCode":"441423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丰顺县",
 		"parentCode":"4414"
 	},
@@ -35,7 +35,7 @@
 		"code":"441424",
 		"fullCode":"441424000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五华县",
 		"parentCode":"4414"
 	},
@@ -43,7 +43,7 @@
 		"code":"441426",
 		"fullCode":"441426000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平远县",
 		"parentCode":"4414"
 	},
@@ -51,7 +51,7 @@
 		"code":"441427",
 		"fullCode":"441427000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蕉岭县",
 		"parentCode":"4414"
 	},
@@ -59,7 +59,7 @@
 		"code":"441481",
 		"fullCode":"441481000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴宁市",
 		"parentCode":"4414"
 	}

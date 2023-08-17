@@ -3,7 +3,7 @@
 		"code":"370683001",
 		"fullCode":"370683001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌路街道",
 		"parentCode":"370683"
 	},
@@ -11,7 +11,7 @@
 		"code":"370683002",
 		"fullCode":"370683002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安路街道",
 		"parentCode":"370683"
 	},
@@ -19,7 +19,7 @@
 		"code":"370683003",
 		"fullCode":"370683003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三山岛街道",
 		"parentCode":"370683"
 	},
@@ -27,7 +27,7 @@
 		"code":"370683004",
 		"fullCode":"370683004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城港路街道",
 		"parentCode":"370683"
 	},
@@ -35,7 +35,7 @@
 		"code":"370683005",
 		"fullCode":"370683005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰路街道",
 		"parentCode":"370683"
 	},
@@ -43,7 +43,7 @@
 		"code":"370683006",
 		"fullCode":"370683006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金仓街道",
 		"parentCode":"370683"
 	},
@@ -51,7 +51,7 @@
 		"code":"370683101",
 		"fullCode":"370683101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河镇",
 		"parentCode":"370683"
 	},
@@ -59,7 +59,7 @@
 		"code":"370683102",
 		"fullCode":"370683102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱桥镇",
 		"parentCode":"370683"
 	},
@@ -67,7 +67,7 @@
 		"code":"370683103",
 		"fullCode":"370683103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭家店镇",
 		"parentCode":"370683"
 	},
@@ -75,7 +75,7 @@
 		"code":"370683104",
 		"fullCode":"370683104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金城镇",
 		"parentCode":"370683"
 	},
@@ -83,7 +83,7 @@
 		"code":"370683105",
 		"fullCode":"370683105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平里店镇",
 		"parentCode":"370683"
 	},
@@ -91,7 +91,7 @@
 		"code":"370683106",
 		"fullCode":"370683106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驿道镇",
 		"parentCode":"370683"
 	},
@@ -99,7 +99,7 @@
 		"code":"370683107",
 		"fullCode":"370683107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程郭镇",
 		"parentCode":"370683"
 	},
@@ -107,7 +107,7 @@
 		"code":"370683108",
 		"fullCode":"370683108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎头崖镇",
 		"parentCode":"370683"
 	},
@@ -115,7 +115,7 @@
 		"code":"370683109",
 		"fullCode":"370683109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柞村镇",
 		"parentCode":"370683"
 	},
@@ -123,7 +123,7 @@
 		"code":"370683110",
 		"fullCode":"370683110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏邱镇",
 		"parentCode":"370683"
 	},
@@ -131,7 +131,7 @@
 		"code":"370683111",
 		"fullCode":"370683111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土山镇",
 		"parentCode":"370683"
 	}

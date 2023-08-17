@@ -3,7 +3,7 @@
 		"code":"500240001",
 		"fullCode":"500240001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南宾街道",
 		"parentCode":"500240"
 	},
@@ -11,7 +11,7 @@
 		"code":"500240002",
 		"fullCode":"500240002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万安街道",
 		"parentCode":"500240"
 	},
@@ -19,7 +19,7 @@
 		"code":"500240003",
 		"fullCode":"500240003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下路街道",
 		"parentCode":"500240"
 	},
@@ -27,7 +27,7 @@
 		"code":"500240101",
 		"fullCode":"500240101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西沱镇",
 		"parentCode":"500240"
 	},
@@ -35,7 +35,7 @@
 		"code":"500240103",
 		"fullCode":"500240103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"悦崃镇",
 		"parentCode":"500240"
 	},
@@ -43,7 +43,7 @@
 		"code":"500240104",
 		"fullCode":"500240104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临溪镇",
 		"parentCode":"500240"
 	},
@@ -51,7 +51,7 @@
 		"code":"500240105",
 		"fullCode":"500240105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄水镇",
 		"parentCode":"500240"
 	},
@@ -59,7 +59,7 @@
 		"code":"500240106",
 		"fullCode":"500240106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马武镇",
 		"parentCode":"500240"
 	},
@@ -67,7 +67,7 @@
 		"code":"500240107",
 		"fullCode":"500240107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙子镇",
 		"parentCode":"500240"
 	},
@@ -75,7 +75,7 @@
 		"code":"500240108",
 		"fullCode":"500240108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王场镇",
 		"parentCode":"500240"
 	},
@@ -83,7 +83,7 @@
 		"code":"500240109",
 		"fullCode":"500240109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿溪镇",
 		"parentCode":"500240"
 	},
@@ -91,7 +91,7 @@
 		"code":"500240110",
 		"fullCode":"500240110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙沙镇",
 		"parentCode":"500240"
 	},
@@ -99,7 +99,7 @@
 		"code":"500240111",
 		"fullCode":"500240111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼池镇",
 		"parentCode":"500240"
 	},
@@ -107,7 +107,7 @@
 		"code":"500240112",
 		"fullCode":"500240112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三河镇",
 		"parentCode":"500240"
 	},
@@ -115,7 +115,7 @@
 		"code":"500240113",
 		"fullCode":"500240113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大歇镇",
 		"parentCode":"500240"
 	},
@@ -123,7 +123,7 @@
 		"code":"500240114",
 		"fullCode":"500240114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头镇",
 		"parentCode":"500240"
 	},
@@ -131,7 +131,7 @@
 		"code":"500240115",
 		"fullCode":"500240115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万朝镇",
 		"parentCode":"500240"
 	},
@@ -139,7 +139,7 @@
 		"code":"500240116",
 		"fullCode":"500240116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冷水镇",
 		"parentCode":"500240"
 	},
@@ -147,7 +147,7 @@
 		"code":"500240117",
 		"fullCode":"500240117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄鹤镇",
 		"parentCode":"500240"
 	},
@@ -155,7 +155,7 @@
 		"code":"500240118",
 		"fullCode":"500240118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫木镇",
 		"parentCode":"500240"
 	},
@@ -163,7 +163,7 @@
 		"code":"500240203",
 		"fullCode":"500240203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎场乡",
 		"parentCode":"500240"
 	},
@@ -171,7 +171,7 @@
 		"code":"500240204",
 		"fullCode":"500240204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三星乡",
 		"parentCode":"500240"
 	},
@@ -179,7 +179,7 @@
 		"code":"500240205",
 		"fullCode":"500240205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六塘乡",
 		"parentCode":"500240"
 	},
@@ -187,7 +187,7 @@
 		"code":"500240207",
 		"fullCode":"500240207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三益乡",
 		"parentCode":"500240"
 	},
@@ -195,7 +195,7 @@
 		"code":"500240208",
 		"fullCode":"500240208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家乡",
 		"parentCode":"500240"
 	},
@@ -203,7 +203,7 @@
 		"code":"500240209",
 		"fullCode":"500240209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河嘴乡",
 		"parentCode":"500240"
 	},
@@ -211,7 +211,7 @@
 		"code":"500240210",
 		"fullCode":"500240210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石家乡",
 		"parentCode":"500240"
 	},
@@ -219,7 +219,7 @@
 		"code":"500240213",
 		"fullCode":"500240213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中益乡",
 		"parentCode":"500240"
 	},
@@ -227,7 +227,7 @@
 		"code":"500240214",
 		"fullCode":"500240214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洗新乡",
 		"parentCode":"500240"
 	},
@@ -235,7 +235,7 @@
 		"code":"500240216",
 		"fullCode":"500240216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭乡",
 		"parentCode":"500240"
 	},
@@ -243,7 +243,7 @@
 		"code":"500240217",
 		"fullCode":"500240217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新乐乡",
 		"parentCode":"500240"
 	},
@@ -251,7 +251,7 @@
 		"code":"500240218",
 		"fullCode":"500240218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金铃乡",
 		"parentCode":"500240"
 	},
@@ -259,7 +259,7 @@
 		"code":"500240219",
 		"fullCode":"500240219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金竹乡",
 		"parentCode":"500240"
 	}

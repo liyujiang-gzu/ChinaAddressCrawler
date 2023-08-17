@@ -3,7 +3,7 @@
 		"code":"320305001",
 		"fullCode":"320305001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老矿街道",
 		"parentCode":"320305"
 	},
@@ -11,7 +11,7 @@
 		"code":"320305003",
 		"fullCode":"320305003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大泉街道",
 		"parentCode":"320305"
 	},
@@ -19,7 +19,7 @@
 		"code":"320305004",
 		"fullCode":"320305004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大吴街道",
 		"parentCode":"320305"
 	},
@@ -27,7 +27,7 @@
 		"code":"320305005",
 		"fullCode":"320305005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘安湖街道",
 		"parentCode":"320305"
 	},
@@ -35,7 +35,7 @@
 		"code":"320305006",
 		"fullCode":"320305006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茱萸山街道",
 		"parentCode":"320305"
 	},
@@ -43,7 +43,7 @@
 		"code":"320305102",
 		"fullCode":"320305102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山泉镇",
 		"parentCode":"320305"
 	},
@@ -51,7 +51,7 @@
 		"code":"320305104",
 		"fullCode":"320305104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫庄镇",
 		"parentCode":"320305"
 	},
@@ -59,7 +59,7 @@
 		"code":"320305105",
 		"fullCode":"320305105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔山镇",
 		"parentCode":"320305"
 	},
@@ -67,7 +67,7 @@
 		"code":"320305106",
 		"fullCode":"320305106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汴塘镇",
 		"parentCode":"320305"
 	},
@@ -75,7 +75,7 @@
 		"code":"320305107",
 		"fullCode":"320305107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江庄镇",
 		"parentCode":"320305"
 	},
@@ -83,7 +83,7 @@
 		"code":"320305401",
 		"fullCode":"320305401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿庄粮棉原种场",
 		"parentCode":"320305"
 	},
@@ -91,7 +91,7 @@
 		"code":"320305402",
 		"fullCode":"320305402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工业园区管委会",
 		"parentCode":"320305"
 	}

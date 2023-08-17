@@ -3,7 +3,7 @@
 		"code":"420502001",
 		"fullCode":"420502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西陵街道",
 		"parentCode":"420502"
 	},
@@ -11,7 +11,7 @@
 		"code":"420502002",
 		"fullCode":"420502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学院街道",
 		"parentCode":"420502"
 	},
@@ -19,7 +19,7 @@
 		"code":"420502003",
 		"fullCode":"420502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云集街道",
 		"parentCode":"420502"
 	},
@@ -27,7 +27,7 @@
 		"code":"420502004",
 		"fullCode":"420502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西坝街道",
 		"parentCode":"420502"
 	},
@@ -35,7 +35,7 @@
 		"code":"420502005",
 		"fullCode":"420502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛洲坝街道",
 		"parentCode":"420502"
 	},
@@ -43,7 +43,7 @@
 		"code":"420502006",
 		"fullCode":"420502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夜明珠街道",
 		"parentCode":"420502"
 	},
@@ -51,7 +51,7 @@
 		"code":"420502007",
 		"fullCode":"420502007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东苑街道",
 		"parentCode":"420502"
 	},
@@ -59,7 +59,7 @@
 		"code":"420502008",
 		"fullCode":"420502008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南苑街道",
 		"parentCode":"420502"
 	},
@@ -67,7 +67,7 @@
 		"code":"420502009",
 		"fullCode":"420502009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北苑街道",
 		"parentCode":"420502"
 	},
@@ -75,7 +75,7 @@
 		"code":"420502010",
 		"fullCode":"420502010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑湾街道",
 		"parentCode":"420502"
 	}

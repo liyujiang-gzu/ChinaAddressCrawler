@@ -3,7 +3,7 @@
 		"code":"451302001",
 		"fullCode":"451302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"451302"
 	},
@@ -11,7 +11,7 @@
 		"code":"451302002",
 		"fullCode":"451302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"451302"
 	},
@@ -19,7 +19,7 @@
 		"code":"451302003",
 		"fullCode":"451302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西街道",
 		"parentCode":"451302"
 	},
@@ -27,7 +27,7 @@
 		"code":"451302005",
 		"fullCode":"451302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"来华街道",
 		"parentCode":"451302"
 	},
@@ -35,7 +35,7 @@
 		"code":"451302101",
 		"fullCode":"451302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰镇",
 		"parentCode":"451302"
 	},
@@ -43,7 +43,7 @@
 		"code":"451302102",
 		"fullCode":"451302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良江镇",
 		"parentCode":"451302"
 	},
@@ -51,7 +51,7 @@
 		"code":"451302103",
 		"fullCode":"451302103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小平阳镇",
 		"parentCode":"451302"
 	},
@@ -59,7 +59,7 @@
 		"code":"451302104",
 		"fullCode":"451302104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迁江镇",
 		"parentCode":"451302"
 	},
@@ -67,7 +67,7 @@
 		"code":"451302105",
 		"fullCode":"451302105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石陵镇",
 		"parentCode":"451302"
 	},
@@ -75,7 +75,7 @@
 		"code":"451302106",
 		"fullCode":"451302106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平阳镇",
 		"parentCode":"451302"
 	},
@@ -83,7 +83,7 @@
 		"code":"451302107",
 		"fullCode":"451302107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒙村镇",
 		"parentCode":"451302"
 	},
@@ -91,7 +91,7 @@
 		"code":"451302108",
 		"fullCode":"451302108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大湾镇",
 		"parentCode":"451302"
 	},
@@ -99,7 +99,7 @@
 		"code":"451302109",
 		"fullCode":"451302109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥巩镇",
 		"parentCode":"451302"
 	},
@@ -107,7 +107,7 @@
 		"code":"451302110",
 		"fullCode":"451302110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺山镇",
 		"parentCode":"451302"
 	},
@@ -115,7 +115,7 @@
 		"code":"451302111",
 		"fullCode":"451302111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城厢镇",
 		"parentCode":"451302"
 	},
@@ -123,7 +123,7 @@
 		"code":"451302112",
 		"fullCode":"451302112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三五镇",
 		"parentCode":"451302"
 	},
@@ -131,7 +131,7 @@
 		"code":"451302113",
 		"fullCode":"451302113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶邓镇",
 		"parentCode":"451302"
 	},
@@ -139,7 +139,7 @@
 		"code":"451302114",
 		"fullCode":"451302114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石牙镇",
 		"parentCode":"451302"
 	},
@@ -147,7 +147,7 @@
 		"code":"451302115",
 		"fullCode":"451302115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五山镇",
 		"parentCode":"451302"
 	},
@@ -155,7 +155,7 @@
 		"code":"451302116",
 		"fullCode":"451302116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良塘镇",
 		"parentCode":"451302"
 	},
@@ -163,7 +163,7 @@
 		"code":"451302206",
 		"fullCode":"451302206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七洞乡",
 		"parentCode":"451302"
 	},
@@ -171,7 +171,7 @@
 		"code":"451302213",
 		"fullCode":"451302213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南泗乡",
 		"parentCode":"451302"
 	},
@@ -179,7 +179,7 @@
 		"code":"451302214",
 		"fullCode":"451302214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高安乡",
 		"parentCode":"451302"
 	},
@@ -187,7 +187,7 @@
 		"code":"451302216",
 		"fullCode":"451302216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正龙乡",
 		"parentCode":"451302"
 	},
@@ -195,7 +195,7 @@
 		"code":"451302402",
 		"fullCode":"451302402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"来华投资区",
 		"parentCode":"451302"
 	}

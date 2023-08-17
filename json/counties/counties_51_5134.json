@@ -3,7 +3,7 @@
 		"code":"513401",
 		"fullCode":"513401000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西昌市",
 		"parentCode":"5134"
 	},
@@ -11,7 +11,7 @@
 		"code":"513402",
 		"fullCode":"513402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"会理市",
 		"parentCode":"5134"
 	},
@@ -19,7 +19,7 @@
 		"code":"513422",
 		"fullCode":"513422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"木里藏族自治县",
 		"parentCode":"5134"
 	},
@@ -27,7 +27,7 @@
 		"code":"513423",
 		"fullCode":"513423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"盐源县",
 		"parentCode":"5134"
 	},
@@ -35,7 +35,7 @@
 		"code":"513424",
 		"fullCode":"513424000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德昌县",
 		"parentCode":"5134"
 	},
@@ -43,7 +43,7 @@
 		"code":"513426",
 		"fullCode":"513426000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"会东县",
 		"parentCode":"5134"
 	},
@@ -51,7 +51,7 @@
 		"code":"513427",
 		"fullCode":"513427000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁南县",
 		"parentCode":"5134"
 	},
@@ -59,7 +59,7 @@
 		"code":"513428",
 		"fullCode":"513428000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"普格县",
 		"parentCode":"5134"
 	},
@@ -67,7 +67,7 @@
 		"code":"513429",
 		"fullCode":"513429000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"布拖县",
 		"parentCode":"5134"
 	},
@@ -75,7 +75,7 @@
 		"code":"513430",
 		"fullCode":"513430000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金阳县",
 		"parentCode":"5134"
 	},
@@ -83,7 +83,7 @@
 		"code":"513431",
 		"fullCode":"513431000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"昭觉县",
 		"parentCode":"5134"
 	},
@@ -91,7 +91,7 @@
 		"code":"513432",
 		"fullCode":"513432000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"喜德县",
 		"parentCode":"5134"
 	},
@@ -99,7 +99,7 @@
 		"code":"513433",
 		"fullCode":"513433000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"冕宁县",
 		"parentCode":"5134"
 	},
@@ -107,7 +107,7 @@
 		"code":"513434",
 		"fullCode":"513434000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"越西县",
 		"parentCode":"5134"
 	},
@@ -115,7 +115,7 @@
 		"code":"513435",
 		"fullCode":"513435000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"甘洛县",
 		"parentCode":"5134"
 	},
@@ -123,7 +123,7 @@
 		"code":"513436",
 		"fullCode":"513436000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"美姑县",
 		"parentCode":"5134"
 	},
@@ -131,7 +131,7 @@
 		"code":"513437",
 		"fullCode":"513437000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"雷波县",
 		"parentCode":"5134"
 	}

@@ -3,7 +3,7 @@
 		"code":"222424011",
 		"fullCode":"222424011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大川街道",
 		"parentCode":"222424"
 	},
@@ -11,7 +11,7 @@
 		"code":"222424012",
 		"fullCode":"222424012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民街道",
 		"parentCode":"222424"
 	},
@@ -19,7 +19,7 @@
 		"code":"222424013",
 		"fullCode":"222424013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长荣街道",
 		"parentCode":"222424"
 	},
@@ -27,7 +27,7 @@
 		"code":"222424100",
 		"fullCode":"222424100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪清镇",
 		"parentCode":"222424"
 	},
@@ -35,7 +35,7 @@
 		"code":"222424101",
 		"fullCode":"222424101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴沟镇",
 		"parentCode":"222424"
 	},
@@ -43,7 +43,7 @@
 		"code":"222424102",
 		"fullCode":"222424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天桥岭镇",
 		"parentCode":"222424"
 	},
@@ -51,7 +51,7 @@
 		"code":"222424103",
 		"fullCode":"222424103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗子沟镇",
 		"parentCode":"222424"
 	},
@@ -59,7 +59,7 @@
 		"code":"222424104",
 		"fullCode":"222424104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百草沟镇",
 		"parentCode":"222424"
 	},
@@ -67,7 +67,7 @@
 		"code":"222424105",
 		"fullCode":"222424105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春阳镇",
 		"parentCode":"222424"
 	},
@@ -75,7 +75,7 @@
 		"code":"222424106",
 		"fullCode":"222424106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复兴镇",
 		"parentCode":"222424"
 	},
@@ -83,7 +83,7 @@
 		"code":"222424107",
 		"fullCode":"222424107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东光镇",
 		"parentCode":"222424"
 	},
@@ -91,7 +91,7 @@
 		"code":"222424200",
 		"fullCode":"222424200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡冠乡",
 		"parentCode":"222424"
 	},
@@ -99,7 +99,7 @@
 		"code":"222424400",
 		"fullCode":"222424400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪清林业局",
 		"parentCode":"222424"
 	},
@@ -107,7 +107,7 @@
 		"code":"222424401",
 		"fullCode":"222424401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天桥岭林业局",
 		"parentCode":"222424"
 	},
@@ -115,7 +115,7 @@
 		"code":"222424402",
 		"fullCode":"222424402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴沟林业局",
 		"parentCode":"222424"
 	}

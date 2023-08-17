@@ -3,7 +3,7 @@
 		"code":"510117001",
 		"fullCode":"510117001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郫筒街道",
 		"parentCode":"510117"
 	},
@@ -11,7 +11,7 @@
 		"code":"510117004",
 		"fullCode":"510117004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安德街道",
 		"parentCode":"510117"
 	},
@@ -19,7 +19,7 @@
 		"code":"510117005",
 		"fullCode":"510117005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红光街道",
 		"parentCode":"510117"
 	},
@@ -27,7 +27,7 @@
 		"code":"510117006",
 		"fullCode":"510117006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"犀浦街道",
 		"parentCode":"510117"
 	},
@@ -35,7 +35,7 @@
 		"code":"510117007",
 		"fullCode":"510117007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德源街道",
 		"parentCode":"510117"
 	},
@@ -43,7 +43,7 @@
 		"code":"510117008",
 		"fullCode":"510117008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安靖街道",
 		"parentCode":"510117"
 	},
@@ -51,7 +51,7 @@
 		"code":"510117009",
 		"fullCode":"510117009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结街道",
 		"parentCode":"510117"
 	},
@@ -59,7 +59,7 @@
 		"code":"510117019",
 		"fullCode":"510117019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合作街道",
 		"parentCode":"510117"
 	},
@@ -67,7 +67,7 @@
 		"code":"510117020",
 		"fullCode":"510117020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西园街道",
 		"parentCode":"510117"
 	},
@@ -75,7 +75,7 @@
 		"code":"510117104",
 		"fullCode":"510117104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐昌镇",
 		"parentCode":"510117"
 	},
@@ -83,7 +83,7 @@
 		"code":"510117106",
 		"fullCode":"510117106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道堰镇",
 		"parentCode":"510117"
 	},
@@ -91,7 +91,7 @@
 		"code":"510117115",
 		"fullCode":"510117115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友爱镇",
 		"parentCode":"510117"
 	}

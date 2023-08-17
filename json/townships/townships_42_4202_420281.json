@@ -3,7 +3,7 @@
 		"code":"420281001",
 		"fullCode":"420281001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东岳路街道",
 		"parentCode":"420281"
 	},
@@ -11,7 +11,7 @@
 		"code":"420281002",
 		"fullCode":"420281002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风路街道",
 		"parentCode":"420281"
 	},
@@ -19,7 +19,7 @@
 		"code":"420281003",
 		"fullCode":"420281003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金湖街道",
 		"parentCode":"420281"
 	},
@@ -27,7 +27,7 @@
 		"code":"420281004",
 		"fullCode":"420281004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗家桥街道",
 		"parentCode":"420281"
 	},
@@ -35,7 +35,7 @@
 		"code":"420281070",
 		"fullCode":"420281070000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山街道",
 		"parentCode":"420281"
 	},
@@ -43,7 +43,7 @@
 		"code":"420281100",
 		"fullCode":"420281100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金牛镇",
 		"parentCode":"420281"
 	},
@@ -51,7 +51,7 @@
 		"code":"420281101",
 		"fullCode":"420281101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保安镇",
 		"parentCode":"420281"
 	},
@@ -59,7 +59,7 @@
 		"code":"420281102",
 		"fullCode":"420281102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵乡镇",
 		"parentCode":"420281"
 	},
@@ -67,7 +67,7 @@
 		"code":"420281103",
 		"fullCode":"420281103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山店镇",
 		"parentCode":"420281"
 	},
@@ -75,7 +75,7 @@
 		"code":"420281104",
 		"fullCode":"420281104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"还地桥镇",
 		"parentCode":"420281"
 	},
@@ -83,7 +83,7 @@
 		"code":"420281105",
 		"fullCode":"420281105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"殷祖镇",
 		"parentCode":"420281"
 	},
@@ -91,7 +91,7 @@
 		"code":"420281107",
 		"fullCode":"420281107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘仁八镇",
 		"parentCode":"420281"
 	},
@@ -99,7 +99,7 @@
 		"code":"420281108",
 		"fullCode":"420281108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈贵镇",
 		"parentCode":"420281"
 	},
@@ -107,7 +107,7 @@
 		"code":"420281109",
 		"fullCode":"420281109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大箕铺镇",
 		"parentCode":"420281"
 	},
@@ -115,7 +115,7 @@
 		"code":"420281170",
 		"fullCode":"420281170000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪仁镇",
 		"parentCode":"420281"
 	},
@@ -123,7 +123,7 @@
 		"code":"420281200",
 		"fullCode":"420281200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茗山乡",
 		"parentCode":"420281"
 	},
@@ -131,7 +131,7 @@
 		"code":"420281401",
 		"fullCode":"420281401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风农场管理区",
 		"parentCode":"420281"
 	},
@@ -139,7 +139,7 @@
 		"code":"420281402",
 		"fullCode":"420281402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四顾闸管理处",
 		"parentCode":"420281"
 	}

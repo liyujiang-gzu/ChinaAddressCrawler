@@ -3,7 +3,7 @@
 		"code":"420526101",
 		"fullCode":"420526101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古夫镇",
 		"parentCode":"420526"
 	},
@@ -11,7 +11,7 @@
 		"code":"420526102",
 		"fullCode":"420526102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昭君镇",
 		"parentCode":"420526"
 	},
@@ -19,7 +19,7 @@
 		"code":"420526103",
 		"fullCode":"420526103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峡口镇",
 		"parentCode":"420526"
 	},
@@ -27,7 +27,7 @@
 		"code":"420526104",
 		"fullCode":"420526104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南阳镇",
 		"parentCode":"420526"
 	},
@@ -35,7 +35,7 @@
 		"code":"420526105",
 		"fullCode":"420526105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄粮镇",
 		"parentCode":"420526"
 	},
@@ -43,7 +43,7 @@
 		"code":"420526106",
 		"fullCode":"420526106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水月寺镇",
 		"parentCode":"420526"
 	},
@@ -51,7 +51,7 @@
 		"code":"420526201",
 		"fullCode":"420526201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥乡",
 		"parentCode":"420526"
 	},
@@ -59,7 +59,7 @@
 		"code":"420526202",
 		"fullCode":"420526202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榛子乡",
 		"parentCode":"420526"
 	}

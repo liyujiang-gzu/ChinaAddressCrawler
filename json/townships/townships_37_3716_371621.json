@@ -3,7 +3,7 @@
 		"code":"371621001",
 		"fullCode":"371621001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙武街道",
 		"parentCode":"371621"
 	},
@@ -11,7 +11,7 @@
 		"code":"371621003",
 		"fullCode":"371621003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何坊街道",
 		"parentCode":"371621"
 	},
@@ -19,7 +19,7 @@
 		"code":"371621004",
 		"fullCode":"371621004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武定府街道",
 		"parentCode":"371621"
 	},
@@ -27,7 +27,7 @@
 		"code":"371621101",
 		"fullCode":"371621101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石庙镇",
 		"parentCode":"371621"
 	},
@@ -35,7 +35,7 @@
 		"code":"371621102",
 		"fullCode":"371621102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑落墅镇",
 		"parentCode":"371621"
 	},
@@ -43,7 +43,7 @@
 		"code":"371621103",
 		"fullCode":"371621103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淄角镇",
 		"parentCode":"371621"
 	},
@@ -51,7 +51,7 @@
 		"code":"371621104",
 		"fullCode":"371621104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡集镇",
 		"parentCode":"371621"
 	},
@@ -59,7 +59,7 @@
 		"code":"371621105",
 		"fullCode":"371621105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李庄镇",
 		"parentCode":"371621"
 	},
@@ -67,7 +67,7 @@
 		"code":"371621107",
 		"fullCode":"371621107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻店镇",
 		"parentCode":"371621"
 	},
@@ -75,7 +75,7 @@
 		"code":"371621108",
 		"fullCode":"371621108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魏集镇",
 		"parentCode":"371621"
 	},
@@ -83,7 +83,7 @@
 		"code":"371621109",
 		"fullCode":"371621109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河镇",
 		"parentCode":"371621"
 	},
@@ -91,7 +91,7 @@
 		"code":"371621111",
 		"fullCode":"371621111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜楼镇",
 		"parentCode":"371621"
 	},
@@ -99,7 +99,7 @@
 		"code":"371621113",
 		"fullCode":"371621113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛店镇",
 		"parentCode":"371621"
 	},
@@ -107,7 +107,7 @@
 		"code":"371621114",
 		"fullCode":"371621114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大年陈镇",
 		"parentCode":"371621"
 	},
@@ -115,7 +115,7 @@
 		"code":"371621115",
 		"fullCode":"371621115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皂户李镇",
 		"parentCode":"371621"
 	}

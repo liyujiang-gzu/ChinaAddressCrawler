@@ -3,7 +3,7 @@
 		"code":"653123100",
 		"fullCode":"653123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英吉沙镇",
 		"parentCode":"653123"
 	},
@@ -11,7 +11,7 @@
 		"code":"653123101",
 		"fullCode":"653123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌恰镇",
 		"parentCode":"653123"
 	},
@@ -19,7 +19,7 @@
 		"code":"653123102",
 		"fullCode":"653123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芒辛镇",
 		"parentCode":"653123"
 	},
@@ -27,7 +27,7 @@
 		"code":"653123103",
 		"fullCode":"653123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨罕镇",
 		"parentCode":"653123"
 	},
@@ -35,7 +35,7 @@
 		"code":"653123200",
 		"fullCode":"653123200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关乡",
 		"parentCode":"653123"
 	},
@@ -43,7 +43,7 @@
 		"code":"653123201",
 		"fullCode":"653123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔勒潘乡",
 		"parentCode":"653123"
 	},
@@ -51,7 +51,7 @@
 		"code":"653123202",
 		"fullCode":"653123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙甫乡",
 		"parentCode":"653123"
 	},
@@ -59,7 +59,7 @@
 		"code":"653123204",
 		"fullCode":"653123204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"色提力乡",
 		"parentCode":"653123"
 	},
@@ -67,7 +67,7 @@
 		"code":"653123206",
 		"fullCode":"653123206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英也尔乡",
 		"parentCode":"653123"
 	},
@@ -75,7 +75,7 @@
 		"code":"653123207",
 		"fullCode":"653123207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克孜勒乡",
 		"parentCode":"653123"
 	},
@@ -83,7 +83,7 @@
 		"code":"653123208",
 		"fullCode":"653123208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托普鲁克乡",
 		"parentCode":"653123"
 	},
@@ -91,7 +91,7 @@
 		"code":"653123209",
 		"fullCode":"653123209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏盖提乡",
 		"parentCode":"653123"
 	},
@@ -99,7 +99,7 @@
 		"code":"653123211",
 		"fullCode":"653123211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艾古斯乡",
 		"parentCode":"653123"
 	},
@@ -107,7 +107,7 @@
 		"code":"653123212",
 		"fullCode":"653123212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依格孜也尔乡",
 		"parentCode":"653123"
 	},
@@ -115,7 +115,7 @@
 		"code":"653123401",
 		"fullCode":"653123401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英吉沙工业园区",
 		"parentCode":"653123"
 	},
@@ -123,7 +123,7 @@
 		"code":"653123500",
 		"fullCode":"653123500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团东风农场",
 		"parentCode":"653123"
 	}

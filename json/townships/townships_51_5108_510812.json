@@ -3,7 +3,7 @@
 		"code":"510812100",
 		"fullCode":"510812100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝天镇",
 		"parentCode":"510812"
 	},
@@ -11,7 +11,7 @@
 		"code":"510812101",
 		"fullCode":"510812101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大滩镇",
 		"parentCode":"510812"
 	},
@@ -19,7 +19,7 @@
 		"code":"510812102",
 		"fullCode":"510812102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊木镇",
 		"parentCode":"510812"
 	},
@@ -27,7 +27,7 @@
 		"code":"510812103",
 		"fullCode":"510812103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曾家镇",
 		"parentCode":"510812"
 	},
@@ -35,7 +35,7 @@
 		"code":"510812104",
 		"fullCode":"510812104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中子镇",
 		"parentCode":"510812"
 	},
@@ -43,7 +43,7 @@
 		"code":"510812105",
 		"fullCode":"510812105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河镇",
 		"parentCode":"510812"
 	},
@@ -51,7 +51,7 @@
 		"code":"510812109",
 		"fullCode":"510812109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两河口镇",
 		"parentCode":"510812"
 	},
@@ -59,7 +59,7 @@
 		"code":"510812110",
 		"fullCode":"510812110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云雾山镇",
 		"parentCode":"510812"
 	},
@@ -67,7 +67,7 @@
 		"code":"510812111",
 		"fullCode":"510812111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水磨沟镇",
 		"parentCode":"510812"
 	},
@@ -75,7 +75,7 @@
 		"code":"510812112",
 		"fullCode":"510812112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家镇",
 		"parentCode":"510812"
 	},
@@ -83,7 +83,7 @@
 		"code":"510812214",
 		"fullCode":"510812214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻柳乡",
 		"parentCode":"510812"
 	},
@@ -91,7 +91,7 @@
 		"code":"510812215",
 		"fullCode":"510812215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临溪乡",
 		"parentCode":"510812"
 	}

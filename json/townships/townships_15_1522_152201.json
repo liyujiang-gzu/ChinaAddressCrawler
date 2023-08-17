@@ -3,7 +3,7 @@
 		"code":"152201001",
 		"fullCode":"152201001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱国街道",
 		"parentCode":"152201"
 	},
@@ -11,7 +11,7 @@
 		"code":"152201002",
 		"fullCode":"152201002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"152201"
 	},
@@ -19,7 +19,7 @@
 		"code":"152201003",
 		"fullCode":"152201003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴安街道",
 		"parentCode":"152201"
 	},
@@ -27,7 +27,7 @@
 		"code":"152201004",
 		"fullCode":"152201004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利街道",
 		"parentCode":"152201"
 	},
@@ -35,7 +35,7 @@
 		"code":"152201005",
 		"fullCode":"152201005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西街道",
 		"parentCode":"152201"
 	},
@@ -43,7 +43,7 @@
 		"code":"152201006",
 		"fullCode":"152201006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都林街道",
 		"parentCode":"152201"
 	},
@@ -51,7 +51,7 @@
 		"code":"152201007",
 		"fullCode":"152201007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五一街道",
 		"parentCode":"152201"
 	},
@@ -59,7 +59,7 @@
 		"code":"152201008",
 		"fullCode":"152201008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊街道",
 		"parentCode":"152201"
 	},
@@ -67,7 +67,7 @@
 		"code":"152201009",
 		"fullCode":"152201009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"152201"
 	},
@@ -75,7 +75,7 @@
 		"code":"152201010",
 		"fullCode":"152201010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天骄街道",
 		"parentCode":"152201"
 	},
@@ -83,7 +83,7 @@
 		"code":"152201100",
 		"fullCode":"152201100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰哈达镇",
 		"parentCode":"152201"
 	},
@@ -91,7 +91,7 @@
 		"code":"152201101",
 		"fullCode":"152201101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛根庙镇",
 		"parentCode":"152201"
 	},
@@ -99,7 +99,7 @@
 		"code":"152201102",
 		"fullCode":"152201102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太本站镇",
 		"parentCode":"152201"
 	},
@@ -107,7 +107,7 @@
 		"code":"152201103",
 		"fullCode":"152201103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义勒力特镇",
 		"parentCode":"152201"
 	},
@@ -115,7 +115,7 @@
 		"code":"152201401",
 		"fullCode":"152201401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼和马场",
 		"parentCode":"152201"
 	},
@@ -123,7 +123,7 @@
 		"code":"152201402",
 		"fullCode":"152201402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰浩特绿色产业园",
 		"parentCode":"152201"
 	},
@@ -131,7 +131,7 @@
 		"code":"152201403",
 		"fullCode":"152201403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴安盟经济技术开发区",
 		"parentCode":"152201"
 	}

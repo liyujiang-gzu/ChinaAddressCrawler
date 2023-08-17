@@ -3,7 +3,7 @@
 		"code":"640105001",
 		"fullCode":"640105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西花园路街道",
 		"parentCode":"640105"
 	},
@@ -11,7 +11,7 @@
 		"code":"640105002",
 		"fullCode":"640105002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北京西路街道",
 		"parentCode":"640105"
 	},
@@ -19,7 +19,7 @@
 		"code":"640105003",
 		"fullCode":"640105003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌路街道",
 		"parentCode":"640105"
 	},
@@ -27,7 +27,7 @@
 		"code":"640105004",
 		"fullCode":"640105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朔方路街道",
 		"parentCode":"640105"
 	},
@@ -35,7 +35,7 @@
 		"code":"640105005",
 		"fullCode":"640105005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁华路街道",
 		"parentCode":"640105"
 	},
@@ -43,7 +43,7 @@
 		"code":"640105006",
 		"fullCode":"640105006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贺兰山西路街道",
 		"parentCode":"640105"
 	},
@@ -51,7 +51,7 @@
 		"code":"640105007",
 		"fullCode":"640105007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀远路街道",
 		"parentCode":"640105"
 	},
@@ -59,7 +59,7 @@
 		"code":"640105100",
 		"fullCode":"640105100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴泾镇",
 		"parentCode":"640105"
 	},
@@ -67,7 +67,7 @@
 		"code":"640105101",
 		"fullCode":"640105101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇北堡镇",
 		"parentCode":"640105"
 	}

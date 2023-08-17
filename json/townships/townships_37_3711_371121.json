@@ -3,7 +3,7 @@
 		"code":"371121001",
 		"fullCode":"371121001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪凝街道",
 		"parentCode":"371121"
 	},
@@ -11,7 +11,7 @@
 		"code":"371121002",
 		"fullCode":"371121002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高泽街道",
 		"parentCode":"371121"
 	},
@@ -19,7 +19,7 @@
 		"code":"371121102",
 		"fullCode":"371121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"街头镇",
 		"parentCode":"371121"
 	},
@@ -27,7 +27,7 @@
 		"code":"371121103",
 		"fullCode":"371121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潮河镇",
 		"parentCode":"371121"
 	},
@@ -35,7 +35,7 @@
 		"code":"371121104",
 		"fullCode":"371121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许孟镇",
 		"parentCode":"371121"
 	},
@@ -43,7 +43,7 @@
 		"code":"371121105",
 		"fullCode":"371121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"于里镇",
 		"parentCode":"371121"
 	},
@@ -51,7 +51,7 @@
 		"code":"371121106",
 		"fullCode":"371121106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪湖镇",
 		"parentCode":"371121"
 	},
@@ -59,7 +59,7 @@
 		"code":"371121107",
 		"fullCode":"371121107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叩官镇",
 		"parentCode":"371121"
 	},
@@ -67,7 +67,7 @@
 		"code":"371121108",
 		"fullCode":"371121108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中至镇",
 		"parentCode":"371121"
 	},
@@ -75,7 +75,7 @@
 		"code":"371121110",
 		"fullCode":"371121110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松柏镇",
 		"parentCode":"371121"
 	},
@@ -83,7 +83,7 @@
 		"code":"371121201",
 		"fullCode":"371121201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石场乡",
 		"parentCode":"371121"
 	},
@@ -91,7 +91,7 @@
 		"code":"371121202",
 		"fullCode":"371121202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"户部乡",
 		"parentCode":"371121"
 	}

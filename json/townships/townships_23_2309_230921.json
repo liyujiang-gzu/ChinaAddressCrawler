@@ -3,7 +3,7 @@
 		"code":"230921001",
 		"fullCode":"230921001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新起街道",
 		"parentCode":"230921"
 	},
@@ -11,7 +11,7 @@
 		"code":"230921002",
 		"fullCode":"230921002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街道",
 		"parentCode":"230921"
 	},
@@ -19,7 +19,7 @@
 		"code":"230921003",
 		"fullCode":"230921003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元明街道",
 		"parentCode":"230921"
 	},
@@ -27,7 +27,7 @@
 		"code":"230921004",
 		"fullCode":"230921004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西街道",
 		"parentCode":"230921"
 	},
@@ -35,7 +35,7 @@
 		"code":"230921005",
 		"fullCode":"230921005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"230921"
 	},
@@ -43,7 +43,7 @@
 		"code":"230921100",
 		"fullCode":"230921100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勃利镇",
 		"parentCode":"230921"
 	},
@@ -51,7 +51,7 @@
 		"code":"230921101",
 		"fullCode":"230921101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小五站镇",
 		"parentCode":"230921"
 	},
@@ -59,7 +59,7 @@
 		"code":"230921102",
 		"fullCode":"230921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大四站镇",
 		"parentCode":"230921"
 	},
@@ -67,7 +67,7 @@
 		"code":"230921103",
 		"fullCode":"230921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河镇",
 		"parentCode":"230921"
 	},
@@ -75,7 +75,7 @@
 		"code":"230921104",
 		"fullCode":"230921104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"倭肯镇",
 		"parentCode":"230921"
 	},
@@ -83,7 +83,7 @@
 		"code":"230921200",
 		"fullCode":"230921200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山乡",
 		"parentCode":"230921"
 	},
@@ -91,7 +91,7 @@
 		"code":"230921202",
 		"fullCode":"230921202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永恒乡",
 		"parentCode":"230921"
 	},
@@ -99,7 +99,7 @@
 		"code":"230921203",
 		"fullCode":"230921203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抢垦乡",
 		"parentCode":"230921"
 	},
@@ -107,7 +107,7 @@
 		"code":"230921204",
 		"fullCode":"230921204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏树朝鲜族乡",
 		"parentCode":"230921"
 	},
@@ -115,7 +115,7 @@
 		"code":"230921205",
 		"fullCode":"230921205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉兴朝鲜族满族乡",
 		"parentCode":"230921"
 	}

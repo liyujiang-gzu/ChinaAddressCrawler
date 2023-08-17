@@ -3,7 +3,7 @@
 		"code":"610921100",
 		"fullCode":"610921100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"610921"
 	},
@@ -11,7 +11,7 @@
 		"code":"610921101",
 		"fullCode":"610921101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涧池镇",
 		"parentCode":"610921"
 	},
@@ -19,7 +19,7 @@
 		"code":"610921102",
 		"fullCode":"610921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲溪镇",
 		"parentCode":"610921"
 	},
@@ -27,7 +27,7 @@
 		"code":"610921103",
 		"fullCode":"610921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平梁镇",
 		"parentCode":"610921"
 	},
@@ -35,7 +35,7 @@
 		"code":"610921104",
 		"fullCode":"610921104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双乳镇",
 		"parentCode":"610921"
 	},
@@ -43,7 +43,7 @@
 		"code":"610921105",
 		"fullCode":"610921105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁佛寺镇",
 		"parentCode":"610921"
 	},
@@ -51,7 +51,7 @@
 		"code":"610921107",
 		"fullCode":"610921107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漩涡镇",
 		"parentCode":"610921"
 	},
@@ -59,7 +59,7 @@
 		"code":"610921108",
 		"fullCode":"610921108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉阳镇",
 		"parentCode":"610921"
 	},
@@ -67,7 +67,7 @@
 		"code":"610921110",
 		"fullCode":"610921110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河口镇",
 		"parentCode":"610921"
 	},
@@ -75,7 +75,7 @@
 		"code":"610921112",
 		"fullCode":"610921112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音河镇",
 		"parentCode":"610921"
 	}

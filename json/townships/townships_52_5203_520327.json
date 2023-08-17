@@ -3,7 +3,7 @@
 		"code":"520327001",
 		"fullCode":"520327001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉街道",
 		"parentCode":"520327"
 	},
@@ -11,7 +11,7 @@
 		"code":"520327002",
 		"fullCode":"520327002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何坝街道",
 		"parentCode":"520327"
 	},
@@ -19,7 +19,7 @@
 		"code":"520327003",
 		"fullCode":"520327003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花坪街道",
 		"parentCode":"520327"
 	},
@@ -27,7 +27,7 @@
 		"code":"520327004",
 		"fullCode":"520327004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤岭街道",
 		"parentCode":"520327"
 	},
@@ -35,7 +35,7 @@
 		"code":"520327101",
 		"fullCode":"520327101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"进化镇",
 		"parentCode":"520327"
 	},
@@ -43,7 +43,7 @@
 		"code":"520327102",
 		"fullCode":"520327102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琊川镇",
 		"parentCode":"520327"
 	},
@@ -51,7 +51,7 @@
 		"code":"520327103",
 		"fullCode":"520327103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蜂岩镇",
 		"parentCode":"520327"
 	},
@@ -59,7 +59,7 @@
 		"code":"520327104",
 		"fullCode":"520327104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永和镇",
 		"parentCode":"520327"
 	},
@@ -67,7 +67,7 @@
 		"code":"520327106",
 		"fullCode":"520327106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥阳镇",
 		"parentCode":"520327"
 	},
@@ -75,7 +75,7 @@
 		"code":"520327107",
 		"fullCode":"520327107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土溪镇",
 		"parentCode":"520327"
 	},
@@ -83,7 +83,7 @@
 		"code":"520327108",
 		"fullCode":"520327108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安镇",
 		"parentCode":"520327"
 	},
@@ -91,7 +91,7 @@
 		"code":"520327110",
 		"fullCode":"520327110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天桥镇",
 		"parentCode":"520327"
 	},
@@ -99,7 +99,7 @@
 		"code":"520327111",
 		"fullCode":"520327111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王寨镇",
 		"parentCode":"520327"
 	},
@@ -107,7 +107,7 @@
 		"code":"520327112",
 		"fullCode":"520327112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新建镇",
 		"parentCode":"520327"
 	}

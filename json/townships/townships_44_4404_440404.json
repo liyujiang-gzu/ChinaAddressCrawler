@@ -3,7 +3,7 @@
 		"code":"440404100",
 		"fullCode":"440404100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三灶镇",
 		"parentCode":"440404"
 	},
@@ -11,7 +11,7 @@
 		"code":"440404101",
 		"fullCode":"440404101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南水镇",
 		"parentCode":"440404"
 	},
@@ -19,7 +19,7 @@
 		"code":"440404103",
 		"fullCode":"440404103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗镇",
 		"parentCode":"440404"
 	},
@@ -27,7 +27,7 @@
 		"code":"440404104",
 		"fullCode":"440404104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平沙镇",
 		"parentCode":"440404"
 	},
@@ -35,7 +35,7 @@
 		"code":"440404400",
 		"fullCode":"440404400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联港工业区",
 		"parentCode":"440404"
 	},
@@ -43,7 +43,7 @@
 		"code":"440404401",
 		"fullCode":"440404401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"航空产业园",
 		"parentCode":"440404"
 	}

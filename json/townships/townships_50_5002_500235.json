@@ -3,7 +3,7 @@
 		"code":"500235001",
 		"fullCode":"500235001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双江街道",
 		"parentCode":"500235"
 	},
@@ -11,7 +11,7 @@
 		"code":"500235002",
 		"fullCode":"500235002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙街道",
 		"parentCode":"500235"
 	},
@@ -19,7 +19,7 @@
 		"code":"500235003",
 		"fullCode":"500235003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人和街道",
 		"parentCode":"500235"
 	},
@@ -27,7 +27,7 @@
 		"code":"500235004",
 		"fullCode":"500235004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘龙街道",
 		"parentCode":"500235"
 	},
@@ -35,7 +35,7 @@
 		"code":"500235105",
 		"fullCode":"500235105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙角镇",
 		"parentCode":"500235"
 	},
@@ -43,7 +43,7 @@
 		"code":"500235107",
 		"fullCode":"500235107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"故陵镇",
 		"parentCode":"500235"
 	},
@@ -51,7 +51,7 @@
 		"code":"500235108",
 		"fullCode":"500235108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红狮镇",
 		"parentCode":"500235"
 	},
@@ -59,7 +59,7 @@
 		"code":"500235115",
 		"fullCode":"500235115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路阳镇",
 		"parentCode":"500235"
 	},
@@ -67,7 +67,7 @@
 		"code":"500235116",
 		"fullCode":"500235116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"农坝镇",
 		"parentCode":"500235"
 	},
@@ -75,7 +75,7 @@
 		"code":"500235118",
 		"fullCode":"500235118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渠马镇",
 		"parentCode":"500235"
 	},
@@ -83,7 +83,7 @@
 		"code":"500235121",
 		"fullCode":"500235121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄石镇",
 		"parentCode":"500235"
 	},
@@ -91,7 +91,7 @@
 		"code":"500235122",
 		"fullCode":"500235122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴阳镇",
 		"parentCode":"500235"
 	},
@@ -99,7 +99,7 @@
 		"code":"500235123",
 		"fullCode":"500235123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙市镇",
 		"parentCode":"500235"
 	},
@@ -107,7 +107,7 @@
 		"code":"500235124",
 		"fullCode":"500235124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼泉镇",
 		"parentCode":"500235"
 	},
@@ -115,7 +115,7 @@
 		"code":"500235125",
 		"fullCode":"500235125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤鸣镇",
 		"parentCode":"500235"
 	},
@@ -123,7 +123,7 @@
 		"code":"500235127",
 		"fullCode":"500235127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝坪镇",
 		"parentCode":"500235"
 	},
@@ -131,7 +131,7 @@
 		"code":"500235128",
 		"fullCode":"500235128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南溪镇",
 		"parentCode":"500235"
 	},
@@ -139,7 +139,7 @@
 		"code":"500235129",
 		"fullCode":"500235129000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双土镇",
 		"parentCode":"500235"
 	},
@@ -147,7 +147,7 @@
 		"code":"500235130",
 		"fullCode":"500235130000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑坪镇",
 		"parentCode":"500235"
 	},
@@ -155,7 +155,7 @@
 		"code":"500235131",
 		"fullCode":"500235131000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江口镇",
 		"parentCode":"500235"
 	},
@@ -163,7 +163,7 @@
 		"code":"500235132",
 		"fullCode":"500235132000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高阳镇",
 		"parentCode":"500235"
 	},
@@ -171,7 +171,7 @@
 		"code":"500235133",
 		"fullCode":"500235133000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安镇",
 		"parentCode":"500235"
 	},
@@ -179,7 +179,7 @@
 		"code":"500235135",
 		"fullCode":"500235135000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云阳镇",
 		"parentCode":"500235"
 	},
@@ -187,7 +187,7 @@
 		"code":"500235136",
 		"fullCode":"500235136000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云安镇",
 		"parentCode":"500235"
 	},
@@ -195,7 +195,7 @@
 		"code":"500235137",
 		"fullCode":"500235137000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栖霞镇",
 		"parentCode":"500235"
 	},
@@ -203,7 +203,7 @@
 		"code":"500235138",
 		"fullCode":"500235138000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙镇",
 		"parentCode":"500235"
 	},
@@ -211,7 +211,7 @@
 		"code":"500235139",
 		"fullCode":"500235139000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥溪镇",
 		"parentCode":"500235"
 	},
@@ -219,7 +219,7 @@
 		"code":"500235140",
 		"fullCode":"500235140000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔈草镇",
 		"parentCode":"500235"
 	},
@@ -227,7 +227,7 @@
 		"code":"500235141",
 		"fullCode":"500235141000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"养鹿镇",
 		"parentCode":"500235"
 	},
@@ -235,7 +235,7 @@
 		"code":"500235142",
 		"fullCode":"500235142000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口镇",
 		"parentCode":"500235"
 	},
@@ -243,7 +243,7 @@
 		"code":"500235143",
 		"fullCode":"500235143000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堰坪镇",
 		"parentCode":"500235"
 	},
@@ -251,7 +251,7 @@
 		"code":"500235144",
 		"fullCode":"500235144000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙洞镇",
 		"parentCode":"500235"
 	},
@@ -259,7 +259,7 @@
 		"code":"500235145",
 		"fullCode":"500235145000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后叶镇",
 		"parentCode":"500235"
 	},
@@ -267,7 +267,7 @@
 		"code":"500235146",
 		"fullCode":"500235146000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"耀灵镇",
 		"parentCode":"500235"
 	},
@@ -275,7 +275,7 @@
 		"code":"500235147",
 		"fullCode":"500235147000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大阳镇",
 		"parentCode":"500235"
 	},
@@ -283,7 +283,7 @@
 		"code":"500235208",
 		"fullCode":"500235208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"外郎乡",
 		"parentCode":"500235"
 	},
@@ -291,7 +291,7 @@
 		"code":"500235215",
 		"fullCode":"500235215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新津乡",
 		"parentCode":"500235"
 	},
@@ -299,7 +299,7 @@
 		"code":"500235216",
 		"fullCode":"500235216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普安乡",
 		"parentCode":"500235"
 	},
@@ -307,7 +307,7 @@
 		"code":"500235218",
 		"fullCode":"500235218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洞鹿乡",
 		"parentCode":"500235"
 	},
@@ -315,7 +315,7 @@
 		"code":"500235219",
 		"fullCode":"500235219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门乡",
 		"parentCode":"500235"
 	},
@@ -323,7 +323,7 @@
 		"code":"500235239",
 		"fullCode":"500235239000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上坝乡",
 		"parentCode":"500235"
 	},
@@ -331,7 +331,7 @@
 		"code":"500235242",
 		"fullCode":"500235242000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水土家族乡",
 		"parentCode":"500235"
 	}

@@ -3,7 +3,7 @@
 		"code":"411102",
 		"fullCode":"411102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"源汇区",
 		"parentCode":"4111"
 	},
@@ -11,7 +11,7 @@
 		"code":"411103",
 		"fullCode":"411103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郾城区",
 		"parentCode":"4111"
 	},
@@ -19,7 +19,7 @@
 		"code":"411104",
 		"fullCode":"411104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"召陵区",
 		"parentCode":"4111"
 	},
@@ -27,7 +27,7 @@
 		"code":"411121",
 		"fullCode":"411121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"舞阳县",
 		"parentCode":"4111"
 	},
@@ -35,7 +35,7 @@
 		"code":"411122",
 		"fullCode":"411122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临颍县",
 		"parentCode":"4111"
 	},
@@ -43,7 +43,7 @@
 		"code":"411171",
 		"fullCode":"411171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"漯河经济技术开发区",
 		"parentCode":"4111"
 	}

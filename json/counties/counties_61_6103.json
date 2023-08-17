@@ -3,7 +3,7 @@
 		"code":"610302",
 		"fullCode":"610302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"渭滨区",
 		"parentCode":"6103"
 	},
@@ -11,7 +11,7 @@
 		"code":"610303",
 		"fullCode":"610303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金台区",
 		"parentCode":"6103"
 	},
@@ -19,7 +19,7 @@
 		"code":"610304",
 		"fullCode":"610304000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"陈仓区",
 		"parentCode":"6103"
 	},
@@ -27,7 +27,7 @@
 		"code":"610305",
 		"fullCode":"610305000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凤翔区",
 		"parentCode":"6103"
 	},
@@ -35,7 +35,7 @@
 		"code":"610323",
 		"fullCode":"610323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岐山县",
 		"parentCode":"6103"
 	},
@@ -43,7 +43,7 @@
 		"code":"610324",
 		"fullCode":"610324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"扶风县",
 		"parentCode":"6103"
 	},
@@ -51,7 +51,7 @@
 		"code":"610326",
 		"fullCode":"610326000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"眉县",
 		"parentCode":"6103"
 	},
@@ -59,7 +59,7 @@
 		"code":"610327",
 		"fullCode":"610327000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"陇县",
 		"parentCode":"6103"
 	},
@@ -67,7 +67,7 @@
 		"code":"610328",
 		"fullCode":"610328000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"千阳县",
 		"parentCode":"6103"
 	},
@@ -75,7 +75,7 @@
 		"code":"610329",
 		"fullCode":"610329000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"麟游县",
 		"parentCode":"6103"
 	},
@@ -83,7 +83,7 @@
 		"code":"610330",
 		"fullCode":"610330000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凤县",
 		"parentCode":"6103"
 	},
@@ -91,7 +91,7 @@
 		"code":"610331",
 		"fullCode":"610331000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"太白县",
 		"parentCode":"6103"
 	}

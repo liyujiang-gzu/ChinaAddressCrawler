@@ -3,7 +3,7 @@
 		"code":"450110100",
 		"fullCode":"450110100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城厢镇",
 		"parentCode":"450110"
 	},
@@ -11,7 +11,7 @@
 		"code":"450110102",
 		"fullCode":"450110102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"450110"
 	},
@@ -19,7 +19,7 @@
 		"code":"450110103",
 		"fullCode":"450110103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桥镇",
 		"parentCode":"450110"
 	},
@@ -27,7 +27,7 @@
 		"code":"450110104",
 		"fullCode":"450110104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁武镇",
 		"parentCode":"450110"
 	},
@@ -35,7 +35,7 @@
 		"code":"450110105",
 		"fullCode":"450110105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锣圩镇",
 		"parentCode":"450110"
 	},
@@ -43,7 +43,7 @@
 		"code":"450110106",
 		"fullCode":"450110106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙湖镇",
 		"parentCode":"450110"
 	},
@@ -51,7 +51,7 @@
 		"code":"450110107",
 		"fullCode":"450110107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"府城镇",
 		"parentCode":"450110"
 	},
@@ -59,7 +59,7 @@
 		"code":"450110108",
 		"fullCode":"450110108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陆斡镇",
 		"parentCode":"450110"
 	},
@@ -67,7 +67,7 @@
 		"code":"450110109",
 		"fullCode":"450110109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两江镇",
 		"parentCode":"450110"
 	},
@@ -75,7 +75,7 @@
 		"code":"450110110",
 		"fullCode":"450110110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗波镇",
 		"parentCode":"450110"
 	},
@@ -83,7 +83,7 @@
 		"code":"450110111",
 		"fullCode":"450110111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵马镇",
 		"parentCode":"450110"
 	},
@@ -91,7 +91,7 @@
 		"code":"450110112",
 		"fullCode":"450110112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘圩镇",
 		"parentCode":"450110"
 	},
@@ -99,7 +99,7 @@
 		"code":"450110113",
 		"fullCode":"450110113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马头镇",
 		"parentCode":"450110"
 	},
@@ -107,7 +107,7 @@
 		"code":"450110451",
 		"fullCode":"450110451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南宁华侨投资区",
 		"parentCode":"450110"
 	}

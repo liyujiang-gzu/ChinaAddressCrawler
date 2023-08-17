@@ -3,7 +3,7 @@
 		"code":"130725100",
 		"fullCode":"130725100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南壕堑镇",
 		"parentCode":"130725"
 	},
@@ -11,7 +11,7 @@
 		"code":"130725101",
 		"fullCode":"130725101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大青沟镇",
 		"parentCode":"130725"
 	},
@@ -19,7 +19,7 @@
 		"code":"130725102",
 		"fullCode":"130725102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八道沟镇",
 		"parentCode":"130725"
 	},
@@ -27,7 +27,7 @@
 		"code":"130725103",
 		"fullCode":"130725103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红土梁镇",
 		"parentCode":"130725"
 	},
@@ -35,7 +35,7 @@
 		"code":"130725104",
 		"fullCode":"130725104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小蒜沟镇",
 		"parentCode":"130725"
 	},
@@ -43,7 +43,7 @@
 		"code":"130725105",
 		"fullCode":"130725105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三工地镇",
 		"parentCode":"130725"
 	},
@@ -51,7 +51,7 @@
 		"code":"130725106",
 		"fullCode":"130725106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满井镇",
 		"parentCode":"130725"
 	},
@@ -59,7 +59,7 @@
 		"code":"130725200",
 		"fullCode":"130725200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营盘乡",
 		"parentCode":"130725"
 	},
@@ -67,7 +67,7 @@
 		"code":"130725201",
 		"fullCode":"130725201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大苏计乡",
 		"parentCode":"130725"
 	},
@@ -75,7 +75,7 @@
 		"code":"130725202",
 		"fullCode":"130725202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石井乡",
 		"parentCode":"130725"
 	},
@@ -83,7 +83,7 @@
 		"code":"130725205",
 		"fullCode":"130725205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七甲乡",
 		"parentCode":"130725"
 	},
@@ -91,7 +91,7 @@
 		"code":"130725206",
 		"fullCode":"130725206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"套里庄乡",
 		"parentCode":"130725"
 	},
@@ -99,7 +99,7 @@
 		"code":"130725207",
 		"fullCode":"130725207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲石河乡",
 		"parentCode":"130725"
 	},
@@ -107,7 +107,7 @@
 		"code":"130725208",
 		"fullCode":"130725208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下马圈乡",
 		"parentCode":"130725"
 	}

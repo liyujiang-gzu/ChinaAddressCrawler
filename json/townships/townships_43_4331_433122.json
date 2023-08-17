@@ -3,7 +3,7 @@
 		"code":"433122102",
 		"fullCode":"433122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达岚镇",
 		"parentCode":"433122"
 	},
@@ -11,7 +11,7 @@
 		"code":"433122104",
 		"fullCode":"433122104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆场镇",
 		"parentCode":"433122"
 	},
@@ -19,7 +19,7 @@
 		"code":"433122105",
 		"fullCode":"433122105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭溪镇",
 		"parentCode":"433122"
 	},
@@ -27,7 +27,7 @@
 		"code":"433122106",
 		"fullCode":"433122106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洗溪镇",
 		"parentCode":"433122"
 	},
@@ -35,7 +35,7 @@
 		"code":"433122107",
 		"fullCode":"433122107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武溪镇",
 		"parentCode":"433122"
 	},
@@ -43,7 +43,7 @@
 		"code":"433122108",
 		"fullCode":"433122108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浦市镇",
 		"parentCode":"433122"
 	},
@@ -51,7 +51,7 @@
 		"code":"433122109",
 		"fullCode":"433122109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合水镇",
 		"parentCode":"433122"
 	},
@@ -59,7 +59,7 @@
 		"code":"433122203",
 		"fullCode":"433122203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石榴坪乡",
 		"parentCode":"433122"
 	},
@@ -67,7 +67,7 @@
 		"code":"433122206",
 		"fullCode":"433122206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放岩乡",
 		"parentCode":"433122"
 	},
@@ -75,7 +75,7 @@
 		"code":"433122207",
 		"fullCode":"433122207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小章乡",
 		"parentCode":"433122"
 	},
@@ -83,7 +83,7 @@
 		"code":"433122208",
 		"fullCode":"433122208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白羊溪乡",
 		"parentCode":"433122"
 	},
@@ -91,7 +91,7 @@
 		"code":"433122400",
 		"fullCode":"433122400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"军亭界林场",
 		"parentCode":"433122"
 	}

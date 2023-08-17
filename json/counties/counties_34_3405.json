@@ -3,7 +3,7 @@
 		"code":"340503",
 		"fullCode":"340503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"花山区",
 		"parentCode":"3405"
 	},
@@ -11,7 +11,7 @@
 		"code":"340504",
 		"fullCode":"340504000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"雨山区",
 		"parentCode":"3405"
 	},
@@ -19,7 +19,7 @@
 		"code":"340506",
 		"fullCode":"340506000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"博望区",
 		"parentCode":"3405"
 	},
@@ -27,7 +27,7 @@
 		"code":"340521",
 		"fullCode":"340521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"当涂县",
 		"parentCode":"3405"
 	},
@@ -35,7 +35,7 @@
 		"code":"340522",
 		"fullCode":"340522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"含山县",
 		"parentCode":"3405"
 	},
@@ -43,7 +43,7 @@
 		"code":"340523",
 		"fullCode":"340523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"和县",
 		"parentCode":"3405"
 	}

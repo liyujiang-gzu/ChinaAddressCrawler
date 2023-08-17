@@ -3,7 +3,7 @@
 		"code":"321203001",
 		"fullCode":"321203001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"口岸街道",
 		"parentCode":"321203"
 	},
@@ -11,7 +11,7 @@
 		"code":"321203002",
 		"fullCode":"321203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刁铺街道",
 		"parentCode":"321203"
 	},
@@ -19,7 +19,7 @@
 		"code":"321203003",
 		"fullCode":"321203003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许庄街道",
 		"parentCode":"321203"
 	},
@@ -27,7 +27,7 @@
 		"code":"321203004",
 		"fullCode":"321203004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰街道",
 		"parentCode":"321203"
 	},
@@ -35,7 +35,7 @@
 		"code":"321203005",
 		"fullCode":"321203005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺巷街道",
 		"parentCode":"321203"
 	},
@@ -43,7 +43,7 @@
 		"code":"321203006",
 		"fullCode":"321203006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明珠街道",
 		"parentCode":"321203"
 	},
@@ -51,7 +51,7 @@
 		"code":"321203007",
 		"fullCode":"321203007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化学新材料产业园-沿江街道",
 		"parentCode":"321203"
 	},
@@ -59,7 +59,7 @@
 		"code":"321203100",
 		"fullCode":"321203100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港口物流产业园-永安洲镇",
 		"parentCode":"321203"
 	},
@@ -67,7 +67,7 @@
 		"code":"321203101",
 		"fullCode":"321203101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马镇",
 		"parentCode":"321203"
 	},
@@ -75,7 +75,7 @@
 		"code":"321203103",
 		"fullCode":"321203103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡庄镇",
 		"parentCode":"321203"
 	},
@@ -83,7 +83,7 @@
 		"code":"321203104",
 		"fullCode":"321203104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大泗镇",
 		"parentCode":"321203"
 	},
@@ -91,7 +91,7 @@
 		"code":"321203105",
 		"fullCode":"321203105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"野徐镇",
 		"parentCode":"321203"
 	},
@@ -99,7 +99,7 @@
 		"code":"321203400",
 		"fullCode":"321203400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高端装备制造产业园",
 		"parentCode":"321203"
 	},
@@ -107,7 +107,7 @@
 		"code":"321203401",
 		"fullCode":"321203401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"生物医药产业园",
 		"parentCode":"321203"
 	},
@@ -115,7 +115,7 @@
 		"code":"321203402",
 		"fullCode":"321203402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"电子信息产业园",
 		"parentCode":"321203"
 	}

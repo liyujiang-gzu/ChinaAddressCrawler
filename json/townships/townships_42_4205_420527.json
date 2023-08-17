@@ -3,7 +3,7 @@
 		"code":"420527101",
 		"fullCode":"420527101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅坪镇",
 		"parentCode":"420527"
 	},
@@ -11,7 +11,7 @@
 		"code":"420527102",
 		"fullCode":"420527102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"归州镇",
 		"parentCode":"420527"
 	},
@@ -19,7 +19,7 @@
 		"code":"420527103",
 		"fullCode":"420527103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屈原镇",
 		"parentCode":"420527"
 	},
@@ -27,7 +27,7 @@
 		"code":"420527104",
 		"fullCode":"420527104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙镇溪镇",
 		"parentCode":"420527"
 	},
@@ -35,7 +35,7 @@
 		"code":"420527105",
 		"fullCode":"420527105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两河口镇",
 		"parentCode":"420527"
 	},
@@ -43,7 +43,7 @@
 		"code":"420527106",
 		"fullCode":"420527106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭家坝镇",
 		"parentCode":"420527"
 	},
@@ -51,7 +51,7 @@
 		"code":"420527107",
 		"fullCode":"420527107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨林桥镇",
 		"parentCode":"420527"
 	},
@@ -59,7 +59,7 @@
 		"code":"420527108",
 		"fullCode":"420527108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九畹溪镇",
 		"parentCode":"420527"
 	},
@@ -67,7 +67,7 @@
 		"code":"420527201",
 		"fullCode":"420527201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水田坝乡",
 		"parentCode":"420527"
 	},
@@ -75,7 +75,7 @@
 		"code":"420527202",
 		"fullCode":"420527202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泄滩乡",
 		"parentCode":"420527"
 	},
@@ -83,7 +83,7 @@
 		"code":"420527203",
 		"fullCode":"420527203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅家河乡",
 		"parentCode":"420527"
 	},
@@ -91,7 +91,7 @@
 		"code":"420527204",
 		"fullCode":"420527204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磨坪乡",
 		"parentCode":"420527"
 	}

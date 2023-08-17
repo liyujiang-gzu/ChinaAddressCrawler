@@ -3,7 +3,7 @@
 		"code":"370983001",
 		"fullCode":"370983001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"370983"
 	},
@@ -11,7 +11,7 @@
 		"code":"370983002",
 		"fullCode":"370983002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老城街道",
 		"parentCode":"370983"
 	},
@@ -19,7 +19,7 @@
 		"code":"370983003",
 		"fullCode":"370983003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王瓜店街道",
 		"parentCode":"370983"
 	},
@@ -27,7 +27,7 @@
 		"code":"370983004",
 		"fullCode":"370983004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仪阳街道",
 		"parentCode":"370983"
 	},
@@ -35,7 +35,7 @@
 		"code":"370983101",
 		"fullCode":"370983101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潮泉镇",
 		"parentCode":"370983"
 	},
@@ -43,7 +43,7 @@
 		"code":"370983103",
 		"fullCode":"370983103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃园镇",
 		"parentCode":"370983"
 	},
@@ -51,7 +51,7 @@
 		"code":"370983104",
 		"fullCode":"370983104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王庄镇",
 		"parentCode":"370983"
 	},
@@ -59,7 +59,7 @@
 		"code":"370983105",
 		"fullCode":"370983105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖屯镇",
 		"parentCode":"370983"
 	},
@@ -67,7 +67,7 @@
 		"code":"370983106",
 		"fullCode":"370983106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石横镇",
 		"parentCode":"370983"
 	},
@@ -75,7 +75,7 @@
 		"code":"370983107",
 		"fullCode":"370983107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安临站镇",
 		"parentCode":"370983"
 	},
@@ -83,7 +83,7 @@
 		"code":"370983108",
 		"fullCode":"370983108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙伯镇",
 		"parentCode":"370983"
 	},
@@ -91,7 +91,7 @@
 		"code":"370983109",
 		"fullCode":"370983109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安驾庄镇",
 		"parentCode":"370983"
 	},
@@ -99,7 +99,7 @@
 		"code":"370983111",
 		"fullCode":"370983111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"边院镇",
 		"parentCode":"370983"
 	},
@@ -107,7 +107,7 @@
 		"code":"370983113",
 		"fullCode":"370983113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汶阳镇",
 		"parentCode":"370983"
 	}

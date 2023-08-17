@@ -3,7 +3,7 @@
 		"code":"610902001",
 		"fullCode":"610902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老城街道",
 		"parentCode":"610902"
 	},
@@ -11,7 +11,7 @@
 		"code":"610902002",
 		"fullCode":"610902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"610902"
 	},
@@ -19,7 +19,7 @@
 		"code":"610902003",
 		"fullCode":"610902003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江北街道",
 		"parentCode":"610902"
 	},
@@ -27,7 +27,7 @@
 		"code":"610902004",
 		"fullCode":"610902004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建民街道",
 		"parentCode":"610902"
 	},
@@ -35,7 +35,7 @@
 		"code":"610902100",
 		"fullCode":"610902100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关庙镇",
 		"parentCode":"610902"
 	},
@@ -43,7 +43,7 @@
 		"code":"610902101",
 		"fullCode":"610902101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张滩镇",
 		"parentCode":"610902"
 	},
@@ -51,7 +51,7 @@
 		"code":"610902102",
 		"fullCode":"610902102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瀛湖镇",
 		"parentCode":"610902"
 	},
@@ -59,7 +59,7 @@
 		"code":"610902104",
 		"fullCode":"610902104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里镇",
 		"parentCode":"610902"
 	},
@@ -67,7 +67,7 @@
 		"code":"610902107",
 		"fullCode":"610902107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恒口镇",
 		"parentCode":"610902"
 	},
@@ -75,7 +75,7 @@
 		"code":"610902109",
 		"fullCode":"610902109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉河镇",
 		"parentCode":"610902"
 	},
@@ -83,7 +83,7 @@
 		"code":"610902110",
 		"fullCode":"610902110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流水镇",
 		"parentCode":"610902"
 	},
@@ -91,7 +91,7 @@
 		"code":"610902111",
 		"fullCode":"610902111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大竹园镇",
 		"parentCode":"610902"
 	},
@@ -99,7 +99,7 @@
 		"code":"610902112",
 		"fullCode":"610902112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪山镇",
 		"parentCode":"610902"
 	},
@@ -107,7 +107,7 @@
 		"code":"610902114",
 		"fullCode":"610902114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨沟镇",
 		"parentCode":"610902"
 	},
@@ -115,7 +115,7 @@
 		"code":"610902115",
 		"fullCode":"610902115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河镇",
 		"parentCode":"610902"
 	},
@@ -123,7 +123,7 @@
 		"code":"610902116",
 		"fullCode":"610902116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈坝镇",
 		"parentCode":"610902"
 	},
@@ -131,7 +131,7 @@
 		"code":"610902117",
 		"fullCode":"610902117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙镇",
 		"parentCode":"610902"
 	},
@@ -139,7 +139,7 @@
 		"code":"610902118",
 		"fullCode":"610902118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叶坪镇",
 		"parentCode":"610902"
 	},
@@ -147,7 +147,7 @@
 		"code":"610902119",
 		"fullCode":"610902119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中原镇",
 		"parentCode":"610902"
 	},
@@ -155,7 +155,7 @@
 		"code":"610902120",
 		"fullCode":"610902120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县河镇",
 		"parentCode":"610902"
 	},
@@ -163,7 +163,7 @@
 		"code":"610902121",
 		"fullCode":"610902121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫荆镇",
 		"parentCode":"610902"
 	},
@@ -171,7 +171,7 @@
 		"code":"610902122",
 		"fullCode":"610902122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"早阳镇",
 		"parentCode":"610902"
 	},
@@ -179,7 +179,7 @@
 		"code":"610902123",
 		"fullCode":"610902123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关家镇",
 		"parentCode":"610902"
 	},
@@ -187,7 +187,7 @@
 		"code":"610902124",
 		"fullCode":"610902124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石梯镇",
 		"parentCode":"610902"
 	},
@@ -195,7 +195,7 @@
 		"code":"610902125",
 		"fullCode":"610902125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坝河镇",
 		"parentCode":"610902"
 	},
@@ -203,7 +203,7 @@
 		"code":"610902128",
 		"fullCode":"610902128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛蹄镇",
 		"parentCode":"610902"
 	},
@@ -211,7 +211,7 @@
 		"code":"610902130",
 		"fullCode":"610902130000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晏坝镇",
 		"parentCode":"610902"
 	},
@@ -219,7 +219,7 @@
 		"code":"610902132",
 		"fullCode":"610902132000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谭坝镇",
 		"parentCode":"610902"
 	}

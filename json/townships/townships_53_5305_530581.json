@@ -3,7 +3,7 @@
 		"code":"530581001",
 		"fullCode":"530581001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腾越街道",
 		"parentCode":"530581"
 	},
@@ -11,7 +11,7 @@
 		"code":"530581002",
 		"fullCode":"530581002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西源街道",
 		"parentCode":"530581"
 	},
@@ -19,7 +19,7 @@
 		"code":"530581102",
 		"fullCode":"530581102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固东镇",
 		"parentCode":"530581"
 	},
@@ -27,7 +27,7 @@
 		"code":"530581103",
 		"fullCode":"530581103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滇滩镇",
 		"parentCode":"530581"
 	},
@@ -35,7 +35,7 @@
 		"code":"530581104",
 		"fullCode":"530581104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"猴桥镇",
 		"parentCode":"530581"
 	},
@@ -43,7 +43,7 @@
 		"code":"530581105",
 		"fullCode":"530581105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和顺镇",
 		"parentCode":"530581"
 	},
@@ -51,7 +51,7 @@
 		"code":"530581106",
 		"fullCode":"530581106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界头镇",
 		"parentCode":"530581"
 	},
@@ -59,7 +59,7 @@
 		"code":"530581107",
 		"fullCode":"530581107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲石镇",
 		"parentCode":"530581"
 	},
@@ -67,7 +67,7 @@
 		"code":"530581108",
 		"fullCode":"530581108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明光镇",
 		"parentCode":"530581"
 	},
@@ -75,7 +75,7 @@
 		"code":"530581109",
 		"fullCode":"530581109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中和镇",
 		"parentCode":"530581"
 	},
@@ -83,7 +83,7 @@
 		"code":"530581110",
 		"fullCode":"530581110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芒棒镇",
 		"parentCode":"530581"
 	},
@@ -91,7 +91,7 @@
 		"code":"530581111",
 		"fullCode":"530581111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷花镇",
 		"parentCode":"530581"
 	},
@@ -99,7 +99,7 @@
 		"code":"530581112",
 		"fullCode":"530581112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北海镇",
 		"parentCode":"530581"
 	},
@@ -107,7 +107,7 @@
 		"code":"530581113",
 		"fullCode":"530581113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水镇",
 		"parentCode":"530581"
 	},
@@ -115,7 +115,7 @@
 		"code":"530581201",
 		"fullCode":"530581201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马站乡",
 		"parentCode":"530581"
 	},
@@ -123,7 +123,7 @@
 		"code":"530581204",
 		"fullCode":"530581204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五合乡",
 		"parentCode":"530581"
 	},
@@ -131,7 +131,7 @@
 		"code":"530581205",
 		"fullCode":"530581205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华乡",
 		"parentCode":"530581"
 	},
@@ -139,7 +139,7 @@
 		"code":"530581206",
 		"fullCode":"530581206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲川乡",
 		"parentCode":"530581"
 	},
@@ -147,7 +147,7 @@
 		"code":"530581207",
 		"fullCode":"530581207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团田乡",
 		"parentCode":"530581"
 	}

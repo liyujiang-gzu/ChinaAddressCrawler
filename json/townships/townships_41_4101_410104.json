@@ -3,7 +3,7 @@
 		"code":"410104001",
 		"fullCode":"410104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北下街街道",
 		"parentCode":"410104"
 	},
@@ -11,7 +11,7 @@
 		"code":"410104002",
 		"fullCode":"410104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西大街街道",
 		"parentCode":"410104"
 	},
@@ -19,7 +19,7 @@
 		"code":"410104003",
 		"fullCode":"410104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南关街街道",
 		"parentCode":"410104"
 	},
@@ -27,7 +27,7 @@
 		"code":"410104004",
 		"fullCode":"410104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东路街道",
 		"parentCode":"410104"
 	},
@@ -35,7 +35,7 @@
 		"code":"410104005",
 		"fullCode":"410104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东大街街道",
 		"parentCode":"410104"
 	},
@@ -43,7 +43,7 @@
 		"code":"410104006",
 		"fullCode":"410104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二里岗街道",
 		"parentCode":"410104"
 	},
@@ -51,7 +51,7 @@
 		"code":"410104007",
 		"fullCode":"410104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陇海马路街道",
 		"parentCode":"410104"
 	},
@@ -59,7 +59,7 @@
 		"code":"410104008",
 		"fullCode":"410104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫荆山南路街道",
 		"parentCode":"410104"
 	},
@@ -67,7 +67,7 @@
 		"code":"410104009",
 		"fullCode":"410104009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"航海东路街道",
 		"parentCode":"410104"
 	},
@@ -75,7 +75,7 @@
 		"code":"410104010",
 		"fullCode":"410104010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十八里河街道",
 		"parentCode":"410104"
 	},
@@ -83,7 +83,7 @@
 		"code":"410104011",
 		"fullCode":"410104011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南曹街道",
 		"parentCode":"410104"
 	},
@@ -91,7 +91,7 @@
 		"code":"410104012",
 		"fullCode":"410104012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金岱街道",
 		"parentCode":"410104"
 	},
@@ -99,7 +99,7 @@
 		"code":"410104202",
 		"fullCode":"410104202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圃田乡",
 		"parentCode":"410104"
 	},
@@ -107,7 +107,7 @@
 		"code":"410104570",
 		"fullCode":"410104570000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商都路街道",
 		"parentCode":"410104"
 	}

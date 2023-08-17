@@ -3,7 +3,7 @@
 		"code":"130303001",
 		"fullCode":"130303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南关街道",
 		"parentCode":"130303"
 	},
@@ -11,7 +11,7 @@
 		"code":"130303002",
 		"fullCode":"130303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城街道",
 		"parentCode":"130303"
 	},
@@ -19,7 +19,7 @@
 		"code":"130303003",
 		"fullCode":"130303003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关街道",
 		"parentCode":"130303"
 	},
@@ -27,7 +27,7 @@
 		"code":"130303004",
 		"fullCode":"130303004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路南街道",
 		"parentCode":"130303"
 	},
@@ -35,7 +35,7 @@
 		"code":"130303100",
 		"fullCode":"130303100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第一关镇",
 		"parentCode":"130303"
 	},
@@ -43,7 +43,7 @@
 		"code":"130303101",
 		"fullCode":"130303101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石河镇",
 		"parentCode":"130303"
 	},
@@ -51,7 +51,7 @@
 		"code":"130303102",
 		"fullCode":"130303102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟姜镇",
 		"parentCode":"130303"
 	}

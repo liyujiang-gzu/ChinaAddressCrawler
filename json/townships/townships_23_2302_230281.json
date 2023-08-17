@@ -3,7 +3,7 @@
 		"code":"230281001",
 		"fullCode":"230281001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雨亭街道",
 		"parentCode":"230281"
 	},
@@ -11,7 +11,7 @@
 		"code":"230281002",
 		"fullCode":"230281002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通江街道",
 		"parentCode":"230281"
 	},
@@ -19,7 +19,7 @@
 		"code":"230281101",
 		"fullCode":"230281101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉哈镇",
 		"parentCode":"230281"
 	},
@@ -27,7 +27,7 @@
 		"code":"230281102",
 		"fullCode":"230281102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二克浅镇",
 		"parentCode":"230281"
 	},
@@ -35,7 +35,7 @@
 		"code":"230281103",
 		"fullCode":"230281103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学田镇",
 		"parentCode":"230281"
 	},
@@ -43,7 +43,7 @@
 		"code":"230281104",
 		"fullCode":"230281104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙河镇",
 		"parentCode":"230281"
 	},
@@ -51,7 +51,7 @@
 		"code":"230281105",
 		"fullCode":"230281105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"讷南镇",
 		"parentCode":"230281"
 	},
@@ -59,7 +59,7 @@
 		"code":"230281106",
 		"fullCode":"230281106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六合镇",
 		"parentCode":"230281"
 	},
@@ -67,7 +67,7 @@
 		"code":"230281107",
 		"fullCode":"230281107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长发镇",
 		"parentCode":"230281"
 	},
@@ -75,7 +75,7 @@
 		"code":"230281108",
 		"fullCode":"230281108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通南镇",
 		"parentCode":"230281"
 	},
@@ -83,7 +83,7 @@
 		"code":"230281109",
 		"fullCode":"230281109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同义镇",
 		"parentCode":"230281"
 	},
@@ -91,7 +91,7 @@
 		"code":"230281110",
 		"fullCode":"230281110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九井镇",
 		"parentCode":"230281"
 	},
@@ -99,7 +99,7 @@
 		"code":"230281111",
 		"fullCode":"230281111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老莱镇",
 		"parentCode":"230281"
 	},
@@ -107,7 +107,7 @@
 		"code":"230281201",
 		"fullCode":"230281201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔国乡",
 		"parentCode":"230281"
 	},
@@ -115,7 +115,7 @@
 		"code":"230281207",
 		"fullCode":"230281207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和盛乡",
 		"parentCode":"230281"
 	},
@@ -123,7 +123,7 @@
 		"code":"230281208",
 		"fullCode":"230281208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同心乡",
 		"parentCode":"230281"
 	},
@@ -131,7 +131,7 @@
 		"code":"230281210",
 		"fullCode":"230281210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴旺鄂温克族乡",
 		"parentCode":"230281"
 	},
@@ -139,7 +139,7 @@
 		"code":"230281400",
 		"fullCode":"230281400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙河镇保安林场",
 		"parentCode":"230281"
 	},
@@ -147,7 +147,7 @@
 		"code":"230281401",
 		"fullCode":"230281401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙河镇茂山林场",
 		"parentCode":"230281"
 	},
@@ -155,7 +155,7 @@
 		"code":"230281402",
 		"fullCode":"230281402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙河镇国庆林场",
 		"parentCode":"230281"
 	},
@@ -163,7 +163,7 @@
 		"code":"230281403",
 		"fullCode":"230281403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学田镇富源林场",
 		"parentCode":"230281"
 	},
@@ -171,7 +171,7 @@
 		"code":"230281404",
 		"fullCode":"230281404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老莱镇宽余林场",
 		"parentCode":"230281"
 	},
@@ -179,7 +179,7 @@
 		"code":"230281405",
 		"fullCode":"230281405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新江林场",
 		"parentCode":"230281"
 	},
@@ -187,7 +187,7 @@
 		"code":"230281406",
 		"fullCode":"230281406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"一良苗圃",
 		"parentCode":"230281"
 	},
@@ -195,7 +195,7 @@
 		"code":"230281480",
 		"fullCode":"230281480000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑龙江省老莱农场",
 		"parentCode":"230281"
 	},
@@ -203,7 +203,7 @@
 		"code":"230281581",
 		"fullCode":"230281581000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六合镇黎明奶牛场",
 		"parentCode":"230281"
 	},
@@ -211,7 +211,7 @@
 		"code":"230281582",
 		"fullCode":"230281582000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔国乡进化种猪场",
 		"parentCode":"230281"
 	},
@@ -219,7 +219,7 @@
 		"code":"230281583",
 		"fullCode":"230281583000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二克浅镇二里种畜场",
 		"parentCode":"230281"
 	},
@@ -227,7 +227,7 @@
 		"code":"230281584",
 		"fullCode":"230281584000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙河镇青色草原种畜场",
 		"parentCode":"230281"
 	},
@@ -235,7 +235,7 @@
 		"code":"230281585",
 		"fullCode":"230281585000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第一良种场",
 		"parentCode":"230281"
 	},
@@ -243,7 +243,7 @@
 		"code":"230281586",
 		"fullCode":"230281586000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第二良种场",
 		"parentCode":"230281"
 	},
@@ -251,7 +251,7 @@
 		"code":"230281587",
 		"fullCode":"230281587000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第三良种场",
 		"parentCode":"230281"
 	},
@@ -259,7 +259,7 @@
 		"code":"230281588",
 		"fullCode":"230281588000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第四良种场",
 		"parentCode":"230281"
 	}

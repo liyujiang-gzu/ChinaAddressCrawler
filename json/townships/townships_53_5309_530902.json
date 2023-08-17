@@ -3,7 +3,7 @@
 		"code":"530902001",
 		"fullCode":"530902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤翔街道",
 		"parentCode":"530902"
 	},
@@ -11,7 +11,7 @@
 		"code":"530902002",
 		"fullCode":"530902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忙畔街道",
 		"parentCode":"530902"
 	},
@@ -19,7 +19,7 @@
 		"code":"530902102",
 		"fullCode":"530902102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博尚镇",
 		"parentCode":"530902"
 	},
@@ -27,7 +27,7 @@
 		"code":"530902202",
 		"fullCode":"530902202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南美拉祜族乡",
 		"parentCode":"530902"
 	},
@@ -35,7 +35,7 @@
 		"code":"530902203",
 		"fullCode":"530902203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蚂蚁堆乡",
 		"parentCode":"530902"
 	},
@@ -43,7 +43,7 @@
 		"code":"530902204",
 		"fullCode":"530902204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章驮乡",
 		"parentCode":"530902"
 	},
@@ -51,7 +51,7 @@
 		"code":"530902206",
 		"fullCode":"530902206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圈内乡",
 		"parentCode":"530902"
 	},
@@ -59,7 +59,7 @@
 		"code":"530902207",
 		"fullCode":"530902207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马台乡",
 		"parentCode":"530902"
 	},
@@ -67,7 +67,7 @@
 		"code":"530902208",
 		"fullCode":"530902208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邦东乡",
 		"parentCode":"530902"
 	},
@@ -75,7 +75,7 @@
 		"code":"530902209",
 		"fullCode":"530902209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平村彝族傣族乡",
 		"parentCode":"530902"
 	}

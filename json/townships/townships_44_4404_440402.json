@@ -3,7 +3,7 @@
 		"code":"440402001",
 		"fullCode":"440402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠香街道",
 		"parentCode":"440402"
 	},
@@ -11,7 +11,7 @@
 		"code":"440402002",
 		"fullCode":"440402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅华街道",
 		"parentCode":"440402"
 	},
@@ -19,7 +19,7 @@
 		"code":"440402003",
 		"fullCode":"440402003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前山街道",
 		"parentCode":"440402"
 	},
@@ -27,7 +27,7 @@
 		"code":"440402004",
 		"fullCode":"440402004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉大街道",
 		"parentCode":"440402"
 	},
@@ -35,7 +35,7 @@
 		"code":"440402005",
 		"fullCode":"440402005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拱北街道",
 		"parentCode":"440402"
 	},
@@ -43,7 +43,7 @@
 		"code":"440402006",
 		"fullCode":"440402006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香湾街道",
 		"parentCode":"440402"
 	},
@@ -51,7 +51,7 @@
 		"code":"440402007",
 		"fullCode":"440402007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮山街道",
 		"parentCode":"440402"
 	},
@@ -59,7 +59,7 @@
 		"code":"440402008",
 		"fullCode":"440402008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾仔街道",
 		"parentCode":"440402"
 	},
@@ -67,7 +67,7 @@
 		"code":"440402009",
 		"fullCode":"440402009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤山街道",
 		"parentCode":"440402"
 	},
@@ -75,7 +75,7 @@
 		"code":"440402100",
 		"fullCode":"440402100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐家湾镇",
 		"parentCode":"440402"
 	},
@@ -83,7 +83,7 @@
 		"code":"440402102",
 		"fullCode":"440402102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南屏镇",
 		"parentCode":"440402"
 	},
@@ -91,7 +91,7 @@
 		"code":"440402104",
 		"fullCode":"440402104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横琴镇",
 		"parentCode":"440402"
 	},
@@ -99,7 +99,7 @@
 		"code":"440402105",
 		"fullCode":"440402105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂山镇",
 		"parentCode":"440402"
 	},
@@ -107,7 +107,7 @@
 		"code":"440402106",
 		"fullCode":"440402106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万山镇",
 		"parentCode":"440402"
 	},
@@ -115,7 +115,7 @@
 		"code":"440402107",
 		"fullCode":"440402107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"担杆镇",
 		"parentCode":"440402"
 	},
@@ -123,7 +123,7 @@
 		"code":"440402401",
 		"fullCode":"440402401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南屏科技园",
 		"parentCode":"440402"
 	},
@@ -131,7 +131,7 @@
 		"code":"440402402",
 		"fullCode":"440402402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保税区",
 		"parentCode":"440402"
 	},
@@ -139,7 +139,7 @@
 		"code":"440402403",
 		"fullCode":"440402403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三溪科创小镇发展中心",
 		"parentCode":"440402"
 	},
@@ -147,7 +147,7 @@
 		"code":"440402404",
 		"fullCode":"440402404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪湾商贸物流中心",
 		"parentCode":"440402"
 	}

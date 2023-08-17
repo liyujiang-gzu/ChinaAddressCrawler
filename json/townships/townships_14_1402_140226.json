@@ -3,7 +3,7 @@
 		"code":"140226100",
 		"fullCode":"140226100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云兴镇",
 		"parentCode":"140226"
 	},
@@ -11,7 +11,7 @@
 		"code":"140226101",
 		"fullCode":"140226101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹊儿山镇",
 		"parentCode":"140226"
 	},
@@ -19,7 +19,7 @@
 		"code":"140226102",
 		"fullCode":"140226102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店湾镇",
 		"parentCode":"140226"
 	},
@@ -27,7 +27,7 @@
 		"code":"140226200",
 		"fullCode":"140226200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"管家堡乡",
 		"parentCode":"140226"
 	},
@@ -35,7 +35,7 @@
 		"code":"140226201",
 		"fullCode":"140226201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家场乡",
 		"parentCode":"140226"
 	},
@@ -43,7 +43,7 @@
 		"code":"140226205",
 		"fullCode":"140226205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三屯乡",
 		"parentCode":"140226"
 	},
@@ -51,7 +51,7 @@
 		"code":"140226206",
 		"fullCode":"140226206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马道头乡",
 		"parentCode":"140226"
 	},
@@ -59,7 +59,7 @@
 		"code":"140226207",
 		"fullCode":"140226207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小京庄乡",
 		"parentCode":"140226"
 	}

@@ -3,7 +3,7 @@
 		"code":"130302001",
 		"fullCode":"130302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文化路街道",
 		"parentCode":"130302"
 	},
@@ -11,7 +11,7 @@
 		"code":"130302002",
 		"fullCode":"130302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海滨路街道",
 		"parentCode":"130302"
 	},
@@ -19,7 +19,7 @@
 		"code":"130302003",
 		"fullCode":"130302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北环路街道",
 		"parentCode":"130302"
 	},
@@ -27,7 +27,7 @@
 		"code":"130302004",
 		"fullCode":"130302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设大街街道",
 		"parentCode":"130302"
 	},
@@ -35,7 +35,7 @@
 		"code":"130302005",
 		"fullCode":"130302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东街道",
 		"parentCode":"130302"
 	},
@@ -43,7 +43,7 @@
 		"code":"130302006",
 		"fullCode":"130302006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西港路街道",
 		"parentCode":"130302"
 	},
@@ -51,7 +51,7 @@
 		"code":"130302007",
 		"fullCode":"130302007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕山大街街道",
 		"parentCode":"130302"
 	},
@@ -59,7 +59,7 @@
 		"code":"130302008",
 		"fullCode":"130302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港城大街街道",
 		"parentCode":"130302"
 	},
@@ -67,7 +67,7 @@
 		"code":"130302009",
 		"fullCode":"130302009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东环路街道",
 		"parentCode":"130302"
 	},
@@ -75,7 +75,7 @@
 		"code":"130302010",
 		"fullCode":"130302010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔岭街道",
 		"parentCode":"130302"
 	},
@@ -83,7 +83,7 @@
 		"code":"130302100",
 		"fullCode":"130302100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东港镇",
 		"parentCode":"130302"
 	},
@@ -91,7 +91,7 @@
 		"code":"130302101",
 		"fullCode":"130302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海港镇",
 		"parentCode":"130302"
 	},
@@ -99,7 +99,7 @@
 		"code":"130302102",
 		"fullCode":"130302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西港镇",
 		"parentCode":"130302"
 	},
@@ -107,7 +107,7 @@
 		"code":"130302103",
 		"fullCode":"130302103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海阳镇",
 		"parentCode":"130302"
 	},
@@ -115,7 +115,7 @@
 		"code":"130302104",
 		"fullCode":"130302104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北港镇",
 		"parentCode":"130302"
 	},
@@ -123,7 +123,7 @@
 		"code":"130302105",
 		"fullCode":"130302105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜庄镇",
 		"parentCode":"130302"
 	},
@@ -131,7 +131,7 @@
 		"code":"130302106",
 		"fullCode":"130302106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门寨镇",
 		"parentCode":"130302"
 	},
@@ -139,7 +139,7 @@
 		"code":"130302107",
 		"fullCode":"130302107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驻操营镇",
 		"parentCode":"130302"
 	},
@@ -147,7 +147,7 @@
 		"code":"130302403",
 		"fullCode":"130302403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临港物流园区",
 		"parentCode":"130302"
 	},
@@ -155,7 +155,7 @@
 		"code":"130302404",
 		"fullCode":"130302404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海港经济开发区",
 		"parentCode":"130302"
 	}

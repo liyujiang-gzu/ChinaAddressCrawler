@@ -3,7 +3,7 @@
 		"code":"350426100",
 		"fullCode":"350426100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"350426"
 	},
@@ -11,7 +11,7 @@
 		"code":"350426101",
 		"fullCode":"350426101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅仙镇",
 		"parentCode":"350426"
 	},
@@ -19,7 +19,7 @@
 		"code":"350426102",
 		"fullCode":"350426102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西滨镇",
 		"parentCode":"350426"
 	},
@@ -27,7 +27,7 @@
 		"code":"350426103",
 		"fullCode":"350426103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋中镇",
 		"parentCode":"350426"
 	},
@@ -35,7 +35,7 @@
 		"code":"350426104",
 		"fullCode":"350426104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新阳镇",
 		"parentCode":"350426"
 	},
@@ -43,7 +43,7 @@
 		"code":"350426105",
 		"fullCode":"350426105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"管前镇",
 		"parentCode":"350426"
 	},
@@ -51,7 +51,7 @@
 		"code":"350426106",
 		"fullCode":"350426106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城镇",
 		"parentCode":"350426"
 	},
@@ -59,7 +59,7 @@
 		"code":"350426107",
 		"fullCode":"350426107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尤溪口镇",
 		"parentCode":"350426"
 	},
@@ -67,7 +67,7 @@
 		"code":"350426108",
 		"fullCode":"350426108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坂面镇",
 		"parentCode":"350426"
 	},
@@ -75,7 +75,7 @@
 		"code":"350426109",
 		"fullCode":"350426109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联合镇",
 		"parentCode":"350426"
 	},
@@ -83,7 +83,7 @@
 		"code":"350426110",
 		"fullCode":"350426110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中仙镇",
 		"parentCode":"350426"
 	},
@@ -91,7 +91,7 @@
 		"code":"350426201",
 		"fullCode":"350426201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤川乡",
 		"parentCode":"350426"
 	},
@@ -99,7 +99,7 @@
 		"code":"350426202",
 		"fullCode":"350426202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪尾乡",
 		"parentCode":"350426"
 	},
@@ -107,7 +107,7 @@
 		"code":"350426204",
 		"fullCode":"350426204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台溪乡",
 		"parentCode":"350426"
 	},
@@ -115,7 +115,7 @@
 		"code":"350426206",
 		"fullCode":"350426206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八字桥乡",
 		"parentCode":"350426"
 	}

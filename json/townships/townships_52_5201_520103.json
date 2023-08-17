@@ -3,7 +3,7 @@
 		"code":"520103019",
 		"fullCode":"520103019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营路街道",
 		"parentCode":"520103"
 	},
@@ -11,7 +11,7 @@
 		"code":"520103020",
 		"fullCode":"520103020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黔灵东路街道",
 		"parentCode":"520103"
 	},
@@ -19,7 +19,7 @@
 		"code":"520103021",
 		"fullCode":"520103021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌阁街道",
 		"parentCode":"520103"
 	},
@@ -27,7 +27,7 @@
 		"code":"520103022",
 		"fullCode":"520103022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐务街街道",
 		"parentCode":"520103"
 	},
@@ -35,7 +35,7 @@
 		"code":"520103023",
 		"fullCode":"520103023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普陀路街道",
 		"parentCode":"520103"
 	},
@@ -43,7 +43,7 @@
 		"code":"520103024",
 		"fullCode":"520103024000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八鸽岩街道",
 		"parentCode":"520103"
 	},
@@ -51,7 +51,7 @@
 		"code":"520103025",
 		"fullCode":"520103025000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毓秀路街道",
 		"parentCode":"520103"
 	},
@@ -59,7 +59,7 @@
 		"code":"520103026",
 		"fullCode":"520103026000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"威清门街道",
 		"parentCode":"520103"
 	},
@@ -67,7 +67,7 @@
 		"code":"520103027",
 		"fullCode":"520103027000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市西河街道",
 		"parentCode":"520103"
 	},
@@ -75,7 +75,7 @@
 		"code":"520103028",
 		"fullCode":"520103028000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头桥街道",
 		"parentCode":"520103"
 	},
@@ -83,7 +83,7 @@
 		"code":"520103029",
 		"fullCode":"520103029000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三桥路街道",
 		"parentCode":"520103"
 	},
@@ -91,7 +91,7 @@
 		"code":"520103030",
 		"fullCode":"520103030000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马王街道",
 		"parentCode":"520103"
 	},
@@ -99,7 +99,7 @@
 		"code":"520103031",
 		"fullCode":"520103031000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金关街道",
 		"parentCode":"520103"
 	},
@@ -107,7 +107,7 @@
 		"code":"520103032",
 		"fullCode":"520103032000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶园路街道",
 		"parentCode":"520103"
 	},
@@ -115,7 +115,7 @@
 		"code":"520103033",
 		"fullCode":"520103033000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨惠街道",
 		"parentCode":"520103"
 	},
@@ -123,7 +123,7 @@
 		"code":"520103034",
 		"fullCode":"520103034000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔安街道",
 		"parentCode":"520103"
 	},
@@ -131,7 +131,7 @@
 		"code":"520103035",
 		"fullCode":"520103035000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水东路街道",
 		"parentCode":"520103"
 	},
@@ -139,7 +139,7 @@
 		"code":"520103100",
 		"fullCode":"520103100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黔灵镇",
 		"parentCode":"520103"
 	}

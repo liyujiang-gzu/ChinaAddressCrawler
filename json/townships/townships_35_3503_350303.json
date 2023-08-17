@@ -3,7 +3,7 @@
 		"code":"350303001",
 		"fullCode":"350303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涵东街道",
 		"parentCode":"350303"
 	},
@@ -11,7 +11,7 @@
 		"code":"350303002",
 		"fullCode":"350303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涵西街道",
 		"parentCode":"350303"
 	},
@@ -19,7 +19,7 @@
 		"code":"350303100",
 		"fullCode":"350303100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三江口镇",
 		"parentCode":"350303"
 	},
@@ -27,7 +27,7 @@
 		"code":"350303101",
 		"fullCode":"350303101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塘镇",
 		"parentCode":"350303"
 	},
@@ -35,7 +35,7 @@
 		"code":"350303102",
 		"fullCode":"350303102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国欢镇",
 		"parentCode":"350303"
 	},
@@ -43,7 +43,7 @@
 		"code":"350303103",
 		"fullCode":"350303103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梧塘镇",
 		"parentCode":"350303"
 	},
@@ -51,7 +51,7 @@
 		"code":"350303104",
 		"fullCode":"350303104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江口镇",
 		"parentCode":"350303"
 	},
@@ -59,7 +59,7 @@
 		"code":"350303105",
 		"fullCode":"350303105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萩芦镇",
 		"parentCode":"350303"
 	},
@@ -67,7 +67,7 @@
 		"code":"350303106",
 		"fullCode":"350303106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"350303"
 	},
@@ -75,7 +75,7 @@
 		"code":"350303107",
 		"fullCode":"350303107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄边镇",
 		"parentCode":"350303"
 	},
@@ -83,7 +83,7 @@
 		"code":"350303108",
 		"fullCode":"350303108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新县镇",
 		"parentCode":"350303"
 	},
@@ -91,7 +91,7 @@
 		"code":"350303200",
 		"fullCode":"350303200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大洋乡",
 		"parentCode":"350303"
 	},
@@ -99,7 +99,7 @@
 		"code":"350303500",
 		"fullCode":"350303500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤港开发区",
 		"parentCode":"350303"
 	}

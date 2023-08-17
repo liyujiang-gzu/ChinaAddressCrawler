@@ -3,7 +3,7 @@
 		"code":"422802001",
 		"fullCode":"422802001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都亭街道",
 		"parentCode":"422802"
 	},
@@ -11,7 +11,7 @@
 		"code":"422802002",
 		"fullCode":"422802002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"422802"
 	},
@@ -19,7 +19,7 @@
 		"code":"422802100",
 		"fullCode":"422802100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谋道镇",
 		"parentCode":"422802"
 	},
@@ -27,7 +27,7 @@
 		"code":"422802101",
 		"fullCode":"422802101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏杨坝镇",
 		"parentCode":"422802"
 	},
@@ -35,7 +35,7 @@
 		"code":"422802102",
 		"fullCode":"422802102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪营镇",
 		"parentCode":"422802"
 	},
@@ -43,7 +43,7 @@
 		"code":"422802103",
 		"fullCode":"422802103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建南镇",
 		"parentCode":"422802"
 	},
@@ -51,7 +51,7 @@
 		"code":"422802104",
 		"fullCode":"422802104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忠路镇",
 		"parentCode":"422802"
 	},
@@ -59,7 +59,7 @@
 		"code":"422802105",
 		"fullCode":"422802105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团堡镇",
 		"parentCode":"422802"
 	},
@@ -67,7 +67,7 @@
 		"code":"422802106",
 		"fullCode":"422802106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛坝镇",
 		"parentCode":"422802"
 	},
@@ -75,7 +75,7 @@
 		"code":"422802107",
 		"fullCode":"422802107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文斗镇",
 		"parentCode":"422802"
 	},
@@ -83,7 +83,7 @@
 		"code":"422802200",
 		"fullCode":"422802200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉雾乡",
 		"parentCode":"422802"
 	},
@@ -91,7 +91,7 @@
 		"code":"422802201",
 		"fullCode":"422802201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元堡乡",
 		"parentCode":"422802"
 	},
@@ -99,7 +99,7 @@
 		"code":"422802202",
 		"fullCode":"422802202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南坪乡",
 		"parentCode":"422802"
 	},
@@ -107,7 +107,7 @@
 		"code":"422802205",
 		"fullCode":"422802205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙溪乡",
 		"parentCode":"422802"
 	},
@@ -115,7 +115,7 @@
 		"code":"422802401",
 		"fullCode":"422802401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛宝山生态综合开发区",
 		"parentCode":"422802"
 	}

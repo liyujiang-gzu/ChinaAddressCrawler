@@ -3,7 +3,7 @@
 		"code":"630202001",
 		"fullCode":"630202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碾伯街道",
 		"parentCode":"630202"
 	},
@@ -11,7 +11,7 @@
 		"code":"630202002",
 		"fullCode":"630202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗沟街道",
 		"parentCode":"630202"
 	},
@@ -19,7 +19,7 @@
 		"code":"630202101",
 		"fullCode":"630202101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雨润镇",
 		"parentCode":"630202"
 	},
@@ -27,7 +27,7 @@
 		"code":"630202102",
 		"fullCode":"630202102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寿乐镇",
 		"parentCode":"630202"
 	},
@@ -35,7 +35,7 @@
 		"code":"630202103",
 		"fullCode":"630202103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高庙镇",
 		"parentCode":"630202"
 	},
@@ -43,7 +43,7 @@
 		"code":"630202104",
 		"fullCode":"630202104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪水镇",
 		"parentCode":"630202"
 	},
@@ -51,7 +51,7 @@
 		"code":"630202105",
 		"fullCode":"630202105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高店镇",
 		"parentCode":"630202"
 	},
@@ -59,7 +59,7 @@
 		"code":"630202106",
 		"fullCode":"630202106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瞿昙镇",
 		"parentCode":"630202"
 	},
@@ -67,7 +67,7 @@
 		"code":"630202200",
 		"fullCode":"630202200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共和乡",
 		"parentCode":"630202"
 	},
@@ -75,7 +75,7 @@
 		"code":"630202201",
 		"fullCode":"630202201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中岭乡",
 		"parentCode":"630202"
 	},
@@ -83,7 +83,7 @@
 		"code":"630202202",
 		"fullCode":"630202202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家乡",
 		"parentCode":"630202"
 	},
@@ -91,7 +91,7 @@
 		"code":"630202203",
 		"fullCode":"630202203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下营乡",
 		"parentCode":"630202"
 	},
@@ -99,7 +99,7 @@
 		"code":"630202204",
 		"fullCode":"630202204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦花乡",
 		"parentCode":"630202"
 	},
@@ -107,7 +107,7 @@
 		"code":"630202205",
 		"fullCode":"630202205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马营乡",
 		"parentCode":"630202"
 	},
@@ -115,7 +115,7 @@
 		"code":"630202206",
 		"fullCode":"630202206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马厂乡",
 		"parentCode":"630202"
 	},
@@ -123,7 +123,7 @@
 		"code":"630202207",
 		"fullCode":"630202207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲台乡",
 		"parentCode":"630202"
 	},
@@ -131,7 +131,7 @@
 		"code":"630202208",
 		"fullCode":"630202208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中坝乡",
 		"parentCode":"630202"
 	},
@@ -139,7 +139,7 @@
 		"code":"630202209",
 		"fullCode":"630202209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峰堆乡",
 		"parentCode":"630202"
 	},
@@ -147,7 +147,7 @@
 		"code":"630202210",
 		"fullCode":"630202210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城台乡",
 		"parentCode":"630202"
 	},
@@ -155,7 +155,7 @@
 		"code":"630202211",
 		"fullCode":"630202211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达拉乡",
 		"parentCode":"630202"
 	},
@@ -163,7 +163,7 @@
 		"code":"630202400",
 		"fullCode":"630202400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海东工业园区乐都工业园",
 		"parentCode":"630202"
 	}

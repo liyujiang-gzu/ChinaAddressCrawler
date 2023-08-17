@@ -3,7 +3,7 @@
 		"code":"130502001",
 		"fullCode":"130502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南长街街道",
 		"parentCode":"130502"
 	},
@@ -11,7 +11,7 @@
 		"code":"130502002",
 		"fullCode":"130502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北大街街道",
 		"parentCode":"130502"
 	},
@@ -19,7 +19,7 @@
 		"code":"130502003",
 		"fullCode":"130502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西大街街道",
 		"parentCode":"130502"
 	},
@@ -27,7 +27,7 @@
 		"code":"130502004",
 		"fullCode":"130502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西门里街道",
 		"parentCode":"130502"
 	},
@@ -35,7 +35,7 @@
 		"code":"130502005",
 		"fullCode":"130502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉东街道",
 		"parentCode":"130502"
 	},
@@ -43,7 +43,7 @@
 		"code":"130502006",
 		"fullCode":"130502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"豫让桥街道",
 		"parentCode":"130502"
 	},
@@ -51,7 +51,7 @@
 		"code":"130502100",
 		"fullCode":"130502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东郭村镇",
 		"parentCode":"130502"
 	},
@@ -59,7 +59,7 @@
 		"code":"130502101",
 		"fullCode":"130502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祝村镇",
 		"parentCode":"130502"
 	},
@@ -67,7 +67,7 @@
 		"code":"130502103",
 		"fullCode":"130502103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晏家屯镇",
 		"parentCode":"130502"
 	},
@@ -75,7 +75,7 @@
 		"code":"130502200",
 		"fullCode":"130502200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大梁庄乡",
 		"parentCode":"130502"
 	}

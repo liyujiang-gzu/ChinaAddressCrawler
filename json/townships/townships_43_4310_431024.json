@@ -3,7 +3,7 @@
 		"code":"431024100",
 		"fullCode":"431024100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠泉镇",
 		"parentCode":"431024"
 	},
@@ -11,7 +11,7 @@
 		"code":"431024102",
 		"fullCode":"431024102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘村镇",
 		"parentCode":"431024"
 	},
@@ -19,7 +19,7 @@
 		"code":"431024103",
 		"fullCode":"431024103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"袁家镇",
 		"parentCode":"431024"
 	},
@@ -27,7 +27,7 @@
 		"code":"431024104",
 		"fullCode":"431024104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"行廊镇",
 		"parentCode":"431024"
 	},
@@ -35,7 +35,7 @@
 		"code":"431024106",
 		"fullCode":"431024106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭镇",
 		"parentCode":"431024"
 	},
@@ -43,7 +43,7 @@
 		"code":"431024107",
 		"fullCode":"431024107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥镇",
 		"parentCode":"431024"
 	},
@@ -51,7 +51,7 @@
 		"code":"431024108",
 		"fullCode":"431024108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坦坪镇",
 		"parentCode":"431024"
 	},
@@ -59,7 +59,7 @@
 		"code":"431024110",
 		"fullCode":"431024110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广发镇",
 		"parentCode":"431024"
 	},
@@ -67,7 +67,7 @@
 		"code":"431024111",
 		"fullCode":"431024111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋屏镇",
 		"parentCode":"431024"
 	},
@@ -75,7 +75,7 @@
 		"code":"431024201",
 		"fullCode":"431024201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普满乡",
 		"parentCode":"431024"
 	}

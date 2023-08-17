@@ -57,28 +57,28 @@ public class StatsGovCrawler {
             }
         }
         MessyUtils.saveToFile("json/townships.json", JSON.toJSONString(allTownships, JSONWriter.Feature.PrettyFormat));
-        ArrayList<Region> allVillages = new ArrayList<>();
-        for (Region township : allTownships) {
-            String cityCode = "";
-            for (Region county : allCounties) {
-                if (county.code.equals(township.parentCode)) {
-                    cityCode = county.parentCode;
-                    break;
-                }
-            }
-            String provinceCode = "";
-            for (Region city : allCities) {
-                if (city.code.equals(cityCode)) {
-                    provinceCode = city.parentCode;
-                    break;
-                }
-            }
-            try {
-                allVillages.addAll(getVillages(provinceCode, cityCode, township.parentCode, township.code));
-            } catch (Exception ignore) {
-            }
-        }
-        MessyUtils.saveToFile("json/villages.json", JSON.toJSONString(allVillages, JSONWriter.Feature.PrettyFormat));
+//        ArrayList<Region> allVillages = new ArrayList<>();
+//        for (Region township : allTownships) {
+//            String cityCode = "";
+//            for (Region county : allCounties) {
+//                if (county.code.equals(township.parentCode)) {
+//                    cityCode = county.parentCode;
+//                    break;
+//                }
+//            }
+//            String provinceCode = "";
+//            for (Region city : allCities) {
+//                if (city.code.equals(cityCode)) {
+//                    provinceCode = city.parentCode;
+//                    break;
+//                }
+//            }
+//            try {
+//                allVillages.addAll(getVillages(provinceCode, cityCode, township.parentCode, township.code));
+//            } catch (Exception ignore) {
+//            }
+//        }
+//        MessyUtils.saveToFile("json/villages.json", JSON.toJSONString(allVillages, JSONWriter.Feature.PrettyFormat));
     }
 
     private static Elements getElements(String url, Evaluator evaluator) {
@@ -124,8 +124,8 @@ public class StatsGovCrawler {
                 region.code = href.replaceAll("\\.html", "");
                 region.fullCode = MessyUtils.paddingZero(region.code);
                 region.name = element.text();
-                region.level = Region.Level.省;
-                region.levelName = Region.Level.省.name();
+                region.level = Region.Level.省级;
+                region.levelName = Region.Level.省级.name();
                 region.parentCode = "0";
                 provinces.add(region);
             }
@@ -154,8 +154,8 @@ public class StatsGovCrawler {
                     region.code = code;
                     region.fullCode = MessyUtils.paddingZero(code);
                     region.name = text;
-                    region.level = Region.Level.地;
-                    region.levelName = Region.Level.地.name();
+                    region.level = Region.Level.地级;
+                    region.levelName = Region.Level.地级.name();
                     region.parentCode = provinceCode;
                     cities.add(region);
                 }
@@ -185,8 +185,8 @@ public class StatsGovCrawler {
                     region.code = code;
                     region.fullCode = MessyUtils.paddingZero(code);
                     region.name = text;
-                    region.level = Region.Level.县;
-                    region.levelName = Region.Level.县.name();
+                    region.level = Region.Level.县级;
+                    region.levelName = Region.Level.县级.name();
                     region.parentCode = cityCode;
                     counties.add(region);
                 }
@@ -216,8 +216,8 @@ public class StatsGovCrawler {
                     region.code = code;
                     region.fullCode = MessyUtils.paddingZero(code);
                     region.name = text;
-                    region.level = Region.Level.乡;
-                    region.levelName = Region.Level.乡.name();
+                    region.level = Region.Level.乡级;
+                    region.levelName = Region.Level.乡级.name();
                     region.parentCode = countyCode;
                     townships.add(region);
                 }
@@ -227,30 +227,30 @@ public class StatsGovCrawler {
         return townships;
     }
 
-    private static List<Region> getVillages(String provinceCode, String cityCode, String countyCode, String townshipCode) {
-        String filePath = "json/villages/villages_" + provinceCode + "_" + cityCode + "_" + countyCode + "_" + townshipCode + ".json";
-        if (MessyUtils.existsFile(filePath)) {
-            return JSON.parseArray(MessyUtils.readFromFile(filePath), Region.class);
-        }
-        ArrayList<Region> villages = new ArrayList<>();
-        Elements elements = getElements("http://www.stats.gov.cn/sj/tjbz/tjyqhdmhcxhfdm/2022/" + provinceCode + "/" + cityCode.replace(provinceCode, "") + "/" + countyCode.replace(cityCode, "") + "/" + townshipCode + ".html",
-                new Evaluator.Class("villagetr"));
-        for (Element element : elements) {
-            //MyLog.debug(element.toString());
-            Elements tags = element.getElementsByTag("td");
-            if (tags.size() == 3) {
-                Region region = new Region();
-                region.code = tags.get(0).text();
-                region.fullCode = MessyUtils.paddingZero(region.code);
-                region.name = tags.get(2).text().replace("居民委员会", "").replace("居委会", "").replace("村民委员会", "").replace("村委会", "");
-                region.level = Region.Level.村;
-                region.levelName = Region.Level.村.name();
-                region.parentCode = cityCode;
-                villages.add(region);
-            }
-        }
-        MessyUtils.saveToFile(filePath, JSON.toJSONString(villages, JSONWriter.Feature.PrettyFormat));
-        return villages;
-    }
+//    private static List<Region> getVillages(String provinceCode, String cityCode, String countyCode, String townshipCode) {
+//        String filePath = "json/villages/villages_" + provinceCode + "_" + cityCode + "_" + countyCode + "_" + townshipCode + ".json";
+//        if (MessyUtils.existsFile(filePath)) {
+//            return JSON.parseArray(MessyUtils.readFromFile(filePath), Region.class);
+//        }
+//        ArrayList<Region> villages = new ArrayList<>();
+//        Elements elements = getElements("http://www.stats.gov.cn/sj/tjbz/tjyqhdmhcxhfdm/2022/" + provinceCode + "/" + cityCode.replace(provinceCode, "") + "/" + countyCode.replace(cityCode, "") + "/" + townshipCode + ".html",
+//                new Evaluator.Class("villagetr"));
+//        for (Element element : elements) {
+//            //MyLog.debug(element.toString());
+//            Elements tags = element.getElementsByTag("td");
+//            if (tags.size() == 3) {
+//                Region region = new Region();
+//                region.code = tags.get(0).text();
+//                region.fullCode = MessyUtils.paddingZero(region.code);
+//                region.name = tags.get(2).text().replace("居民委员会", "居委会").replace("村民委员会", "村委会");
+//                region.level = Region.Level.村级;
+//                region.levelName = Region.Level.村级.name();
+//                region.parentCode = cityCode;
+//                villages.add(region);
+//            }
+//        }
+//        MessyUtils.saveToFile(filePath, JSON.toJSONString(villages, JSONWriter.Feature.PrettyFormat));
+//        return villages;
+//    }
 
 }

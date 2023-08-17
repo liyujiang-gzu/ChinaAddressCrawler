@@ -3,7 +3,7 @@
 		"code":"340827001",
 		"fullCode":"340827001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷阳街道",
 		"parentCode":"340827"
 	},
@@ -11,7 +11,7 @@
 		"code":"340827002",
 		"fullCode":"340827002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉水街道",
 		"parentCode":"340827"
 	},
@@ -19,7 +19,7 @@
 		"code":"340827003",
 		"fullCode":"340827003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回龙街道",
 		"parentCode":"340827"
 	},
@@ -27,7 +27,7 @@
 		"code":"340827100",
 		"fullCode":"340827100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华阳镇",
 		"parentCode":"340827"
 	},
@@ -35,7 +35,7 @@
 		"code":"340827101",
 		"fullCode":"340827101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨湾镇",
 		"parentCode":"340827"
 	},
@@ -43,7 +43,7 @@
 		"code":"340827102",
 		"fullCode":"340827102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漳湖镇",
 		"parentCode":"340827"
 	},
@@ -51,7 +51,7 @@
 		"code":"340827103",
 		"fullCode":"340827103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛口镇",
 		"parentCode":"340827"
 	},
@@ -59,7 +59,7 @@
 		"code":"340827104",
 		"fullCode":"340827104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高士镇",
 		"parentCode":"340827"
 	},
@@ -67,7 +67,7 @@
 		"code":"340827105",
 		"fullCode":"340827105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸦滩镇",
 		"parentCode":"340827"
 	},
@@ -75,7 +75,7 @@
 		"code":"340827106",
 		"fullCode":"340827106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岭镇",
 		"parentCode":"340827"
 	},
@@ -83,7 +83,7 @@
 		"code":"340827107",
 		"fullCode":"340827107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太慈镇",
 		"parentCode":"340827"
 	},
@@ -91,7 +91,7 @@
 		"code":"340827109",
 		"fullCode":"340827109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷池镇",
 		"parentCode":"340827"
 	},
@@ -99,7 +99,7 @@
 		"code":"340827200",
 		"fullCode":"340827200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉泉乡",
 		"parentCode":"340827"
 	},
@@ -107,7 +107,7 @@
 		"code":"340827400",
 		"fullCode":"340827400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望江县经济开发区",
 		"parentCode":"340827"
 	}

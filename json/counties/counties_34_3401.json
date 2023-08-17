@@ -3,7 +3,7 @@
 		"code":"340102",
 		"fullCode":"340102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"瑶海区",
 		"parentCode":"3401"
 	},
@@ -11,7 +11,7 @@
 		"code":"340103",
 		"fullCode":"340103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"庐阳区",
 		"parentCode":"3401"
 	},
@@ -19,7 +19,7 @@
 		"code":"340104",
 		"fullCode":"340104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蜀山区",
 		"parentCode":"3401"
 	},
@@ -27,7 +27,7 @@
 		"code":"340111",
 		"fullCode":"340111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"包河区",
 		"parentCode":"3401"
 	},
@@ -35,7 +35,7 @@
 		"code":"340121",
 		"fullCode":"340121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长丰县",
 		"parentCode":"3401"
 	},
@@ -43,7 +43,7 @@
 		"code":"340122",
 		"fullCode":"340122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"肥东县",
 		"parentCode":"3401"
 	},
@@ -51,7 +51,7 @@
 		"code":"340123",
 		"fullCode":"340123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"肥西县",
 		"parentCode":"3401"
 	},
@@ -59,7 +59,7 @@
 		"code":"340124",
 		"fullCode":"340124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"庐江县",
 		"parentCode":"3401"
 	},
@@ -67,7 +67,7 @@
 		"code":"340171",
 		"fullCode":"340171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"合肥高新技术产业开发区",
 		"parentCode":"3401"
 	},
@@ -75,7 +75,7 @@
 		"code":"340172",
 		"fullCode":"340172000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"合肥经济技术开发区",
 		"parentCode":"3401"
 	},
@@ -83,7 +83,7 @@
 		"code":"340173",
 		"fullCode":"340173000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"合肥新站高新技术产业开发区",
 		"parentCode":"3401"
 	},
@@ -91,7 +91,7 @@
 		"code":"340181",
 		"fullCode":"340181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巢湖市",
 		"parentCode":"3401"
 	}

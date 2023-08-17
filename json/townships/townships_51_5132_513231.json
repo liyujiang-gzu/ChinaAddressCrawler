@@ -3,7 +3,7 @@
 		"code":"513231100",
 		"fullCode":"513231100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿坝镇",
 		"parentCode":"513231"
 	},
@@ -11,7 +11,7 @@
 		"code":"513231101",
 		"fullCode":"513231101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾洛镇",
 		"parentCode":"513231"
 	},
@@ -19,7 +19,7 @@
 		"code":"513231102",
 		"fullCode":"513231102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦尔玛镇",
 		"parentCode":"513231"
 	},
@@ -27,7 +27,7 @@
 		"code":"513231103",
 		"fullCode":"513231103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河支镇",
 		"parentCode":"513231"
 	},
@@ -35,7 +35,7 @@
 		"code":"513231104",
 		"fullCode":"513231104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"各莫镇",
 		"parentCode":"513231"
 	},
@@ -43,7 +43,7 @@
 		"code":"513231105",
 		"fullCode":"513231105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安羌镇",
 		"parentCode":"513231"
 	},
@@ -51,7 +51,7 @@
 		"code":"513231201",
 		"fullCode":"513231201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦昆乡",
 		"parentCode":"513231"
 	},
@@ -59,7 +59,7 @@
 		"code":"513231203",
 		"fullCode":"513231203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙藏乡",
 		"parentCode":"513231"
 	},
@@ -67,7 +67,7 @@
 		"code":"513231204",
 		"fullCode":"513231204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"求吉玛乡",
 		"parentCode":"513231"
 	},
@@ -75,7 +75,7 @@
 		"code":"513231208",
 		"fullCode":"513231208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四洼乡",
 		"parentCode":"513231"
 	},
@@ -83,7 +83,7 @@
 		"code":"513231209",
 		"fullCode":"513231209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安斗乡",
 		"parentCode":"513231"
 	},
@@ -91,7 +91,7 @@
 		"code":"513231210",
 		"fullCode":"513231210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯河乡",
 		"parentCode":"513231"
 	},
@@ -99,7 +99,7 @@
 		"code":"513231211",
 		"fullCode":"513231211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垮沙乡",
 		"parentCode":"513231"
 	},
@@ -107,7 +107,7 @@
 		"code":"513231213",
 		"fullCode":"513231213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查理乡",
 		"parentCode":"513231"
 	},
@@ -115,7 +115,7 @@
 		"code":"513231214",
 		"fullCode":"513231214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茸安乡",
 		"parentCode":"513231"
 	}

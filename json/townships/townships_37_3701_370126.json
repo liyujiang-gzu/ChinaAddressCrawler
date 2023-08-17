@@ -3,7 +3,7 @@
 		"code":"370126001",
 		"fullCode":"370126001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许商街道",
 		"parentCode":"370126"
 	},
@@ -11,7 +11,7 @@
 		"code":"370126101",
 		"fullCode":"370126101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"殷巷镇",
 		"parentCode":"370126"
 	},
@@ -19,7 +19,7 @@
 		"code":"370126102",
 		"fullCode":"370126102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀仁镇",
 		"parentCode":"370126"
 	},
@@ -27,7 +27,7 @@
 		"code":"370126104",
 		"fullCode":"370126104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙桑寺镇",
 		"parentCode":"370126"
 	},
@@ -35,7 +35,7 @@
 		"code":"370126105",
 		"fullCode":"370126105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑路镇",
 		"parentCode":"370126"
 	},
@@ -43,7 +43,7 @@
 		"code":"370126106",
 		"fullCode":"370126106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾庄镇",
 		"parentCode":"370126"
 	},
@@ -51,7 +51,7 @@
 		"code":"370126107",
 		"fullCode":"370126107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉皇庙镇",
 		"parentCode":"370126"
 	},
@@ -59,7 +59,7 @@
 		"code":"370126108",
 		"fullCode":"370126108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白桥镇",
 		"parentCode":"370126"
 	},
@@ -67,7 +67,7 @@
 		"code":"370126109",
 		"fullCode":"370126109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙集镇",
 		"parentCode":"370126"
 	},
@@ -75,7 +75,7 @@
 		"code":"370126110",
 		"fullCode":"370126110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩庙镇",
 		"parentCode":"370126"
 	},
@@ -83,7 +83,7 @@
 		"code":"370126111",
 		"fullCode":"370126111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河镇",
 		"parentCode":"370126"
 	},
@@ -91,7 +91,7 @@
 		"code":"370126112",
 		"fullCode":"370126112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张坊镇",
 		"parentCode":"370126"
 	},
@@ -99,7 +99,7 @@
 		"code":"370126400",
 		"fullCode":"370126400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商河经济开发区",
 		"parentCode":"370126"
 	}

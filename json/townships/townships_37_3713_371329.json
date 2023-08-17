@@ -3,7 +3,7 @@
 		"code":"371329001",
 		"fullCode":"371329001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临沭街道",
 		"parentCode":"371329"
 	},
@@ -11,7 +11,7 @@
 		"code":"371329002",
 		"fullCode":"371329002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑山街道",
 		"parentCode":"371329"
 	},
@@ -19,7 +19,7 @@
 		"code":"371329101",
 		"fullCode":"371329101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蛟龙镇",
 		"parentCode":"371329"
 	},
@@ -27,7 +27,7 @@
 		"code":"371329102",
 		"fullCode":"371329102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴镇",
 		"parentCode":"371329"
 	},
@@ -35,7 +35,7 @@
 		"code":"371329103",
 		"fullCode":"371329103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门镇",
 		"parentCode":"371329"
 	},
@@ -43,7 +43,7 @@
 		"code":"371329104",
 		"fullCode":"371329104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹庄镇",
 		"parentCode":"371329"
 	},
@@ -51,7 +51,7 @@
 		"code":"371329108",
 		"fullCode":"371329108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青云镇",
 		"parentCode":"371329"
 	},
@@ -59,7 +59,7 @@
 		"code":"371329109",
 		"fullCode":"371329109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉山镇",
 		"parentCode":"371329"
 	},
@@ -67,7 +67,7 @@
 		"code":"371329110",
 		"fullCode":"371329110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店头镇",
 		"parentCode":"371329"
 	}

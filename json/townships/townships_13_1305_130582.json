@@ -3,7 +3,7 @@
 		"code":"130582001",
 		"fullCode":"130582001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"褡裢街道",
 		"parentCode":"130582"
 	},
@@ -11,7 +11,7 @@
 		"code":"130582002",
 		"fullCode":"130582002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥东街道",
 		"parentCode":"130582"
 	},
@@ -19,7 +19,7 @@
 		"code":"130582003",
 		"fullCode":"130582003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥西街道",
 		"parentCode":"130582"
 	},
@@ -27,7 +27,7 @@
 		"code":"130582004",
 		"fullCode":"130582004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赞善街道",
 		"parentCode":"130582"
 	},
@@ -35,7 +35,7 @@
 		"code":"130582005",
 		"fullCode":"130582005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周庄街道",
 		"parentCode":"130582"
 	},
@@ -43,7 +43,7 @@
 		"code":"130582101",
 		"fullCode":"130582101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城镇",
 		"parentCode":"130582"
 	},
@@ -51,7 +51,7 @@
 		"code":"130582102",
 		"fullCode":"130582102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔镇",
 		"parentCode":"130582"
 	},
@@ -59,7 +59,7 @@
 		"code":"130582103",
 		"fullCode":"130582103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里亭镇",
 		"parentCode":"130582"
 	},
@@ -67,7 +67,7 @@
 		"code":"130582104",
 		"fullCode":"130582104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"綦村镇",
 		"parentCode":"130582"
 	},
@@ -75,7 +75,7 @@
 		"code":"130582107",
 		"fullCode":"130582107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘石岗镇",
 		"parentCode":"130582"
 	},
@@ -83,7 +83,7 @@
 		"code":"130582108",
 		"fullCode":"130582108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"册井镇",
 		"parentCode":"130582"
 	},
@@ -91,7 +91,7 @@
 		"code":"130582203",
 		"fullCode":"130582203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柴关乡",
 		"parentCode":"130582"
 	},
@@ -99,7 +99,7 @@
 		"code":"130582204",
 		"fullCode":"130582204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蝉房乡",
 		"parentCode":"130582"
 	}

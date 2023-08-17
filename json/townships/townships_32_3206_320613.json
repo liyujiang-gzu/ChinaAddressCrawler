@@ -3,7 +3,7 @@
 		"code":"320613001",
 		"fullCode":"320613001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"320613"
 	},
@@ -11,7 +11,7 @@
 		"code":"320613002",
 		"fullCode":"320613002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平桥街道",
 		"parentCode":"320613"
 	},
@@ -19,7 +19,7 @@
 		"code":"320613003",
 		"fullCode":"320613003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"任港街道",
 		"parentCode":"320613"
 	},
@@ -27,7 +27,7 @@
 		"code":"320613004",
 		"fullCode":"320613004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城桥街道",
 		"parentCode":"320613"
 	},
@@ -35,7 +35,7 @@
 		"code":"320613005",
 		"fullCode":"320613005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虹桥街道",
 		"parentCode":"320613"
 	},
@@ -43,7 +43,7 @@
 		"code":"320613006",
 		"fullCode":"320613006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学田街道",
 		"parentCode":"320613"
 	},
@@ -51,7 +51,7 @@
 		"code":"320613007",
 		"fullCode":"320613007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟秀街道",
 		"parentCode":"320613"
 	},
@@ -59,7 +59,7 @@
 		"code":"320613008",
 		"fullCode":"320613008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰街道",
 		"parentCode":"320613"
 	},
@@ -67,7 +67,7 @@
 		"code":"320613009",
 		"fullCode":"320613009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音山街道",
 		"parentCode":"320613"
 	},
@@ -75,7 +75,7 @@
 		"code":"320613010",
 		"fullCode":"320613010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狼山镇街道",
 		"parentCode":"320613"
 	},
@@ -83,7 +83,7 @@
 		"code":"320613016",
 		"fullCode":"320613016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴街道",
 		"parentCode":"320613"
 	},
@@ -91,7 +91,7 @@
 		"code":"320613017",
 		"fullCode":"320613017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐闸镇街道",
 		"parentCode":"320613"
 	},
@@ -99,7 +99,7 @@
 		"code":"320613018",
 		"fullCode":"320613018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天生港镇街道",
 		"parentCode":"320613"
 	},
@@ -107,7 +107,7 @@
 		"code":"320613019",
 		"fullCode":"320613019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦灶街道",
 		"parentCode":"320613"
 	},
@@ -115,7 +115,7 @@
 		"code":"320613020",
 		"fullCode":"320613020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈桥街道",
 		"parentCode":"320613"
 	},
@@ -123,7 +123,7 @@
 		"code":"320613021",
 		"fullCode":"320613021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福街道",
 		"parentCode":"320613"
 	},
@@ -131,7 +131,7 @@
 		"code":"320613401",
 		"fullCode":"320613401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通崇川经济开发区",
 		"parentCode":"320613"
 	},
@@ -139,7 +139,7 @@
 		"code":"320613402",
 		"fullCode":"320613402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港闸开发区",
 		"parentCode":"320613"
 	},
@@ -147,7 +147,7 @@
 		"code":"320613403",
 		"fullCode":"320613403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市北高新区",
 		"parentCode":"320613"
 	}

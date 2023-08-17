@@ -3,7 +3,7 @@
 		"code":"130406001",
 		"fullCode":"130406001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滏阳东路街道",
 		"parentCode":"130406"
 	},
@@ -11,7 +11,7 @@
 		"code":"130406100",
 		"fullCode":"130406100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临水镇",
 		"parentCode":"130406"
 	},
@@ -19,7 +19,7 @@
 		"code":"130406101",
 		"fullCode":"130406101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峰峰镇",
 		"parentCode":"130406"
 	},
@@ -27,7 +27,7 @@
 		"code":"130406102",
 		"fullCode":"130406102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新坡镇",
 		"parentCode":"130406"
 	},
@@ -35,7 +35,7 @@
 		"code":"130406103",
 		"fullCode":"130406103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大社镇",
 		"parentCode":"130406"
 	},
@@ -43,7 +43,7 @@
 		"code":"130406104",
 		"fullCode":"130406104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和村镇",
 		"parentCode":"130406"
 	},
@@ -51,7 +51,7 @@
 		"code":"130406105",
 		"fullCode":"130406105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义井镇",
 		"parentCode":"130406"
 	},
@@ -59,7 +59,7 @@
 		"code":"130406106",
 		"fullCode":"130406106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭城镇",
 		"parentCode":"130406"
 	},
@@ -67,7 +67,7 @@
 		"code":"130406107",
 		"fullCode":"130406107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界城镇",
 		"parentCode":"130406"
 	},
@@ -75,7 +75,7 @@
 		"code":"130406108",
 		"fullCode":"130406108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大峪镇",
 		"parentCode":"130406"
 	},
@@ -83,7 +83,7 @@
 		"code":"130406200",
 		"fullCode":"130406200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西固义乡",
 		"parentCode":"130406"
 	}

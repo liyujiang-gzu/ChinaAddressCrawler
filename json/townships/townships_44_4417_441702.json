@@ -3,7 +3,7 @@
 		"code":"441702001",
 		"fullCode":"441702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南恩街道",
 		"parentCode":"441702"
 	},
@@ -11,7 +11,7 @@
 		"code":"441702002",
 		"fullCode":"441702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"441702"
 	},
@@ -19,7 +19,7 @@
 		"code":"441702003",
 		"fullCode":"441702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"441702"
 	},
@@ -27,7 +27,7 @@
 		"code":"441702004",
 		"fullCode":"441702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中洲街道",
 		"parentCode":"441702"
 	},
@@ -35,7 +35,7 @@
 		"code":"441702006",
 		"fullCode":"441702006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"441702"
 	},
@@ -43,7 +43,7 @@
 		"code":"441702008",
 		"fullCode":"441702008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗列街道",
 		"parentCode":"441702"
 	},
@@ -51,7 +51,7 @@
 		"code":"441702009",
 		"fullCode":"441702009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"441702"
 	},
@@ -59,7 +59,7 @@
 		"code":"441702011",
 		"fullCode":"441702011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙街道",
 		"parentCode":"441702"
 	},
@@ -67,7 +67,7 @@
 		"code":"441702102",
 		"fullCode":"441702102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"埠场镇",
 		"parentCode":"441702"
 	},
@@ -75,7 +75,7 @@
 		"code":"441702103",
 		"fullCode":"441702103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平冈镇",
 		"parentCode":"441702"
 	},
@@ -83,7 +83,7 @@
 		"code":"441702105",
 		"fullCode":"441702105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闸坡镇",
 		"parentCode":"441702"
 	},
@@ -91,7 +91,7 @@
 		"code":"441702106",
 		"fullCode":"441702106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双捷镇",
 		"parentCode":"441702"
 	},
@@ -99,7 +99,7 @@
 		"code":"441702401",
 		"fullCode":"441702401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳江林场罗琴分场",
 		"parentCode":"441702"
 	}

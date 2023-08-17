@@ -3,7 +3,7 @@
 		"code":"530111001",
 		"fullCode":"530111001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关上街道",
 		"parentCode":"530111"
 	},
@@ -11,7 +11,7 @@
 		"code":"530111002",
 		"fullCode":"530111002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和街道",
 		"parentCode":"530111"
 	},
@@ -19,7 +19,7 @@
 		"code":"530111003",
 		"fullCode":"530111003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴井街道",
 		"parentCode":"530111"
 	},
@@ -27,7 +27,7 @@
 		"code":"530111004",
 		"fullCode":"530111004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金马街道",
 		"parentCode":"530111"
 	},
@@ -35,7 +35,7 @@
 		"code":"530111005",
 		"fullCode":"530111005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小板桥街道",
 		"parentCode":"530111"
 	},
@@ -43,7 +43,7 @@
 		"code":"530111006",
 		"fullCode":"530111006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官渡街道",
 		"parentCode":"530111"
 	},
@@ -51,7 +51,7 @@
 		"code":"530111007",
 		"fullCode":"530111007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矣六街道",
 		"parentCode":"530111"
 	},
@@ -59,7 +59,7 @@
 		"code":"530111008",
 		"fullCode":"530111008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六甲街道",
 		"parentCode":"530111"
 	},
@@ -67,7 +67,7 @@
 		"code":"530111009",
 		"fullCode":"530111009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大板桥街道",
 		"parentCode":"530111"
 	},
@@ -75,7 +75,7 @@
 		"code":"530111010",
 		"fullCode":"530111010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿拉街道",
 		"parentCode":"530111"
 	},
@@ -83,7 +83,7 @@
 		"code":"530111402",
 		"fullCode":"530111402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆明经济技术开发区",
 		"parentCode":"530111"
 	}

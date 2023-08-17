@@ -3,7 +3,7 @@
 		"code":"150207001",
 		"fullCode":"150207001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河街道",
 		"parentCode":"150207"
 	},
@@ -11,7 +11,7 @@
 		"code":"150207002",
 		"fullCode":"150207002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛汗街道",
 		"parentCode":"150207"
 	},
@@ -19,7 +19,7 @@
 		"code":"150207003",
 		"fullCode":"150207003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨如拉街道",
 		"parentCode":"150207"
 	},
@@ -27,7 +27,7 @@
 		"code":"150207004",
 		"fullCode":"150207004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白音席勒街道",
 		"parentCode":"150207"
 	},
@@ -35,7 +35,7 @@
 		"code":"150207103",
 		"fullCode":"150207103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻池镇",
 		"parentCode":"150207"
 	},
@@ -43,7 +43,7 @@
 		"code":"150207105",
 		"fullCode":"150207105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈林格尔镇",
 		"parentCode":"150207"
 	},
@@ -51,7 +51,7 @@
 		"code":"150207110",
 		"fullCode":"150207110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈业胡同镇",
 		"parentCode":"150207"
 	},
@@ -59,7 +59,7 @@
 		"code":"150207202",
 		"fullCode":"150207202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿嘎如泰苏木",
 		"parentCode":"150207"
 	}

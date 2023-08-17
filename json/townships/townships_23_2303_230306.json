@@ -3,7 +3,7 @@
 		"code":"230306001",
 		"fullCode":"230306001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城子河街道",
 		"parentCode":"230306"
 	},
@@ -11,7 +11,7 @@
 		"code":"230306002",
 		"fullCode":"230306002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳街道",
 		"parentCode":"230306"
 	},
@@ -19,7 +19,7 @@
 		"code":"230306003",
 		"fullCode":"230306003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东海街道",
 		"parentCode":"230306"
 	},
@@ -27,7 +27,7 @@
 		"code":"230306004",
 		"fullCode":"230306004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"230306"
 	},
@@ -35,7 +35,7 @@
 		"code":"230306005",
 		"fullCode":"230306005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏花街道",
 		"parentCode":"230306"
 	},
@@ -43,7 +43,7 @@
 		"code":"230306200",
 		"fullCode":"230306200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长青乡",
 		"parentCode":"230306"
 	},
@@ -51,7 +51,7 @@
 		"code":"230306201",
 		"fullCode":"230306201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰乡",
 		"parentCode":"230306"
 	}

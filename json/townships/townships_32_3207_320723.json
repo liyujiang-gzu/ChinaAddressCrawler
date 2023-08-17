@@ -3,7 +3,7 @@
 		"code":"320723001",
 		"fullCode":"320723001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侍庄街道",
 		"parentCode":"320723"
 	},
@@ -11,7 +11,7 @@
 		"code":"320723100",
 		"fullCode":"320723100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊山镇",
 		"parentCode":"320723"
 	},
@@ -19,7 +19,7 @@
 		"code":"320723102",
 		"fullCode":"320723102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨集镇",
 		"parentCode":"320723"
 	},
@@ -27,7 +27,7 @@
 		"code":"320723103",
 		"fullCode":"320723103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕尾港镇",
 		"parentCode":"320723"
 	},
@@ -35,7 +35,7 @@
 		"code":"320723104",
 		"fullCode":"320723104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同兴镇",
 		"parentCode":"320723"
 	},
@@ -43,7 +43,7 @@
 		"code":"320723105",
 		"fullCode":"320723105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四队镇",
 		"parentCode":"320723"
 	},
@@ -51,7 +51,7 @@
 		"code":"320723106",
 		"fullCode":"320723106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圩丰镇",
 		"parentCode":"320723"
 	},
@@ -59,7 +59,7 @@
 		"code":"320723107",
 		"fullCode":"320723107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙苴镇",
 		"parentCode":"320723"
 	},
@@ -67,7 +67,7 @@
 		"code":"320723108",
 		"fullCode":"320723108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下车镇",
 		"parentCode":"320723"
 	},
@@ -75,7 +75,7 @@
 		"code":"320723109",
 		"fullCode":"320723109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"图河镇",
 		"parentCode":"320723"
 	},
@@ -83,7 +83,7 @@
 		"code":"320723110",
 		"fullCode":"320723110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东王集镇",
 		"parentCode":"320723"
 	},
@@ -91,7 +91,7 @@
 		"code":"320723111",
 		"fullCode":"320723111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小伊镇",
 		"parentCode":"320723"
 	},
@@ -99,7 +99,7 @@
 		"code":"320723112",
 		"fullCode":"320723112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岗镇",
 		"parentCode":"320723"
 	},
@@ -107,7 +107,7 @@
 		"code":"320723401",
 		"fullCode":"320723401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五图河农场",
 		"parentCode":"320723"
 	},
@@ -115,7 +115,7 @@
 		"code":"320723402",
 		"fullCode":"320723402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灌西盐场",
 		"parentCode":"320723"
 	},
@@ -123,7 +123,7 @@
 		"code":"320723403",
 		"fullCode":"320723403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灌云经济开发区",
 		"parentCode":"320723"
 	},
@@ -131,7 +131,7 @@
 		"code":"320723404",
 		"fullCode":"320723404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灌云临港产业区",
 		"parentCode":"320723"
 	}

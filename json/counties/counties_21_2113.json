@@ -3,7 +3,7 @@
 		"code":"211302",
 		"fullCode":"211302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"双塔区",
 		"parentCode":"2113"
 	},
@@ -11,7 +11,7 @@
 		"code":"211303",
 		"fullCode":"211303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙城区",
 		"parentCode":"2113"
 	},
@@ -19,7 +19,7 @@
 		"code":"211321",
 		"fullCode":"211321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"朝阳县",
 		"parentCode":"2113"
 	},
@@ -27,7 +27,7 @@
 		"code":"211322",
 		"fullCode":"211322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"建平县",
 		"parentCode":"2113"
 	},
@@ -35,7 +35,7 @@
 		"code":"211324",
 		"fullCode":"211324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"喀喇沁左翼蒙古族自治县",
 		"parentCode":"2113"
 	},
@@ -43,7 +43,7 @@
 		"code":"211381",
 		"fullCode":"211381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"北票市",
 		"parentCode":"2113"
 	},
@@ -51,7 +51,7 @@
 		"code":"211382",
 		"fullCode":"211382000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凌源市",
 		"parentCode":"2113"
 	}

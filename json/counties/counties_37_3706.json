@@ -3,7 +3,7 @@
 		"code":"370602",
 		"fullCode":"370602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"芝罘区",
 		"parentCode":"3706"
 	},
@@ -11,7 +11,7 @@
 		"code":"370611",
 		"fullCode":"370611000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"福山区",
 		"parentCode":"3706"
 	},
@@ -19,7 +19,7 @@
 		"code":"370612",
 		"fullCode":"370612000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"牟平区",
 		"parentCode":"3706"
 	},
@@ -27,7 +27,7 @@
 		"code":"370613",
 		"fullCode":"370613000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"莱山区",
 		"parentCode":"3706"
 	},
@@ -35,7 +35,7 @@
 		"code":"370614",
 		"fullCode":"370614000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蓬莱区",
 		"parentCode":"3706"
 	},
@@ -43,7 +43,7 @@
 		"code":"370671",
 		"fullCode":"370671000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"烟台高新技术产业开发区",
 		"parentCode":"3706"
 	},
@@ -51,7 +51,7 @@
 		"code":"370672",
 		"fullCode":"370672000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"烟台经济技术开发区",
 		"parentCode":"3706"
 	},
@@ -59,7 +59,7 @@
 		"code":"370681",
 		"fullCode":"370681000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙口市",
 		"parentCode":"3706"
 	},
@@ -67,7 +67,7 @@
 		"code":"370682",
 		"fullCode":"370682000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"莱阳市",
 		"parentCode":"3706"
 	},
@@ -75,7 +75,7 @@
 		"code":"370683",
 		"fullCode":"370683000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"莱州市",
 		"parentCode":"3706"
 	},
@@ -83,7 +83,7 @@
 		"code":"370685",
 		"fullCode":"370685000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"招远市",
 		"parentCode":"3706"
 	},
@@ -91,7 +91,7 @@
 		"code":"370686",
 		"fullCode":"370686000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"栖霞市",
 		"parentCode":"3706"
 	},
@@ -99,7 +99,7 @@
 		"code":"370687",
 		"fullCode":"370687000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海阳市",
 		"parentCode":"3706"
 	}

@@ -3,7 +3,7 @@
 		"code":"513423001",
 		"fullCode":"513423001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐井街道",
 		"parentCode":"513423"
 	},
@@ -11,7 +11,7 @@
 		"code":"513423101",
 		"fullCode":"513423101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卫城镇",
 		"parentCode":"513423"
 	},
@@ -19,7 +19,7 @@
 		"code":"513423102",
 		"fullCode":"513423102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅雨镇",
 		"parentCode":"513423"
 	},
@@ -27,7 +27,7 @@
 		"code":"513423103",
 		"fullCode":"513423103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白乌镇",
 		"parentCode":"513423"
 	},
@@ -35,7 +35,7 @@
 		"code":"513423104",
 		"fullCode":"513423104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"树河镇",
 		"parentCode":"513423"
 	},
@@ -43,7 +43,7 @@
 		"code":"513423105",
 		"fullCode":"513423105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄草镇",
 		"parentCode":"513423"
 	},
@@ -51,7 +51,7 @@
 		"code":"513423106",
 		"fullCode":"513423106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平川镇",
 		"parentCode":"513423"
 	},
@@ -59,7 +59,7 @@
 		"code":"513423107",
 		"fullCode":"513423107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泸沽湖镇",
 		"parentCode":"513423"
 	},
@@ -67,7 +67,7 @@
 		"code":"513423108",
 		"fullCode":"513423108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官地镇",
 		"parentCode":"513423"
 	},
@@ -75,7 +75,7 @@
 		"code":"513423109",
 		"fullCode":"513423109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅子坪镇",
 		"parentCode":"513423"
 	},
@@ -83,7 +83,7 @@
 		"code":"513423110",
 		"fullCode":"513423110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"润盐镇",
 		"parentCode":"513423"
 	},
@@ -91,7 +91,7 @@
 		"code":"513423111",
 		"fullCode":"513423111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长柏镇",
 		"parentCode":"513423"
 	},
@@ -99,7 +99,7 @@
 		"code":"513423112",
 		"fullCode":"513423112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲米镇",
 		"parentCode":"513423"
 	},
@@ -107,7 +107,7 @@
 		"code":"513423113",
 		"fullCode":"513423113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棉桠镇",
 		"parentCode":"513423"
 	},
@@ -115,7 +115,7 @@
 		"code":"513423114",
 		"fullCode":"513423114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐塘镇",
 		"parentCode":"513423"
 	},
@@ -123,7 +123,7 @@
 		"code":"513423115",
 		"fullCode":"513423115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金河镇",
 		"parentCode":"513423"
 	},
@@ -131,7 +131,7 @@
 		"code":"513423116",
 		"fullCode":"513423116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙塘镇",
 		"parentCode":"513423"
 	},
@@ -139,7 +139,7 @@
 		"code":"513423117",
 		"fullCode":"513423117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"513423"
 	},
@@ -147,7 +147,7 @@
 		"code":"513423206",
 		"fullCode":"513423206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"藤桥乡",
 		"parentCode":"513423"
 	},
@@ -155,7 +155,7 @@
 		"code":"513423207",
 		"fullCode":"513423207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田湾乡",
 		"parentCode":"513423"
 	},
@@ -163,7 +163,7 @@
 		"code":"513423215",
 		"fullCode":"513423215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"右所乡",
 		"parentCode":"513423"
 	},
@@ -171,7 +171,7 @@
 		"code":"513423222",
 		"fullCode":"513423222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沃底乡",
 		"parentCode":"513423"
 	},
@@ -179,7 +179,7 @@
 		"code":"513423223",
 		"fullCode":"513423223000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坡蒙古族乡",
 		"parentCode":"513423"
 	},
@@ -187,7 +187,7 @@
 		"code":"513423224",
 		"fullCode":"513423224000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洼里乡",
 		"parentCode":"513423"
 	}

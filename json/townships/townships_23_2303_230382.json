@@ -3,7 +3,7 @@
 		"code":"230382001",
 		"fullCode":"230382001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中心街道",
 		"parentCode":"230382"
 	},
@@ -11,7 +11,7 @@
 		"code":"230382100",
 		"fullCode":"230382100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"密山镇",
 		"parentCode":"230382"
 	},
@@ -19,7 +19,7 @@
 		"code":"230382101",
 		"fullCode":"230382101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连珠山镇",
 		"parentCode":"230382"
 	},
@@ -27,7 +27,7 @@
 		"code":"230382102",
 		"fullCode":"230382102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"当壁镇",
 		"parentCode":"230382"
 	},
@@ -35,7 +35,7 @@
 		"code":"230382103",
 		"fullCode":"230382103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"知一镇",
 		"parentCode":"230382"
 	},
@@ -43,7 +43,7 @@
 		"code":"230382104",
 		"fullCode":"230382104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑台镇",
 		"parentCode":"230382"
 	},
@@ -51,7 +51,7 @@
 		"code":"230382105",
 		"fullCode":"230382105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴凯镇",
 		"parentCode":"230382"
 	},
@@ -59,7 +59,7 @@
 		"code":"230382106",
 		"fullCode":"230382106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裴德镇",
 		"parentCode":"230382"
 	},
@@ -67,7 +67,7 @@
 		"code":"230382107",
 		"fullCode":"230382107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鱼湾镇",
 		"parentCode":"230382"
 	},
@@ -75,7 +75,7 @@
 		"code":"230382200",
 		"fullCode":"230382200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳毛乡",
 		"parentCode":"230382"
 	},
@@ -83,7 +83,7 @@
 		"code":"230382201",
 		"fullCode":"230382201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨木乡",
 		"parentCode":"230382"
 	},
@@ -91,7 +91,7 @@
 		"code":"230382202",
 		"fullCode":"230382202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴凯湖乡",
 		"parentCode":"230382"
 	},
@@ -99,7 +99,7 @@
 		"code":"230382203",
 		"fullCode":"230382203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"承紫河乡",
 		"parentCode":"230382"
 	},
@@ -107,7 +107,7 @@
 		"code":"230382206",
 		"fullCode":"230382206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二人班乡",
 		"parentCode":"230382"
 	},
@@ -115,7 +115,7 @@
 		"code":"230382208",
 		"fullCode":"230382208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平乡",
 		"parentCode":"230382"
 	},
@@ -123,7 +123,7 @@
 		"code":"230382210",
 		"fullCode":"230382210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平乡",
 		"parentCode":"230382"
 	},
@@ -131,7 +131,7 @@
 		"code":"230382212",
 		"fullCode":"230382212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富源乡",
 		"parentCode":"230382"
 	},
@@ -139,7 +139,7 @@
 		"code":"230382400",
 		"fullCode":"230382400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林草局",
 		"parentCode":"230382"
 	},
@@ -147,7 +147,7 @@
 		"code":"230382480",
 		"fullCode":"230382480000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青年水库",
 		"parentCode":"230382"
 	},
@@ -155,7 +155,7 @@
 		"code":"230382481",
 		"fullCode":"230382481000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"煤管局",
 		"parentCode":"230382"
 	},
@@ -163,7 +163,7 @@
 		"code":"230382482",
 		"fullCode":"230382482000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"经济开发区管理委员会",
 		"parentCode":"230382"
 	},
@@ -171,7 +171,7 @@
 		"code":"230382501",
 		"fullCode":"230382501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牡丹江管理局局直",
 		"parentCode":"230382"
 	},
@@ -179,7 +179,7 @@
 		"code":"230382502",
 		"fullCode":"230382502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八五五农场",
 		"parentCode":"230382"
 	},
@@ -187,7 +187,7 @@
 		"code":"230382503",
 		"fullCode":"230382503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八五七农场",
 		"parentCode":"230382"
 	},
@@ -195,7 +195,7 @@
 		"code":"230382504",
 		"fullCode":"230382504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八五一一农场",
 		"parentCode":"230382"
 	},
@@ -203,7 +203,7 @@
 		"code":"230382505",
 		"fullCode":"230382505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴凯湖农场",
 		"parentCode":"230382"
 	},
@@ -211,7 +211,7 @@
 		"code":"230382506",
 		"fullCode":"230382506000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牡丹江管理局北大营管委会",
 		"parentCode":"230382"
 	},
@@ -219,7 +219,7 @@
 		"code":"230382507",
 		"fullCode":"230382507000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牡丹江管理局双峰农场",
 		"parentCode":"230382"
 	},
@@ -227,7 +227,7 @@
 		"code":"230382580",
 		"fullCode":"230382580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水产养殖有限公司",
 		"parentCode":"230382"
 	},
@@ -235,7 +235,7 @@
 		"code":"230382581",
 		"fullCode":"230382581000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"种畜场",
 		"parentCode":"230382"
 	},
@@ -243,7 +243,7 @@
 		"code":"230382582",
 		"fullCode":"230382582000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水田良种场",
 		"parentCode":"230382"
 	},
@@ -251,7 +251,7 @@
 		"code":"230382583",
 		"fullCode":"230382583000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市良种场",
 		"parentCode":"230382"
 	},
@@ -259,7 +259,7 @@
 		"code":"230382584",
 		"fullCode":"230382584000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"校办企业公司",
 		"parentCode":"230382"
 	},
@@ -267,7 +267,7 @@
 		"code":"230382585",
 		"fullCode":"230382585000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蜂蜜山粮库有限公司",
 		"parentCode":"230382"
 	}

@@ -3,7 +3,7 @@
 		"code":"431002001",
 		"fullCode":"431002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人民路街道",
 		"parentCode":"431002"
 	},
@@ -11,7 +11,7 @@
 		"code":"431002002",
 		"fullCode":"431002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北湖街道",
 		"parentCode":"431002"
 	},
@@ -19,7 +19,7 @@
 		"code":"431002003",
 		"fullCode":"431002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕泉街道",
 		"parentCode":"431002"
 	},
@@ -27,7 +27,7 @@
 		"code":"431002004",
 		"fullCode":"431002004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下湄桥街道",
 		"parentCode":"431002"
 	},
@@ -35,7 +35,7 @@
 		"code":"431002005",
 		"fullCode":"431002005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骆仙街道",
 		"parentCode":"431002"
 	},
@@ -43,7 +43,7 @@
 		"code":"431002006",
 		"fullCode":"431002006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"增福街道",
 		"parentCode":"431002"
 	},
@@ -51,7 +51,7 @@
 		"code":"431002007",
 		"fullCode":"431002007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郴江街道",
 		"parentCode":"431002"
 	},
@@ -59,7 +59,7 @@
 		"code":"431002008",
 		"fullCode":"431002008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涌泉街道",
 		"parentCode":"431002"
 	},
@@ -67,7 +67,7 @@
 		"code":"431002009",
 		"fullCode":"431002009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安和街道",
 		"parentCode":"431002"
 	},
@@ -75,7 +75,7 @@
 		"code":"431002010",
 		"fullCode":"431002010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石盖塘街道",
 		"parentCode":"431002"
 	},
@@ -83,7 +83,7 @@
 		"code":"431002101",
 		"fullCode":"431002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华塘镇",
 		"parentCode":"431002"
 	},
@@ -91,7 +91,7 @@
 		"code":"431002102",
 		"fullCode":"431002102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁塘镇",
 		"parentCode":"431002"
 	},
@@ -99,7 +99,7 @@
 		"code":"431002209",
 		"fullCode":"431002209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仰天湖瑶族乡",
 		"parentCode":"431002"
 	},
@@ -107,7 +107,7 @@
 		"code":"431002210",
 		"fullCode":"431002210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保和瑶族乡",
 		"parentCode":"431002"
 	}

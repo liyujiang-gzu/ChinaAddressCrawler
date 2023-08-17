@@ -3,7 +3,7 @@
 		"code":"230183100",
 		"fullCode":"230183100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚志镇",
 		"parentCode":"230183"
 	},
@@ -11,7 +11,7 @@
 		"code":"230183101",
 		"fullCode":"230183101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"一面坡镇",
 		"parentCode":"230183"
 	},
@@ -19,7 +19,7 @@
 		"code":"230183102",
 		"fullCode":"230183102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苇河镇",
 		"parentCode":"230183"
 	},
@@ -27,7 +27,7 @@
 		"code":"230183103",
 		"fullCode":"230183103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚布力镇",
 		"parentCode":"230183"
 	},
@@ -35,7 +35,7 @@
 		"code":"230183104",
 		"fullCode":"230183104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"帽儿山镇",
 		"parentCode":"230183"
 	},
@@ -43,7 +43,7 @@
 		"code":"230183105",
 		"fullCode":"230183105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亮河镇",
 		"parentCode":"230183"
 	},
@@ -51,7 +51,7 @@
 		"code":"230183106",
 		"fullCode":"230183106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆阳镇",
 		"parentCode":"230183"
 	},
@@ -59,7 +59,7 @@
 		"code":"230183107",
 		"fullCode":"230183107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石头河子镇",
 		"parentCode":"230183"
 	},
@@ -67,7 +67,7 @@
 		"code":"230183108",
 		"fullCode":"230183108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元宝镇",
 		"parentCode":"230183"
 	},
@@ -75,7 +75,7 @@
 		"code":"230183109",
 		"fullCode":"230183109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑龙宫镇",
 		"parentCode":"230183"
 	},
@@ -83,7 +83,7 @@
 		"code":"230183202",
 		"fullCode":"230183202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长寿乡",
 		"parentCode":"230183"
 	},
@@ -91,7 +91,7 @@
 		"code":"230183204",
 		"fullCode":"230183204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌吉密乡",
 		"parentCode":"230183"
 	},
@@ -99,7 +99,7 @@
 		"code":"230183206",
 		"fullCode":"230183206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼池乡",
 		"parentCode":"230183"
 	},
@@ -107,7 +107,7 @@
 		"code":"230183207",
 		"fullCode":"230183207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珍珠山乡",
 		"parentCode":"230183"
 	},
@@ -115,7 +115,7 @@
 		"code":"230183208",
 		"fullCode":"230183208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老街基乡",
 		"parentCode":"230183"
 	},
@@ -123,7 +123,7 @@
 		"code":"230183209",
 		"fullCode":"230183209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马延乡",
 		"parentCode":"230183"
 	},
@@ -131,7 +131,7 @@
 		"code":"230183211",
 		"fullCode":"230183211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东乡",
 		"parentCode":"230183"
 	},
@@ -139,7 +139,7 @@
 		"code":"230183400",
 		"fullCode":"230183400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苇河林业局",
 		"parentCode":"230183"
 	},
@@ -147,7 +147,7 @@
 		"code":"230183401",
 		"fullCode":"230183401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚布力林业局",
 		"parentCode":"230183"
 	},
@@ -155,7 +155,7 @@
 		"code":"230183402",
 		"fullCode":"230183402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈尔滨市政府亚布力滑雪旅游度假区管理委员会",
 		"parentCode":"230183"
 	}

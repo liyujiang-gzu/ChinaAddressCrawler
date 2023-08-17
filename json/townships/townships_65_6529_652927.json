@@ -3,7 +3,7 @@
 		"code":"652927100",
 		"fullCode":"652927100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌什镇",
 		"parentCode":"652927"
 	},
@@ -11,7 +11,7 @@
 		"code":"652927101",
 		"fullCode":"652927101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿合雅镇",
 		"parentCode":"652927"
 	},
@@ -19,7 +19,7 @@
 		"code":"652927102",
 		"fullCode":"652927102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依麻木镇",
 		"parentCode":"652927"
 	},
@@ -27,7 +27,7 @@
 		"code":"652927200",
 		"fullCode":"652927200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿克托海乡",
 		"parentCode":"652927"
 	},
@@ -35,7 +35,7 @@
 		"code":"652927201",
 		"fullCode":"652927201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚科瑞克乡",
 		"parentCode":"652927"
 	},
@@ -43,7 +43,7 @@
 		"code":"652927202",
 		"fullCode":"652927202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿恰塔格乡",
 		"parentCode":"652927"
 	},
@@ -51,7 +51,7 @@
 		"code":"652927205",
 		"fullCode":"652927205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英阿瓦提乡",
 		"parentCode":"652927"
 	},
@@ -59,7 +59,7 @@
 		"code":"652927206",
 		"fullCode":"652927206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚曼苏柯尔克孜族乡",
 		"parentCode":"652927"
 	},
@@ -67,7 +67,7 @@
 		"code":"652927207",
 		"fullCode":"652927207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奥特贝希乡",
 		"parentCode":"652927"
 	}

@@ -3,7 +3,7 @@
 		"code":"360111001",
 		"fullCode":"360111001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山路街道",
 		"parentCode":"360111"
 	},
@@ -11,7 +11,7 @@
 		"code":"360111003",
 		"fullCode":"360111003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上海路街道",
 		"parentCode":"360111"
 	},
@@ -19,7 +19,7 @@
 		"code":"360111004",
 		"fullCode":"360111004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南钢街道",
 		"parentCode":"360111"
 	},
@@ -27,7 +27,7 @@
 		"code":"360111005",
 		"fullCode":"360111005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站东街道",
 		"parentCode":"360111"
 	},
@@ -35,7 +35,7 @@
 		"code":"360111100",
 		"fullCode":"360111100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"京东镇",
 		"parentCode":"360111"
 	},
@@ -43,7 +43,7 @@
 		"code":"360111103",
 		"fullCode":"360111103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗家镇",
 		"parentCode":"360111"
 	},
@@ -51,7 +51,7 @@
 		"code":"360111104",
 		"fullCode":"360111104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖坊镇",
 		"parentCode":"360111"
 	},
@@ -59,7 +59,7 @@
 		"code":"360111105",
 		"fullCode":"360111105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘山镇",
 		"parentCode":"360111"
 	},
@@ -67,7 +67,7 @@
 		"code":"360111400",
 		"fullCode":"360111400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江西青山湖高新技术产业园区",
 		"parentCode":"360111"
 	},
@@ -75,7 +75,7 @@
 		"code":"360111490",
 		"fullCode":"360111490000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艾溪湖管理处",
 		"parentCode":"360111"
 	}

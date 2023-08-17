@@ -3,7 +3,7 @@
 		"code":"620523100",
 		"fullCode":"620523100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大像山镇",
 		"parentCode":"620523"
 	},
@@ -11,7 +11,7 @@
 		"code":"620523101",
 		"fullCode":"620523101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴镇",
 		"parentCode":"620523"
 	},
@@ -19,7 +19,7 @@
 		"code":"620523102",
 		"fullCode":"620523102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磐安镇",
 		"parentCode":"620523"
 	},
@@ -27,7 +27,7 @@
 		"code":"620523103",
 		"fullCode":"620523103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六峰镇",
 		"parentCode":"620523"
 	},
@@ -35,7 +35,7 @@
 		"code":"620523104",
 		"fullCode":"620523104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安远镇",
 		"parentCode":"620523"
 	},
@@ -43,7 +43,7 @@
 		"code":"620523105",
 		"fullCode":"620523105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山镇",
 		"parentCode":"620523"
 	},
@@ -51,7 +51,7 @@
 		"code":"620523106",
 		"fullCode":"620523106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石镇",
 		"parentCode":"620523"
 	},
@@ -59,7 +59,7 @@
 		"code":"620523107",
 		"fullCode":"620523107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"礼辛镇",
 		"parentCode":"620523"
 	},
@@ -67,7 +67,7 @@
 		"code":"620523108",
 		"fullCode":"620523108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武家河镇",
 		"parentCode":"620523"
 	},
@@ -75,7 +75,7 @@
 		"code":"620523109",
 		"fullCode":"620523109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庄镇",
 		"parentCode":"620523"
 	},
@@ -83,7 +83,7 @@
 		"code":"620523110",
 		"fullCode":"620523110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古坡镇",
 		"parentCode":"620523"
 	},
@@ -91,7 +91,7 @@
 		"code":"620523111",
 		"fullCode":"620523111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里湾镇",
 		"parentCode":"620523"
 	},
@@ -99,7 +99,7 @@
 		"code":"620523112",
 		"fullCode":"620523112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西坪镇",
 		"parentCode":"620523"
 	},
@@ -107,7 +107,7 @@
 		"code":"620523200",
 		"fullCode":"620523200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢家湾乡",
 		"parentCode":"620523"
 	},
@@ -115,7 +115,7 @@
 		"code":"620523207",
 		"fullCode":"620523207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白家湾乡",
 		"parentCode":"620523"
 	}

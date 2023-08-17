@@ -3,7 +3,7 @@
 		"code":"513223100",
 		"fullCode":"513223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤仪镇",
 		"parentCode":"513223"
 	},
@@ -11,7 +11,7 @@
 		"code":"513223101",
 		"fullCode":"513223101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南新镇",
 		"parentCode":"513223"
 	},
@@ -19,7 +19,7 @@
 		"code":"513223102",
 		"fullCode":"513223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叠溪镇",
 		"parentCode":"513223"
 	},
@@ -27,7 +27,7 @@
 		"code":"513223105",
 		"fullCode":"513223105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富顺镇",
 		"parentCode":"513223"
 	},
@@ -35,7 +35,7 @@
 		"code":"513223107",
 		"fullCode":"513223107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土门镇",
 		"parentCode":"513223"
 	},
@@ -43,7 +43,7 @@
 		"code":"513223109",
 		"fullCode":"513223109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洼底镇",
 		"parentCode":"513223"
 	},
@@ -51,7 +51,7 @@
 		"code":"513223110",
 		"fullCode":"513223110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坝镇",
 		"parentCode":"513223"
 	},
@@ -59,7 +59,7 @@
 		"code":"513223111",
 		"fullCode":"513223111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渭门镇",
 		"parentCode":"513223"
 	},
@@ -67,7 +67,7 @@
 		"code":"513223112",
 		"fullCode":"513223112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑虎镇",
 		"parentCode":"513223"
 	},
@@ -75,7 +75,7 @@
 		"code":"513223113",
 		"fullCode":"513223113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沟口镇",
 		"parentCode":"513223"
 	},
@@ -83,7 +83,7 @@
 		"code":"513223114",
 		"fullCode":"513223114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤不苏镇",
 		"parentCode":"513223"
 	}

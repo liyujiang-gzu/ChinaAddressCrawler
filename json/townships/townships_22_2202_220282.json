@@ -3,7 +3,7 @@
 		"code":"220282001",
 		"fullCode":"220282001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明桦街道",
 		"parentCode":"220282"
 	},
@@ -11,7 +11,7 @@
 		"code":"220282002",
 		"fullCode":"220282002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永吉街道",
 		"parentCode":"220282"
 	},
@@ -19,7 +19,7 @@
 		"code":"220282003",
 		"fullCode":"220282003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利街道",
 		"parentCode":"220282"
 	},
@@ -27,7 +27,7 @@
 		"code":"220282004",
 		"fullCode":"220282004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街道",
 		"parentCode":"220282"
 	},
@@ -35,7 +35,7 @@
 		"code":"220282005",
 		"fullCode":"220282005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"启新街道",
 		"parentCode":"220282"
 	},
@@ -43,7 +43,7 @@
 		"code":"220282100",
 		"fullCode":"220282100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹皮沟镇",
 		"parentCode":"220282"
 	},
@@ -51,7 +51,7 @@
 		"code":"220282101",
 		"fullCode":"220282101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二道甸子镇",
 		"parentCode":"220282"
 	},
@@ -59,7 +59,7 @@
 		"code":"220282102",
 		"fullCode":"220282102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红石砬子镇",
 		"parentCode":"220282"
 	},
@@ -67,7 +67,7 @@
 		"code":"220282103",
 		"fullCode":"220282103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八道河子镇",
 		"parentCode":"220282"
 	},
@@ -75,7 +75,7 @@
 		"code":"220282104",
 		"fullCode":"220282104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常山镇",
 		"parentCode":"220282"
 	},
@@ -83,7 +83,7 @@
 		"code":"220282105",
 		"fullCode":"220282105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙镇",
 		"parentCode":"220282"
 	},
@@ -91,7 +91,7 @@
 		"code":"220282200",
 		"fullCode":"220282200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桦郊乡",
 		"parentCode":"220282"
 	},
@@ -99,7 +99,7 @@
 		"code":"220282201",
 		"fullCode":"220282201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横道河子乡",
 		"parentCode":"220282"
 	},
@@ -107,7 +107,7 @@
 		"code":"220282204",
 		"fullCode":"220282204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公吉乡",
 		"parentCode":"220282"
 	}

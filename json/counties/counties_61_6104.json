@@ -3,7 +3,7 @@
 		"code":"610402",
 		"fullCode":"610402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"秦都区",
 		"parentCode":"6104"
 	},
@@ -11,7 +11,7 @@
 		"code":"610403",
 		"fullCode":"610403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"杨陵区",
 		"parentCode":"6104"
 	},
@@ -19,7 +19,7 @@
 		"code":"610404",
 		"fullCode":"610404000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"渭城区",
 		"parentCode":"6104"
 	},
@@ -27,7 +27,7 @@
 		"code":"610422",
 		"fullCode":"610422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"三原县",
 		"parentCode":"6104"
 	},
@@ -35,7 +35,7 @@
 		"code":"610423",
 		"fullCode":"610423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泾阳县",
 		"parentCode":"6104"
 	},
@@ -43,7 +43,7 @@
 		"code":"610424",
 		"fullCode":"610424000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乾县",
 		"parentCode":"6104"
 	},
@@ -51,7 +51,7 @@
 		"code":"610425",
 		"fullCode":"610425000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"礼泉县",
 		"parentCode":"6104"
 	},
@@ -59,7 +59,7 @@
 		"code":"610426",
 		"fullCode":"610426000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永寿县",
 		"parentCode":"6104"
 	},
@@ -67,7 +67,7 @@
 		"code":"610428",
 		"fullCode":"610428000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长武县",
 		"parentCode":"6104"
 	},
@@ -75,7 +75,7 @@
 		"code":"610429",
 		"fullCode":"610429000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"旬邑县",
 		"parentCode":"6104"
 	},
@@ -83,7 +83,7 @@
 		"code":"610430",
 		"fullCode":"610430000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"淳化县",
 		"parentCode":"6104"
 	},
@@ -91,7 +91,7 @@
 		"code":"610431",
 		"fullCode":"610431000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武功县",
 		"parentCode":"6104"
 	},
@@ -99,7 +99,7 @@
 		"code":"610481",
 		"fullCode":"610481000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴平市",
 		"parentCode":"6104"
 	},
@@ -107,7 +107,7 @@
 		"code":"610482",
 		"fullCode":"610482000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"彬州市",
 		"parentCode":"6104"
 	}

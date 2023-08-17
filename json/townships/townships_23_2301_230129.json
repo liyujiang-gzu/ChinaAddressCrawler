@@ -3,7 +3,7 @@
 		"code":"230129100",
 		"fullCode":"230129100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延寿镇",
 		"parentCode":"230129"
 	},
@@ -11,7 +11,7 @@
 		"code":"230129101",
 		"fullCode":"230129101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六团镇",
 		"parentCode":"230129"
 	},
@@ -19,7 +19,7 @@
 		"code":"230129102",
 		"fullCode":"230129102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中和镇",
 		"parentCode":"230129"
 	},
@@ -27,7 +27,7 @@
 		"code":"230129103",
 		"fullCode":"230129103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加信镇",
 		"parentCode":"230129"
 	},
@@ -35,7 +35,7 @@
 		"code":"230129104",
 		"fullCode":"230129104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延河镇",
 		"parentCode":"230129"
 	},
@@ -43,7 +43,7 @@
 		"code":"230129105",
 		"fullCode":"230129105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉河镇",
 		"parentCode":"230129"
 	},
@@ -51,7 +51,7 @@
 		"code":"230129204",
 		"fullCode":"230129204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安山乡",
 		"parentCode":"230129"
 	},
@@ -59,7 +59,7 @@
 		"code":"230129205",
 		"fullCode":"230129205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寿山乡",
 		"parentCode":"230129"
 	},
@@ -67,7 +67,7 @@
 		"code":"230129209",
 		"fullCode":"230129209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青川乡",
 		"parentCode":"230129"
 	},
@@ -75,7 +75,7 @@
 		"code":"230129400",
 		"fullCode":"230129400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平川",
 		"parentCode":"230129"
 	},
@@ -83,7 +83,7 @@
 		"code":"230129500",
 		"fullCode":"230129500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆阳农场",
 		"parentCode":"230129"
 	}

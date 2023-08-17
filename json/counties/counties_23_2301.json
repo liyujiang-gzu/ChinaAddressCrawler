@@ -3,7 +3,7 @@
 		"code":"230102",
 		"fullCode":"230102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"道里区",
 		"parentCode":"2301"
 	},
@@ -11,7 +11,7 @@
 		"code":"230103",
 		"fullCode":"230103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南岗区",
 		"parentCode":"2301"
 	},
@@ -19,7 +19,7 @@
 		"code":"230104",
 		"fullCode":"230104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"道外区",
 		"parentCode":"2301"
 	},
@@ -27,7 +27,7 @@
 		"code":"230108",
 		"fullCode":"230108000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平房区",
 		"parentCode":"2301"
 	},
@@ -35,7 +35,7 @@
 		"code":"230109",
 		"fullCode":"230109000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"松北区",
 		"parentCode":"2301"
 	},
@@ -43,7 +43,7 @@
 		"code":"230110",
 		"fullCode":"230110000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"香坊区",
 		"parentCode":"2301"
 	},
@@ -51,7 +51,7 @@
 		"code":"230111",
 		"fullCode":"230111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"呼兰区",
 		"parentCode":"2301"
 	},
@@ -59,7 +59,7 @@
 		"code":"230112",
 		"fullCode":"230112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿城区",
 		"parentCode":"2301"
 	},
@@ -67,7 +67,7 @@
 		"code":"230113",
 		"fullCode":"230113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"双城区",
 		"parentCode":"2301"
 	},
@@ -75,7 +75,7 @@
 		"code":"230123",
 		"fullCode":"230123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"依兰县",
 		"parentCode":"2301"
 	},
@@ -83,7 +83,7 @@
 		"code":"230124",
 		"fullCode":"230124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"方正县",
 		"parentCode":"2301"
 	},
@@ -91,7 +91,7 @@
 		"code":"230125",
 		"fullCode":"230125000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宾县",
 		"parentCode":"2301"
 	},
@@ -99,7 +99,7 @@
 		"code":"230126",
 		"fullCode":"230126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巴彦县",
 		"parentCode":"2301"
 	},
@@ -107,7 +107,7 @@
 		"code":"230127",
 		"fullCode":"230127000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"木兰县",
 		"parentCode":"2301"
 	},
@@ -115,7 +115,7 @@
 		"code":"230128",
 		"fullCode":"230128000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"通河县",
 		"parentCode":"2301"
 	},
@@ -123,7 +123,7 @@
 		"code":"230129",
 		"fullCode":"230129000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"延寿县",
 		"parentCode":"2301"
 	},
@@ -131,7 +131,7 @@
 		"code":"230183",
 		"fullCode":"230183000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"尚志市",
 		"parentCode":"2301"
 	},
@@ -139,7 +139,7 @@
 		"code":"230184",
 		"fullCode":"230184000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五常市",
 		"parentCode":"2301"
 	}

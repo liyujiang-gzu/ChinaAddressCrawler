@@ -3,7 +3,7 @@
 		"code":"370404001",
 		"fullCode":"370404001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坛山街道",
 		"parentCode":"370404"
 	},
@@ -11,7 +11,7 @@
 		"code":"370404002",
 		"fullCode":"370404002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴林街道",
 		"parentCode":"370404"
 	},
@@ -19,7 +19,7 @@
 		"code":"370404100",
 		"fullCode":"370404100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古邵镇",
 		"parentCode":"370404"
 	},
@@ -27,7 +27,7 @@
 		"code":"370404101",
 		"fullCode":"370404101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阴平镇",
 		"parentCode":"370404"
 	},
@@ -35,7 +35,7 @@
 		"code":"370404102",
 		"fullCode":"370404102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"底阁镇",
 		"parentCode":"370404"
 	},
@@ -43,7 +43,7 @@
 		"code":"370404103",
 		"fullCode":"370404103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榴园镇",
 		"parentCode":"370404"
 	},
@@ -51,7 +51,7 @@
 		"code":"370404104",
 		"fullCode":"370404104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峨山镇",
 		"parentCode":"370404"
 	}

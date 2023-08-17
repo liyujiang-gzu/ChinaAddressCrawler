@@ -3,7 +3,7 @@
 		"code":"513323100",
 		"fullCode":"513323100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章谷镇",
 		"parentCode":"513323"
 	},
@@ -11,7 +11,7 @@
 		"code":"513323101",
 		"fullCode":"513323101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴底镇",
 		"parentCode":"513323"
 	},
@@ -19,7 +19,7 @@
 		"code":"513323102",
 		"fullCode":"513323102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"革什扎镇",
 		"parentCode":"513323"
 	},
@@ -27,7 +27,7 @@
 		"code":"513323103",
 		"fullCode":"513323103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东谷镇",
 		"parentCode":"513323"
 	},
@@ -35,7 +35,7 @@
 		"code":"513323104",
 		"fullCode":"513323104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墨尔多山镇",
 		"parentCode":"513323"
 	},
@@ -43,7 +43,7 @@
 		"code":"513323105",
 		"fullCode":"513323105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲居镇",
 		"parentCode":"513323"
 	},
@@ -51,7 +51,7 @@
 		"code":"513323106",
 		"fullCode":"513323106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"格宗镇",
 		"parentCode":"513323"
 	},
@@ -59,7 +59,7 @@
 		"code":"513323107",
 		"fullCode":"513323107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半扇门镇",
 		"parentCode":"513323"
 	},
@@ -67,7 +67,7 @@
 		"code":"513323108",
 		"fullCode":"513323108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹东镇",
 		"parentCode":"513323"
 	},
@@ -75,7 +75,7 @@
 		"code":"513323201",
 		"fullCode":"513323201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴旺乡",
 		"parentCode":"513323"
 	},
@@ -83,7 +83,7 @@
 		"code":"513323209",
 		"fullCode":"513323209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梭坡乡",
 		"parentCode":"513323"
 	},
@@ -91,7 +91,7 @@
 		"code":"513323213",
 		"fullCode":"513323213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平桥乡",
 		"parentCode":"513323"
 	}

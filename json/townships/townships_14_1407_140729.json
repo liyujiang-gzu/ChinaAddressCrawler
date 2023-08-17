@@ -3,7 +3,7 @@
 		"code":"140729100",
 		"fullCode":"140729100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠峰镇",
 		"parentCode":"140729"
 	},
@@ -11,7 +11,7 @@
 		"code":"140729101",
 		"fullCode":"140729101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"静升镇",
 		"parentCode":"140729"
 	},
@@ -19,7 +19,7 @@
 		"code":"140729102",
 		"fullCode":"140729102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两渡镇",
 		"parentCode":"140729"
 	},
@@ -27,7 +27,7 @@
 		"code":"140729103",
 		"fullCode":"140729103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏门镇",
 		"parentCode":"140729"
 	},
@@ -35,7 +35,7 @@
 		"code":"140729104",
 		"fullCode":"140729104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南关镇",
 		"parentCode":"140729"
 	},
@@ -43,7 +43,7 @@
 		"code":"140729105",
 		"fullCode":"140729105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段纯镇",
 		"parentCode":"140729"
 	},
@@ -51,7 +51,7 @@
 		"code":"140729202",
 		"fullCode":"140729202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王禹乡",
 		"parentCode":"140729"
 	},
@@ -59,7 +59,7 @@
 		"code":"140729203",
 		"fullCode":"140729203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坛镇乡",
 		"parentCode":"140729"
 	},
@@ -67,7 +67,7 @@
 		"code":"140729204",
 		"fullCode":"140729204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁家焉乡",
 		"parentCode":"140729"
 	},
@@ -75,7 +75,7 @@
 		"code":"140729205",
 		"fullCode":"140729205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"交口乡",
 		"parentCode":"140729"
 	},
@@ -83,7 +83,7 @@
 		"code":"140729403",
 		"fullCode":"140729403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵石县城区社会事务服务中心",
 		"parentCode":"140729"
 	}

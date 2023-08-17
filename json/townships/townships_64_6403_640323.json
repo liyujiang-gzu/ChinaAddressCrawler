@@ -3,7 +3,7 @@
 		"code":"640323001",
 		"fullCode":"640323001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐州路街道",
 		"parentCode":"640323"
 	},
@@ -11,7 +11,7 @@
 		"code":"640323100",
 		"fullCode":"640323100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花马池镇",
 		"parentCode":"640323"
 	},
@@ -19,7 +19,7 @@
 		"code":"640323101",
 		"fullCode":"640323101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大水坑镇",
 		"parentCode":"640323"
 	},
@@ -27,7 +27,7 @@
 		"code":"640323102",
 		"fullCode":"640323102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠安堡镇",
 		"parentCode":"640323"
 	},
@@ -35,7 +35,7 @@
 		"code":"640323103",
 		"fullCode":"640323103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高沙窝镇",
 		"parentCode":"640323"
 	},
@@ -43,7 +43,7 @@
 		"code":"640323200",
 		"fullCode":"640323200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王乐井乡",
 		"parentCode":"640323"
 	},
@@ -51,7 +51,7 @@
 		"code":"640323201",
 		"fullCode":"640323201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯记沟乡",
 		"parentCode":"640323"
 	},
@@ -59,7 +59,7 @@
 		"code":"640323202",
 		"fullCode":"640323202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山乡",
 		"parentCode":"640323"
 	},
@@ -67,7 +67,7 @@
 		"code":"640323203",
 		"fullCode":"640323203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻黄山乡",
 		"parentCode":"640323"
 	}

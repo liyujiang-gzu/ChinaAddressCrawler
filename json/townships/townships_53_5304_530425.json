@@ -3,7 +3,7 @@
 		"code":"530425001",
 		"fullCode":"530425001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉街道",
 		"parentCode":"530425"
 	},
@@ -11,7 +11,7 @@
 		"code":"530425002",
 		"fullCode":"530425002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六街街道",
 		"parentCode":"530425"
 	},
@@ -19,7 +19,7 @@
 		"code":"530425100",
 		"fullCode":"530425100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绿汁镇",
 		"parentCode":"530425"
 	},
@@ -27,7 +27,7 @@
 		"code":"530425201",
 		"fullCode":"530425201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浦贝彝族乡",
 		"parentCode":"530425"
 	},
@@ -35,7 +35,7 @@
 		"code":"530425202",
 		"fullCode":"530425202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十街彝族乡",
 		"parentCode":"530425"
 	},
@@ -43,7 +43,7 @@
 		"code":"530425203",
 		"fullCode":"530425203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜厂彝族乡",
 		"parentCode":"530425"
 	},
@@ -51,7 +51,7 @@
 		"code":"530425204",
 		"fullCode":"530425204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小街乡",
 		"parentCode":"530425"
 	}

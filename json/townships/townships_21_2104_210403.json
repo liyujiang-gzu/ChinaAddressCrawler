@@ -3,7 +3,7 @@
 		"code":"210403002",
 		"fullCode":"210403002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东洲街道",
 		"parentCode":"210403"
 	},
@@ -11,7 +11,7 @@
 		"code":"210403004",
 		"fullCode":"210403004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"搭连街道",
 		"parentCode":"210403"
 	},
@@ -19,7 +19,7 @@
 		"code":"210403005",
 		"fullCode":"210403005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙凤街道",
 		"parentCode":"210403"
 	},
@@ -27,7 +27,7 @@
 		"code":"210403006",
 		"fullCode":"210403006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新屯街道",
 		"parentCode":"210403"
 	},
@@ -35,7 +35,7 @@
 		"code":"210403007",
 		"fullCode":"210403007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万新街道",
 		"parentCode":"210403"
 	},
@@ -43,7 +43,7 @@
 		"code":"210403008",
 		"fullCode":"210403008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老虎台街道",
 		"parentCode":"210403"
 	},
@@ -51,7 +51,7 @@
 		"code":"210403012",
 		"fullCode":"210403012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章党街道",
 		"parentCode":"210403"
 	},
@@ -59,7 +59,7 @@
 		"code":"210403103",
 		"fullCode":"210403103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章党镇",
 		"parentCode":"210403"
 	},
@@ -67,7 +67,7 @@
 		"code":"210403104",
 		"fullCode":"210403104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈达镇",
 		"parentCode":"210403"
 	},
@@ -75,7 +75,7 @@
 		"code":"210403202",
 		"fullCode":"210403202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碾盘乡",
 		"parentCode":"210403"
 	},
@@ -83,7 +83,7 @@
 		"code":"210403215",
 		"fullCode":"210403215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰山乡",
 		"parentCode":"210403"
 	}

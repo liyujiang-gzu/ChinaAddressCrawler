@@ -3,7 +3,7 @@
 		"code":"140109001",
 		"fullCode":"140109001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千峰街道",
 		"parentCode":"140109"
 	},
@@ -11,7 +11,7 @@
 		"code":"140109002",
 		"fullCode":"140109002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下元街道",
 		"parentCode":"140109"
 	},
@@ -19,7 +19,7 @@
 		"code":"140109003",
 		"fullCode":"140109003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"140109"
 	},
@@ -27,7 +27,7 @@
 		"code":"140109004",
 		"fullCode":"140109004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华街道",
 		"parentCode":"140109"
 	},
@@ -35,7 +35,7 @@
 		"code":"140109005",
 		"fullCode":"140109005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万柏林街道",
 		"parentCode":"140109"
 	},
@@ -43,7 +43,7 @@
 		"code":"140109006",
 		"fullCode":"140109006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜儿坪街道",
 		"parentCode":"140109"
 	},
@@ -51,7 +51,7 @@
 		"code":"140109007",
 		"fullCode":"140109007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白家庄街道",
 		"parentCode":"140109"
 	},
@@ -59,7 +59,7 @@
 		"code":"140109008",
 		"fullCode":"140109008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南寒街道",
 		"parentCode":"140109"
 	},
@@ -67,7 +67,7 @@
 		"code":"140109009",
 		"fullCode":"140109009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东社街道",
 		"parentCode":"140109"
 	},
@@ -75,7 +75,7 @@
 		"code":"140109011",
 		"fullCode":"140109011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小井峪街道",
 		"parentCode":"140109"
 	},
@@ -83,7 +83,7 @@
 		"code":"140109012",
 		"fullCode":"140109012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西铭街道",
 		"parentCode":"140109"
 	},
@@ -91,7 +91,7 @@
 		"code":"140109013",
 		"fullCode":"140109013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长风西街街道",
 		"parentCode":"140109"
 	},
@@ -99,7 +99,7 @@
 		"code":"140109014",
 		"fullCode":"140109014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神堂沟街道",
 		"parentCode":"140109"
 	},
@@ -107,7 +107,7 @@
 		"code":"140109015",
 		"fullCode":"140109015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王化街道",
 		"parentCode":"140109"
 	}

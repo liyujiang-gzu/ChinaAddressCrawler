@@ -3,7 +3,7 @@
 		"code":"350121001",
 		"fullCode":"350121001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘蔗街道",
 		"parentCode":"350121"
 	},
@@ -11,7 +11,7 @@
 		"code":"350121101",
 		"fullCode":"350121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"350121"
 	},
@@ -19,7 +19,7 @@
 		"code":"350121102",
 		"fullCode":"350121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南屿镇",
 		"parentCode":"350121"
 	},
@@ -27,7 +27,7 @@
 		"code":"350121103",
 		"fullCode":"350121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚干镇",
 		"parentCode":"350121"
 	},
@@ -35,7 +35,7 @@
 		"code":"350121104",
 		"fullCode":"350121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祥谦镇",
 		"parentCode":"350121"
 	},
@@ -43,7 +43,7 @@
 		"code":"350121105",
 		"fullCode":"350121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青口镇",
 		"parentCode":"350121"
 	},
@@ -51,7 +51,7 @@
 		"code":"350121106",
 		"fullCode":"350121106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通镇",
 		"parentCode":"350121"
 	},
@@ -59,7 +59,7 @@
 		"code":"350121107",
 		"fullCode":"350121107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上街镇",
 		"parentCode":"350121"
 	},
@@ -67,7 +67,7 @@
 		"code":"350121108",
 		"fullCode":"350121108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荆溪镇",
 		"parentCode":"350121"
 	},
@@ -75,7 +75,7 @@
 		"code":"350121200",
 		"fullCode":"350121200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹岐乡",
 		"parentCode":"350121"
 	},
@@ -83,7 +83,7 @@
 		"code":"350121201",
 		"fullCode":"350121201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸿尾乡",
 		"parentCode":"350121"
 	},
@@ -91,7 +91,7 @@
 		"code":"350121202",
 		"fullCode":"350121202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋里乡",
 		"parentCode":"350121"
 	},
@@ -99,7 +99,7 @@
 		"code":"350121203",
 		"fullCode":"350121203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大湖乡",
 		"parentCode":"350121"
 	},
@@ -107,7 +107,7 @@
 		"code":"350121204",
 		"fullCode":"350121204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"廷坪乡",
 		"parentCode":"350121"
 	},
@@ -115,7 +115,7 @@
 		"code":"350121206",
 		"fullCode":"350121206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小箬乡",
 		"parentCode":"350121"
 	},
@@ -123,7 +123,7 @@
 		"code":"350121400",
 		"fullCode":"350121400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江洋农场",
 		"parentCode":"350121"
 	}

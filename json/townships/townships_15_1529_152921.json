@@ -3,7 +3,7 @@
 		"code":"152921102",
 		"fullCode":"152921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温都尔勒图镇",
 		"parentCode":"152921"
 	},
@@ -11,7 +11,7 @@
 		"code":"152921105",
 		"fullCode":"152921105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴润别立镇",
 		"parentCode":"152921"
 	},
@@ -19,7 +19,7 @@
 		"code":"152921110",
 		"fullCode":"152921110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦浩特镇",
 		"parentCode":"152921"
 	},
@@ -27,7 +27,7 @@
 		"code":"152921111",
 		"fullCode":"152921111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉尔嘎勒赛汉镇",
 		"parentCode":"152921"
 	},
@@ -35,7 +35,7 @@
 		"code":"152921112",
 		"fullCode":"152921112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉兰泰镇",
 		"parentCode":"152921"
 	},
@@ -43,7 +43,7 @@
 		"code":"152921113",
 		"fullCode":"152921113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗别立镇",
 		"parentCode":"152921"
 	},
@@ -51,7 +51,7 @@
 		"code":"152921114",
 		"fullCode":"152921114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敖伦布拉格镇",
 		"parentCode":"152921"
 	},
@@ -59,7 +59,7 @@
 		"code":"152921115",
 		"fullCode":"152921115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腾格里额里斯镇",
 		"parentCode":"152921"
 	},
@@ -67,7 +67,7 @@
 		"code":"152921203",
 		"fullCode":"152921203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦木仁苏木",
 		"parentCode":"152921"
 	},
@@ -75,7 +75,7 @@
 		"code":"152921213",
 		"fullCode":"152921213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌力吉苏木",
 		"parentCode":"152921"
 	},
@@ -83,7 +83,7 @@
 		"code":"152921214",
 		"fullCode":"152921214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦诺日公苏木",
 		"parentCode":"152921"
 	},
@@ -91,7 +91,7 @@
 		"code":"152921215",
 		"fullCode":"152921215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"额尔克哈什哈苏木",
 		"parentCode":"152921"
 	},
@@ -99,7 +99,7 @@
 		"code":"152921216",
 		"fullCode":"152921216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银根苏木",
 		"parentCode":"152921"
 	},
@@ -107,7 +107,7 @@
 		"code":"152921217",
 		"fullCode":"152921217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"超格图呼热苏木",
 		"parentCode":"152921"
 	},
@@ -115,7 +115,7 @@
 		"code":"152921401",
 		"fullCode":"152921401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孪井滩生态移民示范区",
 		"parentCode":"152921"
 	},
@@ -123,7 +123,7 @@
 		"code":"152921402",
 		"fullCode":"152921402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦浩特额鲁特街道办事处",
 		"parentCode":"152921"
 	},
@@ -131,7 +131,7 @@
 		"code":"152921403",
 		"fullCode":"152921403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦浩特南环路街道办事处",
 		"parentCode":"152921"
 	},
@@ -139,7 +139,7 @@
 		"code":"152921404",
 		"fullCode":"152921404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦浩特新华街道办事处",
 		"parentCode":"152921"
 	},
@@ -147,7 +147,7 @@
 		"code":"152921405",
 		"fullCode":"152921405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦浩特王府街道办事处",
 		"parentCode":"152921"
 	}

@@ -3,7 +3,7 @@
 		"code":"422801001",
 		"fullCode":"422801001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舞阳坝街道",
 		"parentCode":"422801"
 	},
@@ -11,7 +11,7 @@
 		"code":"422801002",
 		"fullCode":"422801002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六角亭街道",
 		"parentCode":"422801"
 	},
@@ -19,7 +19,7 @@
 		"code":"422801003",
 		"fullCode":"422801003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小渡船街道",
 		"parentCode":"422801"
 	},
@@ -27,7 +27,7 @@
 		"code":"422801004",
 		"fullCode":"422801004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里坪街道",
 		"parentCode":"422801"
 	},
@@ -35,7 +35,7 @@
 		"code":"422801005",
 		"fullCode":"422801005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金子坝街道",
 		"parentCode":"422801"
 	},
@@ -43,7 +43,7 @@
 		"code":"422801100",
 		"fullCode":"422801100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙凤镇",
 		"parentCode":"422801"
 	},
@@ -51,7 +51,7 @@
 		"code":"422801101",
 		"fullCode":"422801101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崔家坝镇",
 		"parentCode":"422801"
 	},
@@ -59,7 +59,7 @@
 		"code":"422801102",
 		"fullCode":"422801102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"422801"
 	},
@@ -67,7 +67,7 @@
 		"code":"422801103",
 		"fullCode":"422801103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白杨坪镇",
 		"parentCode":"422801"
 	},
@@ -75,7 +75,7 @@
 		"code":"422801104",
 		"fullCode":"422801104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔镇",
 		"parentCode":"422801"
 	},
@@ -83,7 +83,7 @@
 		"code":"422801105",
 		"fullCode":"422801105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盛家坝镇",
 		"parentCode":"422801"
 	},
@@ -91,7 +91,7 @@
 		"code":"422801201",
 		"fullCode":"422801201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新塘乡",
 		"parentCode":"422801"
 	},
@@ -99,7 +99,7 @@
 		"code":"422801202",
 		"fullCode":"422801202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红土乡",
 		"parentCode":"422801"
 	},
@@ -107,7 +107,7 @@
 		"code":"422801203",
 		"fullCode":"422801203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙地乡",
 		"parentCode":"422801"
 	},
@@ -115,7 +115,7 @@
 		"code":"422801204",
 		"fullCode":"422801204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太阳河乡",
 		"parentCode":"422801"
 	},
@@ -123,7 +123,7 @@
 		"code":"422801205",
 		"fullCode":"422801205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屯堡乡",
 		"parentCode":"422801"
 	},
@@ -131,7 +131,7 @@
 		"code":"422801206",
 		"fullCode":"422801206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白果乡",
 		"parentCode":"422801"
 	},
@@ -139,7 +139,7 @@
 		"code":"422801207",
 		"fullCode":"422801207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芭蕉侗族乡",
 		"parentCode":"422801"
 	},
@@ -147,7 +147,7 @@
 		"code":"422801400",
 		"fullCode":"422801400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恩施大峡谷风景管理处",
 		"parentCode":"422801"
 	}

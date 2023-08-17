@@ -3,7 +3,7 @@
 		"code":"640381001",
 		"fullCode":"640381001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕民街道",
 		"parentCode":"640381"
 	},
@@ -11,7 +11,7 @@
 		"code":"640381100",
 		"fullCode":"640381100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小坝镇",
 		"parentCode":"640381"
 	},
@@ -19,7 +19,7 @@
 		"code":"640381101",
 		"fullCode":"640381101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坝镇",
 		"parentCode":"640381"
 	},
@@ -27,7 +27,7 @@
 		"code":"640381102",
 		"fullCode":"640381102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青铜峡镇",
 		"parentCode":"640381"
 	},
@@ -35,7 +35,7 @@
 		"code":"640381103",
 		"fullCode":"640381103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叶盛镇",
 		"parentCode":"640381"
 	},
@@ -43,7 +43,7 @@
 		"code":"640381104",
 		"fullCode":"640381104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瞿靖镇",
 		"parentCode":"640381"
 	},
@@ -51,7 +51,7 @@
 		"code":"640381105",
 		"fullCode":"640381105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峡口镇",
 		"parentCode":"640381"
 	},
@@ -59,7 +59,7 @@
 		"code":"640381106",
 		"fullCode":"640381106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邵岗镇",
 		"parentCode":"640381"
 	},
@@ -67,7 +67,7 @@
 		"code":"640381107",
 		"fullCode":"640381107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈袁滩镇",
 		"parentCode":"640381"
 	},
@@ -75,7 +75,7 @@
 		"code":"640381401",
 		"fullCode":"640381401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"树新林场",
 		"parentCode":"640381"
 	}

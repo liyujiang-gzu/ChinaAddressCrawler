@@ -3,7 +3,7 @@
 		"code":"620321100",
 		"fullCode":"620321100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"620321"
 	},
@@ -11,7 +11,7 @@
 		"code":"620321101",
 		"fullCode":"620321101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西堡镇",
 		"parentCode":"620321"
 	},
@@ -19,7 +19,7 @@
 		"code":"620321102",
 		"fullCode":"620321102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城子镇",
 		"parentCode":"620321"
 	},
@@ -27,7 +27,7 @@
 		"code":"620321103",
 		"fullCode":"620321103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱王堡镇",
 		"parentCode":"620321"
 	},
@@ -35,7 +35,7 @@
 		"code":"620321104",
 		"fullCode":"620321104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东寨镇",
 		"parentCode":"620321"
 	},
@@ -43,7 +43,7 @@
 		"code":"620321105",
 		"fullCode":"620321105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水源镇",
 		"parentCode":"620321"
 	},
@@ -51,7 +51,7 @@
 		"code":"620321106",
 		"fullCode":"620321106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红山窑镇",
 		"parentCode":"620321"
 	},
@@ -59,7 +59,7 @@
 		"code":"620321107",
 		"fullCode":"620321107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"焦家庄镇",
 		"parentCode":"620321"
 	},
@@ -67,7 +67,7 @@
 		"code":"620321108",
 		"fullCode":"620321108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六坝镇",
 		"parentCode":"620321"
 	},
@@ -75,7 +75,7 @@
 		"code":"620321203",
 		"fullCode":"620321203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南坝乡",
 		"parentCode":"620321"
 	}

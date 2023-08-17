@@ -3,7 +3,7 @@
 		"code":"330503001",
 		"fullCode":"330503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东迁街道",
 		"parentCode":"330503"
 	},
@@ -11,7 +11,7 @@
 		"code":"330503002",
 		"fullCode":"330503002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧馆街道",
 		"parentCode":"330503"
 	},
@@ -19,7 +19,7 @@
 		"code":"330503100",
 		"fullCode":"330503100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南浔镇",
 		"parentCode":"330503"
 	},
@@ -27,7 +27,7 @@
 		"code":"330503101",
 		"fullCode":"330503101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双林镇",
 		"parentCode":"330503"
 	},
@@ -35,7 +35,7 @@
 		"code":"330503102",
 		"fullCode":"330503102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"练市镇",
 		"parentCode":"330503"
 	},
@@ -43,7 +43,7 @@
 		"code":"330503103",
 		"fullCode":"330503103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"善琏镇",
 		"parentCode":"330503"
 	},
@@ -51,7 +51,7 @@
 		"code":"330503105",
 		"fullCode":"330503105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菱湖镇",
 		"parentCode":"330503"
 	},
@@ -59,7 +59,7 @@
 		"code":"330503106",
 		"fullCode":"330503106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和孚镇",
 		"parentCode":"330503"
 	},
@@ -67,7 +67,7 @@
 		"code":"330503107",
 		"fullCode":"330503107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千金镇",
 		"parentCode":"330503"
 	},
@@ -75,7 +75,7 @@
 		"code":"330503108",
 		"fullCode":"330503108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石淙镇",
 		"parentCode":"330503"
 	}

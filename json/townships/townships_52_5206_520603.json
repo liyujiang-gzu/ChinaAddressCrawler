@@ -3,7 +3,7 @@
 		"code":"520603001",
 		"fullCode":"520603001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢桥街道",
 		"parentCode":"520603"
 	},
@@ -11,7 +11,7 @@
 		"code":"520603002",
 		"fullCode":"520603002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶店街道",
 		"parentCode":"520603"
 	},
@@ -19,7 +19,7 @@
 		"code":"520603003",
 		"fullCode":"520603003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁山街道",
 		"parentCode":"520603"
 	},
@@ -27,7 +27,7 @@
 		"code":"520603004",
 		"fullCode":"520603004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹都街道",
 		"parentCode":"520603"
 	},
@@ -35,7 +35,7 @@
 		"code":"520603100",
 		"fullCode":"520603100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万山镇",
 		"parentCode":"520603"
 	},
@@ -43,7 +43,7 @@
 		"code":"520603200",
 		"fullCode":"520603200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高楼坪侗族乡",
 		"parentCode":"520603"
 	},
@@ -51,7 +51,7 @@
 		"code":"520603201",
 		"fullCode":"520603201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄道侗族乡",
 		"parentCode":"520603"
 	},
@@ -59,7 +59,7 @@
 		"code":"520603202",
 		"fullCode":"520603202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敖寨侗族乡",
 		"parentCode":"520603"
 	},
@@ -67,7 +67,7 @@
 		"code":"520603203",
 		"fullCode":"520603203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下溪侗族乡",
 		"parentCode":"520603"
 	},
@@ -75,7 +75,7 @@
 		"code":"520603204",
 		"fullCode":"520603204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼塘侗族苗族乡",
 		"parentCode":"520603"
 	},
@@ -83,7 +83,7 @@
 		"code":"520603205",
 		"fullCode":"520603205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坪侗族土家族苗族乡",
 		"parentCode":"520603"
 	}

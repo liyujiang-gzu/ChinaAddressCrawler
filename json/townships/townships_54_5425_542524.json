@@ -3,7 +3,7 @@
 		"code":"542524100",
 		"fullCode":"542524100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日土镇",
 		"parentCode":"542524"
 	},
@@ -11,7 +11,7 @@
 		"code":"542524200",
 		"fullCode":"542524200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热帮乡",
 		"parentCode":"542524"
 	},
@@ -19,7 +19,7 @@
 		"code":"542524201",
 		"fullCode":"542524201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日松乡",
 		"parentCode":"542524"
 	},
@@ -27,7 +27,7 @@
 		"code":"542524202",
 		"fullCode":"542524202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东汝乡",
 		"parentCode":"542524"
 	},
@@ -35,7 +35,7 @@
 		"code":"542524203",
 		"fullCode":"542524203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多玛乡",
 		"parentCode":"542524"
 	}

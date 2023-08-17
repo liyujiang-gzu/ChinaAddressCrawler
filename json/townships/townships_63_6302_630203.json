@@ -3,7 +3,7 @@
 		"code":"630203001",
 		"fullCode":"630203001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安街道",
 		"parentCode":"630203"
 	},
@@ -11,7 +11,7 @@
 		"code":"630203002",
 		"fullCode":"630203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小峡街道",
 		"parentCode":"630203"
 	},
@@ -19,7 +19,7 @@
 		"code":"630203102",
 		"fullCode":"630203102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三合镇",
 		"parentCode":"630203"
 	},
@@ -27,7 +27,7 @@
 		"code":"630203200",
 		"fullCode":"630203200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪水泉乡",
 		"parentCode":"630203"
 	},
@@ -35,7 +35,7 @@
 		"code":"630203201",
 		"fullCode":"630203201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石灰窑乡",
 		"parentCode":"630203"
 	},
@@ -43,7 +43,7 @@
 		"code":"630203202",
 		"fullCode":"630203202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城乡",
 		"parentCode":"630203"
 	},
@@ -51,7 +51,7 @@
 		"code":"630203203",
 		"fullCode":"630203203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙沟乡",
 		"parentCode":"630203"
 	},
@@ -59,7 +59,7 @@
 		"code":"630203204",
 		"fullCode":"630203204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴藏沟乡",
 		"parentCode":"630203"
 	},
@@ -67,7 +67,7 @@
 		"code":"630203400",
 		"fullCode":"630203400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹家堡临空综合经济园平安园区",
 		"parentCode":"630203"
 	}

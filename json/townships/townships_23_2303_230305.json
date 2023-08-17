@@ -3,7 +3,7 @@
 		"code":"230305001",
 		"fullCode":"230305001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"街里街道",
 		"parentCode":"230305"
 	},
@@ -11,7 +11,7 @@
 		"code":"230305002",
 		"fullCode":"230305002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"穆棱街道",
 		"parentCode":"230305"
 	},
@@ -19,7 +19,7 @@
 		"code":"230305003",
 		"fullCode":"230305003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平岗街道",
 		"parentCode":"230305"
 	},
@@ -27,7 +27,7 @@
 		"code":"230305101",
 		"fullCode":"230305101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨树镇",
 		"parentCode":"230305"
 	}

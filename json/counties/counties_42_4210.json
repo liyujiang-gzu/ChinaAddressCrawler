@@ -3,7 +3,7 @@
 		"code":"421002",
 		"fullCode":"421002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沙市区",
 		"parentCode":"4210"
 	},
@@ -11,7 +11,7 @@
 		"code":"421003",
 		"fullCode":"421003000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"荆州区",
 		"parentCode":"4210"
 	},
@@ -19,7 +19,7 @@
 		"code":"421022",
 		"fullCode":"421022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"公安县",
 		"parentCode":"4210"
 	},
@@ -27,7 +27,7 @@
 		"code":"421024",
 		"fullCode":"421024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江陵县",
 		"parentCode":"4210"
 	},
@@ -35,7 +35,7 @@
 		"code":"421071",
 		"fullCode":"421071000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"荆州经济技术开发区",
 		"parentCode":"4210"
 	},
@@ -43,7 +43,7 @@
 		"code":"421081",
 		"fullCode":"421081000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石首市",
 		"parentCode":"4210"
 	},
@@ -51,7 +51,7 @@
 		"code":"421083",
 		"fullCode":"421083000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"洪湖市",
 		"parentCode":"4210"
 	},
@@ -59,7 +59,7 @@
 		"code":"421087",
 		"fullCode":"421087000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"松滋市",
 		"parentCode":"4210"
 	},
@@ -67,7 +67,7 @@
 		"code":"421088",
 		"fullCode":"421088000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"监利市",
 		"parentCode":"4210"
 	}

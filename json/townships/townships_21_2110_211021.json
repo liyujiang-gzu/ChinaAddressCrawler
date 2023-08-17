@@ -3,7 +3,7 @@
 		"code":"211021100",
 		"fullCode":"211021100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"首山镇",
 		"parentCode":"211021"
 	},
@@ -11,7 +11,7 @@
 		"code":"211021101",
 		"fullCode":"211021101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘二堡镇",
 		"parentCode":"211021"
 	},
@@ -19,7 +19,7 @@
 		"code":"211021103",
 		"fullCode":"211021103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小北河镇",
 		"parentCode":"211021"
 	},
@@ -27,7 +27,7 @@
 		"code":"211021104",
 		"fullCode":"211021104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄泥洼镇",
 		"parentCode":"211021"
 	},
@@ -35,7 +35,7 @@
 		"code":"211021106",
 		"fullCode":"211021106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐马寨镇",
 		"parentCode":"211021"
 	},
@@ -43,7 +43,7 @@
 		"code":"211021107",
 		"fullCode":"211021107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"穆家镇",
 		"parentCode":"211021"
 	},
@@ -51,7 +51,7 @@
 		"code":"211021108",
 		"fullCode":"211021108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳壕镇",
 		"parentCode":"211021"
 	},
@@ -59,7 +59,7 @@
 		"code":"211021110",
 		"fullCode":"211021110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河栏镇",
 		"parentCode":"211021"
 	},
@@ -67,7 +67,7 @@
 		"code":"211021111",
 		"fullCode":"211021111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆昌镇",
 		"parentCode":"211021"
 	},
@@ -75,7 +75,7 @@
 		"code":"211021112",
 		"fullCode":"211021112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八会镇",
 		"parentCode":"211021"
 	},
@@ -83,7 +83,7 @@
 		"code":"211021113",
 		"fullCode":"211021113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寒岭镇",
 		"parentCode":"211021"
 	},
@@ -91,7 +91,7 @@
 		"code":"211021114",
 		"fullCode":"211021114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"211021"
 	},
@@ -99,7 +99,7 @@
 		"code":"211021201",
 		"fullCode":"211021201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下达河乡",
 		"parentCode":"211021"
 	},
@@ -107,7 +107,7 @@
 		"code":"211021202",
 		"fullCode":"211021202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉洞峪满族乡",
 		"parentCode":"211021"
 	},
@@ -115,7 +115,7 @@
 		"code":"211021206",
 		"fullCode":"211021206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甜水满族乡",
 		"parentCode":"211021"
 	}

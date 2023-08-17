@@ -3,7 +3,7 @@
 		"code":"610425001",
 		"fullCode":"610425001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"610425"
 	},
@@ -11,7 +11,7 @@
 		"code":"610425101",
 		"fullCode":"610425101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"史德镇",
 		"parentCode":"610425"
 	},
@@ -19,7 +19,7 @@
 		"code":"610425102",
 		"fullCode":"610425102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西张堡镇",
 		"parentCode":"610425"
 	},
@@ -27,7 +27,7 @@
 		"code":"610425103",
 		"fullCode":"610425103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阡东镇",
 		"parentCode":"610425"
 	},
@@ -35,7 +35,7 @@
 		"code":"610425104",
 		"fullCode":"610425104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烽火镇",
 		"parentCode":"610425"
 	},
@@ -43,7 +43,7 @@
 		"code":"610425105",
 		"fullCode":"610425105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烟霞镇",
 		"parentCode":"610425"
 	},
@@ -51,7 +51,7 @@
 		"code":"610425106",
 		"fullCode":"610425106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵镇",
 		"parentCode":"610425"
 	},
@@ -59,7 +59,7 @@
 		"code":"610425108",
 		"fullCode":"610425108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叱干镇",
 		"parentCode":"610425"
 	},
@@ -67,7 +67,7 @@
 		"code":"610425109",
 		"fullCode":"610425109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南坊镇",
 		"parentCode":"610425"
 	},
@@ -75,7 +75,7 @@
 		"code":"610425110",
 		"fullCode":"610425110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石潭镇",
 		"parentCode":"610425"
 	},
@@ -83,7 +83,7 @@
 		"code":"610425111",
 		"fullCode":"610425111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昭陵镇",
 		"parentCode":"610425"
 	},
@@ -91,7 +91,7 @@
 		"code":"610425112",
 		"fullCode":"610425112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骏马镇",
 		"parentCode":"610425"
 	}

@@ -3,7 +3,7 @@
 		"code":"150723100",
 		"fullCode":"150723100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿里河镇",
 		"parentCode":"150723"
 	},
@@ -11,7 +11,7 @@
 		"code":"150723101",
 		"fullCode":"150723101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大杨树镇",
 		"parentCode":"150723"
 	},
@@ -19,7 +19,7 @@
 		"code":"150723102",
 		"fullCode":"150723102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘河镇",
 		"parentCode":"150723"
 	},
@@ -27,7 +27,7 @@
 		"code":"150723103",
 		"fullCode":"150723103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉文镇",
 		"parentCode":"150723"
 	},
@@ -35,7 +35,7 @@
 		"code":"150723104",
 		"fullCode":"150723104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"诺敏镇",
 		"parentCode":"150723"
 	},
@@ -43,7 +43,7 @@
 		"code":"150723105",
 		"fullCode":"150723105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌鲁布铁镇",
 		"parentCode":"150723"
 	},
@@ -51,7 +51,7 @@
 		"code":"150723106",
 		"fullCode":"150723106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜里镇",
 		"parentCode":"150723"
 	},
@@ -59,7 +59,7 @@
 		"code":"150723107",
 		"fullCode":"150723107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克一河镇",
 		"parentCode":"150723"
 	},
@@ -67,7 +67,7 @@
 		"code":"150723200",
 		"fullCode":"150723200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古里乡",
 		"parentCode":"150723"
 	},
@@ -75,7 +75,7 @@
 		"code":"150723201",
 		"fullCode":"150723201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托扎敏乡",
 		"parentCode":"150723"
 	}

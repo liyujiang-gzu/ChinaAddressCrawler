@@ -3,7 +3,7 @@
 		"code":"360733100",
 		"fullCode":"360733100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文武坝镇",
 		"parentCode":"360733"
 	},
@@ -11,7 +11,7 @@
 		"code":"360733101",
 		"fullCode":"360733101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"筠门岭镇",
 		"parentCode":"360733"
 	},
@@ -19,7 +19,7 @@
 		"code":"360733102",
 		"fullCode":"360733102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西江镇",
 		"parentCode":"360733"
 	},
@@ -27,7 +27,7 @@
 		"code":"360733103",
 		"fullCode":"360733103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周田镇",
 		"parentCode":"360733"
 	},
@@ -35,7 +35,7 @@
 		"code":"360733104",
 		"fullCode":"360733104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻州镇",
 		"parentCode":"360733"
 	},
@@ -43,7 +43,7 @@
 		"code":"360733105",
 		"fullCode":"360733105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄口镇",
 		"parentCode":"360733"
 	},
@@ -51,7 +51,7 @@
 		"code":"360733200",
 		"fullCode":"360733200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清溪乡",
 		"parentCode":"360733"
 	},
@@ -59,7 +59,7 @@
 		"code":"360733201",
 		"fullCode":"360733201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"右水乡",
 		"parentCode":"360733"
 	},
@@ -67,7 +67,7 @@
 		"code":"360733202",
 		"fullCode":"360733202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高排乡",
 		"parentCode":"360733"
 	},
@@ -75,7 +75,7 @@
 		"code":"360733203",
 		"fullCode":"360733203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晓龙乡",
 		"parentCode":"360733"
 	},
@@ -83,7 +83,7 @@
 		"code":"360733204",
 		"fullCode":"360733204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠兰乡",
 		"parentCode":"360733"
 	},
@@ -91,7 +91,7 @@
 		"code":"360733205",
 		"fullCode":"360733205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洞头乡",
 		"parentCode":"360733"
 	},
@@ -99,7 +99,7 @@
 		"code":"360733206",
 		"fullCode":"360733206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中村乡",
 		"parentCode":"360733"
 	},
@@ -107,7 +107,7 @@
 		"code":"360733207",
 		"fullCode":"360733207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站塘乡",
 		"parentCode":"360733"
 	},
@@ -115,7 +115,7 @@
 		"code":"360733208",
 		"fullCode":"360733208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永隆乡",
 		"parentCode":"360733"
 	},
@@ -123,7 +123,7 @@
 		"code":"360733209",
 		"fullCode":"360733209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富城乡",
 		"parentCode":"360733"
 	},
@@ -131,7 +131,7 @@
 		"code":"360733210",
 		"fullCode":"360733210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小密乡",
 		"parentCode":"360733"
 	},
@@ -139,7 +139,7 @@
 		"code":"360733211",
 		"fullCode":"360733211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄埠乡",
 		"parentCode":"360733"
 	},
@@ -147,7 +147,7 @@
 		"code":"360733212",
 		"fullCode":"360733212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鹅乡",
 		"parentCode":"360733"
 	},
@@ -155,7 +155,7 @@
 		"code":"360733400",
 		"fullCode":"360733400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会昌县燕子窝工业园",
 		"parentCode":"360733"
 	}

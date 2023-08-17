@@ -3,7 +3,7 @@
 		"code":"340406001",
 		"fullCode":"340406001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田集街道",
 		"parentCode":"340406"
 	},
@@ -11,7 +11,7 @@
 		"code":"340406100",
 		"fullCode":"340406100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高皇镇",
 		"parentCode":"340406"
 	},
@@ -19,7 +19,7 @@
 		"code":"340406101",
 		"fullCode":"340406101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平圩镇",
 		"parentCode":"340406"
 	},
@@ -27,7 +27,7 @@
 		"code":"340406102",
 		"fullCode":"340406102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥河镇",
 		"parentCode":"340406"
 	},
@@ -35,7 +35,7 @@
 		"code":"340406103",
 		"fullCode":"340406103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘集镇",
 		"parentCode":"340406"
 	},
@@ -43,7 +43,7 @@
 		"code":"340406104",
 		"fullCode":"340406104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦集镇",
 		"parentCode":"340406"
 	},
@@ -51,7 +51,7 @@
 		"code":"340406105",
 		"fullCode":"340406105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"架河镇",
 		"parentCode":"340406"
 	},
@@ -59,7 +59,7 @@
 		"code":"340406106",
 		"fullCode":"340406106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹沟镇",
 		"parentCode":"340406"
 	},
@@ -67,7 +67,7 @@
 		"code":"340406107",
 		"fullCode":"340406107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祁集镇",
 		"parentCode":"340406"
 	},
@@ -75,7 +75,7 @@
 		"code":"340406108",
 		"fullCode":"340406108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贺疃镇",
 		"parentCode":"340406"
 	},
@@ -83,7 +83,7 @@
 		"code":"340406202",
 		"fullCode":"340406202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古沟回族乡",
 		"parentCode":"340406"
 	}

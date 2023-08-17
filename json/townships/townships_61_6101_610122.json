@@ -3,7 +3,7 @@
 		"code":"610122001",
 		"fullCode":"610122001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝关街道",
 		"parentCode":"610122"
 	},
@@ -11,7 +11,7 @@
 		"code":"610122101",
 		"fullCode":"610122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洩湖镇",
 		"parentCode":"610122"
 	},
@@ -19,7 +19,7 @@
 		"code":"610122102",
 		"fullCode":"610122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华胥镇",
 		"parentCode":"610122"
 	},
@@ -27,7 +27,7 @@
 		"code":"610122103",
 		"fullCode":"610122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前卫镇",
 		"parentCode":"610122"
 	},
@@ -35,7 +35,7 @@
 		"code":"610122104",
 		"fullCode":"610122104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤峪镇",
 		"parentCode":"610122"
 	},
@@ -43,7 +43,7 @@
 		"code":"610122105",
 		"fullCode":"610122105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"焦岱镇",
 		"parentCode":"610122"
 	},
@@ -51,7 +51,7 @@
 		"code":"610122106",
 		"fullCode":"610122106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉山镇",
 		"parentCode":"610122"
 	},
@@ -59,7 +59,7 @@
 		"code":"610122107",
 		"fullCode":"610122107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里镇",
 		"parentCode":"610122"
 	},
@@ -67,7 +67,7 @@
 		"code":"610122108",
 		"fullCode":"610122108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普化镇",
 		"parentCode":"610122"
 	},
@@ -75,7 +75,7 @@
 		"code":"610122109",
 		"fullCode":"610122109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛牌镇",
 		"parentCode":"610122"
 	},
@@ -83,7 +83,7 @@
 		"code":"610122110",
 		"fullCode":"610122110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灞源镇",
 		"parentCode":"610122"
 	},
@@ -91,7 +91,7 @@
 		"code":"610122111",
 		"fullCode":"610122111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九间房镇",
 		"parentCode":"610122"
 	},
@@ -99,7 +99,7 @@
 		"code":"610122112",
 		"fullCode":"610122112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝桥镇",
 		"parentCode":"610122"
 	},
@@ -107,7 +107,7 @@
 		"code":"610122113",
 		"fullCode":"610122113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辋川镇",
 		"parentCode":"610122"
 	},
@@ -115,7 +115,7 @@
 		"code":"610122115",
 		"fullCode":"610122115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"厚镇",
 		"parentCode":"610122"
 	},
@@ -123,7 +123,7 @@
 		"code":"610122116",
 		"fullCode":"610122116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三官庙镇",
 		"parentCode":"610122"
 	},
@@ -131,7 +131,7 @@
 		"code":"610122118",
 		"fullCode":"610122118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安村镇",
 		"parentCode":"610122"
 	},
@@ -139,7 +139,7 @@
 		"code":"610122119",
 		"fullCode":"610122119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟村镇",
 		"parentCode":"610122"
 	},
@@ -147,7 +147,7 @@
 		"code":"610122120",
 		"fullCode":"610122120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小寨镇",
 		"parentCode":"610122"
 	}

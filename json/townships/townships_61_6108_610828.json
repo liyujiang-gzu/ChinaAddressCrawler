@@ -3,7 +3,7 @@
 		"code":"610828001",
 		"fullCode":"610828001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佳州街道",
 		"parentCode":"610828"
 	},
@@ -11,7 +11,7 @@
 		"code":"610828101",
 		"fullCode":"610828101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坑镇",
 		"parentCode":"610828"
 	},
@@ -19,7 +19,7 @@
 		"code":"610828102",
 		"fullCode":"610828102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店镇",
 		"parentCode":"610828"
 	},
@@ -27,7 +27,7 @@
 		"code":"610828103",
 		"fullCode":"610828103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌镇",
 		"parentCode":"610828"
 	},
@@ -35,7 +35,7 @@
 		"code":"610828104",
 		"fullCode":"610828104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金明寺镇",
 		"parentCode":"610828"
 	},
@@ -43,7 +43,7 @@
 		"code":"610828105",
 		"fullCode":"610828105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通镇",
 		"parentCode":"610828"
 	},
@@ -51,7 +51,7 @@
 		"code":"610828106",
 		"fullCode":"610828106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家砭镇",
 		"parentCode":"610828"
 	},
@@ -59,7 +59,7 @@
 		"code":"610828107",
 		"fullCode":"610828107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方塌镇",
 		"parentCode":"610828"
 	},
@@ -67,7 +67,7 @@
 		"code":"610828108",
 		"fullCode":"610828108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱家坬镇",
 		"parentCode":"610828"
 	},
@@ -75,7 +75,7 @@
 		"code":"610828109",
 		"fullCode":"610828109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"螅镇",
 		"parentCode":"610828"
 	},
@@ -83,7 +83,7 @@
 		"code":"610828110",
 		"fullCode":"610828110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱官寨镇",
 		"parentCode":"610828"
 	},
@@ -91,7 +91,7 @@
 		"code":"610828111",
 		"fullCode":"610828111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘国具镇",
 		"parentCode":"610828"
 	},
@@ -99,7 +99,7 @@
 		"code":"610828112",
 		"fullCode":"610828112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木头峪镇",
 		"parentCode":"610828"
 	}

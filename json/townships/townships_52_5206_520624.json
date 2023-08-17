@@ -3,7 +3,7 @@
 		"code":"520624001",
 		"fullCode":"520624001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思唐街道",
 		"parentCode":"520624"
 	},
@@ -11,7 +11,7 @@
 		"code":"520624002",
 		"fullCode":"520624002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关中坝街道",
 		"parentCode":"520624"
 	},
@@ -19,7 +19,7 @@
 		"code":"520624003",
 		"fullCode":"520624003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双塘街道",
 		"parentCode":"520624"
 	},
@@ -27,7 +27,7 @@
 		"code":"520624101",
 		"fullCode":"520624101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘头镇",
 		"parentCode":"520624"
 	},
@@ -35,7 +35,7 @@
 		"code":"520624102",
 		"fullCode":"520624102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许家坝镇",
 		"parentCode":"520624"
 	},
@@ -43,7 +43,7 @@
 		"code":"520624103",
 		"fullCode":"520624103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坝场镇",
 		"parentCode":"520624"
 	},
@@ -51,7 +51,7 @@
 		"code":"520624104",
 		"fullCode":"520624104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文家店镇",
 		"parentCode":"520624"
 	},
@@ -59,7 +59,7 @@
 		"code":"520624105",
 		"fullCode":"520624105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹦鹉溪镇",
 		"parentCode":"520624"
 	},
@@ -67,7 +67,7 @@
 		"code":"520624106",
 		"fullCode":"520624106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合朋溪镇",
 		"parentCode":"520624"
 	},
@@ -75,7 +75,7 @@
 		"code":"520624107",
 		"fullCode":"520624107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家寨镇",
 		"parentCode":"520624"
 	},
@@ -83,7 +83,7 @@
 		"code":"520624108",
 		"fullCode":"520624108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙家坝镇",
 		"parentCode":"520624"
 	},
@@ -91,7 +91,7 @@
 		"code":"520624109",
 		"fullCode":"520624109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青杠坡镇",
 		"parentCode":"520624"
 	},
@@ -99,7 +99,7 @@
 		"code":"520624110",
 		"fullCode":"520624110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓮溪镇",
 		"parentCode":"520624"
 	},
@@ -107,7 +107,7 @@
 		"code":"520624111",
 		"fullCode":"520624111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉水井镇",
 		"parentCode":"520624"
 	},
@@ -115,7 +115,7 @@
 		"code":"520624112",
 		"fullCode":"520624112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邵家桥镇",
 		"parentCode":"520624"
 	},
@@ -123,7 +123,7 @@
 		"code":"520624113",
 		"fullCode":"520624113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河坝镇",
 		"parentCode":"520624"
 	},
@@ -131,7 +131,7 @@
 		"code":"520624114",
 		"fullCode":"520624114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亭子坝镇",
 		"parentCode":"520624"
 	},
@@ -139,7 +139,7 @@
 		"code":"520624115",
 		"fullCode":"520624115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香坝镇",
 		"parentCode":"520624"
 	},
@@ -147,7 +147,7 @@
 		"code":"520624116",
 		"fullCode":"520624116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长坝镇",
 		"parentCode":"520624"
 	},
@@ -155,7 +155,7 @@
 		"code":"520624117",
 		"fullCode":"520624117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"520624"
 	},
@@ -163,7 +163,7 @@
 		"code":"520624201",
 		"fullCode":"520624201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思林土家族苗族乡",
 		"parentCode":"520624"
 	},
@@ -171,7 +171,7 @@
 		"code":"520624203",
 		"fullCode":"520624203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家湾苗族土家族乡",
 		"parentCode":"520624"
 	},
@@ -179,7 +179,7 @@
 		"code":"520624204",
 		"fullCode":"520624204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宽坪苗族土家族乡",
 		"parentCode":"520624"
 	},
@@ -187,7 +187,7 @@
 		"code":"520624206",
 		"fullCode":"520624206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫芸土家族苗族乡",
 		"parentCode":"520624"
 	},
@@ -195,7 +195,7 @@
 		"code":"520624210",
 		"fullCode":"520624210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道水土家族苗族乡",
 		"parentCode":"520624"
 	},
@@ -203,7 +203,7 @@
 		"code":"520624211",
 		"fullCode":"520624211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天桥土家族苗族乡",
 		"parentCode":"520624"
 	},
@@ -211,7 +211,7 @@
 		"code":"520624212",
 		"fullCode":"520624212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆土家族苗族乡",
 		"parentCode":"520624"
 	},
@@ -219,7 +219,7 @@
 		"code":"520624213",
 		"fullCode":"520624213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家坳苗族土家族乡",
 		"parentCode":"520624"
 	}

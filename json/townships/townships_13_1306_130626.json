@@ -3,7 +3,7 @@
 		"code":"130626100",
 		"fullCode":"130626100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定兴镇",
 		"parentCode":"130626"
 	},
@@ -11,7 +11,7 @@
 		"code":"130626101",
 		"fullCode":"130626101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固城镇",
 		"parentCode":"130626"
 	},
@@ -19,7 +19,7 @@
 		"code":"130626102",
 		"fullCode":"130626102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贤寓镇",
 		"parentCode":"130626"
 	},
@@ -27,7 +27,7 @@
 		"code":"130626103",
 		"fullCode":"130626103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北河镇",
 		"parentCode":"130626"
 	},
@@ -35,7 +35,7 @@
 		"code":"130626104",
 		"fullCode":"130626104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天宫寺镇",
 		"parentCode":"130626"
 	},
@@ -43,7 +43,7 @@
 		"code":"130626105",
 		"fullCode":"130626105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小朱庄镇",
 		"parentCode":"130626"
 	},
@@ -51,7 +51,7 @@
 		"code":"130626106",
 		"fullCode":"130626106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚村镇",
 		"parentCode":"130626"
 	},
@@ -59,7 +59,7 @@
 		"code":"130626107",
 		"fullCode":"130626107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨村镇",
 		"parentCode":"130626"
 	},
@@ -67,7 +67,7 @@
 		"code":"130626108",
 		"fullCode":"130626108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高里镇",
 		"parentCode":"130626"
 	},
@@ -75,7 +75,7 @@
 		"code":"130626109",
 		"fullCode":"130626109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内章镇",
 		"parentCode":"130626"
 	},
@@ -83,7 +83,7 @@
 		"code":"130626200",
 		"fullCode":"130626200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东落堡乡",
 		"parentCode":"130626"
 	},
@@ -91,7 +91,7 @@
 		"code":"130626202",
 		"fullCode":"130626202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家庄乡",
 		"parentCode":"130626"
 	},
@@ -99,7 +99,7 @@
 		"code":"130626204",
 		"fullCode":"130626204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖村乡",
 		"parentCode":"130626"
 	},
@@ -107,7 +107,7 @@
 		"code":"130626205",
 		"fullCode":"130626205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳卓乡",
 		"parentCode":"130626"
 	},
@@ -115,7 +115,7 @@
 		"code":"130626208",
 		"fullCode":"130626208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北南蔡乡",
 		"parentCode":"130626"
 	},
@@ -123,7 +123,7 @@
 		"code":"130626209",
 		"fullCode":"130626209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李郁庄乡",
 		"parentCode":"130626"
 	}

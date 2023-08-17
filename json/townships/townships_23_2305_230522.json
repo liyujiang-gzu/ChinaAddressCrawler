@@ -3,7 +3,7 @@
 		"code":"230522100",
 		"fullCode":"230522100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友谊镇",
 		"parentCode":"230522"
 	},
@@ -11,7 +11,7 @@
 		"code":"230522101",
 		"fullCode":"230522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"230522"
 	},
@@ -19,7 +19,7 @@
 		"code":"230522102",
 		"fullCode":"230522102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山镇",
 		"parentCode":"230522"
 	},
@@ -27,7 +27,7 @@
 		"code":"230522103",
 		"fullCode":"230522103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤岗镇",
 		"parentCode":"230522"
 	},
@@ -35,7 +35,7 @@
 		"code":"230522200",
 		"fullCode":"230522200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴盛乡",
 		"parentCode":"230522"
 	},
@@ -43,7 +43,7 @@
 		"code":"230522201",
 		"fullCode":"230522201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东建乡",
 		"parentCode":"230522"
 	},
@@ -51,7 +51,7 @@
 		"code":"230522202",
 		"fullCode":"230522202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆丰乡",
 		"parentCode":"230522"
 	},
@@ -59,7 +59,7 @@
 		"code":"230522203",
 		"fullCode":"230522203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设乡",
 		"parentCode":"230522"
 	},
@@ -67,7 +67,7 @@
 		"code":"230522204",
 		"fullCode":"230522204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友邻乡",
 		"parentCode":"230522"
 	},
@@ -75,7 +75,7 @@
 		"code":"230522205",
 		"fullCode":"230522205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新镇乡",
 		"parentCode":"230522"
 	},
@@ -83,7 +83,7 @@
 		"code":"230522206",
 		"fullCode":"230522206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"成富朝鲜族满族乡",
 		"parentCode":"230522"
 	},
@@ -91,7 +91,7 @@
 		"code":"230522501",
 		"fullCode":"230522501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红兴隆管理局局直",
 		"parentCode":"230522"
 	},
@@ -99,7 +99,7 @@
 		"code":"230522502",
 		"fullCode":"230522502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友谊农场",
 		"parentCode":"230522"
 	}

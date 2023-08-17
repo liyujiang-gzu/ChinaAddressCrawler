@@ -3,7 +3,7 @@
 		"code":"141127100",
 		"fullCode":"141127100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东村镇",
 		"parentCode":"141127"
 	},
@@ -11,7 +11,7 @@
 		"code":"141127101",
 		"fullCode":"141127101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岚城镇",
 		"parentCode":"141127"
 	},
@@ -19,7 +19,7 @@
 		"code":"141127102",
 		"fullCode":"141127102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普明镇",
 		"parentCode":"141127"
 	},
@@ -27,7 +27,7 @@
 		"code":"141127103",
 		"fullCode":"141127103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界河口镇",
 		"parentCode":"141127"
 	},
@@ -35,7 +35,7 @@
 		"code":"141127201",
 		"fullCode":"141127201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上明乡",
 		"parentCode":"141127"
 	},
@@ -43,7 +43,7 @@
 		"code":"141127202",
 		"fullCode":"141127202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王狮乡",
 		"parentCode":"141127"
 	},
@@ -51,7 +51,7 @@
 		"code":"141127203",
 		"fullCode":"141127203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁家庄乡",
 		"parentCode":"141127"
 	},
@@ -59,7 +59,7 @@
 		"code":"141127204",
 		"fullCode":"141127204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺会乡",
 		"parentCode":"141127"
 	},
@@ -67,7 +67,7 @@
 		"code":"141127206",
 		"fullCode":"141127206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"社科乡",
 		"parentCode":"141127"
 	},
@@ -75,7 +75,7 @@
 		"code":"141127400",
 		"fullCode":"141127400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岚县普明工业园区",
 		"parentCode":"141127"
 	}

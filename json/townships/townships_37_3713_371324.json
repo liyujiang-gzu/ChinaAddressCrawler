@@ -3,7 +3,7 @@
 		"code":"371324001",
 		"fullCode":"371324001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卞庄街道",
 		"parentCode":"371324"
 	},
@@ -11,7 +11,7 @@
 		"code":"371324002",
 		"fullCode":"371324002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苍山街道",
 		"parentCode":"371324"
 	},
@@ -19,7 +19,7 @@
 		"code":"371324101",
 		"fullCode":"371324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大仲村镇",
 		"parentCode":"371324"
 	},
@@ -27,7 +27,7 @@
 		"code":"371324102",
 		"fullCode":"371324102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰陵镇",
 		"parentCode":"371324"
 	},
@@ -35,7 +35,7 @@
 		"code":"371324103",
 		"fullCode":"371324103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长城镇",
 		"parentCode":"371324"
 	},
@@ -43,7 +43,7 @@
 		"code":"371324104",
 		"fullCode":"371324104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磨山镇",
 		"parentCode":"371324"
 	},
@@ -51,7 +51,7 @@
 		"code":"371324105",
 		"fullCode":"371324105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神山镇",
 		"parentCode":"371324"
 	},
@@ -59,7 +59,7 @@
 		"code":"371324106",
 		"fullCode":"371324106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车辋镇",
 		"parentCode":"371324"
 	},
@@ -67,7 +67,7 @@
 		"code":"371324107",
 		"fullCode":"371324107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚岩镇",
 		"parentCode":"371324"
 	},
@@ -75,7 +75,7 @@
 		"code":"371324108",
 		"fullCode":"371324108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向城镇",
 		"parentCode":"371324"
 	},
@@ -83,7 +83,7 @@
 		"code":"371324109",
 		"fullCode":"371324109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴镇",
 		"parentCode":"371324"
 	},
@@ -91,7 +91,7 @@
 		"code":"371324110",
 		"fullCode":"371324110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南桥镇",
 		"parentCode":"371324"
 	},
@@ -99,7 +99,7 @@
 		"code":"371324112",
 		"fullCode":"371324112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄坞镇",
 		"parentCode":"371324"
 	},
@@ -107,7 +107,7 @@
 		"code":"371324114",
 		"fullCode":"371324114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁城镇",
 		"parentCode":"371324"
 	},
@@ -115,7 +115,7 @@
 		"code":"371324115",
 		"fullCode":"371324115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿坑镇",
 		"parentCode":"371324"
 	},
@@ -123,7 +123,7 @@
 		"code":"371324117",
 		"fullCode":"371324117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦柞镇",
 		"parentCode":"371324"
 	},
@@ -131,7 +131,7 @@
 		"code":"371324202",
 		"fullCode":"371324202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下村乡",
 		"parentCode":"371324"
 	}

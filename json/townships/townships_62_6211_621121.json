@@ -3,7 +3,7 @@
 		"code":"621121100",
 		"fullCode":"621121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平襄镇",
 		"parentCode":"621121"
 	},
@@ -11,7 +11,7 @@
 		"code":"621121101",
 		"fullCode":"621121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马营镇",
 		"parentCode":"621121"
 	},
@@ -19,7 +19,7 @@
 		"code":"621121102",
 		"fullCode":"621121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡川镇",
 		"parentCode":"621121"
 	},
@@ -27,7 +27,7 @@
 		"code":"621121103",
 		"fullCode":"621121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榜罗镇",
 		"parentCode":"621121"
 	},
@@ -35,7 +35,7 @@
 		"code":"621121104",
 		"fullCode":"621121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常家河镇",
 		"parentCode":"621121"
 	},
@@ -43,7 +43,7 @@
 		"code":"621121105",
 		"fullCode":"621121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义岗川镇",
 		"parentCode":"621121"
 	},
@@ -51,7 +51,7 @@
 		"code":"621121106",
 		"fullCode":"621121106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陇阳镇",
 		"parentCode":"621121"
 	},
@@ -59,7 +59,7 @@
 		"code":"621121107",
 		"fullCode":"621121107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陇山镇",
 		"parentCode":"621121"
 	},
@@ -67,7 +67,7 @@
 		"code":"621121108",
 		"fullCode":"621121108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陇川镇",
 		"parentCode":"621121"
 	},
@@ -75,7 +75,7 @@
 		"code":"621121109",
 		"fullCode":"621121109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧玉镇",
 		"parentCode":"621121"
 	},
@@ -83,7 +83,7 @@
 		"code":"621121110",
 		"fullCode":"621121110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"襄南镇",
 		"parentCode":"621121"
 	},
@@ -91,7 +91,7 @@
 		"code":"621121111",
 		"fullCode":"621121111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"什川镇",
 		"parentCode":"621121"
 	},
@@ -99,7 +99,7 @@
 		"code":"621121112",
 		"fullCode":"621121112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华家岭镇",
 		"parentCode":"621121"
 	},
@@ -107,7 +107,7 @@
 		"code":"621121113",
 		"fullCode":"621121113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城铺镇",
 		"parentCode":"621121"
 	},
@@ -115,7 +115,7 @@
 		"code":"621121203",
 		"fullCode":"621121203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新景乡",
 		"parentCode":"621121"
 	},
@@ -123,7 +123,7 @@
 		"code":"621121207",
 		"fullCode":"621121207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家店乡",
 		"parentCode":"621121"
 	},
@@ -131,7 +131,7 @@
 		"code":"621121212",
 		"fullCode":"621121212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第三铺乡",
 		"parentCode":"621121"
 	},
@@ -139,7 +139,7 @@
 		"code":"621121215",
 		"fullCode":"621121215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺子川乡",
 		"parentCode":"621121"
 	}

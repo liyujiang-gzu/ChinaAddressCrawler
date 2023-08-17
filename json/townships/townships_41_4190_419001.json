@@ -3,7 +3,7 @@
 		"code":"419001001",
 		"fullCode":"419001001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市沁园街道",
 		"parentCode":"419001"
 	},
@@ -11,7 +11,7 @@
 		"code":"419001002",
 		"fullCode":"419001002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市济水街道",
 		"parentCode":"419001"
 	},
@@ -19,7 +19,7 @@
 		"code":"419001003",
 		"fullCode":"419001003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市北海街道",
 		"parentCode":"419001"
 	},
@@ -27,7 +27,7 @@
 		"code":"419001004",
 		"fullCode":"419001004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市天坛街道",
 		"parentCode":"419001"
 	},
@@ -35,7 +35,7 @@
 		"code":"419001005",
 		"fullCode":"419001005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市玉泉街道",
 		"parentCode":"419001"
 	},
@@ -43,7 +43,7 @@
 		"code":"419001100",
 		"fullCode":"419001100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市克井镇",
 		"parentCode":"419001"
 	},
@@ -51,7 +51,7 @@
 		"code":"419001101",
 		"fullCode":"419001101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市五龙口镇",
 		"parentCode":"419001"
 	},
@@ -59,7 +59,7 @@
 		"code":"419001102",
 		"fullCode":"419001102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市轵城镇",
 		"parentCode":"419001"
 	},
@@ -67,7 +67,7 @@
 		"code":"419001103",
 		"fullCode":"419001103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市承留镇",
 		"parentCode":"419001"
 	},
@@ -75,7 +75,7 @@
 		"code":"419001104",
 		"fullCode":"419001104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市邵原镇",
 		"parentCode":"419001"
 	},
@@ -83,7 +83,7 @@
 		"code":"419001105",
 		"fullCode":"419001105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市坡头镇",
 		"parentCode":"419001"
 	},
@@ -91,7 +91,7 @@
 		"code":"419001106",
 		"fullCode":"419001106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市梨林镇",
 		"parentCode":"419001"
 	},
@@ -99,7 +99,7 @@
 		"code":"419001107",
 		"fullCode":"419001107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市大峪镇",
 		"parentCode":"419001"
 	},
@@ -107,7 +107,7 @@
 		"code":"419001108",
 		"fullCode":"419001108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市思礼镇",
 		"parentCode":"419001"
 	},
@@ -115,7 +115,7 @@
 		"code":"419001109",
 		"fullCode":"419001109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市王屋镇",
 		"parentCode":"419001"
 	},
@@ -123,7 +123,7 @@
 		"code":"419001110",
 		"fullCode":"419001110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源市下冶镇",
 		"parentCode":"419001"
 	}

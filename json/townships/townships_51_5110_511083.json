@@ -3,7 +3,7 @@
 		"code":"511083001",
 		"fullCode":"511083001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古湖街道",
 		"parentCode":"511083"
 	},
@@ -11,7 +11,7 @@
 		"code":"511083002",
 		"fullCode":"511083002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金鹅街道",
 		"parentCode":"511083"
 	},
@@ -19,7 +19,7 @@
 		"code":"511083102",
 		"fullCode":"511083102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"响石镇",
 		"parentCode":"511083"
 	},
@@ -27,7 +27,7 @@
 		"code":"511083103",
 		"fullCode":"511083103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圣灯镇",
 		"parentCode":"511083"
 	},
@@ -35,7 +35,7 @@
 		"code":"511083104",
 		"fullCode":"511083104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄家镇",
 		"parentCode":"511083"
 	},
@@ -43,7 +43,7 @@
 		"code":"511083105",
 		"fullCode":"511083105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双凤镇",
 		"parentCode":"511083"
 	},
@@ -51,7 +51,7 @@
 		"code":"511083106",
 		"fullCode":"511083106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙市镇",
 		"parentCode":"511083"
 	},
@@ -59,7 +59,7 @@
 		"code":"511083108",
 		"fullCode":"511083108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界市镇",
 		"parentCode":"511083"
 	},
@@ -67,7 +67,7 @@
 		"code":"511083109",
 		"fullCode":"511083109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石碾镇",
 		"parentCode":"511083"
 	},
@@ -75,7 +75,7 @@
 		"code":"511083112",
 		"fullCode":"511083112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石燕桥镇",
 		"parentCode":"511083"
 	},
@@ -83,7 +83,7 @@
 		"code":"511083114",
 		"fullCode":"511083114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家镇",
 		"parentCode":"511083"
 	},
@@ -91,7 +91,7 @@
 		"code":"511083115",
 		"fullCode":"511083115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云顶镇",
 		"parentCode":"511083"
 	},
@@ -99,7 +99,7 @@
 		"code":"511083117",
 		"fullCode":"511083117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普润镇",
 		"parentCode":"511083"
 	}

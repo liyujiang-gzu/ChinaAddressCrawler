@@ -3,7 +3,7 @@
 		"code":"4501",
 		"fullCode":"450100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"南宁市",
 		"parentCode":"45"
 	},
@@ -11,7 +11,7 @@
 		"code":"4502",
 		"fullCode":"450200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"柳州市",
 		"parentCode":"45"
 	},
@@ -19,7 +19,7 @@
 		"code":"4503",
 		"fullCode":"450300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"桂林市",
 		"parentCode":"45"
 	},
@@ -27,7 +27,7 @@
 		"code":"4504",
 		"fullCode":"450400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"梧州市",
 		"parentCode":"45"
 	},
@@ -35,7 +35,7 @@
 		"code":"4505",
 		"fullCode":"450500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"北海市",
 		"parentCode":"45"
 	},
@@ -43,7 +43,7 @@
 		"code":"4506",
 		"fullCode":"450600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"防城港市",
 		"parentCode":"45"
 	},
@@ -51,7 +51,7 @@
 		"code":"4507",
 		"fullCode":"450700000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"钦州市",
 		"parentCode":"45"
 	},
@@ -59,7 +59,7 @@
 		"code":"4508",
 		"fullCode":"450800000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"贵港市",
 		"parentCode":"45"
 	},
@@ -67,7 +67,7 @@
 		"code":"4509",
 		"fullCode":"450900000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"玉林市",
 		"parentCode":"45"
 	},
@@ -75,7 +75,7 @@
 		"code":"4510",
 		"fullCode":"451000000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"百色市",
 		"parentCode":"45"
 	},
@@ -83,7 +83,7 @@
 		"code":"4511",
 		"fullCode":"451100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"贺州市",
 		"parentCode":"45"
 	},
@@ -91,7 +91,7 @@
 		"code":"4512",
 		"fullCode":"451200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"河池市",
 		"parentCode":"45"
 	},
@@ -99,7 +99,7 @@
 		"code":"4513",
 		"fullCode":"451300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"来宾市",
 		"parentCode":"45"
 	},
@@ -107,7 +107,7 @@
 		"code":"4514",
 		"fullCode":"451400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"崇左市",
 		"parentCode":"45"
 	}

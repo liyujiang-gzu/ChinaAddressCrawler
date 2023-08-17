@@ -3,7 +3,7 @@
 		"code":"320924100",
 		"fullCode":"320924100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合德镇",
 		"parentCode":"320924"
 	},
@@ -11,7 +11,7 @@
 		"code":"320924101",
 		"fullCode":"320924101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临海镇",
 		"parentCode":"320924"
 	},
@@ -19,7 +19,7 @@
 		"code":"320924102",
 		"fullCode":"320924102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千秋镇",
 		"parentCode":"320924"
 	},
@@ -27,7 +27,7 @@
 		"code":"320924104",
 		"fullCode":"320924104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四明镇",
 		"parentCode":"320924"
 	},
@@ -35,7 +35,7 @@
 		"code":"320924106",
 		"fullCode":"320924106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海河镇",
 		"parentCode":"320924"
 	},
@@ -43,7 +43,7 @@
 		"code":"320924108",
 		"fullCode":"320924108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海通镇",
 		"parentCode":"320924"
 	},
@@ -51,7 +51,7 @@
 		"code":"320924109",
 		"fullCode":"320924109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴桥镇",
 		"parentCode":"320924"
 	},
@@ -59,7 +59,7 @@
 		"code":"320924110",
 		"fullCode":"320924110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新坍镇",
 		"parentCode":"320924"
 	},
@@ -67,7 +67,7 @@
 		"code":"320924111",
 		"fullCode":"320924111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长荡镇",
 		"parentCode":"320924"
 	},
@@ -75,7 +75,7 @@
 		"code":"320924112",
 		"fullCode":"320924112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘湾镇",
 		"parentCode":"320924"
 	},
@@ -83,7 +83,7 @@
 		"code":"320924113",
 		"fullCode":"320924113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"特庸镇",
 		"parentCode":"320924"
 	},
@@ -91,7 +91,7 @@
 		"code":"320924114",
 		"fullCode":"320924114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋马镇",
 		"parentCode":"320924"
 	},
@@ -99,7 +99,7 @@
 		"code":"320924117",
 		"fullCode":"320924117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄沙港镇",
 		"parentCode":"320924"
 	},
@@ -107,7 +107,7 @@
 		"code":"320924400",
 		"fullCode":"320924400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县经济开发区",
 		"parentCode":"320924"
 	},
@@ -115,7 +115,7 @@
 		"code":"320924401",
 		"fullCode":"320924401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淮海农场",
 		"parentCode":"320924"
 	},
@@ -123,7 +123,7 @@
 		"code":"320924402",
 		"fullCode":"320924402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临海农场",
 		"parentCode":"320924"
 	},
@@ -131,7 +131,7 @@
 		"code":"320924403",
 		"fullCode":"320924403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新洋农场",
 		"parentCode":"320924"
 	},
@@ -139,7 +139,7 @@
 		"code":"320924404",
 		"fullCode":"320924404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐场",
 		"parentCode":"320924"
 	},
@@ -147,7 +147,7 @@
 		"code":"320924406",
 		"fullCode":"320924406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"射阳港经济区",
 		"parentCode":"320924"
 	}

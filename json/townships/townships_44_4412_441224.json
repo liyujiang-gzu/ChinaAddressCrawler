@@ -3,7 +3,7 @@
 		"code":"441224001",
 		"fullCode":"441224001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀城街道",
 		"parentCode":"441224"
 	},
@@ -11,7 +11,7 @@
 		"code":"441224002",
 		"fullCode":"441224002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福街道",
 		"parentCode":"441224"
 	},
@@ -19,7 +19,7 @@
 		"code":"441224102",
 		"fullCode":"441224102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坳仔镇",
 		"parentCode":"441224"
 	},
@@ -27,7 +27,7 @@
 		"code":"441224103",
 		"fullCode":"441224103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汶朗镇",
 		"parentCode":"441224"
 	},
@@ -35,7 +35,7 @@
 		"code":"441224104",
 		"fullCode":"441224104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘洒镇",
 		"parentCode":"441224"
 	},
@@ -43,7 +43,7 @@
 		"code":"441224105",
 		"fullCode":"441224105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤岗镇",
 		"parentCode":"441224"
 	},
@@ -51,7 +51,7 @@
 		"code":"441224106",
 		"fullCode":"441224106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洽水镇",
 		"parentCode":"441224"
 	},
@@ -59,7 +59,7 @@
 		"code":"441224107",
 		"fullCode":"441224107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁村镇",
 		"parentCode":"441224"
 	},
@@ -67,7 +67,7 @@
 		"code":"441224108",
 		"fullCode":"441224108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大岗镇",
 		"parentCode":"441224"
 	},
@@ -75,7 +75,7 @@
 		"code":"441224109",
 		"fullCode":"441224109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗坪镇",
 		"parentCode":"441224"
 	},
@@ -83,7 +83,7 @@
 		"code":"441224110",
 		"fullCode":"441224110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冷坑镇",
 		"parentCode":"441224"
 	},
@@ -91,7 +91,7 @@
 		"code":"441224111",
 		"fullCode":"441224111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马宁镇",
 		"parentCode":"441224"
 	},
@@ -99,7 +99,7 @@
 		"code":"441224112",
 		"fullCode":"441224112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝钟镇",
 		"parentCode":"441224"
 	},
@@ -107,7 +107,7 @@
 		"code":"441224113",
 		"fullCode":"441224113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永固镇",
 		"parentCode":"441224"
 	},
@@ -115,7 +115,7 @@
 		"code":"441224114",
 		"fullCode":"441224114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"诗洞镇",
 		"parentCode":"441224"
 	},
@@ -123,7 +123,7 @@
 		"code":"441224115",
 		"fullCode":"441224115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头镇",
 		"parentCode":"441224"
 	},
@@ -131,7 +131,7 @@
 		"code":"441224116",
 		"fullCode":"441224116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中洲镇",
 		"parentCode":"441224"
 	},
@@ -139,7 +139,7 @@
 		"code":"441224118",
 		"fullCode":"441224118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连麦镇",
 		"parentCode":"441224"
 	},
@@ -147,7 +147,7 @@
 		"code":"441224200",
 		"fullCode":"441224200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下帅壮族瑶族乡",
 		"parentCode":"441224"
 	}

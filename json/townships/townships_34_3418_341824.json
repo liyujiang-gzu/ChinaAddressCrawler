@@ -3,7 +3,7 @@
 		"code":"341824100",
 		"fullCode":"341824100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华阳镇",
 		"parentCode":"341824"
 	},
@@ -11,7 +11,7 @@
 		"code":"341824101",
 		"fullCode":"341824101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临溪镇",
 		"parentCode":"341824"
 	},
@@ -19,7 +19,7 @@
 		"code":"341824102",
 		"fullCode":"341824102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安镇",
 		"parentCode":"341824"
 	},
@@ -27,7 +27,7 @@
 		"code":"341824103",
 		"fullCode":"341824103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上庄镇",
 		"parentCode":"341824"
 	},
@@ -35,7 +35,7 @@
 		"code":"341824104",
 		"fullCode":"341824104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扬溪镇",
 		"parentCode":"341824"
 	},
@@ -43,7 +43,7 @@
 		"code":"341824105",
 		"fullCode":"341824105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伏岭镇",
 		"parentCode":"341824"
 	},
@@ -51,7 +51,7 @@
 		"code":"341824106",
 		"fullCode":"341824106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙镇",
 		"parentCode":"341824"
 	},
@@ -59,7 +59,7 @@
 		"code":"341824107",
 		"fullCode":"341824107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瀛洲镇",
 		"parentCode":"341824"
 	},
@@ -67,7 +67,7 @@
 		"code":"341824201",
 		"fullCode":"341824201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥头乡",
 		"parentCode":"341824"
 	},
@@ -75,7 +75,7 @@
 		"code":"341824202",
 		"fullCode":"341824202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"家朋乡",
 		"parentCode":"341824"
 	},
@@ -83,7 +83,7 @@
 		"code":"341824203",
 		"fullCode":"341824203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荆州乡",
 		"parentCode":"341824"
 	},
@@ -91,7 +91,7 @@
 		"code":"341824400",
 		"fullCode":"341824400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"生态工业园区",
 		"parentCode":"341824"
 	}

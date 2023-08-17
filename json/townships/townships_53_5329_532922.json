@@ -3,7 +3,7 @@
 		"code":"532922101",
 		"fullCode":"532922101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苍山西镇",
 		"parentCode":"532922"
 	},
@@ -11,7 +11,7 @@
 		"code":"532922102",
 		"fullCode":"532922102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漾江镇",
 		"parentCode":"532922"
 	},
@@ -19,7 +19,7 @@
 		"code":"532922103",
 		"fullCode":"532922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平坡镇",
 		"parentCode":"532922"
 	},
@@ -27,7 +27,7 @@
 		"code":"532922104",
 		"fullCode":"532922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺濞镇",
 		"parentCode":"532922"
 	},
@@ -35,7 +35,7 @@
 		"code":"532922201",
 		"fullCode":"532922201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富恒乡",
 		"parentCode":"532922"
 	},
@@ -43,7 +43,7 @@
 		"code":"532922202",
 		"fullCode":"532922202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平乡",
 		"parentCode":"532922"
 	},
@@ -51,7 +51,7 @@
 		"code":"532922204",
 		"fullCode":"532922204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦厂乡",
 		"parentCode":"532922"
 	},
@@ -59,7 +59,7 @@
 		"code":"532922205",
 		"fullCode":"532922205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭乡",
 		"parentCode":"532922"
 	},
@@ -67,7 +67,7 @@
 		"code":"532922206",
 		"fullCode":"532922206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡街乡",
 		"parentCode":"532922"
 	}

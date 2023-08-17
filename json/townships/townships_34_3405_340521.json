@@ -3,7 +3,7 @@
 		"code":"340521100",
 		"fullCode":"340521100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姑孰镇",
 		"parentCode":"340521"
 	},
@@ -11,7 +11,7 @@
 		"code":"340521101",
 		"fullCode":"340521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄池镇",
 		"parentCode":"340521"
 	},
@@ -19,7 +19,7 @@
 		"code":"340521102",
 		"fullCode":"340521102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌溪镇",
 		"parentCode":"340521"
 	},
@@ -27,7 +27,7 @@
 		"code":"340521103",
 		"fullCode":"340521103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥镇",
 		"parentCode":"340521"
 	},
@@ -35,7 +35,7 @@
 		"code":"340521104",
 		"fullCode":"340521104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘南镇",
 		"parentCode":"340521"
 	},
@@ -43,7 +43,7 @@
 		"code":"340521105",
 		"fullCode":"340521105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"护河镇",
 		"parentCode":"340521"
 	},
@@ -51,7 +51,7 @@
 		"code":"340521106",
 		"fullCode":"340521106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太白镇",
 		"parentCode":"340521"
 	},
@@ -59,7 +59,7 @@
 		"code":"340521110",
 		"fullCode":"340521110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"年陡镇",
 		"parentCode":"340521"
 	},
@@ -67,7 +67,7 @@
 		"code":"340521111",
 		"fullCode":"340521111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖阳镇",
 		"parentCode":"340521"
 	},
@@ -75,7 +75,7 @@
 		"code":"340521112",
 		"fullCode":"340521112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大陇镇",
 		"parentCode":"340521"
 	},
@@ -83,7 +83,7 @@
 		"code":"340521202",
 		"fullCode":"340521202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江心乡",
 		"parentCode":"340521"
 	},
@@ -91,7 +91,7 @@
 		"code":"340521400",
 		"fullCode":"340521400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"当涂经济开发区",
 		"parentCode":"340521"
 	},
@@ -99,7 +99,7 @@
 		"code":"340521402",
 		"fullCode":"340521402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"当涂大青山李白文化旅游区",
 		"parentCode":"340521"
 	},
@@ -107,7 +107,7 @@
 		"code":"340521500",
 		"fullCode":"340521500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"当涂现代农业示范区",
 		"parentCode":"340521"
 	}

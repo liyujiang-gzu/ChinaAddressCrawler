@@ -3,7 +3,7 @@
 		"code":"510502001",
 		"fullCode":"510502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城街道",
 		"parentCode":"510502"
 	},
@@ -11,7 +11,7 @@
 		"code":"510502002",
 		"fullCode":"510502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"510502"
 	},
@@ -19,7 +19,7 @@
 		"code":"510502003",
 		"fullCode":"510502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大山坪街道",
 		"parentCode":"510502"
 	},
@@ -27,7 +27,7 @@
 		"code":"510502004",
 		"fullCode":"510502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邻玉街道",
 		"parentCode":"510502"
 	},
@@ -35,7 +35,7 @@
 		"code":"510502005",
 		"fullCode":"510502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝田街道",
 		"parentCode":"510502"
 	},
@@ -43,7 +43,7 @@
 		"code":"510502006",
 		"fullCode":"510502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茜草街道",
 		"parentCode":"510502"
 	},
@@ -51,7 +51,7 @@
 		"code":"510502007",
 		"fullCode":"510502007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华阳街道",
 		"parentCode":"510502"
 	},
@@ -59,7 +59,7 @@
 		"code":"510502009",
 		"fullCode":"510502009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰安街道",
 		"parentCode":"510502"
 	},
@@ -67,7 +67,7 @@
 		"code":"510502010",
 		"fullCode":"510502010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"况场街道",
 		"parentCode":"510502"
 	},
@@ -75,7 +75,7 @@
 		"code":"510502103",
 		"fullCode":"510502103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄舣镇",
 		"parentCode":"510502"
 	},
@@ -83,7 +83,7 @@
 		"code":"510502106",
 		"fullCode":"510502106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通滩镇",
 		"parentCode":"510502"
 	},
@@ -91,7 +91,7 @@
 		"code":"510502107",
 		"fullCode":"510502107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江北镇",
 		"parentCode":"510502"
 	},
@@ -99,7 +99,7 @@
 		"code":"510502108",
 		"fullCode":"510502108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方山镇",
 		"parentCode":"510502"
 	},
@@ -107,7 +107,7 @@
 		"code":"510502109",
 		"fullCode":"510502109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹林镇",
 		"parentCode":"510502"
 	},
@@ -115,7 +115,7 @@
 		"code":"510502110",
 		"fullCode":"510502110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"分水岭镇",
 		"parentCode":"510502"
 	}

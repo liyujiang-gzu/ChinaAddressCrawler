@@ -3,7 +3,7 @@
 		"code":"650522100",
 		"fullCode":"650522100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊吾镇",
 		"parentCode":"650522"
 	},
@@ -11,7 +11,7 @@
 		"code":"650522101",
 		"fullCode":"650522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淖毛湖镇",
 		"parentCode":"650522"
 	},
@@ -19,7 +19,7 @@
 		"code":"650522102",
 		"fullCode":"650522102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐池镇",
 		"parentCode":"650522"
 	},
@@ -27,7 +27,7 @@
 		"code":"650522201",
 		"fullCode":"650522201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苇子峡乡",
 		"parentCode":"650522"
 	},
@@ -35,7 +35,7 @@
 		"code":"650522202",
 		"fullCode":"650522202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下马崖乡",
 		"parentCode":"650522"
 	},
@@ -43,7 +43,7 @@
 		"code":"650522204",
 		"fullCode":"650522204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吐葫芦乡",
 		"parentCode":"650522"
 	},
@@ -51,7 +51,7 @@
 		"code":"650522205",
 		"fullCode":"650522205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前山哈萨克民族乡",
 		"parentCode":"650522"
 	},
@@ -59,7 +59,7 @@
 		"code":"650522400",
 		"fullCode":"650522400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊吾县工业加工区",
 		"parentCode":"650522"
 	},
@@ -67,7 +67,7 @@
 		"code":"650522403",
 		"fullCode":"650522403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊吾县山南开发区管委会",
 		"parentCode":"650522"
 	},
@@ -75,7 +75,7 @@
 		"code":"650522500",
 		"fullCode":"650522500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团淖毛湖农场",
 		"parentCode":"650522"
 	}

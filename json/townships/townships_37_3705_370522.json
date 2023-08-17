@@ -3,7 +3,7 @@
 		"code":"370522001",
 		"fullCode":"370522001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利津街道",
 		"parentCode":"370522"
 	},
@@ -11,7 +11,7 @@
 		"code":"370522002",
 		"fullCode":"370522002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰城街道",
 		"parentCode":"370522"
 	},
@@ -19,7 +19,7 @@
 		"code":"370522101",
 		"fullCode":"370522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北宋镇",
 		"parentCode":"370522"
 	},
@@ -27,7 +27,7 @@
 		"code":"370522102",
 		"fullCode":"370522102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐窝镇",
 		"parentCode":"370522"
 	},
@@ -35,7 +35,7 @@
 		"code":"370522103",
 		"fullCode":"370522103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈庄镇",
 		"parentCode":"370522"
 	},
@@ -43,7 +43,7 @@
 		"code":"370522104",
 		"fullCode":"370522104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汀罗镇",
 		"parentCode":"370522"
 	},
@@ -51,7 +51,7 @@
 		"code":"370522201",
 		"fullCode":"370522201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明集乡",
 		"parentCode":"370522"
 	},
@@ -59,7 +59,7 @@
 		"code":"370522206",
 		"fullCode":"370522206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刁口乡",
 		"parentCode":"370522"
 	},
@@ -67,7 +67,7 @@
 		"code":"370522400",
 		"fullCode":"370522400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利津县经济开发区",
 		"parentCode":"370522"
 	}

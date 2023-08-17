@@ -3,7 +3,7 @@
 		"code":"130608100",
 		"fullCode":"130608100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清苑镇",
 		"parentCode":"130608"
 	},
@@ -11,7 +11,7 @@
 		"code":"130608101",
 		"fullCode":"130608101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冉庄镇",
 		"parentCode":"130608"
 	},
@@ -19,7 +19,7 @@
 		"code":"130608102",
 		"fullCode":"130608102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳城镇",
 		"parentCode":"130608"
 	},
@@ -27,7 +27,7 @@
 		"code":"130608103",
 		"fullCode":"130608103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魏村镇",
 		"parentCode":"130608"
 	},
@@ -35,7 +35,7 @@
 		"code":"130608104",
 		"fullCode":"130608104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温仁镇",
 		"parentCode":"130608"
 	},
@@ -43,7 +43,7 @@
 		"code":"130608105",
 		"fullCode":"130608105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张登镇",
 		"parentCode":"130608"
 	},
@@ -51,7 +51,7 @@
 		"code":"130608106",
 		"fullCode":"130608106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庄镇",
 		"parentCode":"130608"
 	},
@@ -59,7 +59,7 @@
 		"code":"130608107",
 		"fullCode":"130608107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"臧村镇",
 		"parentCode":"130608"
 	},
@@ -67,7 +67,7 @@
 		"code":"130608108",
 		"fullCode":"130608108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望亭镇",
 		"parentCode":"130608"
 	},
@@ -75,7 +75,7 @@
 		"code":"130608109",
 		"fullCode":"130608109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东闾镇",
 		"parentCode":"130608"
 	},
@@ -83,7 +83,7 @@
 		"code":"130608200",
 		"fullCode":"130608200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白团乡",
 		"parentCode":"130608"
 	},
@@ -91,7 +91,7 @@
 		"code":"130608201",
 		"fullCode":"130608201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北店乡",
 		"parentCode":"130608"
 	},
@@ -99,7 +99,7 @@
 		"code":"130608202",
 		"fullCode":"130608202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥乡",
 		"parentCode":"130608"
 	},
@@ -107,7 +107,7 @@
 		"code":"130608203",
 		"fullCode":"130608203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李庄乡",
 		"parentCode":"130608"
 	},
@@ -115,7 +115,7 @@
 		"code":"130608204",
 		"fullCode":"130608204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北王力乡",
 		"parentCode":"130608"
 	},
@@ -123,7 +123,7 @@
 		"code":"130608206",
 		"fullCode":"130608206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何桥乡",
 		"parentCode":"130608"
 	},
@@ -131,7 +131,7 @@
 		"code":"130608207",
 		"fullCode":"130608207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙村乡",
 		"parentCode":"130608"
 	},
@@ -139,7 +139,7 @@
 		"code":"130608208",
 		"fullCode":"130608208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阎庄乡",
 		"parentCode":"130608"
 	},
@@ -147,7 +147,7 @@
 		"code":"130608400",
 		"fullCode":"130608400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北清苑经济开发区",
 		"parentCode":"130608"
 	}

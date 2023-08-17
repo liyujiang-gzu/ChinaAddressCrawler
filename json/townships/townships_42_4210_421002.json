@@ -3,7 +3,7 @@
 		"code":"421002001",
 		"fullCode":"421002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山街道",
 		"parentCode":"421002"
 	},
@@ -11,7 +11,7 @@
 		"code":"421002002",
 		"fullCode":"421002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇文街道",
 		"parentCode":"421002"
 	},
@@ -19,7 +19,7 @@
 		"code":"421002003",
 		"fullCode":"421002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放街道",
 		"parentCode":"421002"
 	},
@@ -27,7 +27,7 @@
 		"code":"421002004",
 		"fullCode":"421002004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利街道",
 		"parentCode":"421002"
 	},
@@ -35,7 +35,7 @@
 		"code":"421002005",
 		"fullCode":"421002005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳街道",
 		"parentCode":"421002"
 	},
@@ -43,7 +43,7 @@
 		"code":"421002006",
 		"fullCode":"421002006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"立新街道",
 		"parentCode":"421002"
 	},
@@ -51,7 +51,7 @@
 		"code":"421002100",
 		"fullCode":"421002100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锣场镇",
 		"parentCode":"421002"
 	},
@@ -59,7 +59,7 @@
 		"code":"421002101",
 		"fullCode":"421002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岑河镇",
 		"parentCode":"421002"
 	},
@@ -67,7 +67,7 @@
 		"code":"421002102",
 		"fullCode":"421002102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音垱镇",
 		"parentCode":"421002"
 	},
@@ -75,7 +75,7 @@
 		"code":"421002103",
 		"fullCode":"421002103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关沮镇",
 		"parentCode":"421002"
 	}

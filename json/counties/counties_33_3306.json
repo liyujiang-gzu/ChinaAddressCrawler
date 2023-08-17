@@ -3,7 +3,7 @@
 		"code":"330602",
 		"fullCode":"330602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"越城区",
 		"parentCode":"3306"
 	},
@@ -11,7 +11,7 @@
 		"code":"330603",
 		"fullCode":"330603000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"柯桥区",
 		"parentCode":"3306"
 	},
@@ -19,7 +19,7 @@
 		"code":"330604",
 		"fullCode":"330604000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"上虞区",
 		"parentCode":"3306"
 	},
@@ -27,7 +27,7 @@
 		"code":"330624",
 		"fullCode":"330624000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新昌县",
 		"parentCode":"3306"
 	},
@@ -35,7 +35,7 @@
 		"code":"330681",
 		"fullCode":"330681000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"诸暨市",
 		"parentCode":"3306"
 	},
@@ -43,7 +43,7 @@
 		"code":"330683",
 		"fullCode":"330683000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"嵊州市",
 		"parentCode":"3306"
 	}

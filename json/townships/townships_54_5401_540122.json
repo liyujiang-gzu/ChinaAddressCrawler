@@ -3,7 +3,7 @@
 		"code":"540122100",
 		"fullCode":"540122100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"当曲卡镇",
 		"parentCode":"540122"
 	},
@@ -11,7 +11,7 @@
 		"code":"540122101",
 		"fullCode":"540122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊八井镇",
 		"parentCode":"540122"
 	},
@@ -19,7 +19,7 @@
 		"code":"540122200",
 		"fullCode":"540122200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"格达乡",
 		"parentCode":"540122"
 	},
@@ -27,7 +27,7 @@
 		"code":"540122201",
 		"fullCode":"540122201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁中乡",
 		"parentCode":"540122"
 	},
@@ -35,7 +35,7 @@
 		"code":"540122202",
 		"fullCode":"540122202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公塘乡",
 		"parentCode":"540122"
 	},
@@ -43,7 +43,7 @@
 		"code":"540122203",
 		"fullCode":"540122203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙仁乡",
 		"parentCode":"540122"
 	},
@@ -51,7 +51,7 @@
 		"code":"540122204",
 		"fullCode":"540122204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌玛塘乡",
 		"parentCode":"540122"
 	},
@@ -59,7 +59,7 @@
 		"code":"540122205",
 		"fullCode":"540122205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳木湖乡",
 		"parentCode":"540122"
 	}

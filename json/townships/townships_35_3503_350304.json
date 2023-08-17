@@ -3,7 +3,7 @@
 		"code":"350304001",
 		"fullCode":"350304001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇海街道",
 		"parentCode":"350304"
 	},
@@ -11,7 +11,7 @@
 		"code":"350304002",
 		"fullCode":"350304002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拱辰街道",
 		"parentCode":"350304"
 	},
@@ -19,7 +19,7 @@
 		"code":"350304100",
 		"fullCode":"350304100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西天尾镇",
 		"parentCode":"350304"
 	},
@@ -27,7 +27,7 @@
 		"code":"350304101",
 		"fullCode":"350304101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄石镇",
 		"parentCode":"350304"
 	},
@@ -35,7 +35,7 @@
 		"code":"350304102",
 		"fullCode":"350304102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新度镇",
 		"parentCode":"350304"
 	},
@@ -43,7 +43,7 @@
 		"code":"350304103",
 		"fullCode":"350304103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北高镇",
 		"parentCode":"350304"
 	}

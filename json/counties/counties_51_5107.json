@@ -3,7 +3,7 @@
 		"code":"510703",
 		"fullCode":"510703000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"涪城区",
 		"parentCode":"5107"
 	},
@@ -11,7 +11,7 @@
 		"code":"510704",
 		"fullCode":"510704000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"游仙区",
 		"parentCode":"5107"
 	},
@@ -19,7 +19,7 @@
 		"code":"510705",
 		"fullCode":"510705000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安州区",
 		"parentCode":"5107"
 	},
@@ -27,7 +27,7 @@
 		"code":"510722",
 		"fullCode":"510722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"三台县",
 		"parentCode":"5107"
 	},
@@ -35,7 +35,7 @@
 		"code":"510723",
 		"fullCode":"510723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"盐亭县",
 		"parentCode":"5107"
 	},
@@ -43,7 +43,7 @@
 		"code":"510725",
 		"fullCode":"510725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"梓潼县",
 		"parentCode":"5107"
 	},
@@ -51,7 +51,7 @@
 		"code":"510726",
 		"fullCode":"510726000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"北川羌族自治县",
 		"parentCode":"5107"
 	},
@@ -59,7 +59,7 @@
 		"code":"510727",
 		"fullCode":"510727000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平武县",
 		"parentCode":"5107"
 	},
@@ -67,7 +67,7 @@
 		"code":"510781",
 		"fullCode":"510781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江油市",
 		"parentCode":"5107"
 	}

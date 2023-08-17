@@ -3,7 +3,7 @@
 		"code":"140105",
 		"fullCode":"140105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"小店区",
 		"parentCode":"1401"
 	},
@@ -11,7 +11,7 @@
 		"code":"140106",
 		"fullCode":"140106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"迎泽区",
 		"parentCode":"1401"
 	},
@@ -19,7 +19,7 @@
 		"code":"140107",
 		"fullCode":"140107000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"杏花岭区",
 		"parentCode":"1401"
 	},
@@ -27,7 +27,7 @@
 		"code":"140108",
 		"fullCode":"140108000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"尖草坪区",
 		"parentCode":"1401"
 	},
@@ -35,7 +35,7 @@
 		"code":"140109",
 		"fullCode":"140109000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"万柏林区",
 		"parentCode":"1401"
 	},
@@ -43,7 +43,7 @@
 		"code":"140110",
 		"fullCode":"140110000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"晋源区",
 		"parentCode":"1401"
 	},
@@ -51,7 +51,7 @@
 		"code":"140121",
 		"fullCode":"140121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"清徐县",
 		"parentCode":"1401"
 	},
@@ -59,7 +59,7 @@
 		"code":"140122",
 		"fullCode":"140122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阳曲县",
 		"parentCode":"1401"
 	},
@@ -67,7 +67,7 @@
 		"code":"140123",
 		"fullCode":"140123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"娄烦县",
 		"parentCode":"1401"
 	},
@@ -75,7 +75,7 @@
 		"code":"140171",
 		"fullCode":"140171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"山西转型综合改革示范区",
 		"parentCode":"1401"
 	},
@@ -83,7 +83,7 @@
 		"code":"140181",
 		"fullCode":"140181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"古交市",
 		"parentCode":"1401"
 	}

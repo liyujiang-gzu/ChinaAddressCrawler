@@ -3,7 +3,7 @@
 		"code":"510104",
 		"fullCode":"510104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"锦江区",
 		"parentCode":"5101"
 	},
@@ -11,7 +11,7 @@
 		"code":"510105",
 		"fullCode":"510105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"青羊区",
 		"parentCode":"5101"
 	},
@@ -19,7 +19,7 @@
 		"code":"510106",
 		"fullCode":"510106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金牛区",
 		"parentCode":"5101"
 	},
@@ -27,7 +27,7 @@
 		"code":"510107",
 		"fullCode":"510107000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武侯区",
 		"parentCode":"5101"
 	},
@@ -35,7 +35,7 @@
 		"code":"510108",
 		"fullCode":"510108000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"成华区",
 		"parentCode":"5101"
 	},
@@ -43,7 +43,7 @@
 		"code":"510112",
 		"fullCode":"510112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙泉驿区",
 		"parentCode":"5101"
 	},
@@ -51,7 +51,7 @@
 		"code":"510113",
 		"fullCode":"510113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"青白江区",
 		"parentCode":"5101"
 	},
@@ -59,7 +59,7 @@
 		"code":"510114",
 		"fullCode":"510114000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新都区",
 		"parentCode":"5101"
 	},
@@ -67,7 +67,7 @@
 		"code":"510115",
 		"fullCode":"510115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"温江区",
 		"parentCode":"5101"
 	},
@@ -75,7 +75,7 @@
 		"code":"510116",
 		"fullCode":"510116000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"双流区",
 		"parentCode":"5101"
 	},
@@ -83,7 +83,7 @@
 		"code":"510117",
 		"fullCode":"510117000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郫都区",
 		"parentCode":"5101"
 	},
@@ -91,7 +91,7 @@
 		"code":"510118",
 		"fullCode":"510118000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新津区",
 		"parentCode":"5101"
 	},
@@ -99,7 +99,7 @@
 		"code":"510121",
 		"fullCode":"510121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金堂县",
 		"parentCode":"5101"
 	},
@@ -107,7 +107,7 @@
 		"code":"510129",
 		"fullCode":"510129000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大邑县",
 		"parentCode":"5101"
 	},
@@ -115,7 +115,7 @@
 		"code":"510131",
 		"fullCode":"510131000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蒲江县",
 		"parentCode":"5101"
 	},
@@ -123,7 +123,7 @@
 		"code":"510181",
 		"fullCode":"510181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"都江堰市",
 		"parentCode":"5101"
 	},
@@ -131,7 +131,7 @@
 		"code":"510182",
 		"fullCode":"510182000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"彭州市",
 		"parentCode":"5101"
 	},
@@ -139,7 +139,7 @@
 		"code":"510183",
 		"fullCode":"510183000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"邛崃市",
 		"parentCode":"5101"
 	},
@@ -147,7 +147,7 @@
 		"code":"510184",
 		"fullCode":"510184000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"崇州市",
 		"parentCode":"5101"
 	},
@@ -155,7 +155,7 @@
 		"code":"510185",
 		"fullCode":"510185000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"简阳市",
 		"parentCode":"5101"
 	}

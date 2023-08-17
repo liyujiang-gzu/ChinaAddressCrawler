@@ -3,7 +3,7 @@
 		"code":"430102",
 		"fullCode":"430102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"芙蓉区",
 		"parentCode":"4301"
 	},
@@ -11,7 +11,7 @@
 		"code":"430103",
 		"fullCode":"430103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天心区",
 		"parentCode":"4301"
 	},
@@ -19,7 +19,7 @@
 		"code":"430104",
 		"fullCode":"430104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岳麓区",
 		"parentCode":"4301"
 	},
@@ -27,7 +27,7 @@
 		"code":"430105",
 		"fullCode":"430105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"开福区",
 		"parentCode":"4301"
 	},
@@ -35,7 +35,7 @@
 		"code":"430111",
 		"fullCode":"430111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"雨花区",
 		"parentCode":"4301"
 	},
@@ -43,7 +43,7 @@
 		"code":"430112",
 		"fullCode":"430112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"望城区",
 		"parentCode":"4301"
 	},
@@ -51,7 +51,7 @@
 		"code":"430121",
 		"fullCode":"430121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长沙县",
 		"parentCode":"4301"
 	},
@@ -59,7 +59,7 @@
 		"code":"430181",
 		"fullCode":"430181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浏阳市",
 		"parentCode":"4301"
 	},
@@ -67,7 +67,7 @@
 		"code":"430182",
 		"fullCode":"430182000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁乡市",
 		"parentCode":"4301"
 	}

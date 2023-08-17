@@ -3,7 +3,7 @@
 		"code":"520424002",
 		"fullCode":"520424002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顶云街道",
 		"parentCode":"520424"
 	},
@@ -11,7 +11,7 @@
 		"code":"520424003",
 		"fullCode":"520424003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关索街道",
 		"parentCode":"520424"
 	},
@@ -19,7 +19,7 @@
 		"code":"520424004",
 		"fullCode":"520424004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭街道",
 		"parentCode":"520424"
 	},
@@ -27,7 +27,7 @@
 		"code":"520424007",
 		"fullCode":"520424007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百合街道",
 		"parentCode":"520424"
 	},
@@ -35,7 +35,7 @@
 		"code":"520424102",
 		"fullCode":"520424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁镇",
 		"parentCode":"520424"
 	},
@@ -43,7 +43,7 @@
 		"code":"520424103",
 		"fullCode":"520424103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗乌镇",
 		"parentCode":"520424"
 	},
@@ -51,7 +51,7 @@
 		"code":"520424104",
 		"fullCode":"520424104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上关镇",
 		"parentCode":"520424"
 	},
@@ -59,7 +59,7 @@
 		"code":"520424105",
 		"fullCode":"520424105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坡贡镇",
 		"parentCode":"520424"
 	},
@@ -67,7 +67,7 @@
 		"code":"520424107",
 		"fullCode":"520424107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白水镇",
 		"parentCode":"520424"
 	},
@@ -75,7 +75,7 @@
 		"code":"520424108",
 		"fullCode":"520424108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新铺镇",
 		"parentCode":"520424"
 	},
@@ -83,7 +83,7 @@
 		"code":"520424109",
 		"fullCode":"520424109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙营镇",
 		"parentCode":"520424"
 	},
@@ -91,7 +91,7 @@
 		"code":"520424110",
 		"fullCode":"520424110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花江镇",
 		"parentCode":"520424"
 	},
@@ -99,7 +99,7 @@
 		"code":"520424111",
 		"fullCode":"520424111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"断桥镇",
 		"parentCode":"520424"
 	},
@@ -107,7 +107,7 @@
 		"code":"520424202",
 		"fullCode":"520424202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普利乡",
 		"parentCode":"520424"
 	}

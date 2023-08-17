@@ -3,7 +3,7 @@
 		"code":"451002001",
 		"fullCode":"451002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百城街道",
 		"parentCode":"451002"
 	},
@@ -11,7 +11,7 @@
 		"code":"451002002",
 		"fullCode":"451002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙景街道",
 		"parentCode":"451002"
 	},
@@ -19,7 +19,7 @@
 		"code":"451002101",
 		"fullCode":"451002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳圩镇",
 		"parentCode":"451002"
 	},
@@ -27,7 +27,7 @@
 		"code":"451002102",
 		"fullCode":"451002102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四塘镇",
 		"parentCode":"451002"
 	},
@@ -35,7 +35,7 @@
 		"code":"451002103",
 		"fullCode":"451002103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙川镇",
 		"parentCode":"451002"
 	},
@@ -43,7 +43,7 @@
 		"code":"451002104",
 		"fullCode":"451002104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乐镇",
 		"parentCode":"451002"
 	},
@@ -51,7 +51,7 @@
 		"code":"451002202",
 		"fullCode":"451002202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪甸瑶族乡",
 		"parentCode":"451002"
 	},
@@ -59,7 +59,7 @@
 		"code":"451002203",
 		"fullCode":"451002203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大楞乡",
 		"parentCode":"451002"
 	},
@@ -67,7 +67,7 @@
 		"code":"451002204",
 		"fullCode":"451002204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泮水乡",
 		"parentCode":"451002"
 	}

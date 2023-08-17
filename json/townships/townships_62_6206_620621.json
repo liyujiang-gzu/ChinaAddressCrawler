@@ -3,7 +3,7 @@
 		"code":"620621100",
 		"fullCode":"620621100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三雷镇",
 		"parentCode":"620621"
 	},
@@ -11,7 +11,7 @@
 		"code":"620621101",
 		"fullCode":"620621101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坝镇",
 		"parentCode":"620621"
 	},
@@ -19,7 +19,7 @@
 		"code":"620621102",
 		"fullCode":"620621102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉山镇",
 		"parentCode":"620621"
 	},
@@ -27,7 +27,7 @@
 		"code":"620621103",
 		"fullCode":"620621103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西渠镇",
 		"parentCode":"620621"
 	},
@@ -35,7 +35,7 @@
 		"code":"620621104",
 		"fullCode":"620621104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖镇",
 		"parentCode":"620621"
 	},
@@ -43,7 +43,7 @@
 		"code":"620621105",
 		"fullCode":"620621105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红砂岗镇",
 		"parentCode":"620621"
 	},
@@ -51,7 +51,7 @@
 		"code":"620621106",
 		"fullCode":"620621106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌宁镇",
 		"parentCode":"620621"
 	},
@@ -59,7 +59,7 @@
 		"code":"620621107",
 		"fullCode":"620621107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"重兴镇",
 		"parentCode":"620621"
 	},
@@ -67,7 +67,7 @@
 		"code":"620621108",
 		"fullCode":"620621108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薛百镇",
 		"parentCode":"620621"
 	},
@@ -75,7 +75,7 @@
 		"code":"620621109",
 		"fullCode":"620621109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坝镇",
 		"parentCode":"620621"
 	},
@@ -83,7 +83,7 @@
 		"code":"620621110",
 		"fullCode":"620621110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏武镇",
 		"parentCode":"620621"
 	},
@@ -91,7 +91,7 @@
 		"code":"620621111",
 		"fullCode":"620621111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大滩镇",
 		"parentCode":"620621"
 	},
@@ -99,7 +99,7 @@
 		"code":"620621112",
 		"fullCode":"620621112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双茨科镇",
 		"parentCode":"620621"
 	},
@@ -107,7 +107,7 @@
 		"code":"620621113",
 		"fullCode":"620621113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红沙梁镇",
 		"parentCode":"620621"
 	},
@@ -115,7 +115,7 @@
 		"code":"620621114",
 		"fullCode":"620621114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡旗镇",
 		"parentCode":"620621"
 	},
@@ -123,7 +123,7 @@
 		"code":"620621115",
 		"fullCode":"620621115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹河镇",
 		"parentCode":"620621"
 	},
@@ -131,7 +131,7 @@
 		"code":"620621116",
 		"fullCode":"620621116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"收成镇",
 		"parentCode":"620621"
 	},
@@ -139,7 +139,7 @@
 		"code":"620621117",
 		"fullCode":"620621117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖镇",
 		"parentCode":"620621"
 	}

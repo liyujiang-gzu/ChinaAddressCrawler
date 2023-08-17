@@ -3,7 +3,7 @@
 		"code":"340172001",
 		"fullCode":"340172001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花社区管理委员会街道",
 		"parentCode":"340172"
 	},
@@ -11,7 +11,7 @@
 		"code":"340172002",
 		"fullCode":"340172002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芙蓉社区管理委员会街道",
 		"parentCode":"340172"
 	},
@@ -19,7 +19,7 @@
 		"code":"340172003",
 		"fullCode":"340172003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦绣社区管理委员会街道",
 		"parentCode":"340172"
 	},
@@ -27,7 +27,7 @@
 		"code":"340172004",
 		"fullCode":"340172004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海恒社区管理委员会街道",
 		"parentCode":"340172"
 	},
@@ -35,7 +35,7 @@
 		"code":"340172005",
 		"fullCode":"340172005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临湖社区管理委员会街道",
 		"parentCode":"340172"
 	},
@@ -43,7 +43,7 @@
 		"code":"340172006",
 		"fullCode":"340172006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高刘街道办事处街道",
 		"parentCode":"340172"
 	},
@@ -51,7 +51,7 @@
 		"code":"340172400",
 		"fullCode":"340172400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新港工业园",
 		"parentCode":"340172"
 	},
@@ -59,7 +59,7 @@
 		"code":"340172401",
 		"fullCode":"340172401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合淮合作区",
 		"parentCode":"340172"
 	}

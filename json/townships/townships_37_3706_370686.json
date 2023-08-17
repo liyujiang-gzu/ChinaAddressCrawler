@@ -3,7 +3,7 @@
 		"code":"370686001",
 		"fullCode":"370686001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠屏街道",
 		"parentCode":"370686"
 	},
@@ -11,7 +11,7 @@
 		"code":"370686002",
 		"fullCode":"370686002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄园街道",
 		"parentCode":"370686"
 	},
@@ -19,7 +19,7 @@
 		"code":"370686003",
 		"fullCode":"370686003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松山街道",
 		"parentCode":"370686"
 	},
@@ -27,7 +27,7 @@
 		"code":"370686101",
 		"fullCode":"370686101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观里镇",
 		"parentCode":"370686"
 	},
@@ -35,7 +35,7 @@
 		"code":"370686102",
 		"fullCode":"370686102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蛇窝泊镇",
 		"parentCode":"370686"
 	},
@@ -43,7 +43,7 @@
 		"code":"370686103",
 		"fullCode":"370686103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐家泊镇",
 		"parentCode":"370686"
 	},
@@ -51,7 +51,7 @@
 		"code":"370686104",
 		"fullCode":"370686104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃村镇",
 		"parentCode":"370686"
 	},
@@ -59,7 +59,7 @@
 		"code":"370686105",
 		"fullCode":"370686105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亭口镇",
 		"parentCode":"370686"
 	},
@@ -67,7 +67,7 @@
 		"code":"370686107",
 		"fullCode":"370686107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺口镇",
 		"parentCode":"370686"
 	},
@@ -75,7 +75,7 @@
 		"code":"370686108",
 		"fullCode":"370686108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏家店镇",
 		"parentCode":"370686"
 	},
@@ -83,7 +83,7 @@
 		"code":"370686109",
 		"fullCode":"370686109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨础镇",
 		"parentCode":"370686"
 	},
@@ -91,7 +91,7 @@
 		"code":"370686110",
 		"fullCode":"370686110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城镇",
 		"parentCode":"370686"
 	},
@@ -99,7 +99,7 @@
 		"code":"370686111",
 		"fullCode":"370686111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官道镇",
 		"parentCode":"370686"
 	},
@@ -107,7 +107,7 @@
 		"code":"370686113",
 		"fullCode":"370686113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙后镇",
 		"parentCode":"370686"
 	}

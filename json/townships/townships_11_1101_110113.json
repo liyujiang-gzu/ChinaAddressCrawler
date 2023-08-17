@@ -3,7 +3,7 @@
 		"code":"110113001",
 		"fullCode":"110113001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利街道",
 		"parentCode":"110113"
 	},
@@ -11,7 +11,7 @@
 		"code":"110113002",
 		"fullCode":"110113002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明街道",
 		"parentCode":"110113"
 	},
@@ -19,7 +19,7 @@
 		"code":"110113003",
 		"fullCode":"110113003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁和地区",
 		"parentCode":"110113"
 	},
@@ -27,7 +27,7 @@
 		"code":"110113004",
 		"fullCode":"110113004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后沙峪地区",
 		"parentCode":"110113"
 	},
@@ -35,7 +35,7 @@
 		"code":"110113005",
 		"fullCode":"110113005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天竺地区",
 		"parentCode":"110113"
 	},
@@ -43,7 +43,7 @@
 		"code":"110113006",
 		"fullCode":"110113006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨镇地区",
 		"parentCode":"110113"
 	},
@@ -51,7 +51,7 @@
 		"code":"110113007",
 		"fullCode":"110113007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛栏山地区",
 		"parentCode":"110113"
 	},
@@ -59,7 +59,7 @@
 		"code":"110113008",
 		"fullCode":"110113008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南法信地区",
 		"parentCode":"110113"
 	},
@@ -67,7 +67,7 @@
 		"code":"110113009",
 		"fullCode":"110113009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坡地区",
 		"parentCode":"110113"
 	},
@@ -75,7 +75,7 @@
 		"code":"110113010",
 		"fullCode":"110113010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石园街道",
 		"parentCode":"110113"
 	},
@@ -83,7 +83,7 @@
 		"code":"110113011",
 		"fullCode":"110113011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"空港街道",
 		"parentCode":"110113"
 	},
@@ -91,7 +91,7 @@
 		"code":"110113012",
 		"fullCode":"110113012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双丰街道",
 		"parentCode":"110113"
 	},
@@ -99,7 +99,7 @@
 		"code":"110113013",
 		"fullCode":"110113013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旺泉街道",
 		"parentCode":"110113"
 	},
@@ -107,7 +107,7 @@
 		"code":"110113101",
 		"fullCode":"110113101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高丽营镇",
 		"parentCode":"110113"
 	},
@@ -115,7 +115,7 @@
 		"code":"110113104",
 		"fullCode":"110113104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李桥镇",
 		"parentCode":"110113"
 	},
@@ -123,7 +123,7 @@
 		"code":"110113105",
 		"fullCode":"110113105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李遂镇",
 		"parentCode":"110113"
 	},
@@ -131,7 +131,7 @@
 		"code":"110113106",
 		"fullCode":"110113106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南彩镇",
 		"parentCode":"110113"
 	},
@@ -139,7 +139,7 @@
 		"code":"110113108",
 		"fullCode":"110113108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北务镇",
 		"parentCode":"110113"
 	},
@@ -147,7 +147,7 @@
 		"code":"110113109",
 		"fullCode":"110113109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大孙各庄镇",
 		"parentCode":"110113"
 	},
@@ -155,7 +155,7 @@
 		"code":"110113110",
 		"fullCode":"110113110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张镇",
 		"parentCode":"110113"
 	},
@@ -163,7 +163,7 @@
 		"code":"110113111",
 		"fullCode":"110113111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湾屯镇",
 		"parentCode":"110113"
 	},
@@ -171,7 +171,7 @@
 		"code":"110113112",
 		"fullCode":"110113112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木林镇",
 		"parentCode":"110113"
 	},
@@ -179,7 +179,7 @@
 		"code":"110113113",
 		"fullCode":"110113113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北小营镇",
 		"parentCode":"110113"
 	},
@@ -187,7 +187,7 @@
 		"code":"110113115",
 		"fullCode":"110113115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北石槽镇",
 		"parentCode":"110113"
 	},
@@ -195,7 +195,7 @@
 		"code":"110113116",
 		"fullCode":"110113116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵全营镇",
 		"parentCode":"110113"
 	}

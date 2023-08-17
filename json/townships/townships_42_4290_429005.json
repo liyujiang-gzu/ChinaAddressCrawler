@@ -3,7 +3,7 @@
 		"code":"429005001",
 		"fullCode":"429005001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"园林街道",
 		"parentCode":"429005"
 	},
@@ -11,7 +11,7 @@
 		"code":"429005002",
 		"fullCode":"429005002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨市街道",
 		"parentCode":"429005"
 	},
@@ -19,7 +19,7 @@
 		"code":"429005003",
 		"fullCode":"429005003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周矶街道",
 		"parentCode":"429005"
 	},
@@ -27,7 +27,7 @@
 		"code":"429005004",
 		"fullCode":"429005004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广华寺街道",
 		"parentCode":"429005"
 	},
@@ -35,7 +35,7 @@
 		"code":"429005005",
 		"fullCode":"429005005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰丰街道",
 		"parentCode":"429005"
 	},
@@ -43,7 +43,7 @@
 		"code":"429005006",
 		"fullCode":"429005006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高场街道",
 		"parentCode":"429005"
 	},
@@ -51,7 +51,7 @@
 		"code":"429005007",
 		"fullCode":"429005007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泽口街道",
 		"parentCode":"429005"
 	},
@@ -59,7 +59,7 @@
 		"code":"429005100",
 		"fullCode":"429005100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹根滩镇",
 		"parentCode":"429005"
 	},
@@ -67,7 +67,7 @@
 		"code":"429005101",
 		"fullCode":"429005101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔洋镇",
 		"parentCode":"429005"
 	},
@@ -75,7 +75,7 @@
 		"code":"429005102",
 		"fullCode":"429005102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王场镇",
 		"parentCode":"429005"
 	},
@@ -83,7 +83,7 @@
 		"code":"429005103",
 		"fullCode":"429005103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高石碑镇",
 		"parentCode":"429005"
 	},
@@ -91,7 +91,7 @@
 		"code":"429005104",
 		"fullCode":"429005104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"熊口镇",
 		"parentCode":"429005"
 	},
@@ -99,7 +99,7 @@
 		"code":"429005105",
 		"fullCode":"429005105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老新镇",
 		"parentCode":"429005"
 	},
@@ -107,7 +107,7 @@
 		"code":"429005106",
 		"fullCode":"429005106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浩口镇",
 		"parentCode":"429005"
 	},
@@ -115,7 +115,7 @@
 		"code":"429005107",
 		"fullCode":"429005107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"积玉口镇",
 		"parentCode":"429005"
 	},
@@ -123,7 +123,7 @@
 		"code":"429005108",
 		"fullCode":"429005108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张金镇",
 		"parentCode":"429005"
 	},
@@ -131,7 +131,7 @@
 		"code":"429005109",
 		"fullCode":"429005109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湾镇",
 		"parentCode":"429005"
 	},
@@ -139,7 +139,7 @@
 		"code":"429005450",
 		"fullCode":"429005450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周矶管理区",
 		"parentCode":"429005"
 	},
@@ -147,7 +147,7 @@
 		"code":"429005451",
 		"fullCode":"429005451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后湖管理区",
 		"parentCode":"429005"
 	},
@@ -155,7 +155,7 @@
 		"code":"429005452",
 		"fullCode":"429005452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"熊口管理区",
 		"parentCode":"429005"
 	},
@@ -163,7 +163,7 @@
 		"code":"429005453",
 		"fullCode":"429005453000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"总口管理区",
 		"parentCode":"429005"
 	},
@@ -171,7 +171,7 @@
 		"code":"429005454",
 		"fullCode":"429005454000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鹭湖管理区",
 		"parentCode":"429005"
 	},
@@ -179,7 +179,7 @@
 		"code":"429005455",
 		"fullCode":"429005455000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"运粮湖管理区",
 		"parentCode":"429005"
 	},
@@ -187,7 +187,7 @@
 		"code":"429005457",
 		"fullCode":"429005457000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浩口原种场",
 		"parentCode":"429005"
 	}

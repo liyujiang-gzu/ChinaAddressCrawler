@@ -3,7 +3,7 @@
 		"code":"230123100",
 		"fullCode":"230123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依兰镇",
 		"parentCode":"230123"
 	},
@@ -11,7 +11,7 @@
 		"code":"230123101",
 		"fullCode":"230123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达连河镇",
 		"parentCode":"230123"
 	},
@@ -19,7 +19,7 @@
 		"code":"230123102",
 		"fullCode":"230123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江湾镇",
 		"parentCode":"230123"
 	},
@@ -27,7 +27,7 @@
 		"code":"230123103",
 		"fullCode":"230123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道岗镇",
 		"parentCode":"230123"
 	},
@@ -35,7 +35,7 @@
 		"code":"230123104",
 		"fullCode":"230123104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道台桥镇",
 		"parentCode":"230123"
 	},
@@ -43,7 +43,7 @@
 		"code":"230123105",
 		"fullCode":"230123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏克利镇",
 		"parentCode":"230123"
 	},
@@ -51,7 +51,7 @@
 		"code":"230123200",
 		"fullCode":"230123200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团山子乡",
 		"parentCode":"230123"
 	},
@@ -59,7 +59,7 @@
 		"code":"230123201",
 		"fullCode":"230123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"愚公乡",
 		"parentCode":"230123"
 	},
@@ -67,7 +67,7 @@
 		"code":"230123202",
 		"fullCode":"230123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎兰朝鲜族乡",
 		"parentCode":"230123"
 	},
@@ -75,7 +75,7 @@
 		"code":"230123400",
 		"fullCode":"230123400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依兰县林业局",
 		"parentCode":"230123"
 	},
@@ -83,7 +83,7 @@
 		"code":"230123500",
 		"fullCode":"230123500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依兰农场",
 		"parentCode":"230123"
 	},
@@ -91,7 +91,7 @@
 		"code":"230123501",
 		"fullCode":"230123501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松花江农场",
 		"parentCode":"230123"
 	}

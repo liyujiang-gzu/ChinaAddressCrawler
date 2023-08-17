@@ -3,7 +3,7 @@
 		"code":"320311001",
 		"fullCode":"320311001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王陵街道",
 		"parentCode":"320311"
 	},
@@ -11,7 +11,7 @@
 		"code":"320311002",
 		"fullCode":"320311002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里沟街道",
 		"parentCode":"320311"
 	},
@@ -19,7 +19,7 @@
 		"code":"320311003",
 		"fullCode":"320311003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安街道",
 		"parentCode":"320311"
 	},
@@ -27,7 +27,7 @@
 		"code":"320311004",
 		"fullCode":"320311004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖滨街道",
 		"parentCode":"320311"
 	},
@@ -35,7 +35,7 @@
 		"code":"320311005",
 		"fullCode":"320311005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段庄街道",
 		"parentCode":"320311"
 	},
@@ -43,7 +43,7 @@
 		"code":"320311006",
 		"fullCode":"320311006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翟山街道",
 		"parentCode":"320311"
 	},
@@ -51,7 +51,7 @@
 		"code":"320311007",
 		"fullCode":"320311007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奎山街道",
 		"parentCode":"320311"
 	},
@@ -59,7 +59,7 @@
 		"code":"320311008",
 		"fullCode":"320311008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"320311"
 	},
@@ -67,7 +67,7 @@
 		"code":"320311009",
 		"fullCode":"320311009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山街道",
 		"parentCode":"320311"
 	},
@@ -75,7 +75,7 @@
 		"code":"320311010",
 		"fullCode":"320311010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰山街道",
 		"parentCode":"320311"
 	},
@@ -83,7 +83,7 @@
 		"code":"320311011",
 		"fullCode":"320311011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庞庄街道",
 		"parentCode":"320311"
 	},
@@ -91,7 +91,7 @@
 		"code":"320311012",
 		"fullCode":"320311012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火花街道",
 		"parentCode":"320311"
 	},
@@ -99,7 +99,7 @@
 		"code":"320311013",
 		"fullCode":"320311013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃园街道",
 		"parentCode":"320311"
 	},
@@ -107,7 +107,7 @@
 		"code":"320311014",
 		"fullCode":"320311014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏山街道",
 		"parentCode":"320311"
 	},
@@ -115,7 +115,7 @@
 		"code":"320311401",
 		"fullCode":"320311401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐州泉山经济开发区",
 		"parentCode":"320311"
 	},
@@ -123,7 +123,7 @@
 		"code":"320311402",
 		"fullCode":"320311402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐州软件园管理委员会",
 		"parentCode":"320311"
 	}

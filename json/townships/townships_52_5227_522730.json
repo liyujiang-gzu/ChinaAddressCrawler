@@ -3,7 +3,7 @@
 		"code":"522730001",
 		"fullCode":"522730001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冠山街道",
 		"parentCode":"522730"
 	},
@@ -11,7 +11,7 @@
 		"code":"522730100",
 		"fullCode":"522730100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山镇",
 		"parentCode":"522730"
 	},
@@ -19,7 +19,7 @@
 		"code":"522730102",
 		"fullCode":"522730102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"醒狮镇",
 		"parentCode":"522730"
 	},
@@ -27,7 +27,7 @@
 		"code":"522730103",
 		"fullCode":"522730103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷脚镇",
 		"parentCode":"522730"
 	},
@@ -35,7 +35,7 @@
 		"code":"522730104",
 		"fullCode":"522730104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾滩河镇",
 		"parentCode":"522730"
 	},
@@ -43,7 +43,7 @@
 		"code":"522730105",
 		"fullCode":"522730105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洗马镇",
 		"parentCode":"522730"
 	}

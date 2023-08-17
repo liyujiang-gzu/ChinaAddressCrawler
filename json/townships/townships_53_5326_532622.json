@@ -3,7 +3,7 @@
 		"code":"532622101",
 		"fullCode":"532622101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江那镇",
 		"parentCode":"532622"
 	},
@@ -11,7 +11,7 @@
 		"code":"532622102",
 		"fullCode":"532622102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平远镇",
 		"parentCode":"532622"
 	},
@@ -19,7 +19,7 @@
 		"code":"532622103",
 		"fullCode":"532622103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稼依镇",
 		"parentCode":"532622"
 	},
@@ -27,7 +27,7 @@
 		"code":"532622104",
 		"fullCode":"532622104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿猛镇",
 		"parentCode":"532622"
 	},
@@ -35,7 +35,7 @@
 		"code":"532622201",
 		"fullCode":"532622201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿舍彝族乡",
 		"parentCode":"532622"
 	},
@@ -43,7 +43,7 @@
 		"code":"532622202",
 		"fullCode":"532622202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"维摩彝族乡",
 		"parentCode":"532622"
 	},
@@ -51,7 +51,7 @@
 		"code":"532622203",
 		"fullCode":"532622203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘龙彝族乡",
 		"parentCode":"532622"
 	},
@@ -59,7 +59,7 @@
 		"code":"532622204",
 		"fullCode":"532622204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八嘎乡",
 		"parentCode":"532622"
 	},
@@ -67,7 +67,7 @@
 		"code":"532622205",
 		"fullCode":"532622205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"者腊乡",
 		"parentCode":"532622"
 	},
@@ -75,7 +75,7 @@
 		"code":"532622206",
 		"fullCode":"532622206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蚌峨乡",
 		"parentCode":"532622"
 	},
@@ -83,7 +83,7 @@
 		"code":"532622207",
 		"fullCode":"532622207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"干河彝族乡",
 		"parentCode":"532622"
 	}

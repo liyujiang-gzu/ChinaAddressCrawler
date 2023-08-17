@@ -3,7 +3,7 @@
 		"code":"371471007",
 		"fullCode":"371471007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长河街道",
 		"parentCode":"371471"
 	},
@@ -11,7 +11,7 @@
 		"code":"371471008",
 		"fullCode":"371471008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋官屯街道",
 		"parentCode":"371471"
 	},
@@ -19,7 +19,7 @@
 		"code":"371471100",
 		"fullCode":"371471100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵虎镇",
 		"parentCode":"371471"
 	},
@@ -27,7 +27,7 @@
 		"code":"371471101",
 		"fullCode":"371471101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抬头寺镇",
 		"parentCode":"371471"
 	},
@@ -35,7 +35,7 @@
 		"code":"371471108",
 		"fullCode":"371471108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"袁桥镇",
 		"parentCode":"371471"
 	},
@@ -43,7 +43,7 @@
 		"code":"371471400",
 		"fullCode":"371471400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新区服务管理办公室",
 		"parentCode":"371471"
 	}

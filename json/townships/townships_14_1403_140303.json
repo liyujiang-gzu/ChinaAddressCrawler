@@ -3,7 +3,7 @@
 		"code":"140303001",
 		"fullCode":"140303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平潭街街道",
 		"parentCode":"140303"
 	},
@@ -11,7 +11,7 @@
 		"code":"140303003",
 		"fullCode":"140303003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡洼街道",
 		"parentCode":"140303"
 	},
@@ -19,7 +19,7 @@
 		"code":"140303004",
 		"fullCode":"140303004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛鱼街道",
 		"parentCode":"140303"
 	},
@@ -27,7 +27,7 @@
 		"code":"140303005",
 		"fullCode":"140303005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坪街道",
 		"parentCode":"140303"
 	},
@@ -35,7 +35,7 @@
 		"code":"140303006",
 		"fullCode":"140303006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贵石沟街道",
 		"parentCode":"140303"
 	},
@@ -43,7 +43,7 @@
 		"code":"140303007",
 		"fullCode":"140303007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头街道",
 		"parentCode":"140303"
 	}

@@ -3,7 +3,7 @@
 		"code":"150522100",
 		"fullCode":"150522100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘旗卡镇",
 		"parentCode":"150522"
 	},
@@ -11,7 +11,7 @@
 		"code":"150522101",
 		"fullCode":"150522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉尔嘎朗镇",
 		"parentCode":"150522"
 	},
@@ -19,7 +19,7 @@
 		"code":"150522102",
 		"fullCode":"150522102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金宝屯镇",
 		"parentCode":"150522"
 	},
@@ -27,7 +27,7 @@
 		"code":"150522103",
 		"fullCode":"150522103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常胜镇",
 		"parentCode":"150522"
 	},
@@ -35,7 +35,7 @@
 		"code":"150522104",
 		"fullCode":"150522104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查日苏镇",
 		"parentCode":"150522"
 	},
@@ -43,7 +43,7 @@
 		"code":"150522105",
 		"fullCode":"150522105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双胜镇",
 		"parentCode":"150522"
 	},
@@ -51,7 +51,7 @@
 		"code":"150522106",
 		"fullCode":"150522106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿古拉镇",
 		"parentCode":"150522"
 	},
@@ -59,7 +59,7 @@
 		"code":"150522107",
 		"fullCode":"150522107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝鲁吐镇",
 		"parentCode":"150522"
 	},
@@ -67,7 +67,7 @@
 		"code":"150522108",
 		"fullCode":"150522108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"努古斯台镇",
 		"parentCode":"150522"
 	},
@@ -75,7 +75,7 @@
 		"code":"150522109",
 		"fullCode":"150522109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海鲁吐镇",
 		"parentCode":"150522"
 	},
@@ -83,7 +83,7 @@
 		"code":"150522200",
 		"fullCode":"150522200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿都沁苏木",
 		"parentCode":"150522"
 	},
@@ -91,7 +91,7 @@
 		"code":"150522201",
 		"fullCode":"150522201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茂道吐苏木",
 		"parentCode":"150522"
 	},
@@ -99,7 +99,7 @@
 		"code":"150522202",
 		"fullCode":"150522202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴胡塔苏木",
 		"parentCode":"150522"
 	},
@@ -107,7 +107,7 @@
 		"code":"150522203",
 		"fullCode":"150522203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"散都苏木",
 		"parentCode":"150522"
 	},
@@ -115,7 +115,7 @@
 		"code":"150522204",
 		"fullCode":"150522204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦毛都苏木",
 		"parentCode":"150522"
 	},
@@ -123,7 +123,7 @@
 		"code":"150522400",
 		"fullCode":"150522400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利农场",
 		"parentCode":"150522"
 	},
@@ -131,7 +131,7 @@
 		"code":"150522401",
 		"fullCode":"150522401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟根达坝牧场",
 		"parentCode":"150522"
 	},
@@ -139,7 +139,7 @@
 		"code":"150522402",
 		"fullCode":"150522402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查金台牧场",
 		"parentCode":"150522"
 	},
@@ -147,7 +147,7 @@
 		"code":"150522403",
 		"fullCode":"150522403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"原种繁育中心",
 		"parentCode":"150522"
 	},
@@ -155,7 +155,7 @@
 		"code":"150522404",
 		"fullCode":"150522404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大青沟管理局",
 		"parentCode":"150522"
 	},
@@ -163,7 +163,7 @@
 		"code":"150522405",
 		"fullCode":"150522405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈日乌苏种畜场",
 		"parentCode":"150522"
 	},
@@ -171,7 +171,7 @@
 		"code":"150522406",
 		"fullCode":"150522406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰敖道渔场",
 		"parentCode":"150522"
 	},
@@ -179,7 +179,7 @@
 		"code":"150522407",
 		"fullCode":"150522407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金宝屯林场",
 		"parentCode":"150522"
 	},
@@ -187,7 +187,7 @@
 		"code":"150522408",
 		"fullCode":"150522408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝鲁吐林场",
 		"parentCode":"150522"
 	},
@@ -195,7 +195,7 @@
 		"code":"150522409",
 		"fullCode":"150522409000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茂道吐林场",
 		"parentCode":"150522"
 	},
@@ -203,7 +203,7 @@
 		"code":"150522410",
 		"fullCode":"150522410000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊胡塔林场",
 		"parentCode":"150522"
 	},
@@ -211,7 +211,7 @@
 		"code":"150522411",
 		"fullCode":"150522411000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌旦塔拉林场",
 		"parentCode":"150522"
 	}

@@ -3,7 +3,7 @@
 		"code":"510304001",
 		"fullCode":"510304001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安街道",
 		"parentCode":"510304"
 	},
@@ -11,7 +11,7 @@
 		"code":"510304002",
 		"fullCode":"510304002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙井街道",
 		"parentCode":"510304"
 	},
@@ -19,7 +19,7 @@
 		"code":"510304003",
 		"fullCode":"510304003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马冲口街道",
 		"parentCode":"510304"
 	},
@@ -27,7 +27,7 @@
 		"code":"510304004",
 		"fullCode":"510304004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉高山街道",
 		"parentCode":"510304"
 	},
@@ -35,7 +35,7 @@
 		"code":"510304005",
 		"fullCode":"510304005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"510304"
 	},
@@ -43,7 +43,7 @@
 		"code":"510304006",
 		"fullCode":"510304006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰街道",
 		"parentCode":"510304"
 	},
@@ -51,7 +51,7 @@
 		"code":"510304100",
 		"fullCode":"510304100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大山铺镇",
 		"parentCode":"510304"
 	},
@@ -59,7 +59,7 @@
 		"code":"510304102",
 		"fullCode":"510304102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结镇",
 		"parentCode":"510304"
 	},
@@ -67,7 +67,7 @@
 		"code":"510304103",
 		"fullCode":"510304103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三多寨镇",
 		"parentCode":"510304"
 	},
@@ -75,7 +75,7 @@
 		"code":"510304104",
 		"fullCode":"510304104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何市镇",
 		"parentCode":"510304"
 	},
@@ -83,7 +83,7 @@
 		"code":"510304105",
 		"fullCode":"510304105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店镇",
 		"parentCode":"510304"
 	},
@@ -91,7 +91,7 @@
 		"code":"510304106",
 		"fullCode":"510304106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民镇",
 		"parentCode":"510304"
 	},
@@ -99,7 +99,7 @@
 		"code":"510304107",
 		"fullCode":"510304107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛佛镇",
 		"parentCode":"510304"
 	},
@@ -107,7 +107,7 @@
 		"code":"510304108",
 		"fullCode":"510304108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙坝镇",
 		"parentCode":"510304"
 	},
@@ -115,7 +115,7 @@
 		"code":"510304109",
 		"fullCode":"510304109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回龙镇",
 		"parentCode":"510304"
 	}

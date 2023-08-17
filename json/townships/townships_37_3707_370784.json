@@ -3,7 +3,7 @@
 		"code":"370784001",
 		"fullCode":"370784001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴安街道",
 		"parentCode":"370784"
 	},
@@ -11,7 +11,7 @@
 		"code":"370784003",
 		"fullCode":"370784003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安街道",
 		"parentCode":"370784"
 	},
@@ -19,7 +19,7 @@
 		"code":"370784004",
 		"fullCode":"370784004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凌河街道",
 		"parentCode":"370784"
 	},
@@ -27,7 +27,7 @@
 		"code":"370784100",
 		"fullCode":"370784100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景芝镇",
 		"parentCode":"370784"
 	},
@@ -35,7 +35,7 @@
 		"code":"370784104",
 		"fullCode":"370784104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官庄镇",
 		"parentCode":"370784"
 	},
@@ -43,7 +43,7 @@
 		"code":"370784107",
 		"fullCode":"370784107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大盛镇",
 		"parentCode":"370784"
 	},
@@ -51,7 +51,7 @@
 		"code":"370784111",
 		"fullCode":"370784111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石埠子镇",
 		"parentCode":"370784"
 	},
@@ -59,7 +59,7 @@
 		"code":"370784112",
 		"fullCode":"370784112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石堆镇",
 		"parentCode":"370784"
 	},
@@ -67,7 +67,7 @@
 		"code":"370784118",
 		"fullCode":"370784118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柘山镇",
 		"parentCode":"370784"
 	},
@@ -75,7 +75,7 @@
 		"code":"370784119",
 		"fullCode":"370784119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辉渠镇",
 		"parentCode":"370784"
 	},
@@ -83,7 +83,7 @@
 		"code":"370784120",
 		"fullCode":"370784120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吾山镇",
 		"parentCode":"370784"
 	},
@@ -91,7 +91,7 @@
 		"code":"370784121",
 		"fullCode":"370784121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金冢子镇",
 		"parentCode":"370784"
 	}

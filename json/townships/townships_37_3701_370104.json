@@ -3,7 +3,7 @@
 		"code":"370104001",
 		"fullCode":"370104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振兴街街道",
 		"parentCode":"370104"
 	},
@@ -11,7 +11,7 @@
 		"code":"370104002",
 		"fullCode":"370104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中大槐树街道",
 		"parentCode":"370104"
 	},
@@ -19,7 +19,7 @@
 		"code":"370104003",
 		"fullCode":"370104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道德街街道",
 		"parentCode":"370104"
 	},
@@ -27,7 +27,7 @@
 		"code":"370104004",
 		"fullCode":"370104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西市场街道",
 		"parentCode":"370104"
 	},
@@ -35,7 +35,7 @@
 		"code":"370104005",
 		"fullCode":"370104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里沟街道",
 		"parentCode":"370104"
 	},
@@ -43,7 +43,7 @@
 		"code":"370104006",
 		"fullCode":"370104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营市街街道",
 		"parentCode":"370104"
 	},
@@ -51,7 +51,7 @@
 		"code":"370104007",
 		"fullCode":"370104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青年公园街道",
 		"parentCode":"370104"
 	},
@@ -59,7 +59,7 @@
 		"code":"370104008",
 		"fullCode":"370104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南辛庄街道",
 		"parentCode":"370104"
 	},
@@ -67,7 +67,7 @@
 		"code":"370104009",
 		"fullCode":"370104009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段店北路街道",
 		"parentCode":"370104"
 	},
@@ -75,7 +75,7 @@
 		"code":"370104010",
 		"fullCode":"370104010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张庄路街道",
 		"parentCode":"370104"
 	},
@@ -83,7 +83,7 @@
 		"code":"370104011",
 		"fullCode":"370104011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"匡山街道",
 		"parentCode":"370104"
 	},
@@ -91,7 +91,7 @@
 		"code":"370104012",
 		"fullCode":"370104012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美里湖街道",
 		"parentCode":"370104"
 	},
@@ -99,7 +99,7 @@
 		"code":"370104013",
 		"fullCode":"370104013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腊山街道",
 		"parentCode":"370104"
 	},
@@ -107,7 +107,7 @@
 		"code":"370104014",
 		"fullCode":"370104014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴福街道",
 		"parentCode":"370104"
 	},
@@ -115,7 +115,7 @@
 		"code":"370104015",
 		"fullCode":"370104015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉清湖街道",
 		"parentCode":"370104"
 	},
@@ -123,7 +123,7 @@
 		"code":"370104016",
 		"fullCode":"370104016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴家堡街道",
 		"parentCode":"370104"
 	}

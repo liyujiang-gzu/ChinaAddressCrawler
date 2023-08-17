@@ -3,7 +3,7 @@
 		"code":"360302",
 		"fullCode":"360302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安源区",
 		"parentCode":"3603"
 	},
@@ -11,7 +11,7 @@
 		"code":"360313",
 		"fullCode":"360313000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"湘东区",
 		"parentCode":"3603"
 	},
@@ -19,7 +19,7 @@
 		"code":"360321",
 		"fullCode":"360321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"莲花县",
 		"parentCode":"3603"
 	},
@@ -27,7 +27,7 @@
 		"code":"360322",
 		"fullCode":"360322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"上栗县",
 		"parentCode":"3603"
 	},
@@ -35,7 +35,7 @@
 		"code":"360323",
 		"fullCode":"360323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"芦溪县",
 		"parentCode":"3603"
 	}

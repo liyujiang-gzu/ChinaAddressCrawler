@@ -3,7 +3,7 @@
 		"code":"130723100",
 		"fullCode":"130723100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康保镇",
 		"parentCode":"130723"
 	},
@@ -11,7 +11,7 @@
 		"code":"130723101",
 		"fullCode":"130723101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张纪镇",
 		"parentCode":"130723"
 	},
@@ -19,7 +19,7 @@
 		"code":"130723102",
 		"fullCode":"130723102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土城子镇",
 		"parentCode":"130723"
 	},
@@ -27,7 +27,7 @@
 		"code":"130723103",
 		"fullCode":"130723103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓油坊镇",
 		"parentCode":"130723"
 	},
@@ -35,7 +35,7 @@
 		"code":"130723104",
 		"fullCode":"130723104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家地镇",
 		"parentCode":"130723"
 	},
@@ -43,7 +43,7 @@
 		"code":"130723105",
 		"fullCode":"130723105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"照阳河镇",
 		"parentCode":"130723"
 	},
@@ -51,7 +51,7 @@
 		"code":"130723106",
 		"fullCode":"130723106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屯垦镇",
 		"parentCode":"130723"
 	},
@@ -59,7 +59,7 @@
 		"code":"130723200",
 		"fullCode":"130723200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闫油坊乡",
 		"parentCode":"130723"
 	},
@@ -67,7 +67,7 @@
 		"code":"130723201",
 		"fullCode":"130723201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹清河乡",
 		"parentCode":"130723"
 	},
@@ -75,7 +75,7 @@
 		"code":"130723202",
 		"fullCode":"130723202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈咇嘎乡",
 		"parentCode":"130723"
 	},
@@ -83,7 +83,7 @@
 		"code":"130723203",
 		"fullCode":"130723203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二号卜乡",
 		"parentCode":"130723"
 	},
@@ -91,7 +91,7 @@
 		"code":"130723204",
 		"fullCode":"130723204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦家营乡",
 		"parentCode":"130723"
 	},
@@ -99,7 +99,7 @@
 		"code":"130723205",
 		"fullCode":"130723205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忠义乡",
 		"parentCode":"130723"
 	},
@@ -107,7 +107,7 @@
 		"code":"130723206",
 		"fullCode":"130723206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"处长地乡",
 		"parentCode":"130723"
 	},
@@ -115,7 +115,7 @@
 		"code":"130723207",
 		"fullCode":"130723207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满德堂乡",
 		"parentCode":"130723"
 	},
@@ -123,7 +123,7 @@
 		"code":"130723500",
 		"fullCode":"130723500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康保牧场",
 		"parentCode":"130723"
 	},
@@ -131,7 +131,7 @@
 		"code":"130723501",
 		"fullCode":"130723501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屯垦林场",
 		"parentCode":"130723"
 	}

@@ -3,7 +3,7 @@
 		"code":"371722001",
 		"fullCode":"371722001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"371722"
 	},
@@ -11,7 +11,7 @@
 		"code":"371722002",
 		"fullCode":"371722002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城街道",
 		"parentCode":"371722"
 	},
@@ -19,7 +19,7 @@
 		"code":"371722003",
 		"fullCode":"371722003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"园艺街道",
 		"parentCode":"371722"
 	},
@@ -27,7 +27,7 @@
 		"code":"371722004",
 		"fullCode":"371722004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"371722"
 	},
@@ -35,7 +35,7 @@
 		"code":"371722101",
 		"fullCode":"371722101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭村镇",
 		"parentCode":"371722"
 	},
@@ -43,7 +43,7 @@
 		"code":"371722102",
 		"fullCode":"371722102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄岗镇",
 		"parentCode":"371722"
 	},
@@ -51,7 +51,7 @@
 		"code":"371722103",
 		"fullCode":"371722103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"终兴镇",
 		"parentCode":"371722"
 	},
@@ -59,7 +59,7 @@
 		"code":"371722105",
 		"fullCode":"371722105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高韦庄镇",
 		"parentCode":"371722"
 	},
@@ -67,7 +67,7 @@
 		"code":"371722106",
 		"fullCode":"371722106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐寨镇",
 		"parentCode":"371722"
 	},
@@ -75,7 +75,7 @@
 		"code":"371722107",
 		"fullCode":"371722107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡堂镇",
 		"parentCode":"371722"
 	},
@@ -83,7 +83,7 @@
 		"code":"371722108",
 		"fullCode":"371722108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱集镇",
 		"parentCode":"371722"
 	},
@@ -91,7 +91,7 @@
 		"code":"371722109",
 		"fullCode":"371722109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李新庄镇",
 		"parentCode":"371722"
 	},
@@ -99,7 +99,7 @@
 		"code":"371722110",
 		"fullCode":"371722110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浮岗镇",
 		"parentCode":"371722"
 	},
@@ -107,7 +107,7 @@
 		"code":"371722111",
 		"fullCode":"371722111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莱河镇",
 		"parentCode":"371722"
 	},
@@ -115,7 +115,7 @@
 		"code":"371722112",
 		"fullCode":"371722112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"时楼镇",
 		"parentCode":"371722"
 	},
@@ -123,7 +123,7 @@
 		"code":"371722113",
 		"fullCode":"371722113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨楼镇",
 		"parentCode":"371722"
 	},
@@ -131,7 +131,7 @@
 		"code":"371722114",
 		"fullCode":"371722114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张集镇",
 		"parentCode":"371722"
 	},
@@ -139,7 +139,7 @@
 		"code":"371722115",
 		"fullCode":"371722115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙王庙镇",
 		"parentCode":"371722"
 	},
@@ -147,7 +147,7 @@
 		"code":"371722116",
 		"fullCode":"371722116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢集镇",
 		"parentCode":"371722"
 	},
@@ -155,7 +155,7 @@
 		"code":"371722117",
 		"fullCode":"371722117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李田楼镇",
 		"parentCode":"371722"
 	},
@@ -163,7 +163,7 @@
 		"code":"371722201",
 		"fullCode":"371722201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高老家乡",
 		"parentCode":"371722"
 	},
@@ -171,7 +171,7 @@
 		"code":"371722202",
 		"fullCode":"371722202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹庄乡",
 		"parentCode":"371722"
 	}

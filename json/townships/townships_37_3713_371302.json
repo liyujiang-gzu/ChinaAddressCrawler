@@ -3,7 +3,7 @@
 		"code":"371302001",
 		"fullCode":"371302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰山街道",
 		"parentCode":"371302"
 	},
@@ -11,7 +11,7 @@
 		"code":"371302002",
 		"fullCode":"371302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银雀山街道",
 		"parentCode":"371302"
 	},
@@ -19,7 +19,7 @@
 		"code":"371302003",
 		"fullCode":"371302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金雀山街道",
 		"parentCode":"371302"
 	},
@@ -27,7 +27,7 @@
 		"code":"371302004",
 		"fullCode":"371302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳青街道",
 		"parentCode":"371302"
 	},
@@ -35,7 +35,7 @@
 		"code":"371302101",
 		"fullCode":"371302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙埠镇",
 		"parentCode":"371302"
 	},
@@ -43,7 +43,7 @@
 		"code":"371302102",
 		"fullCode":"371302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣园镇",
 		"parentCode":"371302"
 	},
@@ -51,7 +51,7 @@
 		"code":"371302103",
 		"fullCode":"371302103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半程镇",
 		"parentCode":"371302"
 	},
@@ -59,7 +59,7 @@
 		"code":"371302105",
 		"fullCode":"371302105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义堂镇",
 		"parentCode":"371302"
 	},
@@ -67,7 +67,7 @@
 		"code":"371302107",
 		"fullCode":"371302107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李官镇",
 		"parentCode":"371302"
 	},
@@ -75,7 +75,7 @@
 		"code":"371302109",
 		"fullCode":"371302109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方城镇",
 		"parentCode":"371302"
 	},
@@ -83,7 +83,7 @@
 		"code":"371302110",
 		"fullCode":"371302110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪沟镇",
 		"parentCode":"371302"
 	}

@@ -3,7 +3,7 @@
 		"code":"654004001",
 		"fullCode":"654004001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡拉苏街道",
 		"parentCode":"654004"
 	},
@@ -11,7 +11,7 @@
 		"code":"654004002",
 		"fullCode":"654004002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚欧东路街道",
 		"parentCode":"654004"
 	},
@@ -19,7 +19,7 @@
 		"code":"654004003",
 		"fullCode":"654004003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚欧西路街道",
 		"parentCode":"654004"
 	},
@@ -27,7 +27,7 @@
 		"code":"654004004",
 		"fullCode":"654004004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工业园区街道",
 		"parentCode":"654004"
 	},
@@ -35,7 +35,7 @@
 		"code":"654004200",
 		"fullCode":"654004200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊车嘎善乡",
 		"parentCode":"654004"
 	},
@@ -43,7 +43,7 @@
 		"code":"654004505",
 		"fullCode":"654004505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团六十一团",
 		"parentCode":"654004"
 	},
@@ -51,7 +51,7 @@
 		"code":"654004506",
 		"fullCode":"654004506000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团六十二团",
 		"parentCode":"654004"
 	}

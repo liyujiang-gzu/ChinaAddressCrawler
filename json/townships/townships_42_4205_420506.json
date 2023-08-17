@@ -3,7 +3,7 @@
 		"code":"420506001",
 		"fullCode":"420506001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小溪塔街道",
 		"parentCode":"420506"
 	},
@@ -11,7 +11,7 @@
 		"code":"420506101",
 		"fullCode":"420506101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樟村坪镇",
 		"parentCode":"420506"
 	},
@@ -19,7 +19,7 @@
 		"code":"420506102",
 		"fullCode":"420506102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雾渡河镇",
 		"parentCode":"420506"
 	},
@@ -27,7 +27,7 @@
 		"code":"420506103",
 		"fullCode":"420506103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"分乡镇",
 		"parentCode":"420506"
 	},
@@ -35,7 +35,7 @@
 		"code":"420506104",
 		"fullCode":"420506104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平溪镇",
 		"parentCode":"420506"
 	},
@@ -43,7 +43,7 @@
 		"code":"420506105",
 		"fullCode":"420506105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三斗坪镇",
 		"parentCode":"420506"
 	},
@@ -51,7 +51,7 @@
 		"code":"420506106",
 		"fullCode":"420506106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐天溪镇",
 		"parentCode":"420506"
 	},
@@ -59,7 +59,7 @@
 		"code":"420506107",
 		"fullCode":"420506107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉镇",
 		"parentCode":"420506"
 	},
@@ -67,7 +67,7 @@
 		"code":"420506108",
 		"fullCode":"420506108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸦鹊岭镇",
 		"parentCode":"420506"
 	},
@@ -75,7 +75,7 @@
 		"code":"420506109",
 		"fullCode":"420506109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄花镇",
 		"parentCode":"420506"
 	},
@@ -83,7 +83,7 @@
 		"code":"420506201",
 		"fullCode":"420506201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下堡坪乡",
 		"parentCode":"420506"
 	},
@@ -91,7 +91,7 @@
 		"code":"420506202",
 		"fullCode":"420506202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓村乡",
 		"parentCode":"420506"
 	},
@@ -99,7 +99,7 @@
 		"code":"420506401",
 		"fullCode":"420506401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三峡坝区",
 		"parentCode":"420506"
 	},
@@ -107,7 +107,7 @@
 		"code":"420506402",
 		"fullCode":"420506402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城城乡统筹发展试验区",
 		"parentCode":"420506"
 	}

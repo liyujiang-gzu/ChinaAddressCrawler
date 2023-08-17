@@ -3,7 +3,7 @@
 		"code":"130102",
 		"fullCode":"130102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长安区",
 		"parentCode":"1301"
 	},
@@ -11,7 +11,7 @@
 		"code":"130104",
 		"fullCode":"130104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桥西区",
 		"parentCode":"1301"
 	},
@@ -19,7 +19,7 @@
 		"code":"130105",
 		"fullCode":"130105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新华区",
 		"parentCode":"1301"
 	},
@@ -27,7 +27,7 @@
 		"code":"130107",
 		"fullCode":"130107000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"井陉矿区",
 		"parentCode":"1301"
 	},
@@ -35,7 +35,7 @@
 		"code":"130108",
 		"fullCode":"130108000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"裕华区",
 		"parentCode":"1301"
 	},
@@ -43,7 +43,7 @@
 		"code":"130109",
 		"fullCode":"130109000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"藁城区",
 		"parentCode":"1301"
 	},
@@ -51,7 +51,7 @@
 		"code":"130110",
 		"fullCode":"130110000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鹿泉区",
 		"parentCode":"1301"
 	},
@@ -59,7 +59,7 @@
 		"code":"130111",
 		"fullCode":"130111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"栾城区",
 		"parentCode":"1301"
 	},
@@ -67,7 +67,7 @@
 		"code":"130121",
 		"fullCode":"130121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"井陉县",
 		"parentCode":"1301"
 	},
@@ -75,7 +75,7 @@
 		"code":"130123",
 		"fullCode":"130123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"正定县",
 		"parentCode":"1301"
 	},
@@ -83,7 +83,7 @@
 		"code":"130125",
 		"fullCode":"130125000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"行唐县",
 		"parentCode":"1301"
 	},
@@ -91,7 +91,7 @@
 		"code":"130126",
 		"fullCode":"130126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"灵寿县",
 		"parentCode":"1301"
 	},
@@ -99,7 +99,7 @@
 		"code":"130127",
 		"fullCode":"130127000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"高邑县",
 		"parentCode":"1301"
 	},
@@ -107,7 +107,7 @@
 		"code":"130128",
 		"fullCode":"130128000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"深泽县",
 		"parentCode":"1301"
 	},
@@ -115,7 +115,7 @@
 		"code":"130129",
 		"fullCode":"130129000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"赞皇县",
 		"parentCode":"1301"
 	},
@@ -123,7 +123,7 @@
 		"code":"130130",
 		"fullCode":"130130000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"无极县",
 		"parentCode":"1301"
 	},
@@ -131,7 +131,7 @@
 		"code":"130131",
 		"fullCode":"130131000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平山县",
 		"parentCode":"1301"
 	},
@@ -139,7 +139,7 @@
 		"code":"130132",
 		"fullCode":"130132000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"元氏县",
 		"parentCode":"1301"
 	},
@@ -147,7 +147,7 @@
 		"code":"130133",
 		"fullCode":"130133000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"赵县",
 		"parentCode":"1301"
 	},
@@ -155,7 +155,7 @@
 		"code":"130171",
 		"fullCode":"130171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石家庄高新技术产业开发区",
 		"parentCode":"1301"
 	},
@@ -163,7 +163,7 @@
 		"code":"130172",
 		"fullCode":"130172000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石家庄循环化工园区",
 		"parentCode":"1301"
 	},
@@ -171,7 +171,7 @@
 		"code":"130181",
 		"fullCode":"130181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"辛集市",
 		"parentCode":"1301"
 	},
@@ -179,7 +179,7 @@
 		"code":"130183",
 		"fullCode":"130183000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"晋州市",
 		"parentCode":"1301"
 	},
@@ -187,7 +187,7 @@
 		"code":"130184",
 		"fullCode":"130184000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新乐市",
 		"parentCode":"1301"
 	}

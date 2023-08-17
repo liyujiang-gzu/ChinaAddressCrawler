@@ -3,7 +3,7 @@
 		"code":"371525001",
 		"fullCode":"371525001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清泉街道",
 		"parentCode":"371525"
 	},
@@ -11,7 +11,7 @@
 		"code":"371525002",
 		"fullCode":"371525002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇文街道",
 		"parentCode":"371525"
 	},
@@ -19,7 +19,7 @@
 		"code":"371525003",
 		"fullCode":"371525003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烟庄街道",
 		"parentCode":"371525"
 	},
@@ -27,7 +27,7 @@
 		"code":"371525101",
 		"fullCode":"371525101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾镇",
 		"parentCode":"371525"
 	},
@@ -35,7 +35,7 @@
 		"code":"371525102",
 		"fullCode":"371525102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑阿镇",
 		"parentCode":"371525"
 	},
@@ -43,7 +43,7 @@
 		"code":"371525103",
 		"fullCode":"371525103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳林镇",
 		"parentCode":"371525"
 	},
@@ -51,7 +51,7 @@
 		"code":"371525104",
 		"fullCode":"371525104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水镇",
 		"parentCode":"371525"
 	},
@@ -59,7 +59,7 @@
 		"code":"371525105",
 		"fullCode":"371525105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东古城镇",
 		"parentCode":"371525"
 	},
@@ -67,7 +67,7 @@
 		"code":"371525106",
 		"fullCode":"371525106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北馆陶镇",
 		"parentCode":"371525"
 	},
@@ -75,7 +75,7 @@
 		"code":"371525107",
 		"fullCode":"371525107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店子镇",
 		"parentCode":"371525"
 	},
@@ -83,7 +83,7 @@
 		"code":"371525108",
 		"fullCode":"371525108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定远寨镇",
 		"parentCode":"371525"
 	},
@@ -91,7 +91,7 @@
 		"code":"371525109",
 		"fullCode":"371525109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛集镇",
 		"parentCode":"371525"
 	},
@@ -99,7 +99,7 @@
 		"code":"371525110",
 		"fullCode":"371525110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁堂镇",
 		"parentCode":"371525"
 	},
@@ -107,7 +107,7 @@
 		"code":"371525111",
 		"fullCode":"371525111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范寨镇",
 		"parentCode":"371525"
 	},
@@ -115,7 +115,7 @@
 		"code":"371525112",
 		"fullCode":"371525112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘官屯镇",
 		"parentCode":"371525"
 	},
@@ -123,7 +123,7 @@
 		"code":"371525200",
 		"fullCode":"371525200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斜店乡",
 		"parentCode":"371525"
 	},
@@ -131,7 +131,7 @@
 		"code":"371525206",
 		"fullCode":"371525206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰沃乡",
 		"parentCode":"371525"
 	},
@@ -139,7 +139,7 @@
 		"code":"371525209",
 		"fullCode":"371525209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万善乡",
 		"parentCode":"371525"
 	}

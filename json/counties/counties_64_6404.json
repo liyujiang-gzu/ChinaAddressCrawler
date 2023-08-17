@@ -3,7 +3,7 @@
 		"code":"640402",
 		"fullCode":"640402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"原州区",
 		"parentCode":"6404"
 	},
@@ -11,7 +11,7 @@
 		"code":"640422",
 		"fullCode":"640422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西吉县",
 		"parentCode":"6404"
 	},
@@ -19,7 +19,7 @@
 		"code":"640423",
 		"fullCode":"640423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"隆德县",
 		"parentCode":"6404"
 	},
@@ -27,7 +27,7 @@
 		"code":"640424",
 		"fullCode":"640424000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泾源县",
 		"parentCode":"6404"
 	},
@@ -35,7 +35,7 @@
 		"code":"640425",
 		"fullCode":"640425000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"彭阳县",
 		"parentCode":"6404"
 	}

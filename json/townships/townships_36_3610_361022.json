@@ -3,7 +3,7 @@
 		"code":"361022100",
 		"fullCode":"361022100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日峰镇",
 		"parentCode":"361022"
 	},
@@ -11,7 +11,7 @@
 		"code":"361022101",
 		"fullCode":"361022101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏村镇",
 		"parentCode":"361022"
 	},
@@ -19,7 +19,7 @@
 		"code":"361022102",
 		"fullCode":"361022102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洵口镇",
 		"parentCode":"361022"
 	},
@@ -27,7 +27,7 @@
 		"code":"361022103",
 		"fullCode":"361022103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"熊村镇",
 		"parentCode":"361022"
 	},
@@ -35,7 +35,7 @@
 		"code":"361022104",
 		"fullCode":"361022104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙安镇",
 		"parentCode":"361022"
 	},
@@ -43,7 +43,7 @@
 		"code":"361022105",
 		"fullCode":"361022105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德胜镇",
 		"parentCode":"361022"
 	},
@@ -51,7 +51,7 @@
 		"code":"361022106",
 		"fullCode":"361022106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华山镇",
 		"parentCode":"361022"
 	},
@@ -59,7 +59,7 @@
 		"code":"361022200",
 		"fullCode":"361022200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭溪乡",
 		"parentCode":"361022"
 	},
@@ -67,7 +67,7 @@
 		"code":"361022201",
 		"fullCode":"361022201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖坊乡",
 		"parentCode":"361022"
 	},
@@ -75,7 +75,7 @@
 		"code":"361022202",
 		"fullCode":"361022202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷源乡",
 		"parentCode":"361022"
 	},
@@ -83,7 +83,7 @@
 		"code":"361022203",
 		"fullCode":"361022203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"厚村乡",
 		"parentCode":"361022"
 	},
@@ -91,7 +91,7 @@
 		"code":"361022204",
 		"fullCode":"361022204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"社苹乡",
 		"parentCode":"361022"
 	},
@@ -99,7 +99,7 @@
 		"code":"361022205",
 		"fullCode":"361022205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樟溪乡",
 		"parentCode":"361022"
 	},
@@ -107,7 +107,7 @@
 		"code":"361022206",
 		"fullCode":"361022206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城乡",
 		"parentCode":"361022"
 	},
@@ -115,7 +115,7 @@
 		"code":"361022207",
 		"fullCode":"361022207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中田乡",
 		"parentCode":"361022"
 	},
@@ -123,7 +123,7 @@
 		"code":"361022401",
 		"fullCode":"361022401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎川县工业园区管理委员会",
 		"parentCode":"361022"
 	},
@@ -131,7 +131,7 @@
 		"code":"361022500",
 		"fullCode":"361022500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德胜企业集团",
 		"parentCode":"361022"
 	}

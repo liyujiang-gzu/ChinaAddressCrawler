@@ -3,7 +3,7 @@
 		"code":"520402",
 		"fullCode":"520402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西秀区",
 		"parentCode":"5204"
 	},
@@ -11,7 +11,7 @@
 		"code":"520403",
 		"fullCode":"520403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平坝区",
 		"parentCode":"5204"
 	},
@@ -19,7 +19,7 @@
 		"code":"520422",
 		"fullCode":"520422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"普定县",
 		"parentCode":"5204"
 	},
@@ -27,7 +27,7 @@
 		"code":"520423",
 		"fullCode":"520423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"镇宁布依族苗族自治县",
 		"parentCode":"5204"
 	},
@@ -35,7 +35,7 @@
 		"code":"520424",
 		"fullCode":"520424000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"关岭布依族苗族自治县",
 		"parentCode":"5204"
 	},
@@ -43,7 +43,7 @@
 		"code":"520425",
 		"fullCode":"520425000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"紫云苗族布依族自治县",
 		"parentCode":"5204"
 	}

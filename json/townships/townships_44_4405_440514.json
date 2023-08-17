@@ -3,7 +3,7 @@
 		"code":"440514001",
 		"fullCode":"440514001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峡山街道",
 		"parentCode":"440514"
 	},
@@ -11,7 +11,7 @@
 		"code":"440514101",
 		"fullCode":"440514101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井都镇",
 		"parentCode":"440514"
 	},
@@ -19,7 +19,7 @@
 		"code":"440514103",
 		"fullCode":"440514103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"成田镇",
 		"parentCode":"440514"
 	},
@@ -27,7 +27,7 @@
 		"code":"440514104",
 		"fullCode":"440514104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"司马浦镇",
 		"parentCode":"440514"
 	},
@@ -35,7 +35,7 @@
 		"code":"440514105",
 		"fullCode":"440514105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈店镇",
 		"parentCode":"440514"
 	},
@@ -43,7 +43,7 @@
 		"code":"440514106",
 		"fullCode":"440514106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两英镇",
 		"parentCode":"440514"
 	},
@@ -51,7 +51,7 @@
 		"code":"440514107",
 		"fullCode":"440514107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙城镇",
 		"parentCode":"440514"
 	},
@@ -59,7 +59,7 @@
 		"code":"440514108",
 		"fullCode":"440514108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胪岗镇",
 		"parentCode":"440514"
 	},
@@ -67,7 +67,7 @@
 		"code":"440514109",
 		"fullCode":"440514109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红场镇",
 		"parentCode":"440514"
 	},
@@ -75,7 +75,7 @@
 		"code":"440514110",
 		"fullCode":"440514110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷岭镇",
 		"parentCode":"440514"
 	},
@@ -83,7 +83,7 @@
 		"code":"440514112",
 		"fullCode":"440514112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陇田镇",
 		"parentCode":"440514"
 	}

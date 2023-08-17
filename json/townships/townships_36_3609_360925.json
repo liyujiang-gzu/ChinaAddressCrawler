@@ -3,7 +3,7 @@
 		"code":"360925100",
 		"fullCode":"360925100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双溪镇",
 		"parentCode":"360925"
 	},
@@ -11,7 +11,7 @@
 		"code":"360925101",
 		"fullCode":"360925101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁首镇",
 		"parentCode":"360925"
 	},
@@ -19,7 +19,7 @@
 		"code":"360925102",
 		"fullCode":"360925102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝峰镇",
 		"parentCode":"360925"
 	},
@@ -27,7 +27,7 @@
 		"code":"360925103",
 		"fullCode":"360925103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高湖镇",
 		"parentCode":"360925"
 	},
@@ -35,7 +35,7 @@
 		"code":"360925104",
 		"fullCode":"360925104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"璪都镇",
 		"parentCode":"360925"
 	},
@@ -43,7 +43,7 @@
 		"code":"360925105",
 		"fullCode":"360925105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官庄镇",
 		"parentCode":"360925"
 	},
@@ -51,7 +51,7 @@
 		"code":"360925200",
 		"fullCode":"360925200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香田乡",
 		"parentCode":"360925"
 	},
@@ -59,7 +59,7 @@
 		"code":"360925201",
 		"fullCode":"360925201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口乡",
 		"parentCode":"360925"
 	},
@@ -67,7 +67,7 @@
 		"code":"360925202",
 		"fullCode":"360925202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中源乡",
 		"parentCode":"360925"
 	},
@@ -75,7 +75,7 @@
 		"code":"360925205",
 		"fullCode":"360925205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三爪仑乡",
 		"parentCode":"360925"
 	},
@@ -83,7 +83,7 @@
 		"code":"360925206",
 		"fullCode":"360925206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷公尖乡",
 		"parentCode":"360925"
 	},
@@ -91,7 +91,7 @@
 		"code":"360925400",
 		"fullCode":"360925400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖安县工业园区",
 		"parentCode":"360925"
 	}

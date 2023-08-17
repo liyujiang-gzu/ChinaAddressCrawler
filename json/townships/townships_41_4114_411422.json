@@ -3,7 +3,7 @@
 		"code":"411422001",
 		"fullCode":"411422001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤城街道",
 		"parentCode":"411422"
 	},
@@ -11,7 +11,7 @@
 		"code":"411422002",
 		"fullCode":"411422002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董店街道",
 		"parentCode":"411422"
 	},
@@ -19,7 +19,7 @@
 		"code":"411422100",
 		"fullCode":"411422100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岗镇",
 		"parentCode":"411422"
 	},
@@ -27,7 +27,7 @@
 		"code":"411422101",
 		"fullCode":"411422101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平岗镇",
 		"parentCode":"411422"
 	},
@@ -35,7 +35,7 @@
 		"code":"411422102",
 		"fullCode":"411422102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周堂镇",
 		"parentCode":"411422"
 	},
@@ -43,7 +43,7 @@
 		"code":"411422103",
 		"fullCode":"411422103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓼堤镇",
 		"parentCode":"411422"
 	},
@@ -51,7 +51,7 @@
 		"code":"411422104",
 		"fullCode":"411422104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西陵寺镇",
 		"parentCode":"411422"
 	},
@@ -59,7 +59,7 @@
 		"code":"411422105",
 		"fullCode":"411422105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"411422"
 	},
@@ -67,7 +67,7 @@
 		"code":"411422106",
 		"fullCode":"411422106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潮庄镇",
 		"parentCode":"411422"
 	},
@@ -75,7 +75,7 @@
 		"code":"411422107",
 		"fullCode":"411422107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚屯镇",
 		"parentCode":"411422"
 	},
@@ -83,7 +83,7 @@
 		"code":"411422200",
 		"fullCode":"411422200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后台乡",
 		"parentCode":"411422"
 	},
@@ -91,7 +91,7 @@
 		"code":"411422202",
 		"fullCode":"411422202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河集乡",
 		"parentCode":"411422"
 	},
@@ -99,7 +99,7 @@
 		"code":"411422203",
 		"fullCode":"411422203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙聚寨乡",
 		"parentCode":"411422"
 	},
@@ -107,7 +107,7 @@
 		"code":"411422204",
 		"fullCode":"411422204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白楼乡",
 		"parentCode":"411422"
 	},
@@ -115,7 +115,7 @@
 		"code":"411422205",
 		"fullCode":"411422205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河堤乡",
 		"parentCode":"411422"
 	},
@@ -123,7 +123,7 @@
 		"code":"411422206",
 		"fullCode":"411422206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白庙乡",
 		"parentCode":"411422"
 	},
@@ -131,7 +131,7 @@
 		"code":"411422207",
 		"fullCode":"411422207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡堂乡",
 		"parentCode":"411422"
 	},
@@ -139,7 +139,7 @@
 		"code":"411422208",
 		"fullCode":"411422208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尤吉屯乡",
 		"parentCode":"411422"
 	},
@@ -147,7 +147,7 @@
 		"code":"411422211",
 		"fullCode":"411422211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涧岗乡",
 		"parentCode":"411422"
 	},
@@ -155,7 +155,7 @@
 		"code":"411422213",
 		"fullCode":"411422213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"匡城乡",
 		"parentCode":"411422"
 	}

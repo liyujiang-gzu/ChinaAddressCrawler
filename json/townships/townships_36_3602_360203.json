@@ -3,7 +3,7 @@
 		"code":"360203001",
 		"fullCode":"360203001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石狮埠街道",
 		"parentCode":"360203"
 	},
@@ -11,7 +11,7 @@
 		"code":"360203002",
 		"fullCode":"360203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新厂街道",
 		"parentCode":"360203"
 	},
@@ -19,7 +19,7 @@
 		"code":"360203003",
 		"fullCode":"360203003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里村街道",
 		"parentCode":"360203"
 	},
@@ -27,7 +27,7 @@
 		"code":"360203004",
 		"fullCode":"360203004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周路口街道",
 		"parentCode":"360203"
 	},
@@ -35,7 +35,7 @@
 		"code":"360203005",
 		"fullCode":"360203005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌江街道",
 		"parentCode":"360203"
 	},
@@ -43,7 +43,7 @@
 		"code":"360203006",
 		"fullCode":"360203006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新村街道",
 		"parentCode":"360203"
 	},
@@ -51,7 +51,7 @@
 		"code":"360203007",
 		"fullCode":"360203007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠山街道",
 		"parentCode":"360203"
 	},
@@ -59,7 +59,7 @@
 		"code":"360203008",
 		"fullCode":"360203008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太白园街道",
 		"parentCode":"360203"
 	},
@@ -67,7 +67,7 @@
 		"code":"360203009",
 		"fullCode":"360203009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌河街道",
 		"parentCode":"360203"
 	},
@@ -75,7 +75,7 @@
 		"code":"360203011",
 		"fullCode":"360203011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竟成街道",
 		"parentCode":"360203"
 	},
@@ -83,7 +83,7 @@
 		"code":"360203400",
 		"fullCode":"360203400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高新技术开发区",
 		"parentCode":"360203"
 	}

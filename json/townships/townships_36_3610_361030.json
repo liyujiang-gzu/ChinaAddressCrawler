@@ -3,7 +3,7 @@
 		"code":"361030100",
 		"fullCode":"361030100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旴江镇",
 		"parentCode":"361030"
 	},
@@ -11,7 +11,7 @@
 		"code":"361030101",
 		"fullCode":"361030101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头陂镇",
 		"parentCode":"361030"
 	},
@@ -19,7 +19,7 @@
 		"code":"361030103",
 		"fullCode":"361030103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤水镇",
 		"parentCode":"361030"
 	},
@@ -27,7 +27,7 @@
 		"code":"361030104",
 		"fullCode":"361030104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驿前镇",
 		"parentCode":"361030"
 	},
@@ -35,7 +35,7 @@
 		"code":"361030105",
 		"fullCode":"361030105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘竹镇",
 		"parentCode":"361030"
 	},
@@ -43,7 +43,7 @@
 		"code":"361030106",
 		"fullCode":"361030106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘坊镇",
 		"parentCode":"361030"
 	},
@@ -51,7 +51,7 @@
 		"code":"361030200",
 		"fullCode":"361030200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千善乡",
 		"parentCode":"361030"
 	},
@@ -59,7 +59,7 @@
 		"code":"361030201",
 		"fullCode":"361030201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水南圩乡",
 		"parentCode":"361030"
 	},
@@ -67,7 +67,7 @@
 		"code":"361030202",
 		"fullCode":"361030202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长桥乡",
 		"parentCode":"361030"
 	},
@@ -75,7 +75,7 @@
 		"code":"361030203",
 		"fullCode":"361030203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨溪乡",
 		"parentCode":"361030"
 	},
@@ -83,7 +83,7 @@
 		"code":"361030204",
 		"fullCode":"361030204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尖峰乡",
 		"parentCode":"361030"
 	},
@@ -91,7 +91,7 @@
 		"code":"361030400",
 		"fullCode":"361030400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠雷山垦殖场",
 		"parentCode":"361030"
 	},
@@ -99,7 +99,7 @@
 		"code":"361030500",
 		"fullCode":"361030500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广昌县工业园区",
 		"parentCode":"361030"
 	}

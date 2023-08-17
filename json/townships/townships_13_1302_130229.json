@@ -3,7 +3,7 @@
 		"code":"130229001",
 		"fullCode":"130229001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无终街道",
 		"parentCode":"130229"
 	},
@@ -11,7 +11,7 @@
 		"code":"130229100",
 		"fullCode":"130229100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉田镇",
 		"parentCode":"130229"
 	},
@@ -19,7 +19,7 @@
 		"code":"130229101",
 		"fullCode":"130229101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亮甲店镇",
 		"parentCode":"130229"
 	},
@@ -27,7 +27,7 @@
 		"code":"130229102",
 		"fullCode":"130229102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸦鸿桥镇",
 		"parentCode":"130229"
 	},
@@ -35,7 +35,7 @@
 		"code":"130229103",
 		"fullCode":"130229103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窝洛沽镇",
 		"parentCode":"130229"
 	},
@@ -43,7 +43,7 @@
 		"code":"130229104",
 		"fullCode":"130229104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石臼窝镇",
 		"parentCode":"130229"
 	},
@@ -51,7 +51,7 @@
 		"code":"130229105",
 		"fullCode":"130229105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虹桥镇",
 		"parentCode":"130229"
 	},
@@ -59,7 +59,7 @@
 		"code":"130229106",
 		"fullCode":"130229106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"散水头镇",
 		"parentCode":"130229"
 	},
@@ -67,7 +67,7 @@
 		"code":"130229107",
 		"fullCode":"130229107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林南仓镇",
 		"parentCode":"130229"
 	},
@@ -75,7 +75,7 @@
 		"code":"130229108",
 		"fullCode":"130229108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林西镇",
 		"parentCode":"130229"
 	},
@@ -83,7 +83,7 @@
 		"code":"130229109",
 		"fullCode":"130229109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家板桥镇",
 		"parentCode":"130229"
 	},
@@ -91,7 +91,7 @@
 		"code":"130229110",
 		"fullCode":"130229110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彩亭桥镇",
 		"parentCode":"130229"
 	},
@@ -99,7 +99,7 @@
 		"code":"130229111",
 		"fullCode":"130229111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孤树镇",
 		"parentCode":"130229"
 	},
@@ -107,7 +107,7 @@
 		"code":"130229112",
 		"fullCode":"130229112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安镇镇",
 		"parentCode":"130229"
 	},
@@ -115,7 +115,7 @@
 		"code":"130229113",
 		"fullCode":"130229113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐自头镇",
 		"parentCode":"130229"
 	},
@@ -123,7 +123,7 @@
 		"code":"130229114",
 		"fullCode":"130229114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭家屯镇",
 		"parentCode":"130229"
 	},
@@ -131,7 +131,7 @@
 		"code":"130229115",
 		"fullCode":"130229115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家套镇",
 		"parentCode":"130229"
 	},
@@ -139,7 +139,7 @@
 		"code":"130229116",
 		"fullCode":"130229116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈家铺镇",
 		"parentCode":"130229"
 	},
@@ -147,7 +147,7 @@
 		"code":"130229201",
 		"fullCode":"130229201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林头屯乡",
 		"parentCode":"130229"
 	},
@@ -155,7 +155,7 @@
 		"code":"130229203",
 		"fullCode":"130229203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潮洛窝乡",
 		"parentCode":"130229"
 	},
@@ -163,7 +163,7 @@
 		"code":"130229205",
 		"fullCode":"130229205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭家桥乡",
 		"parentCode":"130229"
 	},
@@ -171,7 +171,7 @@
 		"code":"130229400",
 		"fullCode":"130229400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北玉田经济开发区",
 		"parentCode":"130229"
 	},
@@ -179,7 +179,7 @@
 		"code":"130229401",
 		"fullCode":"130229401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北唐山国家农业科技园区",
 		"parentCode":"130229"
 	}

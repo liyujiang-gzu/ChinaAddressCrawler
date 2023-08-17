@@ -3,7 +3,7 @@
 		"code":"420607001",
 		"fullCode":"420607001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张湾街道",
 		"parentCode":"420607"
 	},
@@ -11,7 +11,7 @@
 		"code":"420607002",
 		"fullCode":"420607002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘集街道",
 		"parentCode":"420607"
 	},
@@ -19,7 +19,7 @@
 		"code":"420607003",
 		"fullCode":"420607003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖湾街道",
 		"parentCode":"420607"
 	},
@@ -27,7 +27,7 @@
 		"code":"420607004",
 		"fullCode":"420607004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六两河街道",
 		"parentCode":"420607"
 	},
@@ -35,7 +35,7 @@
 		"code":"420607100",
 		"fullCode":"420607100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙王镇",
 		"parentCode":"420607"
 	},
@@ -43,7 +43,7 @@
 		"code":"420607101",
 		"fullCode":"420607101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥镇",
 		"parentCode":"420607"
 	},
@@ -51,7 +51,7 @@
 		"code":"420607102",
 		"fullCode":"420607102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄集镇",
 		"parentCode":"420607"
 	},
@@ -59,7 +59,7 @@
 		"code":"420607103",
 		"fullCode":"420607103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伙牌镇",
 		"parentCode":"420607"
 	},
@@ -67,7 +67,7 @@
 		"code":"420607104",
 		"fullCode":"420607104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古驿镇",
 		"parentCode":"420607"
 	},
@@ -75,7 +75,7 @@
 		"code":"420607105",
 		"fullCode":"420607105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱集镇",
 		"parentCode":"420607"
 	},
@@ -83,7 +83,7 @@
 		"code":"420607106",
 		"fullCode":"420607106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程河镇",
 		"parentCode":"420607"
 	},
@@ -91,7 +91,7 @@
 		"code":"420607107",
 		"fullCode":"420607107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双沟镇",
 		"parentCode":"420607"
 	},
@@ -99,7 +99,7 @@
 		"code":"420607108",
 		"fullCode":"420607108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家集镇",
 		"parentCode":"420607"
 	},
@@ -107,7 +107,7 @@
 		"code":"420607109",
 		"fullCode":"420607109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄龙镇",
 		"parentCode":"420607"
 	},
@@ -115,7 +115,7 @@
 		"code":"420607110",
 		"fullCode":"420607110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峪山镇",
 		"parentCode":"420607"
 	},
@@ -123,7 +123,7 @@
 		"code":"420607111",
 		"fullCode":"420607111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东津镇",
 		"parentCode":"420607"
 	},
@@ -131,7 +131,7 @@
 		"code":"420607402",
 		"fullCode":"420607402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿门风景名胜区",
 		"parentCode":"420607"
 	},
@@ -139,7 +139,7 @@
 		"code":"420607500",
 		"fullCode":"420607500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"襄北农场",
 		"parentCode":"420607"
 	},
@@ -147,7 +147,7 @@
 		"code":"420607570",
 		"fullCode":"420607570000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"深圳工业园",
 		"parentCode":"420607"
 	}

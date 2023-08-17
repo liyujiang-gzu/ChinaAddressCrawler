@@ -3,7 +3,7 @@
 		"code":"371427001",
 		"fullCode":"371427001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银城街道",
 		"parentCode":"371427"
 	},
@@ -11,7 +11,7 @@
 		"code":"371427002",
 		"fullCode":"371427002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"371427"
 	},
@@ -19,7 +19,7 @@
 		"code":"371427100",
 		"fullCode":"371427100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城镇",
 		"parentCode":"371427"
 	},
@@ -27,7 +27,7 @@
 		"code":"371427101",
 		"fullCode":"371427101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏留庄镇",
 		"parentCode":"371427"
 	},
@@ -35,7 +35,7 @@
 		"code":"371427102",
 		"fullCode":"371427102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新盛店镇",
 		"parentCode":"371427"
 	},
@@ -43,7 +43,7 @@
 		"code":"371427103",
 		"fullCode":"371427103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷集镇",
 		"parentCode":"371427"
 	},
@@ -51,7 +51,7 @@
 		"code":"371427104",
 		"fullCode":"371427104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑保屯镇",
 		"parentCode":"371427"
 	},
@@ -59,7 +59,7 @@
 		"code":"371427105",
 		"fullCode":"371427105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马湖镇",
 		"parentCode":"371427"
 	},
@@ -67,7 +67,7 @@
 		"code":"371427106",
 		"fullCode":"371427106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东李官屯镇",
 		"parentCode":"371427"
 	},
@@ -75,7 +75,7 @@
 		"code":"371427107",
 		"fullCode":"371427107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋楼镇",
 		"parentCode":"371427"
 	},
@@ -83,7 +83,7 @@
 		"code":"371427108",
 		"fullCode":"371427108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香赵庄镇",
 		"parentCode":"371427"
 	},
@@ -91,7 +91,7 @@
 		"code":"371427109",
 		"fullCode":"371427109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双庙镇",
 		"parentCode":"371427"
 	},
@@ -99,7 +99,7 @@
 		"code":"371427200",
 		"fullCode":"371427200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渡口驿乡",
 		"parentCode":"371427"
 	},
@@ -107,7 +107,7 @@
 		"code":"371427204",
 		"fullCode":"371427204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田庄乡",
 		"parentCode":"371427"
 	}

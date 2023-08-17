@@ -3,7 +3,7 @@
 		"code":"533324101",
 		"fullCode":"533324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨开镇",
 		"parentCode":"533324"
 	},
@@ -11,7 +11,7 @@
 		"code":"533324102",
 		"fullCode":"533324102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丙中洛镇",
 		"parentCode":"533324"
 	},
@@ -19,7 +19,7 @@
 		"code":"533324202",
 		"fullCode":"533324202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"捧当乡",
 		"parentCode":"533324"
 	},
@@ -27,7 +27,7 @@
 		"code":"533324203",
 		"fullCode":"533324203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普拉底乡",
 		"parentCode":"533324"
 	},
@@ -35,7 +35,7 @@
 		"code":"533324204",
 		"fullCode":"533324204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"独龙江乡",
 		"parentCode":"533324"
 	}

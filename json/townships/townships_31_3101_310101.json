@@ -3,7 +3,7 @@
 		"code":"310101002",
 		"fullCode":"310101002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南京东路街道",
 		"parentCode":"310101"
 	},
@@ -11,7 +11,7 @@
 		"code":"310101013",
 		"fullCode":"310101013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"外滩街道",
 		"parentCode":"310101"
 	},
@@ -19,7 +19,7 @@
 		"code":"310101015",
 		"fullCode":"310101015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半淞园路街道",
 		"parentCode":"310101"
 	},
@@ -27,7 +27,7 @@
 		"code":"310101017",
 		"fullCode":"310101017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小东门街道",
 		"parentCode":"310101"
 	},
@@ -35,7 +35,7 @@
 		"code":"310101018",
 		"fullCode":"310101018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"豫园街道",
 		"parentCode":"310101"
 	},
@@ -43,7 +43,7 @@
 		"code":"310101019",
 		"fullCode":"310101019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老西门街道",
 		"parentCode":"310101"
 	},
@@ -51,7 +51,7 @@
 		"code":"310101020",
 		"fullCode":"310101020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里桥街道",
 		"parentCode":"310101"
 	},
@@ -59,7 +59,7 @@
 		"code":"310101021",
 		"fullCode":"310101021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"打浦桥街道",
 		"parentCode":"310101"
 	},
@@ -67,7 +67,7 @@
 		"code":"310101022",
 		"fullCode":"310101022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淮海中路街道",
 		"parentCode":"310101"
 	},
@@ -75,7 +75,7 @@
 		"code":"310101023",
 		"fullCode":"310101023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑞金二路街道",
 		"parentCode":"310101"
 	}

@@ -3,7 +3,7 @@
 		"code":"410422001",
 		"fullCode":"410422001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙街道",
 		"parentCode":"410422"
 	},
@@ -11,7 +11,7 @@
 		"code":"410422002",
 		"fullCode":"410422002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆阳街道",
 		"parentCode":"410422"
 	},
@@ -19,7 +19,7 @@
 		"code":"410422003",
 		"fullCode":"410422003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐都街道",
 		"parentCode":"410422"
 	},
@@ -27,7 +27,7 @@
 		"code":"410422101",
 		"fullCode":"410422101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"任店镇",
 		"parentCode":"410422"
 	},
@@ -35,7 +35,7 @@
 		"code":"410422102",
 		"fullCode":"410422102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保安镇",
 		"parentCode":"410422"
 	},
@@ -43,7 +43,7 @@
 		"code":"410422103",
 		"fullCode":"410422103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙台镇",
 		"parentCode":"410422"
 	},
@@ -51,7 +51,7 @@
 		"code":"410422105",
 		"fullCode":"410422105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叶邑镇",
 		"parentCode":"410422"
 	},
@@ -59,7 +59,7 @@
 		"code":"410422106",
 		"fullCode":"410422106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"廉村镇",
 		"parentCode":"410422"
 	},
@@ -67,7 +67,7 @@
 		"code":"410422107",
 		"fullCode":"410422107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常村镇",
 		"parentCode":"410422"
 	},
@@ -75,7 +75,7 @@
 		"code":"410422108",
 		"fullCode":"410422108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛店镇",
 		"parentCode":"410422"
 	},
@@ -83,7 +83,7 @@
 		"code":"410422109",
 		"fullCode":"410422109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪庄杨镇",
 		"parentCode":"410422"
 	},
@@ -91,7 +91,7 @@
 		"code":"410422110",
 		"fullCode":"410422110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龚店镇",
 		"parentCode":"410422"
 	},
@@ -99,7 +99,7 @@
 		"code":"410422201",
 		"fullCode":"410422201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏李乡",
 		"parentCode":"410422"
 	},
@@ -107,7 +107,7 @@
 		"code":"410422203",
 		"fullCode":"410422203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马庄回族乡",
 		"parentCode":"410422"
 	},
@@ -115,7 +115,7 @@
 		"code":"410422204",
 		"fullCode":"410422204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田庄乡",
 		"parentCode":"410422"
 	},
@@ -123,7 +123,7 @@
 		"code":"410422207",
 		"fullCode":"410422207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉乡",
 		"parentCode":"410422"
 	},
@@ -131,7 +131,7 @@
 		"code":"410422208",
 		"fullCode":"410422208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水寨乡",
 		"parentCode":"410422"
 	},
@@ -139,7 +139,7 @@
 		"code":"410422210",
 		"fullCode":"410422210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓李乡",
 		"parentCode":"410422"
 	}

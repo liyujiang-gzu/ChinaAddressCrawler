@@ -3,7 +3,7 @@
 		"code":"410472001",
 		"fullCode":"410472001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖滨路街道",
 		"parentCode":"410472"
 	},
@@ -11,7 +11,7 @@
 		"code":"410472101",
 		"fullCode":"410472101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滍阳镇",
 		"parentCode":"410472"
 	},
@@ -19,7 +19,7 @@
 		"code":"410472401",
 		"fullCode":"410472401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨湖街道",
 		"parentCode":"410472"
 	},
@@ -27,7 +27,7 @@
 		"code":"410472402",
 		"fullCode":"410472402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"应滨街道",
 		"parentCode":"410472"
 	}

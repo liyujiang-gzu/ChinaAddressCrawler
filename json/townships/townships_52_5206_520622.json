@@ -3,7 +3,7 @@
 		"code":"520622001",
 		"fullCode":"520622001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皂角坪街道",
 		"parentCode":"520622"
 	},
@@ -11,7 +11,7 @@
 		"code":"520622002",
 		"fullCode":"520622002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平溪街道",
 		"parentCode":"520622"
 	},
@@ -19,7 +19,7 @@
 		"code":"520622003",
 		"fullCode":"520622003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大龙街道",
 		"parentCode":"520622"
 	},
@@ -27,7 +27,7 @@
 		"code":"520622004",
 		"fullCode":"520622004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻音塘街道",
 		"parentCode":"520622"
 	},
@@ -35,7 +35,7 @@
 		"code":"520622100",
 		"fullCode":"520622100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店镇",
 		"parentCode":"520622"
 	},
@@ -43,7 +43,7 @@
 		"code":"520622102",
 		"fullCode":"520622102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱家场镇",
 		"parentCode":"520622"
 	},
@@ -51,7 +51,7 @@
 		"code":"520622103",
 		"fullCode":"520622103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田坪镇",
 		"parentCode":"520622"
 	},
@@ -59,7 +59,7 @@
 		"code":"520622200",
 		"fullCode":"520622200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚鱼乡",
 		"parentCode":"520622"
 	}

@@ -3,7 +3,7 @@
 		"code":"330102001",
 		"fullCode":"330102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清波街道",
 		"parentCode":"330102"
 	},
@@ -11,7 +11,7 @@
 		"code":"330102003",
 		"fullCode":"330102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖滨街道",
 		"parentCode":"330102"
 	},
@@ -19,7 +19,7 @@
 		"code":"330102004",
 		"fullCode":"330102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小营街道",
 		"parentCode":"330102"
 	},
@@ -27,7 +27,7 @@
 		"code":"330102008",
 		"fullCode":"330102008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南星街道",
 		"parentCode":"330102"
 	},
@@ -35,7 +35,7 @@
 		"code":"330102009",
 		"fullCode":"330102009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫阳街道",
 		"parentCode":"330102"
 	},
@@ -43,7 +43,7 @@
 		"code":"330102010",
 		"fullCode":"330102010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望江街道",
 		"parentCode":"330102"
 	},
@@ -51,7 +51,7 @@
 		"code":"330102011",
 		"fullCode":"330102011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凯旋街道",
 		"parentCode":"330102"
 	},
@@ -59,7 +59,7 @@
 		"code":"330102012",
 		"fullCode":"330102012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"采荷街道",
 		"parentCode":"330102"
 	},
@@ -67,7 +67,7 @@
 		"code":"330102013",
 		"fullCode":"330102013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闸弄口街道",
 		"parentCode":"330102"
 	},
@@ -75,7 +75,7 @@
 		"code":"330102014",
 		"fullCode":"330102014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四季青街道",
 		"parentCode":"330102"
 	},
@@ -83,7 +83,7 @@
 		"code":"330102015",
 		"fullCode":"330102015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭埠街道",
 		"parentCode":"330102"
 	},
@@ -91,7 +91,7 @@
 		"code":"330102016",
 		"fullCode":"330102016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"笕桥街道",
 		"parentCode":"330102"
 	},
@@ -99,7 +99,7 @@
 		"code":"330102017",
 		"fullCode":"330102017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁兰街道",
 		"parentCode":"330102"
 	},
@@ -107,7 +107,7 @@
 		"code":"330102018",
 		"fullCode":"330102018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九堡街道",
 		"parentCode":"330102"
 	}

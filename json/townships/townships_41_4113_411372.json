@@ -3,7 +3,7 @@
 		"code":"411372005",
 		"fullCode":"411372005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白河街道",
 		"parentCode":"411372"
 	},
@@ -11,7 +11,7 @@
 		"code":"411372006",
 		"fullCode":"411372006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣林街道",
 		"parentCode":"411372"
 	},
@@ -19,7 +19,7 @@
 		"code":"411372007",
 		"fullCode":"411372007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜营街道",
 		"parentCode":"411372"
 	},
@@ -27,7 +27,7 @@
 		"code":"411372306",
 		"fullCode":"411372306000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店乡",
 		"parentCode":"411372"
 	}

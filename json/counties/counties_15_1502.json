@@ -3,7 +3,7 @@
 		"code":"150202",
 		"fullCode":"150202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东河区",
 		"parentCode":"1502"
 	},
@@ -11,7 +11,7 @@
 		"code":"150203",
 		"fullCode":"150203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"昆都仑区",
 		"parentCode":"1502"
 	},
@@ -19,7 +19,7 @@
 		"code":"150204",
 		"fullCode":"150204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"青山区",
 		"parentCode":"1502"
 	},
@@ -27,7 +27,7 @@
 		"code":"150205",
 		"fullCode":"150205000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石拐区",
 		"parentCode":"1502"
 	},
@@ -35,7 +35,7 @@
 		"code":"150206",
 		"fullCode":"150206000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"白云鄂博矿区",
 		"parentCode":"1502"
 	},
@@ -43,7 +43,7 @@
 		"code":"150207",
 		"fullCode":"150207000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"九原区",
 		"parentCode":"1502"
 	},
@@ -51,7 +51,7 @@
 		"code":"150221",
 		"fullCode":"150221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"土默特右旗",
 		"parentCode":"1502"
 	},
@@ -59,7 +59,7 @@
 		"code":"150222",
 		"fullCode":"150222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"固阳县",
 		"parentCode":"1502"
 	},
@@ -67,7 +67,7 @@
 		"code":"150223",
 		"fullCode":"150223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"达尔罕茂明安联合旗",
 		"parentCode":"1502"
 	},
@@ -75,7 +75,7 @@
 		"code":"150271",
 		"fullCode":"150271000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"包头稀土高新技术产业开发区",
 		"parentCode":"1502"
 	}

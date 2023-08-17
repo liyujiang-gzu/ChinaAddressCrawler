@@ -3,7 +3,7 @@
 		"code":"320902",
 		"fullCode":"320902000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"亭湖区",
 		"parentCode":"3209"
 	},
@@ -11,7 +11,7 @@
 		"code":"320903",
 		"fullCode":"320903000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"盐都区",
 		"parentCode":"3209"
 	},
@@ -19,7 +19,7 @@
 		"code":"320904",
 		"fullCode":"320904000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大丰区",
 		"parentCode":"3209"
 	},
@@ -27,7 +27,7 @@
 		"code":"320921",
 		"fullCode":"320921000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"响水县",
 		"parentCode":"3209"
 	},
@@ -35,7 +35,7 @@
 		"code":"320922",
 		"fullCode":"320922000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"滨海县",
 		"parentCode":"3209"
 	},
@@ -43,7 +43,7 @@
 		"code":"320923",
 		"fullCode":"320923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阜宁县",
 		"parentCode":"3209"
 	},
@@ -51,7 +51,7 @@
 		"code":"320924",
 		"fullCode":"320924000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"射阳县",
 		"parentCode":"3209"
 	},
@@ -59,7 +59,7 @@
 		"code":"320925",
 		"fullCode":"320925000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"建湖县",
 		"parentCode":"3209"
 	},
@@ -67,7 +67,7 @@
 		"code":"320971",
 		"fullCode":"320971000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"盐城经济技术开发区",
 		"parentCode":"3209"
 	},
@@ -75,7 +75,7 @@
 		"code":"320981",
 		"fullCode":"320981000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东台市",
 		"parentCode":"3209"
 	}

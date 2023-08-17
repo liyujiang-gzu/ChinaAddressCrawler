@@ -3,7 +3,7 @@
 		"code":"350502",
 		"fullCode":"350502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鲤城区",
 		"parentCode":"3505"
 	},
@@ -11,7 +11,7 @@
 		"code":"350503",
 		"fullCode":"350503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丰泽区",
 		"parentCode":"3505"
 	},
@@ -19,7 +19,7 @@
 		"code":"350504",
 		"fullCode":"350504000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"洛江区",
 		"parentCode":"3505"
 	},
@@ -27,7 +27,7 @@
 		"code":"350505",
 		"fullCode":"350505000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泉港区",
 		"parentCode":"3505"
 	},
@@ -35,7 +35,7 @@
 		"code":"350521",
 		"fullCode":"350521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"惠安县",
 		"parentCode":"3505"
 	},
@@ -43,7 +43,7 @@
 		"code":"350524",
 		"fullCode":"350524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安溪县",
 		"parentCode":"3505"
 	},
@@ -51,7 +51,7 @@
 		"code":"350525",
 		"fullCode":"350525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永春县",
 		"parentCode":"3505"
 	},
@@ -59,7 +59,7 @@
 		"code":"350526",
 		"fullCode":"350526000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德化县",
 		"parentCode":"3505"
 	},
@@ -67,7 +67,7 @@
 		"code":"350581",
 		"fullCode":"350581000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石狮市",
 		"parentCode":"3505"
 	},
@@ -75,7 +75,7 @@
 		"code":"350582",
 		"fullCode":"350582000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"晋江市",
 		"parentCode":"3505"
 	},
@@ -83,7 +83,7 @@
 		"code":"350583",
 		"fullCode":"350583000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南安市",
 		"parentCode":"3505"
 	}

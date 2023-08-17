@@ -3,7 +3,7 @@
 		"code":"510727100",
 		"fullCode":"510727100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙安镇",
 		"parentCode":"510727"
 	},
@@ -11,7 +11,7 @@
 		"code":"510727101",
 		"fullCode":"510727101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"510727"
 	},
@@ -19,7 +19,7 @@
 		"code":"510727103",
 		"fullCode":"510727103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"响岩镇",
 		"parentCode":"510727"
 	},
@@ -27,7 +27,7 @@
 		"code":"510727107",
 		"fullCode":"510727107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥镇",
 		"parentCode":"510727"
 	},
@@ -35,7 +35,7 @@
 		"code":"510727108",
 		"fullCode":"510727108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水晶镇",
 		"parentCode":"510727"
 	},
@@ -43,7 +43,7 @@
 		"code":"510727109",
 		"fullCode":"510727109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江油关镇",
 		"parentCode":"510727"
 	},
@@ -51,7 +51,7 @@
 		"code":"510727200",
 		"fullCode":"510727200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高村乡",
 		"parentCode":"510727"
 	},
@@ -59,7 +59,7 @@
 		"code":"510727202",
 		"fullCode":"510727202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坝子乡",
 		"parentCode":"510727"
 	},
@@ -67,7 +67,7 @@
 		"code":"510727206",
 		"fullCode":"510727206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锁江羌族乡",
 		"parentCode":"510727"
 	},
@@ -75,7 +75,7 @@
 		"code":"510727207",
 		"fullCode":"510727207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土城藏族乡",
 		"parentCode":"510727"
 	},
@@ -83,7 +83,7 @@
 		"code":"510727208",
 		"fullCode":"510727208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧堡羌族乡",
 		"parentCode":"510727"
 	},
@@ -91,7 +91,7 @@
 		"code":"510727209",
 		"fullCode":"510727209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阔达藏族乡",
 		"parentCode":"510727"
 	},
@@ -99,7 +99,7 @@
 		"code":"510727210",
 		"fullCode":"510727210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄羊关藏族乡",
 		"parentCode":"510727"
 	},
@@ -107,7 +107,7 @@
 		"code":"510727211",
 		"fullCode":"510727211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎牙藏族乡",
 		"parentCode":"510727"
 	},
@@ -115,7 +115,7 @@
 		"code":"510727212",
 		"fullCode":"510727212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗耳藏族乡",
 		"parentCode":"510727"
 	},
@@ -123,7 +123,7 @@
 		"code":"510727213",
 		"fullCode":"510727213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马藏族乡",
 		"parentCode":"510727"
 	},
@@ -131,7 +131,7 @@
 		"code":"510727214",
 		"fullCode":"510727214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木座藏族乡",
 		"parentCode":"510727"
 	},
@@ -139,7 +139,7 @@
 		"code":"510727215",
 		"fullCode":"510727215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木皮藏族乡",
 		"parentCode":"510727"
 	},
@@ -147,7 +147,7 @@
 		"code":"510727216",
 		"fullCode":"510727216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"豆叩羌族乡",
 		"parentCode":"510727"
 	},
@@ -155,7 +155,7 @@
 		"code":"510727217",
 		"fullCode":"510727217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平通羌族乡",
 		"parentCode":"510727"
 	}

@@ -3,7 +3,7 @@
 		"code":"442000001",
 		"fullCode":"442000001000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石岐街道",
 		"parentCode":"4420"
 	},
@@ -11,7 +11,7 @@
 		"code":"442000002",
 		"fullCode":"442000002000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东区街道",
 		"parentCode":"4420"
 	},
@@ -19,7 +19,7 @@
 		"code":"442000003",
 		"fullCode":"442000003000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"中山港街道",
 		"parentCode":"4420"
 	},
@@ -27,7 +27,7 @@
 		"code":"442000004",
 		"fullCode":"442000004000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西区街道",
 		"parentCode":"4420"
 	},
@@ -35,7 +35,7 @@
 		"code":"442000005",
 		"fullCode":"442000005000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南区街道",
 		"parentCode":"4420"
 	},
@@ -43,7 +43,7 @@
 		"code":"442000006",
 		"fullCode":"442000006000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五桂山街道",
 		"parentCode":"4420"
 	},
@@ -51,7 +51,7 @@
 		"code":"442000007",
 		"fullCode":"442000007000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"民众街道",
 		"parentCode":"4420"
 	},
@@ -59,7 +59,7 @@
 		"code":"442000008",
 		"fullCode":"442000008000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南朗街道",
 		"parentCode":"4420"
 	},
@@ -67,7 +67,7 @@
 		"code":"442000101",
 		"fullCode":"442000101000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黄圃镇",
 		"parentCode":"4420"
 	},
@@ -75,7 +75,7 @@
 		"code":"442000103",
 		"fullCode":"442000103000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东凤镇",
 		"parentCode":"4420"
 	},
@@ -83,7 +83,7 @@
 		"code":"442000105",
 		"fullCode":"442000105000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"古镇镇",
 		"parentCode":"4420"
 	},
@@ -91,7 +91,7 @@
 		"code":"442000106",
 		"fullCode":"442000106000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沙溪镇",
 		"parentCode":"4420"
 	},
@@ -99,7 +99,7 @@
 		"code":"442000107",
 		"fullCode":"442000107000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"坦洲镇",
 		"parentCode":"4420"
 	},
@@ -107,7 +107,7 @@
 		"code":"442000108",
 		"fullCode":"442000108000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"港口镇",
 		"parentCode":"4420"
 	},
@@ -115,7 +115,7 @@
 		"code":"442000109",
 		"fullCode":"442000109000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"三角镇",
 		"parentCode":"4420"
 	},
@@ -123,7 +123,7 @@
 		"code":"442000110",
 		"fullCode":"442000110000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"横栏镇",
 		"parentCode":"4420"
 	},
@@ -131,7 +131,7 @@
 		"code":"442000111",
 		"fullCode":"442000111000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南头镇",
 		"parentCode":"4420"
 	},
@@ -139,7 +139,7 @@
 		"code":"442000112",
 		"fullCode":"442000112000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阜沙镇",
 		"parentCode":"4420"
 	},
@@ -147,7 +147,7 @@
 		"code":"442000114",
 		"fullCode":"442000114000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"三乡镇",
 		"parentCode":"4420"
 	},
@@ -155,7 +155,7 @@
 		"code":"442000115",
 		"fullCode":"442000115000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"板芙镇",
 		"parentCode":"4420"
 	},
@@ -163,7 +163,7 @@
 		"code":"442000116",
 		"fullCode":"442000116000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大涌镇",
 		"parentCode":"4420"
 	},
@@ -171,7 +171,7 @@
 		"code":"442000117",
 		"fullCode":"442000117000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"神湾镇",
 		"parentCode":"4420"
 	},
@@ -179,7 +179,7 @@
 		"code":"442000118",
 		"fullCode":"442000118000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"小榄镇",
 		"parentCode":"4420"
 	}

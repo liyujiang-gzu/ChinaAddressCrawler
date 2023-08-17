@@ -3,7 +3,7 @@
 		"code":"150223102",
 		"fullCode":"150223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满都拉镇",
 		"parentCode":"150223"
 	},
@@ -11,7 +11,7 @@
 		"code":"150223103",
 		"fullCode":"150223103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"希拉穆仁镇",
 		"parentCode":"150223"
 	},
@@ -19,7 +19,7 @@
 		"code":"150223104",
 		"fullCode":"150223104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百灵庙镇",
 		"parentCode":"150223"
 	},
@@ -27,7 +27,7 @@
 		"code":"150223105",
 		"fullCode":"150223105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石宝镇",
 		"parentCode":"150223"
 	},
@@ -35,7 +35,7 @@
 		"code":"150223106",
 		"fullCode":"150223106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌克忽洞镇",
 		"parentCode":"150223"
 	},
@@ -43,7 +43,7 @@
 		"code":"150223107",
 		"fullCode":"150223107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明安镇",
 		"parentCode":"150223"
 	},
@@ -51,7 +51,7 @@
 		"code":"150223108",
 		"fullCode":"150223108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴音花镇",
 		"parentCode":"150223"
 	},
@@ -59,7 +59,7 @@
 		"code":"150223213",
 		"fullCode":"150223213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达尔汗苏木",
 		"parentCode":"150223"
 	},
@@ -67,7 +67,7 @@
 		"code":"150223214",
 		"fullCode":"150223214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查干哈达苏木",
 		"parentCode":"150223"
 	},
@@ -75,7 +75,7 @@
 		"code":"150223215",
 		"fullCode":"150223215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴音敖包苏木",
 		"parentCode":"150223"
 	},
@@ -83,7 +83,7 @@
 		"code":"150223216",
 		"fullCode":"150223216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河乡",
 		"parentCode":"150223"
 	},
@@ -91,7 +91,7 @@
 		"code":"150223217",
 		"fullCode":"150223217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小文公乡",
 		"parentCode":"150223"
 	}

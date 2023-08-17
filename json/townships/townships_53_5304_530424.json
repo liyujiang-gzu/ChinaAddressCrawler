@@ -3,7 +3,7 @@
 		"code":"530424001",
 		"fullCode":"530424001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁州街道",
 		"parentCode":"530424"
 	},
@@ -11,7 +11,7 @@
 		"code":"530424102",
 		"fullCode":"530424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘溪镇",
 		"parentCode":"530424"
 	},
@@ -19,7 +19,7 @@
 		"code":"530424103",
 		"fullCode":"530424103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华溪镇",
 		"parentCode":"530424"
 	},
@@ -27,7 +27,7 @@
 		"code":"530424104",
 		"fullCode":"530424104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙镇",
 		"parentCode":"530424"
 	},
@@ -35,7 +35,7 @@
 		"code":"530424201",
 		"fullCode":"530424201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通红甸彝族苗族乡",
 		"parentCode":"530424"
 	}

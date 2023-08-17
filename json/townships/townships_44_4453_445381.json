@@ -3,7 +3,7 @@
 		"code":"445381001",
 		"fullCode":"445381001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗城街道",
 		"parentCode":"445381"
 	},
@@ -11,7 +11,7 @@
 		"code":"445381002",
 		"fullCode":"445381002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"素龙街道",
 		"parentCode":"445381"
 	},
@@ -19,7 +19,7 @@
 		"code":"445381003",
 		"fullCode":"445381003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"附城街道",
 		"parentCode":"445381"
 	},
@@ -27,7 +27,7 @@
 		"code":"445381004",
 		"fullCode":"445381004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双东街道",
 		"parentCode":"445381"
 	},
@@ -35,7 +35,7 @@
 		"code":"445381100",
 		"fullCode":"445381100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗镜镇",
 		"parentCode":"445381"
 	},
@@ -43,7 +43,7 @@
 		"code":"445381101",
 		"fullCode":"445381101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"445381"
 	},
@@ -51,7 +51,7 @@
 		"code":"445381102",
 		"fullCode":"445381102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"分界镇",
 		"parentCode":"445381"
 	},
@@ -59,7 +59,7 @@
 		"code":"445381104",
 		"fullCode":"445381104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗平镇",
 		"parentCode":"445381"
 	},
@@ -67,7 +67,7 @@
 		"code":"445381105",
 		"fullCode":"445381105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"船步镇",
 		"parentCode":"445381"
 	},
@@ -75,7 +75,7 @@
 		"code":"445381106",
 		"fullCode":"445381106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朗塘镇",
 		"parentCode":"445381"
 	},
@@ -83,7 +83,7 @@
 		"code":"445381107",
 		"fullCode":"445381107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苹塘镇",
 		"parentCode":"445381"
 	},
@@ -91,7 +91,7 @@
 		"code":"445381108",
 		"fullCode":"445381108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金鸡镇",
 		"parentCode":"445381"
 	},
@@ -99,7 +99,7 @@
 		"code":"445381109",
 		"fullCode":"445381109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"围底镇",
 		"parentCode":"445381"
 	},
@@ -107,7 +107,7 @@
 		"code":"445381110",
 		"fullCode":"445381110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华石镇",
 		"parentCode":"445381"
 	},
@@ -115,7 +115,7 @@
 		"code":"445381111",
 		"fullCode":"445381111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榃滨镇",
 		"parentCode":"445381"
 	},
@@ -123,7 +123,7 @@
 		"code":"445381113",
 		"fullCode":"445381113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎少镇",
 		"parentCode":"445381"
 	},
@@ -131,7 +131,7 @@
 		"code":"445381114",
 		"fullCode":"445381114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"生江镇",
 		"parentCode":"445381"
 	},
@@ -139,7 +139,7 @@
 		"code":"445381115",
 		"fullCode":"445381115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连州镇",
 		"parentCode":"445381"
 	},
@@ -147,7 +147,7 @@
 		"code":"445381116",
 		"fullCode":"445381116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗纶镇",
 		"parentCode":"445381"
 	},
@@ -155,7 +155,7 @@
 		"code":"445381118",
 		"fullCode":"445381118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加益镇",
 		"parentCode":"445381"
 	},
@@ -163,7 +163,7 @@
 		"code":"445381119",
 		"fullCode":"445381119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湾镇",
 		"parentCode":"445381"
 	},
@@ -171,7 +171,7 @@
 		"code":"445381400",
 		"fullCode":"445381400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗平农场",
 		"parentCode":"445381"
 	}

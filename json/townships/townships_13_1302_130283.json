@@ -3,7 +3,7 @@
 		"code":"130283001",
 		"fullCode":"130283001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永顺街道",
 		"parentCode":"130283"
 	},
@@ -11,7 +11,7 @@
 		"code":"130283002",
 		"fullCode":"130283002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴安街道",
 		"parentCode":"130283"
 	},
@@ -19,7 +19,7 @@
 		"code":"130283003",
 		"fullCode":"130283003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨河街道",
 		"parentCode":"130283"
 	},
@@ -27,7 +27,7 @@
 		"code":"130283004",
 		"fullCode":"130283004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨店子街道",
 		"parentCode":"130283"
 	},
@@ -35,7 +35,7 @@
 		"code":"130283101",
 		"fullCode":"130283101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏官营镇",
 		"parentCode":"130283"
 	},
@@ -43,7 +43,7 @@
 		"code":"130283102",
 		"fullCode":"130283102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨各庄镇",
 		"parentCode":"130283"
 	},
@@ -51,7 +51,7 @@
 		"code":"130283103",
 		"fullCode":"130283103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建昌营镇",
 		"parentCode":"130283"
 	},
@@ -59,7 +59,7 @@
 		"code":"130283104",
 		"fullCode":"130283104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵店子镇",
 		"parentCode":"130283"
 	},
@@ -67,7 +67,7 @@
 		"code":"130283105",
 		"fullCode":"130283105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"野鸡坨镇",
 		"parentCode":"130283"
 	},
@@ -75,7 +75,7 @@
 		"code":"130283106",
 		"fullCode":"130283106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大崔庄镇",
 		"parentCode":"130283"
 	},
@@ -83,7 +83,7 @@
 		"code":"130283108",
 		"fullCode":"130283108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡园镇",
 		"parentCode":"130283"
 	},
@@ -91,7 +91,7 @@
 		"code":"130283109",
 		"fullCode":"130283109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马兰庄镇",
 		"parentCode":"130283"
 	},
@@ -99,7 +99,7 @@
 		"code":"130283110",
 		"fullCode":"130283110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河驿镇",
 		"parentCode":"130283"
 	},
@@ -107,7 +107,7 @@
 		"code":"130283111",
 		"fullCode":"130283111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木厂口镇",
 		"parentCode":"130283"
 	},
@@ -115,7 +115,7 @@
 		"code":"130283112",
 		"fullCode":"130283112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上射雁庄镇",
 		"parentCode":"130283"
 	},
@@ -123,7 +123,7 @@
 		"code":"130283113",
 		"fullCode":"130283113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平庄镇",
 		"parentCode":"130283"
 	},
@@ -131,7 +131,7 @@
 		"code":"130283114",
 		"fullCode":"130283114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扣庄镇",
 		"parentCode":"130283"
 	},
@@ -139,7 +139,7 @@
 		"code":"130283115",
 		"fullCode":"130283115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大五里镇",
 		"parentCode":"130283"
 	},
@@ -147,7 +147,7 @@
 		"code":"130283116",
 		"fullCode":"130283116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五重安镇",
 		"parentCode":"130283"
 	},
@@ -155,7 +155,7 @@
 		"code":"130283117",
 		"fullCode":"130283117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭店子镇",
 		"parentCode":"130283"
 	},
@@ -163,7 +163,7 @@
 		"code":"130283118",
 		"fullCode":"130283118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阎家店镇",
 		"parentCode":"130283"
 	}

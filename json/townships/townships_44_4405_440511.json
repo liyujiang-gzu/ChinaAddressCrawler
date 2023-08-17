@@ -3,7 +3,7 @@
 		"code":"440511001",
 		"fullCode":"440511001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石炮台街道",
 		"parentCode":"440511"
 	},
@@ -11,7 +11,7 @@
 		"code":"440511002",
 		"fullCode":"440511002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金砂街道",
 		"parentCode":"440511"
 	},
@@ -19,7 +19,7 @@
 		"code":"440511004",
 		"fullCode":"440511004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方街道",
 		"parentCode":"440511"
 	},
@@ -27,7 +27,7 @@
 		"code":"440511005",
 		"fullCode":"440511005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大华街道",
 		"parentCode":"440511"
 	},
@@ -35,7 +35,7 @@
 		"code":"440511007",
 		"fullCode":"440511007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光华街道",
 		"parentCode":"440511"
 	},
@@ -43,7 +43,7 @@
 		"code":"440511009",
 		"fullCode":"440511009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广厦街道",
 		"parentCode":"440511"
 	},
@@ -51,7 +51,7 @@
 		"code":"440511013",
 		"fullCode":"440511013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岐山街道",
 		"parentCode":"440511"
 	},
@@ -59,7 +59,7 @@
 		"code":"440511015",
 		"fullCode":"440511015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鮀莲街道",
 		"parentCode":"440511"
 	},
@@ -67,7 +67,7 @@
 		"code":"440511016",
 		"fullCode":"440511016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鮀江街道",
 		"parentCode":"440511"
 	},
@@ -75,7 +75,7 @@
 		"code":"440511017",
 		"fullCode":"440511017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月浦街道",
 		"parentCode":"440511"
 	},
@@ -83,7 +83,7 @@
 		"code":"440511018",
 		"fullCode":"440511018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小公园街道",
 		"parentCode":"440511"
 	},
@@ -91,7 +91,7 @@
 		"code":"440511019",
 		"fullCode":"440511019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金东街道",
 		"parentCode":"440511"
 	}

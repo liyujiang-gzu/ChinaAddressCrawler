@@ -1,16 +1,13 @@
 # ChinaAddressCrawler
 
-中国行政区划数据（2022年）采集及转换。
+中华人民共和国行政区划（2022年）数据采集及转换。
 
-> SQL格式数据来源于国家民政局，包括省级、地级、县级。
-> 
-> JSON格式数据来源于国家统计局，包括省级、地级、县级、乡级、村级。
+- 来源于国家民政局的数据只包括省级（省/直辖市/自治区/特别行政区）、地级（地级市/地区/自治州/盟）、县级（县/市辖区/县级市/自治县/旗/自治旗/特区/林区）。
+- 来源于国家统计局的数据包括省级（省/直辖市/自治区/特别行政区）、地级（地级市/地区/自治州/盟）、县级（县/市辖区/县级市/自治县/旗/自治旗/特区/林区）、乡级（乡/镇/街道/民族乡/苏木/民族苏木/县辖区/工业园区/经济开发区/兵团）。
 
 #### 参考资料
 
-* [民政部-2022年中华人民共和国县以上行政区划代码](https://www.mca.gov.cn/mzsj/xzqh/2022/202201xzqh.html)
-* [统计局-2022年统计用区划代码和城乡划分代码](http://www.stats.gov.cn/sj/tjbz/tjyqhdmhcxhfdm/2022/index.html)
-* ~~[博雅地名网](http://wap.tcmap.com.cn)~~
-* [统计局-统计用区划代码和城乡划分代码编制规则](http://www.stats.gov.cn/sj/tjbz/gjtjbz/202302/t20230213_1902741.html)
-* [博雅地名网](http://wap.tcmap.com.cn)
-* [GB/T2260-全国标准信息公共服务平台](https://std.samr.gov.cn/gb/search/gbDetailed?id=71F772D76EA3D3A7E05397BE0A0AB82A)
+- [民政部-2022年中华人民共和国县以上行政区划代码](https://www.mca.gov.cn/mzsj/xzqh/2022/202201xzqh.html)
+- [统计局-2022年统计用区划代码和城乡划分代码](http://www.stats.gov.cn/sj/tjbz/tjyqhdmhcxhfdm/2022/index.html)
+- [统计局-统计用区划代码和城乡划分代码编制规则](http://www.stats.gov.cn/sj/tjbz/gjtjbz/202302/t20230213_1902741.html)
+- [国标委-国家标准全文公开系统|GB/T2260-2007](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=C9C488FD717AFDCD52157F41C3302C6D)

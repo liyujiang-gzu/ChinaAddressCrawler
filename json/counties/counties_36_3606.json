@@ -3,7 +3,7 @@
 		"code":"360602",
 		"fullCode":"360602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"月湖区",
 		"parentCode":"3606"
 	},
@@ -11,7 +11,7 @@
 		"code":"360603",
 		"fullCode":"360603000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"余江区",
 		"parentCode":"3606"
 	},
@@ -19,7 +19,7 @@
 		"code":"360681",
 		"fullCode":"360681000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"贵溪市",
 		"parentCode":"3606"
 	}

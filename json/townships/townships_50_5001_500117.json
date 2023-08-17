@@ -3,7 +3,7 @@
 		"code":"500117001",
 		"fullCode":"500117001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合阳城街道",
 		"parentCode":"500117"
 	},
@@ -11,7 +11,7 @@
 		"code":"500117002",
 		"fullCode":"500117002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钓鱼城街道",
 		"parentCode":"500117"
 	},
@@ -19,7 +19,7 @@
 		"code":"500117003",
 		"fullCode":"500117003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南津街街道",
 		"parentCode":"500117"
 	},
@@ -27,7 +27,7 @@
 		"code":"500117004",
 		"fullCode":"500117004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐井街道",
 		"parentCode":"500117"
 	},
@@ -35,7 +35,7 @@
 		"code":"500117005",
 		"fullCode":"500117005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草街街道",
 		"parentCode":"500117"
 	},
@@ -43,7 +43,7 @@
 		"code":"500117006",
 		"fullCode":"500117006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云门街道",
 		"parentCode":"500117"
 	},
@@ -51,7 +51,7 @@
 		"code":"500117007",
 		"fullCode":"500117007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石街道",
 		"parentCode":"500117"
 	},
@@ -59,7 +59,7 @@
 		"code":"500117100",
 		"fullCode":"500117100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙鱼镇",
 		"parentCode":"500117"
 	},
@@ -67,7 +67,7 @@
 		"code":"500117101",
 		"fullCode":"500117101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官渡镇",
 		"parentCode":"500117"
 	},
@@ -75,7 +75,7 @@
 		"code":"500117102",
 		"fullCode":"500117102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涞滩镇",
 		"parentCode":"500117"
 	},
@@ -83,7 +83,7 @@
 		"code":"500117103",
 		"fullCode":"500117103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖家镇",
 		"parentCode":"500117"
 	},
@@ -91,7 +91,7 @@
 		"code":"500117104",
 		"fullCode":"500117104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古楼镇",
 		"parentCode":"500117"
 	},
@@ -99,7 +99,7 @@
 		"code":"500117105",
 		"fullCode":"500117105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三庙镇",
 		"parentCode":"500117"
 	},
@@ -107,7 +107,7 @@
 		"code":"500117106",
 		"fullCode":"500117106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二郎镇",
 		"parentCode":"500117"
 	},
@@ -115,7 +115,7 @@
 		"code":"500117107",
 		"fullCode":"500117107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙凤镇",
 		"parentCode":"500117"
 	},
@@ -123,7 +123,7 @@
 		"code":"500117108",
 		"fullCode":"500117108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆兴镇",
 		"parentCode":"500117"
 	},
@@ -131,7 +131,7 @@
 		"code":"500117109",
 		"fullCode":"500117109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜溪镇",
 		"parentCode":"500117"
 	},
@@ -139,7 +139,7 @@
 		"code":"500117112",
 		"fullCode":"500117112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双凤镇",
 		"parentCode":"500117"
 	},
@@ -147,7 +147,7 @@
 		"code":"500117113",
 		"fullCode":"500117113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮滩镇",
 		"parentCode":"500117"
 	},
@@ -155,7 +155,7 @@
 		"code":"500117114",
 		"fullCode":"500117114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清平镇",
 		"parentCode":"500117"
 	},
@@ -163,7 +163,7 @@
 		"code":"500117115",
 		"fullCode":"500117115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土场镇",
 		"parentCode":"500117"
 	},
@@ -171,7 +171,7 @@
 		"code":"500117116",
 		"fullCode":"500117116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小沔镇",
 		"parentCode":"500117"
 	},
@@ -179,7 +179,7 @@
 		"code":"500117117",
 		"fullCode":"500117117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三汇镇",
 		"parentCode":"500117"
 	},
@@ -187,7 +187,7 @@
 		"code":"500117118",
 		"fullCode":"500117118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香龙镇",
 		"parentCode":"500117"
 	},
@@ -195,7 +195,7 @@
 		"code":"500117120",
 		"fullCode":"500117120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱塘镇",
 		"parentCode":"500117"
 	},
@@ -203,7 +203,7 @@
 		"code":"500117121",
 		"fullCode":"500117121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙市镇",
 		"parentCode":"500117"
 	},
@@ -211,7 +211,7 @@
 		"code":"500117123",
 		"fullCode":"500117123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕窝镇",
 		"parentCode":"500117"
 	},
@@ -219,7 +219,7 @@
 		"code":"500117124",
 		"fullCode":"500117124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和镇",
 		"parentCode":"500117"
 	},
@@ -227,7 +227,7 @@
 		"code":"500117125",
 		"fullCode":"500117125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渭沱镇",
 		"parentCode":"500117"
 	},
@@ -235,7 +235,7 @@
 		"code":"500117126",
 		"fullCode":"500117126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双槐镇",
 		"parentCode":"500117"
 	}

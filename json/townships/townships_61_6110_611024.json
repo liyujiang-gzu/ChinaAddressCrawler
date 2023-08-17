@@ -3,7 +3,7 @@
 		"code":"611024001",
 		"fullCode":"611024001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"611024"
 	},
@@ -11,7 +11,7 @@
 		"code":"611024002",
 		"fullCode":"611024002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里铺街道",
 		"parentCode":"611024"
 	},
@@ -19,7 +19,7 @@
 		"code":"611024101",
 		"fullCode":"611024101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坝店镇",
 		"parentCode":"611024"
 	},
@@ -27,7 +27,7 @@
 		"code":"611024102",
 		"fullCode":"611024102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天竺山镇",
 		"parentCode":"611024"
 	},
@@ -35,7 +35,7 @@
 		"code":"611024103",
 		"fullCode":"611024103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中村镇",
 		"parentCode":"611024"
 	},
@@ -43,7 +43,7 @@
 		"code":"611024104",
 		"fullCode":"611024104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银花镇",
 		"parentCode":"611024"
 	},
@@ -51,7 +51,7 @@
 		"code":"611024105",
 		"fullCode":"611024105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西照川镇",
 		"parentCode":"611024"
 	},
@@ -59,7 +59,7 @@
 		"code":"611024106",
 		"fullCode":"611024106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漫川关镇",
 		"parentCode":"611024"
 	},
@@ -67,7 +67,7 @@
 		"code":"611024107",
 		"fullCode":"611024107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南宽坪镇",
 		"parentCode":"611024"
 	},
@@ -75,7 +75,7 @@
 		"code":"611024108",
 		"fullCode":"611024108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"户家塬镇",
 		"parentCode":"611024"
 	},
@@ -83,7 +83,7 @@
 		"code":"611024109",
 		"fullCode":"611024109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨地镇",
 		"parentCode":"611024"
 	},
@@ -91,7 +91,7 @@
 		"code":"611024111",
 		"fullCode":"611024111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小河口镇",
 		"parentCode":"611024"
 	},
@@ -99,7 +99,7 @@
 		"code":"611024112",
 		"fullCode":"611024112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"色河铺镇",
 		"parentCode":"611024"
 	},
@@ -107,7 +107,7 @@
 		"code":"611024113",
 		"fullCode":"611024113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板岩镇",
 		"parentCode":"611024"
 	},
@@ -115,7 +115,7 @@
 		"code":"611024116",
 		"fullCode":"611024116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延坪镇",
 		"parentCode":"611024"
 	},
@@ -123,7 +123,7 @@
 		"code":"611024117",
 		"fullCode":"611024117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两岭镇",
 		"parentCode":"611024"
 	},
@@ -131,7 +131,7 @@
 		"code":"611024118",
 		"fullCode":"611024118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王阎镇",
 		"parentCode":"611024"
 	},
@@ -139,7 +139,7 @@
 		"code":"611024121",
 		"fullCode":"611024121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"法官镇",
 		"parentCode":"611024"
 	}

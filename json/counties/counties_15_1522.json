@@ -3,7 +3,7 @@
 		"code":"152201",
 		"fullCode":"152201000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌兰浩特市",
 		"parentCode":"1522"
 	},
@@ -11,7 +11,7 @@
 		"code":"152202",
 		"fullCode":"152202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿尔山市",
 		"parentCode":"1522"
 	},
@@ -19,7 +19,7 @@
 		"code":"152221",
 		"fullCode":"152221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"科尔沁右翼前旗",
 		"parentCode":"1522"
 	},
@@ -27,7 +27,7 @@
 		"code":"152222",
 		"fullCode":"152222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"科尔沁右翼中旗",
 		"parentCode":"1522"
 	},
@@ -35,7 +35,7 @@
 		"code":"152223",
 		"fullCode":"152223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"扎赉特旗",
 		"parentCode":"1522"
 	},
@@ -43,7 +43,7 @@
 		"code":"152224",
 		"fullCode":"152224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"突泉县",
 		"parentCode":"1522"
 	}

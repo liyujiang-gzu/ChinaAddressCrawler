@@ -3,7 +3,7 @@
 		"code":"150902001",
 		"fullCode":"150902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新体路街道",
 		"parentCode":"150902"
 	},
@@ -11,7 +11,7 @@
 		"code":"150902002",
 		"fullCode":"150902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥东街道",
 		"parentCode":"150902"
 	},
@@ -19,7 +19,7 @@
 		"code":"150902003",
 		"fullCode":"150902003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进路街道",
 		"parentCode":"150902"
 	},
@@ -27,7 +27,7 @@
 		"code":"150902004",
 		"fullCode":"150902004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常青街道",
 		"parentCode":"150902"
 	},
@@ -35,7 +35,7 @@
 		"code":"150902005",
 		"fullCode":"150902005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎山街道",
 		"parentCode":"150902"
 	},
@@ -43,7 +43,7 @@
 		"code":"150902006",
 		"fullCode":"150902006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥西街道",
 		"parentCode":"150902"
 	},
@@ -51,7 +51,7 @@
 		"code":"150902007",
 		"fullCode":"150902007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街街道",
 		"parentCode":"150902"
 	},
@@ -59,7 +59,7 @@
 		"code":"150902008",
 		"fullCode":"150902008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉山街道",
 		"parentCode":"150902"
 	},
@@ -67,7 +67,7 @@
 		"code":"150902105",
 		"fullCode":"150902105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白海子镇",
 		"parentCode":"150902"
 	},
@@ -75,7 +75,7 @@
 		"code":"150902205",
 		"fullCode":"150902205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马莲渠乡",
 		"parentCode":"150902"
 	}

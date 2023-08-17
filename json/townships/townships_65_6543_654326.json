@@ -3,7 +3,7 @@
 		"code":"654326100",
 		"fullCode":"654326100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托普铁热克镇",
 		"parentCode":"654326"
 	},
@@ -11,7 +11,7 @@
 		"code":"654326101",
 		"fullCode":"654326101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉木乃镇",
 		"parentCode":"654326"
 	},
@@ -19,7 +19,7 @@
 		"code":"654326102",
 		"fullCode":"654326102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喀尔交镇",
 		"parentCode":"654326"
 	},
@@ -27,7 +27,7 @@
 		"code":"654326103",
 		"fullCode":"654326103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌拉斯特镇",
 		"parentCode":"654326"
 	},
@@ -35,7 +35,7 @@
 		"code":"654326201",
 		"fullCode":"654326201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托斯特乡",
 		"parentCode":"654326"
 	},
@@ -43,7 +43,7 @@
 		"code":"654326202",
 		"fullCode":"654326202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恰勒什海乡",
 		"parentCode":"654326"
 	},
@@ -51,7 +51,7 @@
 		"code":"654326204",
 		"fullCode":"654326204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"别斯铁热克乡",
 		"parentCode":"654326"
 	},
@@ -59,7 +59,7 @@
 		"code":"654326500",
 		"fullCode":"654326500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一八六团",
 		"parentCode":"654326"
 	}

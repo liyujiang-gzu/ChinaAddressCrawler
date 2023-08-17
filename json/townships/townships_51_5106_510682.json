@@ -3,7 +3,7 @@
 		"code":"510682001",
 		"fullCode":"510682001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方亭街道",
 		"parentCode":"510682"
 	},
@@ -11,7 +11,7 @@
 		"code":"510682002",
 		"fullCode":"510682002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雍城街道",
 		"parentCode":"510682"
 	},
@@ -19,7 +19,7 @@
 		"code":"510682105",
 		"fullCode":"510682105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛水镇",
 		"parentCode":"510682"
 	},
@@ -27,7 +27,7 @@
 		"code":"510682106",
 		"fullCode":"510682106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾丰镇",
 		"parentCode":"510682"
 	},
@@ -35,7 +35,7 @@
 		"code":"510682108",
 		"fullCode":"510682108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马祖镇",
 		"parentCode":"510682"
 	},
@@ -43,7 +43,7 @@
 		"code":"510682110",
 		"fullCode":"510682110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马井镇",
 		"parentCode":"510682"
 	},
@@ -51,7 +51,7 @@
 		"code":"510682111",
 		"fullCode":"510682111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓥华镇",
 		"parentCode":"510682"
 	},
@@ -59,7 +59,7 @@
 		"code":"510682113",
 		"fullCode":"510682113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南泉镇",
 		"parentCode":"510682"
 	},
@@ -67,7 +67,7 @@
 		"code":"510682116",
 		"fullCode":"510682116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湔氐镇",
 		"parentCode":"510682"
 	},
@@ -75,7 +75,7 @@
 		"code":"510682120",
 		"fullCode":"510682120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"师古镇",
 		"parentCode":"510682"
 	}

@@ -3,7 +3,7 @@
 		"code":"653121100",
 		"fullCode":"653121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托克扎克镇",
 		"parentCode":"653121"
 	},
@@ -11,7 +11,7 @@
 		"code":"653121101",
 		"fullCode":"653121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰干镇",
 		"parentCode":"653121"
 	},
@@ -19,7 +19,7 @@
 		"code":"653121102",
 		"fullCode":"653121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吾库萨克镇",
 		"parentCode":"653121"
 	},
@@ -27,7 +27,7 @@
 		"code":"653121103",
 		"fullCode":"653121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌帕尔镇",
 		"parentCode":"653121"
 	},
@@ -35,7 +35,7 @@
 		"code":"653121201",
 		"fullCode":"653121201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔什米里克乡",
 		"parentCode":"653121"
 	},
@@ -43,7 +43,7 @@
 		"code":"653121202",
 		"fullCode":"653121202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁日木乡",
 		"parentCode":"653121"
 	},
@@ -51,7 +51,7 @@
 		"code":"653121203",
 		"fullCode":"653121203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布拉克苏乡",
 		"parentCode":"653121"
 	},
@@ -59,7 +59,7 @@
 		"code":"653121204",
 		"fullCode":"653121204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨依巴格乡",
 		"parentCode":"653121"
 	},
@@ -67,7 +67,7 @@
 		"code":"653121205",
 		"fullCode":"653121205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站敏乡",
 		"parentCode":"653121"
 	},
@@ -75,7 +75,7 @@
 		"code":"653121211",
 		"fullCode":"653121211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木什乡",
 		"parentCode":"653121"
 	},
@@ -83,7 +83,7 @@
 		"code":"653121400",
 		"fullCode":"653121400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县种畜场",
 		"parentCode":"653121"
 	},
@@ -91,7 +91,7 @@
 		"code":"653121401",
 		"fullCode":"653121401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县园艺场",
 		"parentCode":"653121"
 	},
@@ -99,7 +99,7 @@
 		"code":"653121402",
 		"fullCode":"653121402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县林场",
 		"parentCode":"653121"
 	},
@@ -107,7 +107,7 @@
 		"code":"653121403",
 		"fullCode":"653121403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县良种场",
 		"parentCode":"653121"
 	},
@@ -115,7 +115,7 @@
 		"code":"653121406",
 		"fullCode":"653121406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"疏附广州工业城",
 		"parentCode":"653121"
 	}

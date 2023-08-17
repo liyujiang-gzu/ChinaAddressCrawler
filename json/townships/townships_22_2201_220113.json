@@ -3,7 +3,7 @@
 		"code":"220113001",
 		"fullCode":"220113001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九台街道",
 		"parentCode":"220113"
 	},
@@ -11,7 +11,7 @@
 		"code":"220113002",
 		"fullCode":"220113002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营城街道",
 		"parentCode":"220113"
 	},
@@ -19,7 +19,7 @@
 		"code":"220113003",
 		"fullCode":"220113003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九郊街道",
 		"parentCode":"220113"
 	},
@@ -27,7 +27,7 @@
 		"code":"220113004",
 		"fullCode":"220113004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西营城街道",
 		"parentCode":"220113"
 	},
@@ -35,7 +35,7 @@
 		"code":"220113005",
 		"fullCode":"220113005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土们岭街道",
 		"parentCode":"220113"
 	},
@@ -43,7 +43,7 @@
 		"code":"220113006",
 		"fullCode":"220113006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苇子沟街道",
 		"parentCode":"220113"
 	},
@@ -51,7 +51,7 @@
 		"code":"220113007",
 		"fullCode":"220113007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆街道",
 		"parentCode":"220113"
 	},
@@ -59,7 +59,7 @@
 		"code":"220113008",
 		"fullCode":"220113008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纪家街道",
 		"parentCode":"220113"
 	},
@@ -67,7 +67,7 @@
 		"code":"220113009",
 		"fullCode":"220113009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波泥河街道",
 		"parentCode":"220113"
 	},
@@ -75,7 +75,7 @@
 		"code":"220113010",
 		"fullCode":"220113010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡伦湖街道",
 		"parentCode":"220113"
 	},
@@ -83,7 +83,7 @@
 		"code":"220113011",
 		"fullCode":"220113011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖街道",
 		"parentCode":"220113"
 	},
@@ -91,7 +91,7 @@
 		"code":"220113012",
 		"fullCode":"220113012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙嘉街道",
 		"parentCode":"220113"
 	},
@@ -99,7 +99,7 @@
 		"code":"220113013",
 		"fullCode":"220113013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴港街道",
 		"parentCode":"220113"
 	},
@@ -107,7 +107,7 @@
 		"code":"220113014",
 		"fullCode":"220113014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沐石河街道",
 		"parentCode":"220113"
 	},
@@ -115,7 +115,7 @@
 		"code":"220113015",
 		"fullCode":"220113015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城子街街道",
 		"parentCode":"220113"
 	},
@@ -123,7 +123,7 @@
 		"code":"220113102",
 		"fullCode":"220113102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"其塔木镇",
 		"parentCode":"220113"
 	},
@@ -131,7 +131,7 @@
 		"code":"220113103",
 		"fullCode":"220113103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上河湾镇",
 		"parentCode":"220113"
 	},
@@ -139,7 +139,7 @@
 		"code":"220113200",
 		"fullCode":"220113200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家回族乡",
 		"parentCode":"220113"
 	},
@@ -147,7 +147,7 @@
 		"code":"220113201",
 		"fullCode":"220113201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莽卡满族乡",
 		"parentCode":"220113"
 	}

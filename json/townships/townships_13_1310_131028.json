@@ -3,7 +3,7 @@
 		"code":"131028001",
 		"fullCode":"131028001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北辰街道",
 		"parentCode":"131028"
 	},
@@ -11,7 +11,7 @@
 		"code":"131028100",
 		"fullCode":"131028100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大厂镇",
 		"parentCode":"131028"
 	},
@@ -19,7 +19,7 @@
 		"code":"131028101",
 		"fullCode":"131028101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏垫镇",
 		"parentCode":"131028"
 	},
@@ -27,7 +27,7 @@
 		"code":"131028102",
 		"fullCode":"131028102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祁各庄镇",
 		"parentCode":"131028"
 	},
@@ -35,7 +35,7 @@
 		"code":"131028103",
 		"fullCode":"131028103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邵府镇",
 		"parentCode":"131028"
 	},
@@ -43,7 +43,7 @@
 		"code":"131028104",
 		"fullCode":"131028104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈府镇",
 		"parentCode":"131028"
 	},
@@ -51,7 +51,7 @@
 		"code":"131028400",
 		"fullCode":"131028400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北大厂高新技术产业开发区",
 		"parentCode":"131028"
 	}

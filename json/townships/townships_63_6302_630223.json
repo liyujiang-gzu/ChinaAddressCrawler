@@ -3,7 +3,7 @@
 		"code":"630223001",
 		"fullCode":"630223001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高寨街道",
 		"parentCode":"630223"
 	},
@@ -11,7 +11,7 @@
 		"code":"630223100",
 		"fullCode":"630223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"威远镇",
 		"parentCode":"630223"
 	},
@@ -19,7 +19,7 @@
 		"code":"630223101",
 		"fullCode":"630223101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹麻镇",
 		"parentCode":"630223"
 	},
@@ -27,7 +27,7 @@
 		"code":"630223103",
 		"fullCode":"630223103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南门峡镇",
 		"parentCode":"630223"
 	},
@@ -35,7 +35,7 @@
 		"code":"630223104",
 		"fullCode":"630223104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加定镇",
 		"parentCode":"630223"
 	},
@@ -43,7 +43,7 @@
 		"code":"630223105",
 		"fullCode":"630223105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘川镇",
 		"parentCode":"630223"
 	},
@@ -51,7 +51,7 @@
 		"code":"630223106",
 		"fullCode":"630223106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五十镇",
 		"parentCode":"630223"
 	},
@@ -59,7 +59,7 @@
 		"code":"630223107",
 		"fullCode":"630223107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五峰镇",
 		"parentCode":"630223"
 	},
@@ -67,7 +67,7 @@
 		"code":"630223200",
 		"fullCode":"630223200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台子乡",
 		"parentCode":"630223"
 	},
@@ -75,7 +75,7 @@
 		"code":"630223201",
 		"fullCode":"630223201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西山乡",
 		"parentCode":"630223"
 	},
@@ -83,7 +83,7 @@
 		"code":"630223202",
 		"fullCode":"630223202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红崖子沟乡",
 		"parentCode":"630223"
 	},
@@ -91,7 +91,7 @@
 		"code":"630223203",
 		"fullCode":"630223203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴扎藏族乡",
 		"parentCode":"630223"
 	},
@@ -99,7 +99,7 @@
 		"code":"630223204",
 		"fullCode":"630223204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉直沟乡",
 		"parentCode":"630223"
 	},
@@ -107,7 +107,7 @@
 		"code":"630223205",
 		"fullCode":"630223205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松多藏族乡",
 		"parentCode":"630223"
 	},
@@ -115,7 +115,7 @@
 		"code":"630223206",
 		"fullCode":"630223206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山乡",
 		"parentCode":"630223"
 	},
@@ -123,7 +123,7 @@
 		"code":"630223207",
 		"fullCode":"630223207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东和乡",
 		"parentCode":"630223"
 	},
@@ -131,7 +131,7 @@
 		"code":"630223208",
 		"fullCode":"630223208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东沟乡",
 		"parentCode":"630223"
 	},
@@ -139,7 +139,7 @@
 		"code":"630223209",
 		"fullCode":"630223209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林川乡",
 		"parentCode":"630223"
 	},
@@ -147,7 +147,7 @@
 		"code":"630223210",
 		"fullCode":"630223210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡家堡乡",
 		"parentCode":"630223"
 	},
@@ -155,7 +155,7 @@
 		"code":"630223400",
 		"fullCode":"630223400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹家堡临空综合经济园互助园区",
 		"parentCode":"630223"
 	}

@@ -3,7 +3,7 @@
 		"code":"451421100",
 		"fullCode":"451421100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新宁镇",
 		"parentCode":"451421"
 	},
@@ -11,7 +11,7 @@
 		"code":"451421101",
 		"fullCode":"451421101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渠黎镇",
 		"parentCode":"451421"
 	},
@@ -19,7 +19,7 @@
 		"code":"451421102",
 		"fullCode":"451421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渠旧镇",
 		"parentCode":"451421"
 	},
@@ -27,7 +27,7 @@
 		"code":"451421103",
 		"fullCode":"451421103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳桥镇",
 		"parentCode":"451421"
 	},
@@ -35,7 +35,7 @@
 		"code":"451421104",
 		"fullCode":"451421104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东门镇",
 		"parentCode":"451421"
 	},
@@ -43,7 +43,7 @@
 		"code":"451421105",
 		"fullCode":"451421105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山圩镇",
 		"parentCode":"451421"
 	},
@@ -51,7 +51,7 @@
 		"code":"451421106",
 		"fullCode":"451421106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中东镇",
 		"parentCode":"451421"
 	},
@@ -59,7 +59,7 @@
 		"code":"451421107",
 		"fullCode":"451421107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东罗镇",
 		"parentCode":"451421"
 	},
@@ -67,7 +67,7 @@
 		"code":"451421201",
 		"fullCode":"451421201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头乡",
 		"parentCode":"451421"
 	},
@@ -75,7 +75,7 @@
 		"code":"451421202",
 		"fullCode":"451421202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岜盆乡",
 		"parentCode":"451421"
 	},
@@ -83,7 +83,7 @@
 		"code":"451421203",
 		"fullCode":"451421203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌平乡",
 		"parentCode":"451421"
 	},
@@ -91,7 +91,7 @@
 		"code":"451421401",
 		"fullCode":"451421401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中国东盟南宁空港扶绥经济区",
 		"parentCode":"451421"
 	},
@@ -99,7 +99,7 @@
 		"code":"451421402",
 		"fullCode":"451421402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扶绥县木业家居产业集聚区",
 		"parentCode":"451421"
 	}

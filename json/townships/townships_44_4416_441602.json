@@ -3,7 +3,7 @@
 		"code":"441602001",
 		"fullCode":"441602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上城街道",
 		"parentCode":"441602"
 	},
@@ -11,7 +11,7 @@
 		"code":"441602002",
 		"fullCode":"441602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新江街道",
 		"parentCode":"441602"
 	},
@@ -19,7 +19,7 @@
 		"code":"441602003",
 		"fullCode":"441602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东埔街道",
 		"parentCode":"441602"
 	},
@@ -27,7 +27,7 @@
 		"code":"441602004",
 		"fullCode":"441602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"源西街道",
 		"parentCode":"441602"
 	},
@@ -35,7 +35,7 @@
 		"code":"441602005",
 		"fullCode":"441602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高埔岗街道",
 		"parentCode":"441602"
 	},
@@ -43,7 +43,7 @@
 		"code":"441602006",
 		"fullCode":"441602006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"441602"
 	},
@@ -51,7 +51,7 @@
 		"code":"441602100",
 		"fullCode":"441602100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"源南镇",
 		"parentCode":"441602"
 	},
@@ -59,7 +59,7 @@
 		"code":"441602101",
 		"fullCode":"441602101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"埔前镇",
 		"parentCode":"441602"
 	}

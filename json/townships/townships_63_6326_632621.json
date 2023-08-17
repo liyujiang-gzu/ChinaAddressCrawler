@@ -3,7 +3,7 @@
 		"code":"632621100",
 		"fullCode":"632621100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大武镇",
 		"parentCode":"632621"
 	},
@@ -11,7 +11,7 @@
 		"code":"632621101",
 		"fullCode":"632621101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉加镇",
 		"parentCode":"632621"
 	},
@@ -19,7 +19,7 @@
 		"code":"632621200",
 		"fullCode":"632621200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大武乡",
 		"parentCode":"632621"
 	},
@@ -27,7 +27,7 @@
 		"code":"632621201",
 		"fullCode":"632621201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东倾沟乡",
 		"parentCode":"632621"
 	},
@@ -35,7 +35,7 @@
 		"code":"632621202",
 		"fullCode":"632621202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪山乡",
 		"parentCode":"632621"
 	},
@@ -43,7 +43,7 @@
 		"code":"632621203",
 		"fullCode":"632621203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下大武乡",
 		"parentCode":"632621"
 	},
@@ -51,7 +51,7 @@
 		"code":"632621204",
 		"fullCode":"632621204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"优云乡",
 		"parentCode":"632621"
 	},
@@ -59,7 +59,7 @@
 		"code":"632621205",
 		"fullCode":"632621205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"当洛乡",
 		"parentCode":"632621"
 	}

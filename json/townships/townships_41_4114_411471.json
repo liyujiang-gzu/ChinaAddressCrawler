@@ -3,7 +3,7 @@
 		"code":"411471001",
 		"fullCode":"411471001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中州街道",
 		"parentCode":"411471"
 	},
@@ -11,7 +11,7 @@
 		"code":"411471100",
 		"fullCode":"411471100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张阁镇",
 		"parentCode":"411471"
 	},
@@ -19,7 +19,7 @@
 		"code":"411471101",
 		"fullCode":"411471101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾寨镇",
 		"parentCode":"411471"
 	}

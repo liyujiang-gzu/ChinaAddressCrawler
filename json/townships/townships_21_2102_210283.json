@@ -3,7 +3,7 @@
 		"code":"210283001",
 		"fullCode":"210283001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"210283"
 	},
@@ -11,7 +11,7 @@
 		"code":"210283002",
 		"fullCode":"210283002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街道",
 		"parentCode":"210283"
 	},
@@ -19,7 +19,7 @@
 		"code":"210283003",
 		"fullCode":"210283003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴达街道",
 		"parentCode":"210283"
 	},
@@ -27,7 +27,7 @@
 		"code":"210283004",
 		"fullCode":"210283004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌盛街道",
 		"parentCode":"210283"
 	},
@@ -35,7 +35,7 @@
 		"code":"210283005",
 		"fullCode":"210283005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明阳街道",
 		"parentCode":"210283"
 	},
@@ -43,7 +43,7 @@
 		"code":"210283101",
 		"fullCode":"210283101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青堆镇",
 		"parentCode":"210283"
 	},
@@ -51,7 +51,7 @@
 		"code":"210283102",
 		"fullCode":"210283102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐岭镇",
 		"parentCode":"210283"
 	},
@@ -59,7 +59,7 @@
 		"code":"210283104",
 		"fullCode":"210283104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑岛镇",
 		"parentCode":"210283"
 	},
@@ -67,7 +67,7 @@
 		"code":"210283105",
 		"fullCode":"210283105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栗子房镇",
 		"parentCode":"210283"
 	},
@@ -75,7 +75,7 @@
 		"code":"210283107",
 		"fullCode":"210283107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营镇",
 		"parentCode":"210283"
 	},
@@ -83,7 +83,7 @@
 		"code":"210283108",
 		"fullCode":"210283108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔岭镇",
 		"parentCode":"210283"
 	},
@@ -91,7 +91,7 @@
 		"code":"210283109",
 		"fullCode":"210283109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙人洞镇",
 		"parentCode":"210283"
 	},
@@ -99,7 +99,7 @@
 		"code":"210283110",
 		"fullCode":"210283110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓉花山镇",
 		"parentCode":"210283"
 	},
@@ -107,7 +107,7 @@
 		"code":"210283111",
 		"fullCode":"210283111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岭镇",
 		"parentCode":"210283"
 	},
@@ -115,7 +115,7 @@
 		"code":"210283112",
 		"fullCode":"210283112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷花山镇",
 		"parentCode":"210283"
 	},
@@ -123,7 +123,7 @@
 		"code":"210283113",
 		"fullCode":"210283113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城山镇",
 		"parentCode":"210283"
 	},
@@ -131,7 +131,7 @@
 		"code":"210283114",
 		"fullCode":"210283114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明山镇",
 		"parentCode":"210283"
 	},
@@ -139,7 +139,7 @@
 		"code":"210283115",
 		"fullCode":"210283115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大郑镇",
 		"parentCode":"210283"
 	},
@@ -147,7 +147,7 @@
 		"code":"210283118",
 		"fullCode":"210283118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴炉镇",
 		"parentCode":"210283"
 	},
@@ -155,7 +155,7 @@
 		"code":"210283120",
 		"fullCode":"210283120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家镇",
 		"parentCode":"210283"
 	},
@@ -163,7 +163,7 @@
 		"code":"210283204",
 		"fullCode":"210283204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鞍子山乡",
 		"parentCode":"210283"
 	},
@@ -171,7 +171,7 @@
 		"code":"210283208",
 		"fullCode":"210283208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平岭满族乡",
 		"parentCode":"210283"
 	},
@@ -179,7 +179,7 @@
 		"code":"210283209",
 		"fullCode":"210283209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"步云山乡",
 		"parentCode":"210283"
 	},
@@ -187,7 +187,7 @@
 		"code":"210283211",
 		"fullCode":"210283211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂云花满族乡",
 		"parentCode":"210283"
 	},
@@ -195,7 +195,7 @@
 		"code":"210283214",
 		"fullCode":"210283214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰店乡",
 		"parentCode":"210283"
 	},
@@ -203,7 +203,7 @@
 		"code":"210283216",
 		"fullCode":"210283216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石城乡",
 		"parentCode":"210283"
 	}

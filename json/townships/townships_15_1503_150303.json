@@ -3,7 +3,7 @@
 		"code":"150303001",
 		"fullCode":"150303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉僧仲街道",
 		"parentCode":"150303"
 	},
@@ -11,7 +11,7 @@
 		"code":"150303002",
 		"fullCode":"150303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西卓子山街道",
 		"parentCode":"150303"
 	},
@@ -19,7 +19,7 @@
 		"code":"150303102",
 		"fullCode":"150303102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公乌素镇",
 		"parentCode":"150303"
 	},
@@ -27,7 +27,7 @@
 		"code":"150303103",
 		"fullCode":"150303103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉僧庙镇",
 		"parentCode":"150303"
 	},
@@ -35,7 +35,7 @@
 		"code":"150303104",
 		"fullCode":"150303104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴音陶亥镇",
 		"parentCode":"150303"
 	}

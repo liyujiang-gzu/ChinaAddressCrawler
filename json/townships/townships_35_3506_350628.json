@@ -3,7 +3,7 @@
 		"code":"350628100",
 		"fullCode":"350628100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小溪镇",
 		"parentCode":"350628"
 	},
@@ -11,7 +11,7 @@
 		"code":"350628101",
 		"fullCode":"350628101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山格镇",
 		"parentCode":"350628"
 	},
@@ -19,7 +19,7 @@
 		"code":"350628102",
 		"fullCode":"350628102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰镇",
 		"parentCode":"350628"
 	},
@@ -27,7 +27,7 @@
 		"code":"350628103",
 		"fullCode":"350628103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南胜镇",
 		"parentCode":"350628"
 	},
@@ -35,7 +35,7 @@
 		"code":"350628104",
 		"fullCode":"350628104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坂仔镇",
 		"parentCode":"350628"
 	},
@@ -43,7 +43,7 @@
 		"code":"350628105",
 		"fullCode":"350628105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安厚镇",
 		"parentCode":"350628"
 	},
@@ -51,7 +51,7 @@
 		"code":"350628106",
 		"fullCode":"350628106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大溪镇",
 		"parentCode":"350628"
 	},
@@ -59,7 +59,7 @@
 		"code":"350628107",
 		"fullCode":"350628107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞寨镇",
 		"parentCode":"350628"
 	},
@@ -67,7 +67,7 @@
 		"code":"350628108",
 		"fullCode":"350628108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九峰镇",
 		"parentCode":"350628"
 	},
@@ -75,7 +75,7 @@
 		"code":"350628109",
 		"fullCode":"350628109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦溪镇",
 		"parentCode":"350628"
 	},
@@ -83,7 +83,7 @@
 		"code":"350628200",
 		"fullCode":"350628200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五寨乡",
 		"parentCode":"350628"
 	},
@@ -91,7 +91,7 @@
 		"code":"350628201",
 		"fullCode":"350628201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国强乡",
 		"parentCode":"350628"
 	},
@@ -99,7 +99,7 @@
 		"code":"350628202",
 		"fullCode":"350628202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崎岭乡",
 		"parentCode":"350628"
 	},
@@ -107,7 +107,7 @@
 		"code":"350628203",
 		"fullCode":"350628203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长乐乡",
 		"parentCode":"350628"
 	},
@@ -115,7 +115,7 @@
 		"code":"350628204",
 		"fullCode":"350628204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀峰乡",
 		"parentCode":"350628"
 	},
@@ -123,7 +123,7 @@
 		"code":"350628401",
 		"fullCode":"350628401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福建平和工业园区",
 		"parentCode":"350628"
 	}

@@ -3,7 +3,7 @@
 		"code":"140922100",
 		"fullCode":"140922100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台城镇",
 		"parentCode":"140922"
 	},
@@ -11,7 +11,7 @@
 		"code":"140922102",
 		"fullCode":"140922102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"耿镇镇",
 		"parentCode":"140922"
 	},
@@ -19,7 +19,7 @@
 		"code":"140922103",
 		"fullCode":"140922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"豆村镇",
 		"parentCode":"140922"
 	},
@@ -27,7 +27,7 @@
 		"code":"140922104",
 		"fullCode":"140922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白家庄镇",
 		"parentCode":"140922"
 	},
@@ -35,7 +35,7 @@
 		"code":"140922105",
 		"fullCode":"140922105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东冶镇",
 		"parentCode":"140922"
 	},
@@ -43,7 +43,7 @@
 		"code":"140922107",
 		"fullCode":"140922107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建安镇",
 		"parentCode":"140922"
 	},
@@ -51,7 +51,7 @@
 		"code":"140922200",
 		"fullCode":"140922200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沟南乡",
 		"parentCode":"140922"
 	},
@@ -59,7 +59,7 @@
 		"code":"140922201",
 		"fullCode":"140922201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东雷乡",
 		"parentCode":"140922"
 	},
@@ -67,7 +67,7 @@
 		"code":"140922202",
 		"fullCode":"140922202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高洪口乡",
 		"parentCode":"140922"
 	},
@@ -75,7 +75,7 @@
 		"code":"140922203",
 		"fullCode":"140922203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门限石乡",
 		"parentCode":"140922"
 	},
@@ -83,7 +83,7 @@
 		"code":"140922204",
 		"fullCode":"140922204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈家庄乡",
 		"parentCode":"140922"
 	},
@@ -91,7 +91,7 @@
 		"code":"140922207",
 		"fullCode":"140922207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋坊乡",
 		"parentCode":"140922"
 	},
@@ -99,7 +99,7 @@
 		"code":"140922209",
 		"fullCode":"140922209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳白乡",
 		"parentCode":"140922"
 	},
@@ -107,7 +107,7 @@
 		"code":"140922210",
 		"fullCode":"140922210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茹村乡",
 		"parentCode":"140922"
 	}

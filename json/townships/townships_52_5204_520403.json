@@ -3,7 +3,7 @@
 		"code":"520403001",
 		"fullCode":"520403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安平街道",
 		"parentCode":"520403"
 	},
@@ -11,7 +11,7 @@
 		"code":"520403002",
 		"fullCode":"520403002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼓楼街道",
 		"parentCode":"520403"
 	},
@@ -19,7 +19,7 @@
 		"code":"520403101",
 		"fullCode":"520403101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白云镇",
 		"parentCode":"520403"
 	},
@@ -27,7 +27,7 @@
 		"code":"520403102",
 		"fullCode":"520403102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高峰镇",
 		"parentCode":"520403"
 	},
@@ -35,7 +35,7 @@
 		"code":"520403103",
 		"fullCode":"520403103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天龙镇",
 		"parentCode":"520403"
 	},
@@ -43,7 +43,7 @@
 		"code":"520403104",
 		"fullCode":"520403104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏云镇",
 		"parentCode":"520403"
 	},
@@ -51,7 +51,7 @@
 		"code":"520403105",
 		"fullCode":"520403105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马场镇",
 		"parentCode":"520403"
 	},
@@ -59,7 +59,7 @@
 		"code":"520403106",
 		"fullCode":"520403106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐平镇",
 		"parentCode":"520403"
 	},
@@ -67,7 +67,7 @@
 		"code":"520403107",
 		"fullCode":"520403107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐伯镇",
 		"parentCode":"520403"
 	},
@@ -75,7 +75,7 @@
 		"code":"520403202",
 		"fullCode":"520403202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十字回族苗族乡",
 		"parentCode":"520403"
 	},
@@ -83,7 +83,7 @@
 		"code":"520403203",
 		"fullCode":"520403203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊昌布依族苗族乡",
 		"parentCode":"520403"
 	}

@@ -3,7 +3,7 @@
 		"code":"652822100",
 		"fullCode":"652822100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"轮台镇",
 		"parentCode":"652822"
 	},
@@ -11,7 +11,7 @@
 		"code":"652822101",
 		"fullCode":"652822101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"轮南镇",
 		"parentCode":"652822"
 	},
@@ -19,7 +19,7 @@
 		"code":"652822102",
 		"fullCode":"652822102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"群巴克镇",
 		"parentCode":"652822"
 	},
@@ -27,7 +27,7 @@
 		"code":"652822103",
 		"fullCode":"652822103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳霞镇",
 		"parentCode":"652822"
 	},
@@ -35,7 +35,7 @@
 		"code":"652822201",
 		"fullCode":"652822201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈尔巴克乡",
 		"parentCode":"652822"
 	},
@@ -43,7 +43,7 @@
 		"code":"652822202",
 		"fullCode":"652822202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"野云沟乡",
 		"parentCode":"652822"
 	},
@@ -51,7 +51,7 @@
 		"code":"652822203",
 		"fullCode":"652822203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿克萨来乡",
 		"parentCode":"652822"
 	},
@@ -59,7 +59,7 @@
 		"code":"652822204",
 		"fullCode":"652822204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔尔拉克乡",
 		"parentCode":"652822"
 	},
@@ -67,7 +67,7 @@
 		"code":"652822205",
 		"fullCode":"652822205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草湖乡",
 		"parentCode":"652822"
 	},
@@ -75,7 +75,7 @@
 		"code":"652822206",
 		"fullCode":"652822206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁热克巴扎乡",
 		"parentCode":"652822"
 	},
@@ -83,7 +83,7 @@
 		"code":"652822207",
 		"fullCode":"652822207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"策达雅乡",
 		"parentCode":"652822"
 	}

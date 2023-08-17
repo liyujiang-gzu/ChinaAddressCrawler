@@ -3,7 +3,7 @@
 		"code":"610429001",
 		"fullCode":"610429001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"610429"
 	},
@@ -11,7 +11,7 @@
 		"code":"610429101",
 		"fullCode":"610429101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土桥镇",
 		"parentCode":"610429"
 	},
@@ -19,7 +19,7 @@
 		"code":"610429102",
 		"fullCode":"610429102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"职田镇",
 		"parentCode":"610429"
 	},
@@ -27,7 +27,7 @@
 		"code":"610429103",
 		"fullCode":"610429103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张洪镇",
 		"parentCode":"610429"
 	},
@@ -35,7 +35,7 @@
 		"code":"610429104",
 		"fullCode":"610429104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太村镇",
 		"parentCode":"610429"
 	},
@@ -43,7 +43,7 @@
 		"code":"610429105",
 		"fullCode":"610429105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑家镇",
 		"parentCode":"610429"
 	},
@@ -51,7 +51,7 @@
 		"code":"610429106",
 		"fullCode":"610429106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湫坡头镇",
 		"parentCode":"610429"
 	},
@@ -59,7 +59,7 @@
 		"code":"610429107",
 		"fullCode":"610429107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"底庙镇",
 		"parentCode":"610429"
 	},
@@ -67,7 +67,7 @@
 		"code":"610429109",
 		"fullCode":"610429109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马栏镇",
 		"parentCode":"610429"
 	},
@@ -75,7 +75,7 @@
 		"code":"610429110",
 		"fullCode":"610429110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清塬镇",
 		"parentCode":"610429"
 	}

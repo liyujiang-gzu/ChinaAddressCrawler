@@ -3,7 +3,7 @@
 		"code":"420921100",
 		"fullCode":"420921100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花园镇",
 		"parentCode":"420921"
 	},
@@ -11,7 +11,7 @@
 		"code":"420921101",
 		"fullCode":"420921101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰山镇",
 		"parentCode":"420921"
 	},
@@ -19,7 +19,7 @@
 		"code":"420921102",
 		"fullCode":"420921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周巷镇",
 		"parentCode":"420921"
 	},
@@ -27,7 +27,7 @@
 		"code":"420921103",
 		"fullCode":"420921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小河镇",
 		"parentCode":"420921"
 	},
@@ -35,7 +35,7 @@
 		"code":"420921104",
 		"fullCode":"420921104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王店镇",
 		"parentCode":"420921"
 	},
@@ -43,7 +43,7 @@
 		"code":"420921105",
 		"fullCode":"420921105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卫店镇",
 		"parentCode":"420921"
 	},
@@ -51,7 +51,7 @@
 		"code":"420921106",
 		"fullCode":"420921106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"420921"
 	},
@@ -59,7 +59,7 @@
 		"code":"420921107",
 		"fullCode":"420921107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邹岗镇",
 		"parentCode":"420921"
 	},
@@ -67,7 +67,7 @@
 		"code":"420921200",
 		"fullCode":"420921200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小悟乡",
 		"parentCode":"420921"
 	},
@@ -75,7 +75,7 @@
 		"code":"420921201",
 		"fullCode":"420921201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"季店乡",
 		"parentCode":"420921"
 	},
@@ -83,7 +83,7 @@
 		"code":"420921202",
 		"fullCode":"420921202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花西乡",
 		"parentCode":"420921"
 	},
@@ -91,7 +91,7 @@
 		"code":"420921203",
 		"fullCode":"420921203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陡山乡",
 		"parentCode":"420921"
 	},
@@ -99,7 +99,7 @@
 		"code":"420921400",
 		"fullCode":"420921400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开发区",
 		"parentCode":"420921"
 	},
@@ -107,7 +107,7 @@
 		"code":"420921450",
 		"fullCode":"420921450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音湖生态文化旅游渡假区",
 		"parentCode":"420921"
 	},
@@ -115,7 +115,7 @@
 		"code":"420921500",
 		"fullCode":"420921500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双峰山旅游渡假区",
 		"parentCode":"420921"
 	}

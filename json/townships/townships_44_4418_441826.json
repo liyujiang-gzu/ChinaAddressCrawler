@@ -3,7 +3,7 @@
 		"code":"441826100",
 		"fullCode":"441826100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三江镇",
 		"parentCode":"441826"
 	},
@@ -11,7 +11,7 @@
 		"code":"441826101",
 		"fullCode":"441826101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大麦山镇",
 		"parentCode":"441826"
 	},
@@ -19,7 +19,7 @@
 		"code":"441826102",
 		"fullCode":"441826102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨岗镇",
 		"parentCode":"441826"
 	},
@@ -27,7 +27,7 @@
 		"code":"441826105",
 		"fullCode":"441826105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三排镇",
 		"parentCode":"441826"
 	},
@@ -35,7 +35,7 @@
 		"code":"441826106",
 		"fullCode":"441826106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涡水镇",
 		"parentCode":"441826"
 	},
@@ -43,7 +43,7 @@
 		"code":"441826108",
 		"fullCode":"441826108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坪镇",
 		"parentCode":"441826"
 	},
@@ -51,7 +51,7 @@
 		"code":"441826109",
 		"fullCode":"441826109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香坪镇",
 		"parentCode":"441826"
 	}

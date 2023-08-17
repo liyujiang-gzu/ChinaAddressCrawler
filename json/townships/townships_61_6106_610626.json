@@ -3,7 +3,7 @@
 		"code":"610626001",
 		"fullCode":"610626001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴起街道",
 		"parentCode":"610626"
 	},
@@ -11,7 +11,7 @@
 		"code":"610626101",
 		"fullCode":"610626101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁边城镇",
 		"parentCode":"610626"
 	},
@@ -19,7 +19,7 @@
 		"code":"610626102",
 		"fullCode":"610626102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周湾镇",
 		"parentCode":"610626"
 	},
@@ -27,7 +27,7 @@
 		"code":"610626103",
 		"fullCode":"610626103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白豹镇",
 		"parentCode":"610626"
 	},
@@ -35,7 +35,7 @@
 		"code":"610626104",
 		"fullCode":"610626104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长官庙镇",
 		"parentCode":"610626"
 	},
@@ -43,7 +43,7 @@
 		"code":"610626105",
 		"fullCode":"610626105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长城镇",
 		"parentCode":"610626"
 	},
@@ -51,7 +51,7 @@
 		"code":"610626106",
 		"fullCode":"610626106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五谷城镇",
 		"parentCode":"610626"
 	},
@@ -59,7 +59,7 @@
 		"code":"610626107",
 		"fullCode":"610626107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴仓堡镇",
 		"parentCode":"610626"
 	},
@@ -67,7 +67,7 @@
 		"code":"610626108",
 		"fullCode":"610626108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙沟镇",
 		"parentCode":"610626"
 	}

@@ -3,7 +3,7 @@
 		"code":"360425001",
 		"fullCode":"360425001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永修县丰安街道",
 		"parentCode":"360425"
 	},
@@ -11,7 +11,7 @@
 		"code":"360425100",
 		"fullCode":"360425100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涂埠镇",
 		"parentCode":"360425"
 	},
@@ -19,7 +19,7 @@
 		"code":"360425101",
 		"fullCode":"360425101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴城镇",
 		"parentCode":"360425"
 	},
@@ -27,7 +27,7 @@
 		"code":"360425102",
 		"fullCode":"360425102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三溪桥镇",
 		"parentCode":"360425"
 	},
@@ -35,7 +35,7 @@
 		"code":"360425103",
 		"fullCode":"360425103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虬津镇",
 		"parentCode":"360425"
 	},
@@ -43,7 +43,7 @@
 		"code":"360425104",
 		"fullCode":"360425104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艾城镇",
 		"parentCode":"360425"
 	},
@@ -51,7 +51,7 @@
 		"code":"360425105",
 		"fullCode":"360425105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滩溪镇",
 		"parentCode":"360425"
 	},
@@ -59,7 +59,7 @@
 		"code":"360425106",
 		"fullCode":"360425106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白槎镇",
 		"parentCode":"360425"
 	},
@@ -67,7 +67,7 @@
 		"code":"360425107",
 		"fullCode":"360425107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅棠镇",
 		"parentCode":"360425"
 	},
@@ -75,7 +75,7 @@
 		"code":"360425108",
 		"fullCode":"360425108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕坊镇",
 		"parentCode":"360425"
 	},
@@ -83,7 +83,7 @@
 		"code":"360425109",
 		"fullCode":"360425109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马口镇",
 		"parentCode":"360425"
 	},
@@ -91,7 +91,7 @@
 		"code":"360425110",
 		"fullCode":"360425110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柘林镇",
 		"parentCode":"360425"
 	},
@@ -99,7 +99,7 @@
 		"code":"360425200",
 		"fullCode":"360425200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三角乡",
 		"parentCode":"360425"
 	},
@@ -107,7 +107,7 @@
 		"code":"360425201",
 		"fullCode":"360425201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九合乡",
 		"parentCode":"360425"
 	},
@@ -115,7 +115,7 @@
 		"code":"360425202",
 		"fullCode":"360425202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"立新乡",
 		"parentCode":"360425"
 	},
@@ -123,7 +123,7 @@
 		"code":"360425203",
 		"fullCode":"360425203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江上乡",
 		"parentCode":"360425"
 	},
@@ -131,7 +131,7 @@
 		"code":"360425404",
 		"fullCode":"360425404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江西永修云山经济技术开发区",
 		"parentCode":"360425"
 	},
@@ -139,7 +139,7 @@
 		"code":"360425500",
 		"fullCode":"360425500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云山企业集团",
 		"parentCode":"360425"
 	},
@@ -147,7 +147,7 @@
 		"code":"360425501",
 		"fullCode":"360425501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恒丰企业集团",
 		"parentCode":"360425"
 	},
@@ -155,7 +155,7 @@
 		"code":"360425502",
 		"fullCode":"360425502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八角岭垦殖场",
 		"parentCode":"360425"
 	}

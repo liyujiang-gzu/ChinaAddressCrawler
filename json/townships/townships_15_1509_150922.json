@@ -3,7 +3,7 @@
 		"code":"150922103",
 		"fullCode":"150922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长顺镇",
 		"parentCode":"150922"
 	},
@@ -11,7 +11,7 @@
 		"code":"150922104",
 		"fullCode":"150922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳镇",
 		"parentCode":"150922"
 	},
@@ -19,7 +19,7 @@
 		"code":"150922105",
 		"fullCode":"150922105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七号镇",
 		"parentCode":"150922"
 	},
@@ -27,7 +27,7 @@
 		"code":"150922200",
 		"fullCode":"150922200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德包图乡",
 		"parentCode":"150922"
 	},
@@ -35,7 +35,7 @@
 		"code":"150922201",
 		"fullCode":"150922201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公腊胡洞乡",
 		"parentCode":"150922"
 	},
@@ -43,7 +43,7 @@
 		"code":"150922218",
 		"fullCode":"150922218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白音特拉乡",
 		"parentCode":"150922"
 	},
@@ -51,7 +51,7 @@
 		"code":"150922401",
 		"fullCode":"150922401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化德县长顺工业园区",
 		"parentCode":"150922"
 	}

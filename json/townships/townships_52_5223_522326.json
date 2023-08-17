@@ -3,7 +3,7 @@
 		"code":"522326001",
 		"fullCode":"522326001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王母街道",
 		"parentCode":"522326"
 	},
@@ -11,7 +11,7 @@
 		"code":"522326002",
 		"fullCode":"522326002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平洞街道",
 		"parentCode":"522326"
 	},
@@ -19,7 +19,7 @@
 		"code":"522326003",
 		"fullCode":"522326003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新屯街道",
 		"parentCode":"522326"
 	},
@@ -27,7 +27,7 @@
 		"code":"522326004",
 		"fullCode":"522326004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蟠桃街道",
 		"parentCode":"522326"
 	},
@@ -35,7 +35,7 @@
 		"code":"522326101",
 		"fullCode":"522326101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐元镇",
 		"parentCode":"522326"
 	},
@@ -43,7 +43,7 @@
 		"code":"522326102",
 		"fullCode":"522326102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"打易镇",
 		"parentCode":"522326"
 	},
@@ -51,7 +51,7 @@
 		"code":"522326103",
 		"fullCode":"522326103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐旺镇",
 		"parentCode":"522326"
 	},
@@ -59,7 +59,7 @@
 		"code":"522326104",
 		"fullCode":"522326104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑郎镇",
 		"parentCode":"522326"
 	},
@@ -67,7 +67,7 @@
 		"code":"522326105",
 		"fullCode":"522326105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻山镇",
 		"parentCode":"522326"
 	},
@@ -75,7 +75,7 @@
 		"code":"522326107",
 		"fullCode":"522326107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石屯镇",
 		"parentCode":"522326"
 	},
@@ -83,7 +83,7 @@
 		"code":"522326108",
 		"fullCode":"522326108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔗香镇",
 		"parentCode":"522326"
 	},
@@ -91,7 +91,7 @@
 		"code":"522326109",
 		"fullCode":"522326109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郊纳镇",
 		"parentCode":"522326"
 	},
@@ -99,7 +99,7 @@
 		"code":"522326110",
 		"fullCode":"522326110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大观镇",
 		"parentCode":"522326"
 	},
@@ -107,7 +107,7 @@
 		"code":"522326111",
 		"fullCode":"522326111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"边饶镇",
 		"parentCode":"522326"
 	},
@@ -115,7 +115,7 @@
 		"code":"522326112",
 		"fullCode":"522326112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昂武镇",
 		"parentCode":"522326"
 	},
@@ -123,7 +123,7 @@
 		"code":"522326206",
 		"fullCode":"522326206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"油迈瑶族乡",
 		"parentCode":"522326"
 	}

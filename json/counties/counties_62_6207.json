@@ -3,7 +3,7 @@
 		"code":"620702",
 		"fullCode":"620702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"甘州区",
 		"parentCode":"6207"
 	},
@@ -11,7 +11,7 @@
 		"code":"620721",
 		"fullCode":"620721000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"肃南裕固族自治县",
 		"parentCode":"6207"
 	},
@@ -19,7 +19,7 @@
 		"code":"620722",
 		"fullCode":"620722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"民乐县",
 		"parentCode":"6207"
 	},
@@ -27,7 +27,7 @@
 		"code":"620723",
 		"fullCode":"620723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临泽县",
 		"parentCode":"6207"
 	},
@@ -35,7 +35,7 @@
 		"code":"620724",
 		"fullCode":"620724000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"高台县",
 		"parentCode":"6207"
 	},
@@ -43,7 +43,7 @@
 		"code":"620725",
 		"fullCode":"620725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"山丹县",
 		"parentCode":"6207"
 	}

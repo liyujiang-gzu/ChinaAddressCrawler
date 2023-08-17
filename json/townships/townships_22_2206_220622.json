@@ -3,7 +3,7 @@
 		"code":"220622100",
 		"fullCode":"220622100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖宇镇",
 		"parentCode":"220622"
 	},
@@ -11,7 +11,7 @@
 		"code":"220622101",
 		"fullCode":"220622101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道湖镇",
 		"parentCode":"220622"
 	},
@@ -19,7 +19,7 @@
 		"code":"220622102",
 		"fullCode":"220622102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉镇",
 		"parentCode":"220622"
 	},
@@ -27,7 +27,7 @@
 		"code":"220622103",
 		"fullCode":"220622103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那尔轰镇",
 		"parentCode":"220622"
 	},
@@ -35,7 +35,7 @@
 		"code":"220622104",
 		"fullCode":"220622104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花园口镇",
 		"parentCode":"220622"
 	},
@@ -43,7 +43,7 @@
 		"code":"220622105",
 		"fullCode":"220622105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景山镇",
 		"parentCode":"220622"
 	},
@@ -51,7 +51,7 @@
 		"code":"220622106",
 		"fullCode":"220622106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤松镇",
 		"parentCode":"220622"
 	},
@@ -59,7 +59,7 @@
 		"code":"220622201",
 		"fullCode":"220622201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濛江乡",
 		"parentCode":"220622"
 	}

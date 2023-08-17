@@ -3,7 +3,7 @@
 		"code":"320612",
 		"fullCode":"320612000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"通州区",
 		"parentCode":"3206"
 	},
@@ -11,7 +11,7 @@
 		"code":"320613",
 		"fullCode":"320613000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"崇川区",
 		"parentCode":"3206"
 	},
@@ -19,7 +19,7 @@
 		"code":"320614",
 		"fullCode":"320614000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海门区",
 		"parentCode":"3206"
 	},
@@ -27,7 +27,7 @@
 		"code":"320623",
 		"fullCode":"320623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"如东县",
 		"parentCode":"3206"
 	},
@@ -35,7 +35,7 @@
 		"code":"320671",
 		"fullCode":"320671000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南通经济技术开发区",
 		"parentCode":"3206"
 	},
@@ -43,7 +43,7 @@
 		"code":"320681",
 		"fullCode":"320681000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"启东市",
 		"parentCode":"3206"
 	},
@@ -51,7 +51,7 @@
 		"code":"320682",
 		"fullCode":"320682000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"如皋市",
 		"parentCode":"3206"
 	},
@@ -59,7 +59,7 @@
 		"code":"320685",
 		"fullCode":"320685000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海安市",
 		"parentCode":"3206"
 	}

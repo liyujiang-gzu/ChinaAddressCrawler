@@ -3,7 +3,7 @@
 		"code":"341172001",
 		"fullCode":"341172001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰街道",
 		"parentCode":"341172"
 	},
@@ -11,7 +11,7 @@
 		"code":"341172002",
 		"fullCode":"341172002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫薇街道",
 		"parentCode":"341172"
 	},
@@ -19,7 +19,7 @@
 		"code":"341172401",
 		"fullCode":"341172401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滁州市经济技术开发区",
 		"parentCode":"341172"
 	}

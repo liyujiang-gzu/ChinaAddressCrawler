@@ -3,7 +3,7 @@
 		"code":"540324100",
 		"fullCode":"540324100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁青镇",
 		"parentCode":"540324"
 	},
@@ -11,7 +11,7 @@
 		"code":"540324101",
 		"fullCode":"540324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尺犊镇",
 		"parentCode":"540324"
 	},
@@ -19,7 +19,7 @@
 		"code":"540324200",
 		"fullCode":"540324200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"觉恩乡",
 		"parentCode":"540324"
 	},
@@ -27,7 +27,7 @@
 		"code":"540324201",
 		"fullCode":"540324201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙贡乡",
 		"parentCode":"540324"
 	},
@@ -35,7 +35,7 @@
 		"code":"540324202",
 		"fullCode":"540324202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"当堆乡",
 		"parentCode":"540324"
 	},
@@ -43,7 +43,7 @@
 		"code":"540324203",
 		"fullCode":"540324203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑多乡",
 		"parentCode":"540324"
 	},
@@ -51,7 +51,7 @@
 		"code":"540324204",
 		"fullCode":"540324204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木塔乡",
 		"parentCode":"540324"
 	},
@@ -59,7 +59,7 @@
 		"code":"540324205",
 		"fullCode":"540324205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布塔乡",
 		"parentCode":"540324"
 	},
@@ -67,7 +67,7 @@
 		"code":"540324206",
 		"fullCode":"540324206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴达乡",
 		"parentCode":"540324"
 	},
@@ -75,7 +75,7 @@
 		"code":"540324207",
 		"fullCode":"540324207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘岩乡",
 		"parentCode":"540324"
 	},
@@ -83,7 +83,7 @@
 		"code":"540324208",
 		"fullCode":"540324208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎塔乡",
 		"parentCode":"540324"
 	},
@@ -91,7 +91,7 @@
 		"code":"540324209",
 		"fullCode":"540324209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"色扎乡",
 		"parentCode":"540324"
 	},
@@ -99,7 +99,7 @@
 		"code":"540324210",
 		"fullCode":"540324210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"协雄乡",
 		"parentCode":"540324"
 	}

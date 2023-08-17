@@ -3,7 +3,7 @@
 		"code":"410972060",
 		"fullCode":"410972060000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆吾街道",
 		"parentCode":"410972"
 	},
@@ -11,7 +11,7 @@
 		"code":"410972061",
 		"fullCode":"410972061000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇甫街道",
 		"parentCode":"410972"
 	},
@@ -19,7 +19,7 @@
 		"code":"410972062",
 		"fullCode":"410972062000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开州街道",
 		"parentCode":"410972"
 	},
@@ -27,7 +27,7 @@
 		"code":"410972063",
 		"fullCode":"410972063000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濮上街道",
 		"parentCode":"410972"
 	},
@@ -35,7 +35,7 @@
 		"code":"410972100",
 		"fullCode":"410972100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王助镇",
 		"parentCode":"410972"
 	},
@@ -43,7 +43,7 @@
 		"code":"410972101",
 		"fullCode":"410972101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新习镇",
 		"parentCode":"410972"
 	},
@@ -51,7 +51,7 @@
 		"code":"410972360",
 		"fullCode":"410972360000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡村乡",
 		"parentCode":"410972"
 	}

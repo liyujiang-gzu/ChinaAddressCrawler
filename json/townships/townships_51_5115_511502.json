@@ -3,7 +3,7 @@
 		"code":"511502006",
 		"fullCode":"511502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西郊街道",
 		"parentCode":"511502"
 	},
@@ -11,7 +11,7 @@
 		"code":"511502007",
 		"fullCode":"511502007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安阜街道",
 		"parentCode":"511502"
 	},
@@ -19,7 +19,7 @@
 		"code":"511502008",
 		"fullCode":"511502008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙湾街道",
 		"parentCode":"511502"
 	},
@@ -27,7 +27,7 @@
 		"code":"511502010",
 		"fullCode":"511502010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象鼻街道",
 		"parentCode":"511502"
 	},
@@ -35,7 +35,7 @@
 		"code":"511502011",
 		"fullCode":"511502011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坪街道",
 		"parentCode":"511502"
 	},
@@ -43,7 +43,7 @@
 		"code":"511502012",
 		"fullCode":"511502012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合江门街道",
 		"parentCode":"511502"
 	},
@@ -51,7 +51,7 @@
 		"code":"511502013",
 		"fullCode":"511502013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大观楼街道",
 		"parentCode":"511502"
 	},
@@ -59,7 +59,7 @@
 		"code":"511502014",
 		"fullCode":"511502014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双城街道",
 		"parentCode":"511502"
 	},
@@ -67,7 +67,7 @@
 		"code":"511502101",
 		"fullCode":"511502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李庄镇",
 		"parentCode":"511502"
 	},
@@ -75,7 +75,7 @@
 		"code":"511502102",
 		"fullCode":"511502102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菜坝镇",
 		"parentCode":"511502"
 	},
@@ -83,7 +83,7 @@
 		"code":"511502104",
 		"fullCode":"511502104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金坪镇",
 		"parentCode":"511502"
 	},
@@ -91,7 +91,7 @@
 		"code":"511502108",
 		"fullCode":"511502108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牟坪镇",
 		"parentCode":"511502"
 	},
@@ -99,7 +99,7 @@
 		"code":"511502109",
 		"fullCode":"511502109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李端镇",
 		"parentCode":"511502"
 	},
@@ -107,7 +107,7 @@
 		"code":"511502111",
 		"fullCode":"511502111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗场镇",
 		"parentCode":"511502"
 	},
@@ -115,7 +115,7 @@
 		"code":"511502112",
 		"fullCode":"511502112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋家镇",
 		"parentCode":"511502"
 	},
@@ -123,7 +123,7 @@
 		"code":"511502115",
 		"fullCode":"511502115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思坡镇",
 		"parentCode":"511502"
 	},
@@ -131,7 +131,7 @@
 		"code":"511502116",
 		"fullCode":"511502116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白花镇",
 		"parentCode":"511502"
 	},
@@ -139,7 +139,7 @@
 		"code":"511502118",
 		"fullCode":"511502118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双谊镇",
 		"parentCode":"511502"
 	},
@@ -147,7 +147,7 @@
 		"code":"511502120",
 		"fullCode":"511502120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴镇",
 		"parentCode":"511502"
 	},
@@ -155,7 +155,7 @@
 		"code":"511502121",
 		"fullCode":"511502121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金秋湖镇",
 		"parentCode":"511502"
 	}

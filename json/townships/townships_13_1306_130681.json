@@ -3,7 +3,7 @@
 		"code":"130681001",
 		"fullCode":"130681001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双塔街道",
 		"parentCode":"130681"
 	},
@@ -11,7 +11,7 @@
 		"code":"130681002",
 		"fullCode":"130681002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃园街道",
 		"parentCode":"130681"
 	},
@@ -19,7 +19,7 @@
 		"code":"130681003",
 		"fullCode":"130681003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清凉寺街道",
 		"parentCode":"130681"
 	},
@@ -27,7 +27,7 @@
 		"code":"130681100",
 		"fullCode":"130681100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松林店镇",
 		"parentCode":"130681"
 	},
@@ -35,7 +35,7 @@
 		"code":"130681101",
 		"fullCode":"130681101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"码头镇",
 		"parentCode":"130681"
 	},
@@ -43,7 +43,7 @@
 		"code":"130681102",
 		"fullCode":"130681102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城坊镇",
 		"parentCode":"130681"
 	},
@@ -51,7 +51,7 @@
 		"code":"130681103",
 		"fullCode":"130681103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高官庄镇",
 		"parentCode":"130681"
 	},
@@ -59,7 +59,7 @@
 		"code":"130681104",
 		"fullCode":"130681104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东仙坡镇",
 		"parentCode":"130681"
 	},
@@ -67,7 +67,7 @@
 		"code":"130681105",
 		"fullCode":"130681105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百尺竿镇",
 		"parentCode":"130681"
 	},
@@ -75,7 +75,7 @@
 		"code":"130681106",
 		"fullCode":"130681106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义和庄镇",
 		"parentCode":"130681"
 	},
@@ -83,7 +83,7 @@
 		"code":"130681107",
 		"fullCode":"130681107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刁窝镇",
 		"parentCode":"130681"
 	},
@@ -91,7 +91,7 @@
 		"code":"130681108",
 		"fullCode":"130681108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林家屯镇",
 		"parentCode":"130681"
 	},
@@ -99,7 +99,7 @@
 		"code":"130681109",
 		"fullCode":"130681109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"豆庄镇",
 		"parentCode":"130681"
 	},
@@ -107,7 +107,7 @@
 		"code":"130681204",
 		"fullCode":"130681204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙家庄乡",
 		"parentCode":"130681"
 	},
@@ -115,7 +115,7 @@
 		"code":"130681400",
 		"fullCode":"130681400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高新技术产业开发区",
 		"parentCode":"130681"
 	},
@@ -123,7 +123,7 @@
 		"code":"130681401",
 		"fullCode":"130681401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"京南经济开发区",
 		"parentCode":"130681"
 	},
@@ -131,7 +131,7 @@
 		"code":"130681402",
 		"fullCode":"130681402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松林店经济开发区",
 		"parentCode":"130681"
 	}

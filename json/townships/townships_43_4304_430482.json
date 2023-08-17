@@ -3,7 +3,7 @@
 		"code":"430482001",
 		"fullCode":"430482001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜阳街道",
 		"parentCode":"430482"
 	},
@@ -11,7 +11,7 @@
 		"code":"430482002",
 		"fullCode":"430482002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉峰街道",
 		"parentCode":"430482"
 	},
@@ -19,7 +19,7 @@
 		"code":"430482003",
 		"fullCode":"430482003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"培元街道",
 		"parentCode":"430482"
 	},
@@ -27,7 +27,7 @@
 		"code":"430482005",
 		"fullCode":"430482005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲潭街道",
 		"parentCode":"430482"
 	},
@@ -35,7 +35,7 @@
 		"code":"430482006",
 		"fullCode":"430482006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天堂山街道",
 		"parentCode":"430482"
 	},
@@ -43,7 +43,7 @@
 		"code":"430482101",
 		"fullCode":"430482101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏坊镇",
 		"parentCode":"430482"
 	},
@@ -51,7 +51,7 @@
 		"code":"430482102",
 		"fullCode":"430482102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口山镇",
 		"parentCode":"430482"
 	},
@@ -59,7 +59,7 @@
 		"code":"430482103",
 		"fullCode":"430482103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烟洲镇",
 		"parentCode":"430482"
 	},
@@ -67,7 +67,7 @@
 		"code":"430482104",
 		"fullCode":"430482104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荫田镇",
 		"parentCode":"430482"
 	},
@@ -75,7 +75,7 @@
 		"code":"430482105",
 		"fullCode":"430482105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"430482"
 	},
@@ -83,7 +83,7 @@
 		"code":"430482106",
 		"fullCode":"430482106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西岭镇",
 		"parentCode":"430482"
 	},
@@ -91,7 +91,7 @@
 		"code":"430482108",
 		"fullCode":"430482108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三角塘镇",
 		"parentCode":"430482"
 	},
@@ -99,7 +99,7 @@
 		"code":"430482109",
 		"fullCode":"430482109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋泉镇",
 		"parentCode":"430482"
 	},
@@ -107,7 +107,7 @@
 		"code":"430482110",
 		"fullCode":"430482110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙前镇",
 		"parentCode":"430482"
 	},
@@ -115,7 +115,7 @@
 		"code":"430482111",
 		"fullCode":"430482111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗桥镇",
 		"parentCode":"430482"
 	},
@@ -123,7 +123,7 @@
 		"code":"430482112",
 		"fullCode":"430482112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"430482"
 	},
@@ -131,7 +131,7 @@
 		"code":"430482113",
 		"fullCode":"430482113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜桥镇",
 		"parentCode":"430482"
 	},
@@ -139,7 +139,7 @@
 		"code":"430482114",
 		"fullCode":"430482114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官岭镇",
 		"parentCode":"430482"
 	},
@@ -147,7 +147,7 @@
 		"code":"430482115",
 		"fullCode":"430482115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新河镇",
 		"parentCode":"430482"
 	},
@@ -155,7 +155,7 @@
 		"code":"430482201",
 		"fullCode":"430482201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓬塘乡",
 		"parentCode":"430482"
 	},
@@ -163,7 +163,7 @@
 		"code":"430482202",
 		"fullCode":"430482202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰江乡",
 		"parentCode":"430482"
 	},
@@ -171,7 +171,7 @@
 		"code":"430482203",
 		"fullCode":"430482203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大堡乡",
 		"parentCode":"430482"
 	},
@@ -179,7 +179,7 @@
 		"code":"430482206",
 		"fullCode":"430482206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔山瑶族乡",
 		"parentCode":"430482"
 	}

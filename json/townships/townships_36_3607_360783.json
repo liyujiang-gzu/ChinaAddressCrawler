@@ -3,7 +3,7 @@
 		"code":"360783100",
 		"fullCode":"360783100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙南镇",
 		"parentCode":"360783"
 	},
@@ -11,7 +11,7 @@
 		"code":"360783101",
 		"fullCode":"360783101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武当镇",
 		"parentCode":"360783"
 	},
@@ -19,7 +19,7 @@
 		"code":"360783102",
 		"fullCode":"360783102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨村镇",
 		"parentCode":"360783"
 	},
@@ -27,7 +27,7 @@
 		"code":"360783103",
 		"fullCode":"360783103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汶龙镇",
 		"parentCode":"360783"
 	},
@@ -35,7 +35,7 @@
 		"code":"360783104",
 		"fullCode":"360783104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程龙镇",
 		"parentCode":"360783"
 	},
@@ -43,7 +43,7 @@
 		"code":"360783105",
 		"fullCode":"360783105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关西镇",
 		"parentCode":"360783"
 	},
@@ -51,7 +51,7 @@
 		"code":"360783106",
 		"fullCode":"360783106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里仁镇",
 		"parentCode":"360783"
 	},
@@ -59,7 +59,7 @@
 		"code":"360783107",
 		"fullCode":"360783107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渡江镇",
 		"parentCode":"360783"
 	},
@@ -67,7 +67,7 @@
 		"code":"360783108",
 		"fullCode":"360783108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九连山镇",
 		"parentCode":"360783"
 	},
@@ -75,7 +75,7 @@
 		"code":"360783200",
 		"fullCode":"360783200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃江乡",
 		"parentCode":"360783"
 	},
@@ -83,7 +83,7 @@
 		"code":"360783201",
 		"fullCode":"360783201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东江乡",
 		"parentCode":"360783"
 	},
@@ -91,7 +91,7 @@
 		"code":"360783202",
 		"fullCode":"360783202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临塘乡",
 		"parentCode":"360783"
 	},
@@ -99,7 +99,7 @@
 		"code":"360783203",
 		"fullCode":"360783203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南亨乡",
 		"parentCode":"360783"
 	},
@@ -107,7 +107,7 @@
 		"code":"360783204",
 		"fullCode":"360783204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹湖乡",
 		"parentCode":"360783"
 	},
@@ -115,7 +115,7 @@
 		"code":"360783400",
 		"fullCode":"360783400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江西龙南经济技术开发区",
 		"parentCode":"360783"
 	},
@@ -123,7 +123,7 @@
 		"code":"360783500",
 		"fullCode":"360783500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安基山林场",
 		"parentCode":"360783"
 	}

@@ -3,7 +3,7 @@
 		"code":"623021100",
 		"fullCode":"623021100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"623021"
 	},
@@ -11,7 +11,7 @@
 		"code":"623021101",
 		"fullCode":"623021101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城镇",
 		"parentCode":"623021"
 	},
@@ -19,7 +19,7 @@
 		"code":"623021102",
 		"fullCode":"623021102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冶力关镇",
 		"parentCode":"623021"
 	},
@@ -27,7 +27,7 @@
 		"code":"623021103",
 		"fullCode":"623021103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊永镇",
 		"parentCode":"623021"
 	},
@@ -35,7 +35,7 @@
 		"code":"623021104",
 		"fullCode":"623021104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王旗镇",
 		"parentCode":"623021"
 	},
@@ -43,7 +43,7 @@
 		"code":"623021105",
 		"fullCode":"623021105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古战镇",
 		"parentCode":"623021"
 	},
@@ -51,7 +51,7 @@
 		"code":"623021106",
 		"fullCode":"623021106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洮滨镇",
 		"parentCode":"623021"
 	},
@@ -59,7 +59,7 @@
 		"code":"623021107",
 		"fullCode":"623021107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八角镇",
 		"parentCode":"623021"
 	},
@@ -67,7 +67,7 @@
 		"code":"623021108",
 		"fullCode":"623021108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流顺镇",
 		"parentCode":"623021"
 	},
@@ -75,7 +75,7 @@
 		"code":"623021109",
 		"fullCode":"623021109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店子镇",
 		"parentCode":"623021"
 	},
@@ -83,7 +83,7 @@
 		"code":"623021110",
 		"fullCode":"623021110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊沙镇",
 		"parentCode":"623021"
 	},
@@ -91,7 +91,7 @@
 		"code":"623021200",
 		"fullCode":"623021200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"术布乡",
 		"parentCode":"623021"
 	},
@@ -99,7 +99,7 @@
 		"code":"623021202",
 		"fullCode":"623021202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卓洛乡",
 		"parentCode":"623021"
 	},
@@ -107,7 +107,7 @@
 		"code":"623021203",
 		"fullCode":"623021203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长川乡",
 		"parentCode":"623021"
 	},
@@ -115,7 +115,7 @@
 		"code":"623021208",
 		"fullCode":"623021208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔乡",
 		"parentCode":"623021"
 	},
@@ -123,7 +123,7 @@
 		"code":"623021210",
 		"fullCode":"623021210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门乡",
 		"parentCode":"623021"
 	}

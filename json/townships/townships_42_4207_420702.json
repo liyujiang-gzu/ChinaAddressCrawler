@@ -3,7 +3,7 @@
 		"code":"420702100",
 		"fullCode":"420702100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和镇",
 		"parentCode":"420702"
 	},
@@ -11,7 +11,7 @@
 		"code":"420702101",
 		"fullCode":"420702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东沟镇",
 		"parentCode":"420702"
 	},
@@ -19,7 +19,7 @@
 		"code":"420702102",
 		"fullCode":"420702102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁子镇",
 		"parentCode":"420702"
 	},
@@ -27,7 +27,7 @@
 		"code":"420702103",
 		"fullCode":"420702103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涂家垴镇",
 		"parentCode":"420702"
 	},
@@ -35,7 +35,7 @@
 		"code":"420702104",
 		"fullCode":"420702104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沼山镇",
 		"parentCode":"420702"
 	},
@@ -43,7 +43,7 @@
 		"code":"420702400",
 		"fullCode":"420702400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梧桐湖新区",
 		"parentCode":"420702"
 	}

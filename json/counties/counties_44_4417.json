@@ -3,7 +3,7 @@
 		"code":"441702",
 		"fullCode":"441702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江城区",
 		"parentCode":"4417"
 	},
@@ -11,7 +11,7 @@
 		"code":"441704",
 		"fullCode":"441704000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阳东区",
 		"parentCode":"4417"
 	},
@@ -19,7 +19,7 @@
 		"code":"441721",
 		"fullCode":"441721000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阳西县",
 		"parentCode":"4417"
 	},
@@ -27,7 +27,7 @@
 		"code":"441781",
 		"fullCode":"441781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阳春市",
 		"parentCode":"4417"
 	}

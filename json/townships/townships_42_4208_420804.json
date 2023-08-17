@@ -3,7 +3,7 @@
 		"code":"420804001",
 		"fullCode":"420804001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"掇刀石街道",
 		"parentCode":"420804"
 	},
@@ -11,7 +11,7 @@
 		"code":"420804002",
 		"fullCode":"420804002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白庙街道",
 		"parentCode":"420804"
 	},
@@ -19,7 +19,7 @@
 		"code":"420804003",
 		"fullCode":"420804003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆街道",
 		"parentCode":"420804"
 	},
@@ -27,7 +27,7 @@
 		"code":"420804004",
 		"fullCode":"420804004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双喜街道",
 		"parentCode":"420804"
 	},
@@ -35,7 +35,7 @@
 		"code":"420804100",
 		"fullCode":"420804100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团林铺镇",
 		"parentCode":"420804"
 	},
@@ -43,7 +43,7 @@
 		"code":"420804101",
 		"fullCode":"420804101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻城镇",
 		"parentCode":"420804"
 	}

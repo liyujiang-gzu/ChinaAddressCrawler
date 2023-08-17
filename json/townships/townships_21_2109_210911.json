@@ -3,7 +3,7 @@
 		"code":"210911001",
 		"fullCode":"210911001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉新街道",
 		"parentCode":"210911"
 	},
@@ -11,7 +11,7 @@
 		"code":"210911007",
 		"fullCode":"210911007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉龙街道",
 		"parentCode":"210911"
 	},
@@ -19,7 +19,7 @@
 		"code":"210911008",
 		"fullCode":"210911008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉丰街道",
 		"parentCode":"210911"
 	},
@@ -27,7 +27,7 @@
 		"code":"210911102",
 		"fullCode":"210911102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四合镇",
 		"parentCode":"210911"
 	},
@@ -35,7 +35,7 @@
 		"code":"210911401",
 		"fullCode":"210911401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六家子管委会",
 		"parentCode":"210911"
 	}

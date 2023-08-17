@@ -3,7 +3,7 @@
 		"code":"370117001",
 		"fullCode":"370117001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艾山街道",
 		"parentCode":"370117"
 	},
@@ -11,7 +11,7 @@
 		"code":"370117002",
 		"fullCode":"370117002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里辛街道",
 		"parentCode":"370117"
 	},
@@ -19,7 +19,7 @@
 		"code":"370117003",
 		"fullCode":"370117003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汶源街道",
 		"parentCode":"370117"
 	},
@@ -27,7 +27,7 @@
 		"code":"370117004",
 		"fullCode":"370117004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"颜庄街道",
 		"parentCode":"370117"
 	},
@@ -35,7 +35,7 @@
 		"code":"370117005",
 		"fullCode":"370117005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛庄街道",
 		"parentCode":"370117"
 	},
@@ -43,7 +43,7 @@
 		"code":"370117400",
 		"fullCode":"370117400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棋山国家森林公园",
 		"parentCode":"370117"
 	},
@@ -51,7 +51,7 @@
 		"code":"370117401",
 		"fullCode":"370117401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高新技术开发区",
 		"parentCode":"370117"
 	}

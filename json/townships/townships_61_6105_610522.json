@@ -3,7 +3,7 @@
 		"code":"610522001",
 		"fullCode":"610522001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"610522"
 	},
@@ -11,7 +11,7 @@
 		"code":"610522101",
 		"fullCode":"610522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦东镇",
 		"parentCode":"610522"
 	},
@@ -19,7 +19,7 @@
 		"code":"610522102",
 		"fullCode":"610522102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太要镇",
 		"parentCode":"610522"
 	},
@@ -27,7 +27,7 @@
 		"code":"610522103",
 		"fullCode":"610522103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐峪镇",
 		"parentCode":"610522"
 	},
@@ -35,7 +35,7 @@
 		"code":"610522104",
 		"fullCode":"610522104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"代字营镇",
 		"parentCode":"610522"
 	}

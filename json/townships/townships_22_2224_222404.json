@@ -3,7 +3,7 @@
 		"code":"222404001",
 		"fullCode":"222404001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖和街道",
 		"parentCode":"222404"
 	},
@@ -11,7 +11,7 @@
 		"code":"222404002",
 		"fullCode":"222404002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安街道",
 		"parentCode":"222404"
 	},
@@ -19,7 +19,7 @@
 		"code":"222404003",
 		"fullCode":"222404003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河南街道",
 		"parentCode":"222404"
 	},
@@ -27,7 +27,7 @@
 		"code":"222404006",
 		"fullCode":"222404006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海东街道",
 		"parentCode":"222404"
 	},
@@ -35,7 +35,7 @@
 		"code":"222404060",
 		"fullCode":"222404060000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"近海街道",
 		"parentCode":"222404"
 	},
@@ -43,7 +43,7 @@
 		"code":"222404100",
 		"fullCode":"222404100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春化镇",
 		"parentCode":"222404"
 	},
@@ -51,7 +51,7 @@
 		"code":"222404101",
 		"fullCode":"222404101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敬信镇",
 		"parentCode":"222404"
 	},
@@ -59,7 +59,7 @@
 		"code":"222404102",
 		"fullCode":"222404102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板石镇",
 		"parentCode":"222404"
 	},
@@ -67,7 +67,7 @@
 		"code":"222404103",
 		"fullCode":"222404103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英安镇",
 		"parentCode":"222404"
 	},
@@ -75,7 +75,7 @@
 		"code":"222404200",
 		"fullCode":"222404200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马川子乡",
 		"parentCode":"222404"
 	},
@@ -83,7 +83,7 @@
 		"code":"222404201",
 		"fullCode":"222404201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨泡满族乡",
 		"parentCode":"222404"
 	},
@@ -91,7 +91,7 @@
 		"code":"222404202",
 		"fullCode":"222404202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三家子满族乡",
 		"parentCode":"222404"
 	},
@@ -99,7 +99,7 @@
 		"code":"222404203",
 		"fullCode":"222404203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"密江乡",
 		"parentCode":"222404"
 	},
@@ -107,7 +107,7 @@
 		"code":"222404204",
 		"fullCode":"222404204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈达门乡",
 		"parentCode":"222404"
 	},
@@ -115,7 +115,7 @@
 		"code":"222404400",
 		"fullCode":"222404400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珲春林业局",
 		"parentCode":"222404"
 	}

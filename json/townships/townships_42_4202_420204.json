@@ -3,7 +3,7 @@
 		"code":"420204004",
 		"fullCode":"420204004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团城山街道",
 		"parentCode":"420204"
 	},
@@ -11,7 +11,7 @@
 		"code":"420204005",
 		"fullCode":"420204005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新下陆街道",
 		"parentCode":"420204"
 	},
@@ -19,7 +19,7 @@
 		"code":"420204006",
 		"fullCode":"420204006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老下陆街道",
 		"parentCode":"420204"
 	},
@@ -27,7 +27,7 @@
 		"code":"420204007",
 		"fullCode":"420204007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方山街道",
 		"parentCode":"420204"
 	},
@@ -35,7 +35,7 @@
 		"code":"420204401",
 		"fullCode":"420204401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长乐山工业园管理委员会",
 		"parentCode":"420204"
 	}

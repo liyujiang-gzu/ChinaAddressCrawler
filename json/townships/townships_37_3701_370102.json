@@ -3,7 +3,7 @@
 		"code":"370102001",
 		"fullCode":"370102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放路街道",
 		"parentCode":"370102"
 	},
@@ -11,7 +11,7 @@
 		"code":"370102002",
 		"fullCode":"370102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千佛山街道",
 		"parentCode":"370102"
 	},
@@ -19,7 +19,7 @@
 		"code":"370102003",
 		"fullCode":"370102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"趵突泉街道",
 		"parentCode":"370102"
 	},
@@ -27,7 +27,7 @@
 		"code":"370102004",
 		"fullCode":"370102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉城路街道",
 		"parentCode":"370102"
 	},
@@ -35,7 +35,7 @@
 		"code":"370102005",
 		"fullCode":"370102005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大明湖街道",
 		"parentCode":"370102"
 	},
@@ -43,7 +43,7 @@
 		"code":"370102006",
 		"fullCode":"370102006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关街道",
 		"parentCode":"370102"
 	},
@@ -51,7 +51,7 @@
 		"code":"370102007",
 		"fullCode":"370102007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文东街道",
 		"parentCode":"370102"
 	},
@@ -59,7 +59,7 @@
 		"code":"370102008",
 		"fullCode":"370102008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建新街道",
 		"parentCode":"370102"
 	},
@@ -67,7 +67,7 @@
 		"code":"370102009",
 		"fullCode":"370102009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甸柳街道",
 		"parentCode":"370102"
 	},
@@ -75,7 +75,7 @@
 		"code":"370102010",
 		"fullCode":"370102010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕山街道",
 		"parentCode":"370102"
 	},
@@ -83,7 +83,7 @@
 		"code":"370102011",
 		"fullCode":"370102011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚家街道",
 		"parentCode":"370102"
 	},
@@ -91,7 +91,7 @@
 		"code":"370102012",
 		"fullCode":"370102012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙洞街道",
 		"parentCode":"370102"
 	},
@@ -99,7 +99,7 @@
 		"code":"370102013",
 		"fullCode":"370102013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"智远街道",
 		"parentCode":"370102"
 	}

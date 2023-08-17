@@ -3,7 +3,7 @@
 		"code":"230224100",
 		"fullCode":"230224100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰来镇",
 		"parentCode":"230224"
 	},
@@ -11,7 +11,7 @@
 		"code":"230224101",
 		"fullCode":"230224101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平洋镇",
 		"parentCode":"230224"
 	},
@@ -19,7 +19,7 @@
 		"code":"230224102",
 		"fullCode":"230224102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤池镇",
 		"parentCode":"230224"
 	},
@@ -27,7 +27,7 @@
 		"code":"230224103",
 		"fullCode":"230224103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江桥蒙古族镇",
 		"parentCode":"230224"
 	},
@@ -35,7 +35,7 @@
 		"code":"230224104",
 		"fullCode":"230224104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔子城镇",
 		"parentCode":"230224"
 	},
@@ -43,7 +43,7 @@
 		"code":"230224105",
 		"fullCode":"230224105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴镇",
 		"parentCode":"230224"
 	},
@@ -51,7 +51,7 @@
 		"code":"230224106",
 		"fullCode":"230224106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平镇",
 		"parentCode":"230224"
 	},
@@ -59,7 +59,7 @@
 		"code":"230224107",
 		"fullCode":"230224107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克利镇",
 		"parentCode":"230224"
 	},
@@ -67,7 +67,7 @@
 		"code":"230224200",
 		"fullCode":"230224200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利蒙古族乡",
 		"parentCode":"230224"
 	},
@@ -75,7 +75,7 @@
 		"code":"230224209",
 		"fullCode":"230224209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁姜蒙古族乡",
 		"parentCode":"230224"
 	},
@@ -83,7 +83,7 @@
 		"code":"230224400",
 		"fullCode":"230224400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葡萄场",
 		"parentCode":"230224"
 	},
@@ -91,7 +91,7 @@
 		"code":"230224401",
 		"fullCode":"230224401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"果树场",
 		"parentCode":"230224"
 	},
@@ -99,7 +99,7 @@
 		"code":"230224402",
 		"fullCode":"230224402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰来县一苗圃",
 		"parentCode":"230224"
 	},
@@ -107,7 +107,7 @@
 		"code":"230224403",
 		"fullCode":"230224403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰来县二苗圃",
 		"parentCode":"230224"
 	},
@@ -115,7 +115,7 @@
 		"code":"230224404",
 		"fullCode":"230224404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方红机械林场",
 		"parentCode":"230224"
 	},
@@ -123,7 +123,7 @@
 		"code":"230224480",
 		"fullCode":"230224480000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六三监狱",
 		"parentCode":"230224"
 	},
@@ -131,7 +131,7 @@
 		"code":"230224580",
 		"fullCode":"230224580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第一良种场",
 		"parentCode":"230224"
 	},
@@ -139,7 +139,7 @@
 		"code":"230224581",
 		"fullCode":"230224581000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第二良种场",
 		"parentCode":"230224"
 	},
@@ -147,7 +147,7 @@
 		"code":"230224582",
 		"fullCode":"230224582000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏胜种畜场",
 		"parentCode":"230224"
 	},
@@ -155,7 +155,7 @@
 		"code":"230224583",
 		"fullCode":"230224583000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二龙涛农场",
 		"parentCode":"230224"
 	}

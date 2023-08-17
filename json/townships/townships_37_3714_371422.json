@@ -3,7 +3,7 @@
 		"code":"371422001",
 		"fullCode":"371422001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁城街道",
 		"parentCode":"371422"
 	},
@@ -11,7 +11,7 @@
 		"code":"371422002",
 		"fullCode":"371422002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"津城街道",
 		"parentCode":"371422"
 	},
@@ -19,7 +19,7 @@
 		"code":"371422101",
 		"fullCode":"371422101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柴胡店镇",
 		"parentCode":"371422"
 	},
@@ -27,7 +27,7 @@
 		"code":"371422102",
 		"fullCode":"371422102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长官镇",
 		"parentCode":"371422"
 	},
@@ -35,7 +35,7 @@
 		"code":"371422103",
 		"fullCode":"371422103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜集镇",
 		"parentCode":"371422"
 	},
@@ -43,7 +43,7 @@
 		"code":"371422104",
 		"fullCode":"371422104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保店镇",
 		"parentCode":"371422"
 	},
@@ -51,7 +51,7 @@
 		"code":"371422105",
 		"fullCode":"371422105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大柳镇",
 		"parentCode":"371422"
 	},
@@ -59,7 +59,7 @@
 		"code":"371422106",
 		"fullCode":"371422106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大曹镇",
 		"parentCode":"371422"
 	},
@@ -67,7 +67,7 @@
 		"code":"371422107",
 		"fullCode":"371422107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"相衙镇",
 		"parentCode":"371422"
 	},
@@ -75,7 +75,7 @@
 		"code":"371422108",
 		"fullCode":"371422108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"时集镇",
 		"parentCode":"371422"
 	},
@@ -83,7 +83,7 @@
 		"code":"371422109",
 		"fullCode":"371422109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张大庄镇",
 		"parentCode":"371422"
 	},
@@ -91,7 +91,7 @@
 		"code":"371422201",
 		"fullCode":"371422201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘营伍乡",
 		"parentCode":"371422"
 	}

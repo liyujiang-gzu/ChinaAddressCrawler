@@ -3,7 +3,7 @@
 		"code":"130531100",
 		"fullCode":"130531100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广宗镇",
 		"parentCode":"130531"
 	},
@@ -11,7 +11,7 @@
 		"code":"130531101",
 		"fullCode":"130531101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯家寨镇",
 		"parentCode":"130531"
 	},
@@ -19,7 +19,7 @@
 		"code":"130531102",
 		"fullCode":"130531102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北塘疃镇",
 		"parentCode":"130531"
 	},
@@ -27,7 +27,7 @@
 		"code":"130531103",
 		"fullCode":"130531103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"核桃园镇",
 		"parentCode":"130531"
 	},
@@ -35,7 +35,7 @@
 		"code":"130531200",
 		"fullCode":"130531200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葫芦乡",
 		"parentCode":"130531"
 	},
@@ -43,7 +43,7 @@
 		"code":"130531201",
 		"fullCode":"130531201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大平台乡",
 		"parentCode":"130531"
 	},
@@ -51,7 +51,7 @@
 		"code":"130531202",
 		"fullCode":"130531202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"件只乡",
 		"parentCode":"130531"
 	},
@@ -59,7 +59,7 @@
 		"code":"130531204",
 		"fullCode":"130531204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东召乡",
 		"parentCode":"130531"
 	}

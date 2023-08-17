@@ -3,7 +3,7 @@
 		"code":"610102001",
 		"fullCode":"610102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西一路街道",
 		"parentCode":"610102"
 	},
@@ -11,7 +11,7 @@
 		"code":"610102002",
 		"fullCode":"610102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长乐中路街道",
 		"parentCode":"610102"
 	},
@@ -19,7 +19,7 @@
 		"code":"610102003",
 		"fullCode":"610102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山门街道",
 		"parentCode":"610102"
 	},
@@ -27,7 +27,7 @@
 		"code":"610102004",
 		"fullCode":"610102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩森寨街道",
 		"parentCode":"610102"
 	},
@@ -35,7 +35,7 @@
 		"code":"610102005",
 		"fullCode":"610102005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放门街道",
 		"parentCode":"610102"
 	},
@@ -43,7 +43,7 @@
 		"code":"610102006",
 		"fullCode":"610102006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"自强路街道",
 		"parentCode":"610102"
 	},
@@ -51,7 +51,7 @@
 		"code":"610102007",
 		"fullCode":"610102007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太华路街道",
 		"parentCode":"610102"
 	},
@@ -59,7 +59,7 @@
 		"code":"610102008",
 		"fullCode":"610102008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长乐西路街道",
 		"parentCode":"610102"
 	},
@@ -67,7 +67,7 @@
 		"code":"610102009",
 		"fullCode":"610102009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家庙街道",
 		"parentCode":"610102"
 	}

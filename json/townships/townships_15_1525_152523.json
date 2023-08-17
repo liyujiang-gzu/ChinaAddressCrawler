@@ -3,7 +3,7 @@
 		"code":"152523100",
 		"fullCode":"152523100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满都拉图镇",
 		"parentCode":"152523"
 	},
@@ -11,7 +11,7 @@
 		"code":"152523101",
 		"fullCode":"152523101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查干敖包镇",
 		"parentCode":"152523"
 	},
@@ -19,7 +19,7 @@
 		"code":"152523102",
 		"fullCode":"152523102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦淖尔镇",
 		"parentCode":"152523"
 	},
@@ -27,7 +27,7 @@
 		"code":"152523200",
 		"fullCode":"152523200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦乌拉苏木",
 		"parentCode":"152523"
 	},
@@ -35,7 +35,7 @@
 		"code":"152523201",
 		"fullCode":"152523201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛罕高毕苏木",
 		"parentCode":"152523"
 	},
@@ -43,7 +43,7 @@
 		"code":"152523202",
 		"fullCode":"152523202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪格尔苏木",
 		"parentCode":"152523"
 	},
@@ -51,7 +51,7 @@
 		"code":"152523203",
 		"fullCode":"152523203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达来苏木",
 		"parentCode":"152523"
 	},
@@ -59,7 +59,7 @@
 		"code":"152523400",
 		"fullCode":"152523400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏尼特左旗芒来循环经济产业园区",
 		"parentCode":"152523"
 	},
@@ -67,7 +67,7 @@
 		"code":"152523500",
 		"fullCode":"152523500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恩格尔河灌区",
 		"parentCode":"152523"
 	}

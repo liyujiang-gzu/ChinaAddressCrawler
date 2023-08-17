@@ -3,7 +3,7 @@
 		"code":"430121001",
 		"fullCode":"430121001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星沙街道",
 		"parentCode":"430121"
 	},
@@ -11,7 +11,7 @@
 		"code":"430121002",
 		"fullCode":"430121002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉塘街道",
 		"parentCode":"430121"
 	},
@@ -19,7 +19,7 @@
 		"code":"430121003",
 		"fullCode":"430121003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湘龙街道",
 		"parentCode":"430121"
 	},
@@ -27,7 +27,7 @@
 		"code":"430121004",
 		"fullCode":"430121004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榔梨街道",
 		"parentCode":"430121"
 	},
@@ -35,7 +35,7 @@
 		"code":"430121005",
 		"fullCode":"430121005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长龙街道",
 		"parentCode":"430121"
 	},
@@ -43,7 +43,7 @@
 		"code":"430121102",
 		"fullCode":"430121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄兴镇",
 		"parentCode":"430121"
 	},
@@ -51,7 +51,7 @@
 		"code":"430121104",
 		"fullCode":"430121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江背镇",
 		"parentCode":"430121"
 	},
@@ -59,7 +59,7 @@
 		"code":"430121105",
 		"fullCode":"430121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄花镇",
 		"parentCode":"430121"
 	},
@@ -67,7 +67,7 @@
 		"code":"430121106",
 		"fullCode":"430121106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春华镇",
 		"parentCode":"430121"
 	},
@@ -75,7 +75,7 @@
 		"code":"430121107",
 		"fullCode":"430121107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"果园镇",
 		"parentCode":"430121"
 	},
@@ -83,7 +83,7 @@
 		"code":"430121108",
 		"fullCode":"430121108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路口镇",
 		"parentCode":"430121"
 	},
@@ -91,7 +91,7 @@
 		"code":"430121109",
 		"fullCode":"430121109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥镇",
 		"parentCode":"430121"
 	},
@@ -99,7 +99,7 @@
 		"code":"430121110",
 		"fullCode":"430121110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金井镇",
 		"parentCode":"430121"
 	},
@@ -107,7 +107,7 @@
 		"code":"430121111",
 		"fullCode":"430121111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福临镇",
 		"parentCode":"430121"
 	},
@@ -115,7 +115,7 @@
 		"code":"430121112",
 		"fullCode":"430121112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山铺镇",
 		"parentCode":"430121"
 	},
@@ -123,7 +123,7 @@
 		"code":"430121113",
 		"fullCode":"430121113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安沙镇",
 		"parentCode":"430121"
 	},
@@ -131,7 +131,7 @@
 		"code":"430121114",
 		"fullCode":"430121114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北山镇",
 		"parentCode":"430121"
 	},
@@ -139,7 +139,7 @@
 		"code":"430121116",
 		"fullCode":"430121116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开慧镇",
 		"parentCode":"430121"
 	}

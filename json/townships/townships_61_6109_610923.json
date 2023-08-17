@@ -3,7 +3,7 @@
 		"code":"610923100",
 		"fullCode":"610923100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"610923"
 	},
@@ -11,7 +11,7 @@
 		"code":"610923101",
 		"fullCode":"610923101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四亩地镇",
 		"parentCode":"610923"
 	},
@@ -19,7 +19,7 @@
 		"code":"610923102",
 		"fullCode":"610923102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江口镇",
 		"parentCode":"610923"
 	},
@@ -27,7 +27,7 @@
 		"code":"610923104",
 		"fullCode":"610923104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广货街镇",
 		"parentCode":"610923"
 	},
@@ -35,7 +35,7 @@
 		"code":"610923105",
 		"fullCode":"610923105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙王镇",
 		"parentCode":"610923"
 	},
@@ -43,7 +43,7 @@
 		"code":"610923106",
 		"fullCode":"610923106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"筒车湾镇",
 		"parentCode":"610923"
 	},
@@ -51,7 +51,7 @@
 		"code":"610923108",
 		"fullCode":"610923108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金川镇",
 		"parentCode":"610923"
 	},
@@ -59,7 +59,7 @@
 		"code":"610923109",
 		"fullCode":"610923109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇冠镇",
 		"parentCode":"610923"
 	},
@@ -67,7 +67,7 @@
 		"code":"610923110",
 		"fullCode":"610923110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太山庙镇",
 		"parentCode":"610923"
 	},
@@ -75,7 +75,7 @@
 		"code":"610923111",
 		"fullCode":"610923111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅子镇",
 		"parentCode":"610923"
 	},
@@ -83,7 +83,7 @@
 		"code":"610923113",
 		"fullCode":"610923113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新场镇",
 		"parentCode":"610923"
 	}

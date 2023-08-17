@@ -3,7 +3,7 @@
 		"code":"440308001",
 		"fullCode":"440308001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅沙街道",
 		"parentCode":"440308"
 	},
@@ -11,7 +11,7 @@
 		"code":"440308002",
 		"fullCode":"440308002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐田街道",
 		"parentCode":"440308"
 	},
@@ -19,7 +19,7 @@
 		"code":"440308003",
 		"fullCode":"440308003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙头角街道",
 		"parentCode":"440308"
 	},
@@ -27,7 +27,7 @@
 		"code":"440308004",
 		"fullCode":"440308004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海山街道",
 		"parentCode":"440308"
 	},
@@ -35,7 +35,7 @@
 		"code":"440308403",
 		"fullCode":"440308403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"深圳盐田综合保税区",
 		"parentCode":"440308"
 	}

@@ -3,7 +3,7 @@
 		"code":"532329101",
 		"fullCode":"532329101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮山镇",
 		"parentCode":"532329"
 	},
@@ -11,7 +11,7 @@
 		"code":"532329102",
 		"fullCode":"532329102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥镇",
 		"parentCode":"532329"
 	},
@@ -19,7 +19,7 @@
 		"code":"532329103",
 		"fullCode":"532329103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"猫街镇",
 		"parentCode":"532329"
 	},
@@ -27,7 +27,7 @@
 		"code":"532329104",
 		"fullCode":"532329104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"插甸镇",
 		"parentCode":"532329"
 	},
@@ -35,7 +35,7 @@
 		"code":"532329105",
 		"fullCode":"532329105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白路镇",
 		"parentCode":"532329"
 	},
@@ -43,7 +43,7 @@
 		"code":"532329106",
 		"fullCode":"532329106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万德镇",
 		"parentCode":"532329"
 	},
@@ -51,7 +51,7 @@
 		"code":"532329107",
 		"fullCode":"532329107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"己衣镇",
 		"parentCode":"532329"
 	},
@@ -59,7 +59,7 @@
 		"code":"532329202",
 		"fullCode":"532329202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田心乡",
 		"parentCode":"532329"
 	},
@@ -67,7 +67,7 @@
 		"code":"532329203",
 		"fullCode":"532329203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"发窝乡",
 		"parentCode":"532329"
 	},
@@ -75,7 +75,7 @@
 		"code":"532329207",
 		"fullCode":"532329207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"环州乡",
 		"parentCode":"532329"
 	},
@@ -83,7 +83,7 @@
 		"code":"532329208",
 		"fullCode":"532329208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坡傣族乡",
 		"parentCode":"532329"
 	}

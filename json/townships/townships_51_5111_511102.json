@@ -3,7 +3,7 @@
 		"code":"511102004",
 		"fullCode":"511102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大佛街道",
 		"parentCode":"511102"
 	},
@@ -11,7 +11,7 @@
 		"code":"511102006",
 		"fullCode":"511102006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通江街道",
 		"parentCode":"511102"
 	},
@@ -19,7 +19,7 @@
 		"code":"511102008",
 		"fullCode":"511102008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海棠街道",
 		"parentCode":"511102"
 	},
@@ -27,7 +27,7 @@
 		"code":"511102009",
 		"fullCode":"511102009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绿心街道",
 		"parentCode":"511102"
 	},
@@ -35,7 +35,7 @@
 		"code":"511102010",
 		"fullCode":"511102010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"全福街道",
 		"parentCode":"511102"
 	},
@@ -43,7 +43,7 @@
 		"code":"511102101",
 		"fullCode":"511102101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牟子镇",
 		"parentCode":"511102"
 	},
@@ -51,7 +51,7 @@
 		"code":"511102102",
 		"fullCode":"511102102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土主镇",
 		"parentCode":"511102"
 	},
@@ -59,7 +59,7 @@
 		"code":"511102103",
 		"fullCode":"511102103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马镇",
 		"parentCode":"511102"
 	},
@@ -67,7 +67,7 @@
 		"code":"511102104",
 		"fullCode":"511102104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅桥镇",
 		"parentCode":"511102"
 	},
@@ -75,7 +75,7 @@
 		"code":"511102105",
 		"fullCode":"511102105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青平镇",
 		"parentCode":"511102"
 	},
@@ -83,7 +83,7 @@
 		"code":"511102106",
 		"fullCode":"511102106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏稽镇",
 		"parentCode":"511102"
 	},
@@ -91,7 +91,7 @@
 		"code":"511102107",
 		"fullCode":"511102107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口镇",
 		"parentCode":"511102"
 	},
@@ -99,7 +99,7 @@
 		"code":"511102108",
 		"fullCode":"511102108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安谷镇",
 		"parentCode":"511102"
 	},
@@ -107,7 +107,7 @@
 		"code":"511102109",
 		"fullCode":"511102109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棉竹镇",
 		"parentCode":"511102"
 	},
@@ -115,7 +115,7 @@
 		"code":"511102116",
 		"fullCode":"511102116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平兴镇",
 		"parentCode":"511102"
 	},
@@ -123,7 +123,7 @@
 		"code":"511102117",
 		"fullCode":"511102117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"悦来镇",
 		"parentCode":"511102"
 	},
@@ -131,7 +131,7 @@
 		"code":"511102118",
 		"fullCode":"511102118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"剑峰镇",
 		"parentCode":"511102"
 	}

@@ -3,7 +3,7 @@
 		"code":"513201",
 		"fullCode":"513201000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"马尔康市",
 		"parentCode":"5132"
 	},
@@ -11,7 +11,7 @@
 		"code":"513221",
 		"fullCode":"513221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汶川县",
 		"parentCode":"5132"
 	},
@@ -19,7 +19,7 @@
 		"code":"513222",
 		"fullCode":"513222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"理县",
 		"parentCode":"5132"
 	},
@@ -27,7 +27,7 @@
 		"code":"513223",
 		"fullCode":"513223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"茂县",
 		"parentCode":"5132"
 	},
@@ -35,7 +35,7 @@
 		"code":"513224",
 		"fullCode":"513224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"松潘县",
 		"parentCode":"5132"
 	},
@@ -43,7 +43,7 @@
 		"code":"513225",
 		"fullCode":"513225000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"九寨沟县",
 		"parentCode":"5132"
 	},
@@ -51,7 +51,7 @@
 		"code":"513226",
 		"fullCode":"513226000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金川县",
 		"parentCode":"5132"
 	},
@@ -59,7 +59,7 @@
 		"code":"513227",
 		"fullCode":"513227000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"小金县",
 		"parentCode":"5132"
 	},
@@ -67,7 +67,7 @@
 		"code":"513228",
 		"fullCode":"513228000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黑水县",
 		"parentCode":"5132"
 	},
@@ -75,7 +75,7 @@
 		"code":"513230",
 		"fullCode":"513230000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"壤塘县",
 		"parentCode":"5132"
 	},
@@ -83,7 +83,7 @@
 		"code":"513231",
 		"fullCode":"513231000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿坝县",
 		"parentCode":"5132"
 	},
@@ -91,7 +91,7 @@
 		"code":"513232",
 		"fullCode":"513232000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"若尔盖县",
 		"parentCode":"5132"
 	},
@@ -99,7 +99,7 @@
 		"code":"513233",
 		"fullCode":"513233000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"红原县",
 		"parentCode":"5132"
 	}

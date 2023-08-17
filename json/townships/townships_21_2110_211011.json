@@ -3,7 +3,7 @@
 		"code":"211011003",
 		"fullCode":"211011003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西街道",
 		"parentCode":"211011"
 	},
@@ -11,7 +11,7 @@
 		"code":"211011101",
 		"fullCode":"211011101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祁家镇",
 		"parentCode":"211011"
 	},
@@ -19,7 +19,7 @@
 		"code":"211011102",
 		"fullCode":"211011102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙岭镇",
 		"parentCode":"211011"
 	},
@@ -27,7 +27,7 @@
 		"code":"211011103",
 		"fullCode":"211011103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家镇",
 		"parentCode":"211011"
 	},
@@ -35,7 +35,7 @@
 		"code":"211011204",
 		"fullCode":"211011204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东宁卫乡",
 		"parentCode":"211011"
 	}

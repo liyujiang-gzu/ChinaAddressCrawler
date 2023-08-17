@@ -3,7 +3,7 @@
 		"code":"230304001",
 		"fullCode":"230304001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴街道",
 		"parentCode":"230304"
 	},
@@ -11,7 +11,7 @@
 		"code":"230304002",
 		"fullCode":"230304002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿里街道",
 		"parentCode":"230304"
 	},
@@ -19,7 +19,7 @@
 		"code":"230304003",
 		"fullCode":"230304003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洗煤街道",
 		"parentCode":"230304"
 	},
@@ -27,7 +27,7 @@
 		"code":"230304004",
 		"fullCode":"230304004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大通沟街道",
 		"parentCode":"230304"
 	},
@@ -35,7 +35,7 @@
 		"code":"230304200",
 		"fullCode":"230304200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滴道河乡",
 		"parentCode":"230304"
 	},
@@ -43,7 +43,7 @@
 		"code":"230304201",
 		"fullCode":"230304201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰岭乡",
 		"parentCode":"230304"
 	}

@@ -3,7 +3,7 @@
 		"code":"530125001",
 		"fullCode":"530125001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"匡远街道",
 		"parentCode":"530125"
 	},
@@ -11,7 +11,7 @@
 		"code":"530125002",
 		"fullCode":"530125002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤池街道",
 		"parentCode":"530125"
 	},
@@ -19,7 +19,7 @@
 		"code":"530125003",
 		"fullCode":"530125003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南羊街道",
 		"parentCode":"530125"
 	},
@@ -27,7 +27,7 @@
 		"code":"530125102",
 		"fullCode":"530125102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北古城镇",
 		"parentCode":"530125"
 	},
@@ -35,7 +35,7 @@
 		"code":"530125103",
 		"fullCode":"530125103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狗街镇",
 		"parentCode":"530125"
 	},
@@ -43,7 +43,7 @@
 		"code":"530125105",
 		"fullCode":"530125105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹山镇",
 		"parentCode":"530125"
 	},
@@ -51,7 +51,7 @@
 		"code":"530125106",
 		"fullCode":"530125106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马街镇",
 		"parentCode":"530125"
 	},
@@ -59,7 +59,7 @@
 		"code":"530125201",
 		"fullCode":"530125201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"耿家营彝族苗族乡",
 		"parentCode":"530125"
 	},
@@ -67,7 +67,7 @@
 		"code":"530125202",
 		"fullCode":"530125202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九乡彝族回族乡",
 		"parentCode":"530125"
 	},
@@ -75,7 +75,7 @@
 		"code":"530125404",
 		"fullCode":"530125404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆明阳宗海风景名胜区",
 		"parentCode":"530125"
 	}

@@ -3,7 +3,7 @@
 		"code":"230717",
 		"fullCode":"230717000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"伊美区",
 		"parentCode":"2307"
 	},
@@ -11,7 +11,7 @@
 		"code":"230718",
 		"fullCode":"230718000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌翠区",
 		"parentCode":"2307"
 	},
@@ -19,7 +19,7 @@
 		"code":"230719",
 		"fullCode":"230719000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"友好区",
 		"parentCode":"2307"
 	},
@@ -27,7 +27,7 @@
 		"code":"230722",
 		"fullCode":"230722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"嘉荫县",
 		"parentCode":"2307"
 	},
@@ -35,7 +35,7 @@
 		"code":"230723",
 		"fullCode":"230723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汤旺县",
 		"parentCode":"2307"
 	},
@@ -43,7 +43,7 @@
 		"code":"230724",
 		"fullCode":"230724000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丰林县",
 		"parentCode":"2307"
 	},
@@ -51,7 +51,7 @@
 		"code":"230725",
 		"fullCode":"230725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大箐山县",
 		"parentCode":"2307"
 	},
@@ -59,7 +59,7 @@
 		"code":"230726",
 		"fullCode":"230726000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南岔县",
 		"parentCode":"2307"
 	},
@@ -67,7 +67,7 @@
 		"code":"230751",
 		"fullCode":"230751000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金林区",
 		"parentCode":"2307"
 	},
@@ -75,7 +75,7 @@
 		"code":"230781",
 		"fullCode":"230781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铁力市",
 		"parentCode":"2307"
 	}

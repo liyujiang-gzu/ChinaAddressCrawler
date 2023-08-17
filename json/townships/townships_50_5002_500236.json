@@ -3,7 +3,7 @@
 		"code":"500236001",
 		"fullCode":"500236001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安街道",
 		"parentCode":"500236"
 	},
@@ -11,7 +11,7 @@
 		"code":"500236002",
 		"fullCode":"500236002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼复街道",
 		"parentCode":"500236"
 	},
@@ -19,7 +19,7 @@
 		"code":"500236003",
 		"fullCode":"500236003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夔门街道",
 		"parentCode":"500236"
 	},
@@ -27,7 +27,7 @@
 		"code":"500236004",
 		"fullCode":"500236004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夔州街道",
 		"parentCode":"500236"
 	},
@@ -35,7 +35,7 @@
 		"code":"500236117",
 		"fullCode":"500236117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白帝镇",
 		"parentCode":"500236"
 	},
@@ -43,7 +43,7 @@
 		"code":"500236118",
 		"fullCode":"500236118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草堂镇",
 		"parentCode":"500236"
 	},
@@ -51,7 +51,7 @@
 		"code":"500236119",
 		"fullCode":"500236119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汾河镇",
 		"parentCode":"500236"
 	},
@@ -59,7 +59,7 @@
 		"code":"500236120",
 		"fullCode":"500236120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康乐镇",
 		"parentCode":"500236"
 	},
@@ -67,7 +67,7 @@
 		"code":"500236121",
 		"fullCode":"500236121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大树镇",
 		"parentCode":"500236"
 	},
@@ -75,7 +75,7 @@
 		"code":"500236122",
 		"fullCode":"500236122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹园镇",
 		"parentCode":"500236"
 	},
@@ -83,7 +83,7 @@
 		"code":"500236123",
 		"fullCode":"500236123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公平镇",
 		"parentCode":"500236"
 	},
@@ -91,7 +91,7 @@
 		"code":"500236124",
 		"fullCode":"500236124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱衣镇",
 		"parentCode":"500236"
 	},
@@ -99,7 +99,7 @@
 		"code":"500236125",
 		"fullCode":"500236125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲高镇",
 		"parentCode":"500236"
 	},
@@ -107,7 +107,7 @@
 		"code":"500236126",
 		"fullCode":"500236126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊市镇",
 		"parentCode":"500236"
 	},
@@ -115,7 +115,7 @@
 		"code":"500236127",
 		"fullCode":"500236127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吐祥镇",
 		"parentCode":"500236"
 	},
@@ -123,7 +123,7 @@
 		"code":"500236128",
 		"fullCode":"500236128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"500236"
 	},
@@ -131,7 +131,7 @@
 		"code":"500236129",
 		"fullCode":"500236129000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙镇",
 		"parentCode":"500236"
 	},
@@ -139,7 +139,7 @@
 		"code":"500236130",
 		"fullCode":"500236130000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民镇",
 		"parentCode":"500236"
 	},
@@ -147,7 +147,7 @@
 		"code":"500236131",
 		"fullCode":"500236131000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乐镇",
 		"parentCode":"500236"
 	},
@@ -155,7 +155,7 @@
 		"code":"500236132",
 		"fullCode":"500236132000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安坪镇",
 		"parentCode":"500236"
 	},
@@ -163,7 +163,7 @@
 		"code":"500236133",
 		"fullCode":"500236133000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五马镇",
 		"parentCode":"500236"
 	},
@@ -171,7 +171,7 @@
 		"code":"500236134",
 		"fullCode":"500236134000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青莲镇",
 		"parentCode":"500236"
 	},
@@ -179,7 +179,7 @@
 		"code":"500236265",
 		"fullCode":"500236265000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩湾乡",
 		"parentCode":"500236"
 	},
@@ -187,7 +187,7 @@
 		"code":"500236266",
 		"fullCode":"500236266000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安乡",
 		"parentCode":"500236"
 	},
@@ -195,7 +195,7 @@
 		"code":"500236267",
 		"fullCode":"500236267000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红土乡",
 		"parentCode":"500236"
 	},
@@ -203,7 +203,7 @@
 		"code":"500236269",
 		"fullCode":"500236269000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石岗乡",
 		"parentCode":"500236"
 	},
@@ -211,7 +211,7 @@
 		"code":"500236270",
 		"fullCode":"500236270000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康坪乡",
 		"parentCode":"500236"
 	},
@@ -219,7 +219,7 @@
 		"code":"500236272",
 		"fullCode":"500236272000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和土家族乡",
 		"parentCode":"500236"
 	},
@@ -227,7 +227,7 @@
 		"code":"500236274",
 		"fullCode":"500236274000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤峰乡",
 		"parentCode":"500236"
 	},
@@ -235,7 +235,7 @@
 		"code":"500236275",
 		"fullCode":"500236275000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯坪乡",
 		"parentCode":"500236"
 	},
@@ -243,7 +243,7 @@
 		"code":"500236276",
 		"fullCode":"500236276000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安土家族乡",
 		"parentCode":"500236"
 	},
@@ -251,7 +251,7 @@
 		"code":"500236277",
 		"fullCode":"500236277000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙桥土家族乡",
 		"parentCode":"500236"
 	},
@@ -259,7 +259,7 @@
 		"code":"500236278",
 		"fullCode":"500236278000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云雾土家族乡",
 		"parentCode":"500236"
 	}

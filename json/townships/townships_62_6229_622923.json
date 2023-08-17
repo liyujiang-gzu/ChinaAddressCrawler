@@ -3,7 +3,7 @@
 		"code":"622923100",
 		"fullCode":"622923100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘家峡镇",
 		"parentCode":"622923"
 	},
@@ -11,7 +11,7 @@
 		"code":"622923101",
 		"fullCode":"622923101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐锅峡镇",
 		"parentCode":"622923"
 	},
@@ -19,7 +19,7 @@
 		"code":"622923102",
 		"fullCode":"622923102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太极镇",
 		"parentCode":"622923"
 	},
@@ -27,7 +27,7 @@
 		"code":"622923103",
 		"fullCode":"622923103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河镇",
 		"parentCode":"622923"
 	},
@@ -35,7 +35,7 @@
 		"code":"622923104",
 		"fullCode":"622923104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三塬镇",
 		"parentCode":"622923"
 	},
@@ -43,7 +43,7 @@
 		"code":"622923105",
 		"fullCode":"622923105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岘塬镇",
 		"parentCode":"622923"
 	},
@@ -51,7 +51,7 @@
 		"code":"622923106",
 		"fullCode":"622923106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈井镇",
 		"parentCode":"622923"
 	},
@@ -59,7 +59,7 @@
 		"code":"622923107",
 		"fullCode":"622923107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川城镇",
 		"parentCode":"622923"
 	},
@@ -67,7 +67,7 @@
 		"code":"622923108",
 		"fullCode":"622923108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王台镇",
 		"parentCode":"622923"
 	},
@@ -75,7 +75,7 @@
 		"code":"622923109",
 		"fullCode":"622923109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红泉镇",
 		"parentCode":"622923"
 	},
@@ -83,7 +83,7 @@
 		"code":"622923200",
 		"fullCode":"622923200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关山乡",
 		"parentCode":"622923"
 	},
@@ -91,7 +91,7 @@
 		"code":"622923201",
 		"fullCode":"622923201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐顶乡",
 		"parentCode":"622923"
 	},
@@ -99,7 +99,7 @@
 		"code":"622923202",
 		"fullCode":"622923202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三条岘乡",
 		"parentCode":"622923"
 	},
@@ -107,7 +107,7 @@
 		"code":"622923203",
 		"fullCode":"622923203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪沟乡",
 		"parentCode":"622923"
 	},
@@ -115,7 +115,7 @@
 		"code":"622923206",
 		"fullCode":"622923206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新寺乡",
 		"parentCode":"622923"
 	},
@@ -123,7 +123,7 @@
 		"code":"622923207",
 		"fullCode":"622923207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小岭乡",
 		"parentCode":"622923"
 	},
@@ -131,7 +131,7 @@
 		"code":"622923208",
 		"fullCode":"622923208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨塔乡",
 		"parentCode":"622923"
 	}

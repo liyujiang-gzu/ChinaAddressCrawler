@@ -3,7 +3,7 @@
 		"code":"654021100",
 		"fullCode":"654021100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉里于孜镇",
 		"parentCode":"654021"
 	},
@@ -11,7 +11,7 @@
 		"code":"654021101",
 		"fullCode":"654021101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墩麻扎镇",
 		"parentCode":"654021"
 	},
@@ -19,7 +19,7 @@
 		"code":"654021102",
 		"fullCode":"654021102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英塔木镇",
 		"parentCode":"654021"
 	},
@@ -27,7 +27,7 @@
 		"code":"654021103",
 		"fullCode":"654021103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡地于孜镇",
 		"parentCode":"654021"
 	},
@@ -35,7 +35,7 @@
 		"code":"654021104",
 		"fullCode":"654021104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴依托海镇",
 		"parentCode":"654021"
 	},
@@ -43,7 +43,7 @@
 		"code":"654021105",
 		"fullCode":"654021105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿热吾斯塘镇",
 		"parentCode":"654021"
 	},
@@ -51,7 +51,7 @@
 		"code":"654021106",
 		"fullCode":"654021106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨木于孜镇",
 		"parentCode":"654021"
 	},
@@ -59,7 +59,7 @@
 		"code":"654021107",
 		"fullCode":"654021107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喀什镇",
 		"parentCode":"654021"
 	},
@@ -67,7 +67,7 @@
 		"code":"654021108",
 		"fullCode":"654021108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"维吾尔玉其温镇",
 		"parentCode":"654021"
 	},
@@ -75,7 +75,7 @@
 		"code":"654021109",
 		"fullCode":"654021109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温亚尔镇",
 		"parentCode":"654021"
 	},
@@ -83,7 +83,7 @@
 		"code":"654021201",
 		"fullCode":"654021201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吐鲁番于孜乡",
 		"parentCode":"654021"
 	},
@@ -91,7 +91,7 @@
 		"code":"654021202",
 		"fullCode":"654021202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喀拉亚尕奇乡",
 		"parentCode":"654021"
 	},
@@ -99,7 +99,7 @@
 		"code":"654021203",
 		"fullCode":"654021203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武功乡",
 		"parentCode":"654021"
 	},
@@ -107,7 +107,7 @@
 		"code":"654021204",
 		"fullCode":"654021204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨地克于孜乡",
 		"parentCode":"654021"
 	},
@@ -115,7 +115,7 @@
 		"code":"654021205",
 		"fullCode":"654021205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"愉群翁回族乡",
 		"parentCode":"654021"
 	},
@@ -123,7 +123,7 @@
 		"code":"654021212",
 		"fullCode":"654021212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻扎乡",
 		"parentCode":"654021"
 	},
@@ -131,7 +131,7 @@
 		"code":"654021214",
 		"fullCode":"654021214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿乌利亚乡",
 		"parentCode":"654021"
 	},
@@ -139,7 +139,7 @@
 		"code":"654021215",
 		"fullCode":"654021215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲鲁海乡",
 		"parentCode":"654021"
 	},
@@ -147,7 +147,7 @@
 		"code":"654021501",
 		"fullCode":"654021501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团七十团中心团场",
 		"parentCode":"654021"
 	}

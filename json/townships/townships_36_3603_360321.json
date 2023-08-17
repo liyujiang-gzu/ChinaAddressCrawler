@@ -3,7 +3,7 @@
 		"code":"360321101",
 		"fullCode":"360321101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琴亭镇",
 		"parentCode":"360321"
 	},
@@ -11,7 +11,7 @@
 		"code":"360321102",
 		"fullCode":"360321102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路口镇",
 		"parentCode":"360321"
 	},
@@ -19,7 +19,7 @@
 		"code":"360321103",
 		"fullCode":"360321103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良坊镇",
 		"parentCode":"360321"
 	},
@@ -27,7 +27,7 @@
 		"code":"360321104",
 		"fullCode":"360321104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"升坊镇",
 		"parentCode":"360321"
 	},
@@ -35,7 +35,7 @@
 		"code":"360321105",
 		"fullCode":"360321105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坊楼镇",
 		"parentCode":"360321"
 	},
@@ -43,7 +43,7 @@
 		"code":"360321200",
 		"fullCode":"360321200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闪石乡",
 		"parentCode":"360321"
 	},
@@ -51,7 +51,7 @@
 		"code":"360321201",
 		"fullCode":"360321201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖上乡",
 		"parentCode":"360321"
 	},
@@ -59,7 +59,7 @@
 		"code":"360321202",
 		"fullCode":"360321202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三板桥乡",
 		"parentCode":"360321"
 	},
@@ -67,7 +67,7 @@
 		"code":"360321203",
 		"fullCode":"360321203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神泉乡",
 		"parentCode":"360321"
 	},
@@ -75,7 +75,7 @@
 		"code":"360321204",
 		"fullCode":"360321204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六市乡",
 		"parentCode":"360321"
 	},
@@ -83,7 +83,7 @@
 		"code":"360321205",
 		"fullCode":"360321205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高洲乡",
 		"parentCode":"360321"
 	},
@@ -91,7 +91,7 @@
 		"code":"360321206",
 		"fullCode":"360321206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷塘乡",
 		"parentCode":"360321"
 	},
@@ -99,7 +99,7 @@
 		"code":"360321207",
 		"fullCode":"360321207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岭乡",
 		"parentCode":"360321"
 	}

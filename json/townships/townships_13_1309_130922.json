@@ -3,7 +3,7 @@
 		"code":"130922100",
 		"fullCode":"130922100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清州镇",
 		"parentCode":"130922"
 	},
@@ -11,7 +11,7 @@
 		"code":"130922101",
 		"fullCode":"130922101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金牛镇",
 		"parentCode":"130922"
 	},
@@ -19,7 +19,7 @@
 		"code":"130922102",
 		"fullCode":"130922102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴镇",
 		"parentCode":"130922"
 	},
@@ -27,7 +27,7 @@
 		"code":"130922103",
 		"fullCode":"130922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流河镇",
 		"parentCode":"130922"
 	},
@@ -35,7 +35,7 @@
 		"code":"130922104",
 		"fullCode":"130922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木门店镇",
 		"parentCode":"130922"
 	},
@@ -43,7 +43,7 @@
 		"code":"130922105",
 		"fullCode":"130922105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马厂镇",
 		"parentCode":"130922"
 	},
@@ -51,7 +51,7 @@
 		"code":"130922106",
 		"fullCode":"130922106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘古镇",
 		"parentCode":"130922"
 	},
@@ -59,7 +59,7 @@
 		"code":"130922107",
 		"fullCode":"130922107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹寺镇",
 		"parentCode":"130922"
 	},
@@ -67,7 +67,7 @@
 		"code":"130922200",
 		"fullCode":"130922200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上伍乡",
 		"parentCode":"130922"
 	},
@@ -75,7 +75,7 @@
 		"code":"130922203",
 		"fullCode":"130922203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈嘴乡",
 		"parentCode":"130922"
 	},
@@ -83,7 +83,7 @@
 		"code":"130922400",
 		"fullCode":"130922400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青县农场",
 		"parentCode":"130922"
 	}

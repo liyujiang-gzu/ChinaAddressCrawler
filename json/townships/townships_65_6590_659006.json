@@ -3,7 +3,7 @@
 		"code":"659006001",
 		"fullCode":"659006001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎宾街道",
 		"parentCode":"659006"
 	},
@@ -11,7 +11,7 @@
 		"code":"659006100",
 		"fullCode":"659006100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博古其镇",
 		"parentCode":"659006"
 	},
@@ -19,7 +19,7 @@
 		"code":"659006101",
 		"fullCode":"659006101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双丰镇",
 		"parentCode":"659006"
 	},
@@ -27,7 +27,7 @@
 		"code":"659006102",
 		"fullCode":"659006102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河畔镇",
 		"parentCode":"659006"
 	},
@@ -35,7 +35,7 @@
 		"code":"659006103",
 		"fullCode":"659006103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥镇",
 		"parentCode":"659006"
 	},
@@ -43,7 +43,7 @@
 		"code":"659006104",
 		"fullCode":"659006104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天湖镇",
 		"parentCode":"659006"
 	},
@@ -51,7 +51,7 @@
 		"code":"659006105",
 		"fullCode":"659006105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开泽镇",
 		"parentCode":"659006"
 	},
@@ -59,7 +59,7 @@
 		"code":"659006106",
 		"fullCode":"659006106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米兰镇",
 		"parentCode":"659006"
 	},
@@ -67,7 +67,7 @@
 		"code":"659006107",
 		"fullCode":"659006107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山镇",
 		"parentCode":"659006"
 	},
@@ -75,7 +75,7 @@
 		"code":"659006108",
 		"fullCode":"659006108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南屯镇",
 		"parentCode":"659006"
 	},
@@ -83,7 +83,7 @@
 		"code":"659006501",
 		"fullCode":"659006501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁门关市经济技术开发区",
 		"parentCode":"659006"
 	}

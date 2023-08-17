@@ -3,7 +3,7 @@
 		"code":"411371060",
 		"fullCode":"411371060000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南阳高新区张衡街道",
 		"parentCode":"411371"
 	},
@@ -11,7 +11,7 @@
 		"code":"411371061",
 		"fullCode":"411371061000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南阳高新区百里奚街道",
 		"parentCode":"411371"
 	},
@@ -19,7 +19,7 @@
 		"code":"411371401",
 		"fullCode":"411371401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中关村南阳科技产业园",
 		"parentCode":"411371"
 	}

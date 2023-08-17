@@ -3,7 +3,7 @@
 		"code":"511504001",
 		"fullCode":"511504001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏溪街道",
 		"parentCode":"511504"
 	},
@@ -11,7 +11,7 @@
 		"code":"511504002",
 		"fullCode":"511504002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岸街道",
 		"parentCode":"511504"
 	},
@@ -19,7 +19,7 @@
 		"code":"511504003",
 		"fullCode":"511504003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵场街道",
 		"parentCode":"511504"
 	},
@@ -27,7 +27,7 @@
 		"code":"511504101",
 		"fullCode":"511504101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南广镇",
 		"parentCode":"511504"
 	},
@@ -35,7 +35,7 @@
 		"code":"511504103",
 		"fullCode":"511504103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音镇",
 		"parentCode":"511504"
 	},
@@ -43,7 +43,7 @@
 		"code":"511504104",
 		"fullCode":"511504104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横江镇",
 		"parentCode":"511504"
 	},
@@ -51,7 +51,7 @@
 		"code":"511504105",
 		"fullCode":"511504105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳嘉镇",
 		"parentCode":"511504"
 	},
@@ -59,7 +59,7 @@
 		"code":"511504106",
 		"fullCode":"511504106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥溪镇",
 		"parentCode":"511504"
 	},
@@ -67,7 +67,7 @@
 		"code":"511504107",
 		"fullCode":"511504107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蕨溪镇",
 		"parentCode":"511504"
 	},
@@ -75,7 +75,7 @@
 		"code":"511504108",
 		"fullCode":"511504108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商州镇",
 		"parentCode":"511504"
 	},
@@ -83,7 +83,7 @@
 		"code":"511504109",
 		"fullCode":"511504109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高场镇",
 		"parentCode":"511504"
 	},
@@ -91,7 +91,7 @@
 		"code":"511504110",
 		"fullCode":"511504110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安边镇",
 		"parentCode":"511504"
 	},
@@ -99,7 +99,7 @@
 		"code":"511504111",
 		"fullCode":"511504111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙镇",
 		"parentCode":"511504"
 	},
@@ -107,7 +107,7 @@
 		"code":"511504113",
 		"fullCode":"511504113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合什镇",
 		"parentCode":"511504"
 	},
@@ -115,7 +115,7 @@
 		"code":"511504119",
 		"fullCode":"511504119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樟海镇",
 		"parentCode":"511504"
 	},
@@ -123,7 +123,7 @@
 		"code":"511504202",
 		"fullCode":"511504202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙池乡",
 		"parentCode":"511504"
 	},
@@ -131,7 +131,7 @@
 		"code":"511504203",
 		"fullCode":"511504203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤仪乡",
 		"parentCode":"511504"
 	}

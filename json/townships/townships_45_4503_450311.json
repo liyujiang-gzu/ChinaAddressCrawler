@@ -3,7 +3,7 @@
 		"code":"450311001",
 		"fullCode":"450311001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良丰街道",
 		"parentCode":"450311"
 	},
@@ -11,7 +11,7 @@
 		"code":"450311100",
 		"fullCode":"450311100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雁山镇",
 		"parentCode":"450311"
 	},
@@ -19,7 +19,7 @@
 		"code":"450311101",
 		"fullCode":"450311101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柘木镇",
 		"parentCode":"450311"
 	},
@@ -27,7 +27,7 @@
 		"code":"450311200",
 		"fullCode":"450311200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大埠乡",
 		"parentCode":"450311"
 	},
@@ -35,7 +35,7 @@
 		"code":"450311201",
 		"fullCode":"450311201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草坪回族乡",
 		"parentCode":"450311"
 	}

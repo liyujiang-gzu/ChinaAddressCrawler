@@ -3,7 +3,7 @@
 		"code":"610327100",
 		"fullCode":"610327100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"610327"
 	},
@@ -11,7 +11,7 @@
 		"code":"610327101",
 		"fullCode":"610327101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风镇",
 		"parentCode":"610327"
 	},
@@ -19,7 +19,7 @@
 		"code":"610327102",
 		"fullCode":"610327102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八渡镇",
 		"parentCode":"610327"
 	},
@@ -27,7 +27,7 @@
 		"code":"610327104",
 		"fullCode":"610327104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东南镇",
 		"parentCode":"610327"
 	},
@@ -35,7 +35,7 @@
 		"code":"610327106",
 		"fullCode":"610327106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温水镇",
 		"parentCode":"610327"
 	},
@@ -43,7 +43,7 @@
 		"code":"610327107",
 		"fullCode":"610327107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天成镇",
 		"parentCode":"610327"
 	},
@@ -51,7 +51,7 @@
 		"code":"610327108",
 		"fullCode":"610327108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹家湾镇",
 		"parentCode":"610327"
 	},
@@ -59,7 +59,7 @@
 		"code":"610327109",
 		"fullCode":"610327109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固关镇",
 		"parentCode":"610327"
 	},
@@ -67,7 +67,7 @@
 		"code":"610327112",
 		"fullCode":"610327112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北镇",
 		"parentCode":"610327"
 	},
@@ -75,7 +75,7 @@
 		"code":"610327113",
 		"fullCode":"610327113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新集川镇",
 		"parentCode":"610327"
 	}

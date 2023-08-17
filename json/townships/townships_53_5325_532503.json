@@ -3,7 +3,7 @@
 		"code":"532503001",
 		"fullCode":"532503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文澜街道",
 		"parentCode":"532503"
 	},
@@ -11,7 +11,7 @@
 		"code":"532503002",
 		"fullCode":"532503002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雨过铺街道",
 		"parentCode":"532503"
 	},
@@ -19,7 +19,7 @@
 		"code":"532503003",
 		"fullCode":"532503003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观澜街道",
 		"parentCode":"532503"
 	},
@@ -27,7 +27,7 @@
 		"code":"532503004",
 		"fullCode":"532503004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文萃街道",
 		"parentCode":"532503"
 	},
@@ -35,7 +35,7 @@
 		"code":"532503005",
 		"fullCode":"532503005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安所街道",
 		"parentCode":"532503"
 	},
@@ -43,7 +43,7 @@
 		"code":"532503102",
 		"fullCode":"532503102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草坝镇",
 		"parentCode":"532503"
 	},
@@ -51,7 +51,7 @@
 		"code":"532503105",
 		"fullCode":"532503105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芷村镇",
 		"parentCode":"532503"
 	},
@@ -59,7 +59,7 @@
 		"code":"532503106",
 		"fullCode":"532503106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸣鹫镇",
 		"parentCode":"532503"
 	},
@@ -67,7 +67,7 @@
 		"code":"532503107",
 		"fullCode":"532503107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冷泉镇",
 		"parentCode":"532503"
 	},
@@ -75,7 +75,7 @@
 		"code":"532503201",
 		"fullCode":"532503201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"期路白苗族乡",
 		"parentCode":"532503"
 	},
@@ -83,7 +83,7 @@
 		"code":"532503202",
 		"fullCode":"532503202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老寨苗族乡",
 		"parentCode":"532503"
 	},
@@ -91,7 +91,7 @@
 		"code":"532503203",
 		"fullCode":"532503203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水田乡",
 		"parentCode":"532503"
 	},
@@ -99,7 +99,7 @@
 		"code":"532503204",
 		"fullCode":"532503204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西北勒乡",
 		"parentCode":"532503"
 	}

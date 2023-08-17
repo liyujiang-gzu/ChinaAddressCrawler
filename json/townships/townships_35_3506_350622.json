@@ -3,7 +3,7 @@
 		"code":"350622100",
 		"fullCode":"350622100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云陵镇",
 		"parentCode":"350622"
 	},
@@ -11,7 +11,7 @@
 		"code":"350622101",
 		"fullCode":"350622101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈岱镇",
 		"parentCode":"350622"
 	},
@@ -19,7 +19,7 @@
 		"code":"350622102",
 		"fullCode":"350622102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东厦镇",
 		"parentCode":"350622"
 	},
@@ -27,7 +27,7 @@
 		"code":"350622103",
 		"fullCode":"350622103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莆美镇",
 		"parentCode":"350622"
 	},
@@ -35,7 +35,7 @@
 		"code":"350622104",
 		"fullCode":"350622104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"列屿镇",
 		"parentCode":"350622"
 	},
@@ -43,7 +43,7 @@
 		"code":"350622105",
 		"fullCode":"350622105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火田镇",
 		"parentCode":"350622"
 	},
@@ -51,7 +51,7 @@
 		"code":"350622200",
 		"fullCode":"350622200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下河乡",
 		"parentCode":"350622"
 	},
@@ -59,7 +59,7 @@
 		"code":"350622201",
 		"fullCode":"350622201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马铺乡",
 		"parentCode":"350622"
 	},
@@ -67,7 +67,7 @@
 		"code":"350622202",
 		"fullCode":"350622202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平乡",
 		"parentCode":"350622"
 	},
@@ -75,7 +75,7 @@
 		"code":"350622500",
 		"fullCode":"350622500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常山华侨经济开发区",
 		"parentCode":"350622"
 	},
@@ -83,7 +83,7 @@
 		"code":"350622501",
 		"fullCode":"350622501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云陵工业开发区",
 		"parentCode":"350622"
 	}

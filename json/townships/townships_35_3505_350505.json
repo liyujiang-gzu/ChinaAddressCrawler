@@ -3,7 +3,7 @@
 		"code":"350505001",
 		"fullCode":"350505001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山腰街道",
 		"parentCode":"350505"
 	},
@@ -11,7 +11,7 @@
 		"code":"350505100",
 		"fullCode":"350505100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南埔镇",
 		"parentCode":"350505"
 	},
@@ -19,7 +19,7 @@
 		"code":"350505101",
 		"fullCode":"350505101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界山镇",
 		"parentCode":"350505"
 	},
@@ -27,7 +27,7 @@
 		"code":"350505102",
 		"fullCode":"350505102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后龙镇",
 		"parentCode":"350505"
 	},
@@ -35,7 +35,7 @@
 		"code":"350505103",
 		"fullCode":"350505103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峰尾镇",
 		"parentCode":"350505"
 	},
@@ -43,7 +43,7 @@
 		"code":"350505105",
 		"fullCode":"350505105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前黄镇",
 		"parentCode":"350505"
 	},
@@ -51,7 +51,7 @@
 		"code":"350505106",
 		"fullCode":"350505106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涂岭镇",
 		"parentCode":"350505"
 	},
@@ -59,7 +59,7 @@
 		"code":"350505400",
 		"fullCode":"350505400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石化工业园区",
 		"parentCode":"350505"
 	}

@@ -3,7 +3,7 @@
 		"code":"340825100",
 		"fullCode":"340825100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋熙镇",
 		"parentCode":"340825"
 	},
@@ -11,7 +11,7 @@
 		"code":"340825101",
 		"fullCode":"340825101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐桥镇",
 		"parentCode":"340825"
 	},
@@ -19,7 +19,7 @@
 		"code":"340825102",
 		"fullCode":"340825102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新仓镇",
 		"parentCode":"340825"
 	},
@@ -27,7 +27,7 @@
 		"code":"340825103",
 		"fullCode":"340825103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小池镇",
 		"parentCode":"340825"
 	},
@@ -35,7 +35,7 @@
 		"code":"340825104",
 		"fullCode":"340825104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺前镇",
 		"parentCode":"340825"
 	},
@@ -43,7 +43,7 @@
 		"code":"340825105",
 		"fullCode":"340825105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天华镇",
 		"parentCode":"340825"
 	},
@@ -51,7 +51,7 @@
 		"code":"340825106",
 		"fullCode":"340825106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛镇镇",
 		"parentCode":"340825"
 	},
@@ -59,7 +59,7 @@
 		"code":"340825107",
 		"fullCode":"340825107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弥陀镇",
 		"parentCode":"340825"
 	},
@@ -67,7 +67,7 @@
 		"code":"340825108",
 		"fullCode":"340825108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北中镇",
 		"parentCode":"340825"
 	},
@@ -75,7 +75,7 @@
 		"code":"340825109",
 		"fullCode":"340825109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百里镇",
 		"parentCode":"340825"
 	},
@@ -83,7 +83,7 @@
 		"code":"340825200",
 		"fullCode":"340825200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石乡",
 		"parentCode":"340825"
 	},
@@ -91,7 +91,7 @@
 		"code":"340825201",
 		"fullCode":"340825201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西乡",
 		"parentCode":"340825"
 	},
@@ -99,7 +99,7 @@
 		"code":"340825202",
 		"fullCode":"340825202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江塘乡",
 		"parentCode":"340825"
 	},
@@ -107,7 +107,7 @@
 		"code":"340825203",
 		"fullCode":"340825203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤泉乡",
 		"parentCode":"340825"
 	},
@@ -115,7 +115,7 @@
 		"code":"340825204",
 		"fullCode":"340825204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘畈乡",
 		"parentCode":"340825"
 	},
@@ -123,7 +123,7 @@
 		"code":"340825400",
 		"fullCode":"340825400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"经济开发区",
 		"parentCode":"340825"
 	},
@@ -131,7 +131,7 @@
 		"code":"340825401",
 		"fullCode":"340825401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花凉亭水电站",
 		"parentCode":"340825"
 	}

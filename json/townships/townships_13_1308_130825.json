@@ -3,7 +3,7 @@
 		"code":"130825001",
 		"fullCode":"130825001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安州街道",
 		"parentCode":"130825"
 	},
@@ -11,7 +11,7 @@
 		"code":"130825101",
 		"fullCode":"130825101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩麻营镇",
 		"parentCode":"130825"
 	},
@@ -19,7 +19,7 @@
 		"code":"130825102",
 		"fullCode":"130825102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中关镇",
 		"parentCode":"130825"
 	},
@@ -27,7 +27,7 @@
 		"code":"130825103",
 		"fullCode":"130825103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七家镇",
 		"parentCode":"130825"
 	},
@@ -35,7 +35,7 @@
 		"code":"130825104",
 		"fullCode":"130825104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤头沟镇",
 		"parentCode":"130825"
 	},
@@ -43,7 +43,7 @@
 		"code":"130825105",
 		"fullCode":"130825105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张三营镇",
 		"parentCode":"130825"
 	},
@@ -51,7 +51,7 @@
 		"code":"130825106",
 		"fullCode":"130825106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐三营镇",
 		"parentCode":"130825"
 	},
@@ -59,7 +59,7 @@
 		"code":"130825107",
 		"fullCode":"130825107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝旗镇",
 		"parentCode":"130825"
 	},
@@ -67,7 +67,7 @@
 		"code":"130825108",
 		"fullCode":"130825108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"步古沟镇",
 		"parentCode":"130825"
 	},
@@ -75,7 +75,7 @@
 		"code":"130825109",
 		"fullCode":"130825109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭家屯镇",
 		"parentCode":"130825"
 	},
@@ -83,7 +83,7 @@
 		"code":"130825110",
 		"fullCode":"130825110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅荆坝镇",
 		"parentCode":"130825"
 	},
@@ -91,7 +91,7 @@
 		"code":"130825111",
 		"fullCode":"130825111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苔山镇",
 		"parentCode":"130825"
 	},
@@ -99,7 +99,7 @@
 		"code":"130825112",
 		"fullCode":"130825112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荒地镇",
 		"parentCode":"130825"
 	},
@@ -107,7 +107,7 @@
 		"code":"130825113",
 		"fullCode":"130825113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章吉营镇",
 		"parentCode":"130825"
 	},
@@ -115,7 +115,7 @@
 		"code":"130825114",
 		"fullCode":"130825114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"偏坡营镇",
 		"parentCode":"130825"
 	},
@@ -123,7 +123,7 @@
 		"code":"130825203",
 		"fullCode":"130825203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尹家营满族乡",
 		"parentCode":"130825"
 	},
@@ -131,7 +131,7 @@
 		"code":"130825204",
 		"fullCode":"130825204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙子沟蒙古族满族乡",
 		"parentCode":"130825"
 	},
@@ -139,7 +139,7 @@
 		"code":"130825206",
 		"fullCode":"130825206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山湾乡",
 		"parentCode":"130825"
 	},
@@ -147,7 +147,7 @@
 		"code":"130825207",
 		"fullCode":"130825207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八达营蒙古族乡",
 		"parentCode":"130825"
 	},
@@ -155,7 +155,7 @@
 		"code":"130825208",
 		"fullCode":"130825208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平庄满族乡",
 		"parentCode":"130825"
 	},
@@ -163,7 +163,7 @@
 		"code":"130825209",
 		"fullCode":"130825209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧屯满族乡",
 		"parentCode":"130825"
 	},
@@ -171,7 +171,7 @@
 		"code":"130825210",
 		"fullCode":"130825210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西阿超满族蒙古族乡",
 		"parentCode":"130825"
 	},
@@ -179,7 +179,7 @@
 		"code":"130825212",
 		"fullCode":"130825212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碱房乡",
 		"parentCode":"130825"
 	},
@@ -187,7 +187,7 @@
 		"code":"130825213",
 		"fullCode":"130825213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩家店乡",
 		"parentCode":"130825"
 	},
@@ -195,7 +195,7 @@
 		"code":"130825214",
 		"fullCode":"130825214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾沟门乡",
 		"parentCode":"130825"
 	}

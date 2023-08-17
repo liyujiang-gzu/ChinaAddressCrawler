@@ -3,7 +3,7 @@
 		"code":"610802",
 		"fullCode":"610802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"榆阳区",
 		"parentCode":"6108"
 	},
@@ -11,7 +11,7 @@
 		"code":"610803",
 		"fullCode":"610803000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"横山区",
 		"parentCode":"6108"
 	},
@@ -19,7 +19,7 @@
 		"code":"610822",
 		"fullCode":"610822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"府谷县",
 		"parentCode":"6108"
 	},
@@ -27,7 +27,7 @@
 		"code":"610824",
 		"fullCode":"610824000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"靖边县",
 		"parentCode":"6108"
 	},
@@ -35,7 +35,7 @@
 		"code":"610825",
 		"fullCode":"610825000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"定边县",
 		"parentCode":"6108"
 	},
@@ -43,7 +43,7 @@
 		"code":"610826",
 		"fullCode":"610826000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"绥德县",
 		"parentCode":"6108"
 	},
@@ -51,7 +51,7 @@
 		"code":"610827",
 		"fullCode":"610827000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"米脂县",
 		"parentCode":"6108"
 	},
@@ -59,7 +59,7 @@
 		"code":"610828",
 		"fullCode":"610828000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"佳县",
 		"parentCode":"6108"
 	},
@@ -67,7 +67,7 @@
 		"code":"610829",
 		"fullCode":"610829000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"吴堡县",
 		"parentCode":"6108"
 	},
@@ -75,7 +75,7 @@
 		"code":"610830",
 		"fullCode":"610830000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"清涧县",
 		"parentCode":"6108"
 	},
@@ -83,7 +83,7 @@
 		"code":"610831",
 		"fullCode":"610831000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"子洲县",
 		"parentCode":"6108"
 	},
@@ -91,7 +91,7 @@
 		"code":"610881",
 		"fullCode":"610881000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"神木市",
 		"parentCode":"6108"
 	}

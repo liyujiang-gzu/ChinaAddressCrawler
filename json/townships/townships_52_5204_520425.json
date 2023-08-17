@@ -3,7 +3,7 @@
 		"code":"520425001",
 		"fullCode":"520425001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松山街道",
 		"parentCode":"520425"
 	},
@@ -11,7 +11,7 @@
 		"code":"520425002",
 		"fullCode":"520425002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五峰街道",
 		"parentCode":"520425"
 	},
@@ -19,7 +19,7 @@
 		"code":"520425003",
 		"fullCode":"520425003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云岭街道",
 		"parentCode":"520425"
 	},
@@ -27,7 +27,7 @@
 		"code":"520425101",
 		"fullCode":"520425101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"格凸河镇",
 		"parentCode":"520425"
 	},
@@ -35,7 +35,7 @@
 		"code":"520425102",
 		"fullCode":"520425102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"猴场镇",
 		"parentCode":"520425"
 	},
@@ -43,7 +43,7 @@
 		"code":"520425103",
 		"fullCode":"520425103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"猫营镇",
 		"parentCode":"520425"
 	},
@@ -51,7 +51,7 @@
 		"code":"520425104",
 		"fullCode":"520425104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板当镇",
 		"parentCode":"520425"
 	},
@@ -59,7 +59,7 @@
 		"code":"520425105",
 		"fullCode":"520425105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗地镇",
 		"parentCode":"520425"
 	},
@@ -67,7 +67,7 @@
 		"code":"520425106",
 		"fullCode":"520425106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营镇",
 		"parentCode":"520425"
 	},
@@ -75,7 +75,7 @@
 		"code":"520425107",
 		"fullCode":"520425107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坝羊镇",
 		"parentCode":"520425"
 	},
@@ -83,7 +83,7 @@
 		"code":"520425108",
 		"fullCode":"520425108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火花镇",
 		"parentCode":"520425"
 	},
@@ -91,7 +91,7 @@
 		"code":"520425200",
 		"fullCode":"520425200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石岩乡",
 		"parentCode":"520425"
 	},
@@ -99,7 +99,7 @@
 		"code":"520425203",
 		"fullCode":"520425203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四大寨乡",
 		"parentCode":"520425"
 	}

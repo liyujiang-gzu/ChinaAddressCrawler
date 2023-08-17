@@ -3,7 +3,7 @@
 		"code":"130632100",
 		"fullCode":"130632100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安新镇",
 		"parentCode":"130632"
 	},
@@ -11,7 +11,7 @@
 		"code":"130632101",
 		"fullCode":"130632101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大王镇",
 		"parentCode":"130632"
 	},
@@ -19,7 +19,7 @@
 		"code":"130632102",
 		"fullCode":"130632102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三台镇",
 		"parentCode":"130632"
 	},
@@ -27,7 +27,7 @@
 		"code":"130632103",
 		"fullCode":"130632103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"端村镇",
 		"parentCode":"130632"
 	},
@@ -35,7 +35,7 @@
 		"code":"130632104",
 		"fullCode":"130632104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵北口镇",
 		"parentCode":"130632"
 	},
@@ -43,7 +43,7 @@
 		"code":"130632105",
 		"fullCode":"130632105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同口镇",
 		"parentCode":"130632"
 	},
@@ -51,7 +51,7 @@
 		"code":"130632106",
 		"fullCode":"130632106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘李庄镇",
 		"parentCode":"130632"
 	},
@@ -59,7 +59,7 @@
 		"code":"130632107",
 		"fullCode":"130632107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安州镇",
 		"parentCode":"130632"
 	},
@@ -67,7 +67,7 @@
 		"code":"130632108",
 		"fullCode":"130632108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老河头镇",
 		"parentCode":"130632"
 	},
@@ -75,7 +75,7 @@
 		"code":"130632200",
 		"fullCode":"130632200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圈头乡",
 		"parentCode":"130632"
 	},
@@ -83,7 +83,7 @@
 		"code":"130632201",
 		"fullCode":"130632201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨里乡",
 		"parentCode":"130632"
 	},
@@ -91,7 +91,7 @@
 		"code":"130632202",
 		"fullCode":"130632202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦庄乡",
 		"parentCode":"130632"
 	},
@@ -99,7 +99,7 @@
 		"code":"130632203",
 		"fullCode":"130632203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙化乡",
 		"parentCode":"130632"
 	}

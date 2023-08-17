@@ -3,7 +3,7 @@
 		"code":"230381100",
 		"fullCode":"230381100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎林镇",
 		"parentCode":"230381"
 	},
@@ -11,7 +11,7 @@
 		"code":"230381101",
 		"fullCode":"230381101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方红镇",
 		"parentCode":"230381"
 	},
@@ -19,7 +19,7 @@
 		"code":"230381102",
 		"fullCode":"230381102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎春镇",
 		"parentCode":"230381"
 	},
@@ -27,7 +27,7 @@
 		"code":"230381103",
 		"fullCode":"230381103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎头镇",
 		"parentCode":"230381"
 	},
@@ -35,7 +35,7 @@
 		"code":"230381104",
 		"fullCode":"230381104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨岗镇",
 		"parentCode":"230381"
 	},
@@ -43,7 +43,7 @@
 		"code":"230381105",
 		"fullCode":"230381105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东诚镇",
 		"parentCode":"230381"
 	},
@@ -51,7 +51,7 @@
 		"code":"230381106",
 		"fullCode":"230381106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝东镇",
 		"parentCode":"230381"
 	},
@@ -59,7 +59,7 @@
 		"code":"230381203",
 		"fullCode":"230381203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新乐乡",
 		"parentCode":"230381"
 	},
@@ -67,7 +67,7 @@
 		"code":"230381204",
 		"fullCode":"230381204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伟光乡",
 		"parentCode":"230381"
 	},
@@ -75,7 +75,7 @@
 		"code":"230381206",
 		"fullCode":"230381206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珍宝岛乡",
 		"parentCode":"230381"
 	},
@@ -83,7 +83,7 @@
 		"code":"230381207",
 		"fullCode":"230381207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿北乡",
 		"parentCode":"230381"
 	},
@@ -91,7 +91,7 @@
 		"code":"230381400",
 		"fullCode":"230381400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方红林业局",
 		"parentCode":"230381"
 	},
@@ -99,7 +99,7 @@
 		"code":"230381401",
 		"fullCode":"230381401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎春林业局",
 		"parentCode":"230381"
 	},
@@ -107,7 +107,7 @@
 		"code":"230381500",
 		"fullCode":"230381500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八五〇农场",
 		"parentCode":"230381"
 	},
@@ -115,7 +115,7 @@
 		"code":"230381501",
 		"fullCode":"230381501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八五四农场",
 		"parentCode":"230381"
 	},
@@ -123,7 +123,7 @@
 		"code":"230381502",
 		"fullCode":"230381502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八五六农场",
 		"parentCode":"230381"
 	},
@@ -131,7 +131,7 @@
 		"code":"230381503",
 		"fullCode":"230381503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八五八农场",
 		"parentCode":"230381"
 	},
@@ -139,7 +139,7 @@
 		"code":"230381504",
 		"fullCode":"230381504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆丰农场",
 		"parentCode":"230381"
 	},
@@ -147,7 +147,7 @@
 		"code":"230381505",
 		"fullCode":"230381505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云山农场",
 		"parentCode":"230381"
 	}

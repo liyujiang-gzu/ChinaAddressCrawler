@@ -3,7 +3,7 @@
 		"code":"370705001",
 		"fullCode":"370705001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关街道",
 		"parentCode":"370705"
 	},
@@ -11,7 +11,7 @@
 		"code":"370705002",
 		"fullCode":"370705002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大虞街道",
 		"parentCode":"370705"
 	},
@@ -19,7 +19,7 @@
 		"code":"370705003",
 		"fullCode":"370705003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨园街道",
 		"parentCode":"370705"
 	},
@@ -27,7 +27,7 @@
 		"code":"370705004",
 		"fullCode":"370705004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"廿里堡街道",
 		"parentCode":"370705"
 	},
@@ -35,7 +35,7 @@
 		"code":"370705005",
 		"fullCode":"370705005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潍州路街道",
 		"parentCode":"370705"
 	},
@@ -43,7 +43,7 @@
 		"code":"370705006",
 		"fullCode":"370705006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北苑街道",
 		"parentCode":"370705"
 	},
@@ -51,7 +51,7 @@
 		"code":"370705007",
 		"fullCode":"370705007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广文街道",
 		"parentCode":"370705"
 	},
@@ -59,7 +59,7 @@
 		"code":"370705009",
 		"fullCode":"370705009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"370705"
 	},
@@ -67,7 +67,7 @@
 		"code":"370705010",
 		"fullCode":"370705010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清池街道",
 		"parentCode":"370705"
 	},
@@ -75,7 +75,7 @@
 		"code":"370705012",
 		"fullCode":"370705012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北海路街道",
 		"parentCode":"370705"
 	}

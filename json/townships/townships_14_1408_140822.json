@@ -3,7 +3,7 @@
 		"code":"140822100",
 		"fullCode":"140822100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解店镇",
 		"parentCode":"140822"
 	},
@@ -11,7 +11,7 @@
 		"code":"140822101",
 		"fullCode":"140822101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通化镇",
 		"parentCode":"140822"
 	},
@@ -19,7 +19,7 @@
 		"code":"140822102",
 		"fullCode":"140822102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉薛镇",
 		"parentCode":"140822"
 	},
@@ -27,7 +27,7 @@
 		"code":"140822103",
 		"fullCode":"140822103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣河镇",
 		"parentCode":"140822"
 	},
@@ -35,7 +35,7 @@
 		"code":"140822104",
 		"fullCode":"140822104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裴庄镇",
 		"parentCode":"140822"
 	},
@@ -43,7 +43,7 @@
 		"code":"140822105",
 		"fullCode":"140822105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高村镇",
 		"parentCode":"140822"
 	},
@@ -51,7 +51,7 @@
 		"code":"140822200",
 		"fullCode":"140822200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万泉乡",
 		"parentCode":"140822"
 	},
@@ -59,7 +59,7 @@
 		"code":"140822201",
 		"fullCode":"140822201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里望乡",
 		"parentCode":"140822"
 	},
@@ -67,7 +67,7 @@
 		"code":"140822202",
 		"fullCode":"140822202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西村乡",
 		"parentCode":"140822"
 	},
@@ -75,7 +75,7 @@
 		"code":"140822203",
 		"fullCode":"140822203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南张乡",
 		"parentCode":"140822"
 	},
@@ -83,7 +83,7 @@
 		"code":"140822205",
 		"fullCode":"140822205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇甫乡",
 		"parentCode":"140822"
 	},
@@ -91,7 +91,7 @@
 		"code":"140822206",
 		"fullCode":"140822206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾村乡",
 		"parentCode":"140822"
 	},
@@ -99,7 +99,7 @@
 		"code":"140822207",
 		"fullCode":"140822207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王显乡",
 		"parentCode":"140822"
 	},
@@ -107,7 +107,7 @@
 		"code":"140822208",
 		"fullCode":"140822208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光华乡",
 		"parentCode":"140822"
 	}

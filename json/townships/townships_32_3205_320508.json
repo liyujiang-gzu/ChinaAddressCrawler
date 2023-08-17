@@ -3,7 +3,7 @@
 		"code":"320508017",
 		"fullCode":"320508017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白洋湾街道",
 		"parentCode":"320508"
 	},
@@ -11,7 +11,7 @@
 		"code":"320508018",
 		"fullCode":"320508018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平江街道",
 		"parentCode":"320508"
 	},
@@ -19,7 +19,7 @@
 		"code":"320508019",
 		"fullCode":"320508019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金阊街道",
 		"parentCode":"320508"
 	},
@@ -27,7 +27,7 @@
 		"code":"320508020",
 		"fullCode":"320508020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沧浪街道",
 		"parentCode":"320508"
 	},
@@ -35,7 +35,7 @@
 		"code":"320508021",
 		"fullCode":"320508021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双塔街道",
 		"parentCode":"320508"
 	},
@@ -43,7 +43,7 @@
 		"code":"320508022",
 		"fullCode":"320508022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎丘街道",
 		"parentCode":"320508"
 	},
@@ -51,7 +51,7 @@
 		"code":"320508023",
 		"fullCode":"320508023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏锦街道",
 		"parentCode":"320508"
 	},
@@ -59,7 +59,7 @@
 		"code":"320508024",
 		"fullCode":"320508024000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴门桥街道",
 		"parentCode":"320508"
 	}

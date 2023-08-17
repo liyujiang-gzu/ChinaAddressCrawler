@@ -3,7 +3,7 @@
 		"code":"150102",
 		"fullCode":"150102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新城区",
 		"parentCode":"1501"
 	},
@@ -11,7 +11,7 @@
 		"code":"150103",
 		"fullCode":"150103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"回民区",
 		"parentCode":"1501"
 	},
@@ -19,7 +19,7 @@
 		"code":"150104",
 		"fullCode":"150104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"玉泉区",
 		"parentCode":"1501"
 	},
@@ -27,7 +27,7 @@
 		"code":"150105",
 		"fullCode":"150105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"赛罕区",
 		"parentCode":"1501"
 	},
@@ -35,7 +35,7 @@
 		"code":"150121",
 		"fullCode":"150121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"土默特左旗",
 		"parentCode":"1501"
 	},
@@ -43,7 +43,7 @@
 		"code":"150122",
 		"fullCode":"150122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"托克托县",
 		"parentCode":"1501"
 	},
@@ -51,7 +51,7 @@
 		"code":"150123",
 		"fullCode":"150123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"和林格尔县",
 		"parentCode":"1501"
 	},
@@ -59,7 +59,7 @@
 		"code":"150124",
 		"fullCode":"150124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"清水河县",
 		"parentCode":"1501"
 	},
@@ -67,7 +67,7 @@
 		"code":"150125",
 		"fullCode":"150125000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武川县",
 		"parentCode":"1501"
 	},
@@ -75,7 +75,7 @@
 		"code":"150172",
 		"fullCode":"150172000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"呼和浩特经济技术开发区",
 		"parentCode":"1501"
 	}

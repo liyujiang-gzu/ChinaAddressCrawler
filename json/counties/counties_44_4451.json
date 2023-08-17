@@ -3,7 +3,7 @@
 		"code":"445102",
 		"fullCode":"445102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"湘桥区",
 		"parentCode":"4451"
 	},
@@ -11,7 +11,7 @@
 		"code":"445103",
 		"fullCode":"445103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"潮安区",
 		"parentCode":"4451"
 	},
@@ -19,7 +19,7 @@
 		"code":"445122",
 		"fullCode":"445122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"饶平县",
 		"parentCode":"4451"
 	}

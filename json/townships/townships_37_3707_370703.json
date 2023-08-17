@@ -3,7 +3,7 @@
 		"code":"370703001",
 		"fullCode":"370703001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寒亭街道",
 		"parentCode":"370703"
 	},
@@ -11,7 +11,7 @@
 		"code":"370703002",
 		"fullCode":"370703002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开元街道",
 		"parentCode":"370703"
 	},
@@ -19,7 +19,7 @@
 		"code":"370703003",
 		"fullCode":"370703003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固堤街道",
 		"parentCode":"370703"
 	},
@@ -27,7 +27,7 @@
 		"code":"370703006",
 		"fullCode":"370703006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高里街道",
 		"parentCode":"370703"
 	},
@@ -35,7 +35,7 @@
 		"code":"370703007",
 		"fullCode":"370703007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱里街道",
 		"parentCode":"370703"
 	}

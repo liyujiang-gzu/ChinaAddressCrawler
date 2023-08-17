@@ -3,7 +3,7 @@
 		"code":"210213001",
 		"fullCode":"210213001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拥政街道",
 		"parentCode":"210213"
 	},
@@ -11,7 +11,7 @@
 		"code":"210213002",
 		"fullCode":"210213002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友谊街道",
 		"parentCode":"210213"
 	},
@@ -19,7 +19,7 @@
 		"code":"210213004",
 		"fullCode":"210213004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马桥子街道",
 		"parentCode":"210213"
 	},
@@ -27,7 +27,7 @@
 		"code":"210213005",
 		"fullCode":"210213005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海青岛街道",
 		"parentCode":"210213"
 	},
@@ -35,7 +35,7 @@
 		"code":"210213006",
 		"fullCode":"210213006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大孤山街道",
 		"parentCode":"210213"
 	},
@@ -43,7 +43,7 @@
 		"code":"210213008",
 		"fullCode":"210213008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站前街道",
 		"parentCode":"210213"
 	},
@@ -51,7 +51,7 @@
 		"code":"210213009",
 		"fullCode":"210213009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先进街道",
 		"parentCode":"210213"
 	},
@@ -59,7 +59,7 @@
 		"code":"210213011",
 		"fullCode":"210213011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董家沟街道",
 		"parentCode":"210213"
 	},
@@ -67,7 +67,7 @@
 		"code":"210213012",
 		"fullCode":"210213012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金石滩街道",
 		"parentCode":"210213"
 	},
@@ -75,7 +75,7 @@
 		"code":"210213013",
 		"fullCode":"210213013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾里街道",
 		"parentCode":"210213"
 	},
@@ -83,7 +83,7 @@
 		"code":"210213014",
 		"fullCode":"210213014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二十里堡街道",
 		"parentCode":"210213"
 	},
@@ -91,7 +91,7 @@
 		"code":"210213016",
 		"fullCode":"210213016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亮甲店街道",
 		"parentCode":"210213"
 	},
@@ -99,7 +99,7 @@
 		"code":"210213017",
 		"fullCode":"210213017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"登沙河街道",
 		"parentCode":"210213"
 	},
@@ -107,7 +107,7 @@
 		"code":"210213019",
 		"fullCode":"210213019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大魏家街道",
 		"parentCode":"210213"
 	},
@@ -115,7 +115,7 @@
 		"code":"210213020",
 		"fullCode":"210213020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏树街道",
 		"parentCode":"210213"
 	},
@@ -123,7 +123,7 @@
 		"code":"210213021",
 		"fullCode":"210213021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七顶山街道",
 		"parentCode":"210213"
 	},
@@ -131,7 +131,7 @@
 		"code":"210213022",
 		"fullCode":"210213022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华家街道",
 		"parentCode":"210213"
 	},
@@ -139,7 +139,7 @@
 		"code":"210213023",
 		"fullCode":"210213023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向应街道",
 		"parentCode":"210213"
 	},
@@ -147,7 +147,7 @@
 		"code":"210213024",
 		"fullCode":"210213024000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大李家街道",
 		"parentCode":"210213"
 	},
@@ -155,7 +155,7 @@
 		"code":"210213025",
 		"fullCode":"210213025000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"得胜街道",
 		"parentCode":"210213"
 	},
@@ -163,7 +163,7 @@
 		"code":"210213027",
 		"fullCode":"210213027000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炮台街道",
 		"parentCode":"210213"
 	},
@@ -171,7 +171,7 @@
 		"code":"210213028",
 		"fullCode":"210213028000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复州湾街道",
 		"parentCode":"210213"
 	},
@@ -179,7 +179,7 @@
 		"code":"210213029",
 		"fullCode":"210213029000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三十里堡街道",
 		"parentCode":"210213"
 	},
@@ -187,7 +187,7 @@
 		"code":"210213030",
 		"fullCode":"210213030000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石河街道",
 		"parentCode":"210213"
 	},
@@ -195,7 +195,7 @@
 		"code":"210213031",
 		"fullCode":"210213031000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光中街道",
 		"parentCode":"210213"
 	}

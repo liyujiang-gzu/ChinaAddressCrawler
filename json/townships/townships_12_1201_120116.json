@@ -3,7 +3,7 @@
 		"code":"120116001",
 		"fullCode":"120116001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘沽街道",
 		"parentCode":"120116"
 	},
@@ -11,7 +11,7 @@
 		"code":"120116005",
 		"fullCode":"120116005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杭州道街道",
 		"parentCode":"120116"
 	},
@@ -19,7 +19,7 @@
 		"code":"120116006",
 		"fullCode":"120116006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新河街道",
 		"parentCode":"120116"
 	},
@@ -27,7 +27,7 @@
 		"code":"120116007",
 		"fullCode":"120116007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大沽街道",
 		"parentCode":"120116"
 	},
@@ -35,7 +35,7 @@
 		"code":"120116008",
 		"fullCode":"120116008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新北街道",
 		"parentCode":"120116"
 	},
@@ -43,7 +43,7 @@
 		"code":"120116009",
 		"fullCode":"120116009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北塘街道",
 		"parentCode":"120116"
 	},
@@ -51,7 +51,7 @@
 		"code":"120116011",
 		"fullCode":"120116011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家园街道",
 		"parentCode":"120116"
 	},
@@ -59,7 +59,7 @@
 		"code":"120116012",
 		"fullCode":"120116012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新港街道",
 		"parentCode":"120116"
 	},
@@ -67,7 +67,7 @@
 		"code":"120116013",
 		"fullCode":"120116013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新村街道",
 		"parentCode":"120116"
 	},
@@ -75,7 +75,7 @@
 		"code":"120116014",
 		"fullCode":"120116014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津经济技术开发区东区泰达街道",
 		"parentCode":"120116"
 	},
@@ -83,7 +83,7 @@
 		"code":"120116031",
 		"fullCode":"120116031000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉沽街道",
 		"parentCode":"120116"
 	},
@@ -91,7 +91,7 @@
 		"code":"120116032",
 		"fullCode":"120116032000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨上街道",
 		"parentCode":"120116"
 	},
@@ -99,7 +99,7 @@
 		"code":"120116033",
 		"fullCode":"120116033000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶淀街道",
 		"parentCode":"120116"
 	},
@@ -107,7 +107,7 @@
 		"code":"120116051",
 		"fullCode":"120116051000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大港街道",
 		"parentCode":"120116"
 	},
@@ -115,7 +115,7 @@
 		"code":"120116053",
 		"fullCode":"120116053000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古林街道",
 		"parentCode":"120116"
 	},
@@ -123,7 +123,7 @@
 		"code":"120116054",
 		"fullCode":"120116054000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海滨街道",
 		"parentCode":"120116"
 	},
@@ -131,7 +131,7 @@
 		"code":"120116100",
 		"fullCode":"120116100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城镇",
 		"parentCode":"120116"
 	},
@@ -139,7 +139,7 @@
 		"code":"120116135",
 		"fullCode":"120116135000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家泊镇",
 		"parentCode":"120116"
 	},
@@ -147,7 +147,7 @@
 		"code":"120116156",
 		"fullCode":"120116156000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"120116"
 	},
@@ -155,7 +155,7 @@
 		"code":"120116157",
 		"fullCode":"120116157000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小王庄镇",
 		"parentCode":"120116"
 	},
@@ -163,7 +163,7 @@
 		"code":"120116158",
 		"fullCode":"120116158000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中塘镇",
 		"parentCode":"120116"
 	},
@@ -171,7 +171,7 @@
 		"code":"120116400",
 		"fullCode":"120116400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津经济技术开发区（其他片区）",
 		"parentCode":"120116"
 	},
@@ -179,7 +179,7 @@
 		"code":"120116401",
 		"fullCode":"120116401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津港保税区",
 		"parentCode":"120116"
 	},
@@ -187,7 +187,7 @@
 		"code":"120116402",
 		"fullCode":"120116402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津滨海新区高新技术产业开发区",
 		"parentCode":"120116"
 	},
@@ -195,7 +195,7 @@
 		"code":"120116403",
 		"fullCode":"120116403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东疆保税港区",
 		"parentCode":"120116"
 	},
@@ -203,7 +203,7 @@
 		"code":"120116406",
 		"fullCode":"120116406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中新天津生态城",
 		"parentCode":"120116"
 	}

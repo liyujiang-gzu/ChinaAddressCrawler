@@ -3,7 +3,7 @@
 		"code":"360521001",
 		"fullCode":"360521001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钤东街道",
 		"parentCode":"360521"
 	},
@@ -11,7 +11,7 @@
 		"code":"360521002",
 		"fullCode":"360521002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钤西街道",
 		"parentCode":"360521"
 	},
@@ -19,7 +19,7 @@
 		"code":"360521100",
 		"fullCode":"360521100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"分宜镇",
 		"parentCode":"360521"
 	},
@@ -27,7 +27,7 @@
 		"code":"360521101",
 		"fullCode":"360521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨桥镇",
 		"parentCode":"360521"
 	},
@@ -35,7 +35,7 @@
 		"code":"360521102",
 		"fullCode":"360521102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖泽镇",
 		"parentCode":"360521"
 	},
@@ -43,7 +43,7 @@
 		"code":"360521103",
 		"fullCode":"360521103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双林镇",
 		"parentCode":"360521"
 	},
@@ -51,7 +51,7 @@
 		"code":"360521104",
 		"fullCode":"360521104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钤山镇",
 		"parentCode":"360521"
 	},
@@ -59,7 +59,7 @@
 		"code":"360521105",
 		"fullCode":"360521105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋江镇",
 		"parentCode":"360521"
 	},
@@ -67,7 +67,7 @@
 		"code":"360521106",
 		"fullCode":"360521106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤阳镇",
 		"parentCode":"360521"
 	},
@@ -75,7 +75,7 @@
 		"code":"360521201",
 		"fullCode":"360521201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洞村乡",
 		"parentCode":"360521"
 	},
@@ -83,7 +83,7 @@
 		"code":"360521202",
 		"fullCode":"360521202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高岚乡",
 		"parentCode":"360521"
 	},
@@ -91,7 +91,7 @@
 		"code":"360521203",
 		"fullCode":"360521203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"操场乡",
 		"parentCode":"360521"
 	},
@@ -99,7 +99,7 @@
 		"code":"360521505",
 		"fullCode":"360521505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坑林场",
 		"parentCode":"360521"
 	}

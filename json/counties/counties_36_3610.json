@@ -3,7 +3,7 @@
 		"code":"361002",
 		"fullCode":"361002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临川区",
 		"parentCode":"3610"
 	},
@@ -11,7 +11,7 @@
 		"code":"361003",
 		"fullCode":"361003000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东乡区",
 		"parentCode":"3610"
 	},
@@ -19,7 +19,7 @@
 		"code":"361021",
 		"fullCode":"361021000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南城县",
 		"parentCode":"3610"
 	},
@@ -27,7 +27,7 @@
 		"code":"361022",
 		"fullCode":"361022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黎川县",
 		"parentCode":"3610"
 	},
@@ -35,7 +35,7 @@
 		"code":"361023",
 		"fullCode":"361023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南丰县",
 		"parentCode":"3610"
 	},
@@ -43,7 +43,7 @@
 		"code":"361024",
 		"fullCode":"361024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"崇仁县",
 		"parentCode":"3610"
 	},
@@ -51,7 +51,7 @@
 		"code":"361025",
 		"fullCode":"361025000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乐安县",
 		"parentCode":"3610"
 	},
@@ -59,7 +59,7 @@
 		"code":"361026",
 		"fullCode":"361026000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宜黄县",
 		"parentCode":"3610"
 	},
@@ -67,7 +67,7 @@
 		"code":"361027",
 		"fullCode":"361027000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金溪县",
 		"parentCode":"3610"
 	},
@@ -75,7 +75,7 @@
 		"code":"361028",
 		"fullCode":"361028000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"资溪县",
 		"parentCode":"3610"
 	},
@@ -83,7 +83,7 @@
 		"code":"361030",
 		"fullCode":"361030000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"广昌县",
 		"parentCode":"3610"
 	}

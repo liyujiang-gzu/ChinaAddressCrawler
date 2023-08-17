@@ -3,7 +3,7 @@
 		"code":"410927100",
 		"fullCode":"410927100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"410927"
 	},
@@ -11,7 +11,7 @@
 		"code":"410927101",
 		"fullCode":"410927101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侯庙镇",
 		"parentCode":"410927"
 	},
@@ -19,7 +19,7 @@
 		"code":"410927102",
 		"fullCode":"410927102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙口镇",
 		"parentCode":"410927"
 	},
@@ -27,7 +27,7 @@
 		"code":"410927103",
 		"fullCode":"410927103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"打渔陈镇",
 		"parentCode":"410927"
 	},
@@ -35,7 +35,7 @@
 		"code":"410927104",
 		"fullCode":"410927104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马楼镇",
 		"parentCode":"410927"
 	},
@@ -43,7 +43,7 @@
 		"code":"410927105",
 		"fullCode":"410927105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴坝镇",
 		"parentCode":"410927"
 	},
@@ -51,7 +51,7 @@
 		"code":"410927200",
 		"fullCode":"410927200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后方乡",
 		"parentCode":"410927"
 	},
@@ -59,7 +59,7 @@
 		"code":"410927201",
 		"fullCode":"410927201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水河乡",
 		"parentCode":"410927"
 	},
@@ -67,7 +67,7 @@
 		"code":"410927205",
 		"fullCode":"410927205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹河乡",
 		"parentCode":"410927"
 	}

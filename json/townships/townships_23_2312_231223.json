@@ -3,7 +3,7 @@
 		"code":"231223001",
 		"fullCode":"231223001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"231223"
 	},
@@ -11,7 +11,7 @@
 		"code":"231223002",
 		"fullCode":"231223002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"231223"
 	},
@@ -19,7 +19,7 @@
 		"code":"231223003",
 		"fullCode":"231223003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖城街道",
 		"parentCode":"231223"
 	},
@@ -27,7 +27,7 @@
 		"code":"231223004",
 		"fullCode":"231223004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"231223"
 	},
@@ -35,7 +35,7 @@
 		"code":"231223100",
 		"fullCode":"231223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青冈镇",
 		"parentCode":"231223"
 	},
@@ -43,7 +43,7 @@
 		"code":"231223101",
 		"fullCode":"231223101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中和镇",
 		"parentCode":"231223"
 	},
@@ -51,7 +51,7 @@
 		"code":"231223102",
 		"fullCode":"231223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祯祥镇",
 		"parentCode":"231223"
 	},
@@ -59,7 +59,7 @@
 		"code":"231223103",
 		"fullCode":"231223103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华镇",
 		"parentCode":"231223"
 	},
@@ -67,7 +67,7 @@
 		"code":"231223104",
 		"fullCode":"231223104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰镇",
 		"parentCode":"231223"
 	},
@@ -75,7 +75,7 @@
 		"code":"231223105",
 		"fullCode":"231223105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦河镇",
 		"parentCode":"231223"
 	},
@@ -83,7 +83,7 @@
 		"code":"231223106",
 		"fullCode":"231223106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民政镇",
 		"parentCode":"231223"
 	},
@@ -91,7 +91,7 @@
 		"code":"231223107",
 		"fullCode":"231223107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柞岗镇",
 		"parentCode":"231223"
 	},
@@ -99,7 +99,7 @@
 		"code":"231223108",
 		"fullCode":"231223108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"劳动镇",
 		"parentCode":"231223"
 	},
@@ -107,7 +107,7 @@
 		"code":"231223109",
 		"fullCode":"231223109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎春镇",
 		"parentCode":"231223"
 	},
@@ -115,7 +115,7 @@
 		"code":"231223110",
 		"fullCode":"231223110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德胜镇",
 		"parentCode":"231223"
 	},
@@ -123,7 +123,7 @@
 		"code":"231223111",
 		"fullCode":"231223111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌盛镇",
 		"parentCode":"231223"
 	},
@@ -131,7 +131,7 @@
 		"code":"231223202",
 		"fullCode":"231223202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设乡",
 		"parentCode":"231223"
 	},
@@ -139,7 +139,7 @@
 		"code":"231223203",
 		"fullCode":"231223203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新村乡",
 		"parentCode":"231223"
 	},
@@ -147,7 +147,7 @@
 		"code":"231223212",
 		"fullCode":"231223212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连丰乡",
 		"parentCode":"231223"
 	},
@@ -155,7 +155,7 @@
 		"code":"231223400",
 		"fullCode":"231223400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青冈县林场",
 		"parentCode":"231223"
 	},
@@ -163,7 +163,7 @@
 		"code":"231223401",
 		"fullCode":"231223401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青冈县互利营林站",
 		"parentCode":"231223"
 	},
@@ -171,7 +171,7 @@
 		"code":"231223402",
 		"fullCode":"231223402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青冈县果树场",
 		"parentCode":"231223"
 	},
@@ -179,7 +179,7 @@
 		"code":"231223580",
 		"fullCode":"231223580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青冈县种马场",
 		"parentCode":"231223"
 	},
@@ -187,7 +187,7 @@
 		"code":"231223581",
 		"fullCode":"231223581000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青冈县种羊场",
 		"parentCode":"231223"
 	},
@@ -195,7 +195,7 @@
 		"code":"231223582",
 		"fullCode":"231223582000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青冈县原种场",
 		"parentCode":"231223"
 	}

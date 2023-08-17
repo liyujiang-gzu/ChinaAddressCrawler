@@ -3,7 +3,7 @@
 		"code":"532929101",
 		"fullCode":"532929101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"诺邓镇",
 		"parentCode":"532929"
 	},
@@ -11,7 +11,7 @@
 		"code":"532929102",
 		"fullCode":"532929102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"功果桥镇",
 		"parentCode":"532929"
 	},
@@ -19,7 +19,7 @@
 		"code":"532929103",
 		"fullCode":"532929103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漕涧镇",
 		"parentCode":"532929"
 	},
@@ -27,7 +27,7 @@
 		"code":"532929104",
 		"fullCode":"532929104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石镇",
 		"parentCode":"532929"
 	},
@@ -35,7 +35,7 @@
 		"code":"532929201",
 		"fullCode":"532929201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝丰乡",
 		"parentCode":"532929"
 	},
@@ -43,7 +43,7 @@
 		"code":"532929202",
 		"fullCode":"532929202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关坪乡",
 		"parentCode":"532929"
 	},
@@ -51,7 +51,7 @@
 		"code":"532929203",
 		"fullCode":"532929203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结彝族乡",
 		"parentCode":"532929"
 	},
@@ -59,7 +59,7 @@
 		"code":"532929204",
 		"fullCode":"532929204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长新乡",
 		"parentCode":"532929"
 	},
@@ -67,7 +67,7 @@
 		"code":"532929205",
 		"fullCode":"532929205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"检槽乡",
 		"parentCode":"532929"
 	},
@@ -75,7 +75,7 @@
 		"code":"532929206",
 		"fullCode":"532929206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苗尾傈僳族乡",
 		"parentCode":"532929"
 	},
@@ -83,7 +83,7 @@
 		"code":"532929207",
 		"fullCode":"532929207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民建乡",
 		"parentCode":"532929"
 	}

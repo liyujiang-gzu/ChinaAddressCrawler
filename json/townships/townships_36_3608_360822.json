@@ -3,7 +3,7 @@
 		"code":"360822100",
 		"fullCode":"360822100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰镇",
 		"parentCode":"360822"
 	},
@@ -11,7 +11,7 @@
 		"code":"360822101",
 		"fullCode":"360822101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阜田镇",
 		"parentCode":"360822"
 	},
@@ -19,7 +19,7 @@
 		"code":"360822102",
 		"fullCode":"360822102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘谷镇",
 		"parentCode":"360822"
 	},
@@ -27,7 +27,7 @@
 		"code":"360822103",
 		"fullCode":"360822103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫江镇",
 		"parentCode":"360822"
 	},
@@ -35,7 +35,7 @@
 		"code":"360822104",
 		"fullCode":"360822104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄桥镇",
 		"parentCode":"360822"
 	},
@@ -43,7 +43,7 @@
 		"code":"360822105",
 		"fullCode":"360822105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金滩镇",
 		"parentCode":"360822"
 	},
@@ -51,7 +51,7 @@
 		"code":"360822106",
 		"fullCode":"360822106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八都镇",
 		"parentCode":"360822"
 	},
@@ -59,7 +59,7 @@
 		"code":"360822107",
 		"fullCode":"360822107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双村镇",
 		"parentCode":"360822"
 	},
@@ -67,7 +67,7 @@
 		"code":"360822108",
 		"fullCode":"360822108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"醪桥镇",
 		"parentCode":"360822"
 	},
@@ -75,7 +75,7 @@
 		"code":"360822109",
 		"fullCode":"360822109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"螺田镇",
 		"parentCode":"360822"
 	},
@@ -83,7 +83,7 @@
 		"code":"360822110",
 		"fullCode":"360822110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"360822"
 	},
@@ -91,7 +91,7 @@
 		"code":"360822111",
 		"fullCode":"360822111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白水镇",
 		"parentCode":"360822"
 	},
@@ -99,7 +99,7 @@
 		"code":"360822112",
 		"fullCode":"360822112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁江镇",
 		"parentCode":"360822"
 	},
@@ -107,7 +107,7 @@
 		"code":"360822113",
 		"fullCode":"360822113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌江镇",
 		"parentCode":"360822"
 	},
@@ -115,7 +115,7 @@
 		"code":"360822114",
 		"fullCode":"360822114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水南镇",
 		"parentCode":"360822"
 	},
@@ -123,7 +123,7 @@
 		"code":"360822200",
 		"fullCode":"360822200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚贤乡",
 		"parentCode":"360822"
 	},
@@ -131,7 +131,7 @@
 		"code":"360822201",
 		"fullCode":"360822201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水田乡",
 		"parentCode":"360822"
 	},
@@ -139,7 +139,7 @@
 		"code":"360822202",
 		"fullCode":"360822202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冠山乡",
 		"parentCode":"360822"
 	},
@@ -147,7 +147,7 @@
 		"code":"360822400",
 		"fullCode":"360822400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉水县工业园区",
 		"parentCode":"360822"
 	}

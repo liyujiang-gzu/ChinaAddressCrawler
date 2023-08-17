@@ -3,7 +3,7 @@
 		"code":"371311001",
 		"fullCode":"371311001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗庄街道",
 		"parentCode":"371311"
 	},
@@ -11,7 +11,7 @@
 		"code":"371311002",
 		"fullCode":"371311002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"傅庄街道",
 		"parentCode":"371311"
 	},
@@ -19,7 +19,7 @@
 		"code":"371311003",
 		"fullCode":"371311003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盛庄街道",
 		"parentCode":"371311"
 	},
@@ -27,7 +27,7 @@
 		"code":"371311006",
 		"fullCode":"371311006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"册山街道",
 		"parentCode":"371311"
 	},
@@ -35,7 +35,7 @@
 		"code":"371311007",
 		"fullCode":"371311007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高都街道",
 		"parentCode":"371311"
 	},
@@ -43,7 +43,7 @@
 		"code":"371311100",
 		"fullCode":"371311100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沂堂镇",
 		"parentCode":"371311"
 	},
@@ -51,7 +51,7 @@
 		"code":"371311101",
 		"fullCode":"371311101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"褚墩镇",
 		"parentCode":"371311"
 	},
@@ -59,7 +59,7 @@
 		"code":"371311102",
 		"fullCode":"371311102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄山镇",
 		"parentCode":"371311"
 	}

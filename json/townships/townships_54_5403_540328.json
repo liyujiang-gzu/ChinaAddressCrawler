@@ -3,7 +3,7 @@
 		"code":"540328100",
 		"fullCode":"540328100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎托镇",
 		"parentCode":"540328"
 	},
@@ -11,7 +11,7 @@
 		"code":"540328101",
 		"fullCode":"540328101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"如美镇",
 		"parentCode":"540328"
 	},
@@ -19,7 +19,7 @@
 		"code":"540328200",
 		"fullCode":"540328200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"索多西乡",
 		"parentCode":"540328"
 	},
@@ -27,7 +27,7 @@
 		"code":"540328201",
 		"fullCode":"540328201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莽岭乡",
 		"parentCode":"540328"
 	},
@@ -35,7 +35,7 @@
 		"code":"540328202",
 		"fullCode":"540328202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗西乡",
 		"parentCode":"540328"
 	},
@@ -43,7 +43,7 @@
 		"code":"540328203",
 		"fullCode":"540328203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昂多乡",
 		"parentCode":"540328"
 	},
@@ -51,7 +51,7 @@
 		"code":"540328204",
 		"fullCode":"540328204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"措瓦乡",
 		"parentCode":"540328"
 	},
@@ -59,7 +59,7 @@
 		"code":"540328205",
 		"fullCode":"540328205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛尼乡",
 		"parentCode":"540328"
 	},
@@ -67,7 +67,7 @@
 		"code":"540328206",
 		"fullCode":"540328206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戈波乡",
 		"parentCode":"540328"
 	},
@@ -75,7 +75,7 @@
 		"code":"540328207",
 		"fullCode":"540328207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"帮达乡",
 		"parentCode":"540328"
 	},
@@ -83,7 +83,7 @@
 		"code":"540328208",
 		"fullCode":"540328208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐中乡",
 		"parentCode":"540328"
 	},
@@ -91,7 +91,7 @@
 		"code":"540328209",
 		"fullCode":"540328209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲登乡",
 		"parentCode":"540328"
 	},
@@ -99,7 +99,7 @@
 		"code":"540328210",
 		"fullCode":"540328210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木许乡",
 		"parentCode":"540328"
 	},
@@ -107,7 +107,7 @@
 		"code":"540328211",
 		"fullCode":"540328211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳西民族乡",
 		"parentCode":"540328"
 	},
@@ -115,7 +115,7 @@
 		"code":"540328212",
 		"fullCode":"540328212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹巴龙乡",
 		"parentCode":"540328"
 	},
@@ -123,7 +123,7 @@
 		"code":"540328213",
 		"fullCode":"540328213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲孜卡乡",
 		"parentCode":"540328"
 	}

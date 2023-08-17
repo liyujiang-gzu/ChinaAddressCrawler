@@ -3,7 +3,7 @@
 		"code":"141033100",
 		"fullCode":"141033100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲城镇",
 		"parentCode":"141033"
 	},
@@ -11,7 +11,7 @@
 		"code":"141033101",
 		"fullCode":"141033101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薛关镇",
 		"parentCode":"141033"
 	},
@@ -19,7 +19,7 @@
 		"code":"141033102",
 		"fullCode":"141033102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑龙关镇",
 		"parentCode":"141033"
 	},
@@ -27,7 +27,7 @@
 		"code":"141033103",
 		"fullCode":"141033103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克城镇",
 		"parentCode":"141033"
 	},
@@ -35,7 +35,7 @@
 		"code":"141033104",
 		"fullCode":"141033104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔家湾镇",
 		"parentCode":"141033"
 	},
@@ -43,7 +43,7 @@
 		"code":"141033200",
 		"fullCode":"141033200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山中乡",
 		"parentCode":"141033"
 	},
@@ -51,7 +51,7 @@
 		"code":"141033201",
 		"fullCode":"141033201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古县乡",
 		"parentCode":"141033"
 	},
@@ -59,7 +59,7 @@
 		"code":"141033204",
 		"fullCode":"141033204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太林乡",
 		"parentCode":"141033"
 	}

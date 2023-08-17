@@ -3,7 +3,7 @@
 		"code":"220605001",
 		"fullCode":"220605001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙家堡子街道",
 		"parentCode":"220605"
 	},
@@ -11,7 +11,7 @@
 		"code":"220605002",
 		"fullCode":"220605002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江源街道",
 		"parentCode":"220605"
 	},
@@ -19,7 +19,7 @@
 		"code":"220605003",
 		"fullCode":"220605003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正岔街道",
 		"parentCode":"220605"
 	},
@@ -27,7 +27,7 @@
 		"code":"220605004",
 		"fullCode":"220605004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城墙街道",
 		"parentCode":"220605"
 	},
@@ -35,7 +35,7 @@
 		"code":"220605102",
 		"fullCode":"220605102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾沟镇",
 		"parentCode":"220605"
 	},
@@ -43,7 +43,7 @@
 		"code":"220605103",
 		"fullCode":"220605103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松树镇",
 		"parentCode":"220605"
 	},
@@ -51,7 +51,7 @@
 		"code":"220605104",
 		"fullCode":"220605104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"砟子镇",
 		"parentCode":"220605"
 	},
@@ -59,7 +59,7 @@
 		"code":"220605105",
 		"fullCode":"220605105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石人镇",
 		"parentCode":"220605"
 	},
@@ -67,7 +67,7 @@
 		"code":"220605106",
 		"fullCode":"220605106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大阳岔镇",
 		"parentCode":"220605"
 	},
@@ -75,7 +75,7 @@
 		"code":"220605107",
 		"fullCode":"220605107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石人镇",
 		"parentCode":"220605"
 	}

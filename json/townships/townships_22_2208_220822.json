@@ -3,7 +3,7 @@
 		"code":"220822001",
 		"fullCode":"220822001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"树满街道",
 		"parentCode":"220822"
 	},
@@ -11,7 +11,7 @@
 		"code":"220822002",
 		"fullCode":"220822002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八区街道",
 		"parentCode":"220822"
 	},
@@ -19,7 +19,7 @@
 		"code":"220822003",
 		"fullCode":"220822003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎新街道",
 		"parentCode":"220822"
 	},
@@ -27,7 +27,7 @@
 		"code":"220822100",
 		"fullCode":"220822100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开通镇",
 		"parentCode":"220822"
 	},
@@ -35,7 +35,7 @@
 		"code":"220822101",
 		"fullCode":"220822101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瞻榆镇",
 		"parentCode":"220822"
 	},
@@ -43,7 +43,7 @@
 		"code":"220822102",
 		"fullCode":"220822102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双岗镇",
 		"parentCode":"220822"
 	},
@@ -51,7 +51,7 @@
 		"code":"220822103",
 		"fullCode":"220822103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆山镇",
 		"parentCode":"220822"
 	},
@@ -59,7 +59,7 @@
 		"code":"220822104",
 		"fullCode":"220822104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"边昭镇",
 		"parentCode":"220822"
 	},
@@ -67,7 +67,7 @@
 		"code":"220822105",
 		"fullCode":"220822105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸿兴镇",
 		"parentCode":"220822"
 	},
@@ -75,7 +75,7 @@
 		"code":"220822106",
 		"fullCode":"220822106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华镇",
 		"parentCode":"220822"
 	},
@@ -83,7 +83,7 @@
 		"code":"220822107",
 		"fullCode":"220822107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰花镇",
 		"parentCode":"220822"
 	},
@@ -91,7 +91,7 @@
 		"code":"220822200",
 		"fullCode":"220822200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新发乡",
 		"parentCode":"220822"
 	},
@@ -99,7 +99,7 @@
 		"code":"220822201",
 		"fullCode":"220822201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴乡",
 		"parentCode":"220822"
 	},
@@ -107,7 +107,7 @@
 		"code":"220822202",
 		"fullCode":"220822202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向海蒙古族乡",
 		"parentCode":"220822"
 	},
@@ -115,7 +115,7 @@
 		"code":"220822203",
 		"fullCode":"220822203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"包拉温都蒙古族乡",
 		"parentCode":"220822"
 	},
@@ -123,7 +123,7 @@
 		"code":"220822204",
 		"fullCode":"220822204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结乡",
 		"parentCode":"220822"
 	},
@@ -131,7 +131,7 @@
 		"code":"220822205",
 		"fullCode":"220822205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十花道乡",
 		"parentCode":"220822"
 	},
@@ -139,7 +139,7 @@
 		"code":"220822206",
 		"fullCode":"220822206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八面乡",
 		"parentCode":"220822"
 	},
@@ -147,7 +147,7 @@
 		"code":"220822207",
 		"fullCode":"220822207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏公坨乡",
 		"parentCode":"220822"
 	},
@@ -155,7 +155,7 @@
 		"code":"220822400",
 		"fullCode":"220822400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通榆经济开发区",
 		"parentCode":"220822"
 	},
@@ -163,7 +163,7 @@
 		"code":"220822401",
 		"fullCode":"220822401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三家子种牛场",
 		"parentCode":"220822"
 	},
@@ -171,7 +171,7 @@
 		"code":"220822405",
 		"fullCode":"220822405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华牛场",
 		"parentCode":"220822"
 	}

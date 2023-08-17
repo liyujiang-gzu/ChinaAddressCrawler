@@ -3,7 +3,7 @@
 		"code":"220881001",
 		"fullCode":"220881001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结街道",
 		"parentCode":"220881"
 	},
@@ -11,7 +11,7 @@
 		"code":"220881002",
 		"fullCode":"220881002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富文街道",
 		"parentCode":"220881"
 	},
@@ -19,7 +19,7 @@
 		"code":"220881003",
 		"fullCode":"220881003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明街道",
 		"parentCode":"220881"
 	},
@@ -27,7 +27,7 @@
 		"code":"220881004",
 		"fullCode":"220881004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆街道",
 		"parentCode":"220881"
 	},
@@ -35,7 +35,7 @@
 		"code":"220881005",
 		"fullCode":"220881005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永康街道",
 		"parentCode":"220881"
 	},
@@ -43,7 +43,7 @@
 		"code":"220881006",
 		"fullCode":"220881006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通达街道",
 		"parentCode":"220881"
 	},
@@ -51,7 +51,7 @@
 		"code":"220881007",
 		"fullCode":"220881007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洮府街道",
 		"parentCode":"220881"
 	},
@@ -59,7 +59,7 @@
 		"code":"220881008",
 		"fullCode":"220881008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳街道",
 		"parentCode":"220881"
 	},
@@ -67,7 +67,7 @@
 		"code":"220881100",
 		"fullCode":"220881100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦房镇",
 		"parentCode":"220881"
 	},
@@ -75,7 +75,7 @@
 		"code":"220881101",
 		"fullCode":"220881101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万宝镇",
 		"parentCode":"220881"
 	},
@@ -83,7 +83,7 @@
 		"code":"220881102",
 		"fullCode":"220881102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑水镇",
 		"parentCode":"220881"
 	},
@@ -91,7 +91,7 @@
 		"code":"220881103",
 		"fullCode":"220881103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那金镇",
 		"parentCode":"220881"
 	},
@@ -99,7 +99,7 @@
 		"code":"220881104",
 		"fullCode":"220881104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安定镇",
 		"parentCode":"220881"
 	},
@@ -107,7 +107,7 @@
 		"code":"220881105",
 		"fullCode":"220881105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福顺镇",
 		"parentCode":"220881"
 	},
@@ -115,7 +115,7 @@
 		"code":"220881200",
 		"fullCode":"220881200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡力吐蒙古族乡",
 		"parentCode":"220881"
 	},
@@ -123,7 +123,7 @@
 		"code":"220881201",
 		"fullCode":"220881201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万宝乡",
 		"parentCode":"220881"
 	},
@@ -131,7 +131,7 @@
 		"code":"220881202",
 		"fullCode":"220881202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聚宝乡",
 		"parentCode":"220881"
 	},
@@ -139,7 +139,7 @@
 		"code":"220881203",
 		"fullCode":"220881203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东升乡",
 		"parentCode":"220881"
 	},
@@ -147,7 +147,7 @@
 		"code":"220881204",
 		"fullCode":"220881204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"野马乡",
 		"parentCode":"220881"
 	},
@@ -155,7 +155,7 @@
 		"code":"220881205",
 		"fullCode":"220881205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永茂乡",
 		"parentCode":"220881"
 	},
@@ -163,7 +163,7 @@
 		"code":"220881206",
 		"fullCode":"220881206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蛟流河乡",
 		"parentCode":"220881"
 	},
@@ -171,7 +171,7 @@
 		"code":"220881207",
 		"fullCode":"220881207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大通乡",
 		"parentCode":"220881"
 	},
@@ -179,7 +179,7 @@
 		"code":"220881209",
 		"fullCode":"220881209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二龙乡",
 		"parentCode":"220881"
 	},
@@ -187,7 +187,7 @@
 		"code":"220881210",
 		"fullCode":"220881210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼和车力蒙古族乡",
 		"parentCode":"220881"
 	},
@@ -195,7 +195,7 @@
 		"code":"220881402",
 		"fullCode":"220881402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市原种场",
 		"parentCode":"220881"
 	}

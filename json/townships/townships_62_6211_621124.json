@@ -3,7 +3,7 @@
 		"code":"621124100",
 		"fullCode":"621124100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洮阳镇",
 		"parentCode":"621124"
 	},
@@ -11,7 +11,7 @@
 		"code":"621124101",
 		"fullCode":"621124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里铺镇",
 		"parentCode":"621124"
 	},
@@ -19,7 +19,7 @@
 		"code":"621124102",
 		"fullCode":"621124102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新添镇",
 		"parentCode":"621124"
 	},
@@ -27,7 +27,7 @@
 		"code":"621124103",
 		"fullCode":"621124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛店镇",
 		"parentCode":"621124"
 	},
@@ -35,7 +35,7 @@
 		"code":"621124104",
 		"fullCode":"621124104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太石镇",
 		"parentCode":"621124"
 	},
@@ -43,7 +43,7 @@
 		"code":"621124105",
 		"fullCode":"621124105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中铺镇",
 		"parentCode":"621124"
 	},
@@ -51,7 +51,7 @@
 		"code":"621124106",
 		"fullCode":"621124106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峡口镇",
 		"parentCode":"621124"
 	},
@@ -59,7 +59,7 @@
 		"code":"621124107",
 		"fullCode":"621124107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门镇",
 		"parentCode":"621124"
 	},
@@ -67,7 +67,7 @@
 		"code":"621124108",
 		"fullCode":"621124108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑店镇",
 		"parentCode":"621124"
 	},
@@ -75,7 +75,7 @@
 		"code":"621124109",
 		"fullCode":"621124109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉井镇",
 		"parentCode":"621124"
 	},
@@ -83,7 +83,7 @@
 		"code":"621124110",
 		"fullCode":"621124110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"衙下集镇",
 		"parentCode":"621124"
 	},
@@ -91,7 +91,7 @@
 		"code":"621124111",
 		"fullCode":"621124111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南屏镇",
 		"parentCode":"621124"
 	},
@@ -99,7 +99,7 @@
 		"code":"621124200",
 		"fullCode":"621124200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗乡",
 		"parentCode":"621124"
 	},
@@ -107,7 +107,7 @@
 		"code":"621124201",
 		"fullCode":"621124201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上营乡",
 		"parentCode":"621124"
 	},
@@ -115,7 +115,7 @@
 		"code":"621124202",
 		"fullCode":"621124202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康家集乡",
 		"parentCode":"621124"
 	},
@@ -123,7 +123,7 @@
 		"code":"621124203",
 		"fullCode":"621124203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站滩乡",
 		"parentCode":"621124"
 	},
@@ -131,7 +131,7 @@
 		"code":"621124204",
 		"fullCode":"621124204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漫洼乡",
 		"parentCode":"621124"
 	},
@@ -139,7 +139,7 @@
 		"code":"621124205",
 		"fullCode":"621124205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连儿湾乡",
 		"parentCode":"621124"
 	}

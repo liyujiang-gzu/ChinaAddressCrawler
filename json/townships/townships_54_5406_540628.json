@@ -3,7 +3,7 @@
 		"code":"540628100",
 		"fullCode":"540628100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉西镇",
 		"parentCode":"540628"
 	},
@@ -11,7 +11,7 @@
 		"code":"540628101",
 		"fullCode":"540628101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杂色镇",
 		"parentCode":"540628"
 	},
@@ -19,7 +19,7 @@
 		"code":"540628102",
 		"fullCode":"540628102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅安镇",
 		"parentCode":"540628"
 	},
@@ -27,7 +27,7 @@
 		"code":"540628201",
 		"fullCode":"540628201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江绵乡",
 		"parentCode":"540628"
 	},
@@ -35,7 +35,7 @@
 		"code":"540628202",
 		"fullCode":"540628202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玛如乡",
 		"parentCode":"540628"
 	},
@@ -43,7 +43,7 @@
 		"code":"540628204",
 		"fullCode":"540628204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿秀乡",
 		"parentCode":"540628"
 	},
@@ -51,7 +51,7 @@
 		"code":"540628205",
 		"fullCode":"540628205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贡日乡",
 		"parentCode":"540628"
 	},
@@ -59,7 +59,7 @@
 		"code":"540628206",
 		"fullCode":"540628206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗切乡",
 		"parentCode":"540628"
 	},
@@ -67,7 +67,7 @@
 		"code":"540628210",
 		"fullCode":"540628210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴青乡",
 		"parentCode":"540628"
 	},
@@ -75,7 +75,7 @@
 		"code":"540628211",
 		"fullCode":"540628211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"本塔乡",
 		"parentCode":"540628"
 	}

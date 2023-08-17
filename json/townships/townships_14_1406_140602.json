@@ -3,7 +3,7 @@
 		"code":"140602001",
 		"fullCode":"140602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"140602"
 	},
@@ -11,7 +11,7 @@
 		"code":"140602002",
 		"fullCode":"140602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城街道",
 		"parentCode":"140602"
 	},
@@ -19,7 +19,7 @@
 		"code":"140602003",
 		"fullCode":"140602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神头街道",
 		"parentCode":"140602"
 	},
@@ -27,7 +27,7 @@
 		"code":"140602004",
 		"fullCode":"140602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北旺庄街道",
 		"parentCode":"140602"
 	},
@@ -35,7 +35,7 @@
 		"code":"140602100",
 		"fullCode":"140602100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神头镇",
 		"parentCode":"140602"
 	},
@@ -43,7 +43,7 @@
 		"code":"140602101",
 		"fullCode":"140602101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利民镇",
 		"parentCode":"140602"
 	},
@@ -51,7 +51,7 @@
 		"code":"140602200",
 		"fullCode":"140602200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下团堡乡",
 		"parentCode":"140602"
 	},
@@ -59,7 +59,7 @@
 		"code":"140602201",
 		"fullCode":"140602201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小平易乡",
 		"parentCode":"140602"
 	},
@@ -67,7 +67,7 @@
 		"code":"140602202",
 		"fullCode":"140602202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滋润乡",
 		"parentCode":"140602"
 	},
@@ -75,7 +75,7 @@
 		"code":"140602204",
 		"fullCode":"140602204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南榆林乡",
 		"parentCode":"140602"
 	},
@@ -83,7 +83,7 @@
 		"code":"140602205",
 		"fullCode":"140602205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾庄乡",
 		"parentCode":"140602"
 	},
@@ -91,7 +91,7 @@
 		"code":"140602206",
 		"fullCode":"140602206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙塄河乡",
 		"parentCode":"140602"
 	},
@@ -99,7 +99,7 @@
 		"code":"140602207",
 		"fullCode":"140602207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑子头乡",
 		"parentCode":"140602"
 	},
@@ -107,7 +107,7 @@
 		"code":"140602208",
 		"fullCode":"140602208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张蔡庄乡",
 		"parentCode":"140602"
 	}

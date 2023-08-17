@@ -3,7 +3,7 @@
 		"code":"350128001",
 		"fullCode":"350128001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海坛街道",
 		"parentCode":"350128"
 	},
@@ -11,7 +11,7 @@
 		"code":"350128107",
 		"fullCode":"350128107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金井镇",
 		"parentCode":"350128"
 	},
@@ -19,7 +19,7 @@
 		"code":"350128108",
 		"fullCode":"350128108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"君山镇",
 		"parentCode":"350128"
 	},
@@ -27,7 +27,7 @@
 		"code":"350128109",
 		"fullCode":"350128109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏平镇",
 		"parentCode":"350128"
 	},
@@ -35,7 +35,7 @@
 		"code":"350128201",
 		"fullCode":"350128201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屿头乡",
 		"parentCode":"350128"
 	},
@@ -43,7 +43,7 @@
 		"code":"350128205",
 		"fullCode":"350128205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东庠乡",
 		"parentCode":"350128"
 	},
@@ -51,7 +51,7 @@
 		"code":"350128207",
 		"fullCode":"350128207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南海乡",
 		"parentCode":"350128"
 	}

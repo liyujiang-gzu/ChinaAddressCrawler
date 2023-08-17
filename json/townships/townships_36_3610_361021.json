@@ -3,7 +3,7 @@
 		"code":"361021100",
 		"fullCode":"361021100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建昌镇",
 		"parentCode":"361021"
 	},
@@ -11,7 +11,7 @@
 		"code":"361021101",
 		"fullCode":"361021101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"株良镇",
 		"parentCode":"361021"
 	},
@@ -19,7 +19,7 @@
 		"code":"361021102",
 		"fullCode":"361021102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上唐镇",
 		"parentCode":"361021"
 	},
@@ -27,7 +27,7 @@
 		"code":"361021103",
 		"fullCode":"361021103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里塔镇",
 		"parentCode":"361021"
 	},
@@ -35,7 +35,7 @@
 		"code":"361021104",
 		"fullCode":"361021104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪门镇",
 		"parentCode":"361021"
 	},
@@ -43,7 +43,7 @@
 		"code":"361021105",
 		"fullCode":"361021105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙洲镇",
 		"parentCode":"361021"
 	},
@@ -51,7 +51,7 @@
 		"code":"361021106",
 		"fullCode":"361021106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湖镇",
 		"parentCode":"361021"
 	},
@@ -59,7 +59,7 @@
 		"code":"361021107",
 		"fullCode":"361021107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新丰街镇",
 		"parentCode":"361021"
 	},
@@ -67,7 +67,7 @@
 		"code":"361021108",
 		"fullCode":"361021108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万坊镇",
 		"parentCode":"361021"
 	},
@@ -75,7 +75,7 @@
 		"code":"361021109",
 		"fullCode":"361021109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐家镇",
 		"parentCode":"361021"
 	},
@@ -83,7 +83,7 @@
 		"code":"361021201",
 		"fullCode":"361021201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天井源乡",
 		"parentCode":"361021"
 	},
@@ -91,7 +91,7 @@
 		"code":"361021203",
 		"fullCode":"361021203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浔溪乡",
 		"parentCode":"361021"
 	},
@@ -99,7 +99,7 @@
 		"code":"361021400",
 		"fullCode":"361021400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城县工业园区",
 		"parentCode":"361021"
 	}

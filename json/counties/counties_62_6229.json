@@ -3,7 +3,7 @@
 		"code":"622901",
 		"fullCode":"622901000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临夏市",
 		"parentCode":"6229"
 	},
@@ -11,7 +11,7 @@
 		"code":"622921",
 		"fullCode":"622921000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临夏县",
 		"parentCode":"6229"
 	},
@@ -19,7 +19,7 @@
 		"code":"622922",
 		"fullCode":"622922000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"康乐县",
 		"parentCode":"6229"
 	},
@@ -27,7 +27,7 @@
 		"code":"622923",
 		"fullCode":"622923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永靖县",
 		"parentCode":"6229"
 	},
@@ -35,7 +35,7 @@
 		"code":"622924",
 		"fullCode":"622924000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"广河县",
 		"parentCode":"6229"
 	},
@@ -43,7 +43,7 @@
 		"code":"622925",
 		"fullCode":"622925000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"和政县",
 		"parentCode":"6229"
 	},
@@ -51,7 +51,7 @@
 		"code":"622926",
 		"fullCode":"622926000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东乡族自治县",
 		"parentCode":"6229"
 	},
@@ -59,7 +59,7 @@
 		"code":"622927",
 		"fullCode":"622927000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"积石山保安族东乡族撒拉族自治县",
 		"parentCode":"6229"
 	}

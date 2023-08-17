@@ -3,7 +3,7 @@
 		"code":"140621100",
 		"fullCode":"140621100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉井镇",
 		"parentCode":"140621"
 	},
@@ -11,7 +11,7 @@
 		"code":"140621101",
 		"fullCode":"140621101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北周庄镇",
 		"parentCode":"140621"
 	},
@@ -19,7 +19,7 @@
 		"code":"140621102",
 		"fullCode":"140621102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"140621"
 	},
@@ -27,7 +27,7 @@
 		"code":"140621103",
 		"fullCode":"140621103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岱岳镇",
 		"parentCode":"140621"
 	},
@@ -35,7 +35,7 @@
 		"code":"140621104",
 		"fullCode":"140621104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广武镇",
 		"parentCode":"140621"
 	},
@@ -43,7 +43,7 @@
 		"code":"140621200",
 		"fullCode":"140621200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴马营乡",
 		"parentCode":"140621"
 	},
@@ -51,7 +51,7 @@
 		"code":"140621201",
 		"fullCode":"140621201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马营乡",
 		"parentCode":"140621"
 	},
@@ -59,7 +59,7 @@
 		"code":"140621202",
 		"fullCode":"140621202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下喇叭乡",
 		"parentCode":"140621"
 	},
@@ -67,7 +67,7 @@
 		"code":"140621203",
 		"fullCode":"140621203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合盛堡乡",
 		"parentCode":"140621"
 	},
@@ -75,7 +75,7 @@
 		"code":"140621205",
 		"fullCode":"140621205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安荣乡",
 		"parentCode":"140621"
 	},
@@ -83,7 +83,7 @@
 		"code":"140621206",
 		"fullCode":"140621206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薛圐圙乡",
 		"parentCode":"140621"
 	},
@@ -91,7 +91,7 @@
 		"code":"140621209",
 		"fullCode":"140621209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马营庄乡",
 		"parentCode":"140621"
 	}

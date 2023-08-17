@@ -3,7 +3,7 @@
 		"code":"370831001",
 		"fullCode":"370831001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗河街道",
 		"parentCode":"370831"
 	},
@@ -11,7 +11,7 @@
 		"code":"370831002",
 		"fullCode":"370831002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济河街道",
 		"parentCode":"370831"
 	},
@@ -19,7 +19,7 @@
 		"code":"370831101",
 		"fullCode":"370831101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉林镇",
 		"parentCode":"370831"
 	},
@@ -27,7 +27,7 @@
 		"code":"370831102",
 		"fullCode":"370831102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星村镇",
 		"parentCode":"370831"
 	},
@@ -35,7 +35,7 @@
 		"code":"370831103",
 		"fullCode":"370831103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柘沟镇",
 		"parentCode":"370831"
 	},
@@ -43,7 +43,7 @@
 		"code":"370831104",
 		"fullCode":"370831104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金庄镇",
 		"parentCode":"370831"
 	},
@@ -51,7 +51,7 @@
 		"code":"370831105",
 		"fullCode":"370831105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苗馆镇",
 		"parentCode":"370831"
 	},
@@ -59,7 +59,7 @@
 		"code":"370831106",
 		"fullCode":"370831106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中册镇",
 		"parentCode":"370831"
 	},
@@ -67,7 +67,7 @@
 		"code":"370831107",
 		"fullCode":"370831107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨柳镇",
 		"parentCode":"370831"
 	},
@@ -75,7 +75,7 @@
 		"code":"370831108",
 		"fullCode":"370831108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗张镇",
 		"parentCode":"370831"
 	},
@@ -83,7 +83,7 @@
 		"code":"370831109",
 		"fullCode":"370831109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圣水峪镇",
 		"parentCode":"370831"
 	},
@@ -91,7 +91,7 @@
 		"code":"370831110",
 		"fullCode":"370831110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高峪镇",
 		"parentCode":"370831"
 	},
@@ -99,7 +99,7 @@
 		"code":"370831111",
 		"fullCode":"370831111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华村镇",
 		"parentCode":"370831"
 	}

@@ -3,7 +3,7 @@
 		"code":"533103001",
 		"fullCode":"533103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芒市勐焕街道",
 		"parentCode":"533103"
 	},
@@ -11,7 +11,7 @@
 		"code":"533103101",
 		"fullCode":"533103101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芒市镇",
 		"parentCode":"533103"
 	},
@@ -19,7 +19,7 @@
 		"code":"533103102",
 		"fullCode":"533103102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遮放镇",
 		"parentCode":"533103"
 	},
@@ -27,7 +27,7 @@
 		"code":"533103103",
 		"fullCode":"533103103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐戛镇",
 		"parentCode":"533103"
 	},
@@ -35,7 +35,7 @@
 		"code":"533103104",
 		"fullCode":"533103104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芒海镇",
 		"parentCode":"533103"
 	},
@@ -43,7 +43,7 @@
 		"code":"533103105",
 		"fullCode":"533103105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"风平镇",
 		"parentCode":"533103"
 	},
@@ -51,7 +51,7 @@
 		"code":"533103201",
 		"fullCode":"533103201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"轩岗乡",
 		"parentCode":"533103"
 	},
@@ -59,7 +59,7 @@
 		"code":"533103202",
 		"fullCode":"533103202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江东乡",
 		"parentCode":"533103"
 	},
@@ -67,7 +67,7 @@
 		"code":"533103203",
 		"fullCode":"533103203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西山乡",
 		"parentCode":"533103"
 	},
@@ -75,7 +75,7 @@
 		"code":"533103204",
 		"fullCode":"533103204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山乡",
 		"parentCode":"533103"
 	},
@@ -83,7 +83,7 @@
 		"code":"533103205",
 		"fullCode":"533103205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三台山德昂族乡",
 		"parentCode":"533103"
 	},
@@ -91,7 +91,7 @@
 		"code":"533103206",
 		"fullCode":"533103206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五岔路乡",
 		"parentCode":"533103"
 	},
@@ -99,7 +99,7 @@
 		"code":"533103400",
 		"fullCode":"533103400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芒市遮放农场",
 		"parentCode":"533103"
 	}

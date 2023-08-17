@@ -3,7 +3,7 @@
 		"code":"320117001",
 		"fullCode":"320117001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永阳街道",
 		"parentCode":"320117"
 	},
@@ -11,7 +11,7 @@
 		"code":"320117002",
 		"fullCode":"320117002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柘塘街道",
 		"parentCode":"320117"
 	},
@@ -19,7 +19,7 @@
 		"code":"320117003",
 		"fullCode":"320117003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东屏街道",
 		"parentCode":"320117"
 	},
@@ -27,7 +27,7 @@
 		"code":"320117004",
 		"fullCode":"320117004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石湫街道",
 		"parentCode":"320117"
 	},
@@ -35,7 +35,7 @@
 		"code":"320117005",
 		"fullCode":"320117005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪蓝街道",
 		"parentCode":"320117"
 	},
@@ -43,7 +43,7 @@
 		"code":"320117101",
 		"fullCode":"320117101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马镇",
 		"parentCode":"320117"
 	},
@@ -51,7 +51,7 @@
 		"code":"320117106",
 		"fullCode":"320117106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晶桥镇",
 		"parentCode":"320117"
 	},
@@ -59,7 +59,7 @@
 		"code":"320117107",
 		"fullCode":"320117107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和凤镇",
 		"parentCode":"320117"
 	},
@@ -67,7 +67,7 @@
 		"code":"320117400",
 		"fullCode":"320117400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溧水开发区",
 		"parentCode":"320117"
 	}

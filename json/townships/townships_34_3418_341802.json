@@ -3,7 +3,7 @@
 		"code":"341802001",
 		"fullCode":"341802001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西林街道",
 		"parentCode":"341802"
 	},
@@ -11,7 +11,7 @@
 		"code":"341802002",
 		"fullCode":"341802002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澄江街道",
 		"parentCode":"341802"
 	},
@@ -19,7 +19,7 @@
 		"code":"341802003",
 		"fullCode":"341802003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鳌峰街道",
 		"parentCode":"341802"
 	},
@@ -27,7 +27,7 @@
 		"code":"341802004",
 		"fullCode":"341802004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济川街道",
 		"parentCode":"341802"
 	},
@@ -35,7 +35,7 @@
 		"code":"341802005",
 		"fullCode":"341802005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敬亭山街道",
 		"parentCode":"341802"
 	},
@@ -43,7 +43,7 @@
 		"code":"341802006",
 		"fullCode":"341802006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桥街道",
 		"parentCode":"341802"
 	},
@@ -51,7 +51,7 @@
 		"code":"341802009",
 		"fullCode":"341802009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳街道",
 		"parentCode":"341802"
 	},
@@ -59,7 +59,7 @@
 		"code":"341802100",
 		"fullCode":"341802100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水阳镇",
 		"parentCode":"341802"
 	},
@@ -67,7 +67,7 @@
 		"code":"341802101",
 		"fullCode":"341802101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狸桥镇",
 		"parentCode":"341802"
 	},
@@ -75,7 +75,7 @@
 		"code":"341802102",
 		"fullCode":"341802102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈村镇",
 		"parentCode":"341802"
 	},
@@ -83,7 +83,7 @@
 		"code":"341802103",
 		"fullCode":"341802103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古泉镇",
 		"parentCode":"341802"
 	},
@@ -91,7 +91,7 @@
 		"code":"341802104",
 		"fullCode":"341802104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪林镇",
 		"parentCode":"341802"
 	},
@@ -99,7 +99,7 @@
 		"code":"341802105",
 		"fullCode":"341802105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寒亭镇",
 		"parentCode":"341802"
 	},
@@ -107,7 +107,7 @@
 		"code":"341802106",
 		"fullCode":"341802106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌镇",
 		"parentCode":"341802"
 	},
@@ -115,7 +115,7 @@
 		"code":"341802107",
 		"fullCode":"341802107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙埠镇",
 		"parentCode":"341802"
 	},
@@ -123,7 +123,7 @@
 		"code":"341802109",
 		"fullCode":"341802109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨柳镇",
 		"parentCode":"341802"
 	},
@@ -131,7 +131,7 @@
 		"code":"341802110",
 		"fullCode":"341802110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水东镇",
 		"parentCode":"341802"
 	},
@@ -139,7 +139,7 @@
 		"code":"341802111",
 		"fullCode":"341802111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新田镇",
 		"parentCode":"341802"
 	},
@@ -147,7 +147,7 @@
 		"code":"341802112",
 		"fullCode":"341802112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周王镇",
 		"parentCode":"341802"
 	},
@@ -155,7 +155,7 @@
 		"code":"341802113",
 		"fullCode":"341802113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪口镇",
 		"parentCode":"341802"
 	},
@@ -163,7 +163,7 @@
 		"code":"341802200",
 		"fullCode":"341802200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱桥乡",
 		"parentCode":"341802"
 	},
@@ -171,7 +171,7 @@
 		"code":"341802201",
 		"fullCode":"341802201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"养贤乡",
 		"parentCode":"341802"
 	},
@@ -179,7 +179,7 @@
 		"code":"341802202",
 		"fullCode":"341802202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五星乡",
 		"parentCode":"341802"
 	},
@@ -187,7 +187,7 @@
 		"code":"341802204",
 		"fullCode":"341802204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄渡乡",
 		"parentCode":"341802"
 	}

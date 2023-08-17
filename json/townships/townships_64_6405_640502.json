@@ -3,7 +3,7 @@
 		"code":"640502100",
 		"fullCode":"640502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨河镇",
 		"parentCode":"640502"
 	},
@@ -11,7 +11,7 @@
 		"code":"640502101",
 		"fullCode":"640502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌镇",
 		"parentCode":"640502"
 	},
@@ -19,7 +19,7 @@
 		"code":"640502102",
 		"fullCode":"640502102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东园镇",
 		"parentCode":"640502"
 	},
@@ -27,7 +27,7 @@
 		"code":"640502103",
 		"fullCode":"640502103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柔远镇",
 		"parentCode":"640502"
 	},
@@ -35,7 +35,7 @@
 		"code":"640502104",
 		"fullCode":"640502104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇罗镇",
 		"parentCode":"640502"
 	},
@@ -43,7 +43,7 @@
 		"code":"640502105",
 		"fullCode":"640502105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宣和镇",
 		"parentCode":"640502"
 	},
@@ -51,7 +51,7 @@
 		"code":"640502106",
 		"fullCode":"640502106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永康镇",
 		"parentCode":"640502"
 	},
@@ -59,7 +59,7 @@
 		"code":"640502107",
 		"fullCode":"640502107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常乐镇",
 		"parentCode":"640502"
 	},
@@ -67,7 +67,7 @@
 		"code":"640502108",
 		"fullCode":"640502108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎水桥镇",
 		"parentCode":"640502"
 	},
@@ -75,7 +75,7 @@
 		"code":"640502109",
 		"fullCode":"640502109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴仁镇",
 		"parentCode":"640502"
 	},
@@ -83,7 +83,7 @@
 		"code":"640502200",
 		"fullCode":"640502200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香山乡",
 		"parentCode":"640502"
 	},
@@ -91,7 +91,7 @@
 		"code":"640502400",
 		"fullCode":"640502400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中卫山羊选育场",
 		"parentCode":"640502"
 	},
@@ -99,7 +99,7 @@
 		"code":"640502401",
 		"fullCode":"640502401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中卫工业园区",
 		"parentCode":"640502"
 	}

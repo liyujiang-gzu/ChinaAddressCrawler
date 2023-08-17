@@ -3,7 +3,7 @@
 		"code":"210881001",
 		"fullCode":"210881001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼓楼街道",
 		"parentCode":"210881"
 	},
@@ -11,7 +11,7 @@
 		"code":"210881002",
 		"fullCode":"210881002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"210881"
 	},
@@ -19,7 +19,7 @@
 		"code":"210881003",
 		"fullCode":"210881003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"210881"
 	},
@@ -27,7 +27,7 @@
 		"code":"210881004",
 		"fullCode":"210881004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太阳升街道",
 		"parentCode":"210881"
 	},
@@ -35,7 +35,7 @@
 		"code":"210881005",
 		"fullCode":"210881005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团山街道",
 		"parentCode":"210881"
 	},
@@ -43,7 +43,7 @@
 		"code":"210881006",
 		"fullCode":"210881006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西海街道",
 		"parentCode":"210881"
 	},
@@ -51,7 +51,7 @@
 		"code":"210881007",
 		"fullCode":"210881007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九垄地街道",
 		"parentCode":"210881"
 	},
@@ -59,7 +59,7 @@
 		"code":"210881008",
 		"fullCode":"210881008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"归州街道",
 		"parentCode":"210881"
 	},
@@ -67,7 +67,7 @@
 		"code":"210881102",
 		"fullCode":"210881102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高屯镇",
 		"parentCode":"210881"
 	},
@@ -75,7 +75,7 @@
 		"code":"210881105",
 		"fullCode":"210881105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙岗镇",
 		"parentCode":"210881"
 	},
@@ -83,7 +83,7 @@
 		"code":"210881109",
 		"fullCode":"210881109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九寨镇",
 		"parentCode":"210881"
 	},
@@ -91,7 +91,7 @@
 		"code":"210881110",
 		"fullCode":"210881110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万福镇",
 		"parentCode":"210881"
 	},
@@ -99,7 +99,7 @@
 		"code":"210881111",
 		"fullCode":"210881111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧龙泉镇",
 		"parentCode":"210881"
 	},
@@ -107,7 +107,7 @@
 		"code":"210881112",
 		"fullCode":"210881112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青石岭镇",
 		"parentCode":"210881"
 	},
@@ -115,7 +115,7 @@
 		"code":"210881113",
 		"fullCode":"210881113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"暖泉镇",
 		"parentCode":"210881"
 	},
@@ -123,7 +123,7 @@
 		"code":"210881116",
 		"fullCode":"210881116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榜式堡镇",
 		"parentCode":"210881"
 	},
@@ -131,7 +131,7 @@
 		"code":"210881117",
 		"fullCode":"210881117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团甸镇",
 		"parentCode":"210881"
 	},
@@ -139,7 +139,7 @@
 		"code":"210881118",
 		"fullCode":"210881118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双台镇",
 		"parentCode":"210881"
 	},
@@ -147,7 +147,7 @@
 		"code":"210881119",
 		"fullCode":"210881119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨运镇",
 		"parentCode":"210881"
 	},
@@ -155,7 +155,7 @@
 		"code":"210881120",
 		"fullCode":"210881120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐屯镇",
 		"parentCode":"210881"
 	},
@@ -163,7 +163,7 @@
 		"code":"210881121",
 		"fullCode":"210881121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"什字街镇",
 		"parentCode":"210881"
 	},
@@ -171,7 +171,7 @@
 		"code":"210881122",
 		"fullCode":"210881122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿洞沟镇",
 		"parentCode":"210881"
 	},
@@ -179,7 +179,7 @@
 		"code":"210881123",
 		"fullCode":"210881123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈屯镇",
 		"parentCode":"210881"
 	},
@@ -187,7 +187,7 @@
 		"code":"210881124",
 		"fullCode":"210881124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁屯镇",
 		"parentCode":"210881"
 	},
@@ -195,7 +195,7 @@
 		"code":"210881216",
 		"fullCode":"210881216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小石棚乡",
 		"parentCode":"210881"
 	},
@@ -203,7 +203,7 @@
 		"code":"210881217",
 		"fullCode":"210881217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"果园乡",
 		"parentCode":"210881"
 	},
@@ -211,7 +211,7 @@
 		"code":"210881218",
 		"fullCode":"210881218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二台乡",
 		"parentCode":"210881"
 	}

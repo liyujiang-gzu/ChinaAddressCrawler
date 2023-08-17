@@ -3,7 +3,7 @@
 		"code":"610330100",
 		"fullCode":"610330100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双石铺镇",
 		"parentCode":"610330"
 	},
@@ -11,7 +11,7 @@
 		"code":"610330101",
 		"fullCode":"610330101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤州镇",
 		"parentCode":"610330"
 	},
@@ -19,7 +19,7 @@
 		"code":"610330102",
 		"fullCode":"610330102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄牛铺镇",
 		"parentCode":"610330"
 	},
@@ -27,7 +27,7 @@
 		"code":"610330103",
 		"fullCode":"610330103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红花铺镇",
 		"parentCode":"610330"
 	},
@@ -35,7 +35,7 @@
 		"code":"610330104",
 		"fullCode":"610330104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口镇",
 		"parentCode":"610330"
 	},
@@ -43,7 +43,7 @@
 		"code":"610330105",
 		"fullCode":"610330105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐藏镇",
 		"parentCode":"610330"
 	},
@@ -51,7 +51,7 @@
 		"code":"610330106",
 		"fullCode":"610330106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平木镇",
 		"parentCode":"610330"
 	},
@@ -59,7 +59,7 @@
 		"code":"610330107",
 		"fullCode":"610330107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪坎镇",
 		"parentCode":"610330"
 	},
@@ -67,7 +67,7 @@
 		"code":"610330110",
 		"fullCode":"610330110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留凤关镇",
 		"parentCode":"610330"
 	},
@@ -75,7 +75,7 @@
 		"code":"610330400",
 		"fullCode":"610330400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马头滩林业局",
 		"parentCode":"610330"
 	},
@@ -83,7 +83,7 @@
 		"code":"610330401",
 		"fullCode":"610330401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛家山林业场",
 		"parentCode":"610330"
 	}

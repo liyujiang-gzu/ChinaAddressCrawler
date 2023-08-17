@@ -3,7 +3,7 @@
 		"code":"350802001",
 		"fullCode":"350802001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"350802"
 	},
@@ -11,7 +11,7 @@
 		"code":"350802002",
 		"fullCode":"350802002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城街道",
 		"parentCode":"350802"
 	},
@@ -19,7 +19,7 @@
 		"code":"350802003",
 		"fullCode":"350802003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"350802"
 	},
@@ -27,7 +27,7 @@
 		"code":"350802004",
 		"fullCode":"350802004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中城街道",
 		"parentCode":"350802"
 	},
@@ -35,7 +35,7 @@
 		"code":"350802005",
 		"fullCode":"350802005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西陂街道",
 		"parentCode":"350802"
 	},
@@ -43,7 +43,7 @@
 		"code":"350802006",
 		"fullCode":"350802006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹溪街道",
 		"parentCode":"350802"
 	},
@@ -51,7 +51,7 @@
 		"code":"350802007",
 		"fullCode":"350802007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东肖街道",
 		"parentCode":"350802"
 	},
@@ -59,7 +59,7 @@
 		"code":"350802008",
 		"fullCode":"350802008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门街道",
 		"parentCode":"350802"
 	},
@@ -67,7 +67,7 @@
 		"code":"350802009",
 		"fullCode":"350802009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁山街道",
 		"parentCode":"350802"
 	},
@@ -75,7 +75,7 @@
 		"code":"350802010",
 		"fullCode":"350802010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"350802"
 	},
@@ -83,7 +83,7 @@
 		"code":"350802100",
 		"fullCode":"350802100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红坊镇",
 		"parentCode":"350802"
 	},
@@ -91,7 +91,7 @@
 		"code":"350802101",
 		"fullCode":"350802101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"适中镇",
 		"parentCode":"350802"
 	},
@@ -99,7 +99,7 @@
 		"code":"350802102",
 		"fullCode":"350802102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雁石镇",
 		"parentCode":"350802"
 	},
@@ -107,7 +107,7 @@
 		"code":"350802103",
 		"fullCode":"350802103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"350802"
 	},
@@ -115,7 +115,7 @@
 		"code":"350802104",
 		"fullCode":"350802104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万安镇",
 		"parentCode":"350802"
 	},
@@ -123,7 +123,7 @@
 		"code":"350802105",
 		"fullCode":"350802105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大池镇",
 		"parentCode":"350802"
 	},
@@ -131,7 +131,7 @@
 		"code":"350802106",
 		"fullCode":"350802106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小池镇",
 		"parentCode":"350802"
 	},
@@ -139,7 +139,7 @@
 		"code":"350802107",
 		"fullCode":"350802107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江山镇",
 		"parentCode":"350802"
 	},
@@ -147,7 +147,7 @@
 		"code":"350802108",
 		"fullCode":"350802108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩山镇",
 		"parentCode":"350802"
 	},
@@ -155,7 +155,7 @@
 		"code":"350802109",
 		"fullCode":"350802109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏坂镇",
 		"parentCode":"350802"
 	}

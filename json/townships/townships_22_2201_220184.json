@@ -3,7 +3,7 @@
 		"code":"220184001",
 		"fullCode":"220184001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河南街道",
 		"parentCode":"220184"
 	},
@@ -11,7 +11,7 @@
 		"code":"220184002",
 		"fullCode":"220184002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北街道",
 		"parentCode":"220184"
 	},
@@ -19,7 +19,7 @@
 		"code":"220184003",
 		"fullCode":"220184003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东三街道",
 		"parentCode":"220184"
 	},
@@ -27,7 +27,7 @@
 		"code":"220184004",
 		"fullCode":"220184004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭东街道",
 		"parentCode":"220184"
 	},
@@ -35,7 +35,7 @@
 		"code":"220184005",
 		"fullCode":"220184005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁北街道",
 		"parentCode":"220184"
 	},
@@ -43,7 +43,7 @@
 		"code":"220184006",
 		"fullCode":"220184006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭西街道",
 		"parentCode":"220184"
 	},
@@ -51,7 +51,7 @@
 		"code":"220184007",
 		"fullCode":"220184007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘房子街道",
 		"parentCode":"220184"
 	},
@@ -59,7 +59,7 @@
 		"code":"220184008",
 		"fullCode":"220184008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南崴子街道",
 		"parentCode":"220184"
 	},
@@ -67,7 +67,7 @@
 		"code":"220184009",
 		"fullCode":"220184009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"环岭街道",
 		"parentCode":"220184"
 	},
@@ -75,7 +75,7 @@
 		"code":"220184010",
 		"fullCode":"220184010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苇子沟街道",
 		"parentCode":"220184"
 	},
@@ -83,7 +83,7 @@
 		"code":"220184100",
 		"fullCode":"220184100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二十家子镇",
 		"parentCode":"220184"
 	},
@@ -91,7 +91,7 @@
 		"code":"220184101",
 		"fullCode":"220184101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑林子镇",
 		"parentCode":"220184"
 	},
@@ -99,7 +99,7 @@
 		"code":"220184102",
 		"fullCode":"220184102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶家屯镇",
 		"parentCode":"220184"
 	},
@@ -107,7 +107,7 @@
 		"code":"220184103",
 		"fullCode":"220184103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范家屯镇",
 		"parentCode":"220184"
 	},
@@ -115,7 +115,7 @@
 		"code":"220184104",
 		"fullCode":"220184104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"响水镇",
 		"parentCode":"220184"
 	},
@@ -123,7 +123,7 @@
 		"code":"220184105",
 		"fullCode":"220184105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大岭镇",
 		"parentCode":"220184"
 	},
@@ -131,7 +131,7 @@
 		"code":"220184106",
 		"fullCode":"220184106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀德镇",
 		"parentCode":"220184"
 	},
@@ -139,7 +139,7 @@
 		"code":"220184107",
 		"fullCode":"220184107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双城堡镇",
 		"parentCode":"220184"
 	},
@@ -147,7 +147,7 @@
 		"code":"220184108",
 		"fullCode":"220184108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙镇",
 		"parentCode":"220184"
 	},
@@ -155,7 +155,7 @@
 		"code":"220184109",
 		"fullCode":"220184109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨大城子镇",
 		"parentCode":"220184"
 	},
@@ -163,7 +163,7 @@
 		"code":"220184110",
 		"fullCode":"220184110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛城子镇",
 		"parentCode":"220184"
 	},
@@ -171,7 +171,7 @@
 		"code":"220184111",
 		"fullCode":"220184111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玻璃城子镇",
 		"parentCode":"220184"
 	},
@@ -179,7 +179,7 @@
 		"code":"220184112",
 		"fullCode":"220184112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳坡镇",
 		"parentCode":"220184"
 	},
@@ -187,7 +187,7 @@
 		"code":"220184113",
 		"fullCode":"220184113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大榆树镇",
 		"parentCode":"220184"
 	},
@@ -195,7 +195,7 @@
 		"code":"220184114",
 		"fullCode":"220184114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦家屯镇",
 		"parentCode":"220184"
 	},
@@ -203,7 +203,7 @@
 		"code":"220184115",
 		"fullCode":"220184115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八屋镇",
 		"parentCode":"220184"
 	},
@@ -211,7 +211,7 @@
 		"code":"220184116",
 		"fullCode":"220184116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十屋镇",
 		"parentCode":"220184"
 	},
@@ -219,7 +219,7 @@
 		"code":"220184117",
 		"fullCode":"220184117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑树台镇",
 		"parentCode":"220184"
 	},
@@ -227,7 +227,7 @@
 		"code":"220184200",
 		"fullCode":"220184200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山乡",
 		"parentCode":"220184"
 	},
@@ -235,7 +235,7 @@
 		"code":"220184201",
 		"fullCode":"220184201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永发乡",
 		"parentCode":"220184"
 	},
@@ -243,7 +243,7 @@
 		"code":"220184400",
 		"fullCode":"220184400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"省原种繁殖场",
 		"parentCode":"220184"
 	},
@@ -251,7 +251,7 @@
 		"code":"220184401",
 		"fullCode":"220184401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四平农科院",
 		"parentCode":"220184"
 	},
@@ -259,7 +259,7 @@
 		"code":"220184402",
 		"fullCode":"220184402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公主岭市种猪场",
 		"parentCode":"220184"
 	},
@@ -267,7 +267,7 @@
 		"code":"220184404",
 		"fullCode":"220184404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十屋种牛场",
 		"parentCode":"220184"
 	},
@@ -275,7 +275,7 @@
 		"code":"220184405",
 		"fullCode":"220184405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"创业农场",
 		"parentCode":"220184"
 	},
@@ -283,7 +283,7 @@
 		"code":"220184407",
 		"fullCode":"220184407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范家屯经济开发区",
 		"parentCode":"220184"
 	}

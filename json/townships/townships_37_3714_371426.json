@@ -3,7 +3,7 @@
 		"code":"371426001",
 		"fullCode":"371426001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门街道",
 		"parentCode":"371426"
 	},
@@ -11,7 +11,7 @@
 		"code":"371426002",
 		"fullCode":"371426002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃园街道",
 		"parentCode":"371426"
 	},
@@ -19,7 +19,7 @@
 		"code":"371426003",
 		"fullCode":"371426003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德原街道",
 		"parentCode":"371426"
 	},
@@ -27,7 +27,7 @@
 		"code":"371426101",
 		"fullCode":"371426101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王凤楼镇",
 		"parentCode":"371426"
 	},
@@ -35,7 +35,7 @@
 		"code":"371426102",
 		"fullCode":"371426102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前曹镇",
 		"parentCode":"371426"
 	},
@@ -43,7 +43,7 @@
 		"code":"371426103",
 		"fullCode":"371426103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恩城镇",
 		"parentCode":"371426"
 	},
@@ -51,7 +51,7 @@
 		"code":"371426104",
 		"fullCode":"371426104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王庙镇",
 		"parentCode":"371426"
 	},
@@ -59,7 +59,7 @@
 		"code":"371426105",
 		"fullCode":"371426105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王杲铺镇",
 		"parentCode":"371426"
 	},
@@ -67,7 +67,7 @@
 		"code":"371426106",
 		"fullCode":"371426106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张华镇",
 		"parentCode":"371426"
 	},
@@ -75,7 +75,7 @@
 		"code":"371426107",
 		"fullCode":"371426107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰站镇",
 		"parentCode":"371426"
 	},
@@ -83,7 +83,7 @@
 		"code":"371426108",
 		"fullCode":"371426108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王打卦镇",
 		"parentCode":"371426"
 	},
@@ -91,7 +91,7 @@
 		"code":"371426202",
 		"fullCode":"371426202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三唐乡",
 		"parentCode":"371426"
 	}

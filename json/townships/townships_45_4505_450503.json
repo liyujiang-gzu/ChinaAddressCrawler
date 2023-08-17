@@ -3,7 +3,7 @@
 		"code":"450503100",
 		"fullCode":"450503100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福成镇",
 		"parentCode":"450503"
 	},
@@ -11,7 +11,7 @@
 		"code":"450503101",
 		"fullCode":"450503101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银滩镇",
 		"parentCode":"450503"
 	},
@@ -19,7 +19,7 @@
 		"code":"450503102",
 		"fullCode":"450503102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平阳镇",
 		"parentCode":"450503"
 	},
@@ -27,7 +27,7 @@
 		"code":"450503103",
 		"fullCode":"450503103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侨港镇",
 		"parentCode":"450503"
 	}

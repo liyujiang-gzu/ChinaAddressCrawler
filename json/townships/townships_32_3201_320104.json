@@ -3,7 +3,7 @@
 		"code":"320104001",
 		"fullCode":"320104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦虹街道",
 		"parentCode":"320104"
 	},
@@ -11,7 +11,7 @@
 		"code":"320104002",
 		"fullCode":"320104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夫子庙街道",
 		"parentCode":"320104"
 	},
@@ -19,7 +19,7 @@
 		"code":"320104003",
 		"fullCode":"320104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红花街道",
 		"parentCode":"320104"
 	},
@@ -27,7 +27,7 @@
 		"code":"320104004",
 		"fullCode":"320104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双塘街道",
 		"parentCode":"320104"
 	},
@@ -35,7 +35,7 @@
 		"code":"320104005",
 		"fullCode":"320104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华门街道",
 		"parentCode":"320104"
 	},
@@ -43,7 +43,7 @@
 		"code":"320104006",
 		"fullCode":"320104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五老村街道",
 		"parentCode":"320104"
 	},
@@ -51,7 +51,7 @@
 		"code":"320104007",
 		"fullCode":"320104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪武路街道",
 		"parentCode":"320104"
 	},
@@ -59,7 +59,7 @@
 		"code":"320104008",
 		"fullCode":"320104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大光路街道",
 		"parentCode":"320104"
 	},
@@ -67,7 +67,7 @@
 		"code":"320104009",
 		"fullCode":"320104009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑞金路街道",
 		"parentCode":"320104"
 	},
@@ -75,7 +75,7 @@
 		"code":"320104010",
 		"fullCode":"320104010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月牙湖街道",
 		"parentCode":"320104"
 	},
@@ -83,7 +83,7 @@
 		"code":"320104011",
 		"fullCode":"320104011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光华路街道",
 		"parentCode":"320104"
 	},
@@ -91,7 +91,7 @@
 		"code":"320104012",
 		"fullCode":"320104012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝天宫街道",
 		"parentCode":"320104"
 	},
@@ -99,7 +99,7 @@
 		"code":"320104400",
 		"fullCode":"320104400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夫子庙秦淮风光带",
 		"parentCode":"320104"
 	},
@@ -107,7 +107,7 @@
 		"code":"320104401",
 		"fullCode":"320104401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高新园区",
 		"parentCode":"320104"
 	},
@@ -115,7 +115,7 @@
 		"code":"320104402",
 		"fullCode":"320104402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城发展服务",
 		"parentCode":"320104"
 	},
@@ -123,7 +123,7 @@
 		"code":"320104403",
 		"fullCode":"320104403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街口商务商贸街区",
 		"parentCode":"320104"
 	}

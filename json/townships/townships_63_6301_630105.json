@@ -3,7 +3,7 @@
 		"code":"630105001",
 		"fullCode":"630105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳街道",
 		"parentCode":"630105"
 	},
@@ -11,7 +11,7 @@
 		"code":"630105002",
 		"fullCode":"630105002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小桥大街街道",
 		"parentCode":"630105"
 	},
@@ -19,7 +19,7 @@
 		"code":"630105003",
 		"fullCode":"630105003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坊街道",
 		"parentCode":"630105"
 	},
@@ -27,7 +27,7 @@
 		"code":"630105004",
 		"fullCode":"630105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火车西站街道",
 		"parentCode":"630105"
 	},
@@ -35,7 +35,7 @@
 		"code":"630105100",
 		"fullCode":"630105100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大堡子镇",
 		"parentCode":"630105"
 	},
@@ -43,7 +43,7 @@
 		"code":"630105101",
 		"fullCode":"630105101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"廿里铺镇",
 		"parentCode":"630105"
 	},
@@ -51,7 +51,7 @@
 		"code":"630105400",
 		"fullCode":"630105400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"生物科技产业园",
 		"parentCode":"630105"
 	}

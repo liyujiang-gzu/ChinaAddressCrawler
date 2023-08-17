@@ -3,7 +3,7 @@
 		"code":"632301100",
 		"fullCode":"632301100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆务镇",
 		"parentCode":"632301"
 	},
@@ -11,7 +11,7 @@
 		"code":"632301101",
 		"fullCode":"632301101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保安镇",
 		"parentCode":"632301"
 	},
@@ -19,7 +19,7 @@
 		"code":"632301102",
 		"fullCode":"632301102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多哇镇",
 		"parentCode":"632301"
 	},
@@ -27,7 +27,7 @@
 		"code":"632301200",
 		"fullCode":"632301200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰采乡",
 		"parentCode":"632301"
 	},
@@ -35,7 +35,7 @@
 		"code":"632301201",
 		"fullCode":"632301201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双朋西乡",
 		"parentCode":"632301"
 	},
@@ -43,7 +43,7 @@
 		"code":"632301202",
 		"fullCode":"632301202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎毛乡",
 		"parentCode":"632301"
 	},
@@ -51,7 +51,7 @@
 		"code":"632301203",
 		"fullCode":"632301203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄乃亥乡",
 		"parentCode":"632301"
 	},
@@ -59,7 +59,7 @@
 		"code":"632301204",
 		"fullCode":"632301204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲库乎乡",
 		"parentCode":"632301"
 	},
@@ -67,7 +67,7 @@
 		"code":"632301205",
 		"fullCode":"632301205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"年都乎乡",
 		"parentCode":"632301"
 	},
@@ -75,7 +75,7 @@
 		"code":"632301206",
 		"fullCode":"632301206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓜什则乡",
 		"parentCode":"632301"
 	},
@@ -83,7 +83,7 @@
 		"code":"632301207",
 		"fullCode":"632301207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加吾乡",
 		"parentCode":"632301"
 	}

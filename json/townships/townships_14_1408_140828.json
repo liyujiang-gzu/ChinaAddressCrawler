@@ -3,7 +3,7 @@
 		"code":"140828100",
 		"fullCode":"140828100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑶峰镇",
 		"parentCode":"140828"
 	},
@@ -11,7 +11,7 @@
 		"code":"140828101",
 		"fullCode":"140828101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙前镇",
 		"parentCode":"140828"
 	},
@@ -19,7 +19,7 @@
 		"code":"140828102",
 		"fullCode":"140828102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裴介镇",
 		"parentCode":"140828"
 	},
@@ -27,7 +27,7 @@
 		"code":"140828103",
 		"fullCode":"140828103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水头镇",
 		"parentCode":"140828"
 	},
@@ -35,7 +35,7 @@
 		"code":"140828104",
 		"fullCode":"140828104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"埝掌镇",
 		"parentCode":"140828"
 	},
@@ -43,7 +43,7 @@
 		"code":"140828105",
 		"fullCode":"140828105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗交镇",
 		"parentCode":"140828"
 	},
@@ -51,7 +51,7 @@
 		"code":"140828106",
 		"fullCode":"140828106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禹王镇",
 		"parentCode":"140828"
 	},
@@ -59,7 +59,7 @@
 		"code":"140828200",
 		"fullCode":"140828200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尉郭乡",
 		"parentCode":"140828"
 	},
@@ -67,7 +67,7 @@
 		"code":"140828202",
 		"fullCode":"140828202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡张乡",
 		"parentCode":"140828"
 	},
@@ -75,7 +75,7 @@
 		"code":"140828203",
 		"fullCode":"140828203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南大里乡",
 		"parentCode":"140828"
 	},
@@ -83,7 +83,7 @@
 		"code":"140828204",
 		"fullCode":"140828204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祁家河乡",
 		"parentCode":"140828"
 	}

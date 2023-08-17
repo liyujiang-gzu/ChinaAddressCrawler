@@ -3,7 +3,7 @@
 		"code":"610324001",
 		"fullCode":"610324001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"610324"
 	},
@@ -11,7 +11,7 @@
 		"code":"610324101",
 		"fullCode":"610324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天度镇",
 		"parentCode":"610324"
 	},
@@ -19,7 +19,7 @@
 		"code":"610324102",
 		"fullCode":"610324102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"午井镇",
 		"parentCode":"610324"
 	},
@@ -27,7 +27,7 @@
 		"code":"610324103",
 		"fullCode":"610324103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绛帐镇",
 		"parentCode":"610324"
 	},
@@ -35,7 +35,7 @@
 		"code":"610324104",
 		"fullCode":"610324104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段家镇",
 		"parentCode":"610324"
 	},
@@ -43,7 +43,7 @@
 		"code":"610324105",
 		"fullCode":"610324105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏林镇",
 		"parentCode":"610324"
 	},
@@ -51,7 +51,7 @@
 		"code":"610324106",
 		"fullCode":"610324106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"召公镇",
 		"parentCode":"610324"
 	},
@@ -59,7 +59,7 @@
 		"code":"610324107",
 		"fullCode":"610324107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"法门镇",
 		"parentCode":"610324"
 	}

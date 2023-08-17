@@ -3,7 +3,7 @@
 		"code":"532322101",
 		"fullCode":"532322101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"妥甸镇",
 		"parentCode":"532322"
 	},
@@ -11,7 +11,7 @@
 		"code":"532322102",
 		"fullCode":"532322102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庄镇",
 		"parentCode":"532322"
 	},
@@ -19,7 +19,7 @@
 		"code":"532322103",
 		"fullCode":"532322103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"法脿镇",
 		"parentCode":"532322"
 	},
@@ -27,7 +27,7 @@
 		"code":"532322104",
 		"fullCode":"532322104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鄂嘉镇",
 		"parentCode":"532322"
 	},
@@ -35,7 +35,7 @@
 		"code":"532322105",
 		"fullCode":"532322105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大麦地镇",
 		"parentCode":"532322"
 	},
@@ -43,7 +43,7 @@
 		"code":"532322201",
 		"fullCode":"532322201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安龙堡乡",
 		"parentCode":"532322"
 	},
@@ -51,7 +51,7 @@
 		"code":"532322202",
 		"fullCode":"532322202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱尼山乡",
 		"parentCode":"532322"
 	},
@@ -59,7 +59,7 @@
 		"code":"532322203",
 		"fullCode":"532322203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"独田乡",
 		"parentCode":"532322"
 	}

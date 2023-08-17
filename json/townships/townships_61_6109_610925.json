@@ -3,7 +3,7 @@
 		"code":"610925100",
 		"fullCode":"610925100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"610925"
 	},
@@ -11,7 +11,7 @@
 		"code":"610925101",
 		"fullCode":"610925101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佐龙镇",
 		"parentCode":"610925"
 	},
@@ -19,7 +19,7 @@
 		"code":"610925103",
 		"fullCode":"610925103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滔河镇",
 		"parentCode":"610925"
 	},
@@ -27,7 +27,7 @@
 		"code":"610925104",
 		"fullCode":"610925104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官元镇",
 		"parentCode":"610925"
 	},
@@ -35,7 +35,7 @@
 		"code":"610925105",
 		"fullCode":"610925105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门镇",
 		"parentCode":"610925"
 	},
@@ -43,7 +43,7 @@
 		"code":"610925106",
 		"fullCode":"610925106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民主镇",
 		"parentCode":"610925"
 	},
@@ -51,7 +51,7 @@
 		"code":"610925107",
 		"fullCode":"610925107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大道河镇",
 		"parentCode":"610925"
 	},
@@ -59,7 +59,7 @@
 		"code":"610925109",
 		"fullCode":"610925109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堰门镇",
 		"parentCode":"610925"
 	},
@@ -67,7 +67,7 @@
 		"code":"610925111",
 		"fullCode":"610925111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔺河镇",
 		"parentCode":"610925"
 	},
@@ -75,7 +75,7 @@
 		"code":"610925112",
 		"fullCode":"610925112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四季镇",
 		"parentCode":"610925"
 	},
@@ -83,7 +83,7 @@
 		"code":"610925114",
 		"fullCode":"610925114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟石岭镇",
 		"parentCode":"610925"
 	},
@@ -91,7 +91,7 @@
 		"code":"610925115",
 		"fullCode":"610925115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南宫山镇",
 		"parentCode":"610925"
 	}

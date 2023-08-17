@@ -3,7 +3,7 @@
 		"code":"210522001",
 		"fullCode":"210522001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八卦城街道",
 		"parentCode":"210522"
 	},
@@ -11,7 +11,7 @@
 		"code":"210522100",
 		"fullCode":"210522100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桓仁镇",
 		"parentCode":"210522"
 	},
@@ -19,7 +19,7 @@
 		"code":"210522101",
 		"fullCode":"210522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普乐堡镇",
 		"parentCode":"210522"
 	},
@@ -27,7 +27,7 @@
 		"code":"210522102",
 		"fullCode":"210522102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二棚甸子镇",
 		"parentCode":"210522"
 	},
@@ -35,7 +35,7 @@
 		"code":"210522103",
 		"fullCode":"210522103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙尖子镇",
 		"parentCode":"210522"
 	},
@@ -43,7 +43,7 @@
 		"code":"210522104",
 		"fullCode":"210522104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里甸子镇",
 		"parentCode":"210522"
 	},
@@ -51,7 +51,7 @@
 		"code":"210522108",
 		"fullCode":"210522108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里甸子镇",
 		"parentCode":"210522"
 	},
@@ -59,7 +59,7 @@
 		"code":"210522110",
 		"fullCode":"210522110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华来镇",
 		"parentCode":"210522"
 	},
@@ -67,7 +67,7 @@
 		"code":"210522111",
 		"fullCode":"210522111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"210522"
 	},
@@ -75,7 +75,7 @@
 		"code":"210522201",
 		"fullCode":"210522201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅河朝鲜族乡",
 		"parentCode":"210522"
 	},
@@ -83,7 +83,7 @@
 		"code":"210522202",
 		"fullCode":"210522202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳乡",
 		"parentCode":"210522"
 	},
@@ -91,7 +91,7 @@
 		"code":"210522206",
 		"fullCode":"210522206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑沟乡",
 		"parentCode":"210522"
 	},
@@ -99,7 +99,7 @@
 		"code":"210522208",
 		"fullCode":"210522208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北甸子乡",
 		"parentCode":"210522"
 	}

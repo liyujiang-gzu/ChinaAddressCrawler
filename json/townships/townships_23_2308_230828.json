@@ -3,7 +3,7 @@
 		"code":"230828101",
 		"fullCode":"230828101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香兰镇",
 		"parentCode":"230828"
 	},
@@ -11,7 +11,7 @@
 		"code":"230828102",
 		"fullCode":"230828102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤立镇",
 		"parentCode":"230828"
 	},
@@ -19,7 +19,7 @@
 		"code":"230828103",
 		"fullCode":"230828103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹帘镇",
 		"parentCode":"230828"
 	},
@@ -27,7 +27,7 @@
 		"code":"230828104",
 		"fullCode":"230828104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤原镇",
 		"parentCode":"230828"
 	},
@@ -35,7 +35,7 @@
 		"code":"230828201",
 		"fullCode":"230828201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤旺乡",
 		"parentCode":"230828"
 	},
@@ -43,7 +43,7 @@
 		"code":"230828203",
 		"fullCode":"230828203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利乡",
 		"parentCode":"230828"
 	},
@@ -51,7 +51,7 @@
 		"code":"230828208",
 		"fullCode":"230828208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉祥乡",
 		"parentCode":"230828"
 	},
@@ -59,7 +59,7 @@
 		"code":"230828209",
 		"fullCode":"230828209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振兴乡",
 		"parentCode":"230828"
 	},
@@ -67,7 +67,7 @@
 		"code":"230828210",
 		"fullCode":"230828210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平川乡",
 		"parentCode":"230828"
 	},
@@ -75,7 +75,7 @@
 		"code":"230828211",
 		"fullCode":"230828211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永发乡",
 		"parentCode":"230828"
 	},
@@ -83,7 +83,7 @@
 		"code":"230828400",
 		"fullCode":"230828400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤立林业局",
 		"parentCode":"230828"
 	},
@@ -91,7 +91,7 @@
 		"code":"230828480",
 		"fullCode":"230828480000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香兰监狱",
 		"parentCode":"230828"
 	},
@@ -99,7 +99,7 @@
 		"code":"230828500",
 		"fullCode":"230828500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤原农场",
 		"parentCode":"230828"
 	},
@@ -107,7 +107,7 @@
 		"code":"230828501",
 		"fullCode":"230828501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梧桐河农场",
 		"parentCode":"230828"
 	}

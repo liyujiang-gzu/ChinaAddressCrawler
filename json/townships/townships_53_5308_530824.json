@@ -3,7 +3,7 @@
 		"code":"530824101",
 		"fullCode":"530824101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"威远镇",
 		"parentCode":"530824"
 	},
@@ -11,7 +11,7 @@
 		"code":"530824102",
 		"fullCode":"530824102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永平镇",
 		"parentCode":"530824"
 	},
@@ -19,7 +19,7 @@
 		"code":"530824103",
 		"fullCode":"530824103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正兴镇",
 		"parentCode":"530824"
 	},
@@ -27,7 +27,7 @@
 		"code":"530824104",
 		"fullCode":"530824104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民乐镇",
 		"parentCode":"530824"
 	},
@@ -35,7 +35,7 @@
 		"code":"530824105",
 		"fullCode":"530824105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤山镇",
 		"parentCode":"530824"
 	},
@@ -43,7 +43,7 @@
 		"code":"530824106",
 		"fullCode":"530824106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景谷镇",
 		"parentCode":"530824"
 	},
@@ -51,7 +51,7 @@
 		"code":"530824201",
 		"fullCode":"530824201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧安乡",
 		"parentCode":"530824"
 	},
@@ -59,7 +59,7 @@
 		"code":"530824204",
 		"fullCode":"530824204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"益智乡",
 		"parentCode":"530824"
 	},
@@ -67,7 +67,7 @@
 		"code":"530824205",
 		"fullCode":"530824205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半坡乡",
 		"parentCode":"530824"
 	},
@@ -75,7 +75,7 @@
 		"code":"530824206",
 		"fullCode":"530824206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐班乡",
 		"parentCode":"530824"
 	}

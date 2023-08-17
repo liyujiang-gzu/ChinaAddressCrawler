@@ -3,7 +3,7 @@
 		"code":"211281001",
 		"fullCode":"211281001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兀术街街道",
 		"parentCode":"211281"
 	},
@@ -11,7 +11,7 @@
 		"code":"211281002",
 		"fullCode":"211281002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"调兵山街道",
 		"parentCode":"211281"
 	},
@@ -19,7 +19,7 @@
 		"code":"211281102",
 		"fullCode":"211281102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晓明镇",
 		"parentCode":"211281"
 	},
@@ -27,7 +27,7 @@
 		"code":"211281103",
 		"fullCode":"211281103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大明镇",
 		"parentCode":"211281"
 	},
@@ -35,7 +35,7 @@
 		"code":"211281105",
 		"fullCode":"211281105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晓南镇",
 		"parentCode":"211281"
 	}

@@ -3,7 +3,7 @@
 		"code":"622901001",
 		"fullCode":"622901001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"622901"
 	},
@@ -11,7 +11,7 @@
 		"code":"622901002",
 		"fullCode":"622901002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"622901"
 	},
@@ -19,7 +19,7 @@
 		"code":"622901003",
 		"fullCode":"622901003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关街道",
 		"parentCode":"622901"
 	},
@@ -27,7 +27,7 @@
 		"code":"622901004",
 		"fullCode":"622901004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关街道",
 		"parentCode":"622901"
 	},
@@ -35,7 +35,7 @@
 		"code":"622901005",
 		"fullCode":"622901005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八坊街道",
 		"parentCode":"622901"
 	},
@@ -43,7 +43,7 @@
 		"code":"622901006",
 		"fullCode":"622901006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红园街道",
 		"parentCode":"622901"
 	},
@@ -51,7 +51,7 @@
 		"code":"622901007",
 		"fullCode":"622901007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东区街道",
 		"parentCode":"622901"
 	},
@@ -59,7 +59,7 @@
 		"code":"622901100",
 		"fullCode":"622901100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊镇",
 		"parentCode":"622901"
 	},
@@ -67,7 +67,7 @@
 		"code":"622901101",
 		"fullCode":"622901101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枹罕镇",
 		"parentCode":"622901"
 	},
@@ -75,7 +75,7 @@
 		"code":"622901102",
 		"fullCode":"622901102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南龙镇",
 		"parentCode":"622901"
 	},
@@ -83,7 +83,7 @@
 		"code":"622901103",
 		"fullCode":"622901103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"折桥镇",
 		"parentCode":"622901"
 	}

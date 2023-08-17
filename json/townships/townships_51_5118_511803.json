@@ -3,7 +3,7 @@
 		"code":"511803001",
 		"fullCode":"511803001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴街道",
 		"parentCode":"511803"
 	},
@@ -11,7 +11,7 @@
 		"code":"511803002",
 		"fullCode":"511803002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒙阳街道",
 		"parentCode":"511803"
 	},
@@ -19,7 +19,7 @@
 		"code":"511803101",
 		"fullCode":"511803101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百丈镇",
 		"parentCode":"511803"
 	},
@@ -27,7 +27,7 @@
 		"code":"511803102",
 		"fullCode":"511803102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车岭镇",
 		"parentCode":"511803"
 	},
@@ -35,7 +35,7 @@
 		"code":"511803104",
 		"fullCode":"511803104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马岭镇",
 		"parentCode":"511803"
 	},
@@ -43,7 +43,7 @@
 		"code":"511803105",
 		"fullCode":"511803105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店镇",
 		"parentCode":"511803"
 	},
@@ -51,7 +51,7 @@
 		"code":"511803106",
 		"fullCode":"511803106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒙顶山镇",
 		"parentCode":"511803"
 	},
@@ -59,7 +59,7 @@
 		"code":"511803107",
 		"fullCode":"511803107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑竹镇",
 		"parentCode":"511803"
 	},
@@ -67,7 +67,7 @@
 		"code":"511803108",
 		"fullCode":"511803108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星镇",
 		"parentCode":"511803"
 	},
@@ -75,7 +75,7 @@
 		"code":"511803109",
 		"fullCode":"511803109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中峰镇",
 		"parentCode":"511803"
 	},
@@ -83,7 +83,7 @@
 		"code":"511803112",
 		"fullCode":"511803112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅河镇",
 		"parentCode":"511803"
 	},
@@ -91,7 +91,7 @@
 		"code":"511803118",
 		"fullCode":"511803118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进镇",
 		"parentCode":"511803"
 	},
@@ -99,7 +99,7 @@
 		"code":"511803119",
 		"fullCode":"511803119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万古镇",
 		"parentCode":"511803"
 	}

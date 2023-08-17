@@ -3,7 +3,7 @@
 		"code":"370902001",
 		"fullCode":"370902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岱庙街道",
 		"parentCode":"370902"
 	},
@@ -11,7 +11,7 @@
 		"code":"370902002",
 		"fullCode":"370902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"财源街道",
 		"parentCode":"370902"
 	},
@@ -19,7 +19,7 @@
 		"code":"370902003",
 		"fullCode":"370902003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰前街道",
 		"parentCode":"370902"
 	},
@@ -27,7 +27,7 @@
 		"code":"370902004",
 		"fullCode":"370902004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上高街道",
 		"parentCode":"370902"
 	},
@@ -35,7 +35,7 @@
 		"code":"370902005",
 		"fullCode":"370902005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐家楼街道",
 		"parentCode":"370902"
 	},
@@ -43,7 +43,7 @@
 		"code":"370902100",
 		"fullCode":"370902100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"省庄镇",
 		"parentCode":"370902"
 	},
@@ -51,7 +51,7 @@
 		"code":"370902101",
 		"fullCode":"370902101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邱家店镇",
 		"parentCode":"370902"
 	},
@@ -59,7 +59,7 @@
 		"code":"370902202",
 		"fullCode":"370902202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大津口乡",
 		"parentCode":"370902"
 	}

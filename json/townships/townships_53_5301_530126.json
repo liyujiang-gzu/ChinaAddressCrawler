@@ -3,7 +3,7 @@
 		"code":"530126001",
 		"fullCode":"530126001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿阜街道",
 		"parentCode":"530126"
 	},
@@ -11,7 +11,7 @@
 		"code":"530126002",
 		"fullCode":"530126002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石林街道",
 		"parentCode":"530126"
 	},
@@ -19,7 +19,7 @@
 		"code":"530126003",
 		"fullCode":"530126003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥街道",
 		"parentCode":"530126"
 	},
@@ -27,7 +27,7 @@
 		"code":"530126105",
 		"fullCode":"530126105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西街口镇",
 		"parentCode":"530126"
 	},
@@ -35,7 +35,7 @@
 		"code":"530126106",
 		"fullCode":"530126106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长湖镇",
 		"parentCode":"530126"
 	},
@@ -43,7 +43,7 @@
 		"code":"530126107",
 		"fullCode":"530126107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圭山镇",
 		"parentCode":"530126"
 	},
@@ -51,7 +51,7 @@
 		"code":"530126201",
 		"fullCode":"530126201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大可乡",
 		"parentCode":"530126"
 	}

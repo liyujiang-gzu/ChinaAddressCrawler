@@ -3,7 +3,7 @@
 		"code":"532328101",
 		"fullCode":"532328101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元马镇",
 		"parentCode":"532328"
 	},
@@ -11,7 +11,7 @@
 		"code":"532328103",
 		"fullCode":"532328103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄瓜园镇",
 		"parentCode":"532328"
 	},
@@ -19,7 +19,7 @@
 		"code":"532328104",
 		"fullCode":"532328104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊街镇",
 		"parentCode":"532328"
 	},
@@ -27,7 +27,7 @@
 		"code":"532328202",
 		"fullCode":"532328202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老城乡",
 		"parentCode":"532328"
 	},
@@ -35,7 +35,7 @@
 		"code":"532328203",
 		"fullCode":"532328203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"物茂乡",
 		"parentCode":"532328"
 	},
@@ -43,7 +43,7 @@
 		"code":"532328204",
 		"fullCode":"532328204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江边乡",
 		"parentCode":"532328"
 	},
@@ -51,7 +51,7 @@
 		"code":"532328205",
 		"fullCode":"532328205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华乡",
 		"parentCode":"532328"
 	},
@@ -59,7 +59,7 @@
 		"code":"532328206",
 		"fullCode":"532328206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平田乡",
 		"parentCode":"532328"
 	},
@@ -67,7 +67,7 @@
 		"code":"532328209",
 		"fullCode":"532328209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉山乡",
 		"parentCode":"532328"
 	},
@@ -75,7 +75,7 @@
 		"code":"532328210",
 		"fullCode":"532328210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜驿乡",
 		"parentCode":"532328"
 	}

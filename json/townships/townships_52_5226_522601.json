@@ -3,7 +3,7 @@
 		"code":"522601001",
 		"fullCode":"522601001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"522601"
 	},
@@ -11,7 +11,7 @@
 		"code":"522601002",
 		"fullCode":"522601002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大十字街道",
 		"parentCode":"522601"
 	},
@@ -19,7 +19,7 @@
 		"code":"522601003",
 		"fullCode":"522601003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西门街道",
 		"parentCode":"522601"
 	},
@@ -27,7 +27,7 @@
 		"code":"522601004",
 		"fullCode":"522601004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洗马河街道",
 		"parentCode":"522601"
 	},
@@ -35,7 +35,7 @@
 		"code":"522601005",
 		"fullCode":"522601005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾溪街道",
 		"parentCode":"522601"
 	},
@@ -43,7 +43,7 @@
 		"code":"522601006",
 		"fullCode":"522601006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸭塘街道",
 		"parentCode":"522601"
 	},
@@ -51,7 +51,7 @@
 		"code":"522601007",
 		"fullCode":"522601007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开怀街道",
 		"parentCode":"522601"
 	},
@@ -59,7 +59,7 @@
 		"code":"522601008",
 		"fullCode":"522601008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白午街道",
 		"parentCode":"522601"
 	},
@@ -67,7 +67,7 @@
 		"code":"522601009",
 		"fullCode":"522601009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白果井街道",
 		"parentCode":"522601"
 	},
@@ -75,7 +75,7 @@
 		"code":"522601100",
 		"fullCode":"522601100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三棵树镇",
 		"parentCode":"522601"
 	},
@@ -83,7 +83,7 @@
 		"code":"522601101",
 		"fullCode":"522601101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舟溪镇",
 		"parentCode":"522601"
 	},
@@ -91,7 +91,7 @@
 		"code":"522601103",
 		"fullCode":"522601103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旁海镇",
 		"parentCode":"522601"
 	},
@@ -99,7 +99,7 @@
 		"code":"522601104",
 		"fullCode":"522601104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾水镇",
 		"parentCode":"522601"
 	},
@@ -107,7 +107,7 @@
 		"code":"522601105",
 		"fullCode":"522601105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炉山镇",
 		"parentCode":"522601"
 	},
@@ -115,7 +115,7 @@
 		"code":"522601106",
 		"fullCode":"522601106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万潮镇",
 		"parentCode":"522601"
 	},
@@ -123,7 +123,7 @@
 		"code":"522601107",
 		"fullCode":"522601107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙场镇",
 		"parentCode":"522601"
 	},
@@ -131,7 +131,7 @@
 		"code":"522601108",
 		"fullCode":"522601108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧波镇",
 		"parentCode":"522601"
 	},
@@ -139,7 +139,7 @@
 		"code":"522601109",
 		"fullCode":"522601109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下司镇",
 		"parentCode":"522601"
 	},
@@ -147,7 +147,7 @@
 		"code":"522601110",
 		"fullCode":"522601110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凯棠镇",
 		"parentCode":"522601"
 	},
@@ -155,7 +155,7 @@
 		"code":"522601111",
 		"fullCode":"522601111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大风洞镇",
 		"parentCode":"522601"
 	}

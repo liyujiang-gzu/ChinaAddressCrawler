@@ -3,7 +3,7 @@
 		"code":"620821001",
 		"fullCode":"620821001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城市社区街道",
 		"parentCode":"620821"
 	},
@@ -11,7 +11,7 @@
 		"code":"620821100",
 		"fullCode":"620821100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"620821"
 	},
@@ -19,7 +19,7 @@
 		"code":"620821101",
 		"fullCode":"620821101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉都镇",
 		"parentCode":"620821"
 	},
@@ -27,7 +27,7 @@
 		"code":"620821102",
 		"fullCode":"620821102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高平镇",
 		"parentCode":"620821"
 	},
@@ -35,7 +35,7 @@
 		"code":"620821103",
 		"fullCode":"620821103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荔堡镇",
 		"parentCode":"620821"
 	},
@@ -43,7 +43,7 @@
 		"code":"620821104",
 		"fullCode":"620821104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王村镇",
 		"parentCode":"620821"
 	},
@@ -51,7 +51,7 @@
 		"code":"620821105",
 		"fullCode":"620821105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑店镇",
 		"parentCode":"620821"
 	},
@@ -59,7 +59,7 @@
 		"code":"620821106",
 		"fullCode":"620821106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"飞云镇",
 		"parentCode":"620821"
 	},
@@ -67,7 +67,7 @@
 		"code":"620821107",
 		"fullCode":"620821107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰台镇",
 		"parentCode":"620821"
 	},
@@ -75,7 +75,7 @@
 		"code":"620821108",
 		"fullCode":"620821108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"党原镇",
 		"parentCode":"620821"
 	},
@@ -83,7 +83,7 @@
 		"code":"620821109",
 		"fullCode":"620821109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汭丰镇",
 		"parentCode":"620821"
 	},
@@ -91,7 +91,7 @@
 		"code":"620821110",
 		"fullCode":"620821110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"620821"
 	},
@@ -99,7 +99,7 @@
 		"code":"620821201",
 		"fullCode":"620821201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗汉洞乡",
 		"parentCode":"620821"
 	},
@@ -107,7 +107,7 @@
 		"code":"620821202",
 		"fullCode":"620821202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泾明乡",
 		"parentCode":"620821"
 	},
@@ -115,7 +115,7 @@
 		"code":"620821203",
 		"fullCode":"620821203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红河乡",
 		"parentCode":"620821"
 	}

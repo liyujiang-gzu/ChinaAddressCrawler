@@ -3,7 +3,7 @@
 		"code":"451123100",
 		"fullCode":"451123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富阳镇",
 		"parentCode":"451123"
 	},
@@ -11,7 +11,7 @@
 		"code":"451123101",
 		"fullCode":"451123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"451123"
 	},
@@ -19,7 +19,7 @@
 		"code":"451123102",
 		"fullCode":"451123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲山镇",
 		"parentCode":"451123"
 	},
@@ -27,7 +27,7 @@
 		"code":"451123103",
 		"fullCode":"451123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"451123"
 	},
@@ -35,7 +35,7 @@
 		"code":"451123104",
 		"fullCode":"451123104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福利镇",
 		"parentCode":"451123"
 	},
@@ -43,7 +43,7 @@
 		"code":"451123105",
 		"fullCode":"451123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦岭镇",
 		"parentCode":"451123"
 	},
@@ -51,7 +51,7 @@
 		"code":"451123106",
 		"fullCode":"451123106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛坡镇",
 		"parentCode":"451123"
 	},
@@ -59,7 +59,7 @@
 		"code":"451123107",
 		"fullCode":"451123107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北镇",
 		"parentCode":"451123"
 	},
@@ -67,7 +67,7 @@
 		"code":"451123108",
 		"fullCode":"451123108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝东镇",
 		"parentCode":"451123"
 	},
@@ -75,7 +75,7 @@
 		"code":"451123200",
 		"fullCode":"451123200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华乡",
 		"parentCode":"451123"
 	},
@@ -83,7 +83,7 @@
 		"code":"451123201",
 		"fullCode":"451123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石家乡",
 		"parentCode":"451123"
 	},
@@ -91,7 +91,7 @@
 		"code":"451123203",
 		"fullCode":"451123203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳家乡",
 		"parentCode":"451123"
 	}

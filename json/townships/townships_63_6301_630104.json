@@ -3,7 +3,7 @@
 		"code":"630104001",
 		"fullCode":"630104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关大街街道",
 		"parentCode":"630104"
 	},
@@ -11,7 +11,7 @@
 		"code":"630104002",
 		"fullCode":"630104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城台街道",
 		"parentCode":"630104"
 	},
@@ -19,7 +19,7 @@
 		"code":"630104003",
 		"fullCode":"630104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎台街道",
 		"parentCode":"630104"
 	},
@@ -27,7 +27,7 @@
 		"code":"630104004",
 		"fullCode":"630104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利路街道",
 		"parentCode":"630104"
 	},
@@ -35,7 +35,7 @@
 		"code":"630104005",
 		"fullCode":"630104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴海路街道",
 		"parentCode":"630104"
 	},
@@ -43,7 +43,7 @@
 		"code":"630104006",
 		"fullCode":"630104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文汇路街道",
 		"parentCode":"630104"
 	},
@@ -51,7 +51,7 @@
 		"code":"630104007",
 		"fullCode":"630104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通海路街道",
 		"parentCode":"630104"
 	},
@@ -59,7 +59,7 @@
 		"code":"630104100",
 		"fullCode":"630104100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭家寨镇",
 		"parentCode":"630104"
 	}

@@ -3,7 +3,7 @@
 		"code":"360728100",
 		"fullCode":"360728100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"历市镇",
 		"parentCode":"360728"
 	},
@@ -11,7 +11,7 @@
 		"code":"360728101",
 		"fullCode":"360728101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岿美山镇",
 		"parentCode":"360728"
 	},
@@ -19,7 +19,7 @@
 		"code":"360728102",
 		"fullCode":"360728102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老城镇",
 		"parentCode":"360728"
 	},
@@ -27,7 +27,7 @@
 		"code":"360728103",
 		"fullCode":"360728103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天九镇",
 		"parentCode":"360728"
 	},
@@ -35,7 +35,7 @@
 		"code":"360728104",
 		"fullCode":"360728104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙塘镇",
 		"parentCode":"360728"
 	},
@@ -43,7 +43,7 @@
 		"code":"360728105",
 		"fullCode":"360728105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭北镇",
 		"parentCode":"360728"
 	},
@@ -51,7 +51,7 @@
 		"code":"360728106",
 		"fullCode":"360728106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹅公镇",
 		"parentCode":"360728"
 	},
@@ -59,7 +59,7 @@
 		"code":"360728400",
 		"fullCode":"360728400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定南县工业园",
 		"parentCode":"360728"
 	}

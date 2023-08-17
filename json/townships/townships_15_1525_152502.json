@@ -3,7 +3,7 @@
 		"code":"152502001",
 		"fullCode":"152502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"希日塔拉街道",
 		"parentCode":"152502"
 	},
@@ -11,7 +11,7 @@
 		"code":"152502002",
 		"fullCode":"152502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝力根街道",
 		"parentCode":"152502"
 	},
@@ -19,7 +19,7 @@
 		"code":"152502003",
 		"fullCode":"152502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杭盖街道",
 		"parentCode":"152502"
 	},
@@ -27,7 +27,7 @@
 		"code":"152502004",
 		"fullCode":"152502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楚古兰街道",
 		"parentCode":"152502"
 	},
@@ -35,7 +35,7 @@
 		"code":"152502005",
 		"fullCode":"152502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"额尔敦街道",
 		"parentCode":"152502"
 	},
@@ -43,7 +43,7 @@
 		"code":"152502006",
 		"fullCode":"152502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南郊街道",
 		"parentCode":"152502"
 	},
@@ -51,7 +51,7 @@
 		"code":"152502007",
 		"fullCode":"152502007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦查干街道",
 		"parentCode":"152502"
 	},
@@ -59,7 +59,7 @@
 		"code":"152502008",
 		"fullCode":"152502008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦锡勒街道",
 		"parentCode":"152502"
 	},
@@ -67,7 +67,7 @@
 		"code":"152502100",
 		"fullCode":"152502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿尔善宝拉格镇",
 		"parentCode":"152502"
 	},
@@ -75,7 +75,7 @@
 		"code":"152502200",
 		"fullCode":"152502200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝力根苏木",
 		"parentCode":"152502"
 	},
@@ -83,7 +83,7 @@
 		"code":"152502201",
 		"fullCode":"152502201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝克乌拉苏木",
 		"parentCode":"152502"
 	},
@@ -91,7 +91,7 @@
 		"code":"152502203",
 		"fullCode":"152502203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦宝拉格苏木",
 		"parentCode":"152502"
 	},
@@ -99,7 +99,7 @@
 		"code":"152502400",
 		"fullCode":"152502400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锡林郭勒盟经济技术开发区",
 		"parentCode":"152502"
 	},
@@ -107,7 +107,7 @@
 		"code":"152502500",
 		"fullCode":"152502500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白银库伦牧场",
 		"parentCode":"152502"
 	},
@@ -115,7 +115,7 @@
 		"code":"152502501",
 		"fullCode":"152502501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贝力克牧场",
 		"parentCode":"152502"
 	},
@@ -123,7 +123,7 @@
 		"code":"152502502",
 		"fullCode":"152502502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛登牧场",
 		"parentCode":"152502"
 	}

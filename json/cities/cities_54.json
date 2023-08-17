@@ -3,7 +3,7 @@
 		"code":"5401",
 		"fullCode":"540100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"拉萨市",
 		"parentCode":"54"
 	},
@@ -11,7 +11,7 @@
 		"code":"5402",
 		"fullCode":"540200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"日喀则市",
 		"parentCode":"54"
 	},
@@ -19,7 +19,7 @@
 		"code":"5403",
 		"fullCode":"540300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"昌都市",
 		"parentCode":"54"
 	},
@@ -27,7 +27,7 @@
 		"code":"5404",
 		"fullCode":"540400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"林芝市",
 		"parentCode":"54"
 	},
@@ -35,7 +35,7 @@
 		"code":"5405",
 		"fullCode":"540500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"山南市",
 		"parentCode":"54"
 	},
@@ -43,7 +43,7 @@
 		"code":"5406",
 		"fullCode":"540600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"那曲市",
 		"parentCode":"54"
 	},
@@ -51,7 +51,7 @@
 		"code":"5425",
 		"fullCode":"542500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"阿里地区",
 		"parentCode":"54"
 	}

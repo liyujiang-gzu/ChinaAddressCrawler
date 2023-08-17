@@ -3,7 +3,7 @@
 		"code":"340503001",
 		"fullCode":"340503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙塘路街道",
 		"parentCode":"340503"
 	},
@@ -11,7 +11,7 @@
 		"code":"340503002",
 		"fullCode":"340503002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放路街道",
 		"parentCode":"340503"
 	},
@@ -19,7 +19,7 @@
 		"code":"340503003",
 		"fullCode":"340503003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖东路街道",
 		"parentCode":"340503"
 	},
@@ -27,7 +27,7 @@
 		"code":"340503004",
 		"fullCode":"340503004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃源路街道",
 		"parentCode":"340503"
 	},
@@ -35,7 +35,7 @@
 		"code":"340503005",
 		"fullCode":"340503005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霍里街道",
 		"parentCode":"340503"
 	},
@@ -43,7 +43,7 @@
 		"code":"340503006",
 		"fullCode":"340503006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金家庄街道",
 		"parentCode":"340503"
 	},
@@ -51,7 +51,7 @@
 		"code":"340503007",
 		"fullCode":"340503007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘西街道",
 		"parentCode":"340503"
 	},
@@ -59,7 +59,7 @@
 		"code":"340503008",
 		"fullCode":"340503008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"慈湖街道",
 		"parentCode":"340503"
 	},
@@ -67,7 +67,7 @@
 		"code":"340503009",
 		"fullCode":"340503009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江东街道",
 		"parentCode":"340503"
 	},
@@ -75,7 +75,7 @@
 		"code":"340503101",
 		"fullCode":"340503101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濮塘镇",
 		"parentCode":"340503"
 	},
@@ -83,7 +83,7 @@
 		"code":"340503401",
 		"fullCode":"340503401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"慈湖高新技术产业开发区",
 		"parentCode":"340503"
 	}

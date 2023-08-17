@@ -3,7 +3,7 @@
 		"code":"652823100",
 		"fullCode":"652823100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尉犁镇",
 		"parentCode":"652823"
 	},
@@ -11,7 +11,7 @@
 		"code":"652823110",
 		"fullCode":"652823110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结镇",
 		"parentCode":"652823"
 	},
@@ -19,7 +19,7 @@
 		"code":"652823120",
 		"fullCode":"652823120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴平镇",
 		"parentCode":"652823"
 	},
@@ -27,7 +27,7 @@
 		"code":"652823200",
 		"fullCode":"652823200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔里木乡",
 		"parentCode":"652823"
 	},
@@ -35,7 +35,7 @@
 		"code":"652823203",
 		"fullCode":"652823203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墩阔坦乡",
 		"parentCode":"652823"
 	},
@@ -43,7 +43,7 @@
 		"code":"652823204",
 		"fullCode":"652823204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喀尔曲尕乡",
 		"parentCode":"652823"
 	},
@@ -51,7 +51,7 @@
 		"code":"652823205",
 		"fullCode":"652823205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿克苏普乡",
 		"parentCode":"652823"
 	},
@@ -59,7 +59,7 @@
 		"code":"652823206",
 		"fullCode":"652823206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古勒巴格乡",
 		"parentCode":"652823"
 	},
@@ -67,7 +67,7 @@
 		"code":"652823501",
 		"fullCode":"652823501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团三十一团",
 		"parentCode":"652823"
 	},
@@ -75,7 +75,7 @@
 		"code":"652823502",
 		"fullCode":"652823502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团三十三团",
 		"parentCode":"652823"
 	},
@@ -83,7 +83,7 @@
 		"code":"652823503",
 		"fullCode":"652823503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团三十四团",
 		"parentCode":"652823"
 	}

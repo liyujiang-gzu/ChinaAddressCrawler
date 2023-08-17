@@ -3,7 +3,7 @@
 		"code":"230719001",
 		"fullCode":"230719001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双子河街道",
 		"parentCode":"230719"
 	},
@@ -11,7 +11,7 @@
 		"code":"230719002",
 		"fullCode":"230719002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁林街道",
 		"parentCode":"230719"
 	},
@@ -19,7 +19,7 @@
 		"code":"230719003",
 		"fullCode":"230719003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友好街道",
 		"parentCode":"230719"
 	},
@@ -27,7 +27,7 @@
 		"code":"230719100",
 		"fullCode":"230719100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上甘岭镇",
 		"parentCode":"230719"
 	}

@@ -3,7 +3,7 @@
 		"code":"522327001",
 		"fullCode":"522327001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"者楼街道",
 		"parentCode":"522327"
 	},
@@ -11,7 +11,7 @@
 		"code":"522327002",
 		"fullCode":"522327002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳福街道",
 		"parentCode":"522327"
 	},
@@ -19,7 +19,7 @@
 		"code":"522327003",
 		"fullCode":"522327003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高洛街道",
 		"parentCode":"522327"
 	},
@@ -27,7 +27,7 @@
 		"code":"522327103",
 		"fullCode":"522327103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丫他镇",
 		"parentCode":"522327"
 	},
@@ -35,7 +35,7 @@
 		"code":"522327104",
 		"fullCode":"522327104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巧马镇",
 		"parentCode":"522327"
 	},
@@ -43,7 +43,7 @@
 		"code":"522327105",
 		"fullCode":"522327105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秧坝镇",
 		"parentCode":"522327"
 	},
@@ -51,7 +51,7 @@
 		"code":"522327107",
 		"fullCode":"522327107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩架镇",
 		"parentCode":"522327"
 	},
@@ -59,7 +59,7 @@
 		"code":"522327108",
 		"fullCode":"522327108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八渡镇",
 		"parentCode":"522327"
 	},
@@ -67,7 +67,7 @@
 		"code":"522327109",
 		"fullCode":"522327109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冗渡镇",
 		"parentCode":"522327"
 	},
@@ -75,7 +75,7 @@
 		"code":"522327110",
 		"fullCode":"522327110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坡妹镇",
 		"parentCode":"522327"
 	},
@@ -83,7 +83,7 @@
 		"code":"522327111",
 		"fullCode":"522327111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双江镇",
 		"parentCode":"522327"
 	},
@@ -91,7 +91,7 @@
 		"code":"522327112",
 		"fullCode":"522327112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弼佑镇",
 		"parentCode":"522327"
 	},
@@ -99,7 +99,7 @@
 		"code":"522327204",
 		"fullCode":"522327204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百口乡",
 		"parentCode":"522327"
 	}

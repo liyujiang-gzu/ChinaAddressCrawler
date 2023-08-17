@@ -3,7 +3,7 @@
 		"code":"410173108",
 		"fullCode":"410173108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张庄镇",
 		"parentCode":"410173"
 	},
@@ -11,7 +11,7 @@
 		"code":"410173113",
 		"fullCode":"410173113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八岗镇",
 		"parentCode":"410173"
 	},
@@ -19,7 +19,7 @@
 		"code":"410173116",
 		"fullCode":"410173116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三官庙镇",
 		"parentCode":"410173"
 	},
@@ -27,7 +27,7 @@
 		"code":"410173202",
 		"fullCode":"410173202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八千乡",
 		"parentCode":"410173"
 	},
@@ -35,7 +35,7 @@
 		"code":"410173203",
 		"fullCode":"410173203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙王乡",
 		"parentCode":"410173"
 	},
@@ -43,7 +43,7 @@
 		"code":"410173204",
 		"fullCode":"410173204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗李乡",
 		"parentCode":"410173"
 	},
@@ -51,7 +51,7 @@
 		"code":"410173205",
 		"fullCode":"410173205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大马乡",
 		"parentCode":"410173"
 	},
@@ -59,7 +59,7 @@
 		"code":"410173400",
 		"fullCode":"410173400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新港街道",
 		"parentCode":"410173"
 	},
@@ -67,7 +67,7 @@
 		"code":"410173401",
 		"fullCode":"410173401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑港街道",
 		"parentCode":"410173"
 	},
@@ -75,7 +75,7 @@
 		"code":"410173404",
 		"fullCode":"410173404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银河街道",
 		"parentCode":"410173"
 	},
@@ -83,7 +83,7 @@
 		"code":"410173405",
 		"fullCode":"410173405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明港街道",
 		"parentCode":"410173"
 	},
@@ -91,7 +91,7 @@
 		"code":"410173580",
 		"fullCode":"410173580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨河街道",
 		"parentCode":"410173"
 	},
@@ -99,7 +99,7 @@
 		"code":"410173581",
 		"fullCode":"410173581000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯堂街道",
 		"parentCode":"410173"
 	},
@@ -107,7 +107,7 @@
 		"code":"410173582",
 		"fullCode":"410173582000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河街道",
 		"parentCode":"410173"
 	},
@@ -115,7 +115,7 @@
 		"code":"410173583",
 		"fullCode":"410173583000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙港街道",
 		"parentCode":"410173"
 	}

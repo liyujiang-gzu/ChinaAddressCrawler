@@ -3,7 +3,7 @@
 		"code":"130602001",
 		"fullCode":"130602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先锋街道",
 		"parentCode":"130602"
 	},
@@ -11,7 +11,7 @@
 		"code":"130602002",
 		"fullCode":"130602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新市场街道",
 		"parentCode":"130602"
 	},
@@ -19,7 +19,7 @@
 		"code":"130602003",
 		"fullCode":"130602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风路街道",
 		"parentCode":"130602"
 	},
@@ -27,7 +27,7 @@
 		"code":"130602004",
 		"fullCode":"130602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建南街道",
 		"parentCode":"130602"
 	},
@@ -35,7 +35,7 @@
 		"code":"130602005",
 		"fullCode":"130602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩村北路街道",
 		"parentCode":"130602"
 	},
@@ -43,7 +43,7 @@
 		"code":"130602100",
 		"fullCode":"130602100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大激店镇",
 		"parentCode":"130602"
 	},
@@ -51,7 +51,7 @@
 		"code":"130602200",
 		"fullCode":"130602200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"颉庄乡",
 		"parentCode":"130602"
 	},
@@ -59,7 +59,7 @@
 		"code":"130602201",
 		"fullCode":"130602201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富昌乡",
 		"parentCode":"130602"
 	},
@@ -67,7 +67,7 @@
 		"code":"130602202",
 		"fullCode":"130602202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩村乡",
 		"parentCode":"130602"
 	},
@@ -75,7 +75,7 @@
 		"code":"130602203",
 		"fullCode":"130602203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南奇乡",
 		"parentCode":"130602"
 	}

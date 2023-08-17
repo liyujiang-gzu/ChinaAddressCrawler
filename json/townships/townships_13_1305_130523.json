@@ -3,7 +3,7 @@
 		"code":"130523100",
 		"fullCode":"130523100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内丘镇",
 		"parentCode":"130523"
 	},
@@ -11,7 +11,7 @@
 		"code":"130523101",
 		"fullCode":"130523101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大孟村镇",
 		"parentCode":"130523"
 	},
@@ -19,7 +19,7 @@
 		"code":"130523102",
 		"fullCode":"130523102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金店镇",
 		"parentCode":"130523"
 	},
@@ -27,7 +27,7 @@
 		"code":"130523103",
 		"fullCode":"130523103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官庄镇",
 		"parentCode":"130523"
 	},
@@ -35,7 +35,7 @@
 		"code":"130523104",
 		"fullCode":"130523104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳林镇",
 		"parentCode":"130523"
 	},
@@ -43,7 +43,7 @@
 		"code":"130523200",
 		"fullCode":"130523200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五郭店乡",
 		"parentCode":"130523"
 	},
@@ -51,7 +51,7 @@
 		"code":"130523203",
 		"fullCode":"130523203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南赛乡",
 		"parentCode":"130523"
 	},
@@ -59,7 +59,7 @@
 		"code":"130523204",
 		"fullCode":"130523204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"獐獏乡",
 		"parentCode":"130523"
 	},
@@ -67,7 +67,7 @@
 		"code":"130523205",
 		"fullCode":"130523205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侯家庄乡",
 		"parentCode":"130523"
 	}

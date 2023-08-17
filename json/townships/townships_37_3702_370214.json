@@ -3,7 +3,7 @@
 		"code":"370214001",
 		"fullCode":"370214001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城阳街道",
 		"parentCode":"370214"
 	},
@@ -11,7 +11,7 @@
 		"code":"370214002",
 		"fullCode":"370214002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏庄街道",
 		"parentCode":"370214"
 	},
@@ -19,7 +19,7 @@
 		"code":"370214003",
 		"fullCode":"370214003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流亭街道",
 		"parentCode":"370214"
 	},
@@ -27,7 +27,7 @@
 		"code":"370214004",
 		"fullCode":"370214004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棘洪滩街道",
 		"parentCode":"370214"
 	},
@@ -35,7 +35,7 @@
 		"code":"370214005",
 		"fullCode":"370214005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上马街道",
 		"parentCode":"370214"
 	},
@@ -43,7 +43,7 @@
 		"code":"370214008",
 		"fullCode":"370214008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惜福镇街道",
 		"parentCode":"370214"
 	},
@@ -51,7 +51,7 @@
 		"code":"370214009",
 		"fullCode":"370214009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红岛街道",
 		"parentCode":"370214"
 	},
@@ -59,7 +59,7 @@
 		"code":"370214010",
 		"fullCode":"370214010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河套街道",
 		"parentCode":"370214"
 	}

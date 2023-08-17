@@ -3,7 +3,7 @@
 		"code":"532327101",
 		"fullCode":"532327101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永定镇",
 		"parentCode":"532327"
 	},
@@ -11,7 +11,7 @@
 		"code":"532327102",
 		"fullCode":"532327102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜就镇",
 		"parentCode":"532327"
 	},
@@ -19,7 +19,7 @@
 		"code":"532327103",
 		"fullCode":"532327103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中和镇",
 		"parentCode":"532327"
 	},
@@ -27,7 +27,7 @@
 		"code":"532327201",
 		"fullCode":"532327201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲池乡",
 		"parentCode":"532327"
 	},
@@ -35,7 +35,7 @@
 		"code":"532327202",
 		"fullCode":"532327202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"维的乡",
 		"parentCode":"532327"
 	},
@@ -43,7 +43,7 @@
 		"code":"532327203",
 		"fullCode":"532327203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"猛虎乡",
 		"parentCode":"532327"
 	},
@@ -51,7 +51,7 @@
 		"code":"532327204",
 		"fullCode":"532327204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴傣族乡",
 		"parentCode":"532327"
 	}

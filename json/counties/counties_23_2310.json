@@ -3,7 +3,7 @@
 		"code":"231002",
 		"fullCode":"231002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东安区",
 		"parentCode":"2310"
 	},
@@ -11,7 +11,7 @@
 		"code":"231003",
 		"fullCode":"231003000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阳明区",
 		"parentCode":"2310"
 	},
@@ -19,7 +19,7 @@
 		"code":"231004",
 		"fullCode":"231004000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"爱民区",
 		"parentCode":"2310"
 	},
@@ -27,7 +27,7 @@
 		"code":"231005",
 		"fullCode":"231005000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西安区",
 		"parentCode":"2310"
 	},
@@ -35,7 +35,7 @@
 		"code":"231025",
 		"fullCode":"231025000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"林口县",
 		"parentCode":"2310"
 	},
@@ -43,7 +43,7 @@
 		"code":"231071",
 		"fullCode":"231071000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"牡丹江经济技术开发区",
 		"parentCode":"2310"
 	},
@@ -51,7 +51,7 @@
 		"code":"231081",
 		"fullCode":"231081000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"绥芬河市",
 		"parentCode":"2310"
 	},
@@ -59,7 +59,7 @@
 		"code":"231083",
 		"fullCode":"231083000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海林市",
 		"parentCode":"2310"
 	},
@@ -67,7 +67,7 @@
 		"code":"231084",
 		"fullCode":"231084000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁安市",
 		"parentCode":"2310"
 	},
@@ -75,7 +75,7 @@
 		"code":"231085",
 		"fullCode":"231085000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"穆棱市",
 		"parentCode":"2310"
 	},
@@ -83,7 +83,7 @@
 		"code":"231086",
 		"fullCode":"231086000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东宁市",
 		"parentCode":"2310"
 	}

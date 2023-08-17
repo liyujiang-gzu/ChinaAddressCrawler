@@ -3,7 +3,7 @@
 		"code":"5001",
 		"fullCode":"500100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"市辖区",
 		"parentCode":"50"
 	},
@@ -11,7 +11,7 @@
 		"code":"5002",
 		"fullCode":"500200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"县",
 		"parentCode":"50"
 	}

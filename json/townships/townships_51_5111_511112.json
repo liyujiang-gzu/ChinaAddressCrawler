@@ -3,7 +3,7 @@
 		"code":"511112100",
 		"fullCode":"511112100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹根镇",
 		"parentCode":"511112"
 	},
@@ -11,7 +11,7 @@
 		"code":"511112101",
 		"fullCode":"511112101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛华镇",
 		"parentCode":"511112"
 	},
@@ -19,7 +19,7 @@
 		"code":"511112104",
 		"fullCode":"511112104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金粟镇",
 		"parentCode":"511112"
 	},
@@ -27,7 +27,7 @@
 		"code":"511112105",
 		"fullCode":"511112105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山镇",
 		"parentCode":"511112"
 	},
@@ -35,7 +35,7 @@
 		"code":"511112107",
 		"fullCode":"511112107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西坝镇",
 		"parentCode":"511112"
 	},
@@ -43,7 +43,7 @@
 		"code":"511112108",
 		"fullCode":"511112108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冠英镇",
 		"parentCode":"511112"
 	},
@@ -51,7 +51,7 @@
 		"code":"511112109",
 		"fullCode":"511112109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡金镇",
 		"parentCode":"511112"
 	},
@@ -59,7 +59,7 @@
 		"code":"511112110",
 		"fullCode":"511112110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石麟镇",
 		"parentCode":"511112"
 	}

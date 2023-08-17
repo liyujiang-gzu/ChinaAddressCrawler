@@ -3,7 +3,7 @@
 		"code":"440282001",
 		"fullCode":"440282001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雄州街道",
 		"parentCode":"440282"
 	},
@@ -11,7 +11,7 @@
 		"code":"440282100",
 		"fullCode":"440282100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌迳镇",
 		"parentCode":"440282"
 	},
@@ -19,7 +19,7 @@
 		"code":"440282103",
 		"fullCode":"440282103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界址镇",
 		"parentCode":"440282"
 	},
@@ -27,7 +27,7 @@
 		"code":"440282104",
 		"fullCode":"440282104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪田镇",
 		"parentCode":"440282"
 	},
@@ -35,7 +35,7 @@
 		"code":"440282105",
 		"fullCode":"440282105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄坑镇",
 		"parentCode":"440282"
 	},
@@ -43,7 +43,7 @@
 		"code":"440282106",
 		"fullCode":"440282106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓坊镇",
 		"parentCode":"440282"
 	},
@@ -51,7 +51,7 @@
 		"code":"440282107",
 		"fullCode":"440282107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"油山镇",
 		"parentCode":"440282"
 	},
@@ -59,7 +59,7 @@
 		"code":"440282109",
 		"fullCode":"440282109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南亩镇",
 		"parentCode":"440282"
 	},
@@ -67,7 +67,7 @@
 		"code":"440282110",
 		"fullCode":"440282110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口镇",
 		"parentCode":"440282"
 	},
@@ -75,7 +75,7 @@
 		"code":"440282111",
 		"fullCode":"440282111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江头镇",
 		"parentCode":"440282"
 	},
@@ -83,7 +83,7 @@
 		"code":"440282112",
 		"fullCode":"440282112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖口镇",
 		"parentCode":"440282"
 	},
@@ -91,7 +91,7 @@
 		"code":"440282113",
 		"fullCode":"440282113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠玑镇",
 		"parentCode":"440282"
 	},
@@ -99,7 +99,7 @@
 		"code":"440282115",
 		"fullCode":"440282115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"主田镇",
 		"parentCode":"440282"
 	},
@@ -107,7 +107,7 @@
 		"code":"440282116",
 		"fullCode":"440282116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古市镇",
 		"parentCode":"440282"
 	},
@@ -115,7 +115,7 @@
 		"code":"440282118",
 		"fullCode":"440282118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"全安镇",
 		"parentCode":"440282"
 	},
@@ -123,7 +123,7 @@
 		"code":"440282120",
 		"fullCode":"440282120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百顺镇",
 		"parentCode":"440282"
 	},
@@ -131,7 +131,7 @@
 		"code":"440282121",
 		"fullCode":"440282121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澜河镇",
 		"parentCode":"440282"
 	},
@@ -139,7 +139,7 @@
 		"code":"440282122",
 		"fullCode":"440282122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"帽子峰镇",
 		"parentCode":"440282"
 	},
@@ -147,7 +147,7 @@
 		"code":"440282400",
 		"fullCode":"440282400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东莞大岭山（南雄）产业转移工业园",
 		"parentCode":"440282"
 	}

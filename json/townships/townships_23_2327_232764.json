@@ -3,7 +3,7 @@
 		"code":"232764100",
 		"fullCode":"232764100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼中镇",
 		"parentCode":"232764"
 	},
@@ -11,7 +11,7 @@
 		"code":"232764101",
 		"fullCode":"232764101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧水镇",
 		"parentCode":"232764"
 	},
@@ -19,7 +19,7 @@
 		"code":"232764102",
 		"fullCode":"232764102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼源镇",
 		"parentCode":"232764"
 	},
@@ -27,7 +27,7 @@
 		"code":"232764103",
 		"fullCode":"232764103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏伟镇",
 		"parentCode":"232764"
 	}

@@ -3,7 +3,7 @@
 		"code":"650121001",
 		"fullCode":"650121001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水泉片区管委会街道",
 		"parentCode":"650121"
 	},
@@ -11,7 +11,7 @@
 		"code":"650121002",
 		"fullCode":"650121002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢家沟片区管委会街道",
 		"parentCode":"650121"
 	},
@@ -19,7 +19,7 @@
 		"code":"650121100",
 		"fullCode":"650121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水西沟镇",
 		"parentCode":"650121"
 	},
@@ -27,7 +27,7 @@
 		"code":"650121102",
 		"fullCode":"650121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板房沟镇",
 		"parentCode":"650121"
 	},
@@ -35,7 +35,7 @@
 		"code":"650121103",
 		"fullCode":"650121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰镇",
 		"parentCode":"650121"
 	},
@@ -43,7 +43,7 @@
 		"code":"650121207",
 		"fullCode":"650121207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨尔达坂乡",
 		"parentCode":"650121"
 	},
@@ -51,7 +51,7 @@
 		"code":"650121208",
 		"fullCode":"650121208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘沟乡",
 		"parentCode":"650121"
 	},
@@ -59,7 +59,7 @@
 		"code":"650121213",
 		"fullCode":"650121213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托里乡",
 		"parentCode":"650121"
 	}

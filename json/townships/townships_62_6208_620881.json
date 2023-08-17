@@ -3,7 +3,7 @@
 		"code":"620881001",
 		"fullCode":"620881001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东华街道",
 		"parentCode":"620881"
 	},
@@ -11,7 +11,7 @@
 		"code":"620881100",
 		"fullCode":"620881100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东华镇",
 		"parentCode":"620881"
 	},
@@ -19,7 +19,7 @@
 		"code":"620881101",
 		"fullCode":"620881101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安口镇",
 		"parentCode":"620881"
 	},
@@ -27,7 +27,7 @@
 		"code":"620881102",
 		"fullCode":"620881102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西华镇",
 		"parentCode":"620881"
 	},
@@ -35,7 +35,7 @@
 		"code":"620881103",
 		"fullCode":"620881103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马峡镇",
 		"parentCode":"620881"
 	},
@@ -43,7 +43,7 @@
 		"code":"620881104",
 		"fullCode":"620881104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"策底镇",
 		"parentCode":"620881"
 	},
@@ -51,7 +51,7 @@
 		"code":"620881105",
 		"fullCode":"620881105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上关镇",
 		"parentCode":"620881"
 	},
@@ -59,7 +59,7 @@
 		"code":"620881106",
 		"fullCode":"620881106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西镇",
 		"parentCode":"620881"
 	},
@@ -67,7 +67,7 @@
 		"code":"620881201",
 		"fullCode":"620881201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神峪乡",
 		"parentCode":"620881"
 	},
@@ -75,7 +75,7 @@
 		"code":"620881202",
 		"fullCode":"620881202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山寨乡",
 		"parentCode":"620881"
 	},
@@ -83,7 +83,7 @@
 		"code":"620881204",
 		"fullCode":"620881204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"砚峡乡",
 		"parentCode":"620881"
 	}

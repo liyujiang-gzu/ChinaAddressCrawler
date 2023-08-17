@@ -3,7 +3,7 @@
 		"code":"230717001",
 		"fullCode":"230717001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳街道",
 		"parentCode":"230717"
 	},
@@ -11,7 +11,7 @@
 		"code":"230717002",
 		"fullCode":"230717002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进街道",
 		"parentCode":"230717"
 	},
@@ -19,7 +19,7 @@
 		"code":"230717003",
 		"fullCode":"230717003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红升街道",
 		"parentCode":"230717"
 	},
@@ -27,7 +27,7 @@
 		"code":"230717004",
 		"fullCode":"230717004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旭日街道",
 		"parentCode":"230717"
 	},
@@ -35,7 +35,7 @@
 		"code":"230717005",
 		"fullCode":"230717005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新欣街道",
 		"parentCode":"230717"
 	},
@@ -43,7 +43,7 @@
 		"code":"230717006",
 		"fullCode":"230717006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南郡街道",
 		"parentCode":"230717"
 	},
@@ -51,7 +51,7 @@
 		"code":"230717100",
 		"fullCode":"230717100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东升镇",
 		"parentCode":"230717"
 	},
@@ -59,7 +59,7 @@
 		"code":"230717101",
 		"fullCode":"230717101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美溪镇",
 		"parentCode":"230717"
 	}

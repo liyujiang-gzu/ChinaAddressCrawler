@@ -3,7 +3,7 @@
 		"code":"430112001",
 		"fullCode":"430112001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高塘岭街道",
 		"parentCode":"430112"
 	},
@@ -11,7 +11,7 @@
 		"code":"430112003",
 		"fullCode":"430112003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁字湾街道",
 		"parentCode":"430112"
 	},
@@ -19,7 +19,7 @@
 		"code":"430112005",
 		"fullCode":"430112005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大泽湖街道",
 		"parentCode":"430112"
 	},
@@ -27,7 +27,7 @@
 		"code":"430112006",
 		"fullCode":"430112006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月亮岛街道",
 		"parentCode":"430112"
 	},
@@ -35,7 +35,7 @@
 		"code":"430112007",
 		"fullCode":"430112007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙洲街道",
 		"parentCode":"430112"
 	},
@@ -43,7 +43,7 @@
 		"code":"430112008",
 		"fullCode":"430112008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山桥街道",
 		"parentCode":"430112"
 	},
@@ -51,7 +51,7 @@
 		"code":"430112009",
 		"fullCode":"430112009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄金园街道",
 		"parentCode":"430112"
 	},
@@ -59,7 +59,7 @@
 		"code":"430112011",
 		"fullCode":"430112011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌山街道",
 		"parentCode":"430112"
 	},
@@ -67,7 +67,7 @@
 		"code":"430112012",
 		"fullCode":"430112012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜官街道",
 		"parentCode":"430112"
 	},
@@ -75,7 +75,7 @@
 		"code":"430112013",
 		"fullCode":"430112013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷锋街道",
 		"parentCode":"430112"
 	},
@@ -83,7 +83,7 @@
 		"code":"430112014",
 		"fullCode":"430112014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马街道",
 		"parentCode":"430112"
 	},
@@ -91,7 +91,7 @@
 		"code":"430112101",
 		"fullCode":"430112101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥驿镇",
 		"parentCode":"430112"
 	},
@@ -99,7 +99,7 @@
 		"code":"430112103",
 		"fullCode":"430112103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶亭镇",
 		"parentCode":"430112"
 	},
@@ -107,7 +107,7 @@
 		"code":"430112106",
 		"fullCode":"430112106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖港镇",
 		"parentCode":"430112"
 	},
@@ -115,7 +115,7 @@
 		"code":"430112107",
 		"fullCode":"430112107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔口镇",
 		"parentCode":"430112"
 	},
@@ -123,7 +123,7 @@
 		"code":"430112115",
 		"fullCode":"430112115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白箬铺镇",
 		"parentCode":"430112"
 	}

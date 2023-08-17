@@ -3,7 +3,7 @@
 		"code":"610926100",
 		"fullCode":"610926100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"610926"
 	},
@@ -11,7 +11,7 @@
 		"code":"610926101",
 		"fullCode":"610926101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"610926"
 	},
@@ -19,7 +19,7 @@
 		"code":"610926102",
 		"fullCode":"610926102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老县镇",
 		"parentCode":"610926"
 	},
@@ -27,7 +27,7 @@
 		"code":"610926103",
 		"fullCode":"610926103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大贵镇",
 		"parentCode":"610926"
 	},
@@ -35,7 +35,7 @@
 		"code":"610926104",
 		"fullCode":"610926104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三阳镇",
 		"parentCode":"610926"
 	},
@@ -43,7 +43,7 @@
 		"code":"610926105",
 		"fullCode":"610926105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛河镇",
 		"parentCode":"610926"
 	},
@@ -51,7 +51,7 @@
 		"code":"610926106",
 		"fullCode":"610926106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广佛镇",
 		"parentCode":"610926"
 	},
@@ -59,7 +59,7 @@
 		"code":"610926107",
 		"fullCode":"610926107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八仙镇",
 		"parentCode":"610926"
 	},
@@ -67,7 +67,7 @@
 		"code":"610926108",
 		"fullCode":"610926108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安镇",
 		"parentCode":"610926"
 	},
@@ -75,7 +75,7 @@
 		"code":"610926109",
 		"fullCode":"610926109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳镇",
 		"parentCode":"610926"
 	},
@@ -83,7 +83,7 @@
 		"code":"610926110",
 		"fullCode":"610926110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河镇",
 		"parentCode":"610926"
 	}

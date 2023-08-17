@@ -3,7 +3,7 @@
 		"code":"321302",
 		"fullCode":"321302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宿城区",
 		"parentCode":"3213"
 	},
@@ -11,7 +11,7 @@
 		"code":"321311",
 		"fullCode":"321311000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宿豫区",
 		"parentCode":"3213"
 	},
@@ -19,7 +19,7 @@
 		"code":"321322",
 		"fullCode":"321322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沭阳县",
 		"parentCode":"3213"
 	},
@@ -27,7 +27,7 @@
 		"code":"321323",
 		"fullCode":"321323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泗阳县",
 		"parentCode":"3213"
 	},
@@ -35,7 +35,7 @@
 		"code":"321324",
 		"fullCode":"321324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泗洪县",
 		"parentCode":"3213"
 	},
@@ -43,7 +43,7 @@
 		"code":"321371",
 		"fullCode":"321371000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宿迁经济技术开发区",
 		"parentCode":"3213"
 	}

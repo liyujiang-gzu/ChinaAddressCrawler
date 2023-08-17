@@ -3,7 +3,7 @@
 		"code":"330211001",
 		"fullCode":"330211001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"招宝山街道",
 		"parentCode":"330211"
 	},
@@ -11,7 +11,7 @@
 		"code":"330211002",
 		"fullCode":"330211002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蛟川街道",
 		"parentCode":"330211"
 	},
@@ -19,7 +19,7 @@
 		"code":"330211003",
 		"fullCode":"330211003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骆驼街道",
 		"parentCode":"330211"
 	},
@@ -27,7 +27,7 @@
 		"code":"330211004",
 		"fullCode":"330211004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄市街道",
 		"parentCode":"330211"
 	},
@@ -35,7 +35,7 @@
 		"code":"330211005",
 		"fullCode":"330211005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贵驷街道",
 		"parentCode":"330211"
 	},
@@ -43,7 +43,7 @@
 		"code":"330211100",
 		"fullCode":"330211100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澥浦镇",
 		"parentCode":"330211"
 	},
@@ -51,7 +51,7 @@
 		"code":"330211101",
 		"fullCode":"330211101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙湖镇",
 		"parentCode":"330211"
 	}

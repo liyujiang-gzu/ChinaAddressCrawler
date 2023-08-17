@@ -3,7 +3,7 @@
 		"code":"3601",
 		"fullCode":"360100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"南昌市",
 		"parentCode":"36"
 	},
@@ -11,7 +11,7 @@
 		"code":"3602",
 		"fullCode":"360200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"景德镇市",
 		"parentCode":"36"
 	},
@@ -19,7 +19,7 @@
 		"code":"3603",
 		"fullCode":"360300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"萍乡市",
 		"parentCode":"36"
 	},
@@ -27,7 +27,7 @@
 		"code":"3604",
 		"fullCode":"360400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"九江市",
 		"parentCode":"36"
 	},
@@ -35,7 +35,7 @@
 		"code":"3605",
 		"fullCode":"360500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"新余市",
 		"parentCode":"36"
 	},
@@ -43,7 +43,7 @@
 		"code":"3606",
 		"fullCode":"360600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"鹰潭市",
 		"parentCode":"36"
 	},
@@ -51,7 +51,7 @@
 		"code":"3607",
 		"fullCode":"360700000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"赣州市",
 		"parentCode":"36"
 	},
@@ -59,7 +59,7 @@
 		"code":"3608",
 		"fullCode":"360800000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"吉安市",
 		"parentCode":"36"
 	},
@@ -67,7 +67,7 @@
 		"code":"3609",
 		"fullCode":"360900000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"宜春市",
 		"parentCode":"36"
 	},
@@ -75,7 +75,7 @@
 		"code":"3610",
 		"fullCode":"361000000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"抚州市",
 		"parentCode":"36"
 	},
@@ -83,7 +83,7 @@
 		"code":"3611",
 		"fullCode":"361100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"上饶市",
 		"parentCode":"36"
 	}

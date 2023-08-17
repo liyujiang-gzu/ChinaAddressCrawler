@@ -3,7 +3,7 @@
 		"code":"430373001",
 		"fullCode":"430373001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"430373"
 	},
@@ -11,7 +11,7 @@
 		"code":"430373002",
 		"fullCode":"430373002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九华街道",
 		"parentCode":"430373"
 	},
@@ -19,7 +19,7 @@
 		"code":"430373200",
 		"fullCode":"430373200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"响水乡",
 		"parentCode":"430373"
 	}

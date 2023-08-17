@@ -3,7 +3,7 @@
 		"code":"620302",
 		"fullCode":"620302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金川区",
 		"parentCode":"6203"
 	},
@@ -11,7 +11,7 @@
 		"code":"620321",
 		"fullCode":"620321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永昌县",
 		"parentCode":"6203"
 	}

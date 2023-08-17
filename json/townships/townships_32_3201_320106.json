@@ -3,7 +3,7 @@
 		"code":"320106001",
 		"fullCode":"320106001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁海路街道",
 		"parentCode":"320106"
 	},
@@ -11,7 +11,7 @@
 		"code":"320106002",
 		"fullCode":"320106002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华侨路街道",
 		"parentCode":"320106"
 	},
@@ -19,7 +19,7 @@
 		"code":"320106003",
 		"fullCode":"320106003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖南路街道",
 		"parentCode":"320106"
 	},
@@ -27,7 +27,7 @@
 		"code":"320106004",
 		"fullCode":"320106004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中央门街道",
 		"parentCode":"320106"
 	},
@@ -35,7 +35,7 @@
 		"code":"320106005",
 		"fullCode":"320106005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"挹江门街道",
 		"parentCode":"320106"
 	},
@@ -43,7 +43,7 @@
 		"code":"320106006",
 		"fullCode":"320106006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江东街道",
 		"parentCode":"320106"
 	},
@@ -51,7 +51,7 @@
 		"code":"320106007",
 		"fullCode":"320106007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰街道",
 		"parentCode":"320106"
 	},
@@ -59,7 +59,7 @@
 		"code":"320106008",
 		"fullCode":"320106008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下关街道",
 		"parentCode":"320106"
 	},
@@ -67,7 +67,7 @@
 		"code":"320106009",
 		"fullCode":"320106009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热河南路街道",
 		"parentCode":"320106"
 	},
@@ -75,7 +75,7 @@
 		"code":"320106010",
 		"fullCode":"320106010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幕府山街道",
 		"parentCode":"320106"
 	},
@@ -83,7 +83,7 @@
 		"code":"320106011",
 		"fullCode":"320106011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建宁路街道",
 		"parentCode":"320106"
 	},
@@ -91,7 +91,7 @@
 		"code":"320106012",
 		"fullCode":"320106012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝塔桥街道",
 		"parentCode":"320106"
 	},
@@ -99,7 +99,7 @@
 		"code":"320106013",
 		"fullCode":"320106013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小市街道",
 		"parentCode":"320106"
 	}

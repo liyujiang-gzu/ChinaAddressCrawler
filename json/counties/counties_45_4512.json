@@ -3,7 +3,7 @@
 		"code":"451202",
 		"fullCode":"451202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金城江区",
 		"parentCode":"4512"
 	},
@@ -11,7 +11,7 @@
 		"code":"451203",
 		"fullCode":"451203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宜州区",
 		"parentCode":"4512"
 	},
@@ -19,7 +19,7 @@
 		"code":"451221",
 		"fullCode":"451221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南丹县",
 		"parentCode":"4512"
 	},
@@ -27,7 +27,7 @@
 		"code":"451222",
 		"fullCode":"451222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天峨县",
 		"parentCode":"4512"
 	},
@@ -35,7 +35,7 @@
 		"code":"451223",
 		"fullCode":"451223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凤山县",
 		"parentCode":"4512"
 	},
@@ -43,7 +43,7 @@
 		"code":"451224",
 		"fullCode":"451224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东兰县",
 		"parentCode":"4512"
 	},
@@ -51,7 +51,7 @@
 		"code":"451225",
 		"fullCode":"451225000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"罗城仫佬族自治县",
 		"parentCode":"4512"
 	},
@@ -59,7 +59,7 @@
 		"code":"451226",
 		"fullCode":"451226000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"环江毛南族自治县",
 		"parentCode":"4512"
 	},
@@ -67,7 +67,7 @@
 		"code":"451227",
 		"fullCode":"451227000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巴马瑶族自治县",
 		"parentCode":"4512"
 	},
@@ -75,7 +75,7 @@
 		"code":"451228",
 		"fullCode":"451228000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"都安瑶族自治县",
 		"parentCode":"4512"
 	},
@@ -83,7 +83,7 @@
 		"code":"451229",
 		"fullCode":"451229000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大化瑶族自治县",
 		"parentCode":"4512"
 	}

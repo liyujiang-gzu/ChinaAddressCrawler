@@ -3,7 +3,7 @@
 		"code":"330921100",
 		"fullCode":"330921100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高亭镇",
 		"parentCode":"330921"
 	},
@@ -11,7 +11,7 @@
 		"code":"330921101",
 		"fullCode":"330921101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东沙镇",
 		"parentCode":"330921"
 	},
@@ -19,7 +19,7 @@
 		"code":"330921102",
 		"fullCode":"330921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岱东镇",
 		"parentCode":"330921"
 	},
@@ -27,7 +27,7 @@
 		"code":"330921103",
 		"fullCode":"330921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岱西镇",
 		"parentCode":"330921"
 	},
@@ -35,7 +35,7 @@
 		"code":"330921105",
 		"fullCode":"330921105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长涂镇",
 		"parentCode":"330921"
 	},
@@ -43,7 +43,7 @@
 		"code":"330921106",
 		"fullCode":"330921106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"衢山镇",
 		"parentCode":"330921"
 	},
@@ -51,7 +51,7 @@
 		"code":"330921200",
 		"fullCode":"330921200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀山乡",
 		"parentCode":"330921"
 	}

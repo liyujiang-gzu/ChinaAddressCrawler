@@ -3,7 +3,7 @@
 		"code":"321002",
 		"fullCode":"321002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"广陵区",
 		"parentCode":"3210"
 	},
@@ -11,7 +11,7 @@
 		"code":"321003",
 		"fullCode":"321003000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"邗江区",
 		"parentCode":"3210"
 	},
@@ -19,7 +19,7 @@
 		"code":"321012",
 		"fullCode":"321012000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江都区",
 		"parentCode":"3210"
 	},
@@ -27,7 +27,7 @@
 		"code":"321023",
 		"fullCode":"321023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宝应县",
 		"parentCode":"3210"
 	},
@@ -35,7 +35,7 @@
 		"code":"321071",
 		"fullCode":"321071000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"扬州经济技术开发区",
 		"parentCode":"3210"
 	},
@@ -43,7 +43,7 @@
 		"code":"321081",
 		"fullCode":"321081000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"仪征市",
 		"parentCode":"3210"
 	},
@@ -51,7 +51,7 @@
 		"code":"321084",
 		"fullCode":"321084000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"高邮市",
 		"parentCode":"3210"
 	}

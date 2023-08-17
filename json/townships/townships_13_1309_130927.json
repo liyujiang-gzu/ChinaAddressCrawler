@@ -3,7 +3,7 @@
 		"code":"130927100",
 		"fullCode":"130927100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南皮镇",
 		"parentCode":"130927"
 	},
@@ -11,7 +11,7 @@
 		"code":"130927101",
 		"fullCode":"130927101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯家口镇",
 		"parentCode":"130927"
 	},
@@ -19,7 +19,7 @@
 		"code":"130927102",
 		"fullCode":"130927102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨子镇",
 		"parentCode":"130927"
 	},
@@ -27,7 +27,7 @@
 		"code":"130927103",
 		"fullCode":"130927103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲍官屯镇",
 		"parentCode":"130927"
 	},
@@ -35,7 +35,7 @@
 		"code":"130927104",
 		"fullCode":"130927104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王寺镇",
 		"parentCode":"130927"
 	},
@@ -43,7 +43,7 @@
 		"code":"130927105",
 		"fullCode":"130927105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌马营镇",
 		"parentCode":"130927"
 	},
@@ -51,7 +51,7 @@
 		"code":"130927106",
 		"fullCode":"130927106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潞灌镇",
 		"parentCode":"130927"
 	},
@@ -59,7 +59,7 @@
 		"code":"130927200",
 		"fullCode":"130927200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大浪淀乡",
 		"parentCode":"130927"
 	},
@@ -67,7 +67,7 @@
 		"code":"130927201",
 		"fullCode":"130927201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘八里乡",
 		"parentCode":"130927"
 	}

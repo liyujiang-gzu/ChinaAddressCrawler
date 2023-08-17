@@ -3,7 +3,7 @@
 		"code":"210102",
 		"fullCode":"210102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"和平区",
 		"parentCode":"2101"
 	},
@@ -11,7 +11,7 @@
 		"code":"210103",
 		"fullCode":"210103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沈河区",
 		"parentCode":"2101"
 	},
@@ -19,7 +19,7 @@
 		"code":"210104",
 		"fullCode":"210104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大东区",
 		"parentCode":"2101"
 	},
@@ -27,7 +27,7 @@
 		"code":"210105",
 		"fullCode":"210105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"皇姑区",
 		"parentCode":"2101"
 	},
@@ -35,7 +35,7 @@
 		"code":"210106",
 		"fullCode":"210106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铁西区",
 		"parentCode":"2101"
 	},
@@ -43,7 +43,7 @@
 		"code":"210111",
 		"fullCode":"210111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"苏家屯区",
 		"parentCode":"2101"
 	},
@@ -51,7 +51,7 @@
 		"code":"210112",
 		"fullCode":"210112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浑南区",
 		"parentCode":"2101"
 	},
@@ -59,7 +59,7 @@
 		"code":"210113",
 		"fullCode":"210113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沈北新区",
 		"parentCode":"2101"
 	},
@@ -67,7 +67,7 @@
 		"code":"210114",
 		"fullCode":"210114000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"于洪区",
 		"parentCode":"2101"
 	},
@@ -75,7 +75,7 @@
 		"code":"210115",
 		"fullCode":"210115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"辽中区",
 		"parentCode":"2101"
 	},
@@ -83,7 +83,7 @@
 		"code":"210123",
 		"fullCode":"210123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"康平县",
 		"parentCode":"2101"
 	},
@@ -91,7 +91,7 @@
 		"code":"210124",
 		"fullCode":"210124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"法库县",
 		"parentCode":"2101"
 	},
@@ -99,7 +99,7 @@
 		"code":"210181",
 		"fullCode":"210181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新民市",
 		"parentCode":"2101"
 	}

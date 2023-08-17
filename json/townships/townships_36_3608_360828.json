@@ -3,7 +3,7 @@
 		"code":"360828100",
 		"fullCode":"360828100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芙蓉镇",
 		"parentCode":"360828"
 	},
@@ -11,7 +11,7 @@
 		"code":"360828101",
 		"fullCode":"360828101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五丰镇",
 		"parentCode":"360828"
 	},
@@ -19,7 +19,7 @@
 		"code":"360828102",
 		"fullCode":"360828102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枧头镇",
 		"parentCode":"360828"
 	},
@@ -27,7 +27,7 @@
 		"code":"360828103",
 		"fullCode":"360828103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑头镇",
 		"parentCode":"360828"
 	},
@@ -35,7 +35,7 @@
 		"code":"360828104",
 		"fullCode":"360828104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百嘉镇",
 		"parentCode":"360828"
 	},
@@ -43,7 +43,7 @@
 		"code":"360828105",
 		"fullCode":"360828105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高陂镇",
 		"parentCode":"360828"
 	},
@@ -51,7 +51,7 @@
 		"code":"360828106",
 		"fullCode":"360828106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潞田镇",
 		"parentCode":"360828"
 	},
@@ -59,7 +59,7 @@
 		"code":"360828107",
 		"fullCode":"360828107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坪镇",
 		"parentCode":"360828"
 	},
@@ -67,7 +67,7 @@
 		"code":"360828108",
 		"fullCode":"360828108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏造镇",
 		"parentCode":"360828"
 	},
@@ -75,7 +75,7 @@
 		"code":"360828200",
 		"fullCode":"360828200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗塘乡",
 		"parentCode":"360828"
 	},
@@ -83,7 +83,7 @@
 		"code":"360828201",
 		"fullCode":"360828201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弹前乡",
 		"parentCode":"360828"
 	},
@@ -91,7 +91,7 @@
 		"code":"360828202",
 		"fullCode":"360828202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武术乡",
 		"parentCode":"360828"
 	},
@@ -99,7 +99,7 @@
 		"code":"360828203",
 		"fullCode":"360828203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝山乡",
 		"parentCode":"360828"
 	},
@@ -107,7 +107,7 @@
 		"code":"360828204",
 		"fullCode":"360828204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涧田乡",
 		"parentCode":"360828"
 	},
@@ -115,7 +115,7 @@
 		"code":"360828205",
 		"fullCode":"360828205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺峰乡",
 		"parentCode":"360828"
 	},
@@ -123,7 +123,7 @@
 		"code":"360828206",
 		"fullCode":"360828206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韶口乡",
 		"parentCode":"360828"
 	},
@@ -131,7 +131,7 @@
 		"code":"360828401",
 		"fullCode":"360828401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万安县工业园",
 		"parentCode":"360828"
 	},
@@ -139,7 +139,7 @@
 		"code":"360828501",
 		"fullCode":"360828501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔴源垦殖场",
 		"parentCode":"360828"
 	}

@@ -3,7 +3,7 @@
 		"code":"210103005",
 		"fullCode":"210103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨河街道",
 		"parentCode":"210103"
 	},
@@ -11,7 +11,7 @@
 		"code":"210103006",
 		"fullCode":"210103006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万莲街道",
 		"parentCode":"210103"
 	},
@@ -19,7 +19,7 @@
 		"code":"210103013",
 		"fullCode":"210103013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱剪炉街道",
 		"parentCode":"210103"
 	},
@@ -27,7 +27,7 @@
 		"code":"210103014",
 		"fullCode":"210103014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北站街道",
 		"parentCode":"210103"
 	},
@@ -35,7 +35,7 @@
 		"code":"210103015",
 		"fullCode":"210103015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"风雨坛街道",
 		"parentCode":"210103"
 	},
@@ -43,7 +43,7 @@
 		"code":"210103017",
 		"fullCode":"210103017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇城街道",
 		"parentCode":"210103"
 	},
@@ -51,7 +51,7 @@
 		"code":"210103018",
 		"fullCode":"210103018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里河街道",
 		"parentCode":"210103"
 	},
@@ -59,7 +59,7 @@
 		"code":"210103019",
 		"fullCode":"210103019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南塔街道",
 		"parentCode":"210103"
 	},
@@ -67,7 +67,7 @@
 		"code":"210103020",
 		"fullCode":"210103020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉园街道",
 		"parentCode":"210103"
 	},
@@ -75,7 +75,7 @@
 		"code":"210103022",
 		"fullCode":"210103022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马官桥街道",
 		"parentCode":"210103"
 	},
@@ -83,7 +83,7 @@
 		"code":"210103023",
 		"fullCode":"210103023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东陵街道",
 		"parentCode":"210103"
 	}

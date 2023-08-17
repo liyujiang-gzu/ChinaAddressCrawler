@@ -3,7 +3,7 @@
 		"code":"330483001",
 		"fullCode":"330483001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梧桐街道",
 		"parentCode":"330483"
 	},
@@ -11,7 +11,7 @@
 		"code":"330483003",
 		"fullCode":"330483003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤鸣街道",
 		"parentCode":"330483"
 	},
@@ -19,7 +19,7 @@
 		"code":"330483004",
 		"fullCode":"330483004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥街道",
 		"parentCode":"330483"
 	},
@@ -27,7 +27,7 @@
 		"code":"330483100",
 		"fullCode":"330483100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌镇镇",
 		"parentCode":"330483"
 	},
@@ -35,7 +35,7 @@
 		"code":"330483101",
 		"fullCode":"330483101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濮院镇",
 		"parentCode":"330483"
 	},
@@ -43,7 +43,7 @@
 		"code":"330483102",
 		"fullCode":"330483102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屠甸镇",
 		"parentCode":"330483"
 	},
@@ -51,7 +51,7 @@
 		"code":"330483103",
 		"fullCode":"330483103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门镇",
 		"parentCode":"330483"
 	},
@@ -59,7 +59,7 @@
 		"code":"330483104",
 		"fullCode":"330483104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河山镇",
 		"parentCode":"330483"
 	},
@@ -67,7 +67,7 @@
 		"code":"330483105",
 		"fullCode":"330483105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洲泉镇",
 		"parentCode":"330483"
 	},
@@ -75,7 +75,7 @@
 		"code":"330483106",
 		"fullCode":"330483106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大麻镇",
 		"parentCode":"330483"
 	},
@@ -83,7 +83,7 @@
 		"code":"330483107",
 		"fullCode":"330483107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇福镇",
 		"parentCode":"330483"
 	}

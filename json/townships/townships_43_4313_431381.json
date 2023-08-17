@@ -3,7 +3,7 @@
 		"code":"431381001",
 		"fullCode":"431381001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冷水江街道",
 		"parentCode":"431381"
 	},
@@ -11,7 +11,7 @@
 		"code":"431381002",
 		"fullCode":"431381002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锡矿山街道",
 		"parentCode":"431381"
 	},
@@ -19,7 +19,7 @@
 		"code":"431381003",
 		"fullCode":"431381003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙塘湾街道",
 		"parentCode":"431381"
 	},
@@ -27,7 +27,7 @@
 		"code":"431381004",
 		"fullCode":"431381004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布溪街道",
 		"parentCode":"431381"
 	},
@@ -35,7 +35,7 @@
 		"code":"431381100",
 		"fullCode":"431381100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾青镇",
 		"parentCode":"431381"
 	},
@@ -43,7 +43,7 @@
 		"code":"431381102",
 		"fullCode":"431381102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渣渡镇",
 		"parentCode":"431381"
 	},
@@ -51,7 +51,7 @@
 		"code":"431381103",
 		"fullCode":"431381103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铎山镇",
 		"parentCode":"431381"
 	},
@@ -59,7 +59,7 @@
 		"code":"431381105",
 		"fullCode":"431381105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三尖镇",
 		"parentCode":"431381"
 	},
@@ -67,7 +67,7 @@
 		"code":"431381106",
 		"fullCode":"431381106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金竹山镇",
 		"parentCode":"431381"
 	},
@@ -75,7 +75,7 @@
 		"code":"431381205",
 		"fullCode":"431381205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中连乡",
 		"parentCode":"431381"
 	}

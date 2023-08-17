@@ -3,7 +3,7 @@
 		"code":"522626001",
 		"fullCode":"522626001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"㵲水街道",
 		"parentCode":"522626"
 	},
@@ -11,7 +11,7 @@
 		"code":"522626100",
 		"fullCode":"522626100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思旸镇",
 		"parentCode":"522626"
 	},
@@ -19,7 +19,7 @@
 		"code":"522626101",
 		"fullCode":"522626101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水尾镇",
 		"parentCode":"522626"
 	},
@@ -27,7 +27,7 @@
 		"code":"522626102",
 		"fullCode":"522626102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天马镇",
 		"parentCode":"522626"
 	},
@@ -35,7 +35,7 @@
 		"code":"522626103",
 		"fullCode":"522626103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙田镇",
 		"parentCode":"522626"
 	},
@@ -43,7 +43,7 @@
 		"code":"522626104",
 		"fullCode":"522626104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大有镇",
 		"parentCode":"522626"
 	},
@@ -51,7 +51,7 @@
 		"code":"522626105",
 		"fullCode":"522626105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"注溪镇",
 		"parentCode":"522626"
 	},
@@ -59,7 +59,7 @@
 		"code":"522626106",
 		"fullCode":"522626106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凯本镇",
 		"parentCode":"522626"
 	},
@@ -67,7 +67,7 @@
 		"code":"522626107",
 		"fullCode":"522626107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平庄镇",
 		"parentCode":"522626"
 	},
@@ -75,7 +75,7 @@
 		"code":"522626108",
 		"fullCode":"522626108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"客楼镇",
 		"parentCode":"522626"
 	},
@@ -83,7 +83,7 @@
 		"code":"522626202",
 		"fullCode":"522626202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天星乡",
 		"parentCode":"522626"
 	},
@@ -91,7 +91,7 @@
 		"code":"522626203",
 		"fullCode":"522626203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊桥土家族乡",
 		"parentCode":"522626"
 	}

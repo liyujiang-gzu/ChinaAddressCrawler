@@ -3,7 +3,7 @@
 		"code":"500241001",
 		"fullCode":"500241001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中和街道",
 		"parentCode":"500241"
 	},
@@ -11,7 +11,7 @@
 		"code":"500241002",
 		"fullCode":"500241002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌杨街道",
 		"parentCode":"500241"
 	},
@@ -19,7 +19,7 @@
 		"code":"500241003",
 		"fullCode":"500241003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平凯街道",
 		"parentCode":"500241"
 	},
@@ -27,7 +27,7 @@
 		"code":"500241004",
 		"fullCode":"500241004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官庄街道",
 		"parentCode":"500241"
 	},
@@ -35,7 +35,7 @@
 		"code":"500241005",
 		"fullCode":"500241005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清溪场街道",
 		"parentCode":"500241"
 	},
@@ -43,7 +43,7 @@
 		"code":"500241103",
 		"fullCode":"500241103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隘口镇",
 		"parentCode":"500241"
 	},
@@ -51,7 +51,7 @@
 		"code":"500241104",
 		"fullCode":"500241104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溶溪镇",
 		"parentCode":"500241"
 	},
@@ -59,7 +59,7 @@
 		"code":"500241106",
 		"fullCode":"500241106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙池镇",
 		"parentCode":"500241"
 	},
@@ -67,7 +67,7 @@
 		"code":"500241107",
 		"fullCode":"500241107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石堤镇",
 		"parentCode":"500241"
 	},
@@ -75,7 +75,7 @@
 		"code":"500241108",
 		"fullCode":"500241108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峨溶镇",
 		"parentCode":"500241"
 	},
@@ -83,7 +83,7 @@
 		"code":"500241109",
 		"fullCode":"500241109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪安镇",
 		"parentCode":"500241"
 	},
@@ -91,7 +91,7 @@
 		"code":"500241110",
 		"fullCode":"500241110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅江镇",
 		"parentCode":"500241"
 	},
@@ -99,7 +99,7 @@
 		"code":"500241111",
 		"fullCode":"500241111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石耶镇",
 		"parentCode":"500241"
 	},
@@ -107,7 +107,7 @@
 		"code":"500241112",
 		"fullCode":"500241112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅江镇",
 		"parentCode":"500241"
 	},
@@ -115,7 +115,7 @@
 		"code":"500241113",
 		"fullCode":"500241113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰桥镇",
 		"parentCode":"500241"
 	},
@@ -123,7 +123,7 @@
 		"code":"500241114",
 		"fullCode":"500241114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"膏田镇",
 		"parentCode":"500241"
 	},
@@ -131,7 +131,7 @@
 		"code":"500241115",
 		"fullCode":"500241115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪口镇",
 		"parentCode":"500241"
 	},
@@ -139,7 +139,7 @@
 		"code":"500241116",
 		"fullCode":"500241116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"妙泉镇",
 		"parentCode":"500241"
 	},
@@ -147,7 +147,7 @@
 		"code":"500241117",
 		"fullCode":"500241117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋农镇",
 		"parentCode":"500241"
 	},
@@ -155,7 +155,7 @@
 		"code":"500241118",
 		"fullCode":"500241118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里仁镇",
 		"parentCode":"500241"
 	},
@@ -163,7 +163,7 @@
 		"code":"500241119",
 		"fullCode":"500241119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟灵镇",
 		"parentCode":"500241"
 	},
@@ -171,7 +171,7 @@
 		"code":"500241120",
 		"fullCode":"500241120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙凤坝镇",
 		"parentCode":"500241"
 	},
@@ -179,7 +179,7 @@
 		"code":"500241121",
 		"fullCode":"500241121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涌洞镇",
 		"parentCode":"500241"
 	},
@@ -187,7 +187,7 @@
 		"code":"500241207",
 		"fullCode":"500241207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海洋乡",
 		"parentCode":"500241"
 	},
@@ -195,7 +195,7 @@
 		"code":"500241208",
 		"fullCode":"500241208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大溪乡",
 		"parentCode":"500241"
 	},
@@ -203,7 +203,7 @@
 		"code":"500241214",
 		"fullCode":"500241214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中平乡",
 		"parentCode":"500241"
 	},
@@ -211,7 +211,7 @@
 		"code":"500241215",
 		"fullCode":"500241215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岑溪乡",
 		"parentCode":"500241"
 	}

@@ -3,7 +3,7 @@
 		"code":"370305001",
 		"fullCode":"370305001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闻韶街道",
 		"parentCode":"370305"
 	},
@@ -11,7 +11,7 @@
 		"code":"370305002",
 		"fullCode":"370305002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪宫街道",
 		"parentCode":"370305"
 	},
@@ -19,7 +19,7 @@
 		"code":"370305003",
 		"fullCode":"370305003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛店街道",
 		"parentCode":"370305"
 	},
@@ -27,7 +27,7 @@
 		"code":"370305004",
 		"fullCode":"370305004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稷下街道",
 		"parentCode":"370305"
 	},
@@ -35,7 +35,7 @@
 		"code":"370305005",
 		"fullCode":"370305005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐陵街道",
 		"parentCode":"370305"
 	},
@@ -43,7 +43,7 @@
 		"code":"370305100",
 		"fullCode":"370305100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐都镇",
 		"parentCode":"370305"
 	},
@@ -51,7 +51,7 @@
 		"code":"370305102",
 		"fullCode":"370305102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇城镇",
 		"parentCode":"370305"
 	},
@@ -59,7 +59,7 @@
 		"code":"370305103",
 		"fullCode":"370305103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敬仲镇",
 		"parentCode":"370305"
 	},
@@ -67,7 +67,7 @@
 		"code":"370305104",
 		"fullCode":"370305104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱台镇",
 		"parentCode":"370305"
 	},
@@ -75,7 +75,7 @@
 		"code":"370305107",
 		"fullCode":"370305107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金岭镇",
 		"parentCode":"370305"
 	},
@@ -83,7 +83,7 @@
 		"code":"370305109",
 		"fullCode":"370305109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰镇",
 		"parentCode":"370305"
 	},
@@ -91,7 +91,7 @@
 		"code":"370305111",
 		"fullCode":"370305111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山镇",
 		"parentCode":"370305"
 	}

@@ -3,7 +3,7 @@
 		"code":"331002",
 		"fullCode":"331002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"椒江区",
 		"parentCode":"3310"
 	},
@@ -11,7 +11,7 @@
 		"code":"331003",
 		"fullCode":"331003000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黄岩区",
 		"parentCode":"3310"
 	},
@@ -19,7 +19,7 @@
 		"code":"331004",
 		"fullCode":"331004000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"路桥区",
 		"parentCode":"3310"
 	},
@@ -27,7 +27,7 @@
 		"code":"331022",
 		"fullCode":"331022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"三门县",
 		"parentCode":"3310"
 	},
@@ -35,7 +35,7 @@
 		"code":"331023",
 		"fullCode":"331023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天台县",
 		"parentCode":"3310"
 	},
@@ -43,7 +43,7 @@
 		"code":"331024",
 		"fullCode":"331024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"仙居县",
 		"parentCode":"3310"
 	},
@@ -51,7 +51,7 @@
 		"code":"331081",
 		"fullCode":"331081000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"温岭市",
 		"parentCode":"3310"
 	},
@@ -59,7 +59,7 @@
 		"code":"331082",
 		"fullCode":"331082000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临海市",
 		"parentCode":"3310"
 	},
@@ -67,7 +67,7 @@
 		"code":"331083",
 		"fullCode":"331083000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"玉环市",
 		"parentCode":"3310"
 	}

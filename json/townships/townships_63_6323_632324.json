@@ -3,7 +3,7 @@
 		"code":"632324100",
 		"fullCode":"632324100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"优干宁镇",
 		"parentCode":"632324"
 	},
@@ -11,7 +11,7 @@
 		"code":"632324101",
 		"fullCode":"632324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁木特镇",
 		"parentCode":"632324"
 	},
@@ -19,7 +19,7 @@
 		"code":"632324201",
 		"fullCode":"632324201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多松乡",
 		"parentCode":"632324"
 	},
@@ -27,7 +27,7 @@
 		"code":"632324202",
 		"fullCode":"632324202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛尔龙乡",
 		"parentCode":"632324"
 	},
@@ -35,7 +35,7 @@
 		"code":"632324203",
 		"fullCode":"632324203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯生乡",
 		"parentCode":"632324"
 	},
@@ -43,7 +43,7 @@
 		"code":"632324204",
 		"fullCode":"632324204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托叶玛乡",
 		"parentCode":"632324"
 	}

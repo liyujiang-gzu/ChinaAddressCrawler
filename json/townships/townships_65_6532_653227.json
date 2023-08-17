@@ -3,7 +3,7 @@
 		"code":"653227100",
 		"fullCode":"653227100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼雅镇",
 		"parentCode":"653227"
 	},
@@ -11,7 +11,7 @@
 		"code":"653227200",
 		"fullCode":"653227200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼雅乡",
 		"parentCode":"653227"
 	},
@@ -19,7 +19,7 @@
 		"code":"653227201",
 		"fullCode":"653227201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"若克雅乡",
 		"parentCode":"653227"
 	},
@@ -27,7 +27,7 @@
 		"code":"653227202",
 		"fullCode":"653227202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨勒吾则克乡",
 		"parentCode":"653227"
 	},
@@ -35,7 +35,7 @@
 		"code":"653227203",
 		"fullCode":"653227203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叶亦克乡",
 		"parentCode":"653227"
 	},
@@ -43,7 +43,7 @@
 		"code":"653227204",
 		"fullCode":"653227204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安迪尔乡",
 		"parentCode":"653227"
 	},
@@ -51,7 +51,7 @@
 		"code":"653227205",
 		"fullCode":"653227205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚瓦通古孜乡",
 		"parentCode":"653227"
 	}

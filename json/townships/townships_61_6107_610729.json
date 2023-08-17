@@ -3,7 +3,7 @@
 		"code":"610729001",
 		"fullCode":"610729001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫柏街道",
 		"parentCode":"610729"
 	},
@@ -11,7 +11,7 @@
 		"code":"610729101",
 		"fullCode":"610729101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马道镇",
 		"parentCode":"610729"
 	},
@@ -19,7 +19,7 @@
 		"code":"610729102",
 		"fullCode":"610729102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武关驿镇",
 		"parentCode":"610729"
 	},
@@ -27,7 +27,7 @@
 		"code":"610729103",
 		"fullCode":"610729103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留侯镇",
 		"parentCode":"610729"
 	},
@@ -35,7 +35,7 @@
 		"code":"610729104",
 		"fullCode":"610729104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江口镇",
 		"parentCode":"610729"
 	},
@@ -43,7 +43,7 @@
 		"code":"610729105",
 		"fullCode":"610729105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉皇庙镇",
 		"parentCode":"610729"
 	},
@@ -51,7 +51,7 @@
 		"code":"610729106",
 		"fullCode":"610729106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火烧店镇",
 		"parentCode":"610729"
 	},
@@ -59,7 +59,7 @@
 		"code":"610729107",
 		"fullCode":"610729107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青桥驿镇",
 		"parentCode":"610729"
 	}

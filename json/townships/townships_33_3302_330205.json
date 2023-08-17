@@ -3,7 +3,7 @@
 		"code":"330205001",
 		"fullCode":"330205001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"外滩街道",
 		"parentCode":"330205"
 	},
@@ -11,7 +11,7 @@
 		"code":"330205003",
 		"fullCode":"330205003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔浦街道",
 		"parentCode":"330205"
 	},
@@ -19,7 +19,7 @@
 		"code":"330205004",
 		"fullCode":"330205004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文教街道",
 		"parentCode":"330205"
 	},
@@ -27,7 +27,7 @@
 		"code":"330205005",
 		"fullCode":"330205005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甬江街道",
 		"parentCode":"330205"
 	},
@@ -35,7 +35,7 @@
 		"code":"330205006",
 		"fullCode":"330205006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄桥街道",
 		"parentCode":"330205"
 	},
@@ -43,7 +43,7 @@
 		"code":"330205007",
 		"fullCode":"330205007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪塘街道",
 		"parentCode":"330205"
 	},
@@ -51,7 +51,7 @@
 		"code":"330205008",
 		"fullCode":"330205008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前江街道",
 		"parentCode":"330205"
 	},
@@ -59,7 +59,7 @@
 		"code":"330205103",
 		"fullCode":"330205103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"慈城镇",
 		"parentCode":"330205"
 	}

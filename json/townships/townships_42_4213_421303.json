@@ -3,7 +3,7 @@
 		"code":"421303001",
 		"fullCode":"421303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"421303"
 	},
@@ -11,7 +11,7 @@
 		"code":"421303002",
 		"fullCode":"421303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"421303"
 	},
@@ -19,7 +19,7 @@
 		"code":"421303003",
 		"fullCode":"421303003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南郊街道",
 		"parentCode":"421303"
 	},
@@ -27,7 +27,7 @@
 		"code":"421303004",
 		"fullCode":"421303004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北郊街道",
 		"parentCode":"421303"
 	},
@@ -35,7 +35,7 @@
 		"code":"421303005",
 		"fullCode":"421303005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涢水街道",
 		"parentCode":"421303"
 	},
@@ -43,7 +43,7 @@
 		"code":"421303101",
 		"fullCode":"421303101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万店镇",
 		"parentCode":"421303"
 	},
@@ -51,7 +51,7 @@
 		"code":"421303102",
 		"fullCode":"421303102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何店镇",
 		"parentCode":"421303"
 	},
@@ -59,7 +59,7 @@
 		"code":"421303103",
 		"fullCode":"421303103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛阳镇",
 		"parentCode":"421303"
 	},
@@ -67,7 +67,7 @@
 		"code":"421303104",
 		"fullCode":"421303104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"府河镇",
 		"parentCode":"421303"
 	},
@@ -75,7 +75,7 @@
 		"code":"421303187",
 		"fullCode":"421303187000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淅河镇",
 		"parentCode":"421303"
 	},
@@ -83,7 +83,7 @@
 		"code":"421303499",
 		"fullCode":"421303499000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖北曾都经济开发区",
 		"parentCode":"421303"
 	},
@@ -91,7 +91,7 @@
 		"code":"421303587",
 		"fullCode":"421303587000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"随州市经济开发区",
 		"parentCode":"421303"
 	}

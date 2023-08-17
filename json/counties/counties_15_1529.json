@@ -3,7 +3,7 @@
 		"code":"152921",
 		"fullCode":"152921000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿拉善左旗",
 		"parentCode":"1529"
 	},
@@ -11,7 +11,7 @@
 		"code":"152922",
 		"fullCode":"152922000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿拉善右旗",
 		"parentCode":"1529"
 	},
@@ -19,7 +19,7 @@
 		"code":"152923",
 		"fullCode":"152923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"额济纳旗",
 		"parentCode":"1529"
 	},
@@ -27,7 +27,7 @@
 		"code":"152971",
 		"fullCode":"152971000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"内蒙古阿拉善高新技术产业开发区",
 		"parentCode":"1529"
 	}

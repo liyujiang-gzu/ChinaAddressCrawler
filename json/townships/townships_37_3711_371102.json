@@ -3,7 +3,7 @@
 		"code":"371102001",
 		"fullCode":"371102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日照街道",
 		"parentCode":"371102"
 	},
@@ -11,7 +11,7 @@
 		"code":"371102002",
 		"fullCode":"371102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石臼街道",
 		"parentCode":"371102"
 	},
@@ -19,7 +19,7 @@
 		"code":"371102004",
 		"fullCode":"371102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦楼街道",
 		"parentCode":"371102"
 	},
@@ -27,7 +27,7 @@
 		"code":"371102008",
 		"fullCode":"371102008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧龙山街道",
 		"parentCode":"371102"
 	},
@@ -35,7 +35,7 @@
 		"code":"371102009",
 		"fullCode":"371102009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两城街道",
 		"parentCode":"371102"
 	},
@@ -43,7 +43,7 @@
 		"code":"371102100",
 		"fullCode":"371102100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河山镇",
 		"parentCode":"371102"
 	},
@@ -51,7 +51,7 @@
 		"code":"371102104",
 		"fullCode":"371102104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后村镇",
 		"parentCode":"371102"
 	},
@@ -59,7 +59,7 @@
 		"code":"371102106",
 		"fullCode":"371102106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖镇",
 		"parentCode":"371102"
 	},
@@ -67,7 +67,7 @@
 		"code":"371102107",
 		"fullCode":"371102107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈疃镇",
 		"parentCode":"371102"
 	},
@@ -75,7 +75,7 @@
 		"code":"371102108",
 		"fullCode":"371102108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖镇",
 		"parentCode":"371102"
 	},
@@ -83,7 +83,7 @@
 		"code":"371102109",
 		"fullCode":"371102109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三庄镇",
 		"parentCode":"371102"
 	},
@@ -91,7 +91,7 @@
 		"code":"371102110",
 		"fullCode":"371102110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涛雒镇",
 		"parentCode":"371102"
 	}

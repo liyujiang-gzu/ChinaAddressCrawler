@@ -3,7 +3,7 @@
 		"code":"150571001",
 		"fullCode":"150571001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西街道",
 		"parentCode":"150571"
 	},
@@ -11,7 +11,7 @@
 		"code":"150571002",
 		"fullCode":"150571002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"电厂街道",
 		"parentCode":"150571"
 	},
@@ -19,7 +19,7 @@
 		"code":"150571003",
 		"fullCode":"150571003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"150571"
 	},
@@ -27,7 +27,7 @@
 		"code":"150571004",
 		"fullCode":"150571004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨河街道",
 		"parentCode":"150571"
 	},
@@ -35,7 +35,7 @@
 		"code":"150571100",
 		"fullCode":"150571100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽河镇",
 		"parentCode":"150571"
 	}

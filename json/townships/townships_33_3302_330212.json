@@ -3,7 +3,7 @@
 		"code":"330212001",
 		"fullCode":"330212001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下应街道",
 		"parentCode":"330212"
 	},
@@ -11,7 +11,7 @@
 		"code":"330212002",
 		"fullCode":"330212002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟公庙街道",
 		"parentCode":"330212"
 	},
@@ -19,7 +19,7 @@
 		"code":"330212004",
 		"fullCode":"330212004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅墟街道",
 		"parentCode":"330212"
 	},
@@ -27,7 +27,7 @@
 		"code":"330212005",
 		"fullCode":"330212005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中河街道",
 		"parentCode":"330212"
 	},
@@ -35,7 +35,7 @@
 		"code":"330212006",
 		"fullCode":"330212006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"首南街道",
 		"parentCode":"330212"
 	},
@@ -43,7 +43,7 @@
 		"code":"330212007",
 		"fullCode":"330212007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘火街道",
 		"parentCode":"330212"
 	},
@@ -51,7 +51,7 @@
 		"code":"330212008",
 		"fullCode":"330212008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百丈街道",
 		"parentCode":"330212"
 	},
@@ -59,7 +59,7 @@
 		"code":"330212009",
 		"fullCode":"330212009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东胜街道",
 		"parentCode":"330212"
 	},
@@ -67,7 +67,7 @@
 		"code":"330212010",
 		"fullCode":"330212010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明楼街道",
 		"parentCode":"330212"
 	},
@@ -75,7 +75,7 @@
 		"code":"330212011",
 		"fullCode":"330212011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鹤街道",
 		"parentCode":"330212"
 	},
@@ -83,7 +83,7 @@
 		"code":"330212012",
 		"fullCode":"330212012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东柳街道",
 		"parentCode":"330212"
 	},
@@ -91,7 +91,7 @@
 		"code":"330212013",
 		"fullCode":"330212013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东郊街道",
 		"parentCode":"330212"
 	},
@@ -99,7 +99,7 @@
 		"code":"330212014",
 		"fullCode":"330212014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福明街道",
 		"parentCode":"330212"
 	},
@@ -107,7 +107,7 @@
 		"code":"330212015",
 		"fullCode":"330212015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新明街道",
 		"parentCode":"330212"
 	},
@@ -115,7 +115,7 @@
 		"code":"330212016",
 		"fullCode":"330212016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聚贤街道",
 		"parentCode":"330212"
 	},
@@ -123,7 +123,7 @@
 		"code":"330212100",
 		"fullCode":"330212100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瞻岐镇",
 		"parentCode":"330212"
 	},
@@ -131,7 +131,7 @@
 		"code":"330212101",
 		"fullCode":"330212101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"咸祥镇",
 		"parentCode":"330212"
 	},
@@ -139,7 +139,7 @@
 		"code":"330212102",
 		"fullCode":"330212102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘溪镇",
 		"parentCode":"330212"
 	},
@@ -147,7 +147,7 @@
 		"code":"330212103",
 		"fullCode":"330212103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东钱湖镇",
 		"parentCode":"330212"
 	},
@@ -155,7 +155,7 @@
 		"code":"330212104",
 		"fullCode":"330212104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东吴镇",
 		"parentCode":"330212"
 	},
@@ -163,7 +163,7 @@
 		"code":"330212105",
 		"fullCode":"330212105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五乡镇",
 		"parentCode":"330212"
 	},
@@ -171,7 +171,7 @@
 		"code":"330212106",
 		"fullCode":"330212106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邱隘镇",
 		"parentCode":"330212"
 	},
@@ -179,7 +179,7 @@
 		"code":"330212108",
 		"fullCode":"330212108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云龙镇",
 		"parentCode":"330212"
 	},
@@ -187,7 +187,7 @@
 		"code":"330212109",
 		"fullCode":"330212109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横溪镇",
 		"parentCode":"330212"
 	},
@@ -195,7 +195,7 @@
 		"code":"330212110",
 		"fullCode":"330212110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜山镇",
 		"parentCode":"330212"
 	}

@@ -3,7 +3,7 @@
 		"code":"520381001",
 		"fullCode":"520381001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市中街道",
 		"parentCode":"520381"
 	},
@@ -11,7 +11,7 @@
 		"code":"520381002",
 		"fullCode":"520381002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文华街道",
 		"parentCode":"520381"
 	},
@@ -19,7 +19,7 @@
 		"code":"520381003",
 		"fullCode":"520381003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金华街道",
 		"parentCode":"520381"
 	},
@@ -27,7 +27,7 @@
 		"code":"520381100",
 		"fullCode":"520381100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天台镇",
 		"parentCode":"520381"
 	},
@@ -35,7 +35,7 @@
 		"code":"520381101",
 		"fullCode":"520381101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复兴镇",
 		"parentCode":"520381"
 	},
@@ -43,7 +43,7 @@
 		"code":"520381102",
 		"fullCode":"520381102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大同镇",
 		"parentCode":"520381"
 	},
@@ -51,7 +51,7 @@
 		"code":"520381103",
 		"fullCode":"520381103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旺隆镇",
 		"parentCode":"520381"
 	},
@@ -59,7 +59,7 @@
 		"code":"520381104",
 		"fullCode":"520381104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葫市镇",
 		"parentCode":"520381"
 	},
@@ -67,7 +67,7 @@
 		"code":"520381105",
 		"fullCode":"520381105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元厚镇",
 		"parentCode":"520381"
 	},
@@ -75,7 +75,7 @@
 		"code":"520381106",
 		"fullCode":"520381106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官渡镇",
 		"parentCode":"520381"
 	},
@@ -83,7 +83,7 @@
 		"code":"520381107",
 		"fullCode":"520381107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长期镇",
 		"parentCode":"520381"
 	},
@@ -91,7 +91,7 @@
 		"code":"520381108",
 		"fullCode":"520381108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长沙镇",
 		"parentCode":"520381"
 	},
@@ -99,7 +99,7 @@
 		"code":"520381109",
 		"fullCode":"520381109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两河口镇",
 		"parentCode":"520381"
 	},
@@ -107,7 +107,7 @@
 		"code":"520381110",
 		"fullCode":"520381110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丙安镇",
 		"parentCode":"520381"
 	},
@@ -115,7 +115,7 @@
 		"code":"520381202",
 		"fullCode":"520381202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝源乡",
 		"parentCode":"520381"
 	},
@@ -123,7 +123,7 @@
 		"code":"520381203",
 		"fullCode":"520381203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石堡乡",
 		"parentCode":"520381"
 	},
@@ -131,7 +131,7 @@
 		"code":"520381204",
 		"fullCode":"520381204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白云乡",
 		"parentCode":"520381"
 	}

@@ -3,7 +3,7 @@
 		"code":"150202001",
 		"fullCode":"150202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平路街道",
 		"parentCode":"150202"
 	},
@@ -11,7 +11,7 @@
 		"code":"150202002",
 		"fullCode":"150202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"财神庙街道",
 		"parentCode":"150202"
 	},
@@ -19,7 +19,7 @@
 		"code":"150202003",
 		"fullCode":"150202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西脑包街道",
 		"parentCode":"150202"
 	},
@@ -27,7 +27,7 @@
 		"code":"150202004",
 		"fullCode":"150202004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南门外街道",
 		"parentCode":"150202"
 	},
@@ -35,7 +35,7 @@
 		"code":"150202005",
 		"fullCode":"150202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南圪洞街道",
 		"parentCode":"150202"
 	},
@@ -43,7 +43,7 @@
 		"code":"150202006",
 		"fullCode":"150202006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东站街道",
 		"parentCode":"150202"
 	},
@@ -51,7 +51,7 @@
 		"code":"150202007",
 		"fullCode":"150202007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回民街道",
 		"parentCode":"150202"
 	},
@@ -59,7 +59,7 @@
 		"code":"150202008",
 		"fullCode":"150202008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天骄街道",
 		"parentCode":"150202"
 	},
@@ -67,7 +67,7 @@
 		"code":"150202009",
 		"fullCode":"150202009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东街道",
 		"parentCode":"150202"
 	},
@@ -75,7 +75,7 @@
 		"code":"150202010",
 		"fullCode":"150202010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西街道",
 		"parentCode":"150202"
 	},
@@ -83,7 +83,7 @@
 		"code":"150202011",
 		"fullCode":"150202011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴街道",
 		"parentCode":"150202"
 	},
@@ -91,7 +91,7 @@
 		"code":"150202012",
 		"fullCode":"150202012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨圪塄街道",
 		"parentCode":"150202"
 	},
@@ -99,7 +99,7 @@
 		"code":"150202100",
 		"fullCode":"150202100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东镇",
 		"parentCode":"150202"
 	},
@@ -107,7 +107,7 @@
 		"code":"150202101",
 		"fullCode":"150202101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙尔沁镇",
 		"parentCode":"150202"
 	},
@@ -115,7 +115,7 @@
 		"code":"150202400",
 		"fullCode":"150202400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铝业工业园区",
 		"parentCode":"150202"
 	}

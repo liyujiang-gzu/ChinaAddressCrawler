@@ -3,7 +3,7 @@
 		"code":"510411001",
 		"fullCode":"510411001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河中路街道",
 		"parentCode":"510411"
 	},
@@ -11,7 +11,7 @@
 		"code":"510411100",
 		"fullCode":"510411100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁和镇",
 		"parentCode":"510411"
 	},
@@ -19,7 +19,7 @@
 		"code":"510411101",
 		"fullCode":"510411101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平地镇",
 		"parentCode":"510411"
 	},
@@ -27,7 +27,7 @@
 		"code":"510411102",
 		"fullCode":"510411102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大田镇",
 		"parentCode":"510411"
 	},
@@ -35,7 +35,7 @@
 		"code":"510411103",
 		"fullCode":"510411103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福田镇",
 		"parentCode":"510411"
 	},
@@ -43,7 +43,7 @@
 		"code":"510411104",
 		"fullCode":"510411104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同德镇",
 		"parentCode":"510411"
 	},
@@ -51,7 +51,7 @@
 		"code":"510411105",
 		"fullCode":"510411105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金江镇",
 		"parentCode":"510411"
 	},
@@ -59,7 +59,7 @@
 		"code":"510411106",
 		"fullCode":"510411106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布德镇",
 		"parentCode":"510411"
 	},
@@ -67,7 +67,7 @@
 		"code":"510411107",
 		"fullCode":"510411107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进镇",
 		"parentCode":"510411"
 	},
@@ -75,7 +75,7 @@
 		"code":"510411200",
 		"fullCode":"510411200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大龙潭彝族乡",
 		"parentCode":"510411"
 	},
@@ -83,7 +83,7 @@
 		"code":"510411201",
 		"fullCode":"510411201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"啊喇彝族乡",
 		"parentCode":"510411"
 	},
@@ -91,7 +91,7 @@
 		"code":"510411203",
 		"fullCode":"510411203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平乡",
 		"parentCode":"510411"
 	},
@@ -99,7 +99,7 @@
 		"code":"510411204",
 		"fullCode":"510411204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"务本乡",
 		"parentCode":"510411"
 	},
@@ -107,7 +107,7 @@
 		"code":"510411205",
 		"fullCode":"510411205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中坝乡",
 		"parentCode":"510411"
 	}

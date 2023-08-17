@@ -3,7 +3,7 @@
 		"code":"653201",
 		"fullCode":"653201000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"和田市",
 		"parentCode":"6532"
 	},
@@ -11,7 +11,7 @@
 		"code":"653221",
 		"fullCode":"653221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"和田县",
 		"parentCode":"6532"
 	},
@@ -19,7 +19,7 @@
 		"code":"653222",
 		"fullCode":"653222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"墨玉县",
 		"parentCode":"6532"
 	},
@@ -27,7 +27,7 @@
 		"code":"653223",
 		"fullCode":"653223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"皮山县",
 		"parentCode":"6532"
 	},
@@ -35,7 +35,7 @@
 		"code":"653224",
 		"fullCode":"653224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"洛浦县",
 		"parentCode":"6532"
 	},
@@ -43,7 +43,7 @@
 		"code":"653225",
 		"fullCode":"653225000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"策勒县",
 		"parentCode":"6532"
 	},
@@ -51,7 +51,7 @@
 		"code":"653226",
 		"fullCode":"653226000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"于田县",
 		"parentCode":"6532"
 	},
@@ -59,7 +59,7 @@
 		"code":"653227",
 		"fullCode":"653227000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"民丰县",
 		"parentCode":"6532"
 	}

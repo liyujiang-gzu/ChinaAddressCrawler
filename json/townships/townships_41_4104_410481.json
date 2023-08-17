@@ -3,7 +3,7 @@
 		"code":"410481001",
 		"fullCode":"410481001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垭口街道",
 		"parentCode":"410481"
 	},
@@ -11,7 +11,7 @@
 		"code":"410481002",
 		"fullCode":"410481002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺坡街道",
 		"parentCode":"410481"
 	},
@@ -19,7 +19,7 @@
 		"code":"410481003",
 		"fullCode":"410481003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱兰街道",
 		"parentCode":"410481"
 	},
@@ -27,7 +27,7 @@
 		"code":"410481004",
 		"fullCode":"410481004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"院岭街道",
 		"parentCode":"410481"
 	},
@@ -35,7 +35,7 @@
 		"code":"410481005",
 		"fullCode":"410481005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿建街道",
 		"parentCode":"410481"
 	},
@@ -43,7 +43,7 @@
 		"code":"410481006",
 		"fullCode":"410481006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁山街道",
 		"parentCode":"410481"
 	},
@@ -51,7 +51,7 @@
 		"code":"410481007",
 		"fullCode":"410481007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红山街道",
 		"parentCode":"410481"
 	},
@@ -59,7 +59,7 @@
 		"code":"410481100",
 		"fullCode":"410481100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚店镇",
 		"parentCode":"410481"
 	},
@@ -67,7 +67,7 @@
 		"code":"410481101",
 		"fullCode":"410481101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八台镇",
 		"parentCode":"410481"
 	},
@@ -75,7 +75,7 @@
 		"code":"410481102",
 		"fullCode":"410481102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尹集镇",
 		"parentCode":"410481"
 	},
@@ -83,7 +83,7 @@
 		"code":"410481103",
 		"fullCode":"410481103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣林镇",
 		"parentCode":"410481"
 	},
@@ -91,7 +91,7 @@
 		"code":"410481202",
 		"fullCode":"410481202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙街乡",
 		"parentCode":"410481"
 	},
@@ -99,7 +99,7 @@
 		"code":"410481204",
 		"fullCode":"410481204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武功乡",
 		"parentCode":"410481"
 	},
@@ -107,7 +107,7 @@
 		"code":"410481205",
 		"fullCode":"410481205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨庄乡",
 		"parentCode":"410481"
 	}

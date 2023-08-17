@@ -3,7 +3,7 @@
 		"code":"320804001",
 		"fullCode":"320804001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长江路街道",
 		"parentCode":"320804"
 	},
@@ -11,7 +11,7 @@
 		"code":"320804002",
 		"fullCode":"320804002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家营街道",
 		"parentCode":"320804"
 	},
@@ -19,7 +19,7 @@
 		"code":"320804003",
 		"fullCode":"320804003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新渡口街道",
 		"parentCode":"320804"
 	},
@@ -27,7 +27,7 @@
 		"code":"320804004",
 		"fullCode":"320804004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古清口街道",
 		"parentCode":"320804"
 	},
@@ -35,7 +35,7 @@
 		"code":"320804103",
 		"fullCode":"320804103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南陈集镇",
 		"parentCode":"320804"
 	},
@@ -43,7 +43,7 @@
 		"code":"320804107",
 		"fullCode":"320804107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁集镇",
 		"parentCode":"320804"
 	},
@@ -51,7 +51,7 @@
 		"code":"320804109",
 		"fullCode":"320804109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐溜镇",
 		"parentCode":"320804"
 	},
@@ -59,7 +59,7 @@
 		"code":"320804110",
 		"fullCode":"320804110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔沟镇",
 		"parentCode":"320804"
 	},
@@ -67,7 +67,7 @@
 		"code":"320804113",
 		"fullCode":"320804113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三树镇",
 		"parentCode":"320804"
 	},
@@ -75,7 +75,7 @@
 		"code":"320804114",
 		"fullCode":"320804114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高家堰镇",
 		"parentCode":"320804"
 	},
@@ -83,7 +83,7 @@
 		"code":"320804115",
 		"fullCode":"320804115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马头镇",
 		"parentCode":"320804"
 	},
@@ -91,7 +91,7 @@
 		"code":"320804116",
 		"fullCode":"320804116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘老庄镇",
 		"parentCode":"320804"
 	},
@@ -99,7 +99,7 @@
 		"code":"320804117",
 		"fullCode":"320804117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淮高镇",
 		"parentCode":"320804"
 	},
@@ -107,7 +107,7 @@
 		"code":"320804400",
 		"fullCode":"320804400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淮安高新技术产业开发区",
 		"parentCode":"320804"
 	}

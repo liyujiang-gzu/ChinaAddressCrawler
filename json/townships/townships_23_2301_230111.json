@@ -3,7 +3,7 @@
 		"code":"230111001",
 		"fullCode":"230111001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼兰街道",
 		"parentCode":"230111"
 	},
@@ -11,7 +11,7 @@
 		"code":"230111002",
 		"fullCode":"230111002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰河街道",
 		"parentCode":"230111"
 	},
@@ -19,7 +19,7 @@
 		"code":"230111003",
 		"fullCode":"230111003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰堡街道",
 		"parentCode":"230111"
 	},
@@ -27,7 +27,7 @@
 		"code":"230111004",
 		"fullCode":"230111004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利民街道",
 		"parentCode":"230111"
 	},
@@ -35,7 +35,7 @@
 		"code":"230111005",
 		"fullCode":"230111005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康金街道",
 		"parentCode":"230111"
 	},
@@ -43,7 +43,7 @@
 		"code":"230111006",
 		"fullCode":"230111006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双井街道",
 		"parentCode":"230111"
 	},
@@ -51,7 +51,7 @@
 		"code":"230111007",
 		"fullCode":"230111007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设路街道",
 		"parentCode":"230111"
 	},
@@ -59,7 +59,7 @@
 		"code":"230111008",
 		"fullCode":"230111008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学院路街道",
 		"parentCode":"230111"
 	},
@@ -67,7 +67,7 @@
 		"code":"230111009",
 		"fullCode":"230111009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岭街道",
 		"parentCode":"230111"
 	},
@@ -75,7 +75,7 @@
 		"code":"230111010",
 		"fullCode":"230111010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈家街道",
 		"parentCode":"230111"
 	},
@@ -83,7 +83,7 @@
 		"code":"230111011",
 		"fullCode":"230111011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南京路街道",
 		"parentCode":"230111"
 	},
@@ -91,7 +91,7 @@
 		"code":"230111012",
 		"fullCode":"230111012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕民街道",
 		"parentCode":"230111"
 	},
@@ -99,7 +99,7 @@
 		"code":"230111013",
 		"fullCode":"230111013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕田街道",
 		"parentCode":"230111"
 	},
@@ -107,7 +107,7 @@
 		"code":"230111014",
 		"fullCode":"230111014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕强街道",
 		"parentCode":"230111"
 	},
@@ -115,7 +115,7 @@
 		"code":"230111015",
 		"fullCode":"230111015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萧乡街道",
 		"parentCode":"230111"
 	},
@@ -123,7 +123,7 @@
 		"code":"230111016",
 		"fullCode":"230111016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公园路街道",
 		"parentCode":"230111"
 	},
@@ -131,7 +131,7 @@
 		"code":"230111105",
 		"fullCode":"230111105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二八镇",
 		"parentCode":"230111"
 	},
@@ -139,7 +139,7 @@
 		"code":"230111106",
 		"fullCode":"230111106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石人镇",
 		"parentCode":"230111"
 	},
@@ -147,7 +147,7 @@
 		"code":"230111107",
 		"fullCode":"230111107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白奎镇",
 		"parentCode":"230111"
 	},
@@ -155,7 +155,7 @@
 		"code":"230111109",
 		"fullCode":"230111109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方台镇",
 		"parentCode":"230111"
 	},
@@ -163,7 +163,7 @@
 		"code":"230111110",
 		"fullCode":"230111110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花镇",
 		"parentCode":"230111"
 	},
@@ -171,7 +171,7 @@
 		"code":"230111111",
 		"fullCode":"230111111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大用镇",
 		"parentCode":"230111"
 	},
@@ -179,7 +179,7 @@
 		"code":"230111114",
 		"fullCode":"230111114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利业镇",
 		"parentCode":"230111"
 	},
@@ -187,7 +187,7 @@
 		"code":"230111201",
 		"fullCode":"230111201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨林乡",
 		"parentCode":"230111"
 	},
@@ -195,7 +195,7 @@
 		"code":"230111203",
 		"fullCode":"230111203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许堡乡",
 		"parentCode":"230111"
 	},
@@ -203,7 +203,7 @@
 		"code":"230111205",
 		"fullCode":"230111205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟家乡",
 		"parentCode":"230111"
 	},
@@ -211,7 +211,7 @@
 		"code":"230111579",
 		"fullCode":"230111579000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼兰农垦",
 		"parentCode":"230111"
 	}

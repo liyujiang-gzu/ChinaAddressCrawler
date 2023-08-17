@@ -3,7 +3,7 @@
 		"code":"320671001",
 		"fullCode":"320671001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中兴街道",
 		"parentCode":"320671"
 	},
@@ -11,7 +11,7 @@
 		"code":"320671002",
 		"fullCode":"320671002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新开街道",
 		"parentCode":"320671"
 	},
@@ -19,7 +19,7 @@
 		"code":"320671003",
 		"fullCode":"320671003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹行街道",
 		"parentCode":"320671"
 	},
@@ -27,7 +27,7 @@
 		"code":"320671004",
 		"fullCode":"320671004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小海街道",
 		"parentCode":"320671"
 	},
@@ -35,7 +35,7 @@
 		"code":"320671400",
 		"fullCode":"320671400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江海镇区",
 		"parentCode":"320671"
 	},
@@ -43,7 +43,7 @@
 		"code":"320671401",
 		"fullCode":"320671401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市经济技术开发区老洪港",
 		"parentCode":"320671"
 	},
@@ -51,7 +51,7 @@
 		"code":"320671403",
 		"fullCode":"320671403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通苏通科技产业园",
 		"parentCode":"320671"
 	}

@@ -3,7 +3,7 @@
 		"code":"350623100",
 		"fullCode":"350623100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥安镇",
 		"parentCode":"350623"
 	},
@@ -11,7 +11,7 @@
 		"code":"350623101",
 		"fullCode":"350623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧镇镇",
 		"parentCode":"350623"
 	},
@@ -19,7 +19,7 @@
 		"code":"350623102",
 		"fullCode":"350623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛昙镇",
 		"parentCode":"350623"
 	},
@@ -27,7 +27,7 @@
 		"code":"350623103",
 		"fullCode":"350623103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤湖镇",
 		"parentCode":"350623"
 	},
@@ -35,7 +35,7 @@
 		"code":"350623104",
 		"fullCode":"350623104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜浔镇",
 		"parentCode":"350623"
 	},
@@ -43,7 +43,7 @@
 		"code":"350623105",
 		"fullCode":"350623105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞美镇",
 		"parentCode":"350623"
 	},
@@ -51,7 +51,7 @@
 		"code":"350623106",
 		"fullCode":"350623106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官浔镇",
 		"parentCode":"350623"
 	},
@@ -59,7 +59,7 @@
 		"code":"350623107",
 		"fullCode":"350623107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石榴镇",
 		"parentCode":"350623"
 	},
@@ -67,7 +67,7 @@
 		"code":"350623108",
 		"fullCode":"350623108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘陀镇",
 		"parentCode":"350623"
 	},
@@ -75,7 +75,7 @@
 		"code":"350623109",
 		"fullCode":"350623109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长桥镇",
 		"parentCode":"350623"
 	},
@@ -83,7 +83,7 @@
 		"code":"350623110",
 		"fullCode":"350623110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前亭镇",
 		"parentCode":"350623"
 	},
@@ -91,7 +91,7 @@
 		"code":"350623111",
 		"fullCode":"350623111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坪镇",
 		"parentCode":"350623"
 	},
@@ -99,7 +99,7 @@
 		"code":"350623112",
 		"fullCode":"350623112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"深土镇",
 		"parentCode":"350623"
 	},
@@ -107,7 +107,7 @@
 		"code":"350623113",
 		"fullCode":"350623113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六鳌镇",
 		"parentCode":"350623"
 	},
@@ -115,7 +115,7 @@
 		"code":"350623114",
 		"fullCode":"350623114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙西镇",
 		"parentCode":"350623"
 	},
@@ -123,7 +123,7 @@
 		"code":"350623115",
 		"fullCode":"350623115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古雷镇",
 		"parentCode":"350623"
 	},
@@ -131,7 +131,7 @@
 		"code":"350623116",
 		"fullCode":"350623116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大南坂镇",
 		"parentCode":"350623"
 	},
@@ -139,7 +139,7 @@
 		"code":"350623200",
 		"fullCode":"350623200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南浦乡",
 		"parentCode":"350623"
 	},
@@ -147,7 +147,7 @@
 		"code":"350623201",
 		"fullCode":"350623201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤岭畲族乡",
 		"parentCode":"350623"
 	},
@@ -155,7 +155,7 @@
 		"code":"350623202",
 		"fullCode":"350623202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖西畲族乡",
 		"parentCode":"350623"
 	},
@@ -163,7 +163,7 @@
 		"code":"350623203",
 		"fullCode":"350623203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤土乡",
 		"parentCode":"350623"
 	},
@@ -171,7 +171,7 @@
 		"code":"350623400",
 		"fullCode":"350623400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漳浦盐场",
 		"parentCode":"350623"
 	},
@@ -179,7 +179,7 @@
 		"code":"350623405",
 		"fullCode":"350623405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山华侨茶果场",
 		"parentCode":"350623"
 	},
@@ -187,7 +187,7 @@
 		"code":"350623406",
 		"fullCode":"350623406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中西林场",
 		"parentCode":"350623"
 	},
@@ -195,7 +195,7 @@
 		"code":"350623408",
 		"fullCode":"350623408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下蔡林场",
 		"parentCode":"350623"
 	}

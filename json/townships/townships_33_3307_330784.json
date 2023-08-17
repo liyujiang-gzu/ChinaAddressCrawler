@@ -3,7 +3,7 @@
 		"code":"330784001",
 		"fullCode":"330784001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"330784"
 	},
@@ -11,7 +11,7 @@
 		"code":"330784002",
 		"fullCode":"330784002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"330784"
 	},
@@ -19,7 +19,7 @@
 		"code":"330784003",
 		"fullCode":"330784003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江南街道",
 		"parentCode":"330784"
 	},
@@ -27,7 +27,7 @@
 		"code":"330784105",
 		"fullCode":"330784105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石柱镇",
 		"parentCode":"330784"
 	},
@@ -35,7 +35,7 @@
 		"code":"330784106",
 		"fullCode":"330784106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前仓镇",
 		"parentCode":"330784"
 	},
@@ -43,7 +43,7 @@
 		"code":"330784107",
 		"fullCode":"330784107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舟山镇",
 		"parentCode":"330784"
 	},
@@ -51,7 +51,7 @@
 		"code":"330784108",
 		"fullCode":"330784108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古山镇",
 		"parentCode":"330784"
 	},
@@ -59,7 +59,7 @@
 		"code":"330784109",
 		"fullCode":"330784109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方岩镇",
 		"parentCode":"330784"
 	},
@@ -67,7 +67,7 @@
 		"code":"330784110",
 		"fullCode":"330784110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山镇",
 		"parentCode":"330784"
 	},
@@ -75,7 +75,7 @@
 		"code":"330784111",
 		"fullCode":"330784111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西溪镇",
 		"parentCode":"330784"
 	},
@@ -83,7 +83,7 @@
 		"code":"330784112",
 		"fullCode":"330784112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象珠镇",
 		"parentCode":"330784"
 	},
@@ -91,7 +91,7 @@
 		"code":"330784113",
 		"fullCode":"330784113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐先镇",
 		"parentCode":"330784"
 	},
@@ -99,7 +99,7 @@
 		"code":"330784114",
 		"fullCode":"330784114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花街镇",
 		"parentCode":"330784"
 	},
@@ -107,7 +107,7 @@
 		"code":"330784115",
 		"fullCode":"330784115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芝英镇",
 		"parentCode":"330784"
 	}

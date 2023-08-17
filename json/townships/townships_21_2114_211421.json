@@ -3,7 +3,7 @@
 		"code":"211421100",
 		"fullCode":"211421100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥中镇",
 		"parentCode":"211421"
 	},
@@ -11,7 +11,7 @@
 		"code":"211421101",
 		"fullCode":"211421101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西甸子镇",
 		"parentCode":"211421"
 	},
@@ -19,7 +19,7 @@
 		"code":"211421102",
 		"fullCode":"211421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宽邦镇",
 		"parentCode":"211421"
 	},
@@ -27,7 +27,7 @@
 		"code":"211421103",
 		"fullCode":"211421103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大王庙镇",
 		"parentCode":"211421"
 	},
@@ -35,7 +35,7 @@
 		"code":"211421104",
 		"fullCode":"211421104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万家镇",
 		"parentCode":"211421"
 	},
@@ -43,7 +43,7 @@
 		"code":"211421105",
 		"fullCode":"211421105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前所镇",
 		"parentCode":"211421"
 	},
@@ -51,7 +51,7 @@
 		"code":"211421106",
 		"fullCode":"211421106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高岭镇",
 		"parentCode":"211421"
 	},
@@ -59,7 +59,7 @@
 		"code":"211421107",
 		"fullCode":"211421107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前卫镇",
 		"parentCode":"211421"
 	},
@@ -67,7 +67,7 @@
 		"code":"211421108",
 		"fullCode":"211421108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荒地镇",
 		"parentCode":"211421"
 	},
@@ -75,7 +75,7 @@
 		"code":"211421109",
 		"fullCode":"211421109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔山屯镇",
 		"parentCode":"211421"
 	},
@@ -83,7 +83,7 @@
 		"code":"211421113",
 		"fullCode":"211421113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高台镇",
 		"parentCode":"211421"
 	},
@@ -91,7 +91,7 @@
 		"code":"211421114",
 		"fullCode":"211421114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王宝镇",
 		"parentCode":"211421"
 	},
@@ -99,7 +99,7 @@
 		"code":"211421115",
 		"fullCode":"211421115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河镇",
 		"parentCode":"211421"
 	},
@@ -107,7 +107,7 @@
 		"code":"211421116",
 		"fullCode":"211421116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小庄子镇",
 		"parentCode":"211421"
 	},
@@ -115,7 +115,7 @@
 		"code":"211421201",
 		"fullCode":"211421201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西平坡满族乡",
 		"parentCode":"211421"
 	},
@@ -123,7 +123,7 @@
 		"code":"211421202",
 		"fullCode":"211421202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛家满族乡",
 		"parentCode":"211421"
 	},
@@ -131,7 +131,7 @@
 		"code":"211421204",
 		"fullCode":"211421204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高甸子满族乡",
 		"parentCode":"211421"
 	},
@@ -139,7 +139,7 @@
 		"code":"211421206",
 		"fullCode":"211421206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范家满族乡",
 		"parentCode":"211421"
 	},
@@ -147,7 +147,7 @@
 		"code":"211421207",
 		"fullCode":"211421207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明水满族乡",
 		"parentCode":"211421"
 	},
@@ -155,7 +155,7 @@
 		"code":"211421208",
 		"fullCode":"211421208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秋子沟乡",
 		"parentCode":"211421"
 	},
@@ -163,7 +163,7 @@
 		"code":"211421210",
 		"fullCode":"211421210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加碑岩乡",
 		"parentCode":"211421"
 	},
@@ -171,7 +171,7 @@
 		"code":"211421211",
 		"fullCode":"211421211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安堡乡",
 		"parentCode":"211421"
 	},
@@ -179,7 +179,7 @@
 		"code":"211421212",
 		"fullCode":"211421212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家堡乡",
 		"parentCode":"211421"
 	},
@@ -187,7 +187,7 @@
 		"code":"211421214",
 		"fullCode":"211421214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"网户满族乡",
 		"parentCode":"211421"
 	},
@@ -195,7 +195,7 @@
 		"code":"211421217",
 		"fullCode":"211421217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊乡",
 		"parentCode":"211421"
 	},
@@ -203,7 +203,7 @@
 		"code":"211421400",
 		"fullCode":"211421400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大台山果树农场",
 		"parentCode":"211421"
 	},
@@ -211,7 +211,7 @@
 		"code":"211421401",
 		"fullCode":"211421401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前所果树农场",
 		"parentCode":"211421"
 	},
@@ -219,7 +219,7 @@
 		"code":"211421402",
 		"fullCode":"211421402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥中飞地经济区",
 		"parentCode":"211421"
 	}

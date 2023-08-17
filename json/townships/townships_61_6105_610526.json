@@ -3,7 +3,7 @@
 		"code":"610526001",
 		"fullCode":"610526001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奉先街道",
 		"parentCode":"610526"
 	},
@@ -11,7 +11,7 @@
 		"code":"610526002",
 		"fullCode":"610526002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫荆街道",
 		"parentCode":"610526"
 	},
@@ -19,7 +19,7 @@
 		"code":"610526101",
 		"fullCode":"610526101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罕井镇",
 		"parentCode":"610526"
 	},
@@ -27,7 +27,7 @@
 		"code":"610526102",
 		"fullCode":"610526102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙镇",
 		"parentCode":"610526"
 	},
@@ -35,7 +35,7 @@
 		"code":"610526103",
 		"fullCode":"610526103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴镇",
 		"parentCode":"610526"
 	},
@@ -43,7 +43,7 @@
 		"code":"610526104",
 		"fullCode":"610526104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"党睦镇",
 		"parentCode":"610526"
 	},
@@ -51,7 +51,7 @@
 		"code":"610526105",
 		"fullCode":"610526105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高阳镇",
 		"parentCode":"610526"
 	},
@@ -59,7 +59,7 @@
 		"code":"610526106",
 		"fullCode":"610526106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰镇",
 		"parentCode":"610526"
 	},
@@ -67,7 +67,7 @@
 		"code":"610526107",
 		"fullCode":"610526107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荆姚镇",
 		"parentCode":"610526"
 	},
@@ -75,7 +75,7 @@
 		"code":"610526108",
 		"fullCode":"610526108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏坊镇",
 		"parentCode":"610526"
 	},
@@ -83,7 +83,7 @@
 		"code":"610526109",
 		"fullCode":"610526109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙阳镇",
 		"parentCode":"610526"
 	},
@@ -91,7 +91,7 @@
 		"code":"610526112",
 		"fullCode":"610526112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛滨镇",
 		"parentCode":"610526"
 	},
@@ -99,7 +99,7 @@
 		"code":"610526113",
 		"fullCode":"610526113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈庄镇",
 		"parentCode":"610526"
 	},
@@ -107,7 +107,7 @@
 		"code":"610526114",
 		"fullCode":"610526114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥陵镇",
 		"parentCode":"610526"
 	},
@@ -115,7 +115,7 @@
 		"code":"610526116",
 		"fullCode":"610526116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尧山镇",
 		"parentCode":"610526"
 	},
@@ -123,7 +123,7 @@
 		"code":"610526117",
 		"fullCode":"610526117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"椿林镇",
 		"parentCode":"610526"
 	},
@@ -131,7 +131,7 @@
 		"code":"610526118",
 		"fullCode":"610526118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙池镇",
 		"parentCode":"610526"
 	}

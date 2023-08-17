@@ -3,7 +3,7 @@
 		"code":"410902",
 		"fullCode":"410902000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"华龙区",
 		"parentCode":"4109"
 	},
@@ -11,7 +11,7 @@
 		"code":"410922",
 		"fullCode":"410922000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"清丰县",
 		"parentCode":"4109"
 	},
@@ -19,7 +19,7 @@
 		"code":"410923",
 		"fullCode":"410923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南乐县",
 		"parentCode":"4109"
 	},
@@ -27,7 +27,7 @@
 		"code":"410926",
 		"fullCode":"410926000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"范县",
 		"parentCode":"4109"
 	},
@@ -35,7 +35,7 @@
 		"code":"410927",
 		"fullCode":"410927000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"台前县",
 		"parentCode":"4109"
 	},
@@ -43,7 +43,7 @@
 		"code":"410928",
 		"fullCode":"410928000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"濮阳县",
 		"parentCode":"4109"
 	},
@@ -51,7 +51,7 @@
 		"code":"410971",
 		"fullCode":"410971000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"河南濮阳工业园区",
 		"parentCode":"4109"
 	},
@@ -59,7 +59,7 @@
 		"code":"410972",
 		"fullCode":"410972000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"濮阳经济技术开发区",
 		"parentCode":"4109"
 	}

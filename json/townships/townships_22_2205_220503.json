@@ -3,7 +3,7 @@
 		"code":"220503001",
 		"fullCode":"220503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃园街道",
 		"parentCode":"220503"
 	},
@@ -11,7 +11,7 @@
 		"code":"220503002",
 		"fullCode":"220503002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东通化街道",
 		"parentCode":"220503"
 	},
@@ -19,7 +19,7 @@
 		"code":"220503100",
 		"fullCode":"220503100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸭园镇",
 		"parentCode":"220503"
 	},
@@ -27,7 +27,7 @@
 		"code":"220503101",
 		"fullCode":"220503101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁厂镇",
 		"parentCode":"220503"
 	},
@@ -35,7 +35,7 @@
 		"code":"220503102",
 		"fullCode":"220503102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五道江镇",
 		"parentCode":"220503"
 	},
@@ -43,7 +43,7 @@
 		"code":"220503200",
 		"fullCode":"220503200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二道江乡",
 		"parentCode":"220503"
 	}

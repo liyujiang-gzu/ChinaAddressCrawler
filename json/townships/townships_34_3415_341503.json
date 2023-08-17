@@ -3,7 +3,7 @@
 		"code":"341503001",
 		"fullCode":"341503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼓楼街道",
 		"parentCode":"341503"
 	},
@@ -11,7 +11,7 @@
 		"code":"341503002",
 		"fullCode":"341503002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西市街道",
 		"parentCode":"341503"
 	},
@@ -19,7 +19,7 @@
 		"code":"341503003",
 		"fullCode":"341503003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小华山街道",
 		"parentCode":"341503"
 	},
@@ -27,7 +27,7 @@
 		"code":"341503100",
 		"fullCode":"341503100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏埠镇",
 		"parentCode":"341503"
 	},
@@ -35,7 +35,7 @@
 		"code":"341503101",
 		"fullCode":"341503101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩摆渡镇",
 		"parentCode":"341503"
 	},
@@ -43,7 +43,7 @@
 		"code":"341503102",
 		"fullCode":"341503102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安镇",
 		"parentCode":"341503"
 	},
@@ -51,7 +51,7 @@
 		"code":"341503103",
 		"fullCode":"341503103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺河镇",
 		"parentCode":"341503"
 	},
@@ -59,7 +59,7 @@
 		"code":"341503104",
 		"fullCode":"341503104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"独山镇",
 		"parentCode":"341503"
 	},
@@ -67,7 +67,7 @@
 		"code":"341503105",
 		"fullCode":"341503105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石婆店镇",
 		"parentCode":"341503"
 	},
@@ -75,7 +75,7 @@
 		"code":"341503106",
 		"fullCode":"341503106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南镇",
 		"parentCode":"341503"
 	},
@@ -83,7 +83,7 @@
 		"code":"341503107",
 		"fullCode":"341503107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁集镇",
 		"parentCode":"341503"
 	},
@@ -91,7 +91,7 @@
 		"code":"341503108",
 		"fullCode":"341503108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固镇镇",
 		"parentCode":"341503"
 	},
@@ -99,7 +99,7 @@
 		"code":"341503109",
 		"fullCode":"341503109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐集镇",
 		"parentCode":"341503"
 	},
@@ -107,7 +107,7 @@
 		"code":"341503110",
 		"fullCode":"341503110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"分路口镇",
 		"parentCode":"341503"
 	},
@@ -115,7 +115,7 @@
 		"code":"341503111",
 		"fullCode":"341503111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江家店镇",
 		"parentCode":"341503"
 	},
@@ -123,7 +123,7 @@
 		"code":"341503200",
 		"fullCode":"341503200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"单王乡",
 		"parentCode":"341503"
 	},
@@ -131,7 +131,7 @@
 		"code":"341503201",
 		"fullCode":"341503201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山乡",
 		"parentCode":"341503"
 	},
@@ -139,7 +139,7 @@
 		"code":"341503202",
 		"fullCode":"341503202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石板冲乡",
 		"parentCode":"341503"
 	},
@@ -147,7 +147,7 @@
 		"code":"341503203",
 		"fullCode":"341503203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河口乡",
 		"parentCode":"341503"
 	},
@@ -155,7 +155,7 @@
 		"code":"341503204",
 		"fullCode":"341503204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平桥乡",
 		"parentCode":"341503"
 	},
@@ -163,7 +163,7 @@
 		"code":"341503205",
 		"fullCode":"341503205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗集乡",
 		"parentCode":"341503"
 	},
@@ -171,7 +171,7 @@
 		"code":"341503206",
 		"fullCode":"341503206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮子岗乡",
 		"parentCode":"341503"
 	},
@@ -179,7 +179,7 @@
 		"code":"341503400",
 		"fullCode":"341503400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六安市裕安区经济开发区",
 		"parentCode":"341503"
 	}

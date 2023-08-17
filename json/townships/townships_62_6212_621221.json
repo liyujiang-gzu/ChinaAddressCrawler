@@ -3,7 +3,7 @@
 		"code":"621221100",
 		"fullCode":"621221100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"621221"
 	},
@@ -11,7 +11,7 @@
 		"code":"621221101",
 		"fullCode":"621221101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄渚镇",
 		"parentCode":"621221"
 	},
@@ -19,7 +19,7 @@
 		"code":"621221102",
 		"fullCode":"621221102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红川镇",
 		"parentCode":"621221"
 	},
@@ -27,7 +27,7 @@
 		"code":"621221103",
 		"fullCode":"621221103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小川镇",
 		"parentCode":"621221"
 	},
@@ -35,7 +35,7 @@
 		"code":"621221104",
 		"fullCode":"621221104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纸坊镇",
 		"parentCode":"621221"
 	},
@@ -43,7 +43,7 @@
 		"code":"621221105",
 		"fullCode":"621221105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抛沙镇",
 		"parentCode":"621221"
 	},
@@ -51,7 +51,7 @@
 		"code":"621221107",
 		"fullCode":"621221107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店村镇",
 		"parentCode":"621221"
 	},
@@ -59,7 +59,7 @@
 		"code":"621221108",
 		"fullCode":"621221108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王磨镇",
 		"parentCode":"621221"
 	},
@@ -67,7 +67,7 @@
 		"code":"621221109",
 		"fullCode":"621221109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈院镇",
 		"parentCode":"621221"
 	},
@@ -75,7 +75,7 @@
 		"code":"621221110",
 		"fullCode":"621221110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坝镇",
 		"parentCode":"621221"
 	},
@@ -83,7 +83,7 @@
 		"code":"621221111",
 		"fullCode":"621221111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄陈镇",
 		"parentCode":"621221"
 	},
@@ -91,7 +91,7 @@
 		"code":"621221112",
 		"fullCode":"621221112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡峰镇",
 		"parentCode":"621221"
 	},
@@ -99,7 +99,7 @@
 		"code":"621221113",
 		"fullCode":"621221113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏元镇",
 		"parentCode":"621221"
 	},
@@ -107,7 +107,7 @@
 		"code":"621221114",
 		"fullCode":"621221114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"索池镇",
 		"parentCode":"621221"
 	},
@@ -115,7 +115,7 @@
 		"code":"621221203",
 		"fullCode":"621221203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋坪乡",
 		"parentCode":"621221"
 	},
@@ -123,7 +123,7 @@
 		"code":"621221206",
 		"fullCode":"621221206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二郎乡",
 		"parentCode":"621221"
 	},
@@ -131,7 +131,7 @@
 		"code":"621221213",
 		"fullCode":"621221213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镡河乡",
 		"parentCode":"621221"
 	}

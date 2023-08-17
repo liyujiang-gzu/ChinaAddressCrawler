@@ -3,7 +3,7 @@
 		"code":"511002001",
 		"fullCode":"511002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"511002"
 	},
@@ -11,7 +11,7 @@
 		"code":"511002003",
 		"fullCode":"511002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"511002"
 	},
@@ -19,7 +19,7 @@
 		"code":"511002004",
 		"fullCode":"511002004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉溪街道",
 		"parentCode":"511002"
 	},
@@ -27,7 +27,7 @@
 		"code":"511002005",
 		"fullCode":"511002005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牌楼街道",
 		"parentCode":"511002"
 	},
@@ -35,7 +35,7 @@
 		"code":"511002007",
 		"fullCode":"511002007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐贤街道",
 		"parentCode":"511002"
 	},
@@ -43,7 +43,7 @@
 		"code":"511002008",
 		"fullCode":"511002008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"壕子口街道",
 		"parentCode":"511002"
 	},
@@ -51,7 +51,7 @@
 		"code":"511002100",
 		"fullCode":"511002100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马镇",
 		"parentCode":"511002"
 	},
@@ -59,7 +59,7 @@
 		"code":"511002101",
 		"fullCode":"511002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"史家镇",
 		"parentCode":"511002"
 	},
@@ -67,7 +67,7 @@
 		"code":"511002102",
 		"fullCode":"511002102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凌家镇",
 		"parentCode":"511002"
 	},
@@ -75,7 +75,7 @@
 		"code":"511002103",
 		"fullCode":"511002103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳镇",
 		"parentCode":"511002"
 	},
@@ -83,7 +83,7 @@
 		"code":"511002104",
 		"fullCode":"511002104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安镇",
 		"parentCode":"511002"
 	},
@@ -91,7 +91,7 @@
 		"code":"511002105",
 		"fullCode":"511002105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"全安镇",
 		"parentCode":"511002"
 	},
@@ -99,7 +99,7 @@
 		"code":"511002111",
 		"fullCode":"511002111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门镇",
 		"parentCode":"511002"
 	},
@@ -107,7 +107,7 @@
 		"code":"511002112",
 		"fullCode":"511002112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"交通镇",
 		"parentCode":"511002"
 	},
@@ -115,7 +115,7 @@
 		"code":"511002113",
 		"fullCode":"511002113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖民镇",
 		"parentCode":"511002"
 	}

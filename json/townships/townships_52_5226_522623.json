@@ -3,7 +3,7 @@
 		"code":"522623100",
 		"fullCode":"522623100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"522623"
 	},
@@ -11,7 +11,7 @@
 		"code":"522623101",
 		"fullCode":"522623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨柳塘镇",
 		"parentCode":"522623"
 	},
@@ -19,7 +19,7 @@
 		"code":"522623102",
 		"fullCode":"522623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双井镇",
 		"parentCode":"522623"
 	},
@@ -27,7 +27,7 @@
 		"code":"522623103",
 		"fullCode":"522623103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛大场镇",
 		"parentCode":"522623"
 	},
@@ -35,7 +35,7 @@
 		"code":"522623104",
 		"fullCode":"522623104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马号镇",
 		"parentCode":"522623"
 	},
@@ -43,7 +43,7 @@
 		"code":"522623200",
 		"fullCode":"522623200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白垛乡",
 		"parentCode":"522623"
 	},
@@ -51,7 +51,7 @@
 		"code":"522623201",
 		"fullCode":"522623201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘溪乡",
 		"parentCode":"522623"
 	},
@@ -59,7 +59,7 @@
 		"code":"522623203",
 		"fullCode":"522623203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马溪乡",
 		"parentCode":"522623"
 	}

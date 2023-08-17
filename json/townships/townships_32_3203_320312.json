@@ -3,7 +3,7 @@
 		"code":"320312001",
 		"fullCode":"320312001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三河尖街道",
 		"parentCode":"320312"
 	},
@@ -11,7 +11,7 @@
 		"code":"320312002",
 		"fullCode":"320312002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张双楼街道",
 		"parentCode":"320312"
 	},
@@ -19,7 +19,7 @@
 		"code":"320312003",
 		"fullCode":"320312003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垞城街道",
 		"parentCode":"320312"
 	},
@@ -27,7 +27,7 @@
 		"code":"320312004",
 		"fullCode":"320312004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张集街道",
 		"parentCode":"320312"
 	},
@@ -35,7 +35,7 @@
 		"code":"320312006",
 		"fullCode":"320312006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利国街道",
 		"parentCode":"320312"
 	},
@@ -43,7 +43,7 @@
 		"code":"320312007",
 		"fullCode":"320312007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"电厂街道",
 		"parentCode":"320312"
 	},
@@ -51,7 +51,7 @@
 		"code":"320312009",
 		"fullCode":"320312009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜山街道",
 		"parentCode":"320312"
 	},
@@ -59,7 +59,7 @@
 		"code":"320312010",
 		"fullCode":"320312010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿湖街道",
 		"parentCode":"320312"
 	},
@@ -67,7 +67,7 @@
 		"code":"320312051",
 		"fullCode":"320312051000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新区街道",
 		"parentCode":"320312"
 	},
@@ -75,7 +75,7 @@
 		"code":"320312052",
 		"fullCode":"320312052000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三堡街道",
 		"parentCode":"320312"
 	},
@@ -83,7 +83,7 @@
 		"code":"320312102",
 		"fullCode":"320312102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何桥镇",
 		"parentCode":"320312"
 	},
@@ -91,7 +91,7 @@
 		"code":"320312103",
 		"fullCode":"320312103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄集镇",
 		"parentCode":"320312"
 	},
@@ -99,7 +99,7 @@
 		"code":"320312104",
 		"fullCode":"320312104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坡镇",
 		"parentCode":"320312"
 	},
@@ -107,7 +107,7 @@
 		"code":"320312105",
 		"fullCode":"320312105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑集镇",
 		"parentCode":"320312"
 	},
@@ -115,7 +115,7 @@
 		"code":"320312106",
 		"fullCode":"320312106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳新镇",
 		"parentCode":"320312"
 	},
@@ -123,7 +123,7 @@
 		"code":"320312107",
 		"fullCode":"320312107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘集镇",
 		"parentCode":"320312"
 	},
@@ -131,7 +131,7 @@
 		"code":"320312108",
 		"fullCode":"320312108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大彭镇",
 		"parentCode":"320312"
 	},
@@ -139,7 +139,7 @@
 		"code":"320312109",
 		"fullCode":"320312109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉王镇",
 		"parentCode":"320312"
 	},
@@ -147,7 +147,7 @@
 		"code":"320312111",
 		"fullCode":"320312111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棠张镇",
 		"parentCode":"320312"
 	},
@@ -155,7 +155,7 @@
 		"code":"320312112",
 		"fullCode":"320312112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张集镇",
 		"parentCode":"320312"
 	},
@@ -163,7 +163,7 @@
 		"code":"320312113",
 		"fullCode":"320312113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"房村镇",
 		"parentCode":"320312"
 	},
@@ -171,7 +171,7 @@
 		"code":"320312114",
 		"fullCode":"320312114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊庄镇",
 		"parentCode":"320312"
 	},
@@ -179,7 +179,7 @@
 		"code":"320312115",
 		"fullCode":"320312115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"单集镇",
 		"parentCode":"320312"
 	},
@@ -187,7 +187,7 @@
 		"code":"320312116",
 		"fullCode":"320312116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利国镇",
 		"parentCode":"320312"
 	},
@@ -195,7 +195,7 @@
 		"code":"320312118",
 		"fullCode":"320312118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大许镇",
 		"parentCode":"320312"
 	},
@@ -203,7 +203,7 @@
 		"code":"320312119",
 		"fullCode":"320312119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅村镇",
 		"parentCode":"320312"
 	},
@@ -211,7 +211,7 @@
 		"code":"320312120",
 		"fullCode":"320312120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳泉镇",
 		"parentCode":"320312"
 	},
@@ -219,7 +219,7 @@
 		"code":"320312402",
 		"fullCode":"320312402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐州高新技术产业开发区",
 		"parentCode":"320312"
 	},
@@ -227,7 +227,7 @@
 		"code":"320312403",
 		"fullCode":"320312403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江苏铜山经济开发区",
 		"parentCode":"320312"
 	}

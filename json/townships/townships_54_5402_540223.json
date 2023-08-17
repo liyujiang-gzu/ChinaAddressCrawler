@@ -3,7 +3,7 @@
 		"code":"540223100",
 		"fullCode":"540223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"协格尔镇",
 		"parentCode":"540223"
 	},
@@ -11,7 +11,7 @@
 		"code":"540223101",
 		"fullCode":"540223101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗嘎镇",
 		"parentCode":"540223"
 	},
@@ -19,7 +19,7 @@
 		"code":"540223200",
 		"fullCode":"540223200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎西宗乡",
 		"parentCode":"540223"
 	},
@@ -27,7 +27,7 @@
 		"code":"540223201",
 		"fullCode":"540223201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绒辖乡",
 		"parentCode":"540223"
 	},
@@ -35,7 +35,7 @@
 		"code":"540223202",
 		"fullCode":"540223202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲当乡",
 		"parentCode":"540223"
 	},
@@ -43,7 +43,7 @@
 		"code":"540223203",
 		"fullCode":"540223203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"措果乡",
 		"parentCode":"540223"
 	},
@@ -51,7 +51,7 @@
 		"code":"540223204",
 		"fullCode":"540223204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲洛乡",
 		"parentCode":"540223"
 	},
@@ -59,7 +59,7 @@
 		"code":"540223205",
 		"fullCode":"540223205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长所乡",
 		"parentCode":"540223"
 	},
@@ -67,7 +67,7 @@
 		"code":"540223206",
 		"fullCode":"540223206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼辖乡",
 		"parentCode":"540223"
 	},
@@ -75,7 +75,7 @@
 		"code":"540223207",
 		"fullCode":"540223207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎果乡",
 		"parentCode":"540223"
 	},
@@ -83,7 +83,7 @@
 		"code":"540223208",
 		"fullCode":"540223208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克玛乡",
 		"parentCode":"540223"
 	},
@@ -91,7 +91,7 @@
 		"code":"540223209",
 		"fullCode":"540223209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盆吉乡",
 		"parentCode":"540223"
 	},
@@ -99,7 +99,7 @@
 		"code":"540223210",
 		"fullCode":"540223210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加措乡",
 		"parentCode":"540223"
 	}

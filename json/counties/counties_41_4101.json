@@ -3,7 +3,7 @@
 		"code":"410102",
 		"fullCode":"410102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"中原区",
 		"parentCode":"4101"
 	},
@@ -11,7 +11,7 @@
 		"code":"410103",
 		"fullCode":"410103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"二七区",
 		"parentCode":"4101"
 	},
@@ -19,7 +19,7 @@
 		"code":"410104",
 		"fullCode":"410104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"管城回族区",
 		"parentCode":"4101"
 	},
@@ -27,7 +27,7 @@
 		"code":"410105",
 		"fullCode":"410105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金水区",
 		"parentCode":"4101"
 	},
@@ -35,7 +35,7 @@
 		"code":"410106",
 		"fullCode":"410106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"上街区",
 		"parentCode":"4101"
 	},
@@ -43,7 +43,7 @@
 		"code":"410108",
 		"fullCode":"410108000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"惠济区",
 		"parentCode":"4101"
 	},
@@ -51,7 +51,7 @@
 		"code":"410122",
 		"fullCode":"410122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"中牟县",
 		"parentCode":"4101"
 	},
@@ -59,7 +59,7 @@
 		"code":"410171",
 		"fullCode":"410171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郑州经济技术开发区",
 		"parentCode":"4101"
 	},
@@ -67,7 +67,7 @@
 		"code":"410172",
 		"fullCode":"410172000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郑州高新技术产业开发区",
 		"parentCode":"4101"
 	},
@@ -75,7 +75,7 @@
 		"code":"410173",
 		"fullCode":"410173000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郑州航空港经济综合实验区",
 		"parentCode":"4101"
 	},
@@ -83,7 +83,7 @@
 		"code":"410181",
 		"fullCode":"410181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巩义市",
 		"parentCode":"4101"
 	},
@@ -91,7 +91,7 @@
 		"code":"410182",
 		"fullCode":"410182000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"荥阳市",
 		"parentCode":"4101"
 	},
@@ -99,7 +99,7 @@
 		"code":"410183",
 		"fullCode":"410183000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新密市",
 		"parentCode":"4101"
 	},
@@ -107,7 +107,7 @@
 		"code":"410184",
 		"fullCode":"410184000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新郑市",
 		"parentCode":"4101"
 	},
@@ -115,7 +115,7 @@
 		"code":"410185",
 		"fullCode":"410185000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"登封市",
 		"parentCode":"4101"
 	}

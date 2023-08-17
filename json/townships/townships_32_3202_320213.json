@@ -3,7 +3,7 @@
 		"code":"320213021",
 		"fullCode":"320213021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇安寺街道",
 		"parentCode":"320213"
 	},
@@ -11,7 +11,7 @@
 		"code":"320213022",
 		"fullCode":"320213022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清名桥街道",
 		"parentCode":"320213"
 	},
@@ -19,7 +19,7 @@
 		"code":"320213023",
 		"fullCode":"320213023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠山街道",
 		"parentCode":"320213"
 	},
@@ -27,7 +27,7 @@
 		"code":"320213024",
 		"fullCode":"320213024000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北大街街道",
 		"parentCode":"320213"
 	},
@@ -35,7 +35,7 @@
 		"code":"320213025",
 		"fullCode":"320213025000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广益街道",
 		"parentCode":"320213"
 	},
@@ -43,7 +43,7 @@
 		"code":"320213026",
 		"fullCode":"320213026000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扬名街道",
 		"parentCode":"320213"
 	},
@@ -51,7 +51,7 @@
 		"code":"320213027",
 		"fullCode":"320213027000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山北街道",
 		"parentCode":"320213"
 	},
@@ -59,7 +59,7 @@
 		"code":"320213028",
 		"fullCode":"320213028000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄巷街道",
 		"parentCode":"320213"
 	},
@@ -67,7 +67,7 @@
 		"code":"320213029",
 		"fullCode":"320213029000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瞻江街道",
 		"parentCode":"320213"
 	}

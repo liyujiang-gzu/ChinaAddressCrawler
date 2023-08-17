@@ -3,7 +3,7 @@
 		"code":"150702001",
 		"fullCode":"150702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳街道",
 		"parentCode":"150702"
 	},
@@ -11,7 +11,7 @@
 		"code":"150702002",
 		"fullCode":"150702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"健康街道",
 		"parentCode":"150702"
 	},
@@ -19,7 +19,7 @@
 		"code":"150702003",
 		"fullCode":"150702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靠山街道",
 		"parentCode":"150702"
 	},
@@ -27,7 +27,7 @@
 		"code":"150702004",
 		"fullCode":"150702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利街道",
 		"parentCode":"150702"
 	},
@@ -35,7 +35,7 @@
 		"code":"150702005",
 		"fullCode":"150702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼伦街道",
 		"parentCode":"150702"
 	},
@@ -43,7 +43,7 @@
 		"code":"150702007",
 		"fullCode":"150702007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设街道",
 		"parentCode":"150702"
 	},
@@ -51,7 +51,7 @@
 		"code":"150702008",
 		"fullCode":"150702008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山街道",
 		"parentCode":"150702"
 	},
@@ -59,7 +59,7 @@
 		"code":"150702100",
 		"fullCode":"150702100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈克镇",
 		"parentCode":"150702"
 	},
@@ -67,7 +67,7 @@
 		"code":"150702101",
 		"fullCode":"150702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奋斗镇",
 		"parentCode":"150702"
 	}

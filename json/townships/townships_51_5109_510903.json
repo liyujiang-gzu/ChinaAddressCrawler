@@ -3,7 +3,7 @@
 		"code":"510903001",
 		"fullCode":"510903001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南津路街道",
 		"parentCode":"510903"
 	},
@@ -11,7 +11,7 @@
 		"code":"510903002",
 		"fullCode":"510903002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凯旋路街道",
 		"parentCode":"510903"
 	},
@@ -19,7 +19,7 @@
 		"code":"510903004",
 		"fullCode":"510903004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇江寺街道",
 		"parentCode":"510903"
 	},
@@ -27,7 +27,7 @@
 		"code":"510903005",
 		"fullCode":"510903005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"育才路街道",
 		"parentCode":"510903"
 	},
@@ -35,7 +35,7 @@
 		"code":"510903006",
 		"fullCode":"510903006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"介福路街道",
 		"parentCode":"510903"
 	},
@@ -43,7 +43,7 @@
 		"code":"510903007",
 		"fullCode":"510903007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉禾街道",
 		"parentCode":"510903"
 	},
@@ -51,7 +51,7 @@
 		"code":"510903008",
 		"fullCode":"510903008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广德街道",
 		"parentCode":"510903"
 	},
@@ -59,7 +59,7 @@
 		"code":"510903009",
 		"fullCode":"510903009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富源路街道",
 		"parentCode":"510903"
 	},
@@ -67,7 +67,7 @@
 		"code":"510903011",
 		"fullCode":"510903011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵泉街道",
 		"parentCode":"510903"
 	},
@@ -75,7 +75,7 @@
 		"code":"510903012",
 		"fullCode":"510903012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"慈音街道",
 		"parentCode":"510903"
 	},
@@ -83,7 +83,7 @@
 		"code":"510903013",
 		"fullCode":"510903013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九莲街道",
 		"parentCode":"510903"
 	},
@@ -91,7 +91,7 @@
 		"code":"510903014",
 		"fullCode":"510903014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南强街道",
 		"parentCode":"510903"
 	},
@@ -99,7 +99,7 @@
 		"code":"510903016",
 		"fullCode":"510903016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西宁街道",
 		"parentCode":"510903"
 	},
@@ -107,7 +107,7 @@
 		"code":"510903017",
 		"fullCode":"510903017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨渡街道",
 		"parentCode":"510903"
 	},
@@ -115,7 +115,7 @@
 		"code":"510903100",
 		"fullCode":"510903100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙凤镇",
 		"parentCode":"510903"
 	},
@@ -123,7 +123,7 @@
 		"code":"510903101",
 		"fullCode":"510903101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁里镇",
 		"parentCode":"510903"
 	},
@@ -131,7 +131,7 @@
 		"code":"510903103",
 		"fullCode":"510903103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴镇",
 		"parentCode":"510903"
 	},
@@ -139,7 +139,7 @@
 		"code":"510903104",
 		"fullCode":"510903104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河沙镇",
 		"parentCode":"510903"
 	},
@@ -147,7 +147,7 @@
 		"code":"510903105",
 		"fullCode":"510903105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥镇",
 		"parentCode":"510903"
 	},
@@ -155,7 +155,7 @@
 		"code":"510903106",
 		"fullCode":"510903106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂花镇",
 		"parentCode":"510903"
 	},
@@ -163,7 +163,7 @@
 		"code":"510903107",
 		"fullCode":"510903107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老池镇",
 		"parentCode":"510903"
 	},
@@ -171,7 +171,7 @@
 		"code":"510903108",
 		"fullCode":"510903108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保升镇",
 		"parentCode":"510903"
 	},
@@ -179,7 +179,7 @@
 		"code":"510903109",
 		"fullCode":"510903109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北固镇",
 		"parentCode":"510903"
 	},
@@ -187,7 +187,7 @@
 		"code":"510903203",
 		"fullCode":"510903203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐家乡",
 		"parentCode":"510903"
 	}

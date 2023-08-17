@@ -3,7 +3,7 @@
 		"code":"532601",
 		"fullCode":"532601000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"文山市",
 		"parentCode":"5326"
 	},
@@ -11,7 +11,7 @@
 		"code":"532622",
 		"fullCode":"532622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"砚山县",
 		"parentCode":"5326"
 	},
@@ -19,7 +19,7 @@
 		"code":"532623",
 		"fullCode":"532623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西畴县",
 		"parentCode":"5326"
 	},
@@ -27,7 +27,7 @@
 		"code":"532624",
 		"fullCode":"532624000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"麻栗坡县",
 		"parentCode":"5326"
 	},
@@ -35,7 +35,7 @@
 		"code":"532625",
 		"fullCode":"532625000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"马关县",
 		"parentCode":"5326"
 	},
@@ -43,7 +43,7 @@
 		"code":"532626",
 		"fullCode":"532626000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丘北县",
 		"parentCode":"5326"
 	},
@@ -51,7 +51,7 @@
 		"code":"532627",
 		"fullCode":"532627000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"广南县",
 		"parentCode":"5326"
 	},
@@ -59,7 +59,7 @@
 		"code":"532628",
 		"fullCode":"532628000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"富宁县",
 		"parentCode":"5326"
 	}

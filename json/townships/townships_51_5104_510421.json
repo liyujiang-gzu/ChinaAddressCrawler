@@ -3,7 +3,7 @@
 		"code":"510421100",
 		"fullCode":"510421100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"攀莲镇",
 		"parentCode":"510421"
 	},
@@ -11,7 +11,7 @@
 		"code":"510421101",
 		"fullCode":"510421101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丙谷镇",
 		"parentCode":"510421"
 	},
@@ -19,7 +19,7 @@
 		"code":"510421102",
 		"fullCode":"510421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"得石镇",
 		"parentCode":"510421"
 	},
@@ -27,7 +27,7 @@
 		"code":"510421103",
 		"fullCode":"510421103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"撒莲镇",
 		"parentCode":"510421"
 	},
@@ -35,7 +35,7 @@
 		"code":"510421105",
 		"fullCode":"510421105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马镇",
 		"parentCode":"510421"
 	},
@@ -43,7 +43,7 @@
 		"code":"510421106",
 		"fullCode":"510421106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普威镇",
 		"parentCode":"510421"
 	},
@@ -51,7 +51,7 @@
 		"code":"510421107",
 		"fullCode":"510421107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草场镇",
 		"parentCode":"510421"
 	},
@@ -59,7 +59,7 @@
 		"code":"510421201",
 		"fullCode":"510421201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾丘彝族乡",
 		"parentCode":"510421"
 	},
@@ -67,7 +67,7 @@
 		"code":"510421202",
 		"fullCode":"510421202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白坡彝族乡",
 		"parentCode":"510421"
 	},
@@ -75,7 +75,7 @@
 		"code":"510421203",
 		"fullCode":"510421203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻陇彝族乡",
 		"parentCode":"510421"
 	},
@@ -83,7 +83,7 @@
 		"code":"510421204",
 		"fullCode":"510421204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新山傈僳族乡",
 		"parentCode":"510421"
 	}

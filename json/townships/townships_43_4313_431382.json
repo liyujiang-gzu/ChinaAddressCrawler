@@ -3,7 +3,7 @@
 		"code":"431382001",
 		"fullCode":"431382001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝田街道",
 		"parentCode":"431382"
 	},
@@ -11,7 +11,7 @@
 		"code":"431382002",
 		"fullCode":"431382002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六亩塘街道",
 		"parentCode":"431382"
 	},
@@ -19,7 +19,7 @@
 		"code":"431382003",
 		"fullCode":"431382003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石马山街道",
 		"parentCode":"431382"
 	},
@@ -27,7 +27,7 @@
 		"code":"431382102",
 		"fullCode":"431382102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安平镇",
 		"parentCode":"431382"
 	},
@@ -35,7 +35,7 @@
 		"code":"431382103",
 		"fullCode":"431382103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湄江镇",
 		"parentCode":"431382"
 	},
@@ -43,7 +43,7 @@
 		"code":"431382104",
 		"fullCode":"431382104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伏口镇",
 		"parentCode":"431382"
 	},
@@ -51,7 +51,7 @@
 		"code":"431382105",
 		"fullCode":"431382105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头河镇",
 		"parentCode":"431382"
 	},
@@ -59,7 +59,7 @@
 		"code":"431382106",
 		"fullCode":"431382106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七星街镇",
 		"parentCode":"431382"
 	},
@@ -67,7 +67,7 @@
 		"code":"431382107",
 		"fullCode":"431382107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨市镇",
 		"parentCode":"431382"
 	},
@@ -75,7 +75,7 @@
 		"code":"431382108",
 		"fullCode":"431382108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫坪镇",
 		"parentCode":"431382"
 	},
@@ -83,7 +83,7 @@
 		"code":"431382109",
 		"fullCode":"431382109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斗笠山镇",
 		"parentCode":"431382"
 	},
@@ -91,7 +91,7 @@
 		"code":"431382111",
 		"fullCode":"431382111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马镇",
 		"parentCode":"431382"
 	},
@@ -99,7 +99,7 @@
 		"code":"431382112",
 		"fullCode":"431382112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅塘镇",
 		"parentCode":"431382"
 	},
@@ -107,7 +107,7 @@
 		"code":"431382113",
 		"fullCode":"431382113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷塘镇",
 		"parentCode":"431382"
 	},
@@ -115,7 +115,7 @@
 		"code":"431382114",
 		"fullCode":"431382114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金石镇",
 		"parentCode":"431382"
 	},
@@ -123,7 +123,7 @@
 		"code":"431382115",
 		"fullCode":"431382115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙塘镇",
 		"parentCode":"431382"
 	},
@@ -131,7 +131,7 @@
 		"code":"431382116",
 		"fullCode":"431382116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渡头塘镇",
 		"parentCode":"431382"
 	},
@@ -139,7 +139,7 @@
 		"code":"431382117",
 		"fullCode":"431382117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖泉镇",
 		"parentCode":"431382"
 	},
@@ -147,7 +147,7 @@
 		"code":"431382200",
 		"fullCode":"431382200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三甲乡",
 		"parentCode":"431382"
 	},
@@ -155,7 +155,7 @@
 		"code":"431382202",
 		"fullCode":"431382202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古塘乡",
 		"parentCode":"431382"
 	}

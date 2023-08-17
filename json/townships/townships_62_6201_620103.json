@@ -3,7 +3,7 @@
 		"code":"620103001",
 		"fullCode":"620103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西园街道",
 		"parentCode":"620103"
 	},
@@ -11,7 +11,7 @@
 		"code":"620103002",
 		"fullCode":"620103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖街道",
 		"parentCode":"620103"
 	},
@@ -19,7 +19,7 @@
 		"code":"620103003",
 		"fullCode":"620103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建兰路街道",
 		"parentCode":"620103"
 	},
@@ -27,7 +27,7 @@
 		"code":"620103004",
 		"fullCode":"620103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敦煌路街道",
 		"parentCode":"620103"
 	},
@@ -35,7 +35,7 @@
 		"code":"620103005",
 		"fullCode":"620103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西站街道",
 		"parentCode":"620103"
 	},
@@ -43,7 +43,7 @@
 		"code":"620103006",
 		"fullCode":"620103006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晏家坪街道",
 		"parentCode":"620103"
 	},
@@ -51,7 +51,7 @@
 		"code":"620103007",
 		"fullCode":"620103007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龚家湾街道",
 		"parentCode":"620103"
 	},
@@ -59,7 +59,7 @@
 		"code":"620103008",
 		"fullCode":"620103008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土门墩街道",
 		"parentCode":"620103"
 	},
@@ -67,7 +67,7 @@
 		"code":"620103009",
 		"fullCode":"620103009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀川街道",
 		"parentCode":"620103"
 	},
@@ -75,7 +75,7 @@
 		"code":"620103100",
 		"fullCode":"620103100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿干镇",
 		"parentCode":"620103"
 	},
@@ -83,7 +83,7 @@
 		"code":"620103101",
 		"fullCode":"620103101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里镇",
 		"parentCode":"620103"
 	},
@@ -91,7 +91,7 @@
 		"code":"620103102",
 		"fullCode":"620103102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭家坪镇",
 		"parentCode":"620103"
 	},
@@ -99,7 +99,7 @@
 		"code":"620103103",
 		"fullCode":"620103103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西果园镇",
 		"parentCode":"620103"
 	},
@@ -107,7 +107,7 @@
 		"code":"620103104",
 		"fullCode":"620103104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄峪镇",
 		"parentCode":"620103"
 	},
@@ -115,7 +115,7 @@
 		"code":"620103201",
 		"fullCode":"620103201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魏岭乡",
 		"parentCode":"620103"
 	}

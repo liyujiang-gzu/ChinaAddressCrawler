@@ -3,7 +3,7 @@
 		"code":"410704001",
 		"fullCode":"410704001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝西街道",
 		"parentCode":"410704"
 	},
@@ -11,7 +11,7 @@
 		"code":"410704002",
 		"fullCode":"410704002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝东街道",
 		"parentCode":"410704"
 	},
@@ -19,7 +19,7 @@
 		"code":"410704100",
 		"fullCode":"410704100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大块镇",
 		"parentCode":"410704"
 	},
@@ -27,7 +27,7 @@
 		"code":"410704101",
 		"fullCode":"410704101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"耿黄镇",
 		"parentCode":"410704"
 	},
@@ -35,7 +35,7 @@
 		"code":"410704200",
 		"fullCode":"410704200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潞王坟乡",
 		"parentCode":"410704"
 	}

@@ -3,7 +3,7 @@
 		"code":"330482001",
 		"fullCode":"330482001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"当湖街道",
 		"parentCode":"330482"
 	},
@@ -11,7 +11,7 @@
 		"code":"330482002",
 		"fullCode":"330482002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟埭街道",
 		"parentCode":"330482"
 	},
@@ -19,7 +19,7 @@
 		"code":"330482003",
 		"fullCode":"330482003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹桥街道",
 		"parentCode":"330482"
 	},
@@ -27,7 +27,7 @@
 		"code":"330482101",
 		"fullCode":"330482101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乍浦镇",
 		"parentCode":"330482"
 	},
@@ -35,7 +35,7 @@
 		"code":"330482102",
 		"fullCode":"330482102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新埭镇",
 		"parentCode":"330482"
 	},
@@ -43,7 +43,7 @@
 		"code":"330482103",
 		"fullCode":"330482103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新仓镇",
 		"parentCode":"330482"
 	},
@@ -51,7 +51,7 @@
 		"code":"330482106",
 		"fullCode":"330482106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广陈镇",
 		"parentCode":"330482"
 	},
@@ -59,7 +59,7 @@
 		"code":"330482107",
 		"fullCode":"330482107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林埭镇",
 		"parentCode":"330482"
 	},
@@ -67,7 +67,7 @@
 		"code":"330482108",
 		"fullCode":"330482108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"独山港镇",
 		"parentCode":"330482"
 	}

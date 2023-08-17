@@ -3,7 +3,7 @@
 		"code":"360825100",
 		"fullCode":"360825100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恩江镇",
 		"parentCode":"360825"
 	},
@@ -11,7 +11,7 @@
 		"code":"360825101",
 		"fullCode":"360825101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坑田镇",
 		"parentCode":"360825"
 	},
@@ -19,7 +19,7 @@
 		"code":"360825102",
 		"fullCode":"360825102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿陂镇",
 		"parentCode":"360825"
 	},
@@ -27,7 +27,7 @@
 		"code":"360825103",
 		"fullCode":"360825103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古县镇",
 		"parentCode":"360825"
 	},
@@ -35,7 +35,7 @@
 		"code":"360825104",
 		"fullCode":"360825104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑶田镇",
 		"parentCode":"360825"
 	},
@@ -43,7 +43,7 @@
 		"code":"360825105",
 		"fullCode":"360825105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"藤田镇",
 		"parentCode":"360825"
 	},
@@ -51,7 +51,7 @@
 		"code":"360825106",
 		"fullCode":"360825106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石马镇",
 		"parentCode":"360825"
 	},
@@ -59,7 +59,7 @@
 		"code":"360825107",
 		"fullCode":"360825107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙溪镇",
 		"parentCode":"360825"
 	},
@@ -67,7 +67,7 @@
 		"code":"360825200",
 		"fullCode":"360825200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佐龙乡",
 		"parentCode":"360825"
 	},
@@ -75,7 +75,7 @@
 		"code":"360825201",
 		"fullCode":"360825201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八江乡",
 		"parentCode":"360825"
 	},
@@ -83,7 +83,7 @@
 		"code":"360825202",
 		"fullCode":"360825202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭城乡",
 		"parentCode":"360825"
 	},
@@ -91,7 +91,7 @@
 		"code":"360825203",
 		"fullCode":"360825203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿冈乡",
 		"parentCode":"360825"
 	},
@@ -99,7 +99,7 @@
 		"code":"360825204",
 		"fullCode":"360825204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七都乡",
 		"parentCode":"360825"
 	},
@@ -107,7 +107,7 @@
 		"code":"360825205",
 		"fullCode":"360825205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶唐乡",
 		"parentCode":"360825"
 	},
@@ -115,7 +115,7 @@
 		"code":"360825206",
 		"fullCode":"360825206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中村乡",
 		"parentCode":"360825"
 	},
@@ -123,7 +123,7 @@
 		"code":"360825207",
 		"fullCode":"360825207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上溪乡",
 		"parentCode":"360825"
 	},
@@ -131,7 +131,7 @@
 		"code":"360825208",
 		"fullCode":"360825208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭头乡",
 		"parentCode":"360825"
 	},
@@ -139,7 +139,7 @@
 		"code":"360825209",
 		"fullCode":"360825209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三坊乡",
 		"parentCode":"360825"
 	},
@@ -147,7 +147,7 @@
 		"code":"360825210",
 		"fullCode":"360825210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上固乡",
 		"parentCode":"360825"
 	},
@@ -155,7 +155,7 @@
 		"code":"360825211",
 		"fullCode":"360825211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"君埠乡",
 		"parentCode":"360825"
 	},
@@ -163,7 +163,7 @@
 		"code":"360825212",
 		"fullCode":"360825212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙冈畲族乡",
 		"parentCode":"360825"
 	},
@@ -171,7 +171,7 @@
 		"code":"360825403",
 		"fullCode":"360825403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰县工业园区",
 		"parentCode":"360825"
 	},
@@ -179,7 +179,7 @@
 		"code":"360825501",
 		"fullCode":"360825501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗铺垦殖场",
 		"parentCode":"360825"
 	},
@@ -187,7 +187,7 @@
 		"code":"360825502",
 		"fullCode":"360825502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官山林场",
 		"parentCode":"360825"
 	}

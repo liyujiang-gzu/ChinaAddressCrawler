@@ -3,7 +3,7 @@
 		"code":"513328100",
 		"fullCode":"513328100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘孜镇",
 		"parentCode":"513328"
 	},
@@ -11,7 +11,7 @@
 		"code":"513328101",
 		"fullCode":"513328101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查龙镇",
 		"parentCode":"513328"
 	},
@@ -19,7 +19,7 @@
 		"code":"513328102",
 		"fullCode":"513328102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"来马镇",
 		"parentCode":"513328"
 	},
@@ -27,7 +27,7 @@
 		"code":"513328200",
 		"fullCode":"513328200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呷拉乡",
 		"parentCode":"513328"
 	},
@@ -35,7 +35,7 @@
 		"code":"513328201",
 		"fullCode":"513328201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"色西底乡",
 		"parentCode":"513328"
 	},
@@ -43,7 +43,7 @@
 		"code":"513328202",
 		"fullCode":"513328202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南多乡",
 		"parentCode":"513328"
 	},
@@ -51,7 +51,7 @@
 		"code":"513328203",
 		"fullCode":"513328203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"生康乡",
 		"parentCode":"513328"
 	},
@@ -59,7 +59,7 @@
 		"code":"513328204",
 		"fullCode":"513328204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贡隆乡",
 		"parentCode":"513328"
 	},
@@ -67,7 +67,7 @@
 		"code":"513328205",
 		"fullCode":"513328205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎科乡",
 		"parentCode":"513328"
 	},
@@ -75,7 +75,7 @@
 		"code":"513328207",
 		"fullCode":"513328207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昔色乡",
 		"parentCode":"513328"
 	},
@@ -83,7 +83,7 @@
 		"code":"513328208",
 		"fullCode":"513328208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡攻乡",
 		"parentCode":"513328"
 	},
@@ -91,7 +91,7 @@
 		"code":"513328209",
 		"fullCode":"513328209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁果乡",
 		"parentCode":"513328"
 	},
@@ -99,7 +99,7 @@
 		"code":"513328210",
 		"fullCode":"513328210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拖坝乡",
 		"parentCode":"513328"
 	},
@@ -107,7 +107,7 @@
 		"code":"513328212",
 		"fullCode":"513328212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庭卡乡",
 		"parentCode":"513328"
 	},
@@ -115,7 +115,7 @@
 		"code":"513328213",
 		"fullCode":"513328213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下雄乡",
 		"parentCode":"513328"
 	},
@@ -123,7 +123,7 @@
 		"code":"513328214",
 		"fullCode":"513328214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四通达乡",
 		"parentCode":"513328"
 	},
@@ -131,7 +131,7 @@
 		"code":"513328215",
 		"fullCode":"513328215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夺多乡",
 		"parentCode":"513328"
 	},
@@ -139,7 +139,7 @@
 		"code":"513328216",
 		"fullCode":"513328216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥柯乡",
 		"parentCode":"513328"
 	},
@@ -147,7 +147,7 @@
 		"code":"513328217",
 		"fullCode":"513328217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶扎乡",
 		"parentCode":"513328"
 	},
@@ -155,7 +155,7 @@
 		"code":"513328218",
 		"fullCode":"513328218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大德乡",
 		"parentCode":"513328"
 	},
@@ -163,7 +163,7 @@
 		"code":"513328219",
 		"fullCode":"513328219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡龙乡",
 		"parentCode":"513328"
 	}

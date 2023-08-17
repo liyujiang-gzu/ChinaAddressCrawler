@@ -3,7 +3,7 @@
 		"code":"370702001",
 		"fullCode":"370702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"370702"
 	},
@@ -11,7 +11,7 @@
 		"code":"370702002",
 		"fullCode":"370702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南关街道",
 		"parentCode":"370702"
 	},
@@ -19,7 +19,7 @@
 		"code":"370702003",
 		"fullCode":"370702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关街道",
 		"parentCode":"370702"
 	},
@@ -27,7 +27,7 @@
 		"code":"370702004",
 		"fullCode":"370702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北关街道",
 		"parentCode":"370702"
 	},
@@ -35,7 +35,7 @@
 		"code":"370702005",
 		"fullCode":"370702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"于河街道",
 		"parentCode":"370702"
 	},
@@ -43,7 +43,7 @@
 		"code":"370702006",
 		"fullCode":"370702006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望留街道",
 		"parentCode":"370702"
 	},
@@ -51,7 +51,7 @@
 		"code":"370702400",
 		"fullCode":"370702400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潍城经济开发区",
 		"parentCode":"370702"
 	}

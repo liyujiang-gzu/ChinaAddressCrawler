@@ -3,7 +3,7 @@
 		"code":"320214050",
 		"fullCode":"320214050000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旺庄街道",
 		"parentCode":"320214"
 	},
@@ -11,7 +11,7 @@
 		"code":"320214051",
 		"fullCode":"320214051000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"硕放街道",
 		"parentCode":"320214"
 	},
@@ -19,7 +19,7 @@
 		"code":"320214052",
 		"fullCode":"320214052000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江溪街道",
 		"parentCode":"320214"
 	},
@@ -27,7 +27,7 @@
 		"code":"320214053",
 		"fullCode":"320214053000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安街道",
 		"parentCode":"320214"
 	},
@@ -35,7 +35,7 @@
 		"code":"320214054",
 		"fullCode":"320214054000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅村街道",
 		"parentCode":"320214"
 	},
@@ -43,7 +43,7 @@
 		"code":"320214055",
 		"fullCode":"320214055000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸿山街道",
 		"parentCode":"320214"
 	},
@@ -51,7 +51,7 @@
 		"code":"320214450",
 		"fullCode":"320214450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无锡新加坡工业园",
 		"parentCode":"320214"
 	},
@@ -59,7 +59,7 @@
 		"code":"320214451",
 		"fullCode":"320214451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无锡高新技术产业开发区",
 		"parentCode":"320214"
 	},
@@ -67,7 +67,7 @@
 		"code":"320214452",
 		"fullCode":"320214452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无锡高新区综合保税区",
 		"parentCode":"320214"
 	},
@@ -75,7 +75,7 @@
 		"code":"320214453",
 		"fullCode":"320214453000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无锡太湖国际科技园",
 		"parentCode":"320214"
 	}

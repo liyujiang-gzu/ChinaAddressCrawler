@@ -3,7 +3,7 @@
 		"code":"610112001",
 		"fullCode":"610112001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家堡街道",
 		"parentCode":"610112"
 	},
@@ -11,7 +11,7 @@
 		"code":"610112002",
 		"fullCode":"610112002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三桥街道",
 		"parentCode":"610112"
 	},
@@ -19,7 +19,7 @@
 		"code":"610112003",
 		"fullCode":"610112003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛家庙街道",
 		"parentCode":"610112"
 	},
@@ -27,7 +27,7 @@
 		"code":"610112004",
 		"fullCode":"610112004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐家湾街道",
 		"parentCode":"610112"
 	},
@@ -35,7 +35,7 @@
 		"code":"610112005",
 		"fullCode":"610112005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大明宫街道",
 		"parentCode":"610112"
 	},
@@ -43,7 +43,7 @@
 		"code":"610112006",
 		"fullCode":"610112006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谭家街道",
 		"parentCode":"610112"
 	},
@@ -51,7 +51,7 @@
 		"code":"610112007",
 		"fullCode":"610112007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草滩街道",
 		"parentCode":"610112"
 	},
@@ -59,7 +59,7 @@
 		"code":"610112008",
 		"fullCode":"610112008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六村堡街道",
 		"parentCode":"610112"
 	},
@@ -67,7 +67,7 @@
 		"code":"610112009",
 		"fullCode":"610112009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"未央宫街道",
 		"parentCode":"610112"
 	},
@@ -75,7 +75,7 @@
 		"code":"610112010",
 		"fullCode":"610112010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉城街道",
 		"parentCode":"610112"
 	},
@@ -83,7 +83,7 @@
 		"code":"610112011",
 		"fullCode":"610112011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"未央湖街道",
 		"parentCode":"610112"
 	},
@@ -91,7 +91,7 @@
 		"code":"610112012",
 		"fullCode":"610112012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建章路街道",
 		"parentCode":"610112"
 	}

@@ -3,7 +3,7 @@
 		"code":"610104001",
 		"fullCode":"610104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青年路街道",
 		"parentCode":"610104"
 	},
@@ -11,7 +11,7 @@
 		"code":"610104002",
 		"fullCode":"610104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北院门街道",
 		"parentCode":"610104"
 	},
@@ -19,7 +19,7 @@
 		"code":"610104003",
 		"fullCode":"610104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北关街道",
 		"parentCode":"610104"
 	},
@@ -27,7 +27,7 @@
 		"code":"610104004",
 		"fullCode":"610104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红庙坡街道",
 		"parentCode":"610104"
 	},
@@ -35,7 +35,7 @@
 		"code":"610104005",
 		"fullCode":"610104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"环城西路街道",
 		"parentCode":"610104"
 	},
@@ -43,7 +43,7 @@
 		"code":"610104006",
 		"fullCode":"610104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关街道",
 		"parentCode":"610104"
 	},
@@ -51,7 +51,7 @@
 		"code":"610104007",
 		"fullCode":"610104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土门街道",
 		"parentCode":"610104"
 	},
@@ -59,7 +59,7 @@
 		"code":"610104008",
 		"fullCode":"610104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃园路街道",
 		"parentCode":"610104"
 	},
@@ -67,7 +67,7 @@
 		"code":"610104009",
 		"fullCode":"610104009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣园街道",
 		"parentCode":"610104"
 	}

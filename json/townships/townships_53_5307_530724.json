@@ -3,7 +3,7 @@
 		"code":"530724001",
 		"fullCode":"530724001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴街道",
 		"parentCode":"530724"
 	},
@@ -11,7 +11,7 @@
 		"code":"530724002",
 		"fullCode":"530724002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫玛街道",
 		"parentCode":"530724"
 	},
@@ -19,7 +19,7 @@
 		"code":"530724102",
 		"fullCode":"530724102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁镇",
 		"parentCode":"530724"
 	},
@@ -27,7 +27,7 @@
 		"code":"530724103",
 		"fullCode":"530724103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红桥镇",
 		"parentCode":"530724"
 	},
@@ -35,7 +35,7 @@
 		"code":"530724104",
 		"fullCode":"530724104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"战河镇",
 		"parentCode":"530724"
 	},
@@ -43,7 +43,7 @@
 		"code":"530724201",
 		"fullCode":"530724201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉伯乡",
 		"parentCode":"530724"
 	},
@@ -51,7 +51,7 @@
 		"code":"530724203",
 		"fullCode":"530724203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠玉傈僳族普米族乡",
 		"parentCode":"530724"
 	},
@@ -59,7 +59,7 @@
 		"code":"530724205",
 		"fullCode":"530724205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁利乡",
 		"parentCode":"530724"
 	},
@@ -67,7 +67,7 @@
 		"code":"530724206",
 		"fullCode":"530724206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金棉乡",
 		"parentCode":"530724"
 	},
@@ -75,7 +75,7 @@
 		"code":"530724207",
 		"fullCode":"530724207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西川乡",
 		"parentCode":"530724"
 	},
@@ -83,7 +83,7 @@
 		"code":"530724208",
 		"fullCode":"530724208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西布河乡",
 		"parentCode":"530724"
 	},
@@ -91,7 +91,7 @@
 		"code":"530724210",
 		"fullCode":"530724210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁坪乡",
 		"parentCode":"530724"
 	},
@@ -99,7 +99,7 @@
 		"code":"530724211",
 		"fullCode":"530724211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"跑马坪乡",
 		"parentCode":"530724"
 	},
@@ -107,7 +107,7 @@
 		"code":"530724212",
 		"fullCode":"530724212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蝉战河乡",
 		"parentCode":"530724"
 	},
@@ -115,7 +115,7 @@
 		"code":"530724213",
 		"fullCode":"530724213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新营盘乡",
 		"parentCode":"530724"
 	},
@@ -123,7 +123,7 @@
 		"code":"530724214",
 		"fullCode":"530724214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烂泥箐乡",
 		"parentCode":"530724"
 	}

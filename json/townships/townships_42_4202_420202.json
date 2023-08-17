@@ -3,7 +3,7 @@
 		"code":"420202005",
 		"fullCode":"420202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈家营街道",
 		"parentCode":"420202"
 	},
@@ -11,7 +11,7 @@
 		"code":"420202006",
 		"fullCode":"420202006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄石港街道",
 		"parentCode":"420202"
 	},
@@ -19,7 +19,7 @@
 		"code":"420202007",
 		"fullCode":"420202007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜阳港街道",
 		"parentCode":"420202"
 	},
@@ -27,7 +27,7 @@
 		"code":"420202070",
 		"fullCode":"420202070000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花湖街道",
 		"parentCode":"420202"
 	},
@@ -35,7 +35,7 @@
 		"code":"420202400",
 		"fullCode":"420202400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江北管理区",
 		"parentCode":"420202"
 	}

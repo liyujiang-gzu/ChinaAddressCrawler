@@ -3,7 +3,7 @@
 		"code":"330106002",
 		"fullCode":"330106002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北山街道",
 		"parentCode":"330106"
 	},
@@ -11,7 +11,7 @@
 		"code":"330106004",
 		"fullCode":"330106004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西溪街道",
 		"parentCode":"330106"
 	},
@@ -19,7 +19,7 @@
 		"code":"330106005",
 		"fullCode":"330106005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠苑街道",
 		"parentCode":"330106"
 	},
@@ -27,7 +27,7 @@
 		"code":"330106007",
 		"fullCode":"330106007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古荡街道",
 		"parentCode":"330106"
 	},
@@ -35,7 +35,7 @@
 		"code":"330106008",
 		"fullCode":"330106008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖街道",
 		"parentCode":"330106"
 	},
@@ -43,7 +43,7 @@
 		"code":"330106009",
 		"fullCode":"330106009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留下街道",
 		"parentCode":"330106"
 	},
@@ -51,7 +51,7 @@
 		"code":"330106010",
 		"fullCode":"330106010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"转塘街道",
 		"parentCode":"330106"
 	},
@@ -59,7 +59,7 @@
 		"code":"330106011",
 		"fullCode":"330106011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋村街道",
 		"parentCode":"330106"
 	},
@@ -67,7 +67,7 @@
 		"code":"330106012",
 		"fullCode":"330106012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵隐街道",
 		"parentCode":"330106"
 	},
@@ -75,7 +75,7 @@
 		"code":"330106013",
 		"fullCode":"330106013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文新街道",
 		"parentCode":"330106"
 	},
@@ -83,7 +83,7 @@
 		"code":"330106109",
 		"fullCode":"330106109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三墩镇",
 		"parentCode":"330106"
 	},
@@ -91,7 +91,7 @@
 		"code":"330106110",
 		"fullCode":"330106110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双浦镇",
 		"parentCode":"330106"
 	}

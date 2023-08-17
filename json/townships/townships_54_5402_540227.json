@@ -3,7 +3,7 @@
 		"code":"540227100",
 		"fullCode":"540227100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡嘎镇",
 		"parentCode":"540227"
 	},
@@ -11,7 +11,7 @@
 		"code":"540227200",
 		"fullCode":"540227200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达木夏乡",
 		"parentCode":"540227"
 	},
@@ -19,7 +19,7 @@
 		"code":"540227201",
 		"fullCode":"540227201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查布乡",
 		"parentCode":"540227"
 	},
@@ -27,7 +27,7 @@
 		"code":"540227202",
 		"fullCode":"540227202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春哲乡",
 		"parentCode":"540227"
 	},
@@ -35,7 +35,7 @@
 		"code":"540227203",
 		"fullCode":"540227203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"则许乡",
 		"parentCode":"540227"
 	},
@@ -43,7 +43,7 @@
 		"code":"540227204",
 		"fullCode":"540227204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"娘热乡",
 		"parentCode":"540227"
 	},
@@ -51,7 +51,7 @@
 		"code":"540227205",
 		"fullCode":"540227205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"措布西乡",
 		"parentCode":"540227"
 	},
@@ -59,7 +59,7 @@
 		"code":"540227206",
 		"fullCode":"540227206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳当乡",
 		"parentCode":"540227"
 	},
@@ -67,7 +67,7 @@
 		"code":"540227207",
 		"fullCode":"540227207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青都乡",
 		"parentCode":"540227"
 	},
@@ -75,7 +75,7 @@
 		"code":"540227208",
 		"fullCode":"540227208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"切琼乡",
 		"parentCode":"540227"
 	},
@@ -83,7 +83,7 @@
 		"code":"540227209",
 		"fullCode":"540227209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美巴切勤乡",
 		"parentCode":"540227"
 	},
@@ -91,7 +91,7 @@
 		"code":"540227210",
 		"fullCode":"540227210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"列巴乡",
 		"parentCode":"540227"
 	},
@@ -99,7 +99,7 @@
 		"code":"540227211",
 		"fullCode":"540227211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔丁乡",
 		"parentCode":"540227"
 	},
@@ -107,7 +107,7 @@
 		"code":"540227212",
 		"fullCode":"540227212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣玛乡",
 		"parentCode":"540227"
 	},
@@ -115,7 +115,7 @@
 		"code":"540227213",
 		"fullCode":"540227213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通门乡",
 		"parentCode":"540227"
 	},
@@ -123,7 +123,7 @@
 		"code":"540227214",
 		"fullCode":"540227214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达那普乡",
 		"parentCode":"540227"
 	},
@@ -131,7 +131,7 @@
 		"code":"540227215",
 		"fullCode":"540227215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达那答乡",
 		"parentCode":"540227"
 	},
@@ -139,7 +139,7 @@
 		"code":"540227216",
 		"fullCode":"540227216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南木切乡",
 		"parentCode":"540227"
 	},
@@ -147,7 +147,7 @@
 		"code":"540227217",
 		"fullCode":"540227217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁钦则乡",
 		"parentCode":"540227"
 	}

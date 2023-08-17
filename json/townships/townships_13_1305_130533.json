@@ -3,7 +3,7 @@
 		"code":"130533100",
 		"fullCode":"130533100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洺州镇",
 		"parentCode":"130533"
 	},
@@ -11,7 +11,7 @@
 		"code":"130533101",
 		"fullCode":"130533101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨园屯镇",
 		"parentCode":"130533"
 	},
@@ -19,7 +19,7 @@
 		"code":"130533102",
 		"fullCode":"130533102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章台镇",
 		"parentCode":"130533"
 	},
@@ -27,7 +27,7 @@
 		"code":"130533103",
 		"fullCode":"130533103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侯贯镇",
 		"parentCode":"130533"
 	},
@@ -35,7 +35,7 @@
 		"code":"130533104",
 		"fullCode":"130533104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七级镇",
 		"parentCode":"130533"
 	},
@@ -43,7 +43,7 @@
 		"code":"130533105",
 		"fullCode":"130533105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贺营镇",
 		"parentCode":"130533"
 	},
@@ -51,7 +51,7 @@
 		"code":"130533106",
 		"fullCode":"130533106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方家营镇",
 		"parentCode":"130533"
 	},
@@ -59,7 +59,7 @@
 		"code":"130533107",
 		"fullCode":"130533107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常庄镇",
 		"parentCode":"130533"
 	},
@@ -67,7 +67,7 @@
 		"code":"130533108",
 		"fullCode":"130533108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第什营镇",
 		"parentCode":"130533"
 	},
@@ -75,7 +75,7 @@
 		"code":"130533109",
 		"fullCode":"130533109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贺钊镇",
 		"parentCode":"130533"
 	},
@@ -83,7 +83,7 @@
 		"code":"130533110",
 		"fullCode":"130533110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵村镇",
 		"parentCode":"130533"
 	},
@@ -91,7 +91,7 @@
 		"code":"130533111",
 		"fullCode":"130533111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固献镇",
 		"parentCode":"130533"
 	},
@@ -99,7 +99,7 @@
 		"code":"130533202",
 		"fullCode":"130533202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣园乡",
 		"parentCode":"130533"
 	},
@@ -107,7 +107,7 @@
 		"code":"130533206",
 		"fullCode":"130533206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家营乡",
 		"parentCode":"130533"
 	},
@@ -115,7 +115,7 @@
 		"code":"130533207",
 		"fullCode":"130533207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常屯乡",
 		"parentCode":"130533"
 	},
@@ -123,7 +123,7 @@
 		"code":"130533209",
 		"fullCode":"130533209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高公庄乡",
 		"parentCode":"130533"
 	}

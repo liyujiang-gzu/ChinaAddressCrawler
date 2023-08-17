@@ -3,7 +3,7 @@
 		"code":"441704100",
 		"fullCode":"441704100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城镇",
 		"parentCode":"441704"
 	},
@@ -11,7 +11,7 @@
 		"code":"441704101",
 		"fullCode":"441704101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北惯镇",
 		"parentCode":"441704"
 	},
@@ -19,7 +19,7 @@
 		"code":"441704102",
 		"fullCode":"441704102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那龙镇",
 		"parentCode":"441704"
 	},
@@ -27,7 +27,7 @@
 		"code":"441704103",
 		"fullCode":"441704103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东平镇",
 		"parentCode":"441704"
 	},
@@ -35,7 +35,7 @@
 		"code":"441704104",
 		"fullCode":"441704104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅韶镇",
 		"parentCode":"441704"
 	},
@@ -43,7 +43,7 @@
 		"code":"441704105",
 		"fullCode":"441704105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大沟镇",
 		"parentCode":"441704"
 	},
@@ -51,7 +51,7 @@
 		"code":"441704106",
 		"fullCode":"441704106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新洲镇",
 		"parentCode":"441704"
 	},
@@ -59,7 +59,7 @@
 		"code":"441704107",
 		"fullCode":"441704107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合山镇",
 		"parentCode":"441704"
 	},
@@ -67,7 +67,7 @@
 		"code":"441704108",
 		"fullCode":"441704108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘坪镇",
 		"parentCode":"441704"
 	},
@@ -75,7 +75,7 @@
 		"code":"441704109",
 		"fullCode":"441704109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大八镇",
 		"parentCode":"441704"
 	},
@@ -83,7 +83,7 @@
 		"code":"441704110",
 		"fullCode":"441704110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红丰镇",
 		"parentCode":"441704"
 	},
@@ -91,7 +91,7 @@
 		"code":"441704400",
 		"fullCode":"441704400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳江监狱",
 		"parentCode":"441704"
 	},
@@ -99,7 +99,7 @@
 		"code":"441704501",
 		"fullCode":"441704501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳江林场宝山分场",
 		"parentCode":"441704"
 	},
@@ -107,7 +107,7 @@
 		"code":"441704502",
 		"fullCode":"441704502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳江林场田畔分场",
 		"parentCode":"441704"
 	},
@@ -115,7 +115,7 @@
 		"code":"441704503",
 		"fullCode":"441704503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳东原种场",
 		"parentCode":"441704"
 	},
@@ -123,7 +123,7 @@
 		"code":"441704504",
 		"fullCode":"441704504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳东林场",
 		"parentCode":"441704"
 	},
@@ -131,7 +131,7 @@
 		"code":"441704505",
 		"fullCode":"441704505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳江林场东岸分场",
 		"parentCode":"441704"
 	}

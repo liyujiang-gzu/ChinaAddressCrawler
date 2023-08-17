@@ -3,7 +3,7 @@
 		"code":"441223001",
 		"fullCode":"441223001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南街街道",
 		"parentCode":"441223"
 	},
@@ -11,7 +11,7 @@
 		"code":"441223100",
 		"fullCode":"441223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"排沙镇",
 		"parentCode":"441223"
 	},
@@ -19,7 +19,7 @@
 		"code":"441223102",
 		"fullCode":"441223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭布镇",
 		"parentCode":"441223"
 	},
@@ -27,7 +27,7 @@
 		"code":"441223103",
 		"fullCode":"441223103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江屯镇",
 		"parentCode":"441223"
 	},
@@ -35,7 +35,7 @@
 		"code":"441223105",
 		"fullCode":"441223105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"螺岗镇",
 		"parentCode":"441223"
 	},
@@ -43,7 +43,7 @@
 		"code":"441223106",
 		"fullCode":"441223106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北市镇",
 		"parentCode":"441223"
 	},
@@ -51,7 +51,7 @@
 		"code":"441223107",
 		"fullCode":"441223107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坑口镇",
 		"parentCode":"441223"
 	},
@@ -59,7 +59,7 @@
 		"code":"441223108",
 		"fullCode":"441223108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤坑镇",
 		"parentCode":"441223"
 	},
@@ -67,7 +67,7 @@
 		"code":"441223110",
 		"fullCode":"441223110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宾亨镇",
 		"parentCode":"441223"
 	},
@@ -75,7 +75,7 @@
 		"code":"441223111",
 		"fullCode":"441223111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五和镇",
 		"parentCode":"441223"
 	},
@@ -83,7 +83,7 @@
 		"code":"441223112",
 		"fullCode":"441223112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横山镇",
 		"parentCode":"441223"
 	},
@@ -91,7 +91,7 @@
 		"code":"441223113",
 		"fullCode":"441223113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木格镇",
 		"parentCode":"441223"
 	},
@@ -99,7 +99,7 @@
 		"code":"441223114",
 		"fullCode":"441223114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石咀镇",
 		"parentCode":"441223"
 	},
@@ -107,7 +107,7 @@
 		"code":"441223115",
 		"fullCode":"441223115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古水镇",
 		"parentCode":"441223"
 	},
@@ -115,7 +115,7 @@
 		"code":"441223116",
 		"fullCode":"441223116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洲仔镇",
 		"parentCode":"441223"
 	}

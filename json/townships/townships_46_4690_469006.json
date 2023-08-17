@@ -3,7 +3,7 @@
 		"code":"469006100",
 		"fullCode":"469006100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万城镇",
 		"parentCode":"469006"
 	},
@@ -11,7 +11,7 @@
 		"code":"469006101",
 		"fullCode":"469006101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙滚镇",
 		"parentCode":"469006"
 	},
@@ -19,7 +19,7 @@
 		"code":"469006102",
 		"fullCode":"469006102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和乐镇",
 		"parentCode":"469006"
 	},
@@ -27,7 +27,7 @@
 		"code":"469006103",
 		"fullCode":"469006103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后安镇",
 		"parentCode":"469006"
 	},
@@ -35,7 +35,7 @@
 		"code":"469006104",
 		"fullCode":"469006104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大茂镇",
 		"parentCode":"469006"
 	},
@@ -43,7 +43,7 @@
 		"code":"469006105",
 		"fullCode":"469006105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东澳镇",
 		"parentCode":"469006"
 	},
@@ -51,7 +51,7 @@
 		"code":"469006106",
 		"fullCode":"469006106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"礼纪镇",
 		"parentCode":"469006"
 	},
@@ -59,7 +59,7 @@
 		"code":"469006107",
 		"fullCode":"469006107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长丰镇",
 		"parentCode":"469006"
 	},
@@ -67,7 +67,7 @@
 		"code":"469006108",
 		"fullCode":"469006108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山根镇",
 		"parentCode":"469006"
 	},
@@ -75,7 +75,7 @@
 		"code":"469006109",
 		"fullCode":"469006109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北大镇",
 		"parentCode":"469006"
 	},
@@ -83,7 +83,7 @@
 		"code":"469006110",
 		"fullCode":"469006110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南桥镇",
 		"parentCode":"469006"
 	},
@@ -91,7 +91,7 @@
 		"code":"469006111",
 		"fullCode":"469006111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三更罗镇",
 		"parentCode":"469006"
 	},
@@ -99,7 +99,7 @@
 		"code":"469006500",
 		"fullCode":"469006500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆华侨农场",
 		"parentCode":"469006"
 	},
@@ -107,7 +107,7 @@
 		"code":"469006501",
 		"fullCode":"469006501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地方国营六连林场",
 		"parentCode":"469006"
 	}

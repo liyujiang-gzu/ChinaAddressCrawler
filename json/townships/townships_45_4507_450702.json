@@ -3,7 +3,7 @@
 		"code":"450702001",
 		"fullCode":"450702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳街道",
 		"parentCode":"450702"
 	},
@@ -11,7 +11,7 @@
 		"code":"450702002",
 		"fullCode":"450702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水东街道",
 		"parentCode":"450702"
 	},
@@ -19,7 +19,7 @@
 		"code":"450702003",
 		"fullCode":"450702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰街道",
 		"parentCode":"450702"
 	},
@@ -27,7 +27,7 @@
 		"code":"450702004",
 		"fullCode":"450702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南珠街道",
 		"parentCode":"450702"
 	},
@@ -35,7 +35,7 @@
 		"code":"450702005",
 		"fullCode":"450702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尖山街道",
 		"parentCode":"450702"
 	},
@@ -43,7 +43,7 @@
 		"code":"450702100",
 		"fullCode":"450702100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙埠镇",
 		"parentCode":"450702"
 	},
@@ -51,7 +51,7 @@
 		"code":"450702101",
 		"fullCode":"450702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康熙岭镇",
 		"parentCode":"450702"
 	},
@@ -59,7 +59,7 @@
 		"code":"450702102",
 		"fullCode":"450702102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄屋屯镇",
 		"parentCode":"450702"
 	},
@@ -67,7 +67,7 @@
 		"code":"450702104",
 		"fullCode":"450702104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大番坡镇",
 		"parentCode":"450702"
 	},
@@ -75,7 +75,7 @@
 		"code":"450702105",
 		"fullCode":"450702105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门港镇",
 		"parentCode":"450702"
 	},
@@ -83,7 +83,7 @@
 		"code":"450702107",
 		"fullCode":"450702107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"久隆镇",
 		"parentCode":"450702"
 	},
@@ -91,7 +91,7 @@
 		"code":"450702108",
 		"fullCode":"450702108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东场镇",
 		"parentCode":"450702"
 	},
@@ -99,7 +99,7 @@
 		"code":"450702109",
 		"fullCode":"450702109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那丽镇",
 		"parentCode":"450702"
 	},
@@ -107,7 +107,7 @@
 		"code":"450702110",
 		"fullCode":"450702110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那彭镇",
 		"parentCode":"450702"
 	},
@@ -115,7 +115,7 @@
 		"code":"450702111",
 		"fullCode":"450702111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那思镇",
 		"parentCode":"450702"
 	},
@@ -123,7 +123,7 @@
 		"code":"450702112",
 		"fullCode":"450702112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"犀牛脚镇",
 		"parentCode":"450702"
 	},
@@ -131,7 +131,7 @@
 		"code":"450702400",
 		"fullCode":"450702400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丽光华侨农场",
 		"parentCode":"450702"
 	},
@@ -139,7 +139,7 @@
 		"code":"450702401",
 		"fullCode":"450702401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钦州港经济技术开发区",
 		"parentCode":"450702"
 	},
@@ -147,7 +147,7 @@
 		"code":"450702402",
 		"fullCode":"450702402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三娘湾旅游管理区",
 		"parentCode":"450702"
 	},
@@ -155,7 +155,7 @@
 		"code":"450702403",
 		"fullCode":"450702403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广西钦州保税港区",
 		"parentCode":"450702"
 	},
@@ -163,7 +163,7 @@
 		"code":"450702404",
 		"fullCode":"450702404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中马钦州产业园区",
 		"parentCode":"450702"
 	}

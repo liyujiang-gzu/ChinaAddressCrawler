@@ -3,7 +3,7 @@
 		"code":"620105001",
 		"fullCode":"620105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"培黎街道",
 		"parentCode":"620105"
 	},
@@ -11,7 +11,7 @@
 		"code":"620105002",
 		"fullCode":"620105002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西路街道",
 		"parentCode":"620105"
 	},
@@ -19,7 +19,7 @@
 		"code":"620105003",
 		"fullCode":"620105003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙井驿街道",
 		"parentCode":"620105"
 	},
@@ -27,7 +27,7 @@
 		"code":"620105004",
 		"fullCode":"620105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里店街道",
 		"parentCode":"620105"
 	},
@@ -35,7 +35,7 @@
 		"code":"620105005",
 		"fullCode":"620105005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔家崖街道",
 		"parentCode":"620105"
 	},
@@ -43,7 +43,7 @@
 		"code":"620105006",
 		"fullCode":"620105006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银滩路街道",
 		"parentCode":"620105"
 	},
@@ -51,7 +51,7 @@
 		"code":"620105007",
 		"fullCode":"620105007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘家堡街道",
 		"parentCode":"620105"
 	},
@@ -59,7 +59,7 @@
 		"code":"620105008",
 		"fullCode":"620105008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安宁堡街道",
 		"parentCode":"620105"
 	},
@@ -67,7 +67,7 @@
 		"code":"620105100",
 		"fullCode":"620105100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忠和镇",
 		"parentCode":"620105"
 	},
@@ -75,7 +75,7 @@
 		"code":"620105101",
 		"fullCode":"620105101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九合镇",
 		"parentCode":"620105"
 	}

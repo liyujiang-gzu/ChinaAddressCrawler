@@ -3,7 +3,7 @@
 		"code":"511902001",
 		"fullCode":"511902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"511902"
 	},
@@ -11,7 +11,7 @@
 		"code":"511902002",
 		"fullCode":"511902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"511902"
 	},
@@ -19,7 +19,7 @@
 		"code":"511902003",
 		"fullCode":"511902003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回风街道",
 		"parentCode":"511902"
 	},
@@ -27,7 +27,7 @@
 		"code":"511902004",
 		"fullCode":"511902004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江北街道",
 		"parentCode":"511902"
 	},
@@ -35,7 +35,7 @@
 		"code":"511902005",
 		"fullCode":"511902005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宕梁街道",
 		"parentCode":"511902"
 	},
@@ -43,7 +43,7 @@
 		"code":"511902006",
 		"fullCode":"511902006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉堂街道",
 		"parentCode":"511902"
 	},
@@ -51,7 +51,7 @@
 		"code":"511902007",
 		"fullCode":"511902007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴文街道",
 		"parentCode":"511902"
 	},
@@ -59,7 +59,7 @@
 		"code":"511902008",
 		"fullCode":"511902008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奇章街道",
 		"parentCode":"511902"
 	},
@@ -67,7 +67,7 @@
 		"code":"511902009",
 		"fullCode":"511902009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"时新街道",
 		"parentCode":"511902"
 	},
@@ -75,7 +75,7 @@
 		"code":"511902100",
 		"fullCode":"511902100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大茅坪镇",
 		"parentCode":"511902"
 	},
@@ -83,7 +83,7 @@
 		"code":"511902101",
 		"fullCode":"511902101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清江镇",
 		"parentCode":"511902"
 	},
@@ -91,7 +91,7 @@
 		"code":"511902103",
 		"fullCode":"511902103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水宁寺镇",
 		"parentCode":"511902"
 	},
@@ -99,7 +99,7 @@
 		"code":"511902104",
 		"fullCode":"511902104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化成镇",
 		"parentCode":"511902"
 	},
@@ -107,7 +107,7 @@
 		"code":"511902105",
 		"fullCode":"511902105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曾口镇",
 		"parentCode":"511902"
 	},
@@ -115,7 +115,7 @@
 		"code":"511902106",
 		"fullCode":"511902106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁永镇",
 		"parentCode":"511902"
 	},
@@ -123,7 +123,7 @@
 		"code":"511902107",
 		"fullCode":"511902107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三江镇",
 		"parentCode":"511902"
 	},
@@ -131,7 +131,7 @@
 		"code":"511902108",
 		"fullCode":"511902108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼎山镇",
 		"parentCode":"511902"
 	},
@@ -139,7 +139,7 @@
 		"code":"511902109",
 		"fullCode":"511902109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大罗镇",
 		"parentCode":"511902"
 	},
@@ -147,7 +147,7 @@
 		"code":"511902122",
 		"fullCode":"511902122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣林镇",
 		"parentCode":"511902"
 	},
@@ -155,7 +155,7 @@
 		"code":"511902123",
 		"fullCode":"511902123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平梁镇",
 		"parentCode":"511902"
 	},
@@ -163,7 +163,7 @@
 		"code":"511902124",
 		"fullCode":"511902124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光辉镇",
 		"parentCode":"511902"
 	},
@@ -171,7 +171,7 @@
 		"code":"511902127",
 		"fullCode":"511902127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤溪镇",
 		"parentCode":"511902"
 	},
@@ -179,7 +179,7 @@
 		"code":"511902128",
 		"fullCode":"511902128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天马山镇",
 		"parentCode":"511902"
 	},
@@ -187,7 +187,7 @@
 		"code":"511902203",
 		"fullCode":"511902203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大和乡",
 		"parentCode":"511902"
 	},
@@ -195,7 +195,7 @@
 		"code":"511902204",
 		"fullCode":"511902204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白庙乡",
 		"parentCode":"511902"
 	}

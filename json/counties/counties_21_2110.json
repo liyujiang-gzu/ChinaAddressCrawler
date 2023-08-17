@@ -3,7 +3,7 @@
 		"code":"211002",
 		"fullCode":"211002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"白塔区",
 		"parentCode":"2110"
 	},
@@ -11,7 +11,7 @@
 		"code":"211003",
 		"fullCode":"211003000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"文圣区",
 		"parentCode":"2110"
 	},
@@ -19,7 +19,7 @@
 		"code":"211004",
 		"fullCode":"211004000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宏伟区",
 		"parentCode":"2110"
 	},
@@ -27,7 +27,7 @@
 		"code":"211005",
 		"fullCode":"211005000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"弓长岭区",
 		"parentCode":"2110"
 	},
@@ -35,7 +35,7 @@
 		"code":"211011",
 		"fullCode":"211011000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"太子河区",
 		"parentCode":"2110"
 	},
@@ -43,7 +43,7 @@
 		"code":"211021",
 		"fullCode":"211021000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"辽阳县",
 		"parentCode":"2110"
 	},
@@ -51,7 +51,7 @@
 		"code":"211081",
 		"fullCode":"211081000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"灯塔市",
 		"parentCode":"2110"
 	}

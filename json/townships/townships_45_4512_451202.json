@@ -3,7 +3,7 @@
 		"code":"451202001",
 		"fullCode":"451202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金城江街道",
 		"parentCode":"451202"
 	},
@@ -11,7 +11,7 @@
 		"code":"451202101",
 		"fullCode":"451202101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东江镇",
 		"parentCode":"451202"
 	},
@@ -19,7 +19,7 @@
 		"code":"451202102",
 		"fullCode":"451202102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六圩镇",
 		"parentCode":"451202"
 	},
@@ -27,7 +27,7 @@
 		"code":"451202103",
 		"fullCode":"451202103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六甲镇",
 		"parentCode":"451202"
 	},
@@ -35,7 +35,7 @@
 		"code":"451202104",
 		"fullCode":"451202104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河池镇",
 		"parentCode":"451202"
 	},
@@ -43,7 +43,7 @@
 		"code":"451202105",
 		"fullCode":"451202105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拔贡镇",
 		"parentCode":"451202"
 	},
@@ -51,7 +51,7 @@
 		"code":"451202106",
 		"fullCode":"451202106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九圩镇",
 		"parentCode":"451202"
 	},
@@ -59,7 +59,7 @@
 		"code":"451202107",
 		"fullCode":"451202107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五圩镇",
 		"parentCode":"451202"
 	},
@@ -67,7 +67,7 @@
 		"code":"451202200",
 		"fullCode":"451202200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白土乡",
 		"parentCode":"451202"
 	},
@@ -75,7 +75,7 @@
 		"code":"451202203",
 		"fullCode":"451202203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侧岭乡",
 		"parentCode":"451202"
 	},
@@ -83,7 +83,7 @@
 		"code":"451202204",
 		"fullCode":"451202204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保平乡",
 		"parentCode":"451202"
 	},
@@ -91,7 +91,7 @@
 		"code":"451202205",
 		"fullCode":"451202205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长老乡",
 		"parentCode":"451202"
 	}

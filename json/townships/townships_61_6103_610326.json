@@ -3,7 +3,7 @@
 		"code":"610326001",
 		"fullCode":"610326001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"首善街道",
 		"parentCode":"610326"
 	},
@@ -11,7 +11,7 @@
 		"code":"610326101",
 		"fullCode":"610326101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横渠镇",
 		"parentCode":"610326"
 	},
@@ -19,7 +19,7 @@
 		"code":"610326102",
 		"fullCode":"610326102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槐芽镇",
 		"parentCode":"610326"
 	},
@@ -27,7 +27,7 @@
 		"code":"610326103",
 		"fullCode":"610326103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤峪镇",
 		"parentCode":"610326"
 	},
@@ -35,7 +35,7 @@
 		"code":"610326104",
 		"fullCode":"610326104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常兴镇",
 		"parentCode":"610326"
 	},
@@ -43,7 +43,7 @@
 		"code":"610326105",
 		"fullCode":"610326105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金渠镇",
 		"parentCode":"610326"
 	},
@@ -51,7 +51,7 @@
 		"code":"610326106",
 		"fullCode":"610326106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营头镇",
 		"parentCode":"610326"
 	},
@@ -59,7 +59,7 @@
 		"code":"610326107",
 		"fullCode":"610326107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐镇",
 		"parentCode":"610326"
 	},
@@ -67,7 +67,7 @@
 		"code":"610326400",
 		"fullCode":"610326400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陕西省太白山旅游区",
 		"parentCode":"610326"
 	},
@@ -75,7 +75,7 @@
 		"code":"610326401",
 		"fullCode":"610326401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红河谷森林公园",
 		"parentCode":"610326"
 	}

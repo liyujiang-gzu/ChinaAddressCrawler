@@ -3,7 +3,7 @@
 		"code":"140107001",
 		"fullCode":"140107001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨轮街道",
 		"parentCode":"140107"
 	},
@@ -11,7 +11,7 @@
 		"code":"140107002",
 		"fullCode":"140107002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三桥街道",
 		"parentCode":"140107"
 	},
@@ -19,7 +19,7 @@
 		"code":"140107003",
 		"fullCode":"140107003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼓楼街道",
 		"parentCode":"140107"
 	},
@@ -27,7 +27,7 @@
 		"code":"140107004",
 		"fullCode":"140107004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏花岭街道",
 		"parentCode":"140107"
 	},
@@ -35,7 +35,7 @@
 		"code":"140107005",
 		"fullCode":"140107005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坝陵桥街道",
 		"parentCode":"140107"
 	},
@@ -43,7 +43,7 @@
 		"code":"140107006",
 		"fullCode":"140107006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大东关街道",
 		"parentCode":"140107"
 	},
@@ -51,7 +51,7 @@
 		"code":"140107007",
 		"fullCode":"140107007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"职工新街街道",
 		"parentCode":"140107"
 	},
@@ -59,7 +59,7 @@
 		"code":"140107008",
 		"fullCode":"140107008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敦化坊街道",
 		"parentCode":"140107"
 	},
@@ -67,7 +67,7 @@
 		"code":"140107009",
 		"fullCode":"140107009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涧河街道",
 		"parentCode":"140107"
 	},
@@ -75,7 +75,7 @@
 		"code":"140107010",
 		"fullCode":"140107010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家峪街道",
 		"parentCode":"140107"
 	},
@@ -83,7 +83,7 @@
 		"code":"140107011",
 		"fullCode":"140107011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"享堂街道",
 		"parentCode":"140107"
 	},
@@ -91,7 +91,7 @@
 		"code":"140107100",
 		"fullCode":"140107100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中涧河镇",
 		"parentCode":"140107"
 	}

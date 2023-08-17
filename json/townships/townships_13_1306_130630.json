@@ -3,7 +3,7 @@
 		"code":"130630100",
 		"fullCode":"130630100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涞源镇",
 		"parentCode":"130630"
 	},
@@ -11,7 +11,7 @@
 		"code":"130630101",
 		"fullCode":"130630101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银坊镇",
 		"parentCode":"130630"
 	},
@@ -19,7 +19,7 @@
 		"code":"130630102",
 		"fullCode":"130630102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"走马驿镇",
 		"parentCode":"130630"
 	},
@@ -27,7 +27,7 @@
 		"code":"130630103",
 		"fullCode":"130630103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水堡镇",
 		"parentCode":"130630"
 	},
@@ -35,7 +35,7 @@
 		"code":"130630104",
 		"fullCode":"130630104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王安镇",
 		"parentCode":"130630"
 	},
@@ -43,7 +43,7 @@
 		"code":"130630105",
 		"fullCode":"130630105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家庄镇",
 		"parentCode":"130630"
 	},
@@ -51,7 +51,7 @@
 		"code":"130630106",
 		"fullCode":"130630106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石山镇",
 		"parentCode":"130630"
 	},
@@ -59,7 +59,7 @@
 		"code":"130630107",
 		"fullCode":"130630107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南屯镇",
 		"parentCode":"130630"
 	},
@@ -67,7 +67,7 @@
 		"code":"130630108",
 		"fullCode":"130630108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉坊镇",
 		"parentCode":"130630"
 	},
@@ -75,7 +75,7 @@
 		"code":"130630109",
 		"fullCode":"130630109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北石佛镇",
 		"parentCode":"130630"
 	},
@@ -83,7 +83,7 @@
 		"code":"130630201",
 		"fullCode":"130630201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南马庄乡",
 		"parentCode":"130630"
 	},
@@ -91,7 +91,7 @@
 		"code":"130630203",
 		"fullCode":"130630203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金家井乡",
 		"parentCode":"130630"
 	},
@@ -99,7 +99,7 @@
 		"code":"130630204",
 		"fullCode":"130630204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留家庄乡",
 		"parentCode":"130630"
 	},
@@ -107,7 +107,7 @@
 		"code":"130630205",
 		"fullCode":"130630205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上庄乡",
 		"parentCode":"130630"
 	},
@@ -115,7 +115,7 @@
 		"code":"130630206",
 		"fullCode":"130630206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东团堡乡",
 		"parentCode":"130630"
 	},
@@ -123,7 +123,7 @@
 		"code":"130630207",
 		"fullCode":"130630207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔崖驿乡",
 		"parentCode":"130630"
 	},
@@ -131,7 +131,7 @@
 		"code":"130630208",
 		"fullCode":"130630208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌龙沟乡",
 		"parentCode":"130630"
 	}

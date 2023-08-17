@@ -3,7 +3,7 @@
 		"code":"130322100",
 		"fullCode":"130322100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌黎镇",
 		"parentCode":"130322"
 	},
@@ -11,7 +11,7 @@
 		"code":"130322101",
 		"fullCode":"130322101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖安镇",
 		"parentCode":"130322"
 	},
@@ -19,7 +19,7 @@
 		"code":"130322102",
 		"fullCode":"130322102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安山镇",
 		"parentCode":"130322"
 	},
@@ -27,7 +27,7 @@
 		"code":"130322103",
 		"fullCode":"130322103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙家店镇",
 		"parentCode":"130322"
 	},
@@ -35,7 +35,7 @@
 		"code":"130322104",
 		"fullCode":"130322104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥井镇",
 		"parentCode":"130322"
 	},
@@ -43,7 +43,7 @@
 		"code":"130322105",
 		"fullCode":"130322105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大蒲河镇",
 		"parentCode":"130322"
 	},
@@ -51,7 +51,7 @@
 		"code":"130322106",
 		"fullCode":"130322106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新集镇",
 		"parentCode":"130322"
 	},
@@ -59,7 +59,7 @@
 		"code":"130322107",
 		"fullCode":"130322107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘台庄镇",
 		"parentCode":"130322"
 	},
@@ -67,7 +67,7 @@
 		"code":"130322108",
 		"fullCode":"130322108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茹荷镇",
 		"parentCode":"130322"
 	},
@@ -75,7 +75,7 @@
 		"code":"130322109",
 		"fullCode":"130322109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱各庄镇",
 		"parentCode":"130322"
 	},
@@ -83,7 +83,7 @@
 		"code":"130322110",
 		"fullCode":"130322110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荒佃庄镇",
 		"parentCode":"130322"
 	},
@@ -91,7 +91,7 @@
 		"code":"130322201",
 		"fullCode":"130322201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团林乡",
 		"parentCode":"130322"
 	},
@@ -99,7 +99,7 @@
 		"code":"130322202",
 		"fullCode":"130322202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛条港乡",
 		"parentCode":"130322"
 	},
@@ -107,7 +107,7 @@
 		"code":"130322203",
 		"fullCode":"130322203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坨店乡",
 		"parentCode":"130322"
 	},
@@ -115,7 +115,7 @@
 		"code":"130322206",
 		"fullCode":"130322206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两山乡",
 		"parentCode":"130322"
 	},
@@ -123,7 +123,7 @@
 		"code":"130322207",
 		"fullCode":"130322207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里铺乡",
 		"parentCode":"130322"
 	}

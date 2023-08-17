@@ -3,7 +3,7 @@
 		"code":"445103100",
 		"fullCode":"445103100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古巷镇",
 		"parentCode":"445103"
 	},
@@ -11,7 +11,7 @@
 		"code":"445103101",
 		"fullCode":"445103101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"登塘镇",
 		"parentCode":"445103"
 	},
@@ -19,7 +19,7 @@
 		"code":"445103103",
 		"fullCode":"445103103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤塘镇",
 		"parentCode":"445103"
 	},
@@ -27,7 +27,7 @@
 		"code":"445103104",
 		"fullCode":"445103104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浮洋镇",
 		"parentCode":"445103"
 	},
@@ -35,7 +35,7 @@
 		"code":"445103105",
 		"fullCode":"445103105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湖镇",
 		"parentCode":"445103"
 	},
@@ -43,7 +43,7 @@
 		"code":"445103106",
 		"fullCode":"445103106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金石镇",
 		"parentCode":"445103"
 	},
@@ -51,7 +51,7 @@
 		"code":"445103107",
 		"fullCode":"445103107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙溪镇",
 		"parentCode":"445103"
 	},
@@ -59,7 +59,7 @@
 		"code":"445103108",
 		"fullCode":"445103108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彩塘镇",
 		"parentCode":"445103"
 	},
@@ -67,7 +67,7 @@
 		"code":"445103109",
 		"fullCode":"445103109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东凤镇",
 		"parentCode":"445103"
 	},
@@ -75,7 +75,7 @@
 		"code":"445103110",
 		"fullCode":"445103110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庵埠镇",
 		"parentCode":"445103"
 	},
@@ -83,7 +83,7 @@
 		"code":"445103114",
 		"fullCode":"445103114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江东镇",
 		"parentCode":"445103"
 	},
@@ -91,7 +91,7 @@
 		"code":"445103115",
 		"fullCode":"445103115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"归湖镇",
 		"parentCode":"445103"
 	},
@@ -99,7 +99,7 @@
 		"code":"445103116",
 		"fullCode":"445103116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文祠镇",
 		"parentCode":"445103"
 	},
@@ -107,7 +107,7 @@
 		"code":"445103117",
 		"fullCode":"445103117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰镇",
 		"parentCode":"445103"
 	},
@@ -115,7 +115,7 @@
 		"code":"445103120",
 		"fullCode":"445103120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤凤镇",
 		"parentCode":"445103"
 	},
@@ -123,7 +123,7 @@
 		"code":"445103121",
 		"fullCode":"445103121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫溪镇",
 		"parentCode":"445103"
 	},
@@ -131,7 +131,7 @@
 		"code":"445103400",
 		"fullCode":"445103400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万峰林场",
 		"parentCode":"445103"
 	},
@@ -139,7 +139,7 @@
 		"code":"445103450",
 		"fullCode":"445103450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庵埠经济开发试验区",
 		"parentCode":"445103"
 	}

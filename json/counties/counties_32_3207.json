@@ -3,7 +3,7 @@
 		"code":"320703",
 		"fullCode":"320703000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"连云区",
 		"parentCode":"3207"
 	},
@@ -11,7 +11,7 @@
 		"code":"320706",
 		"fullCode":"320706000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海州区",
 		"parentCode":"3207"
 	},
@@ -19,7 +19,7 @@
 		"code":"320707",
 		"fullCode":"320707000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"赣榆区",
 		"parentCode":"3207"
 	},
@@ -27,7 +27,7 @@
 		"code":"320722",
 		"fullCode":"320722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东海县",
 		"parentCode":"3207"
 	},
@@ -35,7 +35,7 @@
 		"code":"320723",
 		"fullCode":"320723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"灌云县",
 		"parentCode":"3207"
 	},
@@ -43,7 +43,7 @@
 		"code":"320724",
 		"fullCode":"320724000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"灌南县",
 		"parentCode":"3207"
 	},
@@ -51,7 +51,7 @@
 		"code":"320771",
 		"fullCode":"320771000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"连云港经济技术开发区",
 		"parentCode":"3207"
 	},
@@ -59,7 +59,7 @@
 		"code":"320772",
 		"fullCode":"320772000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"连云港高新技术产业开发区",
 		"parentCode":"3207"
 	}

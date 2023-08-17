@@ -3,7 +3,7 @@
 		"code":"610726001",
 		"fullCode":"610726001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉源街道",
 		"parentCode":"610726"
 	},
@@ -11,7 +11,7 @@
 		"code":"610726002",
 		"fullCode":"610726002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高寨子街道",
 		"parentCode":"610726"
 	},
@@ -19,7 +19,7 @@
 		"code":"610726102",
 		"fullCode":"610726102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安镇",
 		"parentCode":"610726"
 	},
@@ -27,7 +27,7 @@
 		"code":"610726103",
 		"fullCode":"610726103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"代家坝镇",
 		"parentCode":"610726"
 	},
@@ -35,7 +35,7 @@
 		"code":"610726104",
 		"fullCode":"610726104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳平关镇",
 		"parentCode":"610726"
 	},
@@ -43,7 +43,7 @@
 		"code":"610726105",
 		"fullCode":"610726105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕子砭镇",
 		"parentCode":"610726"
 	},
@@ -51,7 +51,7 @@
 		"code":"610726106",
 		"fullCode":"610726106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广坪镇",
 		"parentCode":"610726"
 	},
@@ -59,7 +59,7 @@
 		"code":"610726107",
 		"fullCode":"610726107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青木川镇",
 		"parentCode":"610726"
 	},
@@ -67,7 +67,7 @@
 		"code":"610726108",
 		"fullCode":"610726108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛坝河镇",
 		"parentCode":"610726"
 	},
@@ -75,7 +75,7 @@
 		"code":"610726109",
 		"fullCode":"610726109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁锁关镇",
 		"parentCode":"610726"
 	},
@@ -83,7 +83,7 @@
 		"code":"610726110",
 		"fullCode":"610726110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家坝镇",
 		"parentCode":"610726"
 	},
@@ -91,7 +91,7 @@
 		"code":"610726111",
 		"fullCode":"610726111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴山镇",
 		"parentCode":"610726"
 	},
@@ -99,7 +99,7 @@
 		"code":"610726112",
 		"fullCode":"610726112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨亭镇",
 		"parentCode":"610726"
 	},
@@ -107,7 +107,7 @@
 		"code":"610726113",
 		"fullCode":"610726113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舒家坝镇",
 		"parentCode":"610726"
 	},
@@ -115,7 +115,7 @@
 		"code":"610726117",
 		"fullCode":"610726117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太阳岭镇",
 		"parentCode":"610726"
 	},
@@ -123,7 +123,7 @@
 		"code":"610726118",
 		"fullCode":"610726118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安乐河镇",
 		"parentCode":"610726"
 	},
@@ -131,7 +131,7 @@
 		"code":"610726119",
 		"fullCode":"610726119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二郎坝镇",
 		"parentCode":"610726"
 	},
@@ -139,7 +139,7 @@
 		"code":"610726120",
 		"fullCode":"610726120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禅家岩镇",
 		"parentCode":"610726"
 	}

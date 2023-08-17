@@ -3,7 +3,7 @@
 		"code":"451029100",
 		"fullCode":"451029100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐里镇",
 		"parentCode":"451029"
 	},
@@ -11,7 +11,7 @@
 		"code":"451029101",
 		"fullCode":"451029101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧州镇",
 		"parentCode":"451029"
 	},
@@ -19,7 +19,7 @@
 		"code":"451029102",
 		"fullCode":"451029102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定安镇",
 		"parentCode":"451029"
 	},
@@ -27,7 +27,7 @@
 		"code":"451029103",
 		"fullCode":"451029103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六隆镇",
 		"parentCode":"451029"
 	},
@@ -35,7 +35,7 @@
 		"code":"451029104",
 		"fullCode":"451029104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浪平镇",
 		"parentCode":"451029"
 	},
@@ -43,7 +43,7 @@
 		"code":"451029200",
 		"fullCode":"451029200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潞城瑶族乡",
 		"parentCode":"451029"
 	},
@@ -51,7 +51,7 @@
 		"code":"451029201",
 		"fullCode":"451029201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利周瑶族乡",
 		"parentCode":"451029"
 	},
@@ -59,7 +59,7 @@
 		"code":"451029202",
 		"fullCode":"451029202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平塘乡",
 		"parentCode":"451029"
 	},
@@ -67,7 +67,7 @@
 		"code":"451029204",
 		"fullCode":"451029204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八桂瑶族乡",
 		"parentCode":"451029"
 	},
@@ -75,7 +75,7 @@
 		"code":"451029205",
 		"fullCode":"451029205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八渡瑶族乡",
 		"parentCode":"451029"
 	},
@@ -83,7 +83,7 @@
 		"code":"451029206",
 		"fullCode":"451029206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那比乡",
 		"parentCode":"451029"
 	},
@@ -91,7 +91,7 @@
 		"code":"451029207",
 		"fullCode":"451029207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高龙乡",
 		"parentCode":"451029"
 	},
@@ -99,7 +99,7 @@
 		"code":"451029208",
 		"fullCode":"451029208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百乐乡",
 		"parentCode":"451029"
 	},
@@ -107,7 +107,7 @@
 		"code":"451029209",
 		"fullCode":"451029209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"者苗乡",
 		"parentCode":"451029"
 	}

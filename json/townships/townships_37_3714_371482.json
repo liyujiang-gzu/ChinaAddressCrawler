@@ -3,7 +3,7 @@
 		"code":"371482001",
 		"fullCode":"371482001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市中街道",
 		"parentCode":"371482"
 	},
@@ -11,7 +11,7 @@
 		"code":"371482002",
 		"fullCode":"371482002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禹兴街道",
 		"parentCode":"371482"
 	},
@@ -19,7 +19,7 @@
 		"code":"371482100",
 		"fullCode":"371482100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伦镇",
 		"parentCode":"371482"
 	},
@@ -27,7 +27,7 @@
 		"code":"371482101",
 		"fullCode":"371482101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"房寺镇",
 		"parentCode":"371482"
 	},
@@ -35,7 +35,7 @@
 		"code":"371482102",
 		"fullCode":"371482102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张庄镇",
 		"parentCode":"371482"
 	},
@@ -43,7 +43,7 @@
 		"code":"371482103",
 		"fullCode":"371482103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛店镇",
 		"parentCode":"371482"
 	},
@@ -51,7 +51,7 @@
 		"code":"371482104",
 		"fullCode":"371482104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安仁镇",
 		"parentCode":"371482"
 	},
@@ -59,7 +59,7 @@
 		"code":"371482105",
 		"fullCode":"371482105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛寨镇",
 		"parentCode":"371482"
 	},
@@ -67,7 +67,7 @@
 		"code":"371482106",
 		"fullCode":"371482106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁家镇",
 		"parentCode":"371482"
 	},
@@ -75,7 +75,7 @@
 		"code":"371482107",
 		"fullCode":"371482107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里望回族镇",
 		"parentCode":"371482"
 	},
@@ -83,7 +83,7 @@
 		"code":"371482108",
 		"fullCode":"371482108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莒镇",
 		"parentCode":"371482"
 	}

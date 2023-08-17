@@ -3,7 +3,7 @@
 		"code":"210502001",
 		"fullCode":"210502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南地街道",
 		"parentCode":"210502"
 	},
@@ -11,7 +11,7 @@
 		"code":"210502003",
 		"fullCode":"210502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山街道",
 		"parentCode":"210502"
 	},
@@ -19,7 +19,7 @@
 		"code":"210502004",
 		"fullCode":"210502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东明街道",
 		"parentCode":"210502"
 	},
@@ -27,7 +27,7 @@
 		"code":"210502005",
 		"fullCode":"210502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崔东街道",
 		"parentCode":"210502"
 	},
@@ -35,7 +35,7 @@
 		"code":"210502007",
 		"fullCode":"210502007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站前街道",
 		"parentCode":"210502"
 	},
@@ -43,7 +43,7 @@
 		"code":"210502008",
 		"fullCode":"210502008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千金街道",
 		"parentCode":"210502"
 	},
@@ -51,7 +51,7 @@
 		"code":"210502012",
 		"fullCode":"210502012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥北街道",
 		"parentCode":"210502"
 	}

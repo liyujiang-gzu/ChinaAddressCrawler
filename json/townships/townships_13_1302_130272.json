@@ -3,7 +3,7 @@
 		"code":"130272101",
 		"fullCode":"130272101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉丰镇",
 		"parentCode":"130272"
 	},
@@ -11,7 +11,7 @@
 		"code":"130272451",
 		"fullCode":"130272451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴农街道",
 		"parentCode":"130272"
 	},
@@ -19,7 +19,7 @@
 		"code":"130272452",
 		"fullCode":"130272452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振兴街道",
 		"parentCode":"130272"
 	}

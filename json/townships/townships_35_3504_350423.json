@@ -3,7 +3,7 @@
 		"code":"350423100",
 		"fullCode":"350423100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙津镇",
 		"parentCode":"350423"
 	},
@@ -11,7 +11,7 @@
 		"code":"350423101",
 		"fullCode":"350423101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嵩溪镇",
 		"parentCode":"350423"
 	},
@@ -19,7 +19,7 @@
 		"code":"350423102",
 		"fullCode":"350423102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嵩口镇",
 		"parentCode":"350423"
 	},
@@ -27,7 +27,7 @@
 		"code":"350423103",
 		"fullCode":"350423103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵地镇",
 		"parentCode":"350423"
 	},
@@ -35,7 +35,7 @@
 		"code":"350423104",
 		"fullCode":"350423104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长校镇",
 		"parentCode":"350423"
 	},
@@ -43,7 +43,7 @@
 		"code":"350423105",
 		"fullCode":"350423105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赖坊镇",
 		"parentCode":"350423"
 	},
@@ -51,7 +51,7 @@
 		"code":"350423106",
 		"fullCode":"350423106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林畲镇",
 		"parentCode":"350423"
 	},
@@ -59,7 +59,7 @@
 		"code":"350423201",
 		"fullCode":"350423201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温郊乡",
 		"parentCode":"350423"
 	},
@@ -67,7 +67,7 @@
 		"code":"350423203",
 		"fullCode":"350423203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田源乡",
 		"parentCode":"350423"
 	},
@@ -75,7 +75,7 @@
 		"code":"350423204",
 		"fullCode":"350423204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙芜乡",
 		"parentCode":"350423"
 	},
@@ -83,7 +83,7 @@
 		"code":"350423206",
 		"fullCode":"350423206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余朋乡",
 		"parentCode":"350423"
 	},
@@ -91,7 +91,7 @@
 		"code":"350423208",
 		"fullCode":"350423208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家乡",
 		"parentCode":"350423"
 	},
@@ -99,7 +99,7 @@
 		"code":"350423209",
 		"fullCode":"350423209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里田乡",
 		"parentCode":"350423"
 	}

@@ -3,7 +3,7 @@
 		"code":"441302001",
 		"fullCode":"441302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥东街道",
 		"parentCode":"441302"
 	},
@@ -11,7 +11,7 @@
 		"code":"441302002",
 		"fullCode":"441302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥西街道",
 		"parentCode":"441302"
 	},
@@ -19,7 +19,7 @@
 		"code":"441302003",
 		"fullCode":"441302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江南街道",
 		"parentCode":"441302"
 	},
@@ -27,7 +27,7 @@
 		"code":"441302004",
 		"fullCode":"441302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江北街道",
 		"parentCode":"441302"
 	},
@@ -35,7 +35,7 @@
 		"code":"441302005",
 		"fullCode":"441302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙丰街道",
 		"parentCode":"441302"
 	},
@@ -43,7 +43,7 @@
 		"code":"441302006",
 		"fullCode":"441302006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河南岸街道",
 		"parentCode":"441302"
 	},
@@ -51,7 +51,7 @@
 		"code":"441302007",
 		"fullCode":"441302007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠环街道",
 		"parentCode":"441302"
 	},
@@ -59,7 +59,7 @@
 		"code":"441302008",
 		"fullCode":"441302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈江街道",
 		"parentCode":"441302"
 	},
@@ -67,7 +67,7 @@
 		"code":"441302009",
 		"fullCode":"441302009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口街道",
 		"parentCode":"441302"
 	},
@@ -75,7 +75,7 @@
 		"code":"441302010",
 		"fullCode":"441302010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小金口街道",
 		"parentCode":"441302"
 	},
@@ -83,7 +83,7 @@
 		"code":"441302100",
 		"fullCode":"441302100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汝湖镇",
 		"parentCode":"441302"
 	},
@@ -91,7 +91,7 @@
 		"code":"441302103",
 		"fullCode":"441302103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三栋镇",
 		"parentCode":"441302"
 	},
@@ -99,7 +99,7 @@
 		"code":"441302106",
 		"fullCode":"441302106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潼湖镇",
 		"parentCode":"441302"
 	},
@@ -107,7 +107,7 @@
 		"code":"441302107",
 		"fullCode":"441302107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沥林镇",
 		"parentCode":"441302"
 	},
@@ -115,7 +115,7 @@
 		"code":"441302109",
 		"fullCode":"441302109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马安镇",
 		"parentCode":"441302"
 	},
@@ -123,7 +123,7 @@
 		"code":"441302110",
 		"fullCode":"441302110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横沥镇",
 		"parentCode":"441302"
 	},
@@ -131,7 +131,7 @@
 		"code":"441302112",
 		"fullCode":"441302112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦洲镇",
 		"parentCode":"441302"
 	},
@@ -139,7 +139,7 @@
 		"code":"441302114",
 		"fullCode":"441302114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潼侨镇",
 		"parentCode":"441302"
 	},
@@ -147,7 +147,7 @@
 		"code":"441302401",
 		"fullCode":"441302401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东江高新科技产业园",
 		"parentCode":"441302"
 	},
@@ -155,7 +155,7 @@
 		"code":"441302402",
 		"fullCode":"441302402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠南高新科技产业园",
 		"parentCode":"441302"
 	},
@@ -163,7 +163,7 @@
 		"code":"441302450",
 		"fullCode":"441302450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠州市林场",
 		"parentCode":"441302"
 	}

@@ -3,7 +3,7 @@
 		"code":"520102016",
 		"fullCode":"520102016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华路街道",
 		"parentCode":"520102"
 	},
@@ -11,7 +11,7 @@
 		"code":"520102017",
 		"fullCode":"520102017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖路街道",
 		"parentCode":"520102"
 	},
@@ -19,7 +19,7 @@
 		"code":"520102018",
 		"fullCode":"520102018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口寺街道",
 		"parentCode":"520102"
 	},
@@ -27,7 +27,7 @@
 		"code":"520102019",
 		"fullCode":"520102019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华南路街道",
 		"parentCode":"520102"
 	},
@@ -35,7 +35,7 @@
 		"code":"520102020",
 		"fullCode":"520102020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河滨街道",
 		"parentCode":"520102"
 	},
@@ -43,7 +43,7 @@
 		"code":"520102021",
 		"fullCode":"520102021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遵义路街道",
 		"parentCode":"520102"
 	},
@@ -51,7 +51,7 @@
 		"code":"520102022",
 		"fullCode":"520102022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴关路街道",
 		"parentCode":"520102"
 	},
@@ -59,7 +59,7 @@
 		"code":"520102023",
 		"fullCode":"520102023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙冲路街道",
 		"parentCode":"520102"
 	},
@@ -67,7 +67,7 @@
 		"code":"520102024",
 		"fullCode":"520102024000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望城街道",
 		"parentCode":"520102"
 	},
@@ -75,7 +75,7 @@
 		"code":"520102025",
 		"fullCode":"520102025000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太慈桥街道",
 		"parentCode":"520102"
 	},
@@ -83,7 +83,7 @@
 		"code":"520102026",
 		"fullCode":"520102026000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湘雅街道",
 		"parentCode":"520102"
 	},
@@ -91,7 +91,7 @@
 		"code":"520102027",
 		"fullCode":"520102027000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"油榨街道",
 		"parentCode":"520102"
 	},
@@ -99,7 +99,7 @@
 		"code":"520102028",
 		"fullCode":"520102028000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中曹司街道",
 		"parentCode":"520102"
 	},
@@ -107,7 +107,7 @@
 		"code":"520102029",
 		"fullCode":"520102029000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二戈街道",
 		"parentCode":"520102"
 	},
@@ -115,7 +115,7 @@
 		"code":"520102030",
 		"fullCode":"520102030000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙洞堡街道",
 		"parentCode":"520102"
 	},
@@ -123,7 +123,7 @@
 		"code":"520102031",
 		"fullCode":"520102031000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花果园街道",
 		"parentCode":"520102"
 	},
@@ -131,7 +131,7 @@
 		"code":"520102032",
 		"fullCode":"520102032000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小车河街道",
 		"parentCode":"520102"
 	},
@@ -139,7 +139,7 @@
 		"code":"520102033",
 		"fullCode":"520102033000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里冲街道",
 		"parentCode":"520102"
 	},
@@ -147,7 +147,7 @@
 		"code":"520102200",
 		"fullCode":"520102200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后巢乡",
 		"parentCode":"520102"
 	},
@@ -155,7 +155,7 @@
 		"code":"520102201",
 		"fullCode":"520102201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云关乡",
 		"parentCode":"520102"
 	},
@@ -163,7 +163,7 @@
 		"code":"520102202",
 		"fullCode":"520102202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小碧布依族苗族乡",
 		"parentCode":"520102"
 	},
@@ -171,7 +171,7 @@
 		"code":"520102203",
 		"fullCode":"520102203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乐乡",
 		"parentCode":"520102"
 	}

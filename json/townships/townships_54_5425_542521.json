@@ -3,7 +3,7 @@
 		"code":"542521100",
 		"fullCode":"542521100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普兰镇",
 		"parentCode":"542521"
 	},
@@ -11,7 +11,7 @@
 		"code":"542521200",
 		"fullCode":"542521200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴嘎乡",
 		"parentCode":"542521"
 	},
@@ -19,7 +19,7 @@
 		"code":"542521201",
 		"fullCode":"542521201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霍尔乡",
 		"parentCode":"542521"
 	}

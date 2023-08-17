@@ -3,7 +3,7 @@
 		"code":"530523101",
 		"fullCode":"530523101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山镇",
 		"parentCode":"530523"
 	},
@@ -11,7 +11,7 @@
 		"code":"530523102",
 		"fullCode":"530523102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇安镇",
 		"parentCode":"530523"
 	},
@@ -19,7 +19,7 @@
 		"code":"530523103",
 		"fullCode":"530523103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐糯镇",
 		"parentCode":"530523"
 	},
@@ -27,7 +27,7 @@
 		"code":"530523104",
 		"fullCode":"530523104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腊勐镇",
 		"parentCode":"530523"
 	},
@@ -35,7 +35,7 @@
 		"code":"530523105",
 		"fullCode":"530523105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象达镇",
 		"parentCode":"530523"
 	},
@@ -43,7 +43,7 @@
 		"code":"530523201",
 		"fullCode":"530523201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙江乡",
 		"parentCode":"530523"
 	},
@@ -51,7 +51,7 @@
 		"code":"530523203",
 		"fullCode":"530523203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧寨乡",
 		"parentCode":"530523"
 	},
@@ -59,7 +59,7 @@
 		"code":"530523204",
 		"fullCode":"530523204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙新乡",
 		"parentCode":"530523"
 	},
@@ -67,7 +67,7 @@
 		"code":"530523206",
 		"fullCode":"530523206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平达乡",
 		"parentCode":"530523"
 	},
@@ -75,7 +75,7 @@
 		"code":"530523207",
 		"fullCode":"530523207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木城彝族傈僳族乡",
 		"parentCode":"530523"
 	}

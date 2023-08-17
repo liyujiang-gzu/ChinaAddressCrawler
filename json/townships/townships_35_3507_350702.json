@@ -3,7 +3,7 @@
 		"code":"350702001",
 		"fullCode":"350702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅山街道",
 		"parentCode":"350702"
 	},
@@ -11,7 +11,7 @@
 		"code":"350702002",
 		"fullCode":"350702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄墩街道",
 		"parentCode":"350702"
 	},
@@ -19,7 +19,7 @@
 		"code":"350702003",
 		"fullCode":"350702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫云街道",
 		"parentCode":"350702"
 	},
@@ -27,7 +27,7 @@
 		"code":"350702004",
 		"fullCode":"350702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四鹤街道",
 		"parentCode":"350702"
 	},
@@ -35,7 +35,7 @@
 		"code":"350702005",
 		"fullCode":"350702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水南街道",
 		"parentCode":"350702"
 	},
@@ -43,7 +43,7 @@
 		"code":"350702006",
 		"fullCode":"350702006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水东街道",
 		"parentCode":"350702"
 	},
@@ -51,7 +51,7 @@
 		"code":"350702100",
 		"fullCode":"350702100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"来舟镇",
 		"parentCode":"350702"
 	},
@@ -59,7 +59,7 @@
 		"code":"350702101",
 		"fullCode":"350702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樟湖镇",
 		"parentCode":"350702"
 	},
@@ -67,7 +67,7 @@
 		"code":"350702102",
 		"fullCode":"350702102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏道镇",
 		"parentCode":"350702"
 	},
@@ -75,7 +75,7 @@
 		"code":"350702103",
 		"fullCode":"350702103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西芹镇",
 		"parentCode":"350702"
 	},
@@ -83,7 +83,7 @@
 		"code":"350702104",
 		"fullCode":"350702104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峡阳镇",
 		"parentCode":"350702"
 	},
@@ -91,7 +91,7 @@
 		"code":"350702105",
 		"fullCode":"350702105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山镇",
 		"parentCode":"350702"
 	},
@@ -99,7 +99,7 @@
 		"code":"350702106",
 		"fullCode":"350702106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大横镇",
 		"parentCode":"350702"
 	},
@@ -107,7 +107,7 @@
 		"code":"350702107",
 		"fullCode":"350702107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王台镇",
 		"parentCode":"350702"
 	},
@@ -115,7 +115,7 @@
 		"code":"350702108",
 		"fullCode":"350702108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"350702"
 	},
@@ -123,7 +123,7 @@
 		"code":"350702109",
 		"fullCode":"350702109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔前镇",
 		"parentCode":"350702"
 	},
@@ -131,7 +131,7 @@
 		"code":"350702110",
 		"fullCode":"350702110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茫荡镇",
 		"parentCode":"350702"
 	},
@@ -139,7 +139,7 @@
 		"code":"350702111",
 		"fullCode":"350702111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋后镇",
 		"parentCode":"350702"
 	},
@@ -147,7 +147,7 @@
 		"code":"350702112",
 		"fullCode":"350702112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炉下镇",
 		"parentCode":"350702"
 	},
@@ -155,7 +155,7 @@
 		"code":"350702200",
 		"fullCode":"350702200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨口乡",
 		"parentCode":"350702"
 	},
@@ -163,7 +163,7 @@
 		"code":"350702202",
 		"fullCode":"350702202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤门乡",
 		"parentCode":"350702"
 	}

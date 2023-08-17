@@ -3,7 +3,7 @@
 		"code":"350111001",
 		"fullCode":"350111001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶园街道",
 		"parentCode":"350111"
 	},
@@ -11,7 +11,7 @@
 		"code":"350111002",
 		"fullCode":"350111002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王庄街道",
 		"parentCode":"350111"
 	},
@@ -19,7 +19,7 @@
 		"code":"350111003",
 		"fullCode":"350111003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象园街道",
 		"parentCode":"350111"
 	},
@@ -27,7 +27,7 @@
 		"code":"350111100",
 		"fullCode":"350111100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼓山镇",
 		"parentCode":"350111"
 	},
@@ -35,7 +35,7 @@
 		"code":"350111101",
 		"fullCode":"350111101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店镇",
 		"parentCode":"350111"
 	},
@@ -43,7 +43,7 @@
 		"code":"350111102",
 		"fullCode":"350111102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳峰镇",
 		"parentCode":"350111"
 	},
@@ -51,7 +51,7 @@
 		"code":"350111103",
 		"fullCode":"350111103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宦溪镇",
 		"parentCode":"350111"
 	},
@@ -59,7 +59,7 @@
 		"code":"350111201",
 		"fullCode":"350111201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寿山乡",
 		"parentCode":"350111"
 	},
@@ -67,7 +67,7 @@
 		"code":"350111202",
 		"fullCode":"350111202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日溪乡",
 		"parentCode":"350111"
 	}

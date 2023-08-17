@@ -3,7 +3,7 @@
 		"code":"350125100",
 		"fullCode":"350125100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樟城镇",
 		"parentCode":"350125"
 	},
@@ -11,7 +11,7 @@
 		"code":"350125101",
 		"fullCode":"350125101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嵩口镇",
 		"parentCode":"350125"
 	},
@@ -19,7 +19,7 @@
 		"code":"350125102",
 		"fullCode":"350125102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梧桐镇",
 		"parentCode":"350125"
 	},
@@ -27,7 +27,7 @@
 		"code":"350125103",
 		"fullCode":"350125103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛岭镇",
 		"parentCode":"350125"
 	},
@@ -35,7 +35,7 @@
 		"code":"350125104",
 		"fullCode":"350125104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城峰镇",
 		"parentCode":"350125"
 	},
@@ -43,7 +43,7 @@
 		"code":"350125105",
 		"fullCode":"350125105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清凉镇",
 		"parentCode":"350125"
 	},
@@ -51,7 +51,7 @@
 		"code":"350125106",
 		"fullCode":"350125106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长庆镇",
 		"parentCode":"350125"
 	},
@@ -59,7 +59,7 @@
 		"code":"350125107",
 		"fullCode":"350125107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同安镇",
 		"parentCode":"350125"
 	},
@@ -67,7 +67,7 @@
 		"code":"350125108",
 		"fullCode":"350125108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大洋镇",
 		"parentCode":"350125"
 	},
@@ -75,7 +75,7 @@
 		"code":"350125200",
 		"fullCode":"350125200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘前乡",
 		"parentCode":"350125"
 	},
@@ -83,7 +83,7 @@
 		"code":"350125201",
 		"fullCode":"350125201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富泉乡",
 		"parentCode":"350125"
 	},
@@ -91,7 +91,7 @@
 		"code":"350125202",
 		"fullCode":"350125202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭路乡",
 		"parentCode":"350125"
 	},
@@ -99,7 +99,7 @@
 		"code":"350125203",
 		"fullCode":"350125203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤锡乡",
 		"parentCode":"350125"
 	},
@@ -107,7 +107,7 @@
 		"code":"350125204",
 		"fullCode":"350125204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洑口乡",
 		"parentCode":"350125"
 	},
@@ -115,7 +115,7 @@
 		"code":"350125205",
 		"fullCode":"350125205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盖洋乡",
 		"parentCode":"350125"
 	},
@@ -123,7 +123,7 @@
 		"code":"350125206",
 		"fullCode":"350125206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东洋乡",
 		"parentCode":"350125"
 	},
@@ -131,7 +131,7 @@
 		"code":"350125207",
 		"fullCode":"350125207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞拔乡",
 		"parentCode":"350125"
 	},
@@ -139,7 +139,7 @@
 		"code":"350125208",
 		"fullCode":"350125208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘谷乡",
 		"parentCode":"350125"
 	},
@@ -147,7 +147,7 @@
 		"code":"350125209",
 		"fullCode":"350125209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星乡",
 		"parentCode":"350125"
 	},
@@ -155,7 +155,7 @@
 		"code":"350125210",
 		"fullCode":"350125210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白云乡",
 		"parentCode":"350125"
 	},
@@ -163,7 +163,7 @@
 		"code":"350125211",
 		"fullCode":"350125211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹云乡",
 		"parentCode":"350125"
 	}

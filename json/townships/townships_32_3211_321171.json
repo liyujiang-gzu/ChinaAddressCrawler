@@ -3,7 +3,7 @@
 		"code":"321171001",
 		"fullCode":"321171001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁卯街道",
 		"parentCode":"321171"
 	},
@@ -11,7 +11,7 @@
 		"code":"321171002",
 		"fullCode":"321171002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大港街道",
 		"parentCode":"321171"
 	},
@@ -19,7 +19,7 @@
 		"code":"321171100",
 		"fullCode":"321171100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚桥镇",
 		"parentCode":"321171"
 	},
@@ -27,7 +27,7 @@
 		"code":"321171101",
 		"fullCode":"321171101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大路镇",
 		"parentCode":"321171"
 	},
@@ -35,7 +35,7 @@
 		"code":"321171102",
 		"fullCode":"321171102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁岗镇",
 		"parentCode":"321171"
 	}

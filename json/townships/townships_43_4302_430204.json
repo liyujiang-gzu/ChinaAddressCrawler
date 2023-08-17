@@ -3,7 +3,7 @@
 		"code":"430204001",
 		"fullCode":"430204001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田心街道",
 		"parentCode":"430204"
 	},
@@ -11,7 +11,7 @@
 		"code":"430204002",
 		"fullCode":"430204002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"响石岭街道",
 		"parentCode":"430204"
 	},
@@ -19,7 +19,7 @@
 		"code":"430204003",
 		"fullCode":"430204003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水塘街道",
 		"parentCode":"430204"
 	},
@@ -27,7 +27,7 @@
 		"code":"430204004",
 		"fullCode":"430204004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜塘湾街道",
 		"parentCode":"430204"
 	},
@@ -35,7 +35,7 @@
 		"code":"430204005",
 		"fullCode":"430204005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井龙街道",
 		"parentCode":"430204"
 	},
@@ -43,7 +43,7 @@
 		"code":"430204008",
 		"fullCode":"430204008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学林街道",
 		"parentCode":"430204"
 	},
@@ -51,7 +51,7 @@
 		"code":"430204009",
 		"fullCode":"430204009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头铺街道",
 		"parentCode":"430204"
 	},
@@ -59,7 +59,7 @@
 		"code":"430204102",
 		"fullCode":"430204102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云田镇",
 		"parentCode":"430204"
 	}

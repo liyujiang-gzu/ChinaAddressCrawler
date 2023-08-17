@@ -3,7 +3,7 @@
 		"code":"152922103",
 		"fullCode":"152922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴丹吉林镇",
 		"parentCode":"152922"
 	},
@@ -11,7 +11,7 @@
 		"code":"152922104",
 		"fullCode":"152922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅布赖镇",
 		"parentCode":"152922"
 	},
@@ -19,7 +19,7 @@
 		"code":"152922105",
 		"fullCode":"152922105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿拉腾敖包镇",
 		"parentCode":"152922"
 	},
@@ -27,7 +27,7 @@
 		"code":"152922211",
 		"fullCode":"152922211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曼德拉苏木",
 		"parentCode":"152922"
 	},
@@ -35,7 +35,7 @@
 		"code":"152922212",
 		"fullCode":"152922212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿拉腾朝格苏木",
 		"parentCode":"152922"
 	},
@@ -43,7 +43,7 @@
 		"code":"152922213",
 		"fullCode":"152922213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦高勒苏木",
 		"parentCode":"152922"
 	},
@@ -51,7 +51,7 @@
 		"code":"152922214",
 		"fullCode":"152922214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔木素布拉格苏木",
 		"parentCode":"152922"
 	}

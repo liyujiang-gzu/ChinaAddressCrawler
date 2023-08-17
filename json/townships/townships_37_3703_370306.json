@@ -3,7 +3,7 @@
 		"code":"370306001",
 		"fullCode":"370306001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丝绸路街道",
 		"parentCode":"370306"
 	},
@@ -11,7 +11,7 @@
 		"code":"370306002",
 		"fullCode":"370306002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大街街道",
 		"parentCode":"370306"
 	},
@@ -19,7 +19,7 @@
 		"code":"370306003",
 		"fullCode":"370306003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青年路街道",
 		"parentCode":"370306"
 	},
@@ -27,7 +27,7 @@
 		"code":"370306004",
 		"fullCode":"370306004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安街道",
 		"parentCode":"370306"
 	},
@@ -35,7 +35,7 @@
 		"code":"370306005",
 		"fullCode":"370306005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北路街道",
 		"parentCode":"370306"
 	},
@@ -43,7 +43,7 @@
 		"code":"370306100",
 		"fullCode":"370306100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北郊镇",
 		"parentCode":"370306"
 	},
@@ -51,7 +51,7 @@
 		"code":"370306101",
 		"fullCode":"370306101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南郊镇",
 		"parentCode":"370306"
 	},
@@ -59,7 +59,7 @@
 		"code":"370306102",
 		"fullCode":"370306102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王村镇",
 		"parentCode":"370306"
 	},
@@ -67,7 +67,7 @@
 		"code":"370306103",
 		"fullCode":"370306103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萌水镇",
 		"parentCode":"370306"
 	},
@@ -75,7 +75,7 @@
 		"code":"370306104",
 		"fullCode":"370306104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商家镇",
 		"parentCode":"370306"
 	}

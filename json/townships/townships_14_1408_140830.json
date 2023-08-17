@@ -3,7 +3,7 @@
 		"code":"140830100",
 		"fullCode":"140830100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古魏镇",
 		"parentCode":"140830"
 	},
@@ -11,7 +11,7 @@
 		"code":"140830101",
 		"fullCode":"140830101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"风陵渡镇",
 		"parentCode":"140830"
 	},
@@ -19,7 +19,7 @@
 		"code":"140830102",
 		"fullCode":"140830102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陌南镇",
 		"parentCode":"140830"
 	},
@@ -27,7 +27,7 @@
 		"code":"140830103",
 		"fullCode":"140830103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西陌镇",
 		"parentCode":"140830"
 	},
@@ -35,7 +35,7 @@
 		"code":"140830104",
 		"fullCode":"140830104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乐镇",
 		"parentCode":"140830"
 	},
@@ -43,7 +43,7 @@
 		"code":"140830105",
 		"fullCode":"140830105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大王镇",
 		"parentCode":"140830"
 	},
@@ -51,7 +51,7 @@
 		"code":"140830106",
 		"fullCode":"140830106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳城镇",
 		"parentCode":"140830"
 	},
@@ -59,7 +59,7 @@
 		"code":"140830107",
 		"fullCode":"140830107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南磑镇",
 		"parentCode":"140830"
 	},
@@ -67,7 +67,7 @@
 		"code":"140830200",
 		"fullCode":"140830200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东垆乡",
 		"parentCode":"140830"
 	},
@@ -75,7 +75,7 @@
 		"code":"140830202",
 		"fullCode":"140830202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学张乡",
 		"parentCode":"140830"
 	},
@@ -83,7 +83,7 @@
 		"code":"140830401",
 		"fullCode":"140830401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芮城县社区",
 		"parentCode":"140830"
 	},
@@ -91,7 +91,7 @@
 		"code":"140830402",
 		"fullCode":"140830402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山西风陵渡经济开发区",
 		"parentCode":"140830"
 	}

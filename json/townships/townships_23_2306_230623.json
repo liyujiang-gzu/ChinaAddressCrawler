@@ -3,7 +3,7 @@
 		"code":"230623100",
 		"fullCode":"230623100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林甸镇",
 		"parentCode":"230623"
 	},
@@ -11,7 +11,7 @@
 		"code":"230623101",
 		"fullCode":"230623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗镇",
 		"parentCode":"230623"
 	},
@@ -19,7 +19,7 @@
 		"code":"230623102",
 		"fullCode":"230623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花园镇",
 		"parentCode":"230623"
 	},
@@ -27,7 +27,7 @@
 		"code":"230623103",
 		"fullCode":"230623103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四季青镇",
 		"parentCode":"230623"
 	},
@@ -35,7 +35,7 @@
 		"code":"230623104",
 		"fullCode":"230623104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤鸣湖镇",
 		"parentCode":"230623"
 	},
@@ -43,7 +43,7 @@
 		"code":"230623200",
 		"fullCode":"230623200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴乡",
 		"parentCode":"230623"
 	},
@@ -51,7 +51,7 @@
 		"code":"230623201",
 		"fullCode":"230623201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏伟乡",
 		"parentCode":"230623"
 	},
@@ -59,7 +59,7 @@
 		"code":"230623204",
 		"fullCode":"230623204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四合乡",
 		"parentCode":"230623"
 	},
@@ -67,7 +67,7 @@
 		"code":"230623400",
 		"fullCode":"230623400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林甸县长青林场",
 		"parentCode":"230623"
 	},
@@ -75,7 +75,7 @@
 		"code":"230623500",
 		"fullCode":"230623500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨浪牧场",
 		"parentCode":"230623"
 	},
@@ -83,7 +83,7 @@
 		"code":"230623580",
 		"fullCode":"230623580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营苇场",
 		"parentCode":"230623"
 	},
@@ -91,7 +91,7 @@
 		"code":"230623581",
 		"fullCode":"230623581000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴畜牧场",
 		"parentCode":"230623"
 	}

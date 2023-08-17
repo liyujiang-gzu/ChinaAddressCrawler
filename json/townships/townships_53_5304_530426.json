@@ -3,7 +3,7 @@
 		"code":"530426001",
 		"fullCode":"530426001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双江街道",
 		"parentCode":"530426"
 	},
@@ -11,7 +11,7 @@
 		"code":"530426002",
 		"fullCode":"530426002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小街街道",
 		"parentCode":"530426"
 	},
@@ -19,7 +19,7 @@
 		"code":"530426103",
 		"fullCode":"530426103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甸中镇",
 		"parentCode":"530426"
 	},
@@ -27,7 +27,7 @@
 		"code":"530426104",
 		"fullCode":"530426104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化念镇",
 		"parentCode":"530426"
 	},
@@ -35,7 +35,7 @@
 		"code":"530426105",
 		"fullCode":"530426105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔甸镇",
 		"parentCode":"530426"
 	},
@@ -43,7 +43,7 @@
 		"code":"530426201",
 		"fullCode":"530426201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岔河乡",
 		"parentCode":"530426"
 	},
@@ -51,7 +51,7 @@
 		"code":"530426202",
 		"fullCode":"530426202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大龙潭乡",
 		"parentCode":"530426"
 	},
@@ -59,7 +59,7 @@
 		"code":"530426203",
 		"fullCode":"530426203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富良棚乡",
 		"parentCode":"530426"
 	}

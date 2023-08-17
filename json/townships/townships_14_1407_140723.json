@@ -3,7 +3,7 @@
 		"code":"140723100",
 		"fullCode":"140723100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义兴镇",
 		"parentCode":"140723"
 	},
@@ -11,7 +11,7 @@
 		"code":"140723101",
 		"fullCode":"140723101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李阳镇",
 		"parentCode":"140723"
 	},
@@ -19,7 +19,7 @@
 		"code":"140723102",
 		"fullCode":"140723102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松烟镇",
 		"parentCode":"140723"
 	},
@@ -27,7 +27,7 @@
 		"code":"140723103",
 		"fullCode":"140723103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青城镇",
 		"parentCode":"140723"
 	},
@@ -35,7 +35,7 @@
 		"code":"140723104",
 		"fullCode":"140723104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横岭镇",
 		"parentCode":"140723"
 	},
@@ -43,7 +43,7 @@
 		"code":"140723200",
 		"fullCode":"140723200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喂马乡",
 		"parentCode":"140723"
 	},
@@ -51,7 +51,7 @@
 		"code":"140723201",
 		"fullCode":"140723201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平松乡",
 		"parentCode":"140723"
 	},
@@ -59,7 +59,7 @@
 		"code":"140723203",
 		"fullCode":"140723203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坊乡",
 		"parentCode":"140723"
 	},
@@ -67,7 +67,7 @@
 		"code":"140723400",
 		"fullCode":"140723400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城区",
 		"parentCode":"140723"
 	}

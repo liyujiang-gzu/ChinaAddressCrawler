@@ -3,7 +3,7 @@
 		"code":"370503001",
 		"fullCode":"370503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口街道",
 		"parentCode":"370503"
 	},
@@ -11,7 +11,7 @@
 		"code":"370503002",
 		"fullCode":"370503002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六合街道",
 		"parentCode":"370503"
 	},
@@ -19,7 +19,7 @@
 		"code":"370503100",
 		"fullCode":"370503100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义和镇",
 		"parentCode":"370503"
 	},
@@ -27,7 +27,7 @@
 		"code":"370503101",
 		"fullCode":"370503101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙河镇",
 		"parentCode":"370503"
 	},
@@ -35,7 +35,7 @@
 		"code":"370503102",
 		"fullCode":"370503102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孤岛镇",
 		"parentCode":"370503"
 	},
@@ -43,7 +43,7 @@
 		"code":"370503103",
 		"fullCode":"370503103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新户镇",
 		"parentCode":"370503"
 	},
@@ -51,7 +51,7 @@
 		"code":"370503400",
 		"fullCode":"370503400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口经济开发区",
 		"parentCode":"370503"
 	},
@@ -59,7 +59,7 @@
 		"code":"370503401",
 		"fullCode":"370503401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口蓝色经济开发区",
 		"parentCode":"370503"
 	}

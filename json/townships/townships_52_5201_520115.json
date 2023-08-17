@@ -3,7 +3,7 @@
 		"code":"520115001",
 		"fullCode":"520115001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宾阳街道",
 		"parentCode":"520115"
 	},
@@ -11,7 +11,7 @@
 		"code":"520115002",
 		"fullCode":"520115002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云潭街道",
 		"parentCode":"520115"
 	},
@@ -19,7 +19,7 @@
 		"code":"520115003",
 		"fullCode":"520115003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金华园街道",
 		"parentCode":"520115"
 	},
@@ -27,7 +27,7 @@
 		"code":"520115004",
 		"fullCode":"520115004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岭街道",
 		"parentCode":"520115"
 	},
@@ -35,7 +35,7 @@
 		"code":"520115005",
 		"fullCode":"520115005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观山街道",
 		"parentCode":"520115"
 	},
@@ -43,7 +43,7 @@
 		"code":"520115006",
 		"fullCode":"520115006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"世纪城街道",
 		"parentCode":"520115"
 	},
@@ -51,7 +51,7 @@
 		"code":"520115007",
 		"fullCode":"520115007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金阳街道",
 		"parentCode":"520115"
 	},
@@ -59,7 +59,7 @@
 		"code":"520115100",
 		"fullCode":"520115100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金华镇",
 		"parentCode":"520115"
 	},
@@ -67,7 +67,7 @@
 		"code":"520115101",
 		"fullCode":"520115101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱昌镇",
 		"parentCode":"520115"
 	},
@@ -75,7 +75,7 @@
 		"code":"520115102",
 		"fullCode":"520115102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百花湖镇",
 		"parentCode":"520115"
 	}

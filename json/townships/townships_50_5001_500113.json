@@ -3,7 +3,7 @@
 		"code":"500113003",
 		"fullCode":"500113003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙洲湾街道",
 		"parentCode":"500113"
 	},
@@ -11,7 +11,7 @@
 		"code":"500113004",
 		"fullCode":"500113004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼洞街道",
 		"parentCode":"500113"
 	},
@@ -19,7 +19,7 @@
 		"code":"500113005",
 		"fullCode":"500113005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花溪街道",
 		"parentCode":"500113"
 	},
@@ -27,7 +27,7 @@
 		"code":"500113006",
 		"fullCode":"500113006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家沱街道",
 		"parentCode":"500113"
 	},
@@ -35,7 +35,7 @@
 		"code":"500113007",
 		"fullCode":"500113007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南泉街道",
 		"parentCode":"500113"
 	},
@@ -43,7 +43,7 @@
 		"code":"500113008",
 		"fullCode":"500113008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"一品街道",
 		"parentCode":"500113"
 	},
@@ -51,7 +51,7 @@
 		"code":"500113009",
 		"fullCode":"500113009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南彭街道",
 		"parentCode":"500113"
 	},
@@ -59,7 +59,7 @@
 		"code":"500113010",
 		"fullCode":"500113010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠民街道",
 		"parentCode":"500113"
 	},
@@ -67,7 +67,7 @@
 		"code":"500113011",
 		"fullCode":"500113011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花街道",
 		"parentCode":"500113"
 	},
@@ -75,7 +75,7 @@
 		"code":"500113103",
 		"fullCode":"500113103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界石镇",
 		"parentCode":"500113"
 	},
@@ -83,7 +83,7 @@
 		"code":"500113107",
 		"fullCode":"500113107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安澜镇",
 		"parentCode":"500113"
 	},
@@ -91,7 +91,7 @@
 		"code":"500113108",
 		"fullCode":"500113108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圣灯山镇",
 		"parentCode":"500113"
 	},
@@ -99,7 +99,7 @@
 		"code":"500113109",
 		"fullCode":"500113109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木洞镇",
 		"parentCode":"500113"
 	},
@@ -107,7 +107,7 @@
 		"code":"500113110",
 		"fullCode":"500113110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河口镇",
 		"parentCode":"500113"
 	},
@@ -115,7 +115,7 @@
 		"code":"500113111",
 		"fullCode":"500113111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻柳嘴镇",
 		"parentCode":"500113"
 	},
@@ -123,7 +123,7 @@
 		"code":"500113112",
 		"fullCode":"500113112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰盛镇",
 		"parentCode":"500113"
 	},
@@ -131,7 +131,7 @@
 		"code":"500113113",
 		"fullCode":"500113113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二圣镇",
 		"parentCode":"500113"
 	},
@@ -139,7 +139,7 @@
 		"code":"500113114",
 		"fullCode":"500113114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东温泉镇",
 		"parentCode":"500113"
 	},
@@ -147,7 +147,7 @@
 		"code":"500113115",
 		"fullCode":"500113115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜家镇",
 		"parentCode":"500113"
 	},
@@ -155,7 +155,7 @@
 		"code":"500113116",
 		"fullCode":"500113116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天星寺镇",
 		"parentCode":"500113"
 	},
@@ -163,7 +163,7 @@
 		"code":"500113117",
 		"fullCode":"500113117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"接龙镇",
 		"parentCode":"500113"
 	},
@@ -171,7 +171,7 @@
 		"code":"500113118",
 		"fullCode":"500113118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石滩镇",
 		"parentCode":"500113"
 	},
@@ -179,7 +179,7 @@
 		"code":"500113119",
 		"fullCode":"500113119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石龙镇",
 		"parentCode":"500113"
 	}

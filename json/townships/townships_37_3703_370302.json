@@ -3,7 +3,7 @@
 		"code":"370302001",
 		"fullCode":"370302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"般阳路街道",
 		"parentCode":"370302"
 	},
@@ -11,7 +11,7 @@
 		"code":"370302002",
 		"fullCode":"370302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松龄路街道",
 		"parentCode":"370302"
 	},
@@ -19,7 +19,7 @@
 		"code":"370302004",
 		"fullCode":"370302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟楼街道",
 		"parentCode":"370302"
 	},
@@ -27,7 +27,7 @@
 		"code":"370302005",
 		"fullCode":"370302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"将军路街道",
 		"parentCode":"370302"
 	},
@@ -35,7 +35,7 @@
 		"code":"370302102",
 		"fullCode":"370302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆仑镇",
 		"parentCode":"370302"
 	},
@@ -43,7 +43,7 @@
 		"code":"370302104",
 		"fullCode":"370302104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭子镇",
 		"parentCode":"370302"
 	},
@@ -51,7 +51,7 @@
 		"code":"370302111",
 		"fullCode":"370302111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河镇",
 		"parentCode":"370302"
 	},
@@ -59,7 +59,7 @@
 		"code":"370302112",
 		"fullCode":"370302112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉镇",
 		"parentCode":"370302"
 	},
@@ -67,7 +67,7 @@
 		"code":"370302113",
 		"fullCode":"370302113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨里镇",
 		"parentCode":"370302"
 	},
@@ -75,7 +75,7 @@
 		"code":"370302114",
 		"fullCode":"370302114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗村镇",
 		"parentCode":"370302"
 	},
@@ -83,7 +83,7 @@
 		"code":"370302115",
 		"fullCode":"370302115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪山镇",
 		"parentCode":"370302"
 	},
@@ -91,7 +91,7 @@
 		"code":"370302116",
 		"fullCode":"370302116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双杨镇",
 		"parentCode":"370302"
 	},
@@ -99,7 +99,7 @@
 		"code":"370302117",
 		"fullCode":"370302117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太河镇",
 		"parentCode":"370302"
 	}

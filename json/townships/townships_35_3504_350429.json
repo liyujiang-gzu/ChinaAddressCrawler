@@ -3,7 +3,7 @@
 		"code":"350429100",
 		"fullCode":"350429100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杉城镇",
 		"parentCode":"350429"
 	},
@@ -11,7 +11,7 @@
 		"code":"350429101",
 		"fullCode":"350429101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱口镇",
 		"parentCode":"350429"
 	},
@@ -19,7 +19,7 @@
 		"code":"350429103",
 		"fullCode":"350429103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下渠镇",
 		"parentCode":"350429"
 	},
@@ -27,7 +27,7 @@
 		"code":"350429200",
 		"fullCode":"350429200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥乡",
 		"parentCode":"350429"
 	},
@@ -35,7 +35,7 @@
 		"code":"350429201",
 		"fullCode":"350429201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上青乡",
 		"parentCode":"350429"
 	},
@@ -43,7 +43,7 @@
 		"code":"350429202",
 		"fullCode":"350429202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大田乡",
 		"parentCode":"350429"
 	},
@@ -51,7 +51,7 @@
 		"code":"350429203",
 		"fullCode":"350429203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅口乡",
 		"parentCode":"350429"
 	},
@@ -59,7 +59,7 @@
 		"code":"350429205",
 		"fullCode":"350429205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开善乡",
 		"parentCode":"350429"
 	},
@@ -67,7 +67,7 @@
 		"code":"350429208",
 		"fullCode":"350429208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大龙乡",
 		"parentCode":"350429"
 	}

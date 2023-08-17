@@ -3,7 +3,7 @@
 		"code":"510183001",
 		"fullCode":"510183001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文君街道",
 		"parentCode":"510183"
 	},
@@ -11,7 +11,7 @@
 		"code":"510183002",
 		"fullCode":"510183002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临邛街道",
 		"parentCode":"510183"
 	},
@@ -19,7 +19,7 @@
 		"code":"510183003",
 		"fullCode":"510183003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固驿街道",
 		"parentCode":"510183"
 	},
@@ -27,7 +27,7 @@
 		"code":"510183004",
 		"fullCode":"510183004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊安街道",
 		"parentCode":"510183"
 	},
@@ -35,7 +35,7 @@
 		"code":"510183005",
 		"fullCode":"510183005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高埂街道",
 		"parentCode":"510183"
 	},
@@ -43,7 +43,7 @@
 		"code":"510183006",
 		"fullCode":"510183006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔明街道",
 		"parentCode":"510183"
 	},
@@ -51,7 +51,7 @@
 		"code":"510183103",
 		"fullCode":"510183103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑园镇",
 		"parentCode":"510183"
 	},
@@ -59,7 +59,7 @@
 		"code":"510183104",
 		"fullCode":"510183104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平乐镇",
 		"parentCode":"510183"
 	},
@@ -67,7 +67,7 @@
 		"code":"510183105",
 		"fullCode":"510183105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹关镇",
 		"parentCode":"510183"
 	},
@@ -75,7 +75,7 @@
 		"code":"510183106",
 		"fullCode":"510183106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火井镇",
 		"parentCode":"510183"
 	},
@@ -83,7 +83,7 @@
 		"code":"510183115",
 		"fullCode":"510183115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临济镇",
 		"parentCode":"510183"
 	},
@@ -91,7 +91,7 @@
 		"code":"510183118",
 		"fullCode":"510183118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天台山镇",
 		"parentCode":"510183"
 	},
@@ -99,7 +99,7 @@
 		"code":"510183121",
 		"fullCode":"510183121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南宝山镇",
 		"parentCode":"510183"
 	},
@@ -107,7 +107,7 @@
 		"code":"510183122",
 		"fullCode":"510183122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大同镇",
 		"parentCode":"510183"
 	}

@@ -3,7 +3,7 @@
 		"code":"230602013",
 		"fullCode":"230602013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨尔图街道",
 		"parentCode":"230602"
 	},
@@ -11,7 +11,7 @@
 		"code":"230602014",
 		"fullCode":"230602014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会战街道",
 		"parentCode":"230602"
 	},
@@ -19,7 +19,7 @@
 		"code":"230602015",
 		"fullCode":"230602015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友谊街道",
 		"parentCode":"230602"
 	},
@@ -27,7 +27,7 @@
 		"code":"230602016",
 		"fullCode":"230602016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东安街道",
 		"parentCode":"230602"
 	},
@@ -35,7 +35,7 @@
 		"code":"230602017",
 		"fullCode":"230602017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风街道",
 		"parentCode":"230602"
 	},
@@ -43,7 +43,7 @@
 		"code":"230602018",
 		"fullCode":"230602018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁人街道",
 		"parentCode":"230602"
 	},
@@ -51,7 +51,7 @@
 		"code":"230602019",
 		"fullCode":"230602019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火炬街道",
 		"parentCode":"230602"
 	},
@@ -59,7 +59,7 @@
 		"code":"230602020",
 		"fullCode":"230602020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拥军街道",
 		"parentCode":"230602"
 	},
@@ -67,7 +67,7 @@
 		"code":"230602021",
 		"fullCode":"230602021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万宝街道",
 		"parentCode":"230602"
 	},
@@ -75,7 +75,7 @@
 		"code":"230602022",
 		"fullCode":"230602022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"格林街道",
 		"parentCode":"230602"
 	},
@@ -83,7 +83,7 @@
 		"code":"230602023",
 		"fullCode":"230602023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绿园街道",
 		"parentCode":"230602"
 	}

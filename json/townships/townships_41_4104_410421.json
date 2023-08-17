@@ -3,7 +3,7 @@
 		"code":"410421001",
 		"fullCode":"410421001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁路街道",
 		"parentCode":"410421"
 	},
@@ -11,7 +11,7 @@
 		"code":"410421100",
 		"fullCode":"410421100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"410421"
 	},
@@ -19,7 +19,7 @@
 		"code":"410421101",
 		"fullCode":"410421101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周庄镇",
 		"parentCode":"410421"
 	},
@@ -27,7 +27,7 @@
 		"code":"410421102",
 		"fullCode":"410421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闹店镇",
 		"parentCode":"410421"
 	},
@@ -35,7 +35,7 @@
 		"code":"410421103",
 		"fullCode":"410421103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥镇",
 		"parentCode":"410421"
 	},
@@ -43,7 +43,7 @@
 		"code":"410421104",
 		"fullCode":"410421104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"商酒务镇",
 		"parentCode":"410421"
 	},
@@ -51,7 +51,7 @@
 		"code":"410421105",
 		"fullCode":"410421105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营镇",
 		"parentCode":"410421"
 	},
@@ -59,7 +59,7 @@
 		"code":"410421106",
 		"fullCode":"410421106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张八桥镇",
 		"parentCode":"410421"
 	},
@@ -67,7 +67,7 @@
 		"code":"410421107",
 		"fullCode":"410421107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨庄镇",
 		"parentCode":"410421"
 	},
@@ -75,7 +75,7 @@
 		"code":"410421108",
 		"fullCode":"410421108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵庄镇",
 		"parentCode":"410421"
 	},
@@ -83,7 +83,7 @@
 		"code":"410421200",
 		"fullCode":"410421200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖旗乡",
 		"parentCode":"410421"
 	},
@@ -91,7 +91,7 @@
 		"code":"410421202",
 		"fullCode":"410421202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前营乡",
 		"parentCode":"410421"
 	},
@@ -99,7 +99,7 @@
 		"code":"410421203",
 		"fullCode":"410421203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李庄乡",
 		"parentCode":"410421"
 	}

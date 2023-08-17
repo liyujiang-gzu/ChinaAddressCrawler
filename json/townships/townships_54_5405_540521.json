@@ -3,7 +3,7 @@
 		"code":"540521100",
 		"fullCode":"540521100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎塘镇",
 		"parentCode":"540521"
 	},
@@ -11,7 +11,7 @@
 		"code":"540521101",
 		"fullCode":"540521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑耶镇",
 		"parentCode":"540521"
 	},
@@ -19,7 +19,7 @@
 		"code":"540521200",
 		"fullCode":"540521200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎其乡",
 		"parentCode":"540521"
 	},
@@ -27,7 +27,7 @@
 		"code":"540521201",
 		"fullCode":"540521201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿扎乡",
 		"parentCode":"540521"
 	},
@@ -35,7 +35,7 @@
 		"code":"540521202",
 		"fullCode":"540521202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉汝乡",
 		"parentCode":"540521"
 	}

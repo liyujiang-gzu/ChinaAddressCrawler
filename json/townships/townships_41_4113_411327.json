@@ -3,7 +3,7 @@
 		"code":"411327001",
 		"fullCode":"411327001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵河街道",
 		"parentCode":"411327"
 	},
@@ -11,7 +11,7 @@
 		"code":"411327002",
 		"fullCode":"411327002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘河街道",
 		"parentCode":"411327"
 	},
@@ -19,7 +19,7 @@
 		"code":"411327100",
 		"fullCode":"411327100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赊店镇",
 		"parentCode":"411327"
 	},
@@ -27,7 +27,7 @@
 		"code":"411327101",
 		"fullCode":"411327101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头镇",
 		"parentCode":"411327"
 	},
@@ -35,7 +35,7 @@
 		"code":"411327103",
 		"fullCode":"411327103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"饶良镇",
 		"parentCode":"411327"
 	},
@@ -43,7 +43,7 @@
 		"code":"411327104",
 		"fullCode":"411327104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"411327"
 	},
@@ -51,7 +51,7 @@
 		"code":"411327105",
 		"fullCode":"411327105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋庄镇",
 		"parentCode":"411327"
 	},
@@ -59,7 +59,7 @@
 		"code":"411327106",
 		"fullCode":"411327106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李店镇",
 		"parentCode":"411327"
 	},
@@ -67,7 +67,7 @@
 		"code":"411327107",
 		"fullCode":"411327107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苗店镇",
 		"parentCode":"411327"
 	},
@@ -75,7 +75,7 @@
 		"code":"411327108",
 		"fullCode":"411327108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郝寨镇",
 		"parentCode":"411327"
 	},
@@ -83,7 +83,7 @@
 		"code":"411327109",
 		"fullCode":"411327109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱集镇",
 		"parentCode":"411327"
 	},
@@ -91,7 +91,7 @@
 		"code":"411327110",
 		"fullCode":"411327110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下洼镇",
 		"parentCode":"411327"
 	},
@@ -99,7 +99,7 @@
 		"code":"411327111",
 		"fullCode":"411327111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和镇",
 		"parentCode":"411327"
 	},
@@ -107,7 +107,7 @@
 		"code":"411327112",
 		"fullCode":"411327112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大冯营镇",
 		"parentCode":"411327"
 	},
@@ -115,7 +115,7 @@
 		"code":"411327113",
 		"fullCode":"411327113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陌陂镇",
 		"parentCode":"411327"
 	},
@@ -123,7 +123,7 @@
 		"code":"411327313",
 		"fullCode":"411327313000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐庄乡",
 		"parentCode":"411327"
 	}

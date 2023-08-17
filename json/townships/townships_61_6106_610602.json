@@ -3,7 +3,7 @@
 		"code":"610602001",
 		"fullCode":"610602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝塔山街道",
 		"parentCode":"610602"
 	},
@@ -11,7 +11,7 @@
 		"code":"610602002",
 		"fullCode":"610602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南市街道",
 		"parentCode":"610602"
 	},
@@ -19,7 +19,7 @@
 		"code":"610602003",
 		"fullCode":"610602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰山街道",
 		"parentCode":"610602"
 	},
@@ -27,7 +27,7 @@
 		"code":"610602004",
 		"fullCode":"610602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣园街道",
 		"parentCode":"610602"
 	},
@@ -35,7 +35,7 @@
 		"code":"610602005",
 		"fullCode":"610602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥沟街道",
 		"parentCode":"610602"
 	},
@@ -43,7 +43,7 @@
 		"code":"610602006",
 		"fullCode":"610602006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"610602"
 	},
@@ -51,7 +51,7 @@
 		"code":"610602102",
 		"fullCode":"610602102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河庄坪镇",
 		"parentCode":"610602"
 	},
@@ -59,7 +59,7 @@
 		"code":"610602103",
 		"fullCode":"610602103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李渠镇",
 		"parentCode":"610602"
 	},
@@ -67,7 +67,7 @@
 		"code":"610602104",
 		"fullCode":"610602104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚店镇",
 		"parentCode":"610602"
 	},
@@ -75,7 +75,7 @@
 		"code":"610602105",
 		"fullCode":"610602105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青化砭镇",
 		"parentCode":"610602"
 	},
@@ -83,7 +83,7 @@
 		"code":"610602106",
 		"fullCode":"610602106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蟠龙镇",
 		"parentCode":"610602"
 	},
@@ -91,7 +91,7 @@
 		"code":"610602107",
 		"fullCode":"610602107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳林镇",
 		"parentCode":"610602"
 	},
@@ -99,7 +99,7 @@
 		"code":"610602108",
 		"fullCode":"610602108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南泥湾镇",
 		"parentCode":"610602"
 	},
@@ -107,7 +107,7 @@
 		"code":"610602109",
 		"fullCode":"610602109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临镇",
 		"parentCode":"610602"
 	},
@@ -115,7 +115,7 @@
 		"code":"610602110",
 		"fullCode":"610602110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘谷驿镇",
 		"parentCode":"610602"
 	},
@@ -123,7 +123,7 @@
 		"code":"610602111",
 		"fullCode":"610602111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万花山镇",
 		"parentCode":"610602"
 	},
@@ -131,7 +131,7 @@
 		"code":"610602112",
 		"fullCode":"610602112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川口镇",
 		"parentCode":"610602"
 	},
@@ -139,7 +139,7 @@
 		"code":"610602113",
 		"fullCode":"610602113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻洞川镇",
 		"parentCode":"610602"
 	},
@@ -147,7 +147,7 @@
 		"code":"610602202",
 		"fullCode":"610602202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯庄乡",
 		"parentCode":"610602"
 	}

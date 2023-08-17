@@ -3,7 +3,7 @@
 		"code":"500237001",
 		"fullCode":"500237001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高唐街道",
 		"parentCode":"500237"
 	},
@@ -11,7 +11,7 @@
 		"code":"500237002",
 		"fullCode":"500237002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门街道",
 		"parentCode":"500237"
 	},
@@ -19,7 +19,7 @@
 		"code":"500237101",
 		"fullCode":"500237101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙宇镇",
 		"parentCode":"500237"
 	},
@@ -27,7 +27,7 @@
 		"code":"500237102",
 		"fullCode":"500237102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大昌镇",
 		"parentCode":"500237"
 	},
@@ -35,7 +35,7 @@
 		"code":"500237103",
 		"fullCode":"500237103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福田镇",
 		"parentCode":"500237"
 	},
@@ -43,7 +43,7 @@
 		"code":"500237104",
 		"fullCode":"500237104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙溪镇",
 		"parentCode":"500237"
 	},
@@ -51,7 +51,7 @@
 		"code":"500237105",
 		"fullCode":"500237105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙镇",
 		"parentCode":"500237"
 	},
@@ -59,7 +59,7 @@
 		"code":"500237106",
 		"fullCode":"500237106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官阳镇",
 		"parentCode":"500237"
 	},
@@ -67,7 +67,7 @@
 		"code":"500237107",
 		"fullCode":"500237107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骡坪镇",
 		"parentCode":"500237"
 	},
@@ -75,7 +75,7 @@
 		"code":"500237108",
 		"fullCode":"500237108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抱龙镇",
 		"parentCode":"500237"
 	},
@@ -83,7 +83,7 @@
 		"code":"500237109",
 		"fullCode":"500237109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官渡镇",
 		"parentCode":"500237"
 	},
@@ -91,7 +91,7 @@
 		"code":"500237110",
 		"fullCode":"500237110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜鼓镇",
 		"parentCode":"500237"
 	},
@@ -99,7 +99,7 @@
 		"code":"500237111",
 		"fullCode":"500237111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巫峡镇",
 		"parentCode":"500237"
 	},
@@ -107,7 +107,7 @@
 		"code":"500237200",
 		"fullCode":"500237200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红椿乡",
 		"parentCode":"500237"
 	},
@@ -115,7 +115,7 @@
 		"code":"500237207",
 		"fullCode":"500237207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两坪乡",
 		"parentCode":"500237"
 	},
@@ -123,7 +123,7 @@
 		"code":"500237208",
 		"fullCode":"500237208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲尺乡",
 		"parentCode":"500237"
 	},
@@ -131,7 +131,7 @@
 		"code":"500237210",
 		"fullCode":"500237210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建平乡",
 		"parentCode":"500237"
 	},
@@ -139,7 +139,7 @@
 		"code":"500237211",
 		"fullCode":"500237211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大溪乡",
 		"parentCode":"500237"
 	},
@@ -147,7 +147,7 @@
 		"code":"500237214",
 		"fullCode":"500237214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金坪乡",
 		"parentCode":"500237"
 	},
@@ -155,7 +155,7 @@
 		"code":"500237216",
 		"fullCode":"500237216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平河乡",
 		"parentCode":"500237"
 	},
@@ -163,7 +163,7 @@
 		"code":"500237219",
 		"fullCode":"500237219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"当阳乡",
 		"parentCode":"500237"
 	},
@@ -171,7 +171,7 @@
 		"code":"500237222",
 		"fullCode":"500237222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹贤乡",
 		"parentCode":"500237"
 	},
@@ -179,7 +179,7 @@
 		"code":"500237225",
 		"fullCode":"500237225000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三溪乡",
 		"parentCode":"500237"
 	},
@@ -187,7 +187,7 @@
 		"code":"500237227",
 		"fullCode":"500237227000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"培石乡",
 		"parentCode":"500237"
 	},
@@ -195,7 +195,7 @@
 		"code":"500237229",
 		"fullCode":"500237229000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"笃坪乡",
 		"parentCode":"500237"
 	},
@@ -203,7 +203,7 @@
 		"code":"500237231",
 		"fullCode":"500237231000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓家乡",
 		"parentCode":"500237"
 	}

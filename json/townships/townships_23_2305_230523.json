@@ -3,7 +3,7 @@
 		"code":"230523100",
 		"fullCode":"230523100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝清镇",
 		"parentCode":"230523"
 	},
@@ -11,7 +11,7 @@
 		"code":"230523101",
 		"fullCode":"230523101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七星泡镇",
 		"parentCode":"230523"
 	},
@@ -19,7 +19,7 @@
 		"code":"230523102",
 		"fullCode":"230523102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青原镇",
 		"parentCode":"230523"
 	},
@@ -27,7 +27,7 @@
 		"code":"230523103",
 		"fullCode":"230523103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹信子镇",
 		"parentCode":"230523"
 	},
@@ -35,7 +35,7 @@
 		"code":"230523104",
 		"fullCode":"230523104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头镇",
 		"parentCode":"230523"
 	},
@@ -43,7 +43,7 @@
 		"code":"230523105",
 		"fullCode":"230523105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小城子镇",
 		"parentCode":"230523"
 	},
@@ -51,7 +51,7 @@
 		"code":"230523106",
 		"fullCode":"230523106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳镇",
 		"parentCode":"230523"
 	},
@@ -59,7 +59,7 @@
 		"code":"230523203",
 		"fullCode":"230523203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万金山乡",
 		"parentCode":"230523"
 	},
@@ -67,7 +67,7 @@
 		"code":"230523204",
 		"fullCode":"230523204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尖山子乡",
 		"parentCode":"230523"
 	},
@@ -75,7 +75,7 @@
 		"code":"230523209",
 		"fullCode":"230523209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七星河乡",
 		"parentCode":"230523"
 	},
@@ -83,7 +83,7 @@
 		"code":"230523400",
 		"fullCode":"230523400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双鸭山林业局上游经营所",
 		"parentCode":"230523"
 	},
@@ -91,7 +91,7 @@
 		"code":"230523401",
 		"fullCode":"230523401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双鸭山林业局南瓮泉经营所",
 		"parentCode":"230523"
 	},
@@ -99,7 +99,7 @@
 		"code":"230523402",
 		"fullCode":"230523402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双鸭山林业局七一林场",
 		"parentCode":"230523"
 	},
@@ -107,7 +107,7 @@
 		"code":"230523403",
 		"fullCode":"230523403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双鸭山林业局七星河林场",
 		"parentCode":"230523"
 	},
@@ -115,7 +115,7 @@
 		"code":"230523404",
 		"fullCode":"230523404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双鸭山林业局红旗林场",
 		"parentCode":"230523"
 	},
@@ -123,7 +123,7 @@
 		"code":"230523405",
 		"fullCode":"230523405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双鸭山林业局三岔河林场",
 		"parentCode":"230523"
 	},
@@ -131,7 +131,7 @@
 		"code":"230523406",
 		"fullCode":"230523406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双鸭山林业局青龙林场",
 		"parentCode":"230523"
 	},
@@ -139,7 +139,7 @@
 		"code":"230523407",
 		"fullCode":"230523407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双鸭山林业局宝石经营所",
 		"parentCode":"230523"
 	},
@@ -147,7 +147,7 @@
 		"code":"230523408",
 		"fullCode":"230523408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双鸭山林业局七星河金矿",
 		"parentCode":"230523"
 	},
@@ -155,7 +155,7 @@
 		"code":"230523409",
 		"fullCode":"230523409000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桦南林业局岚峰林场",
 		"parentCode":"230523"
 	},
@@ -163,7 +163,7 @@
 		"code":"230523500",
 		"fullCode":"230523500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五九七农场",
 		"parentCode":"230523"
 	},
@@ -171,7 +171,7 @@
 		"code":"230523501",
 		"fullCode":"230523501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八五二农场",
 		"parentCode":"230523"
 	},
@@ -179,7 +179,7 @@
 		"code":"230523502",
 		"fullCode":"230523502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八五三农场",
 		"parentCode":"230523"
 	}

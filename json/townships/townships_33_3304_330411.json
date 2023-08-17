@@ -3,7 +3,7 @@
 		"code":"330411002",
 		"fullCode":"330411002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"330411"
 	},
@@ -11,7 +11,7 @@
 		"code":"330411003",
 		"fullCode":"330411003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉北街道",
 		"parentCode":"330411"
 	},
@@ -19,7 +19,7 @@
 		"code":"330411004",
 		"fullCode":"330411004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘汇街道",
 		"parentCode":"330411"
 	},
@@ -27,7 +27,7 @@
 		"code":"330411005",
 		"fullCode":"330411005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高照街道",
 		"parentCode":"330411"
 	},
@@ -35,7 +35,7 @@
 		"code":"330411101",
 		"fullCode":"330411101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王江泾镇",
 		"parentCode":"330411"
 	},
@@ -43,7 +43,7 @@
 		"code":"330411103",
 		"fullCode":"330411103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"油车港镇",
 		"parentCode":"330411"
 	},
@@ -51,7 +51,7 @@
 		"code":"330411104",
 		"fullCode":"330411104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新塍镇",
 		"parentCode":"330411"
 	},
@@ -59,7 +59,7 @@
 		"code":"330411105",
 		"fullCode":"330411105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王店镇",
 		"parentCode":"330411"
 	},
@@ -67,7 +67,7 @@
 		"code":"330411106",
 		"fullCode":"330411106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪合镇",
 		"parentCode":"330411"
 	}

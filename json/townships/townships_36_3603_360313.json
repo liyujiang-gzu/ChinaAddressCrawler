@@ -3,7 +3,7 @@
 		"code":"360313001",
 		"fullCode":"360313001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峡山口街道",
 		"parentCode":"360313"
 	},
@@ -11,7 +11,7 @@
 		"code":"360313101",
 		"fullCode":"360313101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湘东镇",
 		"parentCode":"360313"
 	},
@@ -19,7 +19,7 @@
 		"code":"360313102",
 		"fullCode":"360313102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷尧镇",
 		"parentCode":"360313"
 	},
@@ -27,7 +27,7 @@
 		"code":"360313103",
 		"fullCode":"360313103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老关镇",
 		"parentCode":"360313"
 	},
@@ -35,7 +35,7 @@
 		"code":"360313104",
 		"fullCode":"360313104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腊市镇",
 		"parentCode":"360313"
 	},
@@ -43,7 +43,7 @@
 		"code":"360313105",
 		"fullCode":"360313105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下埠镇",
 		"parentCode":"360313"
 	},
@@ -51,7 +51,7 @@
 		"code":"360313106",
 		"fullCode":"360313106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"排上镇",
 		"parentCode":"360313"
 	},
@@ -59,7 +59,7 @@
 		"code":"360313107",
 		"fullCode":"360313107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东桥镇",
 		"parentCode":"360313"
 	},
@@ -67,7 +67,7 @@
 		"code":"360313108",
 		"fullCode":"360313108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻山镇",
 		"parentCode":"360313"
 	},
@@ -75,7 +75,7 @@
 		"code":"360313200",
 		"fullCode":"360313200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广寒寨乡",
 		"parentCode":"360313"
 	},
@@ -83,7 +83,7 @@
 		"code":"360313201",
 		"fullCode":"360313201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白竺乡",
 		"parentCode":"360313"
 	}

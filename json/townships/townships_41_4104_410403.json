@@ -3,7 +3,7 @@
 		"code":"410403001",
 		"fullCode":"410403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东安路街道",
 		"parentCode":"410403"
 	},
@@ -11,7 +11,7 @@
 		"code":"410403002",
 		"fullCode":"410403002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"优越路街道",
 		"parentCode":"410403"
 	},
@@ -19,7 +19,7 @@
 		"code":"410403003",
 		"fullCode":"410403003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五一路街道",
 		"parentCode":"410403"
 	},
@@ -27,7 +27,7 @@
 		"code":"410403004",
 		"fullCode":"410403004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设路街道",
 		"parentCode":"410403"
 	},
@@ -35,7 +35,7 @@
 		"code":"410403005",
 		"fullCode":"410403005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东环路街道",
 		"parentCode":"410403"
 	},
@@ -43,7 +43,7 @@
 		"code":"410403006",
 		"fullCode":"410403006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东工人镇街道",
 		"parentCode":"410403"
 	},
@@ -51,7 +51,7 @@
 		"code":"410403007",
 		"fullCode":"410403007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光华路街道",
 		"parentCode":"410403"
 	},
@@ -59,7 +59,7 @@
 		"code":"410403008",
 		"fullCode":"410403008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸿鹰街道",
 		"parentCode":"410403"
 	},
@@ -67,7 +67,7 @@
 		"code":"410403009",
 		"fullCode":"410403009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"申楼街道",
 		"parentCode":"410403"
 	},
@@ -75,7 +75,7 @@
 		"code":"410403010",
 		"fullCode":"410403010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北环路街道",
 		"parentCode":"410403"
 	},
@@ -83,7 +83,7 @@
 		"code":"410403011",
 		"fullCode":"410403011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东高皇街道",
 		"parentCode":"410403"
 	},
@@ -91,7 +91,7 @@
 		"code":"410403012",
 		"fullCode":"410403012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲城街道",
 		"parentCode":"410403"
 	}

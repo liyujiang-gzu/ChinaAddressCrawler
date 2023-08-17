@@ -3,7 +3,7 @@
 		"code":"450303001",
 		"fullCode":"450303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叠彩街道",
 		"parentCode":"450303"
 	},
@@ -11,7 +11,7 @@
 		"code":"450303002",
 		"fullCode":"450303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北门街道",
 		"parentCode":"450303"
 	},
@@ -19,7 +19,7 @@
 		"code":"450303200",
 		"fullCode":"450303200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河乡",
 		"parentCode":"450303"
 	}

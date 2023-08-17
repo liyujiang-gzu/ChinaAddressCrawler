@@ -3,7 +3,7 @@
 		"code":"321323001",
 		"fullCode":"321323001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"众兴街道",
 		"parentCode":"321323"
 	},
@@ -11,7 +11,7 @@
 		"code":"321323002",
 		"fullCode":"321323002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城厢街道",
 		"parentCode":"321323"
 	},
@@ -19,7 +19,7 @@
 		"code":"321323003",
 		"fullCode":"321323003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"来安街道",
 		"parentCode":"321323"
 	},
@@ -27,7 +27,7 @@
 		"code":"321323101",
 		"fullCode":"321323101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱园镇",
 		"parentCode":"321323"
 	},
@@ -35,7 +35,7 @@
 		"code":"321323102",
 		"fullCode":"321323102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王集镇",
 		"parentCode":"321323"
 	},
@@ -43,7 +43,7 @@
 		"code":"321323103",
 		"fullCode":"321323103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裴圩镇",
 		"parentCode":"321323"
 	},
@@ -51,7 +51,7 @@
 		"code":"321323104",
 		"fullCode":"321323104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新袁镇",
 		"parentCode":"321323"
 	},
@@ -59,7 +59,7 @@
 		"code":"321323105",
 		"fullCode":"321323105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李口镇",
 		"parentCode":"321323"
 	},
@@ -67,7 +67,7 @@
 		"code":"321323106",
 		"fullCode":"321323106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临河镇",
 		"parentCode":"321323"
 	},
@@ -75,7 +75,7 @@
 		"code":"321323107",
 		"fullCode":"321323107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"穿城镇",
 		"parentCode":"321323"
 	},
@@ -83,7 +83,7 @@
 		"code":"321323110",
 		"fullCode":"321323110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卢集镇",
 		"parentCode":"321323"
 	},
@@ -91,7 +91,7 @@
 		"code":"321323111",
 		"fullCode":"321323111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三庄镇",
 		"parentCode":"321323"
 	},
@@ -99,7 +99,7 @@
 		"code":"321323200",
 		"fullCode":"321323200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄圩乡",
 		"parentCode":"321323"
 	},
@@ -107,7 +107,7 @@
 		"code":"321323400",
 		"fullCode":"321323400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棉花原种场",
 		"parentCode":"321323"
 	},
@@ -115,7 +115,7 @@
 		"code":"321323401",
 		"fullCode":"321323401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗阳农场",
 		"parentCode":"321323"
 	},
@@ -123,7 +123,7 @@
 		"code":"321323402",
 		"fullCode":"321323402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江苏泗阳开发区",
 		"parentCode":"321323"
 	}

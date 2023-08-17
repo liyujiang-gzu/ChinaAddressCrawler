@@ -3,7 +3,7 @@
 		"code":"530702001",
 		"fullCode":"530702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西安街道",
 		"parentCode":"530702"
 	},
@@ -11,7 +11,7 @@
 		"code":"530702002",
 		"fullCode":"530702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大研街道",
 		"parentCode":"530702"
 	},
@@ -19,7 +19,7 @@
 		"code":"530702003",
 		"fullCode":"530702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祥和街道",
 		"parentCode":"530702"
 	},
@@ -27,7 +27,7 @@
 		"code":"530702004",
 		"fullCode":"530702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"束河街道",
 		"parentCode":"530702"
 	},
@@ -35,7 +35,7 @@
 		"code":"530702005",
 		"fullCode":"530702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山街道",
 		"parentCode":"530702"
 	},
@@ -43,7 +43,7 @@
 		"code":"530702006",
 		"fullCode":"530702006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开南街道",
 		"parentCode":"530702"
 	},
@@ -51,7 +51,7 @@
 		"code":"530702007",
 		"fullCode":"530702007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文化街道",
 		"parentCode":"530702"
 	},
@@ -59,7 +59,7 @@
 		"code":"530702101",
 		"fullCode":"530702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金安镇",
 		"parentCode":"530702"
 	},
@@ -67,7 +67,7 @@
 		"code":"530702102",
 		"fullCode":"530702102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七河镇",
 		"parentCode":"530702"
 	},
@@ -75,7 +75,7 @@
 		"code":"530702203",
 		"fullCode":"530702203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大东乡",
 		"parentCode":"530702"
 	},
@@ -83,7 +83,7 @@
 		"code":"530702205",
 		"fullCode":"530702205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金江白族乡",
 		"parentCode":"530702"
 	}

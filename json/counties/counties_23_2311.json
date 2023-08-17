@@ -3,7 +3,7 @@
 		"code":"231102",
 		"fullCode":"231102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"爱辉区",
 		"parentCode":"2311"
 	},
@@ -11,7 +11,7 @@
 		"code":"231123",
 		"fullCode":"231123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"逊克县",
 		"parentCode":"2311"
 	},
@@ -19,7 +19,7 @@
 		"code":"231124",
 		"fullCode":"231124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"孙吴县",
 		"parentCode":"2311"
 	},
@@ -27,7 +27,7 @@
 		"code":"231181",
 		"fullCode":"231181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"北安市",
 		"parentCode":"2311"
 	},
@@ -35,7 +35,7 @@
 		"code":"231182",
 		"fullCode":"231182000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五大连池市",
 		"parentCode":"2311"
 	},
@@ -43,7 +43,7 @@
 		"code":"231183",
 		"fullCode":"231183000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"嫩江市",
 		"parentCode":"2311"
 	}

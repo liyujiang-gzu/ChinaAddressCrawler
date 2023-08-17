@@ -3,7 +3,7 @@
 		"code":"421071001",
 		"fullCode":"421071001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联合街道",
 		"parentCode":"421071"
 	},
@@ -11,7 +11,7 @@
 		"code":"421071002",
 		"fullCode":"421071002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖街道",
 		"parentCode":"421071"
 	},
@@ -19,7 +19,7 @@
 		"code":"421071003",
 		"fullCode":"421071003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼农桥街道",
 		"parentCode":"421071"
 	},
@@ -27,7 +27,7 @@
 		"code":"421071100",
 		"fullCode":"421071100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滩桥镇",
 		"parentCode":"421071"
 	}

@@ -3,7 +3,7 @@
 		"code":"360429100",
 		"fullCode":"360429100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双钟镇",
 		"parentCode":"360429"
 	},
@@ -11,7 +11,7 @@
 		"code":"360429101",
 		"fullCode":"360429101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流泗镇",
 		"parentCode":"360429"
 	},
@@ -19,7 +19,7 @@
 		"code":"360429102",
 		"fullCode":"360429102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马影镇",
 		"parentCode":"360429"
 	},
@@ -27,7 +27,7 @@
 		"code":"360429103",
 		"fullCode":"360429103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武山镇",
 		"parentCode":"360429"
 	},
@@ -35,7 +35,7 @@
 		"code":"360429104",
 		"fullCode":"360429104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城山镇",
 		"parentCode":"360429"
 	},
@@ -43,7 +43,7 @@
 		"code":"360429105",
 		"fullCode":"360429105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"均桥镇",
 		"parentCode":"360429"
 	},
@@ -51,7 +51,7 @@
 		"code":"360429106",
 		"fullCode":"360429106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凰村镇",
 		"parentCode":"360429"
 	},
@@ -59,7 +59,7 @@
 		"code":"360429200",
 		"fullCode":"360429200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大垅乡",
 		"parentCode":"360429"
 	},
@@ -67,7 +67,7 @@
 		"code":"360429202",
 		"fullCode":"360429202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张青乡",
 		"parentCode":"360429"
 	},
@@ -75,7 +75,7 @@
 		"code":"360429204",
 		"fullCode":"360429204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"付垅乡",
 		"parentCode":"360429"
 	},
@@ -83,7 +83,7 @@
 		"code":"360429205",
 		"fullCode":"360429205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舜德乡",
 		"parentCode":"360429"
 	},
@@ -91,7 +91,7 @@
 		"code":"360429206",
 		"fullCode":"360429206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流芳乡",
 		"parentCode":"360429"
 	},
@@ -99,7 +99,7 @@
 		"code":"360429500",
 		"fullCode":"360429500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南北港水产场",
 		"parentCode":"360429"
 	},
@@ -107,7 +107,7 @@
 		"code":"360429501",
 		"fullCode":"360429501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武山垦殖场",
 		"parentCode":"360429"
 	}

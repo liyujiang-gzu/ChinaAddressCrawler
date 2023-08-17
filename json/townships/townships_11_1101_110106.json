@@ -3,7 +3,7 @@
 		"code":"110106001",
 		"fullCode":"110106001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"右安门街道",
 		"parentCode":"110106"
 	},
@@ -11,7 +11,7 @@
 		"code":"110106002",
 		"fullCode":"110106002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平桥街道",
 		"parentCode":"110106"
 	},
@@ -19,7 +19,7 @@
 		"code":"110106003",
 		"fullCode":"110106003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西罗园街道",
 		"parentCode":"110106"
 	},
@@ -27,7 +27,7 @@
 		"code":"110106004",
 		"fullCode":"110106004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大红门街道",
 		"parentCode":"110106"
 	},
@@ -35,7 +35,7 @@
 		"code":"110106005",
 		"fullCode":"110106005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南苑街道",
 		"parentCode":"110106"
 	},
@@ -43,7 +43,7 @@
 		"code":"110106006",
 		"fullCode":"110106006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东高地街道",
 		"parentCode":"110106"
 	},
@@ -51,7 +51,7 @@
 		"code":"110106007",
 		"fullCode":"110106007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东铁匠营街道",
 		"parentCode":"110106"
 	},
@@ -59,7 +59,7 @@
 		"code":"110106008",
 		"fullCode":"110106008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六里桥街道",
 		"parentCode":"110106"
 	},
@@ -67,7 +67,7 @@
 		"code":"110106009",
 		"fullCode":"110106009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰台街道",
 		"parentCode":"110106"
 	},
@@ -75,7 +75,7 @@
 		"code":"110106010",
 		"fullCode":"110106010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新村街道",
 		"parentCode":"110106"
 	},
@@ -83,7 +83,7 @@
 		"code":"110106011",
 		"fullCode":"110106011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长辛店街道",
 		"parentCode":"110106"
 	},
@@ -91,7 +91,7 @@
 		"code":"110106012",
 		"fullCode":"110106012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云岗街道",
 		"parentCode":"110106"
 	},
@@ -99,7 +99,7 @@
 		"code":"110106013",
 		"fullCode":"110106013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方庄街道",
 		"parentCode":"110106"
 	},
@@ -107,7 +107,7 @@
 		"code":"110106014",
 		"fullCode":"110106014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宛平街道",
 		"parentCode":"110106"
 	},
@@ -115,7 +115,7 @@
 		"code":"110106015",
 		"fullCode":"110106015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马家堡街道",
 		"parentCode":"110106"
 	},
@@ -123,7 +123,7 @@
 		"code":"110106016",
 		"fullCode":"110106016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和义街道",
 		"parentCode":"110106"
 	},
@@ -131,7 +131,7 @@
 		"code":"110106017",
 		"fullCode":"110106017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卢沟桥街道",
 		"parentCode":"110106"
 	},
@@ -139,7 +139,7 @@
 		"code":"110106018",
 		"fullCode":"110106018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花乡街道",
 		"parentCode":"110106"
 	},
@@ -147,7 +147,7 @@
 		"code":"110106020",
 		"fullCode":"110106020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"成寿寺街道",
 		"parentCode":"110106"
 	},
@@ -155,7 +155,7 @@
 		"code":"110106021",
 		"fullCode":"110106021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石榴庄街道",
 		"parentCode":"110106"
 	},
@@ -163,7 +163,7 @@
 		"code":"110106022",
 		"fullCode":"110106022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉泉营街道",
 		"parentCode":"110106"
 	},
@@ -171,7 +171,7 @@
 		"code":"110106023",
 		"fullCode":"110106023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"看丹街道",
 		"parentCode":"110106"
 	},
@@ -179,7 +179,7 @@
 		"code":"110106024",
 		"fullCode":"110106024000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里店街道",
 		"parentCode":"110106"
 	},
@@ -187,7 +187,7 @@
 		"code":"110106025",
 		"fullCode":"110106025000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青塔街道",
 		"parentCode":"110106"
 	},
@@ -195,7 +195,7 @@
 		"code":"110106100",
 		"fullCode":"110106100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北宫镇",
 		"parentCode":"110106"
 	},
@@ -203,7 +203,7 @@
 		"code":"110106101",
 		"fullCode":"110106101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王佐镇",
 		"parentCode":"110106"
 	}

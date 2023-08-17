@@ -3,7 +3,7 @@
 		"code":"441502001",
 		"fullCode":"441502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新港街道",
 		"parentCode":"441502"
 	},
@@ -11,7 +11,7 @@
 		"code":"441502002",
 		"fullCode":"441502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香洲街道",
 		"parentCode":"441502"
 	},
@@ -19,7 +19,7 @@
 		"code":"441502003",
 		"fullCode":"441502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤山街道",
 		"parentCode":"441502"
 	},
@@ -27,7 +27,7 @@
 		"code":"441502004",
 		"fullCode":"441502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田墘街道",
 		"parentCode":"441502"
 	},
@@ -35,7 +35,7 @@
 		"code":"441502005",
 		"fullCode":"441502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东洲街道",
 		"parentCode":"441502"
 	},
@@ -43,7 +43,7 @@
 		"code":"441502006",
 		"fullCode":"441502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遮浪街道",
 		"parentCode":"441502"
 	},
@@ -51,7 +51,7 @@
 		"code":"441502007",
 		"fullCode":"441502007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马宫街道",
 		"parentCode":"441502"
 	},
@@ -59,7 +59,7 @@
 		"code":"441502100",
 		"fullCode":"441502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红草镇",
 		"parentCode":"441502"
 	},
@@ -67,7 +67,7 @@
 		"code":"441502102",
 		"fullCode":"441502102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东涌镇",
 		"parentCode":"441502"
 	},
@@ -75,7 +75,7 @@
 		"code":"441502103",
 		"fullCode":"441502103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"捷胜镇",
 		"parentCode":"441502"
 	}

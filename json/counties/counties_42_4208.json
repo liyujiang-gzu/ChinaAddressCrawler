@@ -3,7 +3,7 @@
 		"code":"420802",
 		"fullCode":"420802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东宝区",
 		"parentCode":"4208"
 	},
@@ -11,7 +11,7 @@
 		"code":"420804",
 		"fullCode":"420804000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"掇刀区",
 		"parentCode":"4208"
 	},
@@ -19,7 +19,7 @@
 		"code":"420822",
 		"fullCode":"420822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沙洋县",
 		"parentCode":"4208"
 	},
@@ -27,7 +27,7 @@
 		"code":"420881",
 		"fullCode":"420881000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"钟祥市",
 		"parentCode":"4208"
 	},
@@ -35,7 +35,7 @@
 		"code":"420882",
 		"fullCode":"420882000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"京山市",
 		"parentCode":"4208"
 	}

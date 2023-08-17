@@ -3,7 +3,7 @@
 		"code":"510603",
 		"fullCode":"510603000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"旌阳区",
 		"parentCode":"5106"
 	},
@@ -11,7 +11,7 @@
 		"code":"510604",
 		"fullCode":"510604000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"罗江区",
 		"parentCode":"5106"
 	},
@@ -19,7 +19,7 @@
 		"code":"510623",
 		"fullCode":"510623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"中江县",
 		"parentCode":"5106"
 	},
@@ -27,7 +27,7 @@
 		"code":"510681",
 		"fullCode":"510681000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"广汉市",
 		"parentCode":"5106"
 	},
@@ -35,7 +35,7 @@
 		"code":"510682",
 		"fullCode":"510682000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"什邡市",
 		"parentCode":"5106"
 	},
@@ -43,7 +43,7 @@
 		"code":"510683",
 		"fullCode":"510683000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"绵竹市",
 		"parentCode":"5106"
 	}

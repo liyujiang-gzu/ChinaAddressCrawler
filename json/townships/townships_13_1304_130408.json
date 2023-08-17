@@ -3,7 +3,7 @@
 		"code":"130408100",
 		"fullCode":"130408100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临洺关镇",
 		"parentCode":"130408"
 	},
@@ -11,7 +11,7 @@
 		"code":"130408101",
 		"fullCode":"130408101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大北汪镇",
 		"parentCode":"130408"
 	},
@@ -19,7 +19,7 @@
 		"code":"130408102",
 		"fullCode":"130408102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张西堡镇",
 		"parentCode":"130408"
 	},
@@ -27,7 +27,7 @@
 		"code":"130408103",
 		"fullCode":"130408103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广府镇",
 		"parentCode":"130408"
 	},
@@ -35,7 +35,7 @@
 		"code":"130408105",
 		"fullCode":"130408105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永合会镇",
 		"parentCode":"130408"
 	},
@@ -43,7 +43,7 @@
 		"code":"130408106",
 		"fullCode":"130408106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘营镇",
 		"parentCode":"130408"
 	},
@@ -51,7 +51,7 @@
 		"code":"130408107",
 		"fullCode":"130408107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西苏镇",
 		"parentCode":"130408"
 	},
@@ -59,7 +59,7 @@
 		"code":"130408108",
 		"fullCode":"130408108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"讲武镇",
 		"parentCode":"130408"
 	},
@@ -67,7 +67,7 @@
 		"code":"130408109",
 		"fullCode":"130408109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东杨庄镇",
 		"parentCode":"130408"
 	},
@@ -75,7 +75,7 @@
 		"code":"130408201",
 		"fullCode":"130408201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界河店乡",
 		"parentCode":"130408"
 	},
@@ -83,7 +83,7 @@
 		"code":"130408203",
 		"fullCode":"130408203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘汉乡",
 		"parentCode":"130408"
 	},
@@ -91,7 +91,7 @@
 		"code":"130408204",
 		"fullCode":"130408204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正西乡",
 		"parentCode":"130408"
 	},
@@ -99,7 +99,7 @@
 		"code":"130408206",
 		"fullCode":"130408206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲陌乡",
 		"parentCode":"130408"
 	},
@@ -107,7 +107,7 @@
 		"code":"130408207",
 		"fullCode":"130408207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛庄堡乡",
 		"parentCode":"130408"
 	},
@@ -115,7 +115,7 @@
 		"code":"130408208",
 		"fullCode":"130408208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小龙马乡",
 		"parentCode":"130408"
 	},
@@ -123,7 +123,7 @@
 		"code":"130408211",
 		"fullCode":"130408211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河庄乡",
 		"parentCode":"130408"
 	},
@@ -131,7 +131,7 @@
 		"code":"130408213",
 		"fullCode":"130408213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西阳城乡",
 		"parentCode":"130408"
 	}

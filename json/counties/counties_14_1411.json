@@ -3,7 +3,7 @@
 		"code":"141102",
 		"fullCode":"141102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"离石区",
 		"parentCode":"1411"
 	},
@@ -11,7 +11,7 @@
 		"code":"141121",
 		"fullCode":"141121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"文水县",
 		"parentCode":"1411"
 	},
@@ -19,7 +19,7 @@
 		"code":"141122",
 		"fullCode":"141122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"交城县",
 		"parentCode":"1411"
 	},
@@ -27,7 +27,7 @@
 		"code":"141123",
 		"fullCode":"141123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴县",
 		"parentCode":"1411"
 	},
@@ -35,7 +35,7 @@
 		"code":"141124",
 		"fullCode":"141124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临县",
 		"parentCode":"1411"
 	},
@@ -43,7 +43,7 @@
 		"code":"141125",
 		"fullCode":"141125000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"柳林县",
 		"parentCode":"1411"
 	},
@@ -51,7 +51,7 @@
 		"code":"141126",
 		"fullCode":"141126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石楼县",
 		"parentCode":"1411"
 	},
@@ -59,7 +59,7 @@
 		"code":"141127",
 		"fullCode":"141127000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岚县",
 		"parentCode":"1411"
 	},
@@ -67,7 +67,7 @@
 		"code":"141128",
 		"fullCode":"141128000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"方山县",
 		"parentCode":"1411"
 	},
@@ -75,7 +75,7 @@
 		"code":"141129",
 		"fullCode":"141129000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"中阳县",
 		"parentCode":"1411"
 	},
@@ -83,7 +83,7 @@
 		"code":"141130",
 		"fullCode":"141130000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"交口县",
 		"parentCode":"1411"
 	},
@@ -91,7 +91,7 @@
 		"code":"141181",
 		"fullCode":"141181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"孝义市",
 		"parentCode":"1411"
 	},
@@ -99,7 +99,7 @@
 		"code":"141182",
 		"fullCode":"141182000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汾阳市",
 		"parentCode":"1411"
 	}

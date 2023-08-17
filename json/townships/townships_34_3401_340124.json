@@ -3,7 +3,7 @@
 		"code":"340124001",
 		"fullCode":"340124001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东顾山街道",
 		"parentCode":"340124"
 	},
@@ -11,7 +11,7 @@
 		"code":"340124002",
 		"fullCode":"340124002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗湾街道",
 		"parentCode":"340124"
 	},
@@ -19,7 +19,7 @@
 		"code":"340124003",
 		"fullCode":"340124003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"移湖街道",
 		"parentCode":"340124"
 	},
@@ -27,7 +27,7 @@
 		"code":"340124100",
 		"fullCode":"340124100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庐城镇",
 		"parentCode":"340124"
 	},
@@ -35,7 +35,7 @@
 		"code":"340124101",
 		"fullCode":"340124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冶父山镇",
 		"parentCode":"340124"
 	},
@@ -43,7 +43,7 @@
 		"code":"340124102",
 		"fullCode":"340124102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万山镇",
 		"parentCode":"340124"
 	},
@@ -51,7 +51,7 @@
 		"code":"340124103",
 		"fullCode":"340124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤池镇",
 		"parentCode":"340124"
 	},
@@ -59,7 +59,7 @@
 		"code":"340124104",
 		"fullCode":"340124104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭河镇",
 		"parentCode":"340124"
 	},
@@ -67,7 +67,7 @@
 		"code":"340124105",
 		"fullCode":"340124105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金牛镇",
 		"parentCode":"340124"
 	},
@@ -75,7 +75,7 @@
 		"code":"340124106",
 		"fullCode":"340124106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石头镇",
 		"parentCode":"340124"
 	},
@@ -83,7 +83,7 @@
 		"code":"340124107",
 		"fullCode":"340124107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同大镇",
 		"parentCode":"340124"
 	},
@@ -91,7 +91,7 @@
 		"code":"340124108",
 		"fullCode":"340124108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白山镇",
 		"parentCode":"340124"
 	},
@@ -99,7 +99,7 @@
 		"code":"340124109",
 		"fullCode":"340124109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盛桥镇",
 		"parentCode":"340124"
 	},
@@ -107,7 +107,7 @@
 		"code":"340124110",
 		"fullCode":"340124110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白湖镇",
 		"parentCode":"340124"
 	},
@@ -115,7 +115,7 @@
 		"code":"340124111",
 		"fullCode":"340124111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙桥镇",
 		"parentCode":"340124"
 	},
@@ -123,7 +123,7 @@
 		"code":"340124112",
 		"fullCode":"340124112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矾山镇",
 		"parentCode":"340124"
 	},
@@ -131,7 +131,7 @@
 		"code":"340124113",
 		"fullCode":"340124113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗河镇",
 		"parentCode":"340124"
 	},
@@ -139,7 +139,7 @@
 		"code":"340124114",
 		"fullCode":"340124114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥河镇",
 		"parentCode":"340124"
 	},
@@ -147,7 +147,7 @@
 		"code":"340124115",
 		"fullCode":"340124115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐桥镇",
 		"parentCode":"340124"
 	},
@@ -155,7 +155,7 @@
 		"code":"340124116",
 		"fullCode":"340124116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯坦镇",
 		"parentCode":"340124"
 	},
@@ -163,7 +163,7 @@
 		"code":"340124400",
 		"fullCode":"340124400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽合肥庐江高新技术产业开发区",
 		"parentCode":"340124"
 	},
@@ -171,7 +171,7 @@
 		"code":"340124401",
 		"fullCode":"340124401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白湖监狱生活社区",
 		"parentCode":"340124"
 	}

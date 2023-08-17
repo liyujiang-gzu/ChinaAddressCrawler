@@ -3,7 +3,7 @@
 		"code":"411524001",
 		"fullCode":"411524001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤城街道",
 		"parentCode":"411524"
 	},
@@ -11,7 +11,7 @@
 		"code":"411524002",
 		"fullCode":"411524002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲇鱼山街道",
 		"parentCode":"411524"
 	},
@@ -19,7 +19,7 @@
 		"code":"411524101",
 		"fullCode":"411524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上石桥镇",
 		"parentCode":"411524"
 	},
@@ -27,7 +27,7 @@
 		"code":"411524102",
 		"fullCode":"411524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鄢岗镇",
 		"parentCode":"411524"
 	},
@@ -35,7 +35,7 @@
 		"code":"411524103",
 		"fullCode":"411524103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双椿铺镇",
 		"parentCode":"411524"
 	},
@@ -43,7 +43,7 @@
 		"code":"411524104",
 		"fullCode":"411524104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪桥镇",
 		"parentCode":"411524"
 	},
@@ -51,7 +51,7 @@
 		"code":"411524105",
 		"fullCode":"411524105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余集镇",
 		"parentCode":"411524"
 	},
@@ -59,7 +59,7 @@
 		"code":"411524106",
 		"fullCode":"411524106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达权店镇",
 		"parentCode":"411524"
 	},
@@ -67,7 +67,7 @@
 		"code":"411524107",
 		"fullCode":"411524107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰集镇",
 		"parentCode":"411524"
 	},
@@ -75,7 +75,7 @@
 		"code":"411524108",
 		"fullCode":"411524108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪岗镇",
 		"parentCode":"411524"
 	},
@@ -83,7 +83,7 @@
 		"code":"411524109",
 		"fullCode":"411524109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观庙镇",
 		"parentCode":"411524"
 	},
@@ -91,7 +91,7 @@
 		"code":"411524110",
 		"fullCode":"411524110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金刚台镇",
 		"parentCode":"411524"
 	},
@@ -99,7 +99,7 @@
 		"code":"411524203",
 		"fullCode":"411524203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河凤桥乡",
 		"parentCode":"411524"
 	},
@@ -107,7 +107,7 @@
 		"code":"411524204",
 		"fullCode":"411524204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李集乡",
 		"parentCode":"411524"
 	},
@@ -115,7 +115,7 @@
 		"code":"411524207",
 		"fullCode":"411524207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏仙石乡",
 		"parentCode":"411524"
 	},
@@ -123,7 +123,7 @@
 		"code":"411524209",
 		"fullCode":"411524209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伏山乡",
 		"parentCode":"411524"
 	},
@@ -131,7 +131,7 @@
 		"code":"411524212",
 		"fullCode":"411524212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴河乡",
 		"parentCode":"411524"
 	},
@@ -139,7 +139,7 @@
 		"code":"411524213",
 		"fullCode":"411524213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯店乡",
 		"parentCode":"411524"
 	},
@@ -147,7 +147,7 @@
 		"code":"411524215",
 		"fullCode":"411524215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长竹园乡",
 		"parentCode":"411524"
 	},
@@ -155,7 +155,7 @@
 		"code":"411524400",
 		"fullCode":"411524400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤泉池管理处",
 		"parentCode":"411524"
 	}

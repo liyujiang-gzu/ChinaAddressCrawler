@@ -3,7 +3,7 @@
 		"code":"510903",
 		"fullCode":"510903000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"船山区",
 		"parentCode":"5109"
 	},
@@ -11,7 +11,7 @@
 		"code":"510904",
 		"fullCode":"510904000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安居区",
 		"parentCode":"5109"
 	},
@@ -19,7 +19,7 @@
 		"code":"510921",
 		"fullCode":"510921000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蓬溪县",
 		"parentCode":"5109"
 	},
@@ -27,7 +27,7 @@
 		"code":"510923",
 		"fullCode":"510923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大英县",
 		"parentCode":"5109"
 	},
@@ -35,7 +35,7 @@
 		"code":"510981",
 		"fullCode":"510981000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"射洪市",
 		"parentCode":"5109"
 	}

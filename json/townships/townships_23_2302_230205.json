@@ -3,7 +3,7 @@
 		"code":"230205001",
 		"fullCode":"230205001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴街道",
 		"parentCode":"230205"
 	},
@@ -11,7 +11,7 @@
 		"code":"230205002",
 		"fullCode":"230205002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新建街道",
 		"parentCode":"230205"
 	},
@@ -19,7 +19,7 @@
 		"code":"230205005",
 		"fullCode":"230205005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林机街道",
 		"parentCode":"230205"
 	},
@@ -27,7 +27,7 @@
 		"code":"230205006",
 		"fullCode":"230205006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道北街道",
 		"parentCode":"230205"
 	},
@@ -35,7 +35,7 @@
 		"code":"230205100",
 		"fullCode":"230205100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水师营满族镇",
 		"parentCode":"230205"
 	},
@@ -43,7 +43,7 @@
 		"code":"230205101",
 		"fullCode":"230205101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆树屯镇",
 		"parentCode":"230205"
 	}

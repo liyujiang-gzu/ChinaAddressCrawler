@@ -3,7 +3,7 @@
 		"code":"150802",
 		"fullCode":"150802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临河区",
 		"parentCode":"1508"
 	},
@@ -11,7 +11,7 @@
 		"code":"150821",
 		"fullCode":"150821000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五原县",
 		"parentCode":"1508"
 	},
@@ -19,7 +19,7 @@
 		"code":"150822",
 		"fullCode":"150822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"磴口县",
 		"parentCode":"1508"
 	},
@@ -27,7 +27,7 @@
 		"code":"150823",
 		"fullCode":"150823000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌拉特前旗",
 		"parentCode":"1508"
 	},
@@ -35,7 +35,7 @@
 		"code":"150824",
 		"fullCode":"150824000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌拉特中旗",
 		"parentCode":"1508"
 	},
@@ -43,7 +43,7 @@
 		"code":"150825",
 		"fullCode":"150825000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌拉特后旗",
 		"parentCode":"1508"
 	},
@@ -51,7 +51,7 @@
 		"code":"150826",
 		"fullCode":"150826000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"杭锦后旗",
 		"parentCode":"1508"
 	}

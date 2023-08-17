@@ -3,7 +3,7 @@
 		"code":"152221100",
 		"fullCode":"152221100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科尔沁镇",
 		"parentCode":"152221"
 	},
@@ -11,7 +11,7 @@
 		"code":"152221101",
 		"fullCode":"152221101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"索伦镇",
 		"parentCode":"152221"
 	},
@@ -19,7 +19,7 @@
 		"code":"152221102",
 		"fullCode":"152221102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德伯斯镇",
 		"parentCode":"152221"
 	},
@@ -27,7 +27,7 @@
 		"code":"152221103",
 		"fullCode":"152221103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石寨镇",
 		"parentCode":"152221"
 	},
@@ -35,7 +35,7 @@
 		"code":"152221104",
 		"fullCode":"152221104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"归流河镇",
 		"parentCode":"152221"
 	},
@@ -43,7 +43,7 @@
 		"code":"152221105",
 		"fullCode":"152221105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"居力很镇",
 		"parentCode":"152221"
 	},
@@ -51,7 +51,7 @@
 		"code":"152221106",
 		"fullCode":"152221106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"察尔森镇",
 		"parentCode":"152221"
 	},
@@ -59,7 +59,7 @@
 		"code":"152221107",
 		"fullCode":"152221107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"额尔格图镇",
 		"parentCode":"152221"
 	},
@@ -67,7 +67,7 @@
 		"code":"152221108",
 		"fullCode":"152221108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俄体镇",
 		"parentCode":"152221"
 	},
@@ -75,7 +75,7 @@
 		"code":"152221200",
 		"fullCode":"152221200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满族屯满族乡",
 		"parentCode":"152221"
 	},
@@ -83,7 +83,7 @@
 		"code":"152221201",
 		"fullCode":"152221201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰毛都苏木",
 		"parentCode":"152221"
 	},
@@ -91,7 +91,7 @@
 		"code":"152221202",
 		"fullCode":"152221202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿力得尔苏木",
 		"parentCode":"152221"
 	},
@@ -99,7 +99,7 @@
 		"code":"152221203",
 		"fullCode":"152221203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴日嘎斯台乡",
 		"parentCode":"152221"
 	},
@@ -107,7 +107,7 @@
 		"code":"152221204",
 		"fullCode":"152221204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃合木苏木",
 		"parentCode":"152221"
 	},
@@ -115,7 +115,7 @@
 		"code":"152221400",
 		"fullCode":"152221400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"跃进马场",
 		"parentCode":"152221"
 	},
@@ -123,7 +123,7 @@
 		"code":"152221401",
 		"fullCode":"152221401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"索伦牧场",
 		"parentCode":"152221"
 	},
@@ -131,7 +131,7 @@
 		"code":"152221403",
 		"fullCode":"152221403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿力得尔牧场",
 		"parentCode":"152221"
 	},
@@ -139,7 +139,7 @@
 		"code":"152221404",
 		"fullCode":"152221404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公主陵牧场",
 		"parentCode":"152221"
 	},
@@ -147,7 +147,7 @@
 		"code":"152221405",
 		"fullCode":"152221405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绿水种畜繁育中心",
 		"parentCode":"152221"
 	},
@@ -155,7 +155,7 @@
 		"code":"152221407",
 		"fullCode":"152221407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科右前旗工业园区",
 		"parentCode":"152221"
 	},
@@ -163,7 +163,7 @@
 		"code":"152221408",
 		"fullCode":"152221408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科右前旗现代农牧业园区",
 		"parentCode":"152221"
 	}

@@ -3,7 +3,7 @@
 		"code":"130431100",
 		"fullCode":"130431100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡泽镇",
 		"parentCode":"130431"
 	},
@@ -11,7 +11,7 @@
 		"code":"130431101",
 		"fullCode":"130431101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小寨镇",
 		"parentCode":"130431"
 	},
@@ -19,7 +19,7 @@
 		"code":"130431102",
 		"fullCode":"130431102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双塔镇",
 		"parentCode":"130431"
 	},
@@ -27,7 +27,7 @@
 		"code":"130431103",
 		"fullCode":"130431103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹庄镇",
 		"parentCode":"130431"
 	},
@@ -35,7 +35,7 @@
 		"code":"130431104",
 		"fullCode":"130431104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浮图店镇",
 		"parentCode":"130431"
 	},
@@ -43,7 +43,7 @@
 		"code":"130431105",
 		"fullCode":"130431105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴官营镇",
 		"parentCode":"130431"
 	},
@@ -51,7 +51,7 @@
 		"code":"130431202",
 		"fullCode":"130431202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"风正乡",
 		"parentCode":"130431"
 	}

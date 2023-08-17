@@ -3,7 +3,7 @@
 		"code":"411002001",
 		"fullCode":"411002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西大街道",
 		"parentCode":"411002"
 	},
@@ -11,7 +11,7 @@
 		"code":"411002002",
 		"fullCode":"411002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东大街道",
 		"parentCode":"411002"
 	},
@@ -19,7 +19,7 @@
 		"code":"411002003",
 		"fullCode":"411002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关街道",
 		"parentCode":"411002"
 	},
@@ -27,7 +27,7 @@
 		"code":"411002004",
 		"fullCode":"411002004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南关街道",
 		"parentCode":"411002"
 	},
@@ -35,7 +35,7 @@
 		"code":"411002005",
 		"fullCode":"411002005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北大街道",
 		"parentCode":"411002"
 	},
@@ -43,7 +43,7 @@
 		"code":"411002006",
 		"fullCode":"411002006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五一路街道",
 		"parentCode":"411002"
 	},
@@ -51,7 +51,7 @@
 		"code":"411002007",
 		"fullCode":"411002007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥营街道",
 		"parentCode":"411002"
 	},
@@ -59,7 +59,7 @@
 		"code":"411002008",
 		"fullCode":"411002008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁庄街道",
 		"parentCode":"411002"
 	},
@@ -67,7 +67,7 @@
 		"code":"411002009",
 		"fullCode":"411002009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"颍昌街道",
 		"parentCode":"411002"
 	},
@@ -75,7 +75,7 @@
 		"code":"411002010",
 		"fullCode":"411002010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰街道",
 		"parentCode":"411002"
 	},
@@ -83,7 +83,7 @@
 		"code":"411002011",
 		"fullCode":"411002011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴街道",
 		"parentCode":"411002"
 	},
@@ -91,7 +91,7 @@
 		"code":"411002013",
 		"fullCode":"411002013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灞陵街道",
 		"parentCode":"411002"
 	},
@@ -99,7 +99,7 @@
 		"code":"411002015",
 		"fullCode":"411002015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魏北街道",
 		"parentCode":"411002"
 	},
@@ -107,7 +107,7 @@
 		"code":"411002016",
 		"fullCode":"411002016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"产业集聚区街道",
 		"parentCode":"411002"
 	},
@@ -115,7 +115,7 @@
 		"code":"411002570",
 		"fullCode":"411002570000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城区管委会",
 		"parentCode":"411002"
 	}

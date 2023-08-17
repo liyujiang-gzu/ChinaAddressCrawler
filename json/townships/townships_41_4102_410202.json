@@ -3,7 +3,7 @@
 		"code":"410202001",
 		"fullCode":"410202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北书店街道",
 		"parentCode":"410202"
 	},
@@ -11,7 +11,7 @@
 		"code":"410202002",
 		"fullCode":"410202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"午朝门街道",
 		"parentCode":"410202"
 	},
@@ -19,7 +19,7 @@
 		"code":"410202003",
 		"fullCode":"410202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴街道",
 		"parentCode":"410202"
 	},
@@ -27,7 +27,7 @@
 		"code":"410202005",
 		"fullCode":"410202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北道门街道",
 		"parentCode":"410202"
 	},
@@ -35,7 +35,7 @@
 		"code":"410202006",
 		"fullCode":"410202006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"410202"
 	},
@@ -43,7 +43,7 @@
 		"code":"410202007",
 		"fullCode":"410202007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁苑街道",
 		"parentCode":"410202"
 	},
@@ -51,7 +51,7 @@
 		"code":"410202008",
 		"fullCode":"410202008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金明池街道",
 		"parentCode":"410202"
 	},
@@ -59,7 +59,7 @@
 		"code":"410202009",
 		"fullCode":"410202009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖街道",
 		"parentCode":"410202"
 	},
@@ -67,7 +67,7 @@
 		"code":"410202010",
 		"fullCode":"410202010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金耀街道",
 		"parentCode":"410202"
 	},
@@ -75,7 +75,7 @@
 		"code":"410202100",
 		"fullCode":"410202100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏花营镇",
 		"parentCode":"410202"
 	},
@@ -83,7 +83,7 @@
 		"code":"410202201",
 		"fullCode":"410202201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北郊乡",
 		"parentCode":"410202"
 	},
@@ -91,7 +91,7 @@
 		"code":"410202202",
 		"fullCode":"410202202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳园口乡",
 		"parentCode":"410202"
 	},
@@ -99,7 +99,7 @@
 		"code":"410202204",
 		"fullCode":"410202204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水稻乡",
 		"parentCode":"410202"
 	},
@@ -107,7 +107,7 @@
 		"code":"410202400",
 		"fullCode":"410202400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏花营农场",
 		"parentCode":"410202"
 	}

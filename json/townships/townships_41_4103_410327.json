@@ -3,7 +3,7 @@
 		"code":"410327100",
 		"fullCode":"410327100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"410327"
 	},
@@ -11,7 +11,7 @@
 		"code":"410327102",
 		"fullCode":"410327102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳泉镇",
 		"parentCode":"410327"
 	},
@@ -19,7 +19,7 @@
 		"code":"410327103",
 		"fullCode":"410327103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩城镇",
 		"parentCode":"410327"
 	},
@@ -27,7 +27,7 @@
 		"code":"410327104",
 		"fullCode":"410327104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白杨镇",
 		"parentCode":"410327"
 	},
@@ -35,7 +35,7 @@
 		"code":"410327105",
 		"fullCode":"410327105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香鹿山镇",
 		"parentCode":"410327"
 	},
@@ -43,7 +43,7 @@
 		"code":"410327106",
 		"fullCode":"410327106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦屏镇",
 		"parentCode":"410327"
 	},
@@ -51,7 +51,7 @@
 		"code":"410327107",
 		"fullCode":"410327107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三乡镇",
 		"parentCode":"410327"
 	},
@@ -59,7 +59,7 @@
 		"code":"410327108",
 		"fullCode":"410327108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张坞镇",
 		"parentCode":"410327"
 	},
@@ -67,7 +67,7 @@
 		"code":"410327109",
 		"fullCode":"410327109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲庄镇",
 		"parentCode":"410327"
 	},
@@ -75,7 +75,7 @@
 		"code":"410327110",
 		"fullCode":"410327110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵保镇",
 		"parentCode":"410327"
 	},
@@ -83,7 +83,7 @@
 		"code":"410327111",
 		"fullCode":"410327111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樊村镇",
 		"parentCode":"410327"
 	},
@@ -91,7 +91,7 @@
 		"code":"410327112",
 		"fullCode":"410327112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高村镇",
 		"parentCode":"410327"
 	},
@@ -99,7 +99,7 @@
 		"code":"410327203",
 		"fullCode":"410327203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐镇乡",
 		"parentCode":"410327"
 	},
@@ -107,7 +107,7 @@
 		"code":"410327208",
 		"fullCode":"410327208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花果山乡",
 		"parentCode":"410327"
 	},
@@ -115,7 +115,7 @@
 		"code":"410327209",
 		"fullCode":"410327209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上观乡",
 		"parentCode":"410327"
 	},
@@ -123,7 +123,7 @@
 		"code":"410327212",
 		"fullCode":"410327212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董王庄乡",
 		"parentCode":"410327"
 	}

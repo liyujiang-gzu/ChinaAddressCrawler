@@ -3,7 +3,7 @@
 		"code":"640425100",
 		"fullCode":"640425100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白阳镇",
 		"parentCode":"640425"
 	},
@@ -11,7 +11,7 @@
 		"code":"640425101",
 		"fullCode":"640425101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王洼镇",
 		"parentCode":"640425"
 	},
@@ -19,7 +19,7 @@
 		"code":"640425102",
 		"fullCode":"640425102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"640425"
 	},
@@ -27,7 +27,7 @@
 		"code":"640425103",
 		"fullCode":"640425103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红河镇",
 		"parentCode":"640425"
 	},
@@ -35,7 +35,7 @@
 		"code":"640425200",
 		"fullCode":"640425200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新集乡",
 		"parentCode":"640425"
 	},
@@ -43,7 +43,7 @@
 		"code":"640425201",
 		"fullCode":"640425201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城阳乡",
 		"parentCode":"640425"
 	},
@@ -51,7 +51,7 @@
 		"code":"640425203",
 		"fullCode":"640425203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯庄乡",
 		"parentCode":"640425"
 	},
@@ -59,7 +59,7 @@
 		"code":"640425204",
 		"fullCode":"640425204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小岔乡",
 		"parentCode":"640425"
 	},
@@ -67,7 +67,7 @@
 		"code":"640425205",
 		"fullCode":"640425205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟塬乡",
 		"parentCode":"640425"
 	},
@@ -75,7 +75,7 @@
 		"code":"640425206",
 		"fullCode":"640425206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗洼乡",
 		"parentCode":"640425"
 	},
@@ -83,7 +83,7 @@
 		"code":"640425207",
 		"fullCode":"640425207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"交岔乡",
 		"parentCode":"640425"
 	},
@@ -91,7 +91,7 @@
 		"code":"640425208",
 		"fullCode":"640425208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草庙乡",
 		"parentCode":"640425"
 	}

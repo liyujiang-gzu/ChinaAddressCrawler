@@ -3,7 +3,7 @@
 		"code":"532302101",
 		"fullCode":"532302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山镇",
 		"parentCode":"532302"
 	},
@@ -11,7 +11,7 @@
 		"code":"532302102",
 		"fullCode":"532302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁兴镇",
 		"parentCode":"532302"
 	},
@@ -19,7 +19,7 @@
 		"code":"532302103",
 		"fullCode":"532302103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧城镇",
 		"parentCode":"532302"
 	},
@@ -27,7 +27,7 @@
 		"code":"532302104",
 		"fullCode":"532302104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勤丰镇",
 		"parentCode":"532302"
 	},
@@ -35,7 +35,7 @@
 		"code":"532302105",
 		"fullCode":"532302105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"一平浪镇",
 		"parentCode":"532302"
 	},
@@ -43,7 +43,7 @@
 		"code":"532302106",
 		"fullCode":"532302106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广通镇",
 		"parentCode":"532302"
 	},
@@ -51,7 +51,7 @@
 		"code":"532302107",
 		"fullCode":"532302107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑井镇",
 		"parentCode":"532302"
 	},
@@ -59,7 +59,7 @@
 		"code":"532302108",
 		"fullCode":"532302108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土官镇",
 		"parentCode":"532302"
 	},
@@ -67,7 +67,7 @@
 		"code":"532302109",
 		"fullCode":"532302109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彩云镇",
 		"parentCode":"532302"
 	},
@@ -75,7 +75,7 @@
 		"code":"532302110",
 		"fullCode":"532302110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平镇",
 		"parentCode":"532302"
 	},
@@ -83,7 +83,7 @@
 		"code":"532302111",
 		"fullCode":"532302111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恐龙山镇",
 		"parentCode":"532302"
 	},
@@ -91,7 +91,7 @@
 		"code":"532302201",
 		"fullCode":"532302201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中村乡",
 		"parentCode":"532302"
 	},
@@ -99,7 +99,7 @@
 		"code":"532302202",
 		"fullCode":"532302202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高峰乡",
 		"parentCode":"532302"
 	},
@@ -107,7 +107,7 @@
 		"code":"532302203",
 		"fullCode":"532302203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"妥安乡",
 		"parentCode":"532302"
 	}

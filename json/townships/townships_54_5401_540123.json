@@ -3,7 +3,7 @@
 		"code":"540123100",
 		"fullCode":"540123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔荣镇",
 		"parentCode":"540123"
 	},
@@ -11,7 +11,7 @@
 		"code":"540123101",
 		"fullCode":"540123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吞巴镇",
 		"parentCode":"540123"
 	},
@@ -19,7 +19,7 @@
 		"code":"540123200",
 		"fullCode":"540123200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻江乡",
 		"parentCode":"540123"
 	},
@@ -27,7 +27,7 @@
 		"code":"540123201",
 		"fullCode":"540123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普松乡",
 		"parentCode":"540123"
 	},
@@ -35,7 +35,7 @@
 		"code":"540123202",
 		"fullCode":"540123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡如乡",
 		"parentCode":"540123"
 	},
@@ -43,7 +43,7 @@
 		"code":"540123203",
 		"fullCode":"540123203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼木乡",
 		"parentCode":"540123"
 	},
@@ -51,7 +51,7 @@
 		"code":"540123204",
 		"fullCode":"540123204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"续迈乡",
 		"parentCode":"540123"
 	},
@@ -59,7 +59,7 @@
 		"code":"540123205",
 		"fullCode":"540123205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"帕古乡",
 		"parentCode":"540123"
 	}

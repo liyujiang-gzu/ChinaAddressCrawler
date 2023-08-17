@@ -3,7 +3,7 @@
 		"code":"652827100",
 		"fullCode":"652827100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和静镇",
 		"parentCode":"652827"
 	},
@@ -11,7 +11,7 @@
 		"code":"652827101",
 		"fullCode":"652827101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴伦台镇",
 		"parentCode":"652827"
 	},
@@ -19,7 +19,7 @@
 		"code":"652827102",
 		"fullCode":"652827102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴润哈尔莫敦镇",
 		"parentCode":"652827"
 	},
@@ -27,7 +27,7 @@
 		"code":"652827103",
 		"fullCode":"652827103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈尔莫敦镇",
 		"parentCode":"652827"
 	},
@@ -35,7 +35,7 @@
 		"code":"652827104",
 		"fullCode":"652827104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴音布鲁克镇",
 		"parentCode":"652827"
 	},
@@ -43,7 +43,7 @@
 		"code":"652827105",
 		"fullCode":"652827105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巩乃斯镇",
 		"parentCode":"652827"
 	},
@@ -51,7 +51,7 @@
 		"code":"652827106",
 		"fullCode":"652827106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乃门莫敦镇",
 		"parentCode":"652827"
 	},
@@ -59,7 +59,7 @@
 		"code":"652827107",
 		"fullCode":"652827107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"协比乃尔布呼镇",
 		"parentCode":"652827"
 	},
@@ -67,7 +67,7 @@
 		"code":"652827203",
 		"fullCode":"652827203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克尔古提乡",
 		"parentCode":"652827"
 	},
@@ -75,7 +75,7 @@
 		"code":"652827204",
 		"fullCode":"652827204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿拉沟乡",
 		"parentCode":"652827"
 	},
@@ -83,7 +83,7 @@
 		"code":"652827205",
 		"fullCode":"652827205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"额勒再特乌鲁乡",
 		"parentCode":"652827"
 	},
@@ -91,7 +91,7 @@
 		"code":"652827206",
 		"fullCode":"652827206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴音郭楞乡",
 		"parentCode":"652827"
 	},
@@ -99,7 +99,7 @@
 		"code":"652827501",
 		"fullCode":"652827501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团二十一团",
 		"parentCode":"652827"
 	}

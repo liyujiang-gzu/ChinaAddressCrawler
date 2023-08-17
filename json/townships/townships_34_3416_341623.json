@@ -3,7 +3,7 @@
 		"code":"341623100",
 		"fullCode":"341623100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"341623"
 	},
@@ -11,7 +11,7 @@
 		"code":"341623101",
 		"fullCode":"341623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阚疃镇",
 		"parentCode":"341623"
 	},
@@ -19,7 +19,7 @@
 		"code":"341623102",
 		"fullCode":"341623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张村镇",
 		"parentCode":"341623"
 	},
@@ -27,7 +27,7 @@
 		"code":"341623103",
 		"fullCode":"341623103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江集镇",
 		"parentCode":"341623"
 	},
@@ -35,7 +35,7 @@
 		"code":"341623104",
 		"fullCode":"341623104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧城镇",
 		"parentCode":"341623"
 	},
@@ -43,7 +43,7 @@
 		"code":"341623105",
 		"fullCode":"341623105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西潘楼镇",
 		"parentCode":"341623"
 	},
@@ -51,7 +51,7 @@
 		"code":"341623106",
 		"fullCode":"341623106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙集镇",
 		"parentCode":"341623"
 	},
@@ -59,7 +59,7 @@
 		"code":"341623107",
 		"fullCode":"341623107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汝集镇",
 		"parentCode":"341623"
 	},
@@ -67,7 +67,7 @@
 		"code":"341623108",
 		"fullCode":"341623108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巩店镇",
 		"parentCode":"341623"
 	},
@@ -75,7 +75,7 @@
 		"code":"341623109",
 		"fullCode":"341623109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王人镇",
 		"parentCode":"341623"
 	},
@@ -83,7 +83,7 @@
 		"code":"341623110",
 		"fullCode":"341623110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王市镇",
 		"parentCode":"341623"
 	},
@@ -91,7 +91,7 @@
 		"code":"341623111",
 		"fullCode":"341623111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴镇",
 		"parentCode":"341623"
 	},
@@ -99,7 +99,7 @@
 		"code":"341623112",
 		"fullCode":"341623112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马店孜镇",
 		"parentCode":"341623"
 	},
@@ -107,7 +107,7 @@
 		"code":"341623113",
 		"fullCode":"341623113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大李集镇",
 		"parentCode":"341623"
 	},
@@ -115,7 +115,7 @@
 		"code":"341623114",
 		"fullCode":"341623114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡集镇",
 		"parentCode":"341623"
 	},
@@ -123,7 +123,7 @@
 		"code":"341623115",
 		"fullCode":"341623115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"展沟镇",
 		"parentCode":"341623"
 	},
@@ -131,7 +131,7 @@
 		"code":"341623116",
 		"fullCode":"341623116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程家集镇",
 		"parentCode":"341623"
 	},
@@ -139,7 +139,7 @@
 		"code":"341623117",
 		"fullCode":"341623117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中疃镇",
 		"parentCode":"341623"
 	},
@@ -147,7 +147,7 @@
 		"code":"341623118",
 		"fullCode":"341623118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望疃镇",
 		"parentCode":"341623"
 	},
@@ -155,7 +155,7 @@
 		"code":"341623119",
 		"fullCode":"341623119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北镇",
 		"parentCode":"341623"
 	},
@@ -163,7 +163,7 @@
 		"code":"341623203",
 		"fullCode":"341623203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纪王场乡",
 		"parentCode":"341623"
 	},
@@ -171,7 +171,7 @@
 		"code":"341623204",
 		"fullCode":"341623204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙庙乡",
 		"parentCode":"341623"
 	},
@@ -179,7 +179,7 @@
 		"code":"341623205",
 		"fullCode":"341623205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新张集乡",
 		"parentCode":"341623"
 	},
@@ -187,7 +187,7 @@
 		"code":"341623401",
 		"fullCode":"341623401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利辛县工业园区",
 		"parentCode":"341623"
 	}

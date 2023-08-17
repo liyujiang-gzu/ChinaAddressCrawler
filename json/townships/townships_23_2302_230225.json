@@ -3,7 +3,7 @@
 		"code":"230225100",
 		"fullCode":"230225100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘南镇",
 		"parentCode":"230225"
 	},
@@ -11,7 +11,7 @@
 		"code":"230225101",
 		"fullCode":"230225101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴十四镇",
 		"parentCode":"230225"
 	},
@@ -19,7 +19,7 @@
 		"code":"230225102",
 		"fullCode":"230225102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平阳镇",
 		"parentCode":"230225"
 	},
@@ -27,7 +27,7 @@
 		"code":"230225103",
 		"fullCode":"230225103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东阳镇",
 		"parentCode":"230225"
 	},
@@ -35,7 +35,7 @@
 		"code":"230225104",
 		"fullCode":"230225104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨宝镇",
 		"parentCode":"230225"
 	},
@@ -43,7 +43,7 @@
 		"code":"230225201",
 		"fullCode":"230225201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长山乡",
 		"parentCode":"230225"
 	},
@@ -51,7 +51,7 @@
 		"code":"230225202",
 		"fullCode":"230225202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中兴乡",
 		"parentCode":"230225"
 	},
@@ -59,7 +59,7 @@
 		"code":"230225203",
 		"fullCode":"230225203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆乡",
 		"parentCode":"230225"
 	},
@@ -67,7 +67,7 @@
 		"code":"230225204",
 		"fullCode":"230225204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝山乡",
 		"parentCode":"230225"
 	},
@@ -75,7 +75,7 @@
 		"code":"230225206",
 		"fullCode":"230225206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查哈阳乡",
 		"parentCode":"230225"
 	},
@@ -83,7 +83,7 @@
 		"code":"230225500",
 		"fullCode":"230225500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查哈阳农场",
 		"parentCode":"230225"
 	},
@@ -91,7 +91,7 @@
 		"code":"230225580",
 		"fullCode":"230225580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北京市双河农场",
 		"parentCode":"230225"
 	}

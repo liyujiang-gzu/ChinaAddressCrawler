@@ -3,7 +3,7 @@
 		"code":"520330001",
 		"fullCode":"520330001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东皇街道",
 		"parentCode":"520330"
 	},
@@ -11,7 +11,7 @@
 		"code":"520330002",
 		"fullCode":"520330002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙街道",
 		"parentCode":"520330"
 	},
@@ -19,7 +19,7 @@
 		"code":"520330003",
 		"fullCode":"520330003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杉王街道",
 		"parentCode":"520330"
 	},
@@ -27,7 +27,7 @@
 		"code":"520330004",
 		"fullCode":"520330004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马临街道",
 		"parentCode":"520330"
 	},
@@ -35,7 +35,7 @@
 		"code":"520330101",
 		"fullCode":"520330101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土城镇",
 		"parentCode":"520330"
 	},
@@ -43,7 +43,7 @@
 		"code":"520330102",
 		"fullCode":"520330102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同民镇",
 		"parentCode":"520330"
 	},
@@ -51,7 +51,7 @@
 		"code":"520330103",
 		"fullCode":"520330103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"醒民镇",
 		"parentCode":"520330"
 	},
@@ -59,7 +59,7 @@
 		"code":"520330104",
 		"fullCode":"520330104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆兴镇",
 		"parentCode":"520330"
 	},
@@ -67,7 +67,7 @@
 		"code":"520330105",
 		"fullCode":"520330105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"习酒镇",
 		"parentCode":"520330"
 	},
@@ -75,7 +75,7 @@
 		"code":"520330106",
 		"fullCode":"520330106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回龙镇",
 		"parentCode":"520330"
 	},
@@ -83,7 +83,7 @@
 		"code":"520330107",
 		"fullCode":"520330107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑木镇",
 		"parentCode":"520330"
 	},
@@ -91,7 +91,7 @@
 		"code":"520330108",
 		"fullCode":"520330108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安镇",
 		"parentCode":"520330"
 	},
@@ -99,7 +99,7 @@
 		"code":"520330109",
 		"fullCode":"520330109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良村镇",
 		"parentCode":"520330"
 	},
@@ -107,7 +107,7 @@
 		"code":"520330110",
 		"fullCode":"520330110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温水镇",
 		"parentCode":"520330"
 	},
@@ -115,7 +115,7 @@
 		"code":"520330111",
 		"fullCode":"520330111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙源镇",
 		"parentCode":"520330"
 	},
@@ -123,7 +123,7 @@
 		"code":"520330112",
 		"fullCode":"520330112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官店镇",
 		"parentCode":"520330"
 	},
@@ -131,7 +131,7 @@
 		"code":"520330113",
 		"fullCode":"520330113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨坝镇",
 		"parentCode":"520330"
 	},
@@ -139,7 +139,7 @@
 		"code":"520330114",
 		"fullCode":"520330114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民化镇",
 		"parentCode":"520330"
 	},
@@ -147,7 +147,7 @@
 		"code":"520330115",
 		"fullCode":"520330115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二郎镇",
 		"parentCode":"520330"
 	},
@@ -155,7 +155,7 @@
 		"code":"520330116",
 		"fullCode":"520330116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二里镇",
 		"parentCode":"520330"
 	},
@@ -163,7 +163,7 @@
 		"code":"520330117",
 		"fullCode":"520330117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔河镇",
 		"parentCode":"520330"
 	},
@@ -171,7 +171,7 @@
 		"code":"520330118",
 		"fullCode":"520330118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坡镇",
 		"parentCode":"520330"
 	},
@@ -179,7 +179,7 @@
 		"code":"520330119",
 		"fullCode":"520330119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃林镇",
 		"parentCode":"520330"
 	},
@@ -187,7 +187,7 @@
 		"code":"520330120",
 		"fullCode":"520330120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程寨镇",
 		"parentCode":"520330"
 	},
@@ -195,7 +195,7 @@
 		"code":"520330205",
 		"fullCode":"520330205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙乡",
 		"parentCode":"520330"
 	},
@@ -203,7 +203,7 @@
 		"code":"520330207",
 		"fullCode":"520330207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坭坝乡",
 		"parentCode":"520330"
 	}

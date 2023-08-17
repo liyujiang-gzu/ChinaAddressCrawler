@@ -3,7 +3,7 @@
 		"code":"321111001",
 		"fullCode":"321111001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝塔路街道",
 		"parentCode":"321111"
 	},
@@ -11,7 +11,7 @@
 		"code":"321111002",
 		"fullCode":"321111002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平路街道",
 		"parentCode":"321111"
 	},
@@ -19,7 +19,7 @@
 		"code":"321111003",
 		"fullCode":"321111003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山街道",
 		"parentCode":"321111"
 	},
@@ -27,7 +27,7 @@
 		"code":"321111004",
 		"fullCode":"321111004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里甸街道",
 		"parentCode":"321111"
 	},
@@ -35,7 +35,7 @@
 		"code":"321111005",
 		"fullCode":"321111005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋乔街道",
 		"parentCode":"321111"
 	},
@@ -43,7 +43,7 @@
 		"code":"321111006",
 		"fullCode":"321111006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官塘桥街道",
 		"parentCode":"321111"
 	},
@@ -51,7 +51,7 @@
 		"code":"321111007",
 		"fullCode":"321111007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韦岗街道",
 		"parentCode":"321111"
 	},
@@ -59,7 +59,7 @@
 		"code":"321111008",
 		"fullCode":"321111008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山街道",
 		"parentCode":"321111"
 	}

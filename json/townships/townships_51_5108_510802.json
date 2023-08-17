@@ -3,7 +3,7 @@
 		"code":"510802001",
 		"fullCode":"510802001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坝街道",
 		"parentCode":"510802"
 	},
@@ -11,7 +11,7 @@
 		"code":"510802002",
 		"fullCode":"510802002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉陵街道",
 		"parentCode":"510802"
 	},
@@ -19,7 +19,7 @@
 		"code":"510802003",
 		"fullCode":"510802003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西街道",
 		"parentCode":"510802"
 	},
@@ -27,7 +27,7 @@
 		"code":"510802004",
 		"fullCode":"510802004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪峰街道",
 		"parentCode":"510802"
 	},
@@ -35,7 +35,7 @@
 		"code":"510802005",
 		"fullCode":"510802005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南河街道",
 		"parentCode":"510802"
 	},
@@ -43,7 +43,7 @@
 		"code":"510802006",
 		"fullCode":"510802006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上西街道",
 		"parentCode":"510802"
 	},
@@ -51,7 +51,7 @@
 		"code":"510802011",
 		"fullCode":"510802011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万缘街道",
 		"parentCode":"510802"
 	},
@@ -59,7 +59,7 @@
 		"code":"510802100",
 		"fullCode":"510802100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣山镇",
 		"parentCode":"510802"
 	},
@@ -67,7 +67,7 @@
 		"code":"510802101",
 		"fullCode":"510802101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石镇",
 		"parentCode":"510802"
 	},
@@ -75,7 +75,7 @@
 		"code":"510802102",
 		"fullCode":"510802102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘龙镇",
 		"parentCode":"510802"
 	},
@@ -83,7 +83,7 @@
 		"code":"510802103",
 		"fullCode":"510802103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝轮镇",
 		"parentCode":"510802"
 	},
@@ -91,7 +91,7 @@
 		"code":"510802105",
 		"fullCode":"510802105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三堆镇",
 		"parentCode":"510802"
 	},
@@ -99,7 +99,7 @@
 		"code":"510802200",
 		"fullCode":"510802200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白朝乡",
 		"parentCode":"510802"
 	},
@@ -107,7 +107,7 @@
 		"code":"510802201",
 		"fullCode":"510802201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金洞乡",
 		"parentCode":"510802"
 	},
@@ -115,7 +115,7 @@
 		"code":"510802202",
 		"fullCode":"510802202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭乡",
 		"parentCode":"510802"
 	}

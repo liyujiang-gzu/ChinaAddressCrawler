@@ -3,7 +3,7 @@
 		"code":"530102001",
 		"fullCode":"530102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华山街道",
 		"parentCode":"530102"
 	},
@@ -11,7 +11,7 @@
 		"code":"530102002",
 		"fullCode":"530102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"护国街道",
 		"parentCode":"530102"
 	},
@@ -19,7 +19,7 @@
 		"code":"530102003",
 		"fullCode":"530102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大观街道",
 		"parentCode":"530102"
 	},
@@ -27,7 +27,7 @@
 		"code":"530102004",
 		"fullCode":"530102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙翔街道",
 		"parentCode":"530102"
 	},
@@ -35,7 +35,7 @@
 		"code":"530102005",
 		"fullCode":"530102005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰宁街道",
 		"parentCode":"530102"
 	},
@@ -43,7 +43,7 @@
 		"code":"530102006",
 		"fullCode":"530102006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲华街道",
 		"parentCode":"530102"
 	},
@@ -51,7 +51,7 @@
 		"code":"530102007",
 		"fullCode":"530102007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红云街道",
 		"parentCode":"530102"
 	},
@@ -59,7 +59,7 @@
 		"code":"530102008",
 		"fullCode":"530102008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑林铺街道",
 		"parentCode":"530102"
 	},
@@ -67,7 +67,7 @@
 		"code":"530102009",
 		"fullCode":"530102009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普吉街道",
 		"parentCode":"530102"
 	},
@@ -75,7 +75,7 @@
 		"code":"530102010",
 		"fullCode":"530102010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西翥街道",
 		"parentCode":"530102"
 	},
@@ -83,7 +83,7 @@
 		"code":"530102401",
 		"fullCode":"530102401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆明国家高新技术产业开发区",
 		"parentCode":"530102"
 	}

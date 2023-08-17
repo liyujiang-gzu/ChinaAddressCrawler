@@ -3,7 +3,7 @@
 		"code":"450202",
 		"fullCode":"450202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"城中区",
 		"parentCode":"4502"
 	},
@@ -11,7 +11,7 @@
 		"code":"450203",
 		"fullCode":"450203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鱼峰区",
 		"parentCode":"4502"
 	},
@@ -19,7 +19,7 @@
 		"code":"450204",
 		"fullCode":"450204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"柳南区",
 		"parentCode":"4502"
 	},
@@ -27,7 +27,7 @@
 		"code":"450205",
 		"fullCode":"450205000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"柳北区",
 		"parentCode":"4502"
 	},
@@ -35,7 +35,7 @@
 		"code":"450206",
 		"fullCode":"450206000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"柳江区",
 		"parentCode":"4502"
 	},
@@ -43,7 +43,7 @@
 		"code":"450222",
 		"fullCode":"450222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"柳城县",
 		"parentCode":"4502"
 	},
@@ -51,7 +51,7 @@
 		"code":"450223",
 		"fullCode":"450223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鹿寨县",
 		"parentCode":"4502"
 	},
@@ -59,7 +59,7 @@
 		"code":"450224",
 		"fullCode":"450224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"融安县",
 		"parentCode":"4502"
 	},
@@ -67,7 +67,7 @@
 		"code":"450225",
 		"fullCode":"450225000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"融水苗族自治县",
 		"parentCode":"4502"
 	},
@@ -75,7 +75,7 @@
 		"code":"450226",
 		"fullCode":"450226000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"三江侗族自治县",
 		"parentCode":"4502"
 	}

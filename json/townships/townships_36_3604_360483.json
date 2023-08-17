@@ -3,7 +3,7 @@
 		"code":"360483100",
 		"fullCode":"360483100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南康镇",
 		"parentCode":"360483"
 	},
@@ -11,7 +11,7 @@
 		"code":"360483101",
 		"fullCode":"360483101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鹿镇",
 		"parentCode":"360483"
 	},
@@ -19,7 +19,7 @@
 		"code":"360483102",
 		"fullCode":"360483102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉镇",
 		"parentCode":"360483"
 	},
@@ -27,7 +27,7 @@
 		"code":"360483103",
 		"fullCode":"360483103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星子镇",
 		"parentCode":"360483"
 	},
@@ -35,7 +35,7 @@
 		"code":"360483104",
 		"fullCode":"360483104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华林镇",
 		"parentCode":"360483"
 	},
@@ -43,7 +43,7 @@
 		"code":"360483105",
 		"fullCode":"360483105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蛟塘镇",
 		"parentCode":"360483"
 	},
@@ -51,7 +51,7 @@
 		"code":"360483106",
 		"fullCode":"360483106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横塘镇",
 		"parentCode":"360483"
 	},
@@ -59,7 +59,7 @@
 		"code":"360483107",
 		"fullCode":"360483107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牯岭镇",
 		"parentCode":"360483"
 	},
@@ -67,7 +67,7 @@
 		"code":"360483108",
 		"fullCode":"360483108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海会镇",
 		"parentCode":"360483"
 	},
@@ -75,7 +75,7 @@
 		"code":"360483200",
 		"fullCode":"360483200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓼南乡",
 		"parentCode":"360483"
 	},
@@ -83,7 +83,7 @@
 		"code":"360483401",
 		"fullCode":"360483401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东牯山林场",
 		"parentCode":"360483"
 	},
@@ -91,7 +91,7 @@
 		"code":"360483500",
 		"fullCode":"360483500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙湖山管理处",
 		"parentCode":"360483"
 	}

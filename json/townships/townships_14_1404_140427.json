@@ -3,7 +3,7 @@
 		"code":"140427100",
 		"fullCode":"140427100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉镇",
 		"parentCode":"140427"
 	},
@@ -11,7 +11,7 @@
 		"code":"140427101",
 		"fullCode":"140427101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百尺镇",
 		"parentCode":"140427"
 	},
@@ -19,7 +19,7 @@
 		"code":"140427102",
 		"fullCode":"140427102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店上镇",
 		"parentCode":"140427"
 	},
@@ -27,7 +27,7 @@
 		"code":"140427103",
 		"fullCode":"140427103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋庄镇",
 		"parentCode":"140427"
 	},
@@ -35,7 +35,7 @@
 		"code":"140427104",
 		"fullCode":"140427104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"树掌镇",
 		"parentCode":"140427"
 	},
@@ -43,7 +43,7 @@
 		"code":"140427105",
 		"fullCode":"140427105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大峡谷镇",
 		"parentCode":"140427"
 	},
@@ -51,7 +51,7 @@
 		"code":"140427106",
 		"fullCode":"140427106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"集店镇",
 		"parentCode":"140427"
 	},
@@ -59,7 +59,7 @@
 		"code":"140427201",
 		"fullCode":"140427201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄山乡",
 		"parentCode":"140427"
 	},
@@ -67,7 +67,7 @@
 		"code":"140427202",
 		"fullCode":"140427202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东井岭乡",
 		"parentCode":"140427"
 	},
@@ -75,7 +75,7 @@
 		"code":"140427203",
 		"fullCode":"140427203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石坡乡",
 		"parentCode":"140427"
 	},
@@ -83,7 +83,7 @@
 		"code":"140427401",
 		"fullCode":"140427401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"壶关县经济技术开发区",
 		"parentCode":"140427"
 	}

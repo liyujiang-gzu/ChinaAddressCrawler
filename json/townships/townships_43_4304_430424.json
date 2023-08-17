@@ -3,7 +3,7 @@
 		"code":"430424100",
 		"fullCode":"430424100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洣水镇",
 		"parentCode":"430424"
 	},
@@ -11,7 +11,7 @@
 		"code":"430424101",
 		"fullCode":"430424101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石湾镇",
 		"parentCode":"430424"
 	},
@@ -19,7 +19,7 @@
 		"code":"430424102",
 		"fullCode":"430424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新塘镇",
 		"parentCode":"430424"
 	},
@@ -27,7 +27,7 @@
 		"code":"430424103",
 		"fullCode":"430424103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大浦镇",
 		"parentCode":"430424"
 	},
@@ -35,7 +35,7 @@
 		"code":"430424104",
 		"fullCode":"430424104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴集镇",
 		"parentCode":"430424"
 	},
@@ -43,7 +43,7 @@
 		"code":"430424105",
 		"fullCode":"430424105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘溪镇",
 		"parentCode":"430424"
 	},
@@ -51,7 +51,7 @@
 		"code":"430424106",
 		"fullCode":"430424106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨林镇",
 		"parentCode":"430424"
 	},
@@ -59,7 +59,7 @@
 		"code":"430424107",
 		"fullCode":"430424107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草市镇",
 		"parentCode":"430424"
 	},
@@ -67,7 +67,7 @@
 		"code":"430424108",
 		"fullCode":"430424108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨桥镇",
 		"parentCode":"430424"
 	},
@@ -75,7 +75,7 @@
 		"code":"430424109",
 		"fullCode":"430424109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞流镇",
 		"parentCode":"430424"
 	},
@@ -83,7 +83,7 @@
 		"code":"430424110",
 		"fullCode":"430424110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣桓镇",
 		"parentCode":"430424"
 	},
@@ -91,7 +91,7 @@
 		"code":"430424111",
 		"fullCode":"430424111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高湖镇",
 		"parentCode":"430424"
 	},
@@ -99,7 +99,7 @@
 		"code":"430424112",
 		"fullCode":"430424112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白莲镇",
 		"parentCode":"430424"
 	},
@@ -107,7 +107,7 @@
 		"code":"430424113",
 		"fullCode":"430424113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三樟镇",
 		"parentCode":"430424"
 	},
@@ -115,7 +115,7 @@
 		"code":"430424114",
 		"fullCode":"430424114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓬源镇",
 		"parentCode":"430424"
 	},
@@ -123,7 +123,7 @@
 		"code":"430424204",
 		"fullCode":"430424204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湾乡",
 		"parentCode":"430424"
 	},
@@ -131,7 +131,7 @@
 		"code":"430424211",
 		"fullCode":"430424211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石滩乡",
 		"parentCode":"430424"
 	},
@@ -139,7 +139,7 @@
 		"code":"430424401",
 		"fullCode":"430424401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西开发区",
 		"parentCode":"430424"
 	},
@@ -147,7 +147,7 @@
 		"code":"430424403",
 		"fullCode":"430424403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大浦工业园",
 		"parentCode":"430424"
 	}

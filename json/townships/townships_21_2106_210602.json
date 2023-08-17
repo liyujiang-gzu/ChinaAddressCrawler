@@ -3,7 +3,7 @@
 		"code":"210602002",
 		"fullCode":"210602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七道街道",
 		"parentCode":"210602"
 	},
@@ -11,7 +11,7 @@
 		"code":"210602003",
 		"fullCode":"210602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广济街道",
 		"parentCode":"210602"
 	},
@@ -19,7 +19,7 @@
 		"code":"210602004",
 		"fullCode":"210602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九道街道",
 		"parentCode":"210602"
 	},
@@ -27,7 +27,7 @@
 		"code":"210602006",
 		"fullCode":"210602006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴东街道",
 		"parentCode":"210602"
 	},
@@ -35,7 +35,7 @@
 		"code":"210602101",
 		"fullCode":"210602101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山镇",
 		"parentCode":"210602"
 	}

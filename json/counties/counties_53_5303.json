@@ -3,7 +3,7 @@
 		"code":"530302",
 		"fullCode":"530302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"麒麟区",
 		"parentCode":"5303"
 	},
@@ -11,7 +11,7 @@
 		"code":"530303",
 		"fullCode":"530303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沾益区",
 		"parentCode":"5303"
 	},
@@ -19,7 +19,7 @@
 		"code":"530304",
 		"fullCode":"530304000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"马龙区",
 		"parentCode":"5303"
 	},
@@ -27,7 +27,7 @@
 		"code":"530322",
 		"fullCode":"530322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"陆良县",
 		"parentCode":"5303"
 	},
@@ -35,7 +35,7 @@
 		"code":"530323",
 		"fullCode":"530323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"师宗县",
 		"parentCode":"5303"
 	},
@@ -43,7 +43,7 @@
 		"code":"530324",
 		"fullCode":"530324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"罗平县",
 		"parentCode":"5303"
 	},
@@ -51,7 +51,7 @@
 		"code":"530325",
 		"fullCode":"530325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"富源县",
 		"parentCode":"5303"
 	},
@@ -59,7 +59,7 @@
 		"code":"530326",
 		"fullCode":"530326000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"会泽县",
 		"parentCode":"5303"
 	},
@@ -67,7 +67,7 @@
 		"code":"530381",
 		"fullCode":"530381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宣威市",
 		"parentCode":"5303"
 	}

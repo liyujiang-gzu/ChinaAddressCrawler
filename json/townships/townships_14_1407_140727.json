@@ -3,7 +3,7 @@
 		"code":"140727100",
 		"fullCode":"140727100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昭馀镇",
 		"parentCode":"140727"
 	},
@@ -11,7 +11,7 @@
 		"code":"140727101",
 		"fullCode":"140727101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东观镇",
 		"parentCode":"140727"
 	},
@@ -19,7 +19,7 @@
 		"code":"140727102",
 		"fullCode":"140727102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古县镇",
 		"parentCode":"140727"
 	},
@@ -27,7 +27,7 @@
 		"code":"140727103",
 		"fullCode":"140727103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾令镇",
 		"parentCode":"140727"
 	},
@@ -35,7 +35,7 @@
 		"code":"140727104",
 		"fullCode":"140727104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城赵镇",
 		"parentCode":"140727"
 	},
@@ -43,7 +43,7 @@
 		"code":"140727105",
 		"fullCode":"140727105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"来远镇",
 		"parentCode":"140727"
 	},
@@ -51,7 +51,7 @@
 		"code":"140727201",
 		"fullCode":"140727201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峪口乡",
 		"parentCode":"140727"
 	},
@@ -59,7 +59,7 @@
 		"code":"140727400",
 		"fullCode":"140727400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祁县经济开发区",
 		"parentCode":"140727"
 	},
@@ -67,7 +67,7 @@
 		"code":"140727404",
 		"fullCode":"140727404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城区",
 		"parentCode":"140727"
 	}

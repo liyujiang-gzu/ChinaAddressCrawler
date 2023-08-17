@@ -3,7 +3,7 @@
 		"code":"530924101",
 		"fullCode":"530924101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤尾镇",
 		"parentCode":"530924"
 	},
@@ -11,7 +11,7 @@
 		"code":"530924102",
 		"fullCode":"530924102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐捧镇",
 		"parentCode":"530924"
 	},
@@ -19,7 +19,7 @@
 		"code":"530924103",
 		"fullCode":"530924103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南伞镇",
 		"parentCode":"530924"
 	},
@@ -27,7 +27,7 @@
 		"code":"530924201",
 		"fullCode":"530924201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忙丙乡",
 		"parentCode":"530924"
 	},
@@ -35,7 +35,7 @@
 		"code":"530924202",
 		"fullCode":"530924202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐堆乡",
 		"parentCode":"530924"
 	},
@@ -43,7 +43,7 @@
 		"code":"530924204",
 		"fullCode":"530924204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木场乡",
 		"parentCode":"530924"
 	},
@@ -51,7 +51,7 @@
 		"code":"530924205",
 		"fullCode":"530924205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"军赛佤族拉祜族傈僳族德昂族乡",
 		"parentCode":"530924"
 	}

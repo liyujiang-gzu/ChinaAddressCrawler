@@ -3,7 +3,7 @@
 		"code":"440515001",
 		"fullCode":"440515001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤翔街道",
 		"parentCode":"440515"
 	},
@@ -11,7 +11,7 @@
 		"code":"440515002",
 		"fullCode":"440515002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广益街道",
 		"parentCode":"440515"
 	},
@@ -19,7 +19,7 @@
 		"code":"440515003",
 		"fullCode":"440515003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澄华街道",
 		"parentCode":"440515"
 	},
@@ -27,7 +27,7 @@
 		"code":"440515100",
 		"fullCode":"440515100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上华镇",
 		"parentCode":"440515"
 	},
@@ -35,7 +35,7 @@
 		"code":"440515101",
 		"fullCode":"440515101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆都镇",
 		"parentCode":"440515"
 	},
@@ -43,7 +43,7 @@
 		"code":"440515102",
 		"fullCode":"440515102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲下镇",
 		"parentCode":"440515"
 	},
@@ -51,7 +51,7 @@
 		"code":"440515103",
 		"fullCode":"440515103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲上镇",
 		"parentCode":"440515"
 	},
@@ -59,7 +59,7 @@
 		"code":"440515104",
 		"fullCode":"440515104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪南镇",
 		"parentCode":"440515"
 	},
@@ -67,7 +67,7 @@
 		"code":"440515105",
 		"fullCode":"440515105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东里镇",
 		"parentCode":"440515"
 	},
@@ -75,7 +75,7 @@
 		"code":"440515106",
 		"fullCode":"440515106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐鸿镇",
 		"parentCode":"440515"
 	},
@@ -83,7 +83,7 @@
 		"code":"440515107",
 		"fullCode":"440515107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲华镇",
 		"parentCode":"440515"
 	}

@@ -3,7 +3,7 @@
 		"code":"620922100",
 		"fullCode":"620922100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渊泉镇",
 		"parentCode":"620922"
 	},
@@ -11,7 +11,7 @@
 		"code":"620922101",
 		"fullCode":"620922101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳园镇",
 		"parentCode":"620922"
 	},
@@ -19,7 +19,7 @@
 		"code":"620922102",
 		"fullCode":"620922102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道沟镇",
 		"parentCode":"620922"
 	},
@@ -27,7 +27,7 @@
 		"code":"620922103",
 		"fullCode":"620922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岔镇",
 		"parentCode":"620922"
 	},
@@ -35,7 +35,7 @@
 		"code":"620922104",
 		"fullCode":"620922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锁阳城镇",
 		"parentCode":"620922"
 	},
@@ -43,7 +43,7 @@
 		"code":"620922105",
 		"fullCode":"620922105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓜州镇",
 		"parentCode":"620922"
 	},
@@ -51,7 +51,7 @@
 		"code":"620922106",
 		"fullCode":"620922106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖镇",
 		"parentCode":"620922"
 	},
@@ -59,7 +59,7 @@
 		"code":"620922107",
 		"fullCode":"620922107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河东镇",
 		"parentCode":"620922"
 	},
@@ -67,7 +67,7 @@
 		"code":"620922108",
 		"fullCode":"620922108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双塔镇",
 		"parentCode":"620922"
 	},
@@ -75,7 +75,7 @@
 		"code":"620922109",
 		"fullCode":"620922109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰站子东乡族镇",
 		"parentCode":"620922"
 	},
@@ -83,7 +83,7 @@
 		"code":"620922201",
 		"fullCode":"620922201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布隆吉乡",
 		"parentCode":"620922"
 	},
@@ -91,7 +91,7 @@
 		"code":"620922212",
 		"fullCode":"620922212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七墩回族东乡族乡",
 		"parentCode":"620922"
 	},
@@ -99,7 +99,7 @@
 		"code":"620922214",
 		"fullCode":"620922214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广至藏族乡",
 		"parentCode":"620922"
 	},
@@ -107,7 +107,7 @@
 		"code":"620922215",
 		"fullCode":"620922215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河回族乡",
 		"parentCode":"620922"
 	},
@@ -115,7 +115,7 @@
 		"code":"620922216",
 		"fullCode":"620922216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁湖乡",
 		"parentCode":"620922"
 	}

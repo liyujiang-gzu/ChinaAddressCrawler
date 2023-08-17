@@ -3,7 +3,7 @@
 		"code":"370783001",
 		"fullCode":"370783001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圣城街道",
 		"parentCode":"370783"
 	},
@@ -11,7 +11,7 @@
 		"code":"370783003",
 		"fullCode":"370783003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文家街道",
 		"parentCode":"370783"
 	},
@@ -19,7 +19,7 @@
 		"code":"370783004",
 		"fullCode":"370783004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城街道",
 		"parentCode":"370783"
 	},
@@ -27,7 +27,7 @@
 		"code":"370783005",
 		"fullCode":"370783005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛城街道",
 		"parentCode":"370783"
 	},
@@ -35,7 +35,7 @@
 		"code":"370783006",
 		"fullCode":"370783006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙家集街道",
 		"parentCode":"370783"
 	},
@@ -43,7 +43,7 @@
 		"code":"370783100",
 		"fullCode":"370783100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"化龙镇",
 		"parentCode":"370783"
 	},
@@ -51,7 +51,7 @@
 		"code":"370783103",
 		"fullCode":"370783103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营里镇",
 		"parentCode":"370783"
 	},
@@ -59,7 +59,7 @@
 		"code":"370783104",
 		"fullCode":"370783104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台头镇",
 		"parentCode":"370783"
 	},
@@ -67,7 +67,7 @@
 		"code":"370783106",
 		"fullCode":"370783106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田柳镇",
 		"parentCode":"370783"
 	},
@@ -75,7 +75,7 @@
 		"code":"370783108",
 		"fullCode":"370783108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上口镇",
 		"parentCode":"370783"
 	},
@@ -83,7 +83,7 @@
 		"code":"370783109",
 		"fullCode":"370783109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侯镇",
 		"parentCode":"370783"
 	},
@@ -91,7 +91,7 @@
 		"code":"370783111",
 		"fullCode":"370783111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纪台镇",
 		"parentCode":"370783"
 	},
@@ -99,7 +99,7 @@
 		"code":"370783112",
 		"fullCode":"370783112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稻田镇",
 		"parentCode":"370783"
 	},
@@ -107,7 +107,7 @@
 		"code":"370783115",
 		"fullCode":"370783115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊口镇",
 		"parentCode":"370783"
 	},
@@ -115,7 +115,7 @@
 		"code":"370783400",
 		"fullCode":"370783400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双王城生态经济园区管委会",
 		"parentCode":"370783"
 	}

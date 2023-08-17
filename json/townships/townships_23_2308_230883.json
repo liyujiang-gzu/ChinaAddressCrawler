@@ -3,7 +3,7 @@
 		"code":"230883100",
 		"fullCode":"230883100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抚远镇",
 		"parentCode":"230883"
 	},
@@ -11,7 +11,7 @@
 		"code":"230883101",
 		"fullCode":"230883101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寒葱沟镇",
 		"parentCode":"230883"
 	},
@@ -19,7 +19,7 @@
 		"code":"230883102",
 		"fullCode":"230883102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浓桥镇",
 		"parentCode":"230883"
 	},
@@ -27,7 +27,7 @@
 		"code":"230883103",
 		"fullCode":"230883103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌苏镇",
 		"parentCode":"230883"
 	},
@@ -35,7 +35,7 @@
 		"code":"230883104",
 		"fullCode":"230883104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑瞎子岛镇",
 		"parentCode":"230883"
 	},
@@ -43,7 +43,7 @@
 		"code":"230883105",
 		"fullCode":"230883105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通江镇",
 		"parentCode":"230883"
 	},
@@ -51,7 +51,7 @@
 		"code":"230883106",
 		"fullCode":"230883106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海青镇",
 		"parentCode":"230883"
 	},
@@ -59,7 +59,7 @@
 		"code":"230883201",
 		"fullCode":"230883201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浓江乡",
 		"parentCode":"230883"
 	},
@@ -67,7 +67,7 @@
 		"code":"230883203",
 		"fullCode":"230883203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"别拉洪乡",
 		"parentCode":"230883"
 	},
@@ -75,7 +75,7 @@
 		"code":"230883204",
 		"fullCode":"230883204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸭南乡",
 		"parentCode":"230883"
 	},
@@ -83,7 +83,7 @@
 		"code":"230883500",
 		"fullCode":"230883500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前哨农场",
 		"parentCode":"230883"
 	},
@@ -91,7 +91,7 @@
 		"code":"230883501",
 		"fullCode":"230883501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前锋农场",
 		"parentCode":"230883"
 	},
@@ -99,7 +99,7 @@
 		"code":"230883502",
 		"fullCode":"230883502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二道河农场",
 		"parentCode":"230883"
 	}

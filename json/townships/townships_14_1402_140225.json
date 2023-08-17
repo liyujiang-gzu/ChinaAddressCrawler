@@ -3,7 +3,7 @@
 		"code":"140225100",
 		"fullCode":"140225100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安镇",
 		"parentCode":"140225"
 	},
@@ -11,7 +11,7 @@
 		"code":"140225101",
 		"fullCode":"140225101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西坊城镇",
 		"parentCode":"140225"
 	},
@@ -19,7 +19,7 @@
 		"code":"140225102",
 		"fullCode":"140225102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡村镇",
 		"parentCode":"140225"
 	},
@@ -27,7 +27,7 @@
 		"code":"140225103",
 		"fullCode":"140225103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙圪坨镇",
 		"parentCode":"140225"
 	},
@@ -35,7 +35,7 @@
 		"code":"140225104",
 		"fullCode":"140225104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王庄堡镇",
 		"parentCode":"140225"
 	},
@@ -43,7 +43,7 @@
 		"code":"140225106",
 		"fullCode":"140225106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青磁窑镇",
 		"parentCode":"140225"
 	},
@@ -51,7 +51,7 @@
 		"code":"140225201",
 		"fullCode":"140225201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坊城乡",
 		"parentCode":"140225"
 	},
@@ -59,7 +59,7 @@
 		"code":"140225203",
 		"fullCode":"140225203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裴村乡",
 		"parentCode":"140225"
 	},
@@ -67,7 +67,7 @@
 		"code":"140225204",
 		"fullCode":"140225204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驼峰乡",
 		"parentCode":"140225"
 	},
@@ -75,7 +75,7 @@
 		"code":"140225205",
 		"fullCode":"140225205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西留村乡",
 		"parentCode":"140225"
 	},
@@ -83,7 +83,7 @@
 		"code":"140225206",
 		"fullCode":"140225206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下韩村乡",
 		"parentCode":"140225"
 	},
@@ -91,7 +91,7 @@
 		"code":"140225208",
 		"fullCode":"140225208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南榆林乡",
 		"parentCode":"140225"
 	},
@@ -99,7 +99,7 @@
 		"code":"140225210",
 		"fullCode":"140225210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴城乡",
 		"parentCode":"140225"
 	},
@@ -107,7 +107,7 @@
 		"code":"140225213",
 		"fullCode":"140225213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大仁庄乡",
 		"parentCode":"140225"
 	},
@@ -115,7 +115,7 @@
 		"code":"140225215",
 		"fullCode":"140225215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千佛岭乡",
 		"parentCode":"140225"
 	},
@@ -123,7 +123,7 @@
 		"code":"140225218",
 		"fullCode":"140225218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官儿乡",
 		"parentCode":"140225"
 	}

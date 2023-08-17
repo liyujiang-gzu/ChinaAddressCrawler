@@ -3,7 +3,7 @@
 		"code":"411303002",
 		"fullCode":"411303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七一街道",
 		"parentCode":"411303"
 	},
@@ -11,7 +11,7 @@
 		"code":"411303003",
 		"fullCode":"411303003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧龙岗街道",
 		"parentCode":"411303"
 	},
@@ -19,7 +19,7 @@
 		"code":"411303004",
 		"fullCode":"411303004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武侯街道",
 		"parentCode":"411303"
 	},
@@ -27,7 +27,7 @@
 		"code":"411303005",
 		"fullCode":"411303005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅溪街道",
 		"parentCode":"411303"
 	},
@@ -35,7 +35,7 @@
 		"code":"411303006",
 		"fullCode":"411303006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车站街道",
 		"parentCode":"411303"
 	},
@@ -43,7 +43,7 @@
 		"code":"411303007",
 		"fullCode":"411303007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光武街道",
 		"parentCode":"411303"
 	},
@@ -51,7 +51,7 @@
 		"code":"411303008",
 		"fullCode":"411303008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靳岗街道",
 		"parentCode":"411303"
 	},
@@ -59,7 +59,7 @@
 		"code":"411303101",
 		"fullCode":"411303101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥镇",
 		"parentCode":"411303"
 	},
@@ -67,7 +67,7 @@
 		"code":"411303102",
 		"fullCode":"411303102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潦河镇",
 		"parentCode":"411303"
 	},
@@ -75,7 +75,7 @@
 		"code":"411303103",
 		"fullCode":"411303103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安皋镇",
 		"parentCode":"411303"
 	},
@@ -83,7 +83,7 @@
 		"code":"411303104",
 		"fullCode":"411303104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲山镇",
 		"parentCode":"411303"
 	},
@@ -91,7 +91,7 @@
 		"code":"411303105",
 		"fullCode":"411303105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陆营镇",
 		"parentCode":"411303"
 	},
@@ -99,7 +99,7 @@
 		"code":"411303106",
 		"fullCode":"411303106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青华镇",
 		"parentCode":"411303"
 	},
@@ -107,7 +107,7 @@
 		"code":"411303107",
 		"fullCode":"411303107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英庄镇",
 		"parentCode":"411303"
 	},
@@ -115,7 +115,7 @@
 		"code":"411303108",
 		"fullCode":"411303108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潦河坡镇",
 		"parentCode":"411303"
 	},
@@ -123,7 +123,7 @@
 		"code":"411303109",
 		"fullCode":"411303109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢庄镇",
 		"parentCode":"411303"
 	},
@@ -131,7 +131,7 @@
 		"code":"411303300",
 		"fullCode":"411303300000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里园乡",
 		"parentCode":"411303"
 	},
@@ -139,7 +139,7 @@
 		"code":"411303306",
 		"fullCode":"411303306000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王村乡",
 		"parentCode":"411303"
 	},
@@ -147,7 +147,7 @@
 		"code":"411303400",
 		"fullCode":"411303400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙王沟风景区",
 		"parentCode":"411303"
 	}

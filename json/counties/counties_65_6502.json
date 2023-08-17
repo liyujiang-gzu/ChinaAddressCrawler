@@ -3,7 +3,7 @@
 		"code":"650202",
 		"fullCode":"650202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"独山子区",
 		"parentCode":"6502"
 	},
@@ -11,7 +11,7 @@
 		"code":"650203",
 		"fullCode":"650203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"克拉玛依区",
 		"parentCode":"6502"
 	},
@@ -19,7 +19,7 @@
 		"code":"650204",
 		"fullCode":"650204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"白碱滩区",
 		"parentCode":"6502"
 	},
@@ -27,7 +27,7 @@
 		"code":"650205",
 		"fullCode":"650205000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌尔禾区",
 		"parentCode":"6502"
 	}

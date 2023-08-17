@@ -3,7 +3,7 @@
 		"code":"430202001",
 		"fullCode":"430202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月塘街道",
 		"parentCode":"430202"
 	},
@@ -11,7 +11,7 @@
 		"code":"430202002",
 		"fullCode":"430202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨菇塘街道",
 		"parentCode":"430202"
 	},
@@ -19,7 +19,7 @@
 		"code":"430202003",
 		"fullCode":"430202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋家桥街道",
 		"parentCode":"430202"
 	},
@@ -27,7 +27,7 @@
 		"code":"430202004",
 		"fullCode":"430202004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂花街道",
 		"parentCode":"430202"
 	},
@@ -35,7 +35,7 @@
 		"code":"430202005",
 		"fullCode":"430202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山街道",
 		"parentCode":"430202"
 	},
@@ -43,7 +43,7 @@
 		"code":"430202100",
 		"fullCode":"430202100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙庾镇",
 		"parentCode":"430202"
 	}

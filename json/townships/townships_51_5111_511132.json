@@ -3,7 +3,7 @@
 		"code":"511132100",
 		"fullCode":"511132100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坪镇",
 		"parentCode":"511132"
 	},
@@ -11,7 +11,7 @@
 		"code":"511132101",
 		"fullCode":"511132101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大堡镇",
 		"parentCode":"511132"
 	},
@@ -19,7 +19,7 @@
 		"code":"511132102",
 		"fullCode":"511132102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛坪镇",
 		"parentCode":"511132"
 	},
@@ -27,7 +27,7 @@
 		"code":"511132103",
 		"fullCode":"511132103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五渡镇",
 		"parentCode":"511132"
 	},
@@ -35,7 +35,7 @@
 		"code":"511132104",
 		"fullCode":"511132104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新林镇",
 		"parentCode":"511132"
 	},
@@ -43,7 +43,7 @@
 		"code":"511132105",
 		"fullCode":"511132105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑竹沟镇",
 		"parentCode":"511132"
 	},
@@ -51,7 +51,7 @@
 		"code":"511132106",
 		"fullCode":"511132106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗镇",
 		"parentCode":"511132"
 	},
@@ -59,7 +59,7 @@
 		"code":"511132201",
 		"fullCode":"511132201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜坪乡",
 		"parentCode":"511132"
 	},
@@ -67,7 +67,7 @@
 		"code":"511132206",
 		"fullCode":"511132206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨河乡",
 		"parentCode":"511132"
 	},
@@ -75,7 +75,7 @@
 		"code":"511132208",
 		"fullCode":"511132208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新场乡",
 		"parentCode":"511132"
 	},
@@ -83,7 +83,7 @@
 		"code":"511132209",
 		"fullCode":"511132209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平等乡",
 		"parentCode":"511132"
 	},
@@ -91,7 +91,7 @@
 		"code":"511132211",
 		"fullCode":"511132211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金岩乡",
 		"parentCode":"511132"
 	},
@@ -99,7 +99,7 @@
 		"code":"511132212",
 		"fullCode":"511132212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勒乌乡",
 		"parentCode":"511132"
 	}

@@ -3,7 +3,7 @@
 		"code":"340123100",
 		"fullCode":"340123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上派镇",
 		"parentCode":"340123"
 	},
@@ -11,7 +11,7 @@
 		"code":"340123101",
 		"fullCode":"340123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三河镇",
 		"parentCode":"340123"
 	},
@@ -19,7 +19,7 @@
 		"code":"340123103",
 		"fullCode":"340123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官亭镇",
 		"parentCode":"340123"
 	},
@@ -27,7 +27,7 @@
 		"code":"340123105",
 		"fullCode":"340123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山南镇",
 		"parentCode":"340123"
 	},
@@ -35,7 +35,7 @@
 		"code":"340123106",
 		"fullCode":"340123106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花岗镇",
 		"parentCode":"340123"
 	},
@@ -43,7 +43,7 @@
 		"code":"340123107",
 		"fullCode":"340123107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫蓬镇",
 		"parentCode":"340123"
 	},
@@ -51,7 +51,7 @@
 		"code":"340123108",
 		"fullCode":"340123108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃花镇",
 		"parentCode":"340123"
 	},
@@ -59,7 +59,7 @@
 		"code":"340123109",
 		"fullCode":"340123109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰乐镇",
 		"parentCode":"340123"
 	},
@@ -67,7 +67,7 @@
 		"code":"340123111",
 		"fullCode":"340123111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高店镇",
 		"parentCode":"340123"
 	},
@@ -75,7 +75,7 @@
 		"code":"340123112",
 		"fullCode":"340123112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"严店镇",
 		"parentCode":"340123"
 	},
@@ -83,7 +83,7 @@
 		"code":"340123201",
 		"fullCode":"340123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铭传乡",
 		"parentCode":"340123"
 	},
@@ -91,7 +91,7 @@
 		"code":"340123202",
 		"fullCode":"340123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柿树岗乡",
 		"parentCode":"340123"
 	},
@@ -99,7 +99,7 @@
 		"code":"340123400",
 		"fullCode":"340123400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽肥西经济开发区",
 		"parentCode":"340123"
 	},
@@ -107,7 +107,7 @@
 		"code":"340123401",
 		"fullCode":"340123401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫蓬山管委会",
 		"parentCode":"340123"
 	}

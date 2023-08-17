@@ -3,7 +3,7 @@
 		"code":"330326100",
 		"fullCode":"330326100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆阳镇",
 		"parentCode":"330326"
 	},
@@ -11,7 +11,7 @@
 		"code":"330326101",
 		"fullCode":"330326101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鳌江镇",
 		"parentCode":"330326"
 	},
@@ -19,7 +19,7 @@
 		"code":"330326102",
 		"fullCode":"330326102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水头镇",
 		"parentCode":"330326"
 	},
@@ -27,7 +27,7 @@
 		"code":"330326103",
 		"fullCode":"330326103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萧江镇",
 		"parentCode":"330326"
 	},
@@ -35,7 +35,7 @@
 		"code":"330326105",
 		"fullCode":"330326105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腾蛟镇",
 		"parentCode":"330326"
 	},
@@ -43,7 +43,7 @@
 		"code":"330326107",
 		"fullCode":"330326107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山门镇",
 		"parentCode":"330326"
 	},
@@ -51,7 +51,7 @@
 		"code":"330326108",
 		"fullCode":"330326108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺溪镇",
 		"parentCode":"330326"
 	},
@@ -59,7 +59,7 @@
 		"code":"330326109",
 		"fullCode":"330326109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南雁镇",
 		"parentCode":"330326"
 	},
@@ -67,7 +67,7 @@
 		"code":"330326117",
 		"fullCode":"330326117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万全镇",
 		"parentCode":"330326"
 	},
@@ -75,7 +75,7 @@
 		"code":"330326118",
 		"fullCode":"330326118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海西镇",
 		"parentCode":"330326"
 	},
@@ -83,7 +83,7 @@
 		"code":"330326119",
 		"fullCode":"330326119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南麂镇",
 		"parentCode":"330326"
 	},
@@ -91,7 +91,7 @@
 		"code":"330326120",
 		"fullCode":"330326120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻步镇",
 		"parentCode":"330326"
 	},
@@ -99,7 +99,7 @@
 		"code":"330326121",
 		"fullCode":"330326121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤卧镇",
 		"parentCode":"330326"
 	},
@@ -107,7 +107,7 @@
 		"code":"330326122",
 		"fullCode":"330326122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀溪镇",
 		"parentCode":"330326"
 	},
@@ -115,7 +115,7 @@
 		"code":"330326214",
 		"fullCode":"330326214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青街畲族乡",
 		"parentCode":"330326"
 	},
@@ -123,7 +123,7 @@
 		"code":"330326217",
 		"fullCode":"330326217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闹村乡",
 		"parentCode":"330326"
 	},
@@ -131,7 +131,7 @@
 		"code":"330326401",
 		"fullCode":"330326401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开发区",
 		"parentCode":"330326"
 	}

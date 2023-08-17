@@ -3,7 +3,7 @@
 		"code":"520329001",
 		"fullCode":"520329001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"子营街道",
 		"parentCode":"520329"
 	},
@@ -11,7 +11,7 @@
 		"code":"520329102",
 		"fullCode":"520329102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙溪镇",
 		"parentCode":"520329"
 	},
@@ -19,7 +19,7 @@
 		"code":"520329103",
 		"fullCode":"520329103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"构皮滩镇",
 		"parentCode":"520329"
 	},
@@ -27,7 +27,7 @@
 		"code":"520329104",
 		"fullCode":"520329104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大乌江镇",
 		"parentCode":"520329"
 	},
@@ -35,7 +35,7 @@
 		"code":"520329105",
 		"fullCode":"520329105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敖溪镇",
 		"parentCode":"520329"
 	},
@@ -43,7 +43,7 @@
 		"code":"520329106",
 		"fullCode":"520329106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙家镇",
 		"parentCode":"520329"
 	},
@@ -51,7 +51,7 @@
 		"code":"520329107",
 		"fullCode":"520329107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松烟镇",
 		"parentCode":"520329"
 	},
@@ -59,7 +59,7 @@
 		"code":"520329108",
 		"fullCode":"520329108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关兴镇",
 		"parentCode":"520329"
 	},
@@ -67,7 +67,7 @@
 		"code":"520329109",
 		"fullCode":"520329109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白泥镇",
 		"parentCode":"520329"
 	},
@@ -75,7 +75,7 @@
 		"code":"520329200",
 		"fullCode":"520329200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花山苗族乡",
 		"parentCode":"520329"
 	}

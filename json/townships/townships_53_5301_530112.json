@@ -3,7 +3,7 @@
 		"code":"530112001",
 		"fullCode":"530112001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西苑街道",
 		"parentCode":"530112"
 	},
@@ -11,7 +11,7 @@
 		"code":"530112002",
 		"fullCode":"530112002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马街街道",
 		"parentCode":"530112"
 	},
@@ -19,7 +19,7 @@
 		"code":"530112003",
 		"fullCode":"530112003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金碧街道",
 		"parentCode":"530112"
 	},
@@ -27,7 +27,7 @@
 		"code":"530112004",
 		"fullCode":"530112004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永昌街道",
 		"parentCode":"530112"
 	},
@@ -35,7 +35,7 @@
 		"code":"530112005",
 		"fullCode":"530112005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前卫街道",
 		"parentCode":"530112"
 	},
@@ -43,7 +43,7 @@
 		"code":"530112006",
 		"fullCode":"530112006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福海街道",
 		"parentCode":"530112"
 	},
@@ -51,7 +51,7 @@
 		"code":"530112007",
 		"fullCode":"530112007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棕树营街道",
 		"parentCode":"530112"
 	},
@@ -59,7 +59,7 @@
 		"code":"530112008",
 		"fullCode":"530112008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧鸡街道",
 		"parentCode":"530112"
 	},
@@ -67,7 +67,7 @@
 		"code":"530112009",
 		"fullCode":"530112009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海口街道",
 		"parentCode":"530112"
 	},
@@ -75,7 +75,7 @@
 		"code":"530112010",
 		"fullCode":"530112010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结街道",
 		"parentCode":"530112"
 	},
@@ -83,7 +83,7 @@
 		"code":"530112403",
 		"fullCode":"530112403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆明滇池国家旅游度假区",
 		"parentCode":"530112"
 	}

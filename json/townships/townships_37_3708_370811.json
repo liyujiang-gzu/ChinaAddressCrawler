@@ -3,7 +3,7 @@
 		"code":"370811002",
 		"fullCode":"370811002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许庄街道",
 		"parentCode":"370811"
 	},
@@ -11,7 +11,7 @@
 		"code":"370811005",
 		"fullCode":"370811005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李营街道",
 		"parentCode":"370811"
 	},
@@ -19,7 +19,7 @@
 		"code":"370811006",
 		"fullCode":"370811006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南张街道",
 		"parentCode":"370811"
 	},
@@ -27,7 +27,7 @@
 		"code":"370811007",
 		"fullCode":"370811007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙营街道",
 		"parentCode":"370811"
 	},
@@ -35,7 +35,7 @@
 		"code":"370811008",
 		"fullCode":"370811008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金城街道",
 		"parentCode":"370811"
 	},
@@ -43,7 +43,7 @@
 		"code":"370811009",
 		"fullCode":"370811009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"廿里铺街道",
 		"parentCode":"370811"
 	},
@@ -51,7 +51,7 @@
 		"code":"370811011",
 		"fullCode":"370811011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古槐街道",
 		"parentCode":"370811"
 	},
@@ -59,7 +59,7 @@
 		"code":"370811012",
 		"fullCode":"370811012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济阳街道",
 		"parentCode":"370811"
 	},
@@ -67,7 +67,7 @@
 		"code":"370811013",
 		"fullCode":"370811013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阜桥街道",
 		"parentCode":"370811"
 	},
@@ -75,7 +75,7 @@
 		"code":"370811014",
 		"fullCode":"370811014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"越河街道",
 		"parentCode":"370811"
 	},
@@ -83,7 +83,7 @@
 		"code":"370811015",
 		"fullCode":"370811015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音阁街道",
 		"parentCode":"370811"
 	},
@@ -91,7 +91,7 @@
 		"code":"370811016",
 		"fullCode":"370811016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南苑街道",
 		"parentCode":"370811"
 	},
@@ -99,7 +99,7 @@
 		"code":"370811017",
 		"fullCode":"370811017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安居街道",
 		"parentCode":"370811"
 	},
@@ -107,7 +107,7 @@
 		"code":"370811018",
 		"fullCode":"370811018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐口街道",
 		"parentCode":"370811"
 	},
@@ -115,7 +115,7 @@
 		"code":"370811102",
 		"fullCode":"370811102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长沟镇",
 		"parentCode":"370811"
 	},
@@ -123,7 +123,7 @@
 		"code":"370811109",
 		"fullCode":"370811109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥镇",
 		"parentCode":"370811"
 	},
@@ -131,7 +131,7 @@
 		"code":"370811111",
 		"fullCode":"370811111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喻屯镇",
 		"parentCode":"370811"
 	},
@@ -139,7 +139,7 @@
 		"code":"370811401",
 		"fullCode":"370811401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济东物业服务中心",
 		"parentCode":"370811"
 	}

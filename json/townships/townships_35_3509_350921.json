@@ -3,7 +3,7 @@
 		"code":"350921001",
 		"fullCode":"350921001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松城街道",
 		"parentCode":"350921"
 	},
@@ -11,7 +11,7 @@
 		"code":"350921002",
 		"fullCode":"350921002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松港街道",
 		"parentCode":"350921"
 	},
@@ -19,7 +19,7 @@
 		"code":"350921003",
 		"fullCode":"350921003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松山街道",
 		"parentCode":"350921"
 	},
@@ -27,7 +27,7 @@
 		"code":"350921101",
 		"fullCode":"350921101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长春镇",
 		"parentCode":"350921"
 	},
@@ -35,7 +35,7 @@
 		"code":"350921102",
 		"fullCode":"350921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牙城镇",
 		"parentCode":"350921"
 	},
@@ -43,7 +43,7 @@
 		"code":"350921103",
 		"fullCode":"350921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪南镇",
 		"parentCode":"350921"
 	},
@@ -51,7 +51,7 @@
 		"code":"350921104",
 		"fullCode":"350921104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙江镇",
 		"parentCode":"350921"
 	},
@@ -59,7 +59,7 @@
 		"code":"350921105",
 		"fullCode":"350921105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下浒镇",
 		"parentCode":"350921"
 	},
@@ -67,7 +67,7 @@
 		"code":"350921106",
 		"fullCode":"350921106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三沙镇",
 		"parentCode":"350921"
 	},
@@ -75,7 +75,7 @@
 		"code":"350921200",
 		"fullCode":"350921200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐田畲族乡",
 		"parentCode":"350921"
 	},
@@ -83,7 +83,7 @@
 		"code":"350921201",
 		"fullCode":"350921201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水门畲族乡",
 		"parentCode":"350921"
 	},
@@ -91,7 +91,7 @@
 		"code":"350921202",
 		"fullCode":"350921202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇儒畲族乡",
 		"parentCode":"350921"
 	},
@@ -99,7 +99,7 @@
 		"code":"350921203",
 		"fullCode":"350921203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏洋乡",
 		"parentCode":"350921"
 	},
@@ -107,7 +107,7 @@
 		"code":"350921204",
 		"fullCode":"350921204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北壁乡",
 		"parentCode":"350921"
 	},
@@ -115,7 +115,7 @@
 		"code":"350921205",
 		"fullCode":"350921205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海岛乡",
 		"parentCode":"350921"
 	}

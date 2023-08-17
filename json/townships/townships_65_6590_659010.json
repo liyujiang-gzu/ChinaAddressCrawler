@@ -3,7 +3,7 @@
 		"code":"659010001",
 		"fullCode":"659010001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡杨街道",
 		"parentCode":"659010"
 	},
@@ -11,7 +11,7 @@
 		"code":"659010100",
 		"fullCode":"659010100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共青镇",
 		"parentCode":"659010"
 	},
@@ -19,7 +19,7 @@
 		"code":"659010400",
 		"fullCode":"659010400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡杨河市核心区",
 		"parentCode":"659010"
 	},
@@ -27,7 +27,7 @@
 		"code":"659010500",
 		"fullCode":"659010500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一二五团",
 		"parentCode":"659010"
 	},
@@ -35,7 +35,7 @@
 		"code":"659010501",
 		"fullCode":"659010501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一二八团",
 		"parentCode":"659010"
 	},
@@ -43,7 +43,7 @@
 		"code":"659010502",
 		"fullCode":"659010502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一二九团",
 		"parentCode":"659010"
 	}

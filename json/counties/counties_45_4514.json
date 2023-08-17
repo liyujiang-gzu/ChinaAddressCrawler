@@ -3,7 +3,7 @@
 		"code":"451402",
 		"fullCode":"451402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江州区",
 		"parentCode":"4514"
 	},
@@ -11,7 +11,7 @@
 		"code":"451421",
 		"fullCode":"451421000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"扶绥县",
 		"parentCode":"4514"
 	},
@@ -19,7 +19,7 @@
 		"code":"451422",
 		"fullCode":"451422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁明县",
 		"parentCode":"4514"
 	},
@@ -27,7 +27,7 @@
 		"code":"451423",
 		"fullCode":"451423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙州县",
 		"parentCode":"4514"
 	},
@@ -35,7 +35,7 @@
 		"code":"451424",
 		"fullCode":"451424000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大新县",
 		"parentCode":"4514"
 	},
@@ -43,7 +43,7 @@
 		"code":"451425",
 		"fullCode":"451425000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天等县",
 		"parentCode":"4514"
 	},
@@ -51,7 +51,7 @@
 		"code":"451481",
 		"fullCode":"451481000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凭祥市",
 		"parentCode":"4514"
 	}

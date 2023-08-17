@@ -3,7 +3,7 @@
 		"code":"360923001",
 		"fullCode":"360923001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敖阳街道",
 		"parentCode":"360923"
 	},
@@ -11,7 +11,7 @@
 		"code":"360923002",
 		"fullCode":"360923002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦阳街道",
 		"parentCode":"360923"
 	},
@@ -19,7 +19,7 @@
 		"code":"360923100",
 		"fullCode":"360923100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田心镇",
 		"parentCode":"360923"
 	},
@@ -27,7 +27,7 @@
 		"code":"360923101",
 		"fullCode":"360923101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐家渡镇",
 		"parentCode":"360923"
 	},
@@ -35,7 +35,7 @@
 		"code":"360923102",
 		"fullCode":"360923102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦江镇",
 		"parentCode":"360923"
 	},
@@ -43,7 +43,7 @@
 		"code":"360923103",
 		"fullCode":"360923103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗溪镇",
 		"parentCode":"360923"
 	},
@@ -51,7 +51,7 @@
 		"code":"360923104",
 		"fullCode":"360923104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翰堂镇",
 		"parentCode":"360923"
 	},
@@ -59,7 +59,7 @@
 		"code":"360923105",
 		"fullCode":"360923105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南港镇",
 		"parentCode":"360923"
 	},
@@ -67,7 +67,7 @@
 		"code":"360923106",
 		"fullCode":"360923106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敖山镇",
 		"parentCode":"360923"
 	},
@@ -75,7 +75,7 @@
 		"code":"360923107",
 		"fullCode":"360923107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新界埠镇",
 		"parentCode":"360923"
 	},
@@ -83,7 +83,7 @@
 		"code":"360923108",
 		"fullCode":"360923108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒙山镇",
 		"parentCode":"360923"
 	},
@@ -91,7 +91,7 @@
 		"code":"360923200",
 		"fullCode":"360923200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦洲乡",
 		"parentCode":"360923"
 	},
@@ -99,7 +99,7 @@
 		"code":"360923201",
 		"fullCode":"360923201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔下乡",
 		"parentCode":"360923"
 	},
@@ -107,7 +107,7 @@
 		"code":"360923203",
 		"fullCode":"360923203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇渡乡",
 		"parentCode":"360923"
 	},
@@ -115,7 +115,7 @@
 		"code":"360923204",
 		"fullCode":"360923204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"野市乡",
 		"parentCode":"360923"
 	},
@@ -123,7 +123,7 @@
 		"code":"360923206",
 		"fullCode":"360923206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墨山乡",
 		"parentCode":"360923"
 	},
@@ -131,7 +131,7 @@
 		"code":"360923400",
 		"fullCode":"360923400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上高县工业园区",
 		"parentCode":"360923"
 	},
@@ -139,7 +139,7 @@
 		"code":"360923501",
 		"fullCode":"360923501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上甘山林场",
 		"parentCode":"360923"
 	}

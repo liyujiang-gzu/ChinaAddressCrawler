@@ -3,7 +3,7 @@
 		"code":"411071001",
 		"fullCode":"411071001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长村张街道",
 		"parentCode":"411071"
 	},
@@ -11,7 +11,7 @@
 		"code":"411071400",
 		"fullCode":"411071400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湖街道",
 		"parentCode":"411071"
 	}

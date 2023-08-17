@@ -3,7 +3,7 @@
 		"code":"451322100",
 		"fullCode":"451322100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象州镇",
 		"parentCode":"451322"
 	},
@@ -11,7 +11,7 @@
 		"code":"451322101",
 		"fullCode":"451322101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石龙镇",
 		"parentCode":"451322"
 	},
@@ -19,7 +19,7 @@
 		"code":"451322102",
 		"fullCode":"451322102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"运江镇",
 		"parentCode":"451322"
 	},
@@ -27,7 +27,7 @@
 		"code":"451322103",
 		"fullCode":"451322103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺村镇",
 		"parentCode":"451322"
 	},
@@ -35,7 +35,7 @@
 		"code":"451322104",
 		"fullCode":"451322104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中平镇",
 		"parentCode":"451322"
 	},
@@ -43,7 +43,7 @@
 		"code":"451322105",
 		"fullCode":"451322105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗秀镇",
 		"parentCode":"451322"
 	},
@@ -51,7 +51,7 @@
 		"code":"451322106",
 		"fullCode":"451322106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大乐镇",
 		"parentCode":"451322"
 	},
@@ -59,7 +59,7 @@
 		"code":"451322107",
 		"fullCode":"451322107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坪镇",
 		"parentCode":"451322"
 	},
@@ -67,7 +67,7 @@
 		"code":"451322201",
 		"fullCode":"451322201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"妙皇乡",
 		"parentCode":"451322"
 	},
@@ -75,7 +75,7 @@
 		"code":"451322202",
 		"fullCode":"451322202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百丈乡",
 		"parentCode":"451322"
 	},
@@ -83,7 +83,7 @@
 		"code":"451322203",
 		"fullCode":"451322203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水晶乡",
 		"parentCode":"451322"
 	}

@@ -3,7 +3,7 @@
 		"code":"520111004",
 		"fullCode":"520111004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贵筑街道",
 		"parentCode":"520111"
 	},
@@ -11,7 +11,7 @@
 		"code":"520111005",
 		"fullCode":"520111005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳光街道",
 		"parentCode":"520111"
 	},
@@ -19,7 +19,7 @@
 		"code":"520111006",
 		"fullCode":"520111006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清溪街道",
 		"parentCode":"520111"
 	},
@@ -27,7 +27,7 @@
 		"code":"520111007",
 		"fullCode":"520111007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪北街道",
 		"parentCode":"520111"
 	},
@@ -35,7 +35,7 @@
 		"code":"520111008",
 		"fullCode":"520111008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄河路街道",
 		"parentCode":"520111"
 	},
@@ -43,7 +43,7 @@
 		"code":"520111009",
 		"fullCode":"520111009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平桥街道",
 		"parentCode":"520111"
 	},
@@ -51,7 +51,7 @@
 		"code":"520111010",
 		"fullCode":"520111010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小孟街道",
 		"parentCode":"520111"
 	},
@@ -59,7 +59,7 @@
 		"code":"520111011",
 		"fullCode":"520111011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金筑街道",
 		"parentCode":"520111"
 	},
@@ -67,7 +67,7 @@
 		"code":"520111012",
 		"fullCode":"520111012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"党武街道",
 		"parentCode":"520111"
 	},
@@ -75,7 +75,7 @@
 		"code":"520111101",
 		"fullCode":"520111101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青岩镇",
 		"parentCode":"520111"
 	},
@@ -83,7 +83,7 @@
 		"code":"520111102",
 		"fullCode":"520111102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石板镇",
 		"parentCode":"520111"
 	},
@@ -91,7 +91,7 @@
 		"code":"520111104",
 		"fullCode":"520111104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦坪镇",
 		"parentCode":"520111"
 	},
@@ -99,7 +99,7 @@
 		"code":"520111105",
 		"fullCode":"520111105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕楼镇",
 		"parentCode":"520111"
 	},
@@ -107,7 +107,7 @@
 		"code":"520111201",
 		"fullCode":"520111201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟关苗族布依族乡",
 		"parentCode":"520111"
 	},
@@ -115,7 +115,7 @@
 		"code":"520111204",
 		"fullCode":"520111204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖潮苗族布依族乡",
 		"parentCode":"520111"
 	},
@@ -123,7 +123,7 @@
 		"code":"520111205",
 		"fullCode":"520111205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"久安乡",
 		"parentCode":"520111"
 	},
@@ -131,7 +131,7 @@
 		"code":"520111207",
 		"fullCode":"520111207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坡苗族乡",
 		"parentCode":"520111"
 	},
@@ -139,7 +139,7 @@
 		"code":"520111208",
 		"fullCode":"520111208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黔陶布依族苗族乡",
 		"parentCode":"520111"
 	},
@@ -147,7 +147,7 @@
 		"code":"520111209",
 		"fullCode":"520111209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马铃布依族苗族乡",
 		"parentCode":"520111"
 	},
@@ -155,7 +155,7 @@
 		"code":"520111400",
 		"fullCode":"520111400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊艾农场",
 		"parentCode":"520111"
 	}

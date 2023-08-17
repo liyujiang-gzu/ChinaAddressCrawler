@@ -3,7 +3,7 @@
 		"code":"140431100",
 		"fullCode":"140431100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沁河镇",
 		"parentCode":"140431"
 	},
@@ -11,7 +11,7 @@
 		"code":"140431101",
 		"fullCode":"140431101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭道镇",
 		"parentCode":"140431"
 	},
@@ -19,7 +19,7 @@
 		"code":"140431102",
 		"fullCode":"140431102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵空山镇",
 		"parentCode":"140431"
 	},
@@ -27,7 +27,7 @@
 		"code":"140431103",
 		"fullCode":"140431103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王和镇",
 		"parentCode":"140431"
 	},
@@ -35,7 +35,7 @@
 		"code":"140431105",
 		"fullCode":"140431105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王陶镇",
 		"parentCode":"140431"
 	},
@@ -43,7 +43,7 @@
 		"code":"140431107",
 		"fullCode":"140431107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景凤镇",
 		"parentCode":"140431"
 	},
@@ -51,7 +51,7 @@
 		"code":"140431200",
 		"fullCode":"140431200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中峪乡",
 		"parentCode":"140431"
 	},
@@ -59,7 +59,7 @@
 		"code":"140431201",
 		"fullCode":"140431201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"法中乡",
 		"parentCode":"140431"
 	},
@@ -67,7 +67,7 @@
 		"code":"140431202",
 		"fullCode":"140431202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"交口乡",
 		"parentCode":"140431"
 	},
@@ -75,7 +75,7 @@
 		"code":"140431203",
 		"fullCode":"140431203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聪子峪乡",
 		"parentCode":"140431"
 	},
@@ -83,7 +83,7 @@
 		"code":"140431204",
 		"fullCode":"140431204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩洪乡",
 		"parentCode":"140431"
 	},
@@ -91,7 +91,7 @@
 		"code":"140431207",
 		"fullCode":"140431207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤石桥乡",
 		"parentCode":"140431"
 	},
@@ -99,7 +99,7 @@
 		"code":"140431400",
 		"fullCode":"140431400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沁源经济技术开发区",
 		"parentCode":"140431"
 	}

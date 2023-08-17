@@ -3,7 +3,7 @@
 		"code":"410106001",
 		"fullCode":"410106001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济源路街道",
 		"parentCode":"410106"
 	},
@@ -11,7 +11,7 @@
 		"code":"410106002",
 		"fullCode":"410106002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中心路街道",
 		"parentCode":"410106"
 	},
@@ -19,7 +19,7 @@
 		"code":"410106003",
 		"fullCode":"410106003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安路街道",
 		"parentCode":"410106"
 	},
@@ -27,7 +27,7 @@
 		"code":"410106004",
 		"fullCode":"410106004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工业路街道",
 		"parentCode":"410106"
 	},
@@ -35,7 +35,7 @@
 		"code":"410106005",
 		"fullCode":"410106005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿山街道",
 		"parentCode":"410106"
 	},
@@ -43,7 +43,7 @@
 		"code":"410106100",
 		"fullCode":"410106100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峡窝镇",
 		"parentCode":"410106"
 	}

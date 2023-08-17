@@ -3,7 +3,7 @@
 		"code":"410782001",
 		"fullCode":"410782001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"410782"
 	},
@@ -11,7 +11,7 @@
 		"code":"410782002",
 		"fullCode":"410782002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡桥街道",
 		"parentCode":"410782"
 	},
@@ -19,7 +19,7 @@
 		"code":"410782101",
 		"fullCode":"410782101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薄壁镇",
 		"parentCode":"410782"
 	},
@@ -27,7 +27,7 @@
 		"code":"410782102",
 		"fullCode":"410782102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峪河镇",
 		"parentCode":"410782"
 	},
@@ -35,7 +35,7 @@
 		"code":"410782103",
 		"fullCode":"410782103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百泉镇",
 		"parentCode":"410782"
 	},
@@ -43,7 +43,7 @@
 		"code":"410782104",
 		"fullCode":"410782104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟庄镇",
 		"parentCode":"410782"
 	},
@@ -51,7 +51,7 @@
 		"code":"410782105",
 		"fullCode":"410782105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常村镇",
 		"parentCode":"410782"
 	},
@@ -59,7 +59,7 @@
 		"code":"410782106",
 		"fullCode":"410782106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴村镇",
 		"parentCode":"410782"
 	},
@@ -67,7 +67,7 @@
 		"code":"410782107",
 		"fullCode":"410782107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南村镇",
 		"parentCode":"410782"
 	},
@@ -75,7 +75,7 @@
 		"code":"410782108",
 		"fullCode":"410782108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南寨镇",
 		"parentCode":"410782"
 	},
@@ -83,7 +83,7 @@
 		"code":"410782109",
 		"fullCode":"410782109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上八里镇",
 		"parentCode":"410782"
 	},
@@ -91,7 +91,7 @@
 		"code":"410782110",
 		"fullCode":"410782110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北云门镇",
 		"parentCode":"410782"
 	},
@@ -99,7 +99,7 @@
 		"code":"410782111",
 		"fullCode":"410782111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"占城镇",
 		"parentCode":"410782"
 	},
@@ -107,7 +107,7 @@
 		"code":"410782112",
 		"fullCode":"410782112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冀屯镇",
 		"parentCode":"410782"
 	},
@@ -115,7 +115,7 @@
 		"code":"410782113",
 		"fullCode":"410782113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵固镇",
 		"parentCode":"410782"
 	},
@@ -123,7 +123,7 @@
 		"code":"410782200",
 		"fullCode":"410782200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄水乡",
 		"parentCode":"410782"
 	},
@@ -131,7 +131,7 @@
 		"code":"410782201",
 		"fullCode":"410782201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拍石头乡",
 		"parentCode":"410782"
 	},
@@ -139,7 +139,7 @@
 		"code":"410782202",
 		"fullCode":"410782202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高庄乡",
 		"parentCode":"410782"
 	},
@@ -147,7 +147,7 @@
 		"code":"410782203",
 		"fullCode":"410782203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张村乡",
 		"parentCode":"410782"
 	},
@@ -155,7 +155,7 @@
 		"code":"410782206",
 		"fullCode":"410782206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西平罗乡",
 		"parentCode":"410782"
 	},
@@ -163,7 +163,7 @@
 		"code":"410782207",
 		"fullCode":"410782207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪洲乡",
 		"parentCode":"410782"
 	},
@@ -171,7 +171,7 @@
 		"code":"410782208",
 		"fullCode":"410782208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙窑乡",
 		"parentCode":"410782"
 	}

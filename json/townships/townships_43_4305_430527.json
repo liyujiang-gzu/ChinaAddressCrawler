@@ -3,7 +3,7 @@
 		"code":"430527100",
 		"fullCode":"430527100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长铺镇",
 		"parentCode":"430527"
 	},
@@ -11,7 +11,7 @@
 		"code":"430527101",
 		"fullCode":"430527101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武阳镇",
 		"parentCode":"430527"
 	},
@@ -19,7 +19,7 @@
 		"code":"430527102",
 		"fullCode":"430527102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李熙桥镇",
 		"parentCode":"430527"
 	},
@@ -27,7 +27,7 @@
 		"code":"430527103",
 		"fullCode":"430527103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红岩镇",
 		"parentCode":"430527"
 	},
@@ -35,7 +35,7 @@
 		"code":"430527104",
 		"fullCode":"430527104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐家坊镇",
 		"parentCode":"430527"
 	},
@@ -43,7 +43,7 @@
 		"code":"430527105",
 		"fullCode":"430527105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金屋塘镇",
 		"parentCode":"430527"
 	},
@@ -51,7 +51,7 @@
 		"code":"430527106",
 		"fullCode":"430527106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦屋塘镇",
 		"parentCode":"430527"
 	},
@@ -59,7 +59,7 @@
 		"code":"430527107",
 		"fullCode":"430527107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄土矿镇",
 		"parentCode":"430527"
 	},
@@ -67,7 +67,7 @@
 		"code":"430527200",
 		"fullCode":"430527200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山侗族乡",
 		"parentCode":"430527"
 	},
@@ -75,7 +75,7 @@
 		"code":"430527201",
 		"fullCode":"430527201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹅公岭侗族苗族乡",
 		"parentCode":"430527"
 	},
@@ -83,7 +83,7 @@
 		"code":"430527203",
 		"fullCode":"430527203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨市苗族侗族乡",
 		"parentCode":"430527"
 	},
@@ -91,7 +91,7 @@
 		"code":"430527204",
 		"fullCode":"430527204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐安铺苗族侗族乡",
 		"parentCode":"430527"
 	},
@@ -99,7 +99,7 @@
 		"code":"430527206",
 		"fullCode":"430527206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关峡苗族乡",
 		"parentCode":"430527"
 	},
@@ -107,7 +107,7 @@
 		"code":"430527207",
 		"fullCode":"430527207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长铺子苗族侗族乡",
 		"parentCode":"430527"
 	},
@@ -115,7 +115,7 @@
 		"code":"430527210",
 		"fullCode":"430527210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻塘苗族瑶族乡",
 		"parentCode":"430527"
 	},
@@ -123,7 +123,7 @@
 		"code":"430527212",
 		"fullCode":"430527212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口苗族乡",
 		"parentCode":"430527"
 	},
@@ -131,7 +131,7 @@
 		"code":"430527217",
 		"fullCode":"430527217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口乡",
 		"parentCode":"430527"
 	}

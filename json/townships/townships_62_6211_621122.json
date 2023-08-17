@@ -3,7 +3,7 @@
 		"code":"621122100",
 		"fullCode":"621122100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巩昌镇",
 		"parentCode":"621122"
 	},
@@ -11,7 +11,7 @@
 		"code":"621122101",
 		"fullCode":"621122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰镇",
 		"parentCode":"621122"
 	},
@@ -19,7 +19,7 @@
 		"code":"621122102",
 		"fullCode":"621122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"首阳镇",
 		"parentCode":"621122"
 	},
@@ -27,7 +27,7 @@
 		"code":"621122103",
 		"fullCode":"621122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菜子镇",
 		"parentCode":"621122"
 	},
@@ -35,7 +35,7 @@
 		"code":"621122104",
 		"fullCode":"621122104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福星镇",
 		"parentCode":"621122"
 	},
@@ -43,7 +43,7 @@
 		"code":"621122105",
 		"fullCode":"621122105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通安驿镇",
 		"parentCode":"621122"
 	},
@@ -51,7 +51,7 @@
 		"code":"621122106",
 		"fullCode":"621122106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云田镇",
 		"parentCode":"621122"
 	},
@@ -59,7 +59,7 @@
 		"code":"621122107",
 		"fullCode":"621122107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧岩镇",
 		"parentCode":"621122"
 	},
@@ -67,7 +67,7 @@
 		"code":"621122108",
 		"fullCode":"621122108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马河镇",
 		"parentCode":"621122"
 	},
@@ -75,7 +75,7 @@
 		"code":"621122109",
 		"fullCode":"621122109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯寨镇",
 		"parentCode":"621122"
 	},
@@ -83,7 +83,7 @@
 		"code":"621122110",
 		"fullCode":"621122110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双泉镇",
 		"parentCode":"621122"
 	},
@@ -91,7 +91,7 @@
 		"code":"621122111",
 		"fullCode":"621122111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"权家湾镇",
 		"parentCode":"621122"
 	},
@@ -99,7 +99,7 @@
 		"code":"621122200",
 		"fullCode":"621122200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渭阳乡",
 		"parentCode":"621122"
 	},
@@ -107,7 +107,7 @@
 		"code":"621122201",
 		"fullCode":"621122201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏伟乡",
 		"parentCode":"621122"
 	},
@@ -115,7 +115,7 @@
 		"code":"621122202",
 		"fullCode":"621122202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平乡",
 		"parentCode":"621122"
 	},
@@ -123,7 +123,7 @@
 		"code":"621122205",
 		"fullCode":"621122205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德兴乡",
 		"parentCode":"621122"
 	},
@@ -131,7 +131,7 @@
 		"code":"621122206",
 		"fullCode":"621122206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永吉乡",
 		"parentCode":"621122"
 	}

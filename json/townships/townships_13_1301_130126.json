@@ -3,7 +3,7 @@
 		"code":"130126100",
 		"fullCode":"130126100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵寿镇",
 		"parentCode":"130126"
 	},
@@ -11,7 +11,7 @@
 		"code":"130126101",
 		"fullCode":"130126101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青同镇",
 		"parentCode":"130126"
 	},
@@ -19,7 +19,7 @@
 		"code":"130126102",
 		"fullCode":"130126102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔上镇",
 		"parentCode":"130126"
 	},
@@ -27,7 +27,7 @@
 		"code":"130126103",
 		"fullCode":"130126103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈庄镇",
 		"parentCode":"130126"
 	},
@@ -35,7 +35,7 @@
 		"code":"130126104",
 		"fullCode":"130126104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"慈峪镇",
 		"parentCode":"130126"
 	},
@@ -43,7 +43,7 @@
 		"code":"130126105",
 		"fullCode":"130126105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岔头镇",
 		"parentCode":"130126"
 	},
@@ -51,7 +51,7 @@
 		"code":"130126200",
 		"fullCode":"130126200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三圣院乡",
 		"parentCode":"130126"
 	},
@@ -59,7 +59,7 @@
 		"code":"130126201",
 		"fullCode":"130126201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北洼乡",
 		"parentCode":"130126"
 	},
@@ -67,7 +67,7 @@
 		"code":"130126202",
 		"fullCode":"130126202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛城乡",
 		"parentCode":"130126"
 	},
@@ -75,7 +75,7 @@
 		"code":"130126203",
 		"fullCode":"130126203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狗台乡",
 		"parentCode":"130126"
 	},
@@ -83,7 +83,7 @@
 		"code":"130126204",
 		"fullCode":"130126204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南寨乡",
 		"parentCode":"130126"
 	},
@@ -91,7 +91,7 @@
 		"code":"130126205",
 		"fullCode":"130126205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南燕川乡",
 		"parentCode":"130126"
 	},
@@ -99,7 +99,7 @@
 		"code":"130126206",
 		"fullCode":"130126206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北谭庄乡",
 		"parentCode":"130126"
 	},
@@ -107,7 +107,7 @@
 		"code":"130126207",
 		"fullCode":"130126207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨头乡",
 		"parentCode":"130126"
 	},
@@ -115,7 +115,7 @@
 		"code":"130126208",
 		"fullCode":"130126208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南营乡",
 		"parentCode":"130126"
 	}

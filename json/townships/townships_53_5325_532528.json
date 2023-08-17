@@ -3,7 +3,7 @@
 		"code":"532528101",
 		"fullCode":"532528101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南沙镇",
 		"parentCode":"532528"
 	},
@@ -11,7 +11,7 @@
 		"code":"532528102",
 		"fullCode":"532528102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街镇",
 		"parentCode":"532528"
 	},
@@ -19,7 +19,7 @@
 		"code":"532528103",
 		"fullCode":"532528103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛角寨镇",
 		"parentCode":"532528"
 	},
@@ -27,7 +27,7 @@
 		"code":"532528203",
 		"fullCode":"532528203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙拉托乡",
 		"parentCode":"532528"
 	},
@@ -35,7 +35,7 @@
 		"code":"532528204",
 		"fullCode":"532528204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎娘乡",
 		"parentCode":"532528"
 	},
@@ -43,7 +43,7 @@
 		"code":"532528205",
 		"fullCode":"532528205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上新城乡",
 		"parentCode":"532528"
 	},
@@ -51,7 +51,7 @@
 		"code":"532528206",
 		"fullCode":"532528206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小新街乡",
 		"parentCode":"532528"
 	},
@@ -59,7 +59,7 @@
 		"code":"532528207",
 		"fullCode":"532528207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"逢春岭乡",
 		"parentCode":"532528"
 	},
@@ -67,7 +67,7 @@
 		"code":"532528208",
 		"fullCode":"532528208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坪乡",
 		"parentCode":"532528"
 	},
@@ -75,7 +75,7 @@
 		"code":"532528209",
 		"fullCode":"532528209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"攀枝花乡",
 		"parentCode":"532528"
 	},
@@ -83,7 +83,7 @@
 		"code":"532528210",
 		"fullCode":"532528210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄茅岭乡",
 		"parentCode":"532528"
 	},
@@ -91,7 +91,7 @@
 		"code":"532528211",
 		"fullCode":"532528211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄草岭乡",
 		"parentCode":"532528"
 	},
@@ -99,7 +99,7 @@
 		"code":"532528212",
 		"fullCode":"532528212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俄扎乡",
 		"parentCode":"532528"
 	},
@@ -107,7 +107,7 @@
 		"code":"532528213",
 		"fullCode":"532528213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马街乡",
 		"parentCode":"532528"
 	}

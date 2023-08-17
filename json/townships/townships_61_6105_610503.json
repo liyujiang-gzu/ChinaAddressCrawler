@@ -3,7 +3,7 @@
 		"code":"610503001",
 		"fullCode":"610503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华州街道",
 		"parentCode":"610503"
 	},
@@ -11,7 +11,7 @@
 		"code":"610503101",
 		"fullCode":"610503101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏林镇",
 		"parentCode":"610503"
 	},
@@ -19,7 +19,7 @@
 		"code":"610503102",
 		"fullCode":"610503102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤水镇",
 		"parentCode":"610503"
 	},
@@ -27,7 +27,7 @@
 		"code":"610503103",
 		"fullCode":"610503103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高塘镇",
 		"parentCode":"610503"
 	},
@@ -35,7 +35,7 @@
 		"code":"610503104",
 		"fullCode":"610503104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大明镇",
 		"parentCode":"610503"
 	},
@@ -43,7 +43,7 @@
 		"code":"610503105",
 		"fullCode":"610503105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓜坡镇",
 		"parentCode":"610503"
 	},
@@ -51,7 +51,7 @@
 		"code":"610503106",
 		"fullCode":"610503106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花寺镇",
 		"parentCode":"610503"
 	},
@@ -59,7 +59,7 @@
 		"code":"610503107",
 		"fullCode":"610503107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳枝镇",
 		"parentCode":"610503"
 	},
@@ -67,7 +67,7 @@
 		"code":"610503108",
 		"fullCode":"610503108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下庙镇",
 		"parentCode":"610503"
 	},
@@ -75,7 +75,7 @@
 		"code":"610503109",
 		"fullCode":"610503109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金堆镇",
 		"parentCode":"610503"
 	}

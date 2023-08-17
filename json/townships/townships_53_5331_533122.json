@@ -3,7 +3,7 @@
 		"code":"533122101",
 		"fullCode":"533122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遮岛镇",
 		"parentCode":"533122"
 	},
@@ -11,7 +11,7 @@
 		"code":"533122102",
 		"fullCode":"533122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芒东镇",
 		"parentCode":"533122"
 	},
@@ -19,7 +19,7 @@
 		"code":"533122103",
 		"fullCode":"533122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐养镇",
 		"parentCode":"533122"
 	},
@@ -27,7 +27,7 @@
 		"code":"533122201",
 		"fullCode":"533122201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山乡",
 		"parentCode":"533122"
 	},
@@ -35,7 +35,7 @@
 		"code":"533122202",
 		"fullCode":"533122202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小厂乡",
 		"parentCode":"533122"
 	},
@@ -43,7 +43,7 @@
 		"code":"533122203",
 		"fullCode":"533122203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大厂乡",
 		"parentCode":"533122"
 	},
@@ -51,7 +51,7 @@
 		"code":"533122204",
 		"fullCode":"533122204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九保阿昌族乡",
 		"parentCode":"533122"
 	},
@@ -59,7 +59,7 @@
 		"code":"533122205",
 		"fullCode":"533122205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曩宋阿昌族乡",
 		"parentCode":"533122"
 	},
@@ -67,7 +67,7 @@
 		"code":"533122206",
 		"fullCode":"533122206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西乡",
 		"parentCode":"533122"
 	}

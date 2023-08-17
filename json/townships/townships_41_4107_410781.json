@@ -3,7 +3,7 @@
 		"code":"410781100",
 		"fullCode":"410781100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汲水镇",
 		"parentCode":"410781"
 	},
@@ -11,7 +11,7 @@
 		"code":"410781101",
 		"fullCode":"410781101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太公镇",
 		"parentCode":"410781"
 	},
@@ -19,7 +19,7 @@
 		"code":"410781102",
 		"fullCode":"410781102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙杏村镇",
 		"parentCode":"410781"
 	},
@@ -27,7 +27,7 @@
 		"code":"410781103",
 		"fullCode":"410781103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后河镇",
 		"parentCode":"410781"
 	},
@@ -35,7 +35,7 @@
 		"code":"410781104",
 		"fullCode":"410781104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李源屯镇",
 		"parentCode":"410781"
 	},
@@ -43,7 +43,7 @@
 		"code":"410781105",
 		"fullCode":"410781105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐庄镇",
 		"parentCode":"410781"
 	},
@@ -51,7 +51,7 @@
 		"code":"410781106",
 		"fullCode":"410781106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上乐村镇",
 		"parentCode":"410781"
 	},
@@ -59,7 +59,7 @@
 		"code":"410781201",
 		"fullCode":"410781201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮豹头乡",
 		"parentCode":"410781"
 	},
@@ -67,7 +67,7 @@
 		"code":"410781203",
 		"fullCode":"410781203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安都乡",
 		"parentCode":"410781"
 	},
@@ -75,7 +75,7 @@
 		"code":"410781204",
 		"fullCode":"410781204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顿坊店乡",
 		"parentCode":"410781"
 	},
@@ -83,7 +83,7 @@
 		"code":"410781205",
 		"fullCode":"410781205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳庄乡",
 		"parentCode":"410781"
 	},
@@ -91,7 +91,7 @@
 		"code":"410781206",
 		"fullCode":"410781206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庞寨乡",
 		"parentCode":"410781"
 	},
@@ -99,7 +99,7 @@
 		"code":"410781208",
 		"fullCode":"410781208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊乡",
 		"parentCode":"410781"
 	},
@@ -107,7 +107,7 @@
 		"code":"410781400",
 		"fullCode":"410781400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卫辉市高效农业服务中心",
 		"parentCode":"410781"
 	},
@@ -115,7 +115,7 @@
 		"code":"410781401",
 		"fullCode":"410781401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风农场",
 		"parentCode":"410781"
 	},
@@ -123,7 +123,7 @@
 		"code":"410781402",
 		"fullCode":"410781402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苗圃场",
 		"parentCode":"410781"
 	},
@@ -131,7 +131,7 @@
 		"code":"410781403",
 		"fullCode":"410781403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"农科所",
 		"parentCode":"410781"
 	},
@@ -139,7 +139,7 @@
 		"code":"410781404",
 		"fullCode":"410781404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五四农场",
 		"parentCode":"410781"
 	}

@@ -3,7 +3,7 @@
 		"code":"500229",
 		"fullCode":"500229000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"城口县",
 		"parentCode":"5002"
 	},
@@ -11,7 +11,7 @@
 		"code":"500230",
 		"fullCode":"500230000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丰都县",
 		"parentCode":"5002"
 	},
@@ -19,7 +19,7 @@
 		"code":"500231",
 		"fullCode":"500231000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"垫江县",
 		"parentCode":"5002"
 	},
@@ -27,7 +27,7 @@
 		"code":"500233",
 		"fullCode":"500233000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"忠县",
 		"parentCode":"5002"
 	},
@@ -35,7 +35,7 @@
 		"code":"500235",
 		"fullCode":"500235000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"云阳县",
 		"parentCode":"5002"
 	},
@@ -43,7 +43,7 @@
 		"code":"500236",
 		"fullCode":"500236000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"奉节县",
 		"parentCode":"5002"
 	},
@@ -51,7 +51,7 @@
 		"code":"500237",
 		"fullCode":"500237000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巫山县",
 		"parentCode":"5002"
 	},
@@ -59,7 +59,7 @@
 		"code":"500238",
 		"fullCode":"500238000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巫溪县",
 		"parentCode":"5002"
 	},
@@ -67,7 +67,7 @@
 		"code":"500240",
 		"fullCode":"500240000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石柱土家族自治县",
 		"parentCode":"5002"
 	},
@@ -75,7 +75,7 @@
 		"code":"500241",
 		"fullCode":"500241000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"秀山土家族苗族自治县",
 		"parentCode":"5002"
 	},
@@ -83,7 +83,7 @@
 		"code":"500242",
 		"fullCode":"500242000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"酉阳土家族苗族自治县",
 		"parentCode":"5002"
 	},
@@ -91,7 +91,7 @@
 		"code":"500243",
 		"fullCode":"500243000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"彭水苗族土家族自治县",
 		"parentCode":"5002"
 	}

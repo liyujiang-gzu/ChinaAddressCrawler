@@ -3,7 +3,7 @@
 		"code":"321182001",
 		"fullCode":"321182001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三茅街道",
 		"parentCode":"321182"
 	},
@@ -11,7 +11,7 @@
 		"code":"321182101",
 		"fullCode":"321182101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新坝镇",
 		"parentCode":"321182"
 	},
@@ -19,7 +19,7 @@
 		"code":"321182102",
 		"fullCode":"321182102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"油坊镇",
 		"parentCode":"321182"
 	},
@@ -27,7 +27,7 @@
 		"code":"321182103",
 		"fullCode":"321182103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八桥镇",
 		"parentCode":"321182"
 	},
@@ -35,7 +35,7 @@
 		"code":"321182104",
 		"fullCode":"321182104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西来桥镇",
 		"parentCode":"321182"
 	},
@@ -43,7 +43,7 @@
 		"code":"321182400",
 		"fullCode":"321182400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"经济开发区",
 		"parentCode":"321182"
 	}

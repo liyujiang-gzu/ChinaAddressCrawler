@@ -3,7 +3,7 @@
 		"code":"211103001",
 		"fullCode":"211103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振兴街道",
 		"parentCode":"211103"
 	},
@@ -11,7 +11,7 @@
 		"code":"211103002",
 		"fullCode":"211103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆街道",
 		"parentCode":"211103"
 	},
@@ -19,7 +19,7 @@
 		"code":"211103003",
 		"fullCode":"211103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渤海街道",
 		"parentCode":"211103"
 	},
@@ -27,7 +27,7 @@
 		"code":"211103004",
 		"fullCode":"211103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新工街道",
 		"parentCode":"211103"
 	},
@@ -35,7 +35,7 @@
 		"code":"211103007",
 		"fullCode":"211103007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曙光街道",
 		"parentCode":"211103"
 	},
@@ -43,7 +43,7 @@
 		"code":"211103008",
 		"fullCode":"211103008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欢喜岭街道",
 		"parentCode":"211103"
 	},
@@ -51,7 +51,7 @@
 		"code":"211103013",
 		"fullCode":"211103013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈采街道",
 		"parentCode":"211103"
 	},
@@ -59,7 +59,7 @@
 		"code":"211103016",
 		"fullCode":"211103016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"创新街道",
 		"parentCode":"211103"
 	},
@@ -67,7 +67,7 @@
 		"code":"211103017",
 		"fullCode":"211103017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴盛街道",
 		"parentCode":"211103"
 	},
@@ -75,7 +75,7 @@
 		"code":"211103018",
 		"fullCode":"211103018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴海街道",
 		"parentCode":"211103"
 	},
@@ -83,7 +83,7 @@
 		"code":"211103019",
 		"fullCode":"211103019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠宾街道",
 		"parentCode":"211103"
 	}

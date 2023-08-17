@@ -3,7 +3,7 @@
 		"code":"220171001",
 		"fullCode":"220171001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临河街道",
 		"parentCode":"220171"
 	},
@@ -11,7 +11,7 @@
 		"code":"220171002",
 		"fullCode":"220171002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方广场街道",
 		"parentCode":"220171"
 	},
@@ -19,7 +19,7 @@
 		"code":"220171003",
 		"fullCode":"220171003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会展街道",
 		"parentCode":"220171"
 	},
@@ -27,7 +27,7 @@
 		"code":"220171004",
 		"fullCode":"220171004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"世纪街道",
 		"parentCode":"220171"
 	},
@@ -35,7 +35,7 @@
 		"code":"220171100",
 		"fullCode":"220171100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆山镇",
 		"parentCode":"220171"
 	}

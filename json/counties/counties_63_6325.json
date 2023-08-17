@@ -3,7 +3,7 @@
 		"code":"632521",
 		"fullCode":"632521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"共和县",
 		"parentCode":"6325"
 	},
@@ -11,7 +11,7 @@
 		"code":"632522",
 		"fullCode":"632522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"同德县",
 		"parentCode":"6325"
 	},
@@ -19,7 +19,7 @@
 		"code":"632523",
 		"fullCode":"632523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"贵德县",
 		"parentCode":"6325"
 	},
@@ -27,7 +27,7 @@
 		"code":"632524",
 		"fullCode":"632524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴海县",
 		"parentCode":"6325"
 	},
@@ -35,7 +35,7 @@
 		"code":"632525",
 		"fullCode":"632525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"贵南县",
 		"parentCode":"6325"
 	}

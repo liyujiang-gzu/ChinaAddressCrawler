@@ -3,7 +3,7 @@
 		"code":"141002",
 		"fullCode":"141002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"尧都区",
 		"parentCode":"1410"
 	},
@@ -11,7 +11,7 @@
 		"code":"141021",
 		"fullCode":"141021000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"曲沃县",
 		"parentCode":"1410"
 	},
@@ -19,7 +19,7 @@
 		"code":"141022",
 		"fullCode":"141022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"翼城县",
 		"parentCode":"1410"
 	},
@@ -27,7 +27,7 @@
 		"code":"141023",
 		"fullCode":"141023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"襄汾县",
 		"parentCode":"1410"
 	},
@@ -35,7 +35,7 @@
 		"code":"141024",
 		"fullCode":"141024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"洪洞县",
 		"parentCode":"1410"
 	},
@@ -43,7 +43,7 @@
 		"code":"141025",
 		"fullCode":"141025000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"古县",
 		"parentCode":"1410"
 	},
@@ -51,7 +51,7 @@
 		"code":"141026",
 		"fullCode":"141026000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安泽县",
 		"parentCode":"1410"
 	},
@@ -59,7 +59,7 @@
 		"code":"141027",
 		"fullCode":"141027000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浮山县",
 		"parentCode":"1410"
 	},
@@ -67,7 +67,7 @@
 		"code":"141028",
 		"fullCode":"141028000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"吉县",
 		"parentCode":"1410"
 	},
@@ -75,7 +75,7 @@
 		"code":"141029",
 		"fullCode":"141029000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乡宁县",
 		"parentCode":"1410"
 	},
@@ -83,7 +83,7 @@
 		"code":"141030",
 		"fullCode":"141030000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大宁县",
 		"parentCode":"1410"
 	},
@@ -91,7 +91,7 @@
 		"code":"141031",
 		"fullCode":"141031000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"隰县",
 		"parentCode":"1410"
 	},
@@ -99,7 +99,7 @@
 		"code":"141032",
 		"fullCode":"141032000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永和县",
 		"parentCode":"1410"
 	},
@@ -107,7 +107,7 @@
 		"code":"141033",
 		"fullCode":"141033000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蒲县",
 		"parentCode":"1410"
 	},
@@ -115,7 +115,7 @@
 		"code":"141034",
 		"fullCode":"141034000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汾西县",
 		"parentCode":"1410"
 	},
@@ -123,7 +123,7 @@
 		"code":"141081",
 		"fullCode":"141081000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"侯马市",
 		"parentCode":"1410"
 	},
@@ -131,7 +131,7 @@
 		"code":"141082",
 		"fullCode":"141082000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"霍州市",
 		"parentCode":"1410"
 	}

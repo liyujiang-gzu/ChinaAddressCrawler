@@ -3,7 +3,7 @@
 		"code":"451323100",
 		"fullCode":"451323100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武宣镇",
 		"parentCode":"451323"
 	},
@@ -11,7 +11,7 @@
 		"code":"451323101",
 		"fullCode":"451323101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐岭镇",
 		"parentCode":"451323"
 	},
@@ -19,7 +19,7 @@
 		"code":"451323102",
 		"fullCode":"451323102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通挽镇",
 		"parentCode":"451323"
 	},
@@ -27,7 +27,7 @@
 		"code":"451323103",
 		"fullCode":"451323103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东乡镇",
 		"parentCode":"451323"
 	},
@@ -35,7 +35,7 @@
 		"code":"451323104",
 		"fullCode":"451323104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里镇",
 		"parentCode":"451323"
 	},
@@ -43,7 +43,7 @@
 		"code":"451323105",
 		"fullCode":"451323105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二塘镇",
 		"parentCode":"451323"
 	},
@@ -51,7 +51,7 @@
 		"code":"451323106",
 		"fullCode":"451323106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄茆镇",
 		"parentCode":"451323"
 	},
@@ -59,7 +59,7 @@
 		"code":"451323107",
 		"fullCode":"451323107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禄新镇",
 		"parentCode":"451323"
 	},
@@ -67,7 +67,7 @@
 		"code":"451323108",
 		"fullCode":"451323108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思灵镇",
 		"parentCode":"451323"
 	},
@@ -75,7 +75,7 @@
 		"code":"451323204",
 		"fullCode":"451323204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金鸡乡",
 		"parentCode":"451323"
 	}

@@ -3,7 +3,7 @@
 		"code":"370772004",
 		"fullCode":"370772004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"央子街道",
 		"parentCode":"370772"
 	},
@@ -11,7 +11,7 @@
 		"code":"370772005",
 		"fullCode":"370772005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大家洼街道",
 		"parentCode":"370772"
 	}

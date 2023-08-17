@@ -3,7 +3,7 @@
 		"code":"410602",
 		"fullCode":"410602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鹤山区",
 		"parentCode":"4106"
 	},
@@ -11,7 +11,7 @@
 		"code":"410603",
 		"fullCode":"410603000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"山城区",
 		"parentCode":"4106"
 	},
@@ -19,7 +19,7 @@
 		"code":"410611",
 		"fullCode":"410611000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"淇滨区",
 		"parentCode":"4106"
 	},
@@ -27,7 +27,7 @@
 		"code":"410621",
 		"fullCode":"410621000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浚县",
 		"parentCode":"4106"
 	},
@@ -35,7 +35,7 @@
 		"code":"410622",
 		"fullCode":"410622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"淇县",
 		"parentCode":"4106"
 	},
@@ -43,7 +43,7 @@
 		"code":"410671",
 		"fullCode":"410671000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鹤壁经济技术开发区",
 		"parentCode":"4106"
 	}

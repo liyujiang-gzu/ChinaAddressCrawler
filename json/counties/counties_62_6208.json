@@ -3,7 +3,7 @@
 		"code":"620802",
 		"fullCode":"620802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"崆峒区",
 		"parentCode":"6208"
 	},
@@ -11,7 +11,7 @@
 		"code":"620821",
 		"fullCode":"620821000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泾川县",
 		"parentCode":"6208"
 	},
@@ -19,7 +19,7 @@
 		"code":"620822",
 		"fullCode":"620822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"灵台县",
 		"parentCode":"6208"
 	},
@@ -27,7 +27,7 @@
 		"code":"620823",
 		"fullCode":"620823000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"崇信县",
 		"parentCode":"6208"
 	},
@@ -35,7 +35,7 @@
 		"code":"620825",
 		"fullCode":"620825000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"庄浪县",
 		"parentCode":"6208"
 	},
@@ -43,7 +43,7 @@
 		"code":"620826",
 		"fullCode":"620826000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"静宁县",
 		"parentCode":"6208"
 	},
@@ -51,7 +51,7 @@
 		"code":"620881",
 		"fullCode":"620881000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"华亭市",
 		"parentCode":"6208"
 	}

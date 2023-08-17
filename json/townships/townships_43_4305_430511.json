@@ -3,7 +3,7 @@
 		"code":"430511001",
 		"fullCode":"430511001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新滩镇街道",
 		"parentCode":"430511"
 	},
@@ -11,7 +11,7 @@
 		"code":"430511002",
 		"fullCode":"430511002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"状元洲街道",
 		"parentCode":"430511"
 	},
@@ -19,7 +19,7 @@
 		"code":"430511003",
 		"fullCode":"430511003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田江街道",
 		"parentCode":"430511"
 	},
@@ -27,7 +27,7 @@
 		"code":"430511004",
 		"fullCode":"430511004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶元头街道",
 		"parentCode":"430511"
 	},
@@ -35,7 +35,7 @@
 		"code":"430511101",
 		"fullCode":"430511101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈家桥镇",
 		"parentCode":"430511"
 	}

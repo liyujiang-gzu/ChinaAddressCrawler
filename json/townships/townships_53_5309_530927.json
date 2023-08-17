@@ -3,7 +3,7 @@
 		"code":"530927101",
 		"fullCode":"530927101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐董镇",
 		"parentCode":"530927"
 	},
@@ -11,7 +11,7 @@
 		"code":"530927102",
 		"fullCode":"530927102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩帅镇",
 		"parentCode":"530927"
 	},
@@ -19,7 +19,7 @@
 		"code":"530927103",
 		"fullCode":"530927103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐省镇",
 		"parentCode":"530927"
 	},
@@ -27,7 +27,7 @@
 		"code":"530927104",
 		"fullCode":"530927104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芒卡镇",
 		"parentCode":"530927"
 	},
@@ -35,7 +35,7 @@
 		"code":"530927202",
 		"fullCode":"530927202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"单甲乡",
 		"parentCode":"530927"
 	},
@@ -43,7 +43,7 @@
 		"code":"530927203",
 		"fullCode":"530927203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"糯良乡",
 		"parentCode":"530927"
 	},
@@ -51,7 +51,7 @@
 		"code":"530927204",
 		"fullCode":"530927204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐来乡",
 		"parentCode":"530927"
 	},
@@ -59,7 +59,7 @@
 		"code":"530927205",
 		"fullCode":"530927205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐角傣族彝族拉祜族乡",
 		"parentCode":"530927"
 	},
@@ -67,7 +67,7 @@
 		"code":"530927206",
 		"fullCode":"530927206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"班洪乡",
 		"parentCode":"530927"
 	},
@@ -75,7 +75,7 @@
 		"code":"530927207",
 		"fullCode":"530927207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"班老乡",
 		"parentCode":"530927"
 	},
@@ -83,7 +83,7 @@
 		"code":"530927401",
 		"fullCode":"530927401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐省农场",
 		"parentCode":"530927"
 	}

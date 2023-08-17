@@ -3,7 +3,7 @@
 		"code":"140728001",
 		"fullCode":"140728001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城街道",
 		"parentCode":"140728"
 	},
@@ -11,7 +11,7 @@
 		"code":"140728002",
 		"fullCode":"140728002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"140728"
 	},
@@ -19,7 +19,7 @@
 		"code":"140728003",
 		"fullCode":"140728003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"140728"
 	},
@@ -27,7 +27,7 @@
 		"code":"140728100",
 		"fullCode":"140728100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古陶镇",
 		"parentCode":"140728"
 	},
@@ -35,7 +35,7 @@
 		"code":"140728101",
 		"fullCode":"140728101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段村镇",
 		"parentCode":"140728"
 	},
@@ -43,7 +43,7 @@
 		"code":"140728102",
 		"fullCode":"140728102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东泉镇",
 		"parentCode":"140728"
 	},
@@ -51,7 +51,7 @@
 		"code":"140728103",
 		"fullCode":"140728103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪善镇",
 		"parentCode":"140728"
 	},
@@ -59,7 +59,7 @@
 		"code":"140728104",
 		"fullCode":"140728104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁固镇",
 		"parentCode":"140728"
 	},
@@ -67,7 +67,7 @@
 		"code":"140728200",
 		"fullCode":"140728200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南政乡",
 		"parentCode":"140728"
 	},
@@ -75,7 +75,7 @@
 		"code":"140728201",
 		"fullCode":"140728201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中都乡",
 		"parentCode":"140728"
 	},
@@ -83,7 +83,7 @@
 		"code":"140728202",
 		"fullCode":"140728202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳壁乡",
 		"parentCode":"140728"
 	},
@@ -91,7 +91,7 @@
 		"code":"140728203",
 		"fullCode":"140728203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卜宜乡",
 		"parentCode":"140728"
 	},
@@ -99,7 +99,7 @@
 		"code":"140728205",
 		"fullCode":"140728205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱坑乡",
 		"parentCode":"140728"
 	},
@@ -107,7 +107,7 @@
 		"code":"140728206",
 		"fullCode":"140728206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"襄垣乡",
 		"parentCode":"140728"
 	},
@@ -115,7 +115,7 @@
 		"code":"140728207",
 		"fullCode":"140728207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜家庄乡",
 		"parentCode":"140728"
 	},
@@ -123,7 +123,7 @@
 		"code":"140728208",
 		"fullCode":"140728208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香乐乡",
 		"parentCode":"140728"
 	}

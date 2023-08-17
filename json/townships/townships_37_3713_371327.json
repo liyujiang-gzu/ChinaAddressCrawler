@@ -3,7 +3,7 @@
 		"code":"371327001",
 		"fullCode":"371327001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十字路街道",
 		"parentCode":"371327"
 	},
@@ -11,7 +11,7 @@
 		"code":"371327102",
 		"fullCode":"371327102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大店镇",
 		"parentCode":"371327"
 	},
@@ -19,7 +19,7 @@
 		"code":"371327103",
 		"fullCode":"371327103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坊前镇",
 		"parentCode":"371327"
 	},
@@ -27,7 +27,7 @@
 		"code":"371327106",
 		"fullCode":"371327106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板泉镇",
 		"parentCode":"371327"
 	},
@@ -35,7 +35,7 @@
 		"code":"371327107",
 		"fullCode":"371327107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洙边镇",
 		"parentCode":"371327"
 	},
@@ -43,7 +43,7 @@
 		"code":"371327108",
 		"fullCode":"371327108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文疃镇",
 		"parentCode":"371327"
 	},
@@ -51,7 +51,7 @@
 		"code":"371327111",
 		"fullCode":"371327111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石莲子镇",
 		"parentCode":"371327"
 	},
@@ -59,7 +59,7 @@
 		"code":"371327112",
 		"fullCode":"371327112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭泉镇",
 		"parentCode":"371327"
 	},
@@ -67,7 +67,7 @@
 		"code":"371327113",
 		"fullCode":"371327113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"筵宾镇",
 		"parentCode":"371327"
 	},
@@ -75,7 +75,7 @@
 		"code":"371327114",
 		"fullCode":"371327114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涝坡镇",
 		"parentCode":"371327"
 	},
@@ -83,7 +83,7 @@
 		"code":"371327116",
 		"fullCode":"371327116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道口镇",
 		"parentCode":"371327"
 	},
@@ -91,7 +91,7 @@
 		"code":"371327117",
 		"fullCode":"371327117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"相沟镇",
 		"parentCode":"371327"
 	},
@@ -99,7 +99,7 @@
 		"code":"371327118",
 		"fullCode":"371327118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团林镇",
 		"parentCode":"371327"
 	},
@@ -107,7 +107,7 @@
 		"code":"371327119",
 		"fullCode":"371327119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪上镇",
 		"parentCode":"371327"
 	},
@@ -115,7 +115,7 @@
 		"code":"371327120",
 		"fullCode":"371327120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"壮岗镇",
 		"parentCode":"371327"
 	},
@@ -123,7 +123,7 @@
 		"code":"371327121",
 		"fullCode":"371327121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱芦镇",
 		"parentCode":"371327"
 	}

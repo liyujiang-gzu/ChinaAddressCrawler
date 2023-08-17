@@ -3,7 +3,7 @@
 		"code":"360827100",
 		"fullCode":"360827100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉江镇",
 		"parentCode":"360827"
 	},
@@ -11,7 +11,7 @@
 		"code":"360827101",
 		"fullCode":"360827101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雩田镇",
 		"parentCode":"360827"
 	},
@@ -19,7 +19,7 @@
 		"code":"360827102",
 		"fullCode":"360827102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧洲镇",
 		"parentCode":"360827"
 	},
@@ -27,7 +27,7 @@
 		"code":"360827103",
 		"fullCode":"360827103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草林镇",
 		"parentCode":"360827"
 	},
@@ -35,7 +35,7 @@
 		"code":"360827104",
 		"fullCode":"360827104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堆子前镇",
 		"parentCode":"360827"
 	},
@@ -43,7 +43,7 @@
 		"code":"360827105",
 		"fullCode":"360827105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"左安镇",
 		"parentCode":"360827"
 	},
@@ -51,7 +51,7 @@
 		"code":"360827106",
 		"fullCode":"360827106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坪镇",
 		"parentCode":"360827"
 	},
@@ -59,7 +59,7 @@
 		"code":"360827107",
 		"fullCode":"360827107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大汾镇",
 		"parentCode":"360827"
 	},
@@ -67,7 +67,7 @@
 		"code":"360827108",
 		"fullCode":"360827108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"衙前镇",
 		"parentCode":"360827"
 	},
@@ -75,7 +75,7 @@
 		"code":"360827109",
 		"fullCode":"360827109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾源镇",
 		"parentCode":"360827"
 	},
@@ -83,7 +83,7 @@
 		"code":"360827110",
 		"fullCode":"360827110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤湖镇",
 		"parentCode":"360827"
 	},
@@ -91,7 +91,7 @@
 		"code":"360827111",
 		"fullCode":"360827111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枚江镇",
 		"parentCode":"360827"
 	},
@@ -99,7 +99,7 @@
 		"code":"360827112",
 		"fullCode":"360827112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠田镇",
 		"parentCode":"360827"
 	},
@@ -107,7 +107,7 @@
 		"code":"360827201",
 		"fullCode":"360827201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巾石乡",
 		"parentCode":"360827"
 	},
@@ -115,7 +115,7 @@
 		"code":"360827202",
 		"fullCode":"360827202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坑乡",
 		"parentCode":"360827"
 	},
@@ -123,7 +123,7 @@
 		"code":"360827204",
 		"fullCode":"360827204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桥乡",
 		"parentCode":"360827"
 	},
@@ -131,7 +131,7 @@
 		"code":"360827205",
 		"fullCode":"360827205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新江乡",
 		"parentCode":"360827"
 	},
@@ -139,7 +139,7 @@
 		"code":"360827206",
 		"fullCode":"360827206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五斗江乡",
 		"parentCode":"360827"
 	},
@@ -147,7 +147,7 @@
 		"code":"360827207",
 		"fullCode":"360827207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西溪乡",
 		"parentCode":"360827"
 	},
@@ -155,7 +155,7 @@
 		"code":"360827208",
 		"fullCode":"360827208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南江乡",
 		"parentCode":"360827"
 	},
@@ -163,7 +163,7 @@
 		"code":"360827209",
 		"fullCode":"360827209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄坑乡",
 		"parentCode":"360827"
 	},
@@ -171,7 +171,7 @@
 		"code":"360827210",
 		"fullCode":"360827210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戴家埔乡",
 		"parentCode":"360827"
 	},
@@ -179,7 +179,7 @@
 		"code":"360827211",
 		"fullCode":"360827211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营盘圩乡",
 		"parentCode":"360827"
 	},
@@ -187,7 +187,7 @@
 		"code":"360827402",
 		"fullCode":"360827402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遂川县工业园区",
 		"parentCode":"360827"
 	},
@@ -195,7 +195,7 @@
 		"code":"360827501",
 		"fullCode":"360827501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五指峰林场",
 		"parentCode":"360827"
 	},
@@ -203,7 +203,7 @@
 		"code":"360827502",
 		"fullCode":"360827502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云岭林场",
 		"parentCode":"360827"
 	}

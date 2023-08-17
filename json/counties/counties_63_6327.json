@@ -3,7 +3,7 @@
 		"code":"632701",
 		"fullCode":"632701000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"玉树市",
 		"parentCode":"6327"
 	},
@@ -11,7 +11,7 @@
 		"code":"632722",
 		"fullCode":"632722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"杂多县",
 		"parentCode":"6327"
 	},
@@ -19,7 +19,7 @@
 		"code":"632723",
 		"fullCode":"632723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"称多县",
 		"parentCode":"6327"
 	},
@@ -27,7 +27,7 @@
 		"code":"632724",
 		"fullCode":"632724000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"治多县",
 		"parentCode":"6327"
 	},
@@ -35,7 +35,7 @@
 		"code":"632725",
 		"fullCode":"632725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"囊谦县",
 		"parentCode":"6327"
 	},
@@ -43,7 +43,7 @@
 		"code":"632726",
 		"fullCode":"632726000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"曲麻莱县",
 		"parentCode":"6327"
 	}

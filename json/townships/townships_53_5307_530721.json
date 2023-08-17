@@ -3,7 +3,7 @@
 		"code":"530721001",
 		"fullCode":"530721001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄山街道",
 		"parentCode":"530721"
 	},
@@ -11,7 +11,7 @@
 		"code":"530721102",
 		"fullCode":"530721102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石鼓镇",
 		"parentCode":"530721"
 	},
@@ -19,7 +19,7 @@
 		"code":"530721103",
 		"fullCode":"530721103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨甸镇",
 		"parentCode":"530721"
 	},
@@ -27,7 +27,7 @@
 		"code":"530721104",
 		"fullCode":"530721104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"530721"
 	},
@@ -35,7 +35,7 @@
 		"code":"530721105",
 		"fullCode":"530721105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉市镇",
 		"parentCode":"530721"
 	},
@@ -43,7 +43,7 @@
 		"code":"530721106",
 		"fullCode":"530721106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奉科镇",
 		"parentCode":"530721"
 	},
@@ -51,7 +51,7 @@
 		"code":"530721107",
 		"fullCode":"530721107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸣音镇",
 		"parentCode":"530721"
 	},
@@ -59,7 +59,7 @@
 		"code":"530721203",
 		"fullCode":"530721203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太安乡",
 		"parentCode":"530721"
 	},
@@ -67,7 +67,7 @@
 		"code":"530721204",
 		"fullCode":"530721204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙蟠乡",
 		"parentCode":"530721"
 	},
@@ -75,7 +75,7 @@
 		"code":"530721205",
 		"fullCode":"530721205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎明傈僳族乡",
 		"parentCode":"530721"
 	},
@@ -83,7 +83,7 @@
 		"code":"530721206",
 		"fullCode":"530721206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁甸乡",
 		"parentCode":"530721"
 	},
@@ -91,7 +91,7 @@
 		"code":"530721207",
 		"fullCode":"530721207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔城乡",
 		"parentCode":"530721"
 	},
@@ -99,7 +99,7 @@
 		"code":"530721208",
 		"fullCode":"530721208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大具乡",
 		"parentCode":"530721"
 	},
@@ -107,7 +107,7 @@
 		"code":"530721209",
 		"fullCode":"530721209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝山乡",
 		"parentCode":"530721"
 	},
@@ -115,7 +115,7 @@
 		"code":"530721212",
 		"fullCode":"530721212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石头白族乡",
 		"parentCode":"530721"
 	},
@@ -123,7 +123,7 @@
 		"code":"530721213",
 		"fullCode":"530721213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九河白族乡",
 		"parentCode":"530721"
 	}

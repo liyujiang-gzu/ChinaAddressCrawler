@@ -3,7 +3,7 @@
 		"code":"511503001",
 		"fullCode":"511503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南溪街道",
 		"parentCode":"511503"
 	},
@@ -11,7 +11,7 @@
 		"code":"511503002",
 		"fullCode":"511503002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗龙街道",
 		"parentCode":"511503"
 	},
@@ -19,7 +19,7 @@
 		"code":"511503003",
 		"fullCode":"511503003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙源街道",
 		"parentCode":"511503"
 	},
@@ -27,7 +27,7 @@
 		"code":"511503102",
 		"fullCode":"511503102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘家镇",
 		"parentCode":"511503"
 	},
@@ -35,7 +35,7 @@
 		"code":"511503103",
 		"fullCode":"511503103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江南镇",
 		"parentCode":"511503"
 	},
@@ -43,7 +43,7 @@
 		"code":"511503104",
 		"fullCode":"511503104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大观镇",
 		"parentCode":"511503"
 	},
@@ -51,7 +51,7 @@
 		"code":"511503105",
 		"fullCode":"511503105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪家镇",
 		"parentCode":"511503"
 	},
@@ -59,7 +59,7 @@
 		"code":"511503106",
 		"fullCode":"511503106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄沙镇",
 		"parentCode":"511503"
 	},
@@ -67,7 +67,7 @@
 		"code":"511503107",
 		"fullCode":"511503107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙临镇",
 		"parentCode":"511503"
 	},
@@ -75,7 +75,7 @@
 		"code":"511503108",
 		"fullCode":"511503108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长兴镇",
 		"parentCode":"511503"
 	},
@@ -83,7 +83,7 @@
 		"code":"511503109",
 		"fullCode":"511503109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裴石镇",
 		"parentCode":"511503"
 	}

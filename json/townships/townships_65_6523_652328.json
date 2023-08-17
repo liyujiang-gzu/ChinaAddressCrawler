@@ -3,7 +3,7 @@
 		"code":"652328100",
 		"fullCode":"652328100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木垒镇",
 		"parentCode":"652328"
 	},
@@ -11,7 +11,7 @@
 		"code":"652328101",
 		"fullCode":"652328101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西吉尔镇",
 		"parentCode":"652328"
 	},
@@ -19,7 +19,7 @@
 		"code":"652328102",
 		"fullCode":"652328102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城镇",
 		"parentCode":"652328"
 	},
@@ -27,7 +27,7 @@
 		"code":"652328103",
 		"fullCode":"652328103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新户镇",
 		"parentCode":"652328"
 	},
@@ -35,7 +35,7 @@
 		"code":"652328200",
 		"fullCode":"652328200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英格堡乡",
 		"parentCode":"652328"
 	},
@@ -43,7 +43,7 @@
 		"code":"652328201",
 		"fullCode":"652328201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"照壁山乡",
 		"parentCode":"652328"
 	},
@@ -51,7 +51,7 @@
 		"code":"652328203",
 		"fullCode":"652328203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雀仁乡",
 		"parentCode":"652328"
 	},
@@ -59,7 +59,7 @@
 		"code":"652328204",
 		"fullCode":"652328204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白杨河乡",
 		"parentCode":"652328"
 	},
@@ -67,7 +67,7 @@
 		"code":"652328205",
 		"fullCode":"652328205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石头乡",
 		"parentCode":"652328"
 	},
@@ -75,7 +75,7 @@
 		"code":"652328206",
 		"fullCode":"652328206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大南沟乌孜别克乡",
 		"parentCode":"652328"
 	},
@@ -83,7 +83,7 @@
 		"code":"652328207",
 		"fullCode":"652328207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博斯坦乡",
 		"parentCode":"652328"
 	}

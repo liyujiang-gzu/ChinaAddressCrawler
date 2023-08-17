@@ -3,7 +3,7 @@
 		"code":"361028100",
 		"fullCode":"361028100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤城镇",
 		"parentCode":"361028"
 	},
@@ -11,7 +11,7 @@
 		"code":"361028101",
 		"fullCode":"361028101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马头山镇",
 		"parentCode":"361028"
 	},
@@ -19,7 +19,7 @@
 		"code":"361028102",
 		"fullCode":"361028102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高阜镇",
 		"parentCode":"361028"
 	},
@@ -27,7 +27,7 @@
 		"code":"361028103",
 		"fullCode":"361028103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嵩市镇",
 		"parentCode":"361028"
 	},
@@ -35,7 +35,7 @@
 		"code":"361028104",
 		"fullCode":"361028104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌石镇",
 		"parentCode":"361028"
 	},
@@ -43,7 +43,7 @@
 		"code":"361028200",
 		"fullCode":"361028200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高田乡",
 		"parentCode":"361028"
 	},
@@ -51,7 +51,7 @@
 		"code":"361028201",
 		"fullCode":"361028201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石峡乡",
 		"parentCode":"361028"
 	}

@@ -3,7 +3,7 @@
 		"code":"411102001",
 		"fullCode":"411102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老街街道",
 		"parentCode":"411102"
 	},
@@ -11,7 +11,7 @@
 		"code":"411102002",
 		"fullCode":"411102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马路街街道",
 		"parentCode":"411102"
 	},
@@ -19,7 +19,7 @@
 		"code":"411102003",
 		"fullCode":"411102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺河街街道",
 		"parentCode":"411102"
 	},
@@ -27,7 +27,7 @@
 		"code":"411102004",
 		"fullCode":"411102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"干河陈街道",
 		"parentCode":"411102"
 	},
@@ -35,7 +35,7 @@
 		"code":"411102100",
 		"fullCode":"411102100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大刘镇",
 		"parentCode":"411102"
 	},
@@ -43,7 +43,7 @@
 		"code":"411102101",
 		"fullCode":"411102101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阴阳赵镇",
 		"parentCode":"411102"
 	},
@@ -51,7 +51,7 @@
 		"code":"411102102",
 		"fullCode":"411102102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"空冢郭镇",
 		"parentCode":"411102"
 	},
@@ -59,7 +59,7 @@
 		"code":"411102202",
 		"fullCode":"411102202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"问十乡",
 		"parentCode":"411102"
 	}

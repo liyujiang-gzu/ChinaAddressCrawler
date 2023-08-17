@@ -3,7 +3,7 @@
 		"code":"410703001",
 		"fullCode":"410703001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利路街道",
 		"parentCode":"410703"
 	},
@@ -11,7 +11,7 @@
 		"code":"410703002",
 		"fullCode":"410703002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放路街道",
 		"parentCode":"410703"
 	},
@@ -19,7 +19,7 @@
 		"code":"410703003",
 		"fullCode":"410703003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中同街街道",
 		"parentCode":"410703"
 	},
@@ -27,7 +27,7 @@
 		"code":"410703004",
 		"fullCode":"410703004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"健康路街道",
 		"parentCode":"410703"
 	},
@@ -35,7 +35,7 @@
 		"code":"410703007",
 		"fullCode":"410703007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"自由路街道",
 		"parentCode":"410703"
 	},
@@ -43,7 +43,7 @@
 		"code":"410703008",
 		"fullCode":"410703008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南桥街道",
 		"parentCode":"410703"
 	},
@@ -51,7 +51,7 @@
 		"code":"410703009",
 		"fullCode":"410703009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西街道",
 		"parentCode":"410703"
 	},
@@ -59,7 +59,7 @@
 		"code":"410703100",
 		"fullCode":"410703100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平原镇",
 		"parentCode":"410703"
 	}

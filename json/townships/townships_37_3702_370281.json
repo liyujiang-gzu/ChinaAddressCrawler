@@ -3,7 +3,7 @@
 		"code":"370281001",
 		"fullCode":"370281001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阜安街道",
 		"parentCode":"370281"
 	},
@@ -11,7 +11,7 @@
 		"code":"370281002",
 		"fullCode":"370281002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中云街道",
 		"parentCode":"370281"
 	},
@@ -19,7 +19,7 @@
 		"code":"370281004",
 		"fullCode":"370281004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里河街道",
 		"parentCode":"370281"
 	},
@@ -27,7 +27,7 @@
 		"code":"370281006",
 		"fullCode":"370281006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙街道",
 		"parentCode":"370281"
 	},
@@ -35,7 +35,7 @@
 		"code":"370281007",
 		"fullCode":"370281007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胶东街道",
 		"parentCode":"370281"
 	},
@@ -43,7 +43,7 @@
 		"code":"370281008",
 		"fullCode":"370281008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胶北街道",
 		"parentCode":"370281"
 	},
@@ -51,7 +51,7 @@
 		"code":"370281009",
 		"fullCode":"370281009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胶西街道",
 		"parentCode":"370281"
 	},
@@ -59,7 +59,7 @@
 		"code":"370281010",
 		"fullCode":"370281010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胶莱街道",
 		"parentCode":"370281"
 	},
@@ -67,7 +67,7 @@
 		"code":"370281102",
 		"fullCode":"370281102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李哥庄镇",
 		"parentCode":"370281"
 	},
@@ -75,7 +75,7 @@
 		"code":"370281105",
 		"fullCode":"370281105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铺集镇",
 		"parentCode":"370281"
 	},
@@ -83,7 +83,7 @@
 		"code":"370281108",
 		"fullCode":"370281108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里岔镇",
 		"parentCode":"370281"
 	},
@@ -91,7 +91,7 @@
 		"code":"370281111",
 		"fullCode":"370281111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋河镇",
 		"parentCode":"370281"
 	},
@@ -99,7 +99,7 @@
 		"code":"370281400",
 		"fullCode":"370281400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胶州经济技术开发区",
 		"parentCode":"370281"
 	},
@@ -107,7 +107,7 @@
 		"code":"370281401",
 		"fullCode":"370281401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大沽河省级生态旅游度假区",
 		"parentCode":"370281"
 	}

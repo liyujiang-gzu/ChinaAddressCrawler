@@ -3,7 +3,7 @@
 		"code":"510115001",
 		"fullCode":"510115001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳城街道",
 		"parentCode":"510115"
 	},
@@ -11,7 +11,7 @@
 		"code":"510115002",
 		"fullCode":"510115002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公平街道",
 		"parentCode":"510115"
 	},
@@ -19,7 +19,7 @@
 		"code":"510115003",
 		"fullCode":"510115003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涌泉街道",
 		"parentCode":"510115"
 	},
@@ -27,7 +27,7 @@
 		"code":"510115004",
 		"fullCode":"510115004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天府街道",
 		"parentCode":"510115"
 	},
@@ -35,7 +35,7 @@
 		"code":"510115005",
 		"fullCode":"510115005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金马街道",
 		"parentCode":"510115"
 	},
@@ -43,7 +43,7 @@
 		"code":"510115006",
 		"fullCode":"510115006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁街道",
 		"parentCode":"510115"
 	},
@@ -51,7 +51,7 @@
 		"code":"510115101",
 		"fullCode":"510115101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和盛镇",
 		"parentCode":"510115"
 	},
@@ -59,7 +59,7 @@
 		"code":"510115105",
 		"fullCode":"510115105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万春镇",
 		"parentCode":"510115"
 	},
@@ -67,7 +67,7 @@
 		"code":"510115106",
 		"fullCode":"510115106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寿安镇",
 		"parentCode":"510115"
 	}

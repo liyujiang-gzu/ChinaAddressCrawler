@@ -3,7 +3,7 @@
 		"code":"621002001",
 		"fullCode":"621002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北街办事处街道",
 		"parentCode":"621002"
 	},
@@ -11,7 +11,7 @@
 		"code":"621002002",
 		"fullCode":"621002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南街办事处街道",
 		"parentCode":"621002"
 	},
@@ -19,7 +19,7 @@
 		"code":"621002003",
 		"fullCode":"621002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西街办事处街道",
 		"parentCode":"621002"
 	},
@@ -27,7 +27,7 @@
 		"code":"621002100",
 		"fullCode":"621002100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖金镇",
 		"parentCode":"621002"
 	},
@@ -35,7 +35,7 @@
 		"code":"621002101",
 		"fullCode":"621002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"董志镇",
 		"parentCode":"621002"
 	},
@@ -43,7 +43,7 @@
 		"code":"621002102",
 		"fullCode":"621002102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后官寨镇",
 		"parentCode":"621002"
 	},
@@ -51,7 +51,7 @@
 		"code":"621002103",
 		"fullCode":"621002103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭原镇",
 		"parentCode":"621002"
 	},
@@ -59,7 +59,7 @@
 		"code":"621002104",
 		"fullCode":"621002104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉镇",
 		"parentCode":"621002"
 	},
@@ -67,7 +67,7 @@
 		"code":"621002203",
 		"fullCode":"621002203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"什社乡",
 		"parentCode":"621002"
 	},
@@ -75,7 +75,7 @@
 		"code":"621002204",
 		"fullCode":"621002204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"显胜乡",
 		"parentCode":"621002"
 	}

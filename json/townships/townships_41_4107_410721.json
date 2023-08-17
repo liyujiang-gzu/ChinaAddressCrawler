@@ -3,7 +3,7 @@
 		"code":"410721101",
 		"fullCode":"410721101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翟坡镇",
 		"parentCode":"410721"
 	},
@@ -11,7 +11,7 @@
 		"code":"410721102",
 		"fullCode":"410721102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小冀镇",
 		"parentCode":"410721"
 	},
@@ -19,7 +19,7 @@
 		"code":"410721103",
 		"fullCode":"410721103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里营镇",
 		"parentCode":"410721"
 	},
@@ -27,7 +27,7 @@
 		"code":"410721104",
 		"fullCode":"410721104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朗公庙镇",
 		"parentCode":"410721"
 	},
@@ -35,7 +35,7 @@
 		"code":"410721105",
 		"fullCode":"410721105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古固寨镇",
 		"parentCode":"410721"
 	},
@@ -43,7 +43,7 @@
 		"code":"410721107",
 		"fullCode":"410721107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大召营镇",
 		"parentCode":"410721"
 	},
@@ -51,7 +51,7 @@
 		"code":"410721200",
 		"fullCode":"410721200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合河乡",
 		"parentCode":"410721"
 	},
@@ -59,7 +59,7 @@
 		"code":"410721560",
 		"fullCode":"410721560000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新乡经济开发区",
 		"parentCode":"410721"
 	}

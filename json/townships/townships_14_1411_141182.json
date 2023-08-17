@@ -3,7 +3,7 @@
 		"code":"141182001",
 		"fullCode":"141182001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰街道",
 		"parentCode":"141182"
 	},
@@ -11,7 +11,7 @@
 		"code":"141182002",
 		"fullCode":"141182002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和桥街道",
 		"parentCode":"141182"
 	},
@@ -19,7 +19,7 @@
 		"code":"141182003",
 		"fullCode":"141182003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河街道",
 		"parentCode":"141182"
 	},
@@ -27,7 +27,7 @@
 		"code":"141182100",
 		"fullCode":"141182100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾家庄镇",
 		"parentCode":"141182"
 	},
@@ -35,7 +35,7 @@
 		"code":"141182101",
 		"fullCode":"141182101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏花村镇",
 		"parentCode":"141182"
 	},
@@ -43,7 +43,7 @@
 		"code":"141182102",
 		"fullCode":"141182102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冀村镇",
 		"parentCode":"141182"
 	},
@@ -51,7 +51,7 @@
 		"code":"141182103",
 		"fullCode":"141182103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖家庄镇",
 		"parentCode":"141182"
 	},
@@ -59,7 +59,7 @@
 		"code":"141182104",
 		"fullCode":"141182104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"演武镇",
 		"parentCode":"141182"
 	},
@@ -67,7 +67,7 @@
 		"code":"141182105",
 		"fullCode":"141182105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三泉镇",
 		"parentCode":"141182"
 	},
@@ -75,7 +75,7 @@
 		"code":"141182106",
 		"fullCode":"141182106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石庄镇",
 		"parentCode":"141182"
 	},
@@ -83,7 +83,7 @@
 		"code":"141182107",
 		"fullCode":"141182107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家庄镇",
 		"parentCode":"141182"
 	},
@@ -91,7 +91,7 @@
 		"code":"141182108",
 		"fullCode":"141182108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峪道河镇",
 		"parentCode":"141182"
 	},
@@ -99,7 +99,7 @@
 		"code":"141182109",
 		"fullCode":"141182109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳城镇",
 		"parentCode":"141182"
 	},
@@ -107,7 +107,7 @@
 		"code":"141182110",
 		"fullCode":"141182110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栗家庄镇",
 		"parentCode":"141182"
 	}

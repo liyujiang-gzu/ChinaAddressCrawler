@@ -3,7 +3,7 @@
 		"code":"532801001",
 		"fullCode":"532801001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"允景洪街道",
 		"parentCode":"532801"
 	},
@@ -11,7 +11,7 @@
 		"code":"532801002",
 		"fullCode":"532801002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江北街道",
 		"parentCode":"532801"
 	},
@@ -19,7 +19,7 @@
 		"code":"532801003",
 		"fullCode":"532801003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎洒街道",
 		"parentCode":"532801"
 	},
@@ -27,7 +27,7 @@
 		"code":"532801103",
 		"fullCode":"532801103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐龙镇",
 		"parentCode":"532801"
 	},
@@ -35,7 +35,7 @@
 		"code":"532801104",
 		"fullCode":"532801104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐罕镇",
 		"parentCode":"532801"
 	},
@@ -43,7 +43,7 @@
 		"code":"532801105",
 		"fullCode":"532801105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐养镇",
 		"parentCode":"532801"
 	},
@@ -51,7 +51,7 @@
 		"code":"532801106",
 		"fullCode":"532801106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普文镇",
 		"parentCode":"532801"
 	},
@@ -59,7 +59,7 @@
 		"code":"532801202",
 		"fullCode":"532801202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景哈哈尼族乡",
 		"parentCode":"532801"
 	},
@@ -67,7 +67,7 @@
 		"code":"532801203",
 		"fullCode":"532801203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景讷乡",
 		"parentCode":"532801"
 	},
@@ -75,7 +75,7 @@
 		"code":"532801204",
 		"fullCode":"532801204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大渡岗乡",
 		"parentCode":"532801"
 	},
@@ -83,7 +83,7 @@
 		"code":"532801205",
 		"fullCode":"532801205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐旺乡",
 		"parentCode":"532801"
 	},
@@ -91,7 +91,7 @@
 		"code":"532801206",
 		"fullCode":"532801206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"基诺山基诺族乡",
 		"parentCode":"532801"
 	},
@@ -99,7 +99,7 @@
 		"code":"532801401",
 		"fullCode":"532801401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景洪农场",
 		"parentCode":"532801"
 	},
@@ -107,7 +107,7 @@
 		"code":"532801402",
 		"fullCode":"532801402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风农场",
 		"parentCode":"532801"
 	},
@@ -115,7 +115,7 @@
 		"code":"532801403",
 		"fullCode":"532801403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"橄榄坝农场",
 		"parentCode":"532801"
 	},
@@ -123,7 +123,7 @@
 		"code":"532801404",
 		"fullCode":"532801404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐养农场",
 		"parentCode":"532801"
 	},
@@ -131,7 +131,7 @@
 		"code":"532801405",
 		"fullCode":"532801405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大渡岗农场",
 		"parentCode":"532801"
 	},
@@ -139,7 +139,7 @@
 		"code":"532801406",
 		"fullCode":"532801406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西双版纳州旅游度假区",
 		"parentCode":"532801"
 	},
@@ -147,7 +147,7 @@
 		"code":"532801407",
 		"fullCode":"532801407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景洪工业园区",
 		"parentCode":"532801"
 	},
@@ -155,7 +155,7 @@
 		"code":"532801408",
 		"fullCode":"532801408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西双版纳监狱",
 		"parentCode":"532801"
 	}

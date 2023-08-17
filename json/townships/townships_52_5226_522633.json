@@ -3,7 +3,7 @@
 		"code":"522633001",
 		"fullCode":"522633001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丙梅街道",
 		"parentCode":"522633"
 	},
@@ -11,7 +11,7 @@
 		"code":"522633100",
 		"fullCode":"522633100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丙妹镇",
 		"parentCode":"522633"
 	},
@@ -19,7 +19,7 @@
 		"code":"522633101",
 		"fullCode":"522633101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贯洞镇",
 		"parentCode":"522633"
 	},
@@ -27,7 +27,7 @@
 		"code":"522633102",
 		"fullCode":"522633102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛香镇",
 		"parentCode":"522633"
 	},
@@ -35,7 +35,7 @@
 		"code":"522633103",
 		"fullCode":"522633103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下江镇",
 		"parentCode":"522633"
 	},
@@ -43,7 +43,7 @@
 		"code":"522633104",
 		"fullCode":"522633104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宰便镇",
 		"parentCode":"522633"
 	},
@@ -51,7 +51,7 @@
 		"code":"522633105",
 		"fullCode":"522633105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西山镇",
 		"parentCode":"522633"
 	},
@@ -59,7 +59,7 @@
 		"code":"522633106",
 		"fullCode":"522633106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"停洞镇",
 		"parentCode":"522633"
 	},
@@ -67,7 +67,7 @@
 		"code":"522633107",
 		"fullCode":"522633107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"往洞镇",
 		"parentCode":"522633"
 	},
@@ -75,7 +75,7 @@
 		"code":"522633108",
 		"fullCode":"522633108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆云镇",
 		"parentCode":"522633"
 	},
@@ -83,7 +83,7 @@
 		"code":"522633109",
 		"fullCode":"522633109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斗里镇",
 		"parentCode":"522633"
 	},
@@ -91,7 +91,7 @@
 		"code":"522633110",
 		"fullCode":"522633110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东朗镇",
 		"parentCode":"522633"
 	},
@@ -99,7 +99,7 @@
 		"code":"522633111",
 		"fullCode":"522633111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加鸠镇",
 		"parentCode":"522633"
 	},
@@ -107,7 +107,7 @@
 		"code":"522633200",
 		"fullCode":"522633200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高增乡",
 		"parentCode":"522633"
 	},
@@ -115,7 +115,7 @@
 		"code":"522633201",
 		"fullCode":"522633201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷坪乡",
 		"parentCode":"522633"
 	},
@@ -123,7 +123,7 @@
 		"code":"522633204",
 		"fullCode":"522633204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刚边壮族乡",
 		"parentCode":"522633"
 	},
@@ -131,7 +131,7 @@
 		"code":"522633205",
 		"fullCode":"522633205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加榜乡",
 		"parentCode":"522633"
 	},
@@ -139,7 +139,7 @@
 		"code":"522633206",
 		"fullCode":"522633206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀塘壮族乡",
 		"parentCode":"522633"
 	},
@@ -147,7 +147,7 @@
 		"code":"522633208",
 		"fullCode":"522633208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠里瑶族壮族乡",
 		"parentCode":"522633"
 	},
@@ -155,7 +155,7 @@
 		"code":"522633212",
 		"fullCode":"522633212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加勉乡",
 		"parentCode":"522633"
 	}

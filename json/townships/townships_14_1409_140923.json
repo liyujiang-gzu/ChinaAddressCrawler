@@ -3,7 +3,7 @@
 		"code":"140923100",
 		"fullCode":"140923100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上馆镇",
 		"parentCode":"140923"
 	},
@@ -11,7 +11,7 @@
 		"code":"140923101",
 		"fullCode":"140923101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳明堡镇",
 		"parentCode":"140923"
 	},
@@ -19,7 +19,7 @@
 		"code":"140923102",
 		"fullCode":"140923102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峨口镇",
 		"parentCode":"140923"
 	},
@@ -27,7 +27,7 @@
 		"code":"140923103",
 		"fullCode":"140923103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聂营镇",
 		"parentCode":"140923"
 	},
@@ -35,7 +35,7 @@
 		"code":"140923104",
 		"fullCode":"140923104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣林镇",
 		"parentCode":"140923"
 	},
@@ -43,7 +43,7 @@
 		"code":"140923106",
 		"fullCode":"140923106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雁门关镇",
 		"parentCode":"140923"
 	},
@@ -51,7 +51,7 @@
 		"code":"140923107",
 		"fullCode":"140923107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峪口镇",
 		"parentCode":"140923"
 	},
@@ -59,7 +59,7 @@
 		"code":"140923200",
 		"fullCode":"140923200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新高乡",
 		"parentCode":"140923"
 	},
@@ -67,7 +67,7 @@
 		"code":"140923202",
 		"fullCode":"140923202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上磨坊乡",
 		"parentCode":"140923"
 	},
@@ -75,7 +75,7 @@
 		"code":"140923400",
 		"fullCode":"140923400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"代县居民事务中心",
 		"parentCode":"140923"
 	}

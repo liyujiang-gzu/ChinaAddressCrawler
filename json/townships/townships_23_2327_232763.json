@@ -3,7 +3,7 @@
 		"code":"232763100",
 		"fullCode":"232763100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新林镇",
 		"parentCode":"232763"
 	},
@@ -11,7 +11,7 @@
 		"code":"232763101",
 		"fullCode":"232763101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠岗镇",
 		"parentCode":"232763"
 	},
@@ -19,7 +19,7 @@
 		"code":"232763102",
 		"fullCode":"232763102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔源镇",
 		"parentCode":"232763"
 	},
@@ -27,7 +27,7 @@
 		"code":"232763103",
 		"fullCode":"232763103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大乌苏镇",
 		"parentCode":"232763"
 	},
@@ -35,7 +35,7 @@
 		"code":"232763104",
 		"fullCode":"232763104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔尔根镇",
 		"parentCode":"232763"
 	},
@@ -43,7 +43,7 @@
 		"code":"232763105",
 		"fullCode":"232763105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧洲镇",
 		"parentCode":"232763"
 	},
@@ -51,7 +51,7 @@
 		"code":"232763106",
 		"fullCode":"232763106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏图镇",
 		"parentCode":"232763"
 	}

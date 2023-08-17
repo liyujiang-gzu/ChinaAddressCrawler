@@ -3,7 +3,7 @@
 		"code":"210204006",
 		"fullCode":"210204006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春柳街道",
 		"parentCode":"210204"
 	},
@@ -11,7 +11,7 @@
 		"code":"210204008",
 		"fullCode":"210204008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马栏街道",
 		"parentCode":"210204"
 	},
@@ -19,7 +19,7 @@
 		"code":"210204009",
 		"fullCode":"210204009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南沙河口街道",
 		"parentCode":"210204"
 	},
@@ -27,7 +27,7 @@
 		"code":"210204010",
 		"fullCode":"210204010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑石礁街道",
 		"parentCode":"210204"
 	},
@@ -35,7 +35,7 @@
 		"code":"210204011",
 		"fullCode":"210204011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家街道",
 		"parentCode":"210204"
 	},
@@ -43,7 +43,7 @@
 		"code":"210204017",
 		"fullCode":"210204017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星海湾街道",
 		"parentCode":"210204"
 	},
@@ -51,7 +51,7 @@
 		"code":"210204018",
 		"fullCode":"210204018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西安路街道",
 		"parentCode":"210204"
 	}

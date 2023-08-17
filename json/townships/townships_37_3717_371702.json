@@ -3,7 +3,7 @@
 		"code":"371702001",
 		"fullCode":"371702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"371702"
 	},
@@ -11,7 +11,7 @@
 		"code":"371702002",
 		"fullCode":"371702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"371702"
 	},
@@ -19,7 +19,7 @@
 		"code":"371702003",
 		"fullCode":"371702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城街道",
 		"parentCode":"371702"
 	},
@@ -27,7 +27,7 @@
 		"code":"371702004",
 		"fullCode":"371702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"371702"
 	},
@@ -35,7 +35,7 @@
 		"code":"371702005",
 		"fullCode":"371702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牡丹街道",
 		"parentCode":"371702"
 	},
@@ -43,7 +43,7 @@
 		"code":"371702009",
 		"fullCode":"371702009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何楼街道",
 		"parentCode":"371702"
 	},
@@ -51,7 +51,7 @@
 		"code":"371702011",
 		"fullCode":"371702011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇镇街道",
 		"parentCode":"371702"
 	},
@@ -59,7 +59,7 @@
 		"code":"371702100",
 		"fullCode":"371702100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙土镇",
 		"parentCode":"371702"
 	},
@@ -67,7 +67,7 @@
 		"code":"371702101",
 		"fullCode":"371702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴店镇",
 		"parentCode":"371702"
 	},
@@ -75,7 +75,7 @@
 		"code":"371702102",
 		"fullCode":"371702102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王浩屯镇",
 		"parentCode":"371702"
 	},
@@ -83,7 +83,7 @@
 		"code":"371702103",
 		"fullCode":"371702103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄堽镇",
 		"parentCode":"371702"
 	},
@@ -91,7 +91,7 @@
 		"code":"371702104",
 		"fullCode":"371702104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都司镇",
 		"parentCode":"371702"
 	},
@@ -99,7 +99,7 @@
 		"code":"371702105",
 		"fullCode":"371702105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高庄镇",
 		"parentCode":"371702"
 	},
@@ -107,7 +107,7 @@
 		"code":"371702106",
 		"fullCode":"371702106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小留镇",
 		"parentCode":"371702"
 	},
@@ -115,7 +115,7 @@
 		"code":"371702107",
 		"fullCode":"371702107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李村镇",
 		"parentCode":"371702"
 	},
@@ -123,7 +123,7 @@
 		"code":"371702109",
 		"fullCode":"371702109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安兴镇",
 		"parentCode":"371702"
 	},
@@ -131,7 +131,7 @@
 		"code":"371702110",
 		"fullCode":"371702110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大黄集镇",
 		"parentCode":"371702"
 	},
@@ -139,7 +139,7 @@
 		"code":"371702112",
 		"fullCode":"371702112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡集镇",
 		"parentCode":"371702"
 	}

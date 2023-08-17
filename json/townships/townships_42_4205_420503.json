@@ -3,7 +3,7 @@
 		"code":"420503001",
 		"fullCode":"420503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大公桥街道",
 		"parentCode":"420503"
 	},
@@ -11,7 +11,7 @@
 		"code":"420503002",
 		"fullCode":"420503002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万寿桥街道",
 		"parentCode":"420503"
 	},
@@ -19,7 +19,7 @@
 		"code":"420503003",
 		"fullCode":"420503003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝塔河街道",
 		"parentCode":"420503"
 	},
@@ -27,7 +27,7 @@
 		"code":"420503004",
 		"fullCode":"420503004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伍家岗街道",
 		"parentCode":"420503"
 	},
@@ -35,7 +35,7 @@
 		"code":"420503201",
 		"fullCode":"420503201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伍家乡",
 		"parentCode":"420503"
 	}

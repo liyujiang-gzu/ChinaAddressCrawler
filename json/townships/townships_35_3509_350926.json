@@ -3,7 +3,7 @@
 		"code":"350926100",
 		"fullCode":"350926100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双城镇",
 		"parentCode":"350926"
 	},
@@ -11,7 +11,7 @@
 		"code":"350926101",
 		"fullCode":"350926101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富溪镇",
 		"parentCode":"350926"
 	},
@@ -19,7 +19,7 @@
 		"code":"350926200",
 		"fullCode":"350926200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊乡",
 		"parentCode":"350926"
 	},
@@ -27,7 +27,7 @@
 		"code":"350926201",
 		"fullCode":"350926201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乍洋乡",
 		"parentCode":"350926"
 	},
@@ -35,7 +35,7 @@
 		"code":"350926202",
 		"fullCode":"350926202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东源乡",
 		"parentCode":"350926"
 	},
@@ -43,7 +43,7 @@
 		"code":"350926203",
 		"fullCode":"350926203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄柏乡",
 		"parentCode":"350926"
 	},
@@ -51,7 +51,7 @@
 		"code":"350926204",
 		"fullCode":"350926204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宅中乡",
 		"parentCode":"350926"
 	},
@@ -59,7 +59,7 @@
 		"code":"350926205",
 		"fullCode":"350926205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楮坪乡",
 		"parentCode":"350926"
 	},
@@ -67,7 +67,7 @@
 		"code":"350926206",
 		"fullCode":"350926206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英山乡",
 		"parentCode":"350926"
 	}

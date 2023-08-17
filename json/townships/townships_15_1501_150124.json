@@ -3,7 +3,7 @@
 		"code":"150124100",
 		"fullCode":"150124100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"150124"
 	},
@@ -11,7 +11,7 @@
 		"code":"150124101",
 		"fullCode":"150124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏河镇",
 		"parentCode":"150124"
 	},
@@ -19,7 +19,7 @@
 		"code":"150124102",
 		"fullCode":"150124102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喇嘛湾镇",
 		"parentCode":"150124"
 	},
@@ -27,7 +27,7 @@
 		"code":"150124103",
 		"fullCode":"150124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老牛湾镇",
 		"parentCode":"150124"
 	},
@@ -35,7 +35,7 @@
 		"code":"150124200",
 		"fullCode":"150124200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑沟乡",
 		"parentCode":"150124"
 	},
@@ -43,7 +43,7 @@
 		"code":"150124201",
 		"fullCode":"150124201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北堡乡",
 		"parentCode":"150124"
 	},
@@ -51,7 +51,7 @@
 		"code":"150124202",
 		"fullCode":"150124202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韭菜庄乡",
 		"parentCode":"150124"
 	},
@@ -59,7 +59,7 @@
 		"code":"150124203",
 		"fullCode":"150124203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五良太乡",
 		"parentCode":"150124"
 	},
@@ -67,7 +67,7 @@
 		"code":"150124401",
 		"fullCode":"150124401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内蒙古清水河工业园区",
 		"parentCode":"150124"
 	}

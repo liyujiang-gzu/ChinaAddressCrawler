@@ -3,7 +3,7 @@
 		"code":"410404001",
 		"fullCode":"410404001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高庄街道",
 		"parentCode":"410404"
 	},
@@ -11,7 +11,7 @@
 		"code":"410404002",
 		"fullCode":"410404002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙兴街道",
 		"parentCode":"410404"
 	},
@@ -19,7 +19,7 @@
 		"code":"410404003",
 		"fullCode":"410404003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人民路街道",
 		"parentCode":"410404"
 	},
@@ -27,7 +27,7 @@
 		"code":"410404004",
 		"fullCode":"410404004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙河街道",
 		"parentCode":"410404"
 	}

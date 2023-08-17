@@ -3,7 +3,7 @@
 		"code":"620502001",
 		"fullCode":"620502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大城街道",
 		"parentCode":"620502"
 	},
@@ -11,7 +11,7 @@
 		"code":"620502002",
 		"fullCode":"620502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里墩街道",
 		"parentCode":"620502"
 	},
@@ -19,7 +19,7 @@
 		"code":"620502003",
 		"fullCode":"620502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关街道",
 		"parentCode":"620502"
 	},
@@ -27,7 +27,7 @@
 		"code":"620502004",
 		"fullCode":"620502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中城街道",
 		"parentCode":"620502"
 	},
@@ -35,7 +35,7 @@
 		"code":"620502005",
 		"fullCode":"620502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关街道",
 		"parentCode":"620502"
 	},
@@ -43,7 +43,7 @@
 		"code":"620502006",
 		"fullCode":"620502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石马坪街道",
 		"parentCode":"620502"
 	},
@@ -51,7 +51,7 @@
 		"code":"620502007",
 		"fullCode":"620502007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天水郡街道",
 		"parentCode":"620502"
 	},
@@ -59,7 +59,7 @@
 		"code":"620502100",
 		"fullCode":"620502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉泉镇",
 		"parentCode":"620502"
 	},
@@ -67,7 +67,7 @@
 		"code":"620502101",
 		"fullCode":"620502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太京镇",
 		"parentCode":"620502"
 	},
@@ -75,7 +75,7 @@
 		"code":"620502102",
 		"fullCode":"620502102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"藉口镇",
 		"parentCode":"620502"
 	},
@@ -83,7 +83,7 @@
 		"code":"620502103",
 		"fullCode":"620502103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皂郊镇",
 		"parentCode":"620502"
 	},
@@ -91,7 +91,7 @@
 		"code":"620502104",
 		"fullCode":"620502104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪川镇",
 		"parentCode":"620502"
 	},
@@ -99,7 +99,7 @@
 		"code":"620502105",
 		"fullCode":"620502105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牡丹镇",
 		"parentCode":"620502"
 	},
@@ -107,7 +107,7 @@
 		"code":"620502106",
 		"fullCode":"620502106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关子镇",
 		"parentCode":"620502"
 	},
@@ -115,7 +115,7 @@
 		"code":"620502107",
 		"fullCode":"620502107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平南镇",
 		"parentCode":"620502"
 	},
@@ -123,7 +123,7 @@
 		"code":"620502108",
 		"fullCode":"620502108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天水镇",
 		"parentCode":"620502"
 	},
@@ -131,7 +131,7 @@
 		"code":"620502109",
 		"fullCode":"620502109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"娘娘坝镇",
 		"parentCode":"620502"
 	},
@@ -139,7 +139,7 @@
 		"code":"620502110",
 		"fullCode":"620502110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中梁镇",
 		"parentCode":"620502"
 	},
@@ -147,7 +147,7 @@
 		"code":"620502111",
 		"fullCode":"620502111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家寺镇",
 		"parentCode":"620502"
 	},
@@ -155,7 +155,7 @@
 		"code":"620502112",
 		"fullCode":"620502112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐寿镇",
 		"parentCode":"620502"
 	},
@@ -163,7 +163,7 @@
 		"code":"620502113",
 		"fullCode":"620502113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大门镇",
 		"parentCode":"620502"
 	},
@@ -171,7 +171,7 @@
 		"code":"620502114",
 		"fullCode":"620502114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦岭镇",
 		"parentCode":"620502"
 	},
@@ -179,7 +179,7 @@
 		"code":"620502115",
 		"fullCode":"620502115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华歧镇",
 		"parentCode":"620502"
 	}

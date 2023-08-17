@@ -3,7 +3,7 @@
 		"code":"451121100",
 		"fullCode":"451121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昭平镇",
 		"parentCode":"451121"
 	},
@@ -11,7 +11,7 @@
 		"code":"451121101",
 		"fullCode":"451121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文竹镇",
 		"parentCode":"451121"
 	},
@@ -19,7 +19,7 @@
 		"code":"451121102",
 		"fullCode":"451121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄姚镇",
 		"parentCode":"451121"
 	},
@@ -27,7 +27,7 @@
 		"code":"451121103",
 		"fullCode":"451121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富罗镇",
 		"parentCode":"451121"
 	},
@@ -35,7 +35,7 @@
 		"code":"451121104",
 		"fullCode":"451121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北陀镇",
 		"parentCode":"451121"
 	},
@@ -43,7 +43,7 @@
 		"code":"451121105",
 		"fullCode":"451121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马江镇",
 		"parentCode":"451121"
 	},
@@ -51,7 +51,7 @@
 		"code":"451121107",
 		"fullCode":"451121107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五将镇",
 		"parentCode":"451121"
 	},
@@ -59,7 +59,7 @@
 		"code":"451121108",
 		"fullCode":"451121108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"走马镇",
 		"parentCode":"451121"
 	},
@@ -67,7 +67,7 @@
 		"code":"451121109",
 		"fullCode":"451121109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樟木林镇",
 		"parentCode":"451121"
 	},
@@ -75,7 +75,7 @@
 		"code":"451121201",
 		"fullCode":"451121201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙回瑶族乡",
 		"parentCode":"451121"
 	},
@@ -83,7 +83,7 @@
 		"code":"451121206",
 		"fullCode":"451121206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰乡",
 		"parentCode":"451121"
 	},
@@ -91,7 +91,7 @@
 		"code":"451121208",
 		"fullCode":"451121208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木格乡",
 		"parentCode":"451121"
 	}

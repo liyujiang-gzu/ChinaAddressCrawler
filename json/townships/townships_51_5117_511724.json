@@ -3,7 +3,7 @@
 		"code":"511724001",
 		"fullCode":"511724001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹阳街道",
 		"parentCode":"511724"
 	},
@@ -11,7 +11,7 @@
 		"code":"511724002",
 		"fullCode":"511724002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东柳街道",
 		"parentCode":"511724"
 	},
@@ -19,7 +19,7 @@
 		"code":"511724003",
 		"fullCode":"511724003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔街道",
 		"parentCode":"511724"
 	},
@@ -27,7 +27,7 @@
 		"code":"511724101",
 		"fullCode":"511724101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌木镇",
 		"parentCode":"511724"
 	},
@@ -35,7 +35,7 @@
 		"code":"511724102",
 		"fullCode":"511724102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团坝镇",
 		"parentCode":"511724"
 	},
@@ -43,7 +43,7 @@
 		"code":"511724103",
 		"fullCode":"511724103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家镇",
 		"parentCode":"511724"
 	},
@@ -51,7 +51,7 @@
 		"code":"511724104",
 		"fullCode":"511724104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河镇",
 		"parentCode":"511724"
 	},
@@ -59,7 +59,7 @@
 		"code":"511724105",
 		"fullCode":"511724105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏林镇",
 		"parentCode":"511724"
 	},
@@ -67,7 +67,7 @@
 		"code":"511724106",
 		"fullCode":"511724106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石河镇",
 		"parentCode":"511724"
 	},
@@ -75,7 +75,7 @@
 		"code":"511724107",
 		"fullCode":"511724107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华镇",
 		"parentCode":"511724"
 	},
@@ -83,7 +83,7 @@
 		"code":"511724108",
 		"fullCode":"511724108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥铺镇",
 		"parentCode":"511724"
 	},
@@ -91,7 +91,7 @@
 		"code":"511724109",
 		"fullCode":"511724109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音镇",
 		"parentCode":"511724"
 	},
@@ -99,7 +99,7 @@
 		"code":"511724110",
 		"fullCode":"511724110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周家镇",
 		"parentCode":"511724"
 	},
@@ -107,7 +107,7 @@
 		"code":"511724111",
 		"fullCode":"511724111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石子镇",
 		"parentCode":"511724"
 	},
@@ -115,7 +115,7 @@
 		"code":"511724112",
 		"fullCode":"511724112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文星镇",
 		"parentCode":"511724"
 	},
@@ -123,7 +123,7 @@
 		"code":"511724113",
 		"fullCode":"511724113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"妈妈镇",
 		"parentCode":"511724"
 	},
@@ -131,7 +131,7 @@
 		"code":"511724114",
 		"fullCode":"511724114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高穴镇",
 		"parentCode":"511724"
 	},
@@ -139,7 +139,7 @@
 		"code":"511724115",
 		"fullCode":"511724115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欧家镇",
 		"parentCode":"511724"
 	},
@@ -147,7 +147,7 @@
 		"code":"511724116",
 		"fullCode":"511724116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙坝镇",
 		"parentCode":"511724"
 	},
@@ -155,7 +155,7 @@
 		"code":"511724117",
 		"fullCode":"511724117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水镇",
 		"parentCode":"511724"
 	},
@@ -163,7 +163,7 @@
 		"code":"511724118",
 		"fullCode":"511724118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月华镇",
 		"parentCode":"511724"
 	},
@@ -171,7 +171,7 @@
 		"code":"511724119",
 		"fullCode":"511724119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高明镇",
 		"parentCode":"511724"
 	},
@@ -179,7 +179,7 @@
 		"code":"511724120",
 		"fullCode":"511724120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"童家镇",
 		"parentCode":"511724"
 	},
@@ -187,7 +187,7 @@
 		"code":"511724121",
 		"fullCode":"511724121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天城镇",
 		"parentCode":"511724"
 	},
@@ -195,7 +195,7 @@
 		"code":"511724125",
 		"fullCode":"511724125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四合镇",
 		"parentCode":"511724"
 	},
@@ -203,7 +203,7 @@
 		"code":"511724126",
 		"fullCode":"511724126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永胜镇",
 		"parentCode":"511724"
 	},
@@ -211,7 +211,7 @@
 		"code":"511724203",
 		"fullCode":"511724203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳乡",
 		"parentCode":"511724"
 	},
@@ -219,7 +219,7 @@
 		"code":"511724214",
 		"fullCode":"511724214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安吉乡",
 		"parentCode":"511724"
 	},
@@ -227,7 +227,7 @@
 		"code":"511724218",
 		"fullCode":"511724218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八渡乡",
 		"parentCode":"511724"
 	},
@@ -235,7 +235,7 @@
 		"code":"511724220",
 		"fullCode":"511724220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨通乡",
 		"parentCode":"511724"
 	},
@@ -243,7 +243,7 @@
 		"code":"511724231",
 		"fullCode":"511724231000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川主乡",
 		"parentCode":"511724"
 	}

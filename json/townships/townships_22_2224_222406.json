@@ -3,7 +3,7 @@
 		"code":"222406001",
 		"fullCode":"222406001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民慧街道",
 		"parentCode":"222406"
 	},
@@ -11,7 +11,7 @@
 		"code":"222406002",
 		"fullCode":"222406002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明街道",
 		"parentCode":"222406"
 	},
@@ -19,7 +19,7 @@
 		"code":"222406003",
 		"fullCode":"222406003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文化街道",
 		"parentCode":"222406"
 	},
@@ -27,7 +27,7 @@
 		"code":"222406100",
 		"fullCode":"222406100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八家子镇",
 		"parentCode":"222406"
 	},
@@ -35,7 +35,7 @@
 		"code":"222406101",
 		"fullCode":"222406101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福洞镇",
 		"parentCode":"222406"
 	},
@@ -43,7 +43,7 @@
 		"code":"222406102",
 		"fullCode":"222406102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头道镇",
 		"parentCode":"222406"
 	},
@@ -51,7 +51,7 @@
 		"code":"222406103",
 		"fullCode":"222406103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城镇",
 		"parentCode":"222406"
 	},
@@ -59,7 +59,7 @@
 		"code":"222406104",
 		"fullCode":"222406104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南坪镇",
 		"parentCode":"222406"
 	},
@@ -67,7 +67,7 @@
 		"code":"222406105",
 		"fullCode":"222406105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城镇",
 		"parentCode":"222406"
 	},
@@ -75,7 +75,7 @@
 		"code":"222406106",
 		"fullCode":"222406106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇善镇",
 		"parentCode":"222406"
 	},
@@ -83,7 +83,7 @@
 		"code":"222406107",
 		"fullCode":"222406107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙城镇",
 		"parentCode":"222406"
 	},
@@ -91,7 +91,7 @@
 		"code":"222406400",
 		"fullCode":"222406400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和龙林业局",
 		"parentCode":"222406"
 	},
@@ -99,7 +99,7 @@
 		"code":"222406401",
 		"fullCode":"222406401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八家子林业局",
 		"parentCode":"222406"
 	},
@@ -107,7 +107,7 @@
 		"code":"222406402",
 		"fullCode":"222406402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和龙市林业局",
 		"parentCode":"222406"
 	}

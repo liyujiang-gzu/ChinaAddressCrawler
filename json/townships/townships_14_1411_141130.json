@@ -3,7 +3,7 @@
 		"code":"141130100",
 		"fullCode":"141130100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水头镇",
 		"parentCode":"141130"
 	},
@@ -11,7 +11,7 @@
 		"code":"141130101",
 		"fullCode":"141130101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康城镇",
 		"parentCode":"141130"
 	},
@@ -19,7 +19,7 @@
 		"code":"141130102",
 		"fullCode":"141130102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双池镇",
 		"parentCode":"141130"
 	},
@@ -27,7 +27,7 @@
 		"code":"141130103",
 		"fullCode":"141130103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃红坡镇",
 		"parentCode":"141130"
 	},
@@ -35,7 +35,7 @@
 		"code":"141130104",
 		"fullCode":"141130104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石口镇",
 		"parentCode":"141130"
 	},
@@ -43,7 +43,7 @@
 		"code":"141130105",
 		"fullCode":"141130105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回龙镇",
 		"parentCode":"141130"
 	},
@@ -51,7 +51,7 @@
 		"code":"141130202",
 		"fullCode":"141130202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉乡",
 		"parentCode":"141130"
 	}

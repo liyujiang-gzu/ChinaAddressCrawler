@@ -3,7 +3,7 @@
 		"code":"1301",
 		"fullCode":"130100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"石家庄市",
 		"parentCode":"13"
 	},
@@ -11,7 +11,7 @@
 		"code":"1302",
 		"fullCode":"130200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"唐山市",
 		"parentCode":"13"
 	},
@@ -19,7 +19,7 @@
 		"code":"1303",
 		"fullCode":"130300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"秦皇岛市",
 		"parentCode":"13"
 	},
@@ -27,7 +27,7 @@
 		"code":"1304",
 		"fullCode":"130400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"邯郸市",
 		"parentCode":"13"
 	},
@@ -35,7 +35,7 @@
 		"code":"1305",
 		"fullCode":"130500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"邢台市",
 		"parentCode":"13"
 	},
@@ -43,7 +43,7 @@
 		"code":"1306",
 		"fullCode":"130600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"保定市",
 		"parentCode":"13"
 	},
@@ -51,7 +51,7 @@
 		"code":"1307",
 		"fullCode":"130700000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"张家口市",
 		"parentCode":"13"
 	},
@@ -59,7 +59,7 @@
 		"code":"1308",
 		"fullCode":"130800000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"承德市",
 		"parentCode":"13"
 	},
@@ -67,7 +67,7 @@
 		"code":"1309",
 		"fullCode":"130900000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"沧州市",
 		"parentCode":"13"
 	},
@@ -75,7 +75,7 @@
 		"code":"1310",
 		"fullCode":"131000000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"廊坊市",
 		"parentCode":"13"
 	},
@@ -83,7 +83,7 @@
 		"code":"1311",
 		"fullCode":"131100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"衡水市",
 		"parentCode":"13"
 	}

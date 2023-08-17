@@ -3,7 +3,7 @@
 		"code":"610703001",
 		"fullCode":"610703001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉山街道",
 		"parentCode":"610703"
 	},
@@ -11,7 +11,7 @@
 		"code":"610703002",
 		"fullCode":"610703002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中所营街道",
 		"parentCode":"610703"
 	},
@@ -19,7 +19,7 @@
 		"code":"610703101",
 		"fullCode":"610703101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圣水镇",
 		"parentCode":"610703"
 	},
@@ -27,7 +27,7 @@
 		"code":"610703102",
 		"fullCode":"610703102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河坎镇",
 		"parentCode":"610703"
 	},
@@ -35,7 +35,7 @@
 		"code":"610703103",
 		"fullCode":"610703103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"协税镇",
 		"parentCode":"610703"
 	},
@@ -43,7 +43,7 @@
 		"code":"610703104",
 		"fullCode":"610703104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁山镇",
 		"parentCode":"610703"
 	},
@@ -51,7 +51,7 @@
 		"code":"610703105",
 		"fullCode":"610703105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳春镇",
 		"parentCode":"610703"
 	},
@@ -59,7 +59,7 @@
 		"code":"610703106",
 		"fullCode":"610703106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高台镇",
 		"parentCode":"610703"
 	},
@@ -67,7 +67,7 @@
 		"code":"610703107",
 		"fullCode":"610703107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新集镇",
 		"parentCode":"610703"
 	},
@@ -75,7 +75,7 @@
 		"code":"610703108",
 		"fullCode":"610703108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濂水镇",
 		"parentCode":"610703"
 	},
@@ -83,7 +83,7 @@
 		"code":"610703109",
 		"fullCode":"610703109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄官镇",
 		"parentCode":"610703"
 	},
@@ -91,7 +91,7 @@
 		"code":"610703110",
 		"fullCode":"610703110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青树镇",
 		"parentCode":"610703"
 	},
@@ -99,7 +99,7 @@
 		"code":"610703111",
 		"fullCode":"610703111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红庙镇",
 		"parentCode":"610703"
 	},
@@ -107,7 +107,7 @@
 		"code":"610703112",
 		"fullCode":"610703112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牟家坝镇",
 		"parentCode":"610703"
 	},
@@ -115,7 +115,7 @@
 		"code":"610703113",
 		"fullCode":"610703113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"法镇",
 		"parentCode":"610703"
 	},
@@ -123,7 +123,7 @@
 		"code":"610703114",
 		"fullCode":"610703114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湘水镇",
 		"parentCode":"610703"
 	},
@@ -131,7 +131,7 @@
 		"code":"610703115",
 		"fullCode":"610703115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小南海镇",
 		"parentCode":"610703"
 	},
@@ -139,7 +139,7 @@
 		"code":"610703116",
 		"fullCode":"610703116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碑坝镇",
 		"parentCode":"610703"
 	},
@@ -147,7 +147,7 @@
 		"code":"610703117",
 		"fullCode":"610703117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎坪镇",
 		"parentCode":"610703"
 	},
@@ -155,7 +155,7 @@
 		"code":"610703118",
 		"fullCode":"610703118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福成镇",
 		"parentCode":"610703"
 	},
@@ -163,7 +163,7 @@
 		"code":"610703119",
 		"fullCode":"610703119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两河镇",
 		"parentCode":"610703"
 	},
@@ -171,7 +171,7 @@
 		"code":"610703120",
 		"fullCode":"610703120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家营镇",
 		"parentCode":"610703"
 	}

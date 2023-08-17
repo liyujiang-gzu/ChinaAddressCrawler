@@ -3,7 +3,7 @@
 		"code":"450502",
 		"fullCode":"450502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海城区",
 		"parentCode":"4505"
 	},
@@ -11,7 +11,7 @@
 		"code":"450503",
 		"fullCode":"450503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"银海区",
 		"parentCode":"4505"
 	},
@@ -19,7 +19,7 @@
 		"code":"450512",
 		"fullCode":"450512000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铁山港区",
 		"parentCode":"4505"
 	},
@@ -27,7 +27,7 @@
 		"code":"450521",
 		"fullCode":"450521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"合浦县",
 		"parentCode":"4505"
 	}

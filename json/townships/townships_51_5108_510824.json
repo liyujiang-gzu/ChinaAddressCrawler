@@ -3,7 +3,7 @@
 		"code":"510824100",
 		"fullCode":"510824100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陵江镇",
 		"parentCode":"510824"
 	},
@@ -11,7 +11,7 @@
 		"code":"510824102",
 		"fullCode":"510824102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云峰镇",
 		"parentCode":"510824"
 	},
@@ -19,7 +19,7 @@
 		"code":"510824104",
 		"fullCode":"510824104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东青镇",
 		"parentCode":"510824"
 	},
@@ -27,7 +27,7 @@
 		"code":"510824105",
 		"fullCode":"510824105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白桥镇",
 		"parentCode":"510824"
 	},
@@ -35,7 +35,7 @@
 		"code":"510824107",
 		"fullCode":"510824107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五龙镇",
 		"parentCode":"510824"
 	},
@@ -43,7 +43,7 @@
 		"code":"510824108",
 		"fullCode":"510824108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁镇",
 		"parentCode":"510824"
 	},
@@ -51,7 +51,7 @@
 		"code":"510824109",
 		"fullCode":"510824109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸳溪镇",
 		"parentCode":"510824"
 	},
@@ -59,7 +59,7 @@
 		"code":"510824110",
 		"fullCode":"510824110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三川镇",
 		"parentCode":"510824"
 	},
@@ -67,7 +67,7 @@
 		"code":"510824111",
 		"fullCode":"510824111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙王镇",
 		"parentCode":"510824"
 	},
@@ -75,7 +75,7 @@
 		"code":"510824112",
 		"fullCode":"510824112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元坝镇",
 		"parentCode":"510824"
 	},
@@ -83,7 +83,7 @@
 		"code":"510824113",
 		"fullCode":"510824113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唤马镇",
 		"parentCode":"510824"
 	},
@@ -91,7 +91,7 @@
 		"code":"510824114",
 		"fullCode":"510824114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"歧坪镇",
 		"parentCode":"510824"
 	},
@@ -99,7 +99,7 @@
 		"code":"510824115",
 		"fullCode":"510824115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白驿镇",
 		"parentCode":"510824"
 	},
@@ -107,7 +107,7 @@
 		"code":"510824116",
 		"fullCode":"510824116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漓江镇",
 		"parentCode":"510824"
 	},
@@ -115,7 +115,7 @@
 		"code":"510824117",
 		"fullCode":"510824117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌镇",
 		"parentCode":"510824"
 	},
@@ -123,7 +123,7 @@
 		"code":"510824118",
 		"fullCode":"510824118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳东镇",
 		"parentCode":"510824"
 	},
@@ -131,7 +131,7 @@
 		"code":"510824119",
 		"fullCode":"510824119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石马镇",
 		"parentCode":"510824"
 	},
@@ -139,7 +139,7 @@
 		"code":"510824120",
 		"fullCode":"510824120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"运山镇",
 		"parentCode":"510824"
 	},
@@ -147,7 +147,7 @@
 		"code":"510824121",
 		"fullCode":"510824121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东溪镇",
 		"parentCode":"510824"
 	},
@@ -155,7 +155,7 @@
 		"code":"510824122",
 		"fullCode":"510824122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坡镇",
 		"parentCode":"510824"
 	},
@@ -163,7 +163,7 @@
 		"code":"510824123",
 		"fullCode":"510824123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山镇",
 		"parentCode":"510824"
 	},
@@ -171,7 +171,7 @@
 		"code":"510824125",
 		"fullCode":"510824125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亭子镇",
 		"parentCode":"510824"
 	},
@@ -179,7 +179,7 @@
 		"code":"510824126",
 		"fullCode":"510824126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百利镇",
 		"parentCode":"510824"
 	},
@@ -187,7 +187,7 @@
 		"code":"510824127",
 		"fullCode":"510824127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄猫垭镇",
 		"parentCode":"510824"
 	},
@@ -195,7 +195,7 @@
 		"code":"510824128",
 		"fullCode":"510824128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河地镇",
 		"parentCode":"510824"
 	},
@@ -203,7 +203,7 @@
 		"code":"510824208",
 		"fullCode":"510824208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鹤乡",
 		"parentCode":"510824"
 	},
@@ -211,7 +211,7 @@
 		"code":"510824209",
 		"fullCode":"510824209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浙水乡",
 		"parentCode":"510824"
 	},
@@ -219,7 +219,7 @@
 		"code":"510824223",
 		"fullCode":"510824223000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月山乡",
 		"parentCode":"510824"
 	},
@@ -227,7 +227,7 @@
 		"code":"510824226",
 		"fullCode":"510824226000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白山乡",
 		"parentCode":"510824"
 	},
@@ -235,7 +235,7 @@
 		"code":"510824228",
 		"fullCode":"510824228000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭店乡",
 		"parentCode":"510824"
 	},
@@ -243,7 +243,7 @@
 		"code":"510824229",
 		"fullCode":"510824229000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥溪乡",
 		"parentCode":"510824"
 	},
@@ -251,7 +251,7 @@
 		"code":"510824400",
 		"fullCode":"510824400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苍溪九龙山自然保护区管理处",
 		"parentCode":"510824"
 	},
@@ -259,7 +259,7 @@
 		"code":"510824401",
 		"fullCode":"510824401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苍溪县三溪口森林经营所",
 		"parentCode":"510824"
 	},
@@ -267,7 +267,7 @@
 		"code":"510824402",
 		"fullCode":"510824402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苍溪县良种场",
 		"parentCode":"510824"
 	}

@@ -3,7 +3,7 @@
 		"code":"140930100",
 		"fullCode":"140930100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西口镇",
 		"parentCode":"140930"
 	},
@@ -11,7 +11,7 @@
 		"code":"140930101",
 		"fullCode":"140930101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楼子营镇",
 		"parentCode":"140930"
 	},
@@ -19,7 +19,7 @@
 		"code":"140930102",
 		"fullCode":"140930102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘家塔镇",
 		"parentCode":"140930"
 	},
@@ -27,7 +27,7 @@
 		"code":"140930103",
 		"fullCode":"140930103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巡镇镇",
 		"parentCode":"140930"
 	},
@@ -35,7 +35,7 @@
 		"code":"140930104",
 		"fullCode":"140930104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧县镇",
 		"parentCode":"140930"
 	},
@@ -43,7 +43,7 @@
 		"code":"140930105",
 		"fullCode":"140930105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙泉镇",
 		"parentCode":"140930"
 	},
@@ -51,7 +51,7 @@
 		"code":"140930200",
 		"fullCode":"140930200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿固乡",
 		"parentCode":"140930"
 	},
@@ -59,7 +59,7 @@
 		"code":"140930202",
 		"fullCode":"140930202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"单寨乡",
 		"parentCode":"140930"
 	},
@@ -67,7 +67,7 @@
 		"code":"140930203",
 		"fullCode":"140930203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土沟乡",
 		"parentCode":"140930"
 	},
@@ -75,7 +75,7 @@
 		"code":"140930205",
 		"fullCode":"140930205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坪乡",
 		"parentCode":"140930"
 	},
@@ -83,7 +83,7 @@
 		"code":"140930206",
 		"fullCode":"140930206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"社梁乡",
 		"parentCode":"140930"
 	}

@@ -3,7 +3,7 @@
 		"code":"610527001",
 		"fullCode":"610527001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"610527"
 	},
@@ -11,7 +11,7 @@
 		"code":"610527102",
 		"fullCode":"610527102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尧禾镇",
 		"parentCode":"610527"
 	},
@@ -19,7 +19,7 @@
 		"code":"610527103",
 		"fullCode":"610527103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜康镇",
 		"parentCode":"610527"
 	},
@@ -27,7 +27,7 @@
 		"code":"610527104",
 		"fullCode":"610527104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西固镇",
 		"parentCode":"610527"
 	},
@@ -35,7 +35,7 @@
 		"code":"610527105",
 		"fullCode":"610527105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林皋镇",
 		"parentCode":"610527"
 	},
@@ -43,7 +43,7 @@
 		"code":"610527106",
 		"fullCode":"610527106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"史官镇",
 		"parentCode":"610527"
 	},
@@ -51,7 +51,7 @@
 		"code":"610527107",
 		"fullCode":"610527107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北塬镇",
 		"parentCode":"610527"
 	},
@@ -59,7 +59,7 @@
 		"code":"610527109",
 		"fullCode":"610527109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷牙镇",
 		"parentCode":"610527"
 	}

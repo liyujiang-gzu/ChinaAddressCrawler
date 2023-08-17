@@ -3,7 +3,7 @@
 		"code":"540231100",
 		"fullCode":"540231100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江嘎镇",
 		"parentCode":"540231"
 	},
@@ -11,7 +11,7 @@
 		"code":"540231101",
 		"fullCode":"540231101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈塘镇",
 		"parentCode":"540231"
 	},
@@ -19,7 +19,7 @@
 		"code":"540231102",
 		"fullCode":"540231102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日屋镇",
 		"parentCode":"540231"
 	},
@@ -27,7 +27,7 @@
 		"code":"540231201",
 		"fullCode":"540231201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"确布乡",
 		"parentCode":"540231"
 	},
@@ -35,7 +35,7 @@
 		"code":"540231202",
 		"fullCode":"540231202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定结乡",
 		"parentCode":"540231"
 	},
@@ -43,7 +43,7 @@
 		"code":"540231203",
 		"fullCode":"540231203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多布扎乡",
 		"parentCode":"540231"
 	},
@@ -51,7 +51,7 @@
 		"code":"540231204",
 		"fullCode":"540231204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎西岗乡",
 		"parentCode":"540231"
 	},
@@ -59,7 +59,7 @@
 		"code":"540231205",
 		"fullCode":"540231205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琼孜乡",
 		"parentCode":"540231"
 	},
@@ -67,7 +67,7 @@
 		"code":"540231206",
 		"fullCode":"540231206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨尔乡",
 		"parentCode":"540231"
 	},
@@ -75,7 +75,7 @@
 		"code":"540231207",
 		"fullCode":"540231207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭加乡",
 		"parentCode":"540231"
 	}

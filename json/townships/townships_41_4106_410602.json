@@ -3,7 +3,7 @@
 		"code":"410602001",
 		"fullCode":"410602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山北路街道",
 		"parentCode":"410602"
 	},
@@ -11,7 +11,7 @@
 		"code":"410602002",
 		"fullCode":"410602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山路街道",
 		"parentCode":"410602"
 	},
@@ -19,7 +19,7 @@
 		"code":"410602003",
 		"fullCode":"410602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街街道",
 		"parentCode":"410602"
 	},
@@ -27,7 +27,7 @@
 		"code":"410602004",
 		"fullCode":"410602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤山街街道",
 		"parentCode":"410602"
 	},
@@ -35,7 +35,7 @@
 		"code":"410602005",
 		"fullCode":"410602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九矿广场街道",
 		"parentCode":"410602"
 	},
@@ -43,7 +43,7 @@
 		"code":"410602100",
 		"fullCode":"410602100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤壁集镇",
 		"parentCode":"410602"
 	},
@@ -51,7 +51,7 @@
 		"code":"410602201",
 		"fullCode":"410602201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姬家山乡",
 		"parentCode":"410602"
 	}

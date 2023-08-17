@@ -3,7 +3,7 @@
 		"code":"130928100",
 		"fullCode":"130928100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑园镇",
 		"parentCode":"130928"
 	},
@@ -11,7 +11,7 @@
 		"code":"130928101",
 		"fullCode":"130928101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁城镇",
 		"parentCode":"130928"
 	},
@@ -19,7 +19,7 @@
 		"code":"130928102",
 		"fullCode":"130928102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"于集镇",
 		"parentCode":"130928"
 	},
@@ -27,7 +27,7 @@
 		"code":"130928103",
 		"fullCode":"130928103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁集镇",
 		"parentCode":"130928"
 	},
@@ -35,7 +35,7 @@
 		"code":"130928104",
 		"fullCode":"130928104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安陵镇",
 		"parentCode":"130928"
 	},
@@ -43,7 +43,7 @@
 		"code":"130928200",
 		"fullCode":"130928200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹家洼乡",
 		"parentCode":"130928"
 	},
@@ -51,7 +51,7 @@
 		"code":"130928201",
 		"fullCode":"130928201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东宋门乡",
 		"parentCode":"130928"
 	},
@@ -59,7 +59,7 @@
 		"code":"130928202",
 		"fullCode":"130928202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家寺乡",
 		"parentCode":"130928"
 	},
@@ -67,7 +67,7 @@
 		"code":"130928203",
 		"fullCode":"130928203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沟店铺乡",
 		"parentCode":"130928"
 	},
@@ -75,7 +75,7 @@
 		"code":"130928204",
 		"fullCode":"130928204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何庄乡",
 		"parentCode":"130928"
 	},
@@ -83,7 +83,7 @@
 		"code":"130928400",
 		"fullCode":"130928400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴桥经济技术开发区",
 		"parentCode":"130928"
 	}

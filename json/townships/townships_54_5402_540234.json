@@ -3,7 +3,7 @@
 		"code":"540234100",
 		"fullCode":"540234100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗嘎镇",
 		"parentCode":"540234"
 	},
@@ -11,7 +11,7 @@
 		"code":"540234101",
 		"fullCode":"540234101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉隆镇",
 		"parentCode":"540234"
 	},
@@ -19,7 +19,7 @@
 		"code":"540234200",
 		"fullCode":"540234200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"差那乡",
 		"parentCode":"540234"
 	},
@@ -27,7 +27,7 @@
 		"code":"540234201",
 		"fullCode":"540234201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"折巴乡",
 		"parentCode":"540234"
 	},
@@ -35,7 +35,7 @@
 		"code":"540234202",
 		"fullCode":"540234202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贡当乡",
 		"parentCode":"540234"
 	},
@@ -43,7 +43,7 @@
 		"code":"540234203",
 		"fullCode":"540234203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨勒乡",
 		"parentCode":"540234"
 	}

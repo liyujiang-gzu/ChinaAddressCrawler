@@ -3,7 +3,7 @@
 		"code":"430502001",
 		"fullCode":"430502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆街道",
 		"parentCode":"430502"
 	},
@@ -11,7 +11,7 @@
 		"code":"430502002",
 		"fullCode":"430502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙须塘街道",
 		"parentCode":"430502"
 	},
@@ -19,7 +19,7 @@
 		"code":"430502003",
 		"fullCode":"430502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汽车站街道",
 		"parentCode":"430502"
 	},
@@ -27,7 +27,7 @@
 		"code":"430502004",
 		"fullCode":"430502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小江湖街道",
 		"parentCode":"430502"
 	},
@@ -35,7 +35,7 @@
 		"code":"430502005",
 		"fullCode":"430502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风路街道",
 		"parentCode":"430502"
 	},
@@ -43,7 +43,7 @@
 		"code":"430502006",
 		"fullCode":"430502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥头街道",
 		"parentCode":"430502"
 	},
@@ -51,7 +51,7 @@
 		"code":"430502007",
 		"fullCode":"430502007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨江街道",
 		"parentCode":"430502"
 	},
@@ -59,7 +59,7 @@
 		"code":"430502008",
 		"fullCode":"430502008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥街道",
 		"parentCode":"430502"
 	},
@@ -67,7 +67,7 @@
 		"code":"430502009",
 		"fullCode":"430502009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱莲街道",
 		"parentCode":"430502"
 	},
@@ -75,7 +75,7 @@
 		"code":"430502100",
 		"fullCode":"430502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高崇山镇",
 		"parentCode":"430502"
 	},
@@ -83,7 +83,7 @@
 		"code":"430502101",
 		"fullCode":"430502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渡头桥镇",
 		"parentCode":"430502"
 	},
@@ -91,7 +91,7 @@
 		"code":"430502202",
 		"fullCode":"430502202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火车站乡",
 		"parentCode":"430502"
 	}

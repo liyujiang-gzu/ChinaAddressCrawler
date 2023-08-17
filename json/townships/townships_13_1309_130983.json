@@ -3,7 +3,7 @@
 		"code":"130983001",
 		"fullCode":"130983001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骅东街道",
 		"parentCode":"130983"
 	},
@@ -11,7 +11,7 @@
 		"code":"130983002",
 		"fullCode":"130983002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骅中街道",
 		"parentCode":"130983"
 	},
@@ -19,7 +19,7 @@
 		"code":"130983003",
 		"fullCode":"130983003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骅西街道",
 		"parentCode":"130983"
 	},
@@ -27,7 +27,7 @@
 		"code":"130983100",
 		"fullCode":"130983100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄骅镇",
 		"parentCode":"130983"
 	},
@@ -35,7 +35,7 @@
 		"code":"130983101",
 		"fullCode":"130983101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南排河镇",
 		"parentCode":"130983"
 	},
@@ -43,7 +43,7 @@
 		"code":"130983102",
 		"fullCode":"130983102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吕桥镇",
 		"parentCode":"130983"
 	},
@@ -51,7 +51,7 @@
 		"code":"130983103",
 		"fullCode":"130983103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧城镇",
 		"parentCode":"130983"
 	},
@@ -59,7 +59,7 @@
 		"code":"130983104",
 		"fullCode":"130983104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐家务镇",
 		"parentCode":"130983"
 	},
@@ -67,7 +67,7 @@
 		"code":"130983105",
 		"fullCode":"130983105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滕庄子镇",
 		"parentCode":"130983"
 	},
@@ -75,7 +75,7 @@
 		"code":"130983106",
 		"fullCode":"130983106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常郭镇",
 		"parentCode":"130983"
 	},
@@ -83,7 +83,7 @@
 		"code":"130983107",
 		"fullCode":"130983107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊二庄镇",
 		"parentCode":"130983"
 	},
@@ -91,7 +91,7 @@
 		"code":"130983204",
 		"fullCode":"130983204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官庄乡",
 		"parentCode":"130983"
 	},
@@ -99,7 +99,7 @@
 		"code":"130983207",
 		"fullCode":"130983207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊三木回族乡",
 		"parentCode":"130983"
 	}

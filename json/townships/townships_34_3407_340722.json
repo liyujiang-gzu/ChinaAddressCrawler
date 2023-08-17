@@ -3,7 +3,7 @@
 		"code":"340722106",
 		"fullCode":"340722106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横埠镇",
 		"parentCode":"340722"
 	},
@@ -11,7 +11,7 @@
 		"code":"340722107",
 		"fullCode":"340722107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"项铺镇",
 		"parentCode":"340722"
 	},
@@ -19,7 +19,7 @@
 		"code":"340722108",
 		"fullCode":"340722108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱桥镇",
 		"parentCode":"340722"
 	},
@@ -27,7 +27,7 @@
 		"code":"340722109",
 		"fullCode":"340722109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麒麟镇",
 		"parentCode":"340722"
 	},
@@ -35,7 +35,7 @@
 		"code":"340722110",
 		"fullCode":"340722110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义津镇",
 		"parentCode":"340722"
 	},
@@ -43,7 +43,7 @@
 		"code":"340722111",
 		"fullCode":"340722111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浮山镇",
 		"parentCode":"340722"
 	},
@@ -51,7 +51,7 @@
 		"code":"340722112",
 		"fullCode":"340722112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会宫镇",
 		"parentCode":"340722"
 	},
@@ -59,7 +59,7 @@
 		"code":"340722113",
 		"fullCode":"340722113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官埠桥镇",
 		"parentCode":"340722"
 	},
@@ -67,7 +67,7 @@
 		"code":"340722114",
 		"fullCode":"340722114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱铺镇",
 		"parentCode":"340722"
 	},
@@ -75,7 +75,7 @@
 		"code":"340722115",
 		"fullCode":"340722115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金社镇",
 		"parentCode":"340722"
 	},
@@ -83,7 +83,7 @@
 		"code":"340722116",
 		"fullCode":"340722116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白柳镇",
 		"parentCode":"340722"
 	},
@@ -91,7 +91,7 @@
 		"code":"340722117",
 		"fullCode":"340722117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雨坛镇",
 		"parentCode":"340722"
 	},
@@ -99,7 +99,7 @@
 		"code":"340722118",
 		"fullCode":"340722118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枞阳镇",
 		"parentCode":"340722"
 	},
@@ -107,7 +107,7 @@
 		"code":"340722119",
 		"fullCode":"340722119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欧山镇",
 		"parentCode":"340722"
 	},
@@ -115,7 +115,7 @@
 		"code":"340722120",
 		"fullCode":"340722120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤沟镇",
 		"parentCode":"340722"
 	},
@@ -123,7 +123,7 @@
 		"code":"340722205",
 		"fullCode":"340722205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白梅乡",
 		"parentCode":"340722"
 	},
@@ -131,7 +131,7 @@
 		"code":"340722400",
 		"fullCode":"340722400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枞阳经济开发区",
 		"parentCode":"340722"
 	}

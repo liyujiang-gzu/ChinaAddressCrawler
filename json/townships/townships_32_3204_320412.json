@@ -3,7 +3,7 @@
 		"code":"320412001",
 		"fullCode":"320412001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戚墅堰街道",
 		"parentCode":"320412"
 	},
@@ -11,7 +11,7 @@
 		"code":"320412002",
 		"fullCode":"320412002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁堰街道",
 		"parentCode":"320412"
 	},
@@ -19,7 +19,7 @@
 		"code":"320412003",
 		"fullCode":"320412003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潞城街道",
 		"parentCode":"320412"
 	},
@@ -27,7 +27,7 @@
 		"code":"320412100",
 		"fullCode":"320412100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖塘镇",
 		"parentCode":"320412"
 	},
@@ -35,7 +35,7 @@
 		"code":"320412102",
 		"fullCode":"320412102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛塘镇",
 		"parentCode":"320412"
 	},
@@ -43,7 +43,7 @@
 		"code":"320412103",
 		"fullCode":"320412103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛阳镇",
 		"parentCode":"320412"
 	},
@@ -51,7 +51,7 @@
 		"code":"320412104",
 		"fullCode":"320412104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遥观镇",
 		"parentCode":"320412"
 	},
@@ -59,7 +59,7 @@
 		"code":"320412105",
 		"fullCode":"320412105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横林镇",
 		"parentCode":"320412"
 	},
@@ -67,7 +67,7 @@
 		"code":"320412106",
 		"fullCode":"320412106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横山桥镇",
 		"parentCode":"320412"
 	},
@@ -75,7 +75,7 @@
 		"code":"320412110",
 		"fullCode":"320412110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪堰镇",
 		"parentCode":"320412"
 	},
@@ -83,7 +83,7 @@
 		"code":"320412113",
 		"fullCode":"320412113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前黄镇",
 		"parentCode":"320412"
 	},
@@ -91,7 +91,7 @@
 		"code":"320412114",
 		"fullCode":"320412114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"礼嘉镇",
 		"parentCode":"320412"
 	},
@@ -99,7 +99,7 @@
 		"code":"320412119",
 		"fullCode":"320412119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉泽镇",
 		"parentCode":"320412"
 	},
@@ -107,7 +107,7 @@
 		"code":"320412120",
 		"fullCode":"320412120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湟里镇",
 		"parentCode":"320412"
 	},
@@ -115,7 +115,7 @@
 		"code":"320412400",
 		"fullCode":"320412400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武进经济开发区",
 		"parentCode":"320412"
 	},
@@ -123,7 +123,7 @@
 		"code":"320412411",
 		"fullCode":"320412411000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高新区",
 		"parentCode":"320412"
 	},
@@ -131,7 +131,7 @@
 		"code":"320412412",
 		"fullCode":"320412412000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西太湖生态休闲区",
 		"parentCode":"320412"
 	},
@@ -139,7 +139,7 @@
 		"code":"320412413",
 		"fullCode":"320412413000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太湖旅游度假区管委会",
 		"parentCode":"320412"
 	}

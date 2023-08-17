@@ -3,7 +3,7 @@
 		"code":"512002001",
 		"fullCode":"512002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花街道",
 		"parentCode":"512002"
 	},
@@ -11,7 +11,7 @@
 		"code":"512002002",
 		"fullCode":"512002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三贤祠街道",
 		"parentCode":"512002"
 	},
@@ -19,7 +19,7 @@
 		"code":"512002003",
 		"fullCode":"512002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"资溪街道",
 		"parentCode":"512002"
 	},
@@ -27,7 +27,7 @@
 		"code":"512002004",
 		"fullCode":"512002004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮子山街道",
 		"parentCode":"512002"
 	},
@@ -35,7 +35,7 @@
 		"code":"512002005",
 		"fullCode":"512002005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝莲街道",
 		"parentCode":"512002"
 	},
@@ -43,7 +43,7 @@
 		"code":"512002100",
 		"fullCode":"512002100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雁江镇",
 		"parentCode":"512002"
 	},
@@ -51,7 +51,7 @@
 		"code":"512002101",
 		"fullCode":"512002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松涛镇",
 		"parentCode":"512002"
 	},
@@ -59,7 +59,7 @@
 		"code":"512002102",
 		"fullCode":"512002102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝台镇",
 		"parentCode":"512002"
 	},
@@ -67,7 +67,7 @@
 		"code":"512002103",
 		"fullCode":"512002103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江镇",
 		"parentCode":"512002"
 	},
@@ -75,7 +75,7 @@
 		"code":"512002104",
 		"fullCode":"512002104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保和镇",
 		"parentCode":"512002"
 	},
@@ -83,7 +83,7 @@
 		"code":"512002105",
 		"fullCode":"512002105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老君镇",
 		"parentCode":"512002"
 	},
@@ -91,7 +91,7 @@
 		"code":"512002106",
 		"fullCode":"512002106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中和镇",
 		"parentCode":"512002"
 	},
@@ -99,7 +99,7 @@
 		"code":"512002107",
 		"fullCode":"512002107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹山镇",
 		"parentCode":"512002"
 	},
@@ -107,7 +107,7 @@
 		"code":"512002108",
 		"fullCode":"512002108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小院镇",
 		"parentCode":"512002"
 	},
@@ -115,7 +115,7 @@
 		"code":"512002109",
 		"fullCode":"512002109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堪嘉镇",
 		"parentCode":"512002"
 	},
@@ -123,7 +123,7 @@
 		"code":"512002110",
 		"fullCode":"512002110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伍隍镇",
 		"parentCode":"512002"
 	},
@@ -131,7 +131,7 @@
 		"code":"512002111",
 		"fullCode":"512002111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石岭镇",
 		"parentCode":"512002"
 	},
@@ -139,7 +139,7 @@
 		"code":"512002112",
 		"fullCode":"512002112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东峰镇",
 		"parentCode":"512002"
 	},
@@ -147,7 +147,7 @@
 		"code":"512002113",
 		"fullCode":"512002113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南津镇",
 		"parentCode":"512002"
 	},
@@ -155,7 +155,7 @@
 		"code":"512002116",
 		"fullCode":"512002116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰裕镇",
 		"parentCode":"512002"
 	},
@@ -163,7 +163,7 @@
 		"code":"512002117",
 		"fullCode":"512002117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎接镇",
 		"parentCode":"512002"
 	},
@@ -171,7 +171,7 @@
 		"code":"512002118",
 		"fullCode":"512002118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祥符镇",
 		"parentCode":"512002"
 	},
@@ -179,7 +179,7 @@
 		"code":"512002400",
 		"fullCode":"512002400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四川大堰劳动教养管理所",
 		"parentCode":"512002"
 	}

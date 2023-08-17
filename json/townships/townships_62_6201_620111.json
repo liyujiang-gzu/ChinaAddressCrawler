@@ -3,7 +3,7 @@
 		"code":"620111001",
 		"fullCode":"620111001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑街街道",
 		"parentCode":"620111"
 	},
@@ -11,7 +11,7 @@
 		"code":"620111003",
 		"fullCode":"620111003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿区街道",
 		"parentCode":"620111"
 	},
@@ -19,7 +19,7 @@
 		"code":"620111004",
 		"fullCode":"620111004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华龙街道",
 		"parentCode":"620111"
 	},
@@ -27,7 +27,7 @@
 		"code":"620111101",
 		"fullCode":"620111101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海石湾镇",
 		"parentCode":"620111"
 	},
@@ -35,7 +35,7 @@
 		"code":"620111102",
 		"fullCode":"620111102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花庄镇",
 		"parentCode":"620111"
 	},
@@ -43,7 +43,7 @@
 		"code":"620111103",
 		"fullCode":"620111103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安镇",
 		"parentCode":"620111"
 	},
@@ -51,7 +51,7 @@
 		"code":"620111104",
 		"fullCode":"620111104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红古镇",
 		"parentCode":"620111"
 	}

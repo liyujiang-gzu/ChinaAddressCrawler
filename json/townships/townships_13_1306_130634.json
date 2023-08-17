@@ -3,7 +3,7 @@
 		"code":"130634100",
 		"fullCode":"130634100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恒州镇",
 		"parentCode":"130634"
 	},
@@ -11,7 +11,7 @@
 		"code":"130634101",
 		"fullCode":"130634101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵山镇",
 		"parentCode":"130634"
 	},
@@ -19,7 +19,7 @@
 		"code":"130634102",
 		"fullCode":"130634102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕赵镇",
 		"parentCode":"130634"
 	},
@@ -27,7 +27,7 @@
 		"code":"130634103",
 		"fullCode":"130634103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊平镇",
 		"parentCode":"130634"
 	},
@@ -35,7 +35,7 @@
 		"code":"130634104",
 		"fullCode":"130634104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文德镇",
 		"parentCode":"130634"
 	},
@@ -43,7 +43,7 @@
 		"code":"130634105",
 		"fullCode":"130634105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晓林镇",
 		"parentCode":"130634"
 	},
@@ -51,7 +51,7 @@
 		"code":"130634106",
 		"fullCode":"130634106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邸村镇",
 		"parentCode":"130634"
 	},
@@ -59,7 +59,7 @@
 		"code":"130634107",
 		"fullCode":"130634107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐村镇",
 		"parentCode":"130634"
 	},
@@ -67,7 +67,7 @@
 		"code":"130634108",
 		"fullCode":"130634108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孝墓镇",
 		"parentCode":"130634"
 	},
@@ -75,7 +75,7 @@
 		"code":"130634109",
 		"fullCode":"130634109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"产德镇",
 		"parentCode":"130634"
 	},
@@ -83,7 +83,7 @@
 		"code":"130634110",
 		"fullCode":"130634110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下河镇",
 		"parentCode":"130634"
 	},
@@ -91,7 +91,7 @@
 		"code":"130634200",
 		"fullCode":"130634200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路庄子乡",
 		"parentCode":"130634"
 	},
@@ -99,7 +99,7 @@
 		"code":"130634202",
 		"fullCode":"130634202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄窠乡",
 		"parentCode":"130634"
 	},
@@ -107,7 +107,7 @@
 		"code":"130634205",
 		"fullCode":"130634205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东旺乡",
 		"parentCode":"130634"
 	},
@@ -115,7 +115,7 @@
 		"code":"130634210",
 		"fullCode":"130634210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"党城乡",
 		"parentCode":"130634"
 	},
@@ -123,7 +123,7 @@
 		"code":"130634211",
 		"fullCode":"130634211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郎家庄乡",
 		"parentCode":"130634"
 	},
@@ -131,7 +131,7 @@
 		"code":"130634212",
 		"fullCode":"130634212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范家庄乡",
 		"parentCode":"130634"
 	},
@@ -139,7 +139,7 @@
 		"code":"130634213",
 		"fullCode":"130634213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北台乡",
 		"parentCode":"130634"
 	}

@@ -3,7 +3,7 @@
 		"code":"211302001",
 		"fullCode":"211302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双塔街道",
 		"parentCode":"211302"
 	},
@@ -11,7 +11,7 @@
 		"code":"211302003",
 		"fullCode":"211302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进街道",
 		"parentCode":"211302"
 	},
@@ -19,7 +19,7 @@
 		"code":"211302004",
 		"fullCode":"211302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凌河街道",
 		"parentCode":"211302"
 	},
@@ -27,7 +27,7 @@
 		"code":"211302005",
 		"fullCode":"211302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明街道",
 		"parentCode":"211302"
 	},
@@ -35,7 +35,7 @@
 		"code":"211302006",
 		"fullCode":"211302006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凌凤街道",
 		"parentCode":"211302"
 	},
@@ -43,7 +43,7 @@
 		"code":"211302007",
 		"fullCode":"211302007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山街道",
 		"parentCode":"211302"
 	},
@@ -51,7 +51,7 @@
 		"code":"211302008",
 		"fullCode":"211302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站南街道",
 		"parentCode":"211302"
 	},
@@ -59,7 +59,7 @@
 		"code":"211302009",
 		"fullCode":"211302009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街道",
 		"parentCode":"211302"
 	},
@@ -67,7 +67,7 @@
 		"code":"211302010",
 		"fullCode":"211302010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕北街道",
 		"parentCode":"211302"
 	},
@@ -75,7 +75,7 @@
 		"code":"211302100",
 		"fullCode":"211302100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃花吐镇",
 		"parentCode":"211302"
 	},
@@ -83,7 +83,7 @@
 		"code":"211302101",
 		"fullCode":"211302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"他拉皋镇",
 		"parentCode":"211302"
 	},
@@ -91,7 +91,7 @@
 		"code":"211302102",
 		"fullCode":"211302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙家湾镇",
 		"parentCode":"211302"
 	},
@@ -99,7 +99,7 @@
 		"code":"211302205",
 		"fullCode":"211302205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长宝营子乡",
 		"parentCode":"211302"
 	}

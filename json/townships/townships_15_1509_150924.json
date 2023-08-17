@@ -3,7 +3,7 @@
 		"code":"150924106",
 		"fullCode":"150924106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"150924"
 	},
@@ -11,7 +11,7 @@
 		"code":"150924107",
 		"fullCode":"150924107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张皋镇",
 		"parentCode":"150924"
 	},
@@ -19,7 +19,7 @@
 		"code":"150924108",
 		"fullCode":"150924108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛乌素镇",
 		"parentCode":"150924"
 	},
@@ -27,7 +27,7 @@
 		"code":"150924109",
 		"fullCode":"150924109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鄂尔栋镇",
 		"parentCode":"150924"
 	},
@@ -35,7 +35,7 @@
 		"code":"150924110",
 		"fullCode":"150924110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店子镇",
 		"parentCode":"150924"
 	},
@@ -43,7 +43,7 @@
 		"code":"150924209",
 		"fullCode":"150924209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大库联乡",
 		"parentCode":"150924"
 	},
@@ -51,7 +51,7 @@
 		"code":"150924210",
 		"fullCode":"150924210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民族团结乡",
 		"parentCode":"150924"
 	},
@@ -59,7 +59,7 @@
 		"code":"150924211",
 		"fullCode":"150924211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大同夭乡",
 		"parentCode":"150924"
 	},
@@ -67,7 +67,7 @@
 		"code":"150924212",
 		"fullCode":"150924212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五股泉乡",
 		"parentCode":"150924"
 	}

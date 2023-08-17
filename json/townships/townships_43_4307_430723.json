@@ -3,7 +3,7 @@
 		"code":"430723001",
 		"fullCode":"430723001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澧西街道",
 		"parentCode":"430723"
 	},
@@ -11,7 +11,7 @@
 		"code":"430723002",
 		"fullCode":"430723002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澧阳街道",
 		"parentCode":"430723"
 	},
@@ -19,7 +19,7 @@
 		"code":"430723003",
 		"fullCode":"430723003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澧浦街道",
 		"parentCode":"430723"
 	},
@@ -27,7 +27,7 @@
 		"code":"430723004",
 		"fullCode":"430723004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澧澹街道",
 		"parentCode":"430723"
 	},
@@ -35,7 +35,7 @@
 		"code":"430723102",
 		"fullCode":"430723102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小渡口镇",
 		"parentCode":"430723"
 	},
@@ -43,7 +43,7 @@
 		"code":"430723103",
 		"fullCode":"430723103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梦溪镇",
 		"parentCode":"430723"
 	},
@@ -51,7 +51,7 @@
 		"code":"430723104",
 		"fullCode":"430723104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复兴镇",
 		"parentCode":"430723"
 	},
@@ -59,7 +59,7 @@
 		"code":"430723105",
 		"fullCode":"430723105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐井镇",
 		"parentCode":"430723"
 	},
@@ -67,7 +67,7 @@
 		"code":"430723107",
 		"fullCode":"430723107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大堰垱镇",
 		"parentCode":"430723"
 	},
@@ -75,7 +75,7 @@
 		"code":"430723108",
 		"fullCode":"430723108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家厂镇",
 		"parentCode":"430723"
 	},
@@ -83,7 +83,7 @@
 		"code":"430723109",
 		"fullCode":"430723109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金罗镇",
 		"parentCode":"430723"
 	},
@@ -91,7 +91,7 @@
 		"code":"430723110",
 		"fullCode":"430723110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"码头铺镇",
 		"parentCode":"430723"
 	},
@@ -99,7 +99,7 @@
 		"code":"430723112",
 		"fullCode":"430723112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘溪滩镇",
 		"parentCode":"430723"
 	},
@@ -107,7 +107,7 @@
 		"code":"430723113",
 		"fullCode":"430723113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火连坡镇",
 		"parentCode":"430723"
 	},
@@ -115,7 +115,7 @@
 		"code":"430723114",
 		"fullCode":"430723114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澧南镇",
 		"parentCode":"430723"
 	},
@@ -123,7 +123,7 @@
 		"code":"430723115",
 		"fullCode":"430723115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"如东镇",
 		"parentCode":"430723"
 	},
@@ -131,7 +131,7 @@
 		"code":"430723116",
 		"fullCode":"430723116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涔南镇",
 		"parentCode":"430723"
 	},
@@ -139,7 +139,7 @@
 		"code":"430723117",
 		"fullCode":"430723117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官垸镇",
 		"parentCode":"430723"
 	},
@@ -147,7 +147,7 @@
 		"code":"430723118",
 		"fullCode":"430723118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城头山镇",
 		"parentCode":"430723"
 	}

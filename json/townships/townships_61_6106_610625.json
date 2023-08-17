@@ -3,7 +3,7 @@
 		"code":"610625001",
 		"fullCode":"610625001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保安街道",
 		"parentCode":"610625"
 	},
@@ -11,7 +11,7 @@
 		"code":"610625101",
 		"fullCode":"610625101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏河镇",
 		"parentCode":"610625"
 	},
@@ -19,7 +19,7 @@
 		"code":"610625102",
 		"fullCode":"610625102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺宁镇",
 		"parentCode":"610625"
 	},
@@ -27,7 +27,7 @@
 		"code":"610625103",
 		"fullCode":"610625103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旦八镇",
 		"parentCode":"610625"
 	},
@@ -35,7 +35,7 @@
 		"code":"610625104",
 		"fullCode":"610625104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金丁镇",
 		"parentCode":"610625"
 	},
@@ -43,7 +43,7 @@
 		"code":"610625105",
 		"fullCode":"610625105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁镇",
 		"parentCode":"610625"
 	},
@@ -51,7 +51,7 @@
 		"code":"610625106",
 		"fullCode":"610625106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义正镇",
 		"parentCode":"610625"
 	},
@@ -59,7 +59,7 @@
 		"code":"610625107",
 		"fullCode":"610625107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河镇",
 		"parentCode":"610625"
 	}

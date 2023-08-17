@@ -3,7 +3,7 @@
 		"code":"150824100",
 		"fullCode":"150824100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海流图镇",
 		"parentCode":"150824"
 	},
@@ -11,7 +11,7 @@
 		"code":"150824101",
 		"fullCode":"150824101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌加河镇",
 		"parentCode":"150824"
 	},
@@ -19,7 +19,7 @@
 		"code":"150824102",
 		"fullCode":"150824102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德岭山镇",
 		"parentCode":"150824"
 	},
@@ -27,7 +27,7 @@
 		"code":"150824103",
 		"fullCode":"150824103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石哈河镇",
 		"parentCode":"150824"
 	},
@@ -35,7 +35,7 @@
 		"code":"150824104",
 		"fullCode":"150824104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘其毛都镇",
 		"parentCode":"150824"
 	},
@@ -43,7 +43,7 @@
 		"code":"150824105",
 		"fullCode":"150824105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温更镇",
 		"parentCode":"150824"
 	},
@@ -51,7 +51,7 @@
 		"code":"150824200",
 		"fullCode":"150824200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼勒斯太苏木",
 		"parentCode":"150824"
 	},
@@ -59,7 +59,7 @@
 		"code":"150824201",
 		"fullCode":"150824201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川井苏木",
 		"parentCode":"150824"
 	},
@@ -67,7 +67,7 @@
 		"code":"150824202",
 		"fullCode":"150824202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴音乌兰苏木",
 		"parentCode":"150824"
 	},
@@ -75,7 +75,7 @@
 		"code":"150824203",
 		"fullCode":"150824203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新忽热苏木",
 		"parentCode":"150824"
 	},
@@ -83,7 +83,7 @@
 		"code":"150824400",
 		"fullCode":"150824400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦淖尔市牧洋海牧场有限公司",
 		"parentCode":"150824"
 	},
@@ -91,7 +91,7 @@
 		"code":"150824401",
 		"fullCode":"150824401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦淖尔市同和太种畜繁育中心",
 		"parentCode":"150824"
 	}

@@ -3,7 +3,7 @@
 		"code":"420117001",
 		"fullCode":"420117001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邾城街道",
 		"parentCode":"420117"
 	},
@@ -11,7 +11,7 @@
 		"code":"420117002",
 		"fullCode":"420117002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳逻街道",
 		"parentCode":"420117"
 	},
@@ -19,7 +19,7 @@
 		"code":"420117003",
 		"fullCode":"420117003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仓埠街道",
 		"parentCode":"420117"
 	},
@@ -27,7 +27,7 @@
 		"code":"420117004",
 		"fullCode":"420117004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪集街道",
 		"parentCode":"420117"
 	},
@@ -35,7 +35,7 @@
 		"code":"420117005",
 		"fullCode":"420117005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李集街道",
 		"parentCode":"420117"
 	},
@@ -43,7 +43,7 @@
 		"code":"420117006",
 		"fullCode":"420117006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三店街道",
 		"parentCode":"420117"
 	},
@@ -51,7 +51,7 @@
 		"code":"420117007",
 		"fullCode":"420117007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘塘街道",
 		"parentCode":"420117"
 	},
@@ -59,7 +59,7 @@
 		"code":"420117008",
 		"fullCode":"420117008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧街街道",
 		"parentCode":"420117"
 	},
@@ -67,7 +67,7 @@
 		"code":"420117009",
 		"fullCode":"420117009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双柳街道",
 		"parentCode":"420117"
 	},
@@ -75,7 +75,7 @@
 		"code":"420117010",
 		"fullCode":"420117010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涨渡湖街道",
 		"parentCode":"420117"
 	},
@@ -83,7 +83,7 @@
 		"code":"420117011",
 		"fullCode":"420117011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛冲街道",
 		"parentCode":"420117"
 	},
@@ -91,7 +91,7 @@
 		"code":"420117012",
 		"fullCode":"420117012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐古街道",
 		"parentCode":"420117"
 	},
@@ -99,7 +99,7 @@
 		"code":"420117102",
 		"fullCode":"420117102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰镇",
 		"parentCode":"420117"
 	},
@@ -107,7 +107,7 @@
 		"code":"420117400",
 		"fullCode":"420117400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道观河风景旅游管理处",
 		"parentCode":"420117"
 	},
@@ -115,7 +115,7 @@
 		"code":"420117406",
 		"fullCode":"420117406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新洲原种场",
 		"parentCode":"420117"
 	}

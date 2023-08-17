@@ -3,7 +3,7 @@
 		"code":"120117001",
 		"fullCode":"120117001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦台街道",
 		"parentCode":"120117"
 	},
@@ -11,7 +11,7 @@
 		"code":"120117002",
 		"fullCode":"120117002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥北街道",
 		"parentCode":"120117"
 	},
@@ -19,7 +19,7 @@
 		"code":"120117102",
 		"fullCode":"120117102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁河镇",
 		"parentCode":"120117"
 	},
@@ -27,7 +27,7 @@
 		"code":"120117103",
 		"fullCode":"120117103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苗庄镇",
 		"parentCode":"120117"
 	},
@@ -35,7 +35,7 @@
 		"code":"120117104",
 		"fullCode":"120117104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰台镇",
 		"parentCode":"120117"
 	},
@@ -43,7 +43,7 @@
 		"code":"120117105",
 		"fullCode":"120117105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳龙镇",
 		"parentCode":"120117"
 	},
@@ -51,7 +51,7 @@
 		"code":"120117106",
 		"fullCode":"120117106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"120117"
 	},
@@ -59,7 +59,7 @@
 		"code":"120117107",
 		"fullCode":"120117107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘庄镇",
 		"parentCode":"120117"
 	},
@@ -67,7 +67,7 @@
 		"code":"120117109",
 		"fullCode":"120117109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"造甲城镇",
 		"parentCode":"120117"
 	},
@@ -75,7 +75,7 @@
 		"code":"120117110",
 		"fullCode":"120117110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里海镇",
 		"parentCode":"120117"
 	},
@@ -83,7 +83,7 @@
 		"code":"120117111",
 		"fullCode":"120117111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大北涧沽镇",
 		"parentCode":"120117"
 	},
@@ -91,7 +91,7 @@
 		"code":"120117112",
 		"fullCode":"120117112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东棘坨镇",
 		"parentCode":"120117"
 	},
@@ -99,7 +99,7 @@
 		"code":"120117113",
 		"fullCode":"120117113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北淮淀镇",
 		"parentCode":"120117"
 	},
@@ -107,7 +107,7 @@
 		"code":"120117114",
 		"fullCode":"120117114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俵口镇",
 		"parentCode":"120117"
 	},
@@ -115,7 +115,7 @@
 		"code":"120117115",
 		"fullCode":"120117115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"廉庄镇",
 		"parentCode":"120117"
 	},
@@ -123,7 +123,7 @@
 		"code":"120117400",
 		"fullCode":"120117400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁河区贸易开发区",
 		"parentCode":"120117"
 	},
@@ -131,7 +131,7 @@
 		"code":"120117401",
 		"fullCode":"120117401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁河区经济开发区",
 		"parentCode":"120117"
 	},
@@ -139,7 +139,7 @@
 		"code":"120117402",
 		"fullCode":"120117402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津未来科技城天津经济技术开发区片区",
 		"parentCode":"120117"
 	},
@@ -147,7 +147,7 @@
 		"code":"120117403",
 		"fullCode":"120117403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津未来科技城滨海高新区片区",
 		"parentCode":"120117"
 	},
@@ -155,7 +155,7 @@
 		"code":"120117451",
 		"fullCode":"120117451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津未来科技城宁河片区现代产业区组团",
 		"parentCode":"120117"
 	},
@@ -163,7 +163,7 @@
 		"code":"120117452",
 		"fullCode":"120117452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津未来科技城宁河片区潘庄工业区组团",
 		"parentCode":"120117"
 	},
@@ -171,7 +171,7 @@
 		"code":"120117453",
 		"fullCode":"120117453000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津未来科技城宁河片区北淮淀组团",
 		"parentCode":"120117"
 	}

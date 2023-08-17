@@ -3,7 +3,7 @@
 		"code":"140121100",
 		"fullCode":"140121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清源镇",
 		"parentCode":"140121"
 	},
@@ -11,7 +11,7 @@
 		"code":"140121101",
 		"fullCode":"140121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐沟镇",
 		"parentCode":"140121"
 	},
@@ -19,7 +19,7 @@
 		"code":"140121102",
 		"fullCode":"140121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东于镇",
 		"parentCode":"140121"
 	},
@@ -27,7 +27,7 @@
 		"code":"140121103",
 		"fullCode":"140121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟封镇",
 		"parentCode":"140121"
 	},
@@ -35,7 +35,7 @@
 		"code":"140121200",
 		"fullCode":"140121200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马峪乡",
 		"parentCode":"140121"
 	},
@@ -43,7 +43,7 @@
 		"code":"140121201",
 		"fullCode":"140121201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳杜乡",
 		"parentCode":"140121"
 	},
@@ -51,7 +51,7 @@
 		"code":"140121202",
 		"fullCode":"140121202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西谷乡",
 		"parentCode":"140121"
 	},
@@ -59,7 +59,7 @@
 		"code":"140121203",
 		"fullCode":"140121203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王答乡",
 		"parentCode":"140121"
 	},
@@ -67,7 +67,7 @@
 		"code":"140121204",
 		"fullCode":"140121204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"集义乡",
 		"parentCode":"140121"
 	}

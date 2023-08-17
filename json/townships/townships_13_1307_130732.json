@@ -3,7 +3,7 @@
 		"code":"130732100",
 		"fullCode":"130732100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤城镇",
 		"parentCode":"130732"
 	},
@@ -11,7 +11,7 @@
 		"code":"130732101",
 		"fullCode":"130732101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田家窑镇",
 		"parentCode":"130732"
 	},
@@ -19,7 +19,7 @@
 		"code":"130732102",
 		"fullCode":"130732102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙关镇",
 		"parentCode":"130732"
 	},
@@ -27,7 +27,7 @@
 		"code":"130732103",
 		"fullCode":"130732103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雕鹗镇",
 		"parentCode":"130732"
 	},
@@ -35,7 +35,7 @@
 		"code":"130732104",
 		"fullCode":"130732104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"独石口镇",
 		"parentCode":"130732"
 	},
@@ -43,7 +43,7 @@
 		"code":"130732105",
 		"fullCode":"130732105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白草镇",
 		"parentCode":"130732"
 	},
@@ -51,7 +51,7 @@
 		"code":"130732106",
 		"fullCode":"130732106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门所镇",
 		"parentCode":"130732"
 	},
@@ -59,7 +59,7 @@
 		"code":"130732107",
 		"fullCode":"130732107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后城镇",
 		"parentCode":"130732"
 	},
@@ -67,7 +67,7 @@
 		"code":"130732108",
 		"fullCode":"130732108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东卯镇",
 		"parentCode":"130732"
 	},
@@ -75,7 +75,7 @@
 		"code":"130732200",
 		"fullCode":"130732200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炮梁乡",
 		"parentCode":"130732"
 	},
@@ -83,7 +83,7 @@
 		"code":"130732201",
 		"fullCode":"130732201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大海陀乡",
 		"parentCode":"130732"
 	},
@@ -91,7 +91,7 @@
 		"code":"130732202",
 		"fullCode":"130732202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇宁堡乡",
 		"parentCode":"130732"
 	},
@@ -99,7 +99,7 @@
 		"code":"130732203",
 		"fullCode":"130732203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马营乡",
 		"parentCode":"130732"
 	},
@@ -107,7 +107,7 @@
 		"code":"130732204",
 		"fullCode":"130732204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云州乡",
 		"parentCode":"130732"
 	},
@@ -115,7 +115,7 @@
 		"code":"130732205",
 		"fullCode":"130732205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道川乡",
 		"parentCode":"130732"
 	},
@@ -123,7 +123,7 @@
 		"code":"130732206",
 		"fullCode":"130732206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东万口乡",
 		"parentCode":"130732"
 	},
@@ -131,7 +131,7 @@
 		"code":"130732207",
 		"fullCode":"130732207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨营子乡",
 		"parentCode":"130732"
 	},
@@ -139,7 +139,7 @@
 		"code":"130732208",
 		"fullCode":"130732208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"样田乡",
 		"parentCode":"130732"
 	}

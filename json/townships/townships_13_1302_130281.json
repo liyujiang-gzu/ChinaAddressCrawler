@@ -3,7 +3,7 @@
 		"code":"130281001",
 		"fullCode":"130281001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华明路街道",
 		"parentCode":"130281"
 	},
@@ -11,7 +11,7 @@
 		"code":"130281002",
 		"fullCode":"130281002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文化路街道",
 		"parentCode":"130281"
 	},
@@ -19,7 +19,7 @@
 		"code":"130281100",
 		"fullCode":"130281100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遵化镇",
 		"parentCode":"130281"
 	},
@@ -27,7 +27,7 @@
 		"code":"130281101",
 		"fullCode":"130281101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堡子店镇",
 		"parentCode":"130281"
 	},
@@ -35,7 +35,7 @@
 		"code":"130281102",
 		"fullCode":"130281102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马兰峪镇",
 		"parentCode":"130281"
 	},
@@ -43,7 +43,7 @@
 		"code":"130281103",
 		"fullCode":"130281103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安城镇",
 		"parentCode":"130281"
 	},
@@ -51,7 +51,7 @@
 		"code":"130281104",
 		"fullCode":"130281104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东新庄镇",
 		"parentCode":"130281"
 	},
@@ -59,7 +59,7 @@
 		"code":"130281105",
 		"fullCode":"130281105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店子镇",
 		"parentCode":"130281"
 	},
@@ -67,7 +67,7 @@
 		"code":"130281106",
 		"fullCode":"130281106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"党峪镇",
 		"parentCode":"130281"
 	},
@@ -75,7 +75,7 @@
 		"code":"130281107",
 		"fullCode":"130281107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地北头镇",
 		"parentCode":"130281"
 	},
@@ -83,7 +83,7 @@
 		"code":"130281108",
 		"fullCode":"130281108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东旧寨镇",
 		"parentCode":"130281"
 	},
@@ -91,7 +91,7 @@
 		"code":"130281109",
 		"fullCode":"130281109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁厂镇",
 		"parentCode":"130281"
 	},
@@ -99,7 +99,7 @@
 		"code":"130281110",
 		"fullCode":"130281110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏家洼镇",
 		"parentCode":"130281"
 	},
@@ -107,7 +107,7 @@
 		"code":"130281111",
 		"fullCode":"130281111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建明镇",
 		"parentCode":"130281"
 	},
@@ -115,7 +115,7 @@
 		"code":"130281112",
 		"fullCode":"130281112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门镇",
 		"parentCode":"130281"
 	},
@@ -123,7 +123,7 @@
 		"code":"130281113",
 		"fullCode":"130281113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崔家庄镇",
 		"parentCode":"130281"
 	},
@@ -131,7 +131,7 @@
 		"code":"130281114",
 		"fullCode":"130281114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西留村镇",
 		"parentCode":"130281"
 	},
@@ -139,7 +139,7 @@
 		"code":"130281115",
 		"fullCode":"130281115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴旺寨镇",
 		"parentCode":"130281"
 	},
@@ -147,7 +147,7 @@
 		"code":"130281116",
 		"fullCode":"130281116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西三里镇",
 		"parentCode":"130281"
 	},
@@ -155,7 +155,7 @@
 		"code":"130281203",
 		"fullCode":"130281203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西下营满族乡",
 		"parentCode":"130281"
 	},
@@ -163,7 +163,7 @@
 		"code":"130281204",
 		"fullCode":"130281204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤泉满族乡",
 		"parentCode":"130281"
 	},
@@ -171,7 +171,7 @@
 		"code":"130281205",
 		"fullCode":"130281205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东陵满族乡",
 		"parentCode":"130281"
 	},
@@ -179,7 +179,7 @@
 		"code":"130281206",
 		"fullCode":"130281206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘备寨乡",
 		"parentCode":"130281"
 	},
@@ -187,7 +187,7 @@
 		"code":"130281207",
 		"fullCode":"130281207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团瓢庄乡",
 		"parentCode":"130281"
 	},
@@ -195,7 +195,7 @@
 		"code":"130281208",
 		"fullCode":"130281208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"娘娘庄乡",
 		"parentCode":"130281"
 	},
@@ -203,7 +203,7 @@
 		"code":"130281210",
 		"fullCode":"130281210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侯家寨乡",
 		"parentCode":"130281"
 	},
@@ -211,7 +211,7 @@
 		"code":"130281211",
 		"fullCode":"130281211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小厂乡",
 		"parentCode":"130281"
 	}

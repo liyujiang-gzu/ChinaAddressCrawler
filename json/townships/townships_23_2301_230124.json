@@ -3,7 +3,7 @@
 		"code":"230124100",
 		"fullCode":"230124100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方正镇",
 		"parentCode":"230124"
 	},
@@ -11,7 +11,7 @@
 		"code":"230124101",
 		"fullCode":"230124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会发镇",
 		"parentCode":"230124"
 	},
@@ -19,7 +19,7 @@
 		"code":"230124102",
 		"fullCode":"230124102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大罗密镇",
 		"parentCode":"230124"
 	},
@@ -27,7 +27,7 @@
 		"code":"230124103",
 		"fullCode":"230124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"得莫利镇",
 		"parentCode":"230124"
 	},
@@ -35,7 +35,7 @@
 		"code":"230124200",
 		"fullCode":"230124200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天门乡",
 		"parentCode":"230124"
 	},
@@ -43,7 +43,7 @@
 		"code":"230124201",
 		"fullCode":"230124201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松南乡",
 		"parentCode":"230124"
 	},
@@ -51,7 +51,7 @@
 		"code":"230124202",
 		"fullCode":"230124202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德善乡",
 		"parentCode":"230124"
 	},
@@ -59,7 +59,7 @@
 		"code":"230124204",
 		"fullCode":"230124204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝兴乡",
 		"parentCode":"230124"
 	},
@@ -67,7 +67,7 @@
 		"code":"230124400",
 		"fullCode":"230124400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方正林业局",
 		"parentCode":"230124"
 	},
@@ -75,7 +75,7 @@
 		"code":"230124500",
 		"fullCode":"230124500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河农场",
 		"parentCode":"230124"
 	}

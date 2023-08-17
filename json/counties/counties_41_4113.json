@@ -3,7 +3,7 @@
 		"code":"411302",
 		"fullCode":"411302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宛城区",
 		"parentCode":"4113"
 	},
@@ -11,7 +11,7 @@
 		"code":"411303",
 		"fullCode":"411303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"卧龙区",
 		"parentCode":"4113"
 	},
@@ -19,7 +19,7 @@
 		"code":"411321",
 		"fullCode":"411321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南召县",
 		"parentCode":"4113"
 	},
@@ -27,7 +27,7 @@
 		"code":"411322",
 		"fullCode":"411322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"方城县",
 		"parentCode":"4113"
 	},
@@ -35,7 +35,7 @@
 		"code":"411323",
 		"fullCode":"411323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西峡县",
 		"parentCode":"4113"
 	},
@@ -43,7 +43,7 @@
 		"code":"411324",
 		"fullCode":"411324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"镇平县",
 		"parentCode":"4113"
 	},
@@ -51,7 +51,7 @@
 		"code":"411325",
 		"fullCode":"411325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"内乡县",
 		"parentCode":"4113"
 	},
@@ -59,7 +59,7 @@
 		"code":"411326",
 		"fullCode":"411326000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"淅川县",
 		"parentCode":"4113"
 	},
@@ -67,7 +67,7 @@
 		"code":"411327",
 		"fullCode":"411327000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"社旗县",
 		"parentCode":"4113"
 	},
@@ -75,7 +75,7 @@
 		"code":"411328",
 		"fullCode":"411328000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"唐河县",
 		"parentCode":"4113"
 	},
@@ -83,7 +83,7 @@
 		"code":"411329",
 		"fullCode":"411329000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新野县",
 		"parentCode":"4113"
 	},
@@ -91,7 +91,7 @@
 		"code":"411330",
 		"fullCode":"411330000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桐柏县",
 		"parentCode":"4113"
 	},
@@ -99,7 +99,7 @@
 		"code":"411371",
 		"fullCode":"411371000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南阳高新技术产业开发区",
 		"parentCode":"4113"
 	},
@@ -107,7 +107,7 @@
 		"code":"411372",
 		"fullCode":"411372000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南阳市城乡一体化示范区",
 		"parentCode":"4113"
 	},
@@ -115,7 +115,7 @@
 		"code":"411381",
 		"fullCode":"411381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"邓州市",
 		"parentCode":"4113"
 	}

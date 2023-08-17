@@ -3,7 +3,7 @@
 		"code":"632221100",
 		"fullCode":"632221100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浩门镇",
 		"parentCode":"632221"
 	},
@@ -11,7 +11,7 @@
 		"code":"632221101",
 		"fullCode":"632221101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青石咀镇",
 		"parentCode":"632221"
 	},
@@ -19,7 +19,7 @@
 		"code":"632221102",
 		"fullCode":"632221102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉口镇",
 		"parentCode":"632221"
 	},
@@ -27,7 +27,7 @@
 		"code":"632221103",
 		"fullCode":"632221103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东川镇",
 		"parentCode":"632221"
 	},
@@ -35,7 +35,7 @@
 		"code":"632221200",
 		"fullCode":"632221200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北山乡",
 		"parentCode":"632221"
 	},
@@ -43,7 +43,7 @@
 		"code":"632221201",
 		"fullCode":"632221201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻莲乡",
 		"parentCode":"632221"
 	},
@@ -51,7 +51,7 @@
 		"code":"632221202",
 		"fullCode":"632221202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西滩乡",
 		"parentCode":"632221"
 	},
@@ -59,7 +59,7 @@
 		"code":"632221203",
 		"fullCode":"632221203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阴田乡",
 		"parentCode":"632221"
 	},
@@ -67,7 +67,7 @@
 		"code":"632221204",
 		"fullCode":"632221204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙米乡",
 		"parentCode":"632221"
 	},
@@ -75,7 +75,7 @@
 		"code":"632221205",
 		"fullCode":"632221205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠固乡",
 		"parentCode":"632221"
 	},
@@ -83,7 +83,7 @@
 		"code":"632221206",
 		"fullCode":"632221206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏吉滩乡",
 		"parentCode":"632221"
 	},
@@ -91,7 +91,7 @@
 		"code":"632221207",
 		"fullCode":"632221207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇城蒙古族乡",
 		"parentCode":"632221"
 	},
@@ -99,7 +99,7 @@
 		"code":"632221400",
 		"fullCode":"632221400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门源监狱",
 		"parentCode":"632221"
 	},
@@ -107,7 +107,7 @@
 		"code":"632221401",
 		"fullCode":"632221401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门源种马场",
 		"parentCode":"632221"
 	}

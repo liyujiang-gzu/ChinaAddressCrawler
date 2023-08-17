@@ -3,7 +3,7 @@
 		"code":"520521001",
 		"fullCode":"520521001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街道",
 		"parentCode":"520521"
 	},
@@ -11,7 +11,7 @@
 		"code":"520521002",
 		"fullCode":"520521002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺德街道",
 		"parentCode":"520521"
 	},
@@ -19,7 +19,7 @@
 		"code":"520521003",
 		"fullCode":"520521003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"慕俄格古城街道",
 		"parentCode":"520521"
 	},
@@ -27,7 +27,7 @@
 		"code":"520521004",
 		"fullCode":"520521004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九驿街道",
 		"parentCode":"520521"
 	},
@@ -35,7 +35,7 @@
 		"code":"520521005",
 		"fullCode":"520521005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"归化街道",
 		"parentCode":"520521"
 	},
@@ -43,7 +43,7 @@
 		"code":"520521006",
 		"fullCode":"520521006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹏程街道",
 		"parentCode":"520521"
 	},
@@ -51,7 +51,7 @@
 		"code":"520521101",
 		"fullCode":"520521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双山镇",
 		"parentCode":"520521"
 	},
@@ -59,7 +59,7 @@
 		"code":"520521102",
 		"fullCode":"520521102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"猫场镇",
 		"parentCode":"520521"
 	},
@@ -67,7 +67,7 @@
 		"code":"520521103",
 		"fullCode":"520521103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马场镇",
 		"parentCode":"520521"
 	},
@@ -75,7 +75,7 @@
 		"code":"520521104",
 		"fullCode":"520521104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊场镇",
 		"parentCode":"520521"
 	},
@@ -83,7 +83,7 @@
 		"code":"520521105",
 		"fullCode":"520521105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄泥塘镇",
 		"parentCode":"520521"
 	},
@@ -91,7 +91,7 @@
 		"code":"520521106",
 		"fullCode":"520521106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六龙镇",
 		"parentCode":"520521"
 	},
@@ -99,7 +99,7 @@
 		"code":"520521107",
 		"fullCode":"520521107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达溪镇",
 		"parentCode":"520521"
 	},
@@ -107,7 +107,7 @@
 		"code":"520521108",
 		"fullCode":"520521108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓢井镇",
 		"parentCode":"520521"
 	},
@@ -115,7 +115,7 @@
 		"code":"520521109",
 		"fullCode":"520521109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长石镇",
 		"parentCode":"520521"
 	},
@@ -123,7 +123,7 @@
 		"code":"520521110",
 		"fullCode":"520521110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"对江镇",
 		"parentCode":"520521"
 	},
@@ -131,7 +131,7 @@
 		"code":"520521200",
 		"fullCode":"520521200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关乡",
 		"parentCode":"520521"
 	},
@@ -139,7 +139,7 @@
 		"code":"520521201",
 		"fullCode":"520521201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹园彝族苗族乡",
 		"parentCode":"520521"
 	},
@@ -147,7 +147,7 @@
 		"code":"520521202",
 		"fullCode":"520521202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"响水白族彝族仡佬族乡",
 		"parentCode":"520521"
 	},
@@ -155,7 +155,7 @@
 		"code":"520521203",
 		"fullCode":"520521203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文阁乡",
 		"parentCode":"520521"
 	},
@@ -163,7 +163,7 @@
 		"code":"520521204",
 		"fullCode":"520521204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绿塘乡",
 		"parentCode":"520521"
 	},
@@ -171,7 +171,7 @@
 		"code":"520521205",
 		"fullCode":"520521205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼎新彝族苗族乡",
 		"parentCode":"520521"
 	},
@@ -179,7 +179,7 @@
 		"code":"520521206",
 		"fullCode":"520521206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛场苗族彝族乡",
 		"parentCode":"520521"
 	},
@@ -187,7 +187,7 @@
 		"code":"520521208",
 		"fullCode":"520521208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小屯乡",
 		"parentCode":"520521"
 	},
@@ -195,7 +195,7 @@
 		"code":"520521209",
 		"fullCode":"520521209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"理化苗族彝族乡",
 		"parentCode":"520521"
 	},
@@ -203,7 +203,7 @@
 		"code":"520521211",
 		"fullCode":"520521211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤山彝族蒙古族乡",
 		"parentCode":"520521"
 	},
@@ -211,7 +211,7 @@
 		"code":"520521212",
 		"fullCode":"520521212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安乐彝族仡佬族乡",
 		"parentCode":"520521"
 	},
@@ -219,7 +219,7 @@
 		"code":"520521213",
 		"fullCode":"520521213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"核桃彝族白族乡",
 		"parentCode":"520521"
 	},
@@ -227,7 +227,7 @@
 		"code":"520521214",
 		"fullCode":"520521214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八堡彝族苗族乡",
 		"parentCode":"520521"
 	},
@@ -235,7 +235,7 @@
 		"code":"520521215",
 		"fullCode":"520521215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆苗族乡",
 		"parentCode":"520521"
 	},
@@ -243,7 +243,7 @@
 		"code":"520521216",
 		"fullCode":"520521216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"果瓦乡",
 		"parentCode":"520521"
 	},
@@ -251,7 +251,7 @@
 		"code":"520521217",
 		"fullCode":"520521217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大山苗族彝族乡",
 		"parentCode":"520521"
 	},
@@ -259,7 +259,7 @@
 		"code":"520521218",
 		"fullCode":"520521218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雨冲乡",
 		"parentCode":"520521"
 	},
@@ -267,7 +267,7 @@
 		"code":"520521219",
 		"fullCode":"520521219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄泥彝族苗族满族乡",
 		"parentCode":"520521"
 	},
@@ -275,7 +275,7 @@
 		"code":"520521220",
 		"fullCode":"520521220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大水彝族苗族布依族乡",
 		"parentCode":"520521"
 	},
@@ -283,7 +283,7 @@
 		"code":"520521221",
 		"fullCode":"520521221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙厂彝族乡",
 		"parentCode":"520521"
 	},
@@ -291,7 +291,7 @@
 		"code":"520521222",
 		"fullCode":"520521222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普底彝族苗族白族乡",
 		"parentCode":"520521"
 	},
@@ -299,7 +299,7 @@
 		"code":"520521223",
 		"fullCode":"520521223000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百纳彝族乡",
 		"parentCode":"520521"
 	},
@@ -307,7 +307,7 @@
 		"code":"520521224",
 		"fullCode":"520521224000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三元彝族苗族白族乡",
 		"parentCode":"520521"
 	},
@@ -315,7 +315,7 @@
 		"code":"520521225",
 		"fullCode":"520521225000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星宿苗族彝族仡佬族乡",
 		"parentCode":"520521"
 	}

@@ -3,7 +3,7 @@
 		"code":"610628001",
 		"fullCode":"610628001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶坊街道",
 		"parentCode":"610628"
 	},
@@ -11,7 +11,7 @@
 		"code":"610628101",
 		"fullCode":"610628101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊泉镇",
 		"parentCode":"610628"
 	},
@@ -19,7 +19,7 @@
 		"code":"610628102",
 		"fullCode":"610628102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张村驿镇",
 		"parentCode":"610628"
 	},
@@ -27,7 +27,7 @@
 		"code":"610628103",
 		"fullCode":"610628103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家湾镇",
 		"parentCode":"610628"
 	},
@@ -35,7 +35,7 @@
 		"code":"610628104",
 		"fullCode":"610628104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"直罗镇",
 		"parentCode":"610628"
 	},
@@ -43,7 +43,7 @@
 		"code":"610628106",
 		"fullCode":"610628106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛武镇",
 		"parentCode":"610628"
 	},
@@ -51,7 +51,7 @@
 		"code":"610628109",
 		"fullCode":"610628109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺仙镇",
 		"parentCode":"610628"
 	},
@@ -59,7 +59,7 @@
 		"code":"610628204",
 		"fullCode":"610628204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北道德乡",
 		"parentCode":"610628"
 	}

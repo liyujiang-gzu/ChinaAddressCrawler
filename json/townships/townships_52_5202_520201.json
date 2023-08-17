@@ -3,7 +3,7 @@
 		"code":"520201011",
 		"fullCode":"520201011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄土坡街道",
 		"parentCode":"520201"
 	},
@@ -11,7 +11,7 @@
 		"code":"520201012",
 		"fullCode":"520201012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红岩街道",
 		"parentCode":"520201"
 	},
@@ -19,7 +19,7 @@
 		"code":"520201013",
 		"fullCode":"520201013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷泉街道",
 		"parentCode":"520201"
 	},
@@ -27,7 +27,7 @@
 		"code":"520201014",
 		"fullCode":"520201014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷城街道",
 		"parentCode":"520201"
 	},
@@ -35,7 +35,7 @@
 		"code":"520201015",
 		"fullCode":"520201015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨柳街道",
 		"parentCode":"520201"
 	},
@@ -43,7 +43,7 @@
 		"code":"520201016",
 		"fullCode":"520201016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰街道",
 		"parentCode":"520201"
 	},
@@ -51,7 +51,7 @@
 		"code":"520201017",
 		"fullCode":"520201017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德坞街道",
 		"parentCode":"520201"
 	},
@@ -59,7 +59,7 @@
 		"code":"520201018",
 		"fullCode":"520201018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月照街道",
 		"parentCode":"520201"
 	},
@@ -67,7 +67,7 @@
 		"code":"520201019",
 		"fullCode":"520201019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双戛街道",
 		"parentCode":"520201"
 	},
@@ -75,7 +75,7 @@
 		"code":"520201101",
 		"fullCode":"520201101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河镇",
 		"parentCode":"520201"
 	},
@@ -83,7 +83,7 @@
 		"code":"520201102",
 		"fullCode":"520201102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪家寨镇",
 		"parentCode":"520201"
 	},
@@ -91,7 +91,7 @@
 		"code":"520201103",
 		"fullCode":"520201103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大湾镇",
 		"parentCode":"520201"
 	},
@@ -99,7 +99,7 @@
 		"code":"520201104",
 		"fullCode":"520201104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木果镇",
 		"parentCode":"520201"
 	},
@@ -107,7 +107,7 @@
 		"code":"520201105",
 		"fullCode":"520201105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保华镇",
 		"parentCode":"520201"
 	},
@@ -115,7 +115,7 @@
 		"code":"520201202",
 		"fullCode":"520201202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金盆苗族彝族乡",
 		"parentCode":"520201"
 	},
@@ -123,7 +123,7 @@
 		"code":"520201203",
 		"fullCode":"520201203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南开苗族彝族乡",
 		"parentCode":"520201"
 	},
@@ -131,7 +131,7 @@
 		"code":"520201204",
 		"fullCode":"520201204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青林苗族彝族乡",
 		"parentCode":"520201"
 	}

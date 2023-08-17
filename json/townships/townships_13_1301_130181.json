@@ -3,7 +3,7 @@
 		"code":"130181100",
 		"fullCode":"130181100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛集镇",
 		"parentCode":"130181"
 	},
@@ -11,7 +11,7 @@
 		"code":"130181101",
 		"fullCode":"130181101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧城镇",
 		"parentCode":"130181"
 	},
@@ -19,7 +19,7 @@
 		"code":"130181102",
 		"fullCode":"130181102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张古庄镇",
 		"parentCode":"130181"
 	},
@@ -27,7 +27,7 @@
 		"code":"130181103",
 		"fullCode":"130181103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"位伯镇",
 		"parentCode":"130181"
 	},
@@ -35,7 +35,7 @@
 		"code":"130181104",
 		"fullCode":"130181104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新垒头镇",
 		"parentCode":"130181"
 	},
@@ -43,7 +43,7 @@
 		"code":"130181105",
 		"fullCode":"130181105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城镇",
 		"parentCode":"130181"
 	},
@@ -51,7 +51,7 @@
 		"code":"130181106",
 		"fullCode":"130181106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南智邱镇",
 		"parentCode":"130181"
 	},
@@ -59,7 +59,7 @@
 		"code":"130181107",
 		"fullCode":"130181107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王口镇",
 		"parentCode":"130181"
 	},
@@ -67,7 +67,7 @@
 		"code":"130181200",
 		"fullCode":"130181200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天宫营乡",
 		"parentCode":"130181"
 	},
@@ -75,7 +75,7 @@
 		"code":"130181201",
 		"fullCode":"130181201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前营乡",
 		"parentCode":"130181"
 	},
@@ -83,7 +83,7 @@
 		"code":"130181202",
 		"fullCode":"130181202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马庄乡",
 		"parentCode":"130181"
 	},
@@ -91,7 +91,7 @@
 		"code":"130181203",
 		"fullCode":"130181203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和睦井乡",
 		"parentCode":"130181"
 	},
@@ -99,7 +99,7 @@
 		"code":"130181204",
 		"fullCode":"130181204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田家庄乡",
 		"parentCode":"130181"
 	},
@@ -107,7 +107,7 @@
 		"code":"130181205",
 		"fullCode":"130181205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中里厢乡",
 		"parentCode":"130181"
 	},
@@ -115,7 +115,7 @@
 		"code":"130181206",
 		"fullCode":"130181206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小辛庄乡",
 		"parentCode":"130181"
 	},
@@ -123,7 +123,7 @@
 		"code":"130181500",
 		"fullCode":"130181500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛集经济开发区",
 		"parentCode":"130181"
 	}

@@ -3,7 +3,7 @@
 		"code":"610202001",
 		"fullCode":"610202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七一路街道",
 		"parentCode":"610202"
 	},
@@ -11,7 +11,7 @@
 		"code":"610202002",
 		"fullCode":"610202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街街道",
 		"parentCode":"610202"
 	},
@@ -19,7 +19,7 @@
 		"code":"610202003",
 		"fullCode":"610202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃园街道",
 		"parentCode":"610202"
 	},
@@ -27,7 +27,7 @@
 		"code":"610202004",
 		"fullCode":"610202004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青年路街道",
 		"parentCode":"610202"
 	},
@@ -35,7 +35,7 @@
 		"code":"610202005",
 		"fullCode":"610202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家河街道",
 		"parentCode":"610202"
 	},
@@ -43,7 +43,7 @@
 		"code":"610202006",
 		"fullCode":"610202006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王益街道",
 		"parentCode":"610202"
 	},
@@ -51,7 +51,7 @@
 		"code":"610202100",
 		"fullCode":"610202100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄堡镇",
 		"parentCode":"610202"
 	}

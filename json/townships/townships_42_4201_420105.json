@@ -3,7 +3,7 @@
 		"code":"420105002",
 		"fullCode":"420105002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建桥街道",
 		"parentCode":"420105"
 	},
@@ -11,7 +11,7 @@
 		"code":"420105004",
 		"fullCode":"420105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晴川街道",
 		"parentCode":"420105"
 	},
@@ -19,7 +19,7 @@
 		"code":"420105005",
 		"fullCode":"420105005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹦鹉街道",
 		"parentCode":"420105"
 	},
@@ -27,7 +27,7 @@
 		"code":"420105006",
 		"fullCode":"420105006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洲头街道",
 		"parentCode":"420105"
 	},
@@ -35,7 +35,7 @@
 		"code":"420105007",
 		"fullCode":"420105007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里墩街道",
 		"parentCode":"420105"
 	},
@@ -43,7 +43,7 @@
 		"code":"420105008",
 		"fullCode":"420105008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琴断口街道",
 		"parentCode":"420105"
 	},
@@ -51,7 +51,7 @@
 		"code":"420105009",
 		"fullCode":"420105009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江汉二桥街道",
 		"parentCode":"420105"
 	},
@@ -59,7 +59,7 @@
 		"code":"420105010",
 		"fullCode":"420105010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰街道",
 		"parentCode":"420105"
 	},
@@ -67,7 +67,7 @@
 		"code":"420105011",
 		"fullCode":"420105011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江堤街道",
 		"parentCode":"420105"
 	},
@@ -75,7 +75,7 @@
 		"code":"420105012",
 		"fullCode":"420105012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四新街道",
 		"parentCode":"420105"
 	},
@@ -83,7 +83,7 @@
 		"code":"420105013",
 		"fullCode":"420105013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙阳街道",
 		"parentCode":"420105"
 	}

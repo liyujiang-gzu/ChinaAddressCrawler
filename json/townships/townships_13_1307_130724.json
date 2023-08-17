@@ -3,7 +3,7 @@
 		"code":"130724100",
 		"fullCode":"130724100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平定堡镇",
 		"parentCode":"130724"
 	},
@@ -11,7 +11,7 @@
 		"code":"130724101",
 		"fullCode":"130724101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小厂镇",
 		"parentCode":"130724"
 	},
@@ -19,7 +19,7 @@
 		"code":"130724102",
 		"fullCode":"130724102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄盖淖镇",
 		"parentCode":"130724"
 	},
@@ -27,7 +27,7 @@
 		"code":"130724103",
 		"fullCode":"130724103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九连城镇",
 		"parentCode":"130724"
 	},
@@ -35,7 +35,7 @@
 		"code":"130724200",
 		"fullCode":"130724200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高山堡乡",
 		"parentCode":"130724"
 	},
@@ -43,7 +43,7 @@
 		"code":"130724201",
 		"fullCode":"130724201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小河子乡",
 		"parentCode":"130724"
 	},
@@ -51,7 +51,7 @@
 		"code":"130724202",
 		"fullCode":"130724202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二道渠乡",
 		"parentCode":"130724"
 	},
@@ -59,7 +59,7 @@
 		"code":"130724203",
 		"fullCode":"130724203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大二号回族乡",
 		"parentCode":"130724"
 	},
@@ -67,7 +67,7 @@
 		"code":"130724204",
 		"fullCode":"130724204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闪电河乡",
 		"parentCode":"130724"
 	},
@@ -75,7 +75,7 @@
 		"code":"130724205",
 		"fullCode":"130724205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长梁乡",
 		"parentCode":"130724"
 	},
@@ -83,7 +83,7 @@
 		"code":"130724206",
 		"fullCode":"130724206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰源店乡",
 		"parentCode":"130724"
 	},
@@ -91,7 +91,7 @@
 		"code":"130724207",
 		"fullCode":"130724207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西辛营乡",
 		"parentCode":"130724"
 	},
@@ -99,7 +99,7 @@
 		"code":"130724208",
 		"fullCode":"130724208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花滩乡",
 		"parentCode":"130724"
 	},
@@ -107,7 +107,7 @@
 		"code":"130724209",
 		"fullCode":"130724209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白土窑乡",
 		"parentCode":"130724"
 	}

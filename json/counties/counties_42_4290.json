@@ -3,7 +3,7 @@
 		"code":"429004",
 		"fullCode":"429004000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"仙桃市",
 		"parentCode":"4290"
 	},
@@ -11,7 +11,7 @@
 		"code":"429005",
 		"fullCode":"429005000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"潜江市",
 		"parentCode":"4290"
 	},
@@ -19,7 +19,7 @@
 		"code":"429006",
 		"fullCode":"429006000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天门市",
 		"parentCode":"4290"
 	},
@@ -27,7 +27,7 @@
 		"code":"429021",
 		"fullCode":"429021000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"神农架林区",
 		"parentCode":"4290"
 	}

@@ -3,7 +3,7 @@
 		"code":"450521100",
 		"fullCode":"450521100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"廉州镇",
 		"parentCode":"450521"
 	},
@@ -11,7 +11,7 @@
 		"code":"450521101",
 		"fullCode":"450521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"党江镇",
 		"parentCode":"450521"
 	},
@@ -19,7 +19,7 @@
 		"code":"450521102",
 		"fullCode":"450521102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西场镇",
 		"parentCode":"450521"
 	},
@@ -27,7 +27,7 @@
 		"code":"450521103",
 		"fullCode":"450521103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙岗镇",
 		"parentCode":"450521"
 	},
@@ -35,7 +35,7 @@
 		"code":"450521104",
 		"fullCode":"450521104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌家镇",
 		"parentCode":"450521"
 	},
@@ -43,7 +43,7 @@
 		"code":"450521105",
 		"fullCode":"450521105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闸口镇",
 		"parentCode":"450521"
 	},
@@ -51,7 +51,7 @@
 		"code":"450521106",
 		"fullCode":"450521106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公馆镇",
 		"parentCode":"450521"
 	},
@@ -59,7 +59,7 @@
 		"code":"450521107",
 		"fullCode":"450521107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"450521"
 	},
@@ -67,7 +67,7 @@
 		"code":"450521108",
 		"fullCode":"450521108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山口镇",
 		"parentCode":"450521"
 	},
@@ -75,7 +75,7 @@
 		"code":"450521109",
 		"fullCode":"450521109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙田镇",
 		"parentCode":"450521"
 	},
@@ -83,7 +83,7 @@
 		"code":"450521110",
 		"fullCode":"450521110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石湾镇",
 		"parentCode":"450521"
 	},
@@ -91,7 +91,7 @@
 		"code":"450521111",
 		"fullCode":"450521111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石康镇",
 		"parentCode":"450521"
 	},
@@ -99,7 +99,7 @@
 		"code":"450521112",
 		"fullCode":"450521112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常乐镇",
 		"parentCode":"450521"
 	},
@@ -107,7 +107,7 @@
 		"code":"450521113",
 		"fullCode":"450521113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星岛湖镇",
 		"parentCode":"450521"
 	},
@@ -115,7 +115,7 @@
 		"code":"450521200",
 		"fullCode":"450521200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲樟乡",
 		"parentCode":"450521"
 	}

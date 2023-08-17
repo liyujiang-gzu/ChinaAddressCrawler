@@ -3,7 +3,7 @@
 		"code":"450103001",
 		"fullCode":"450103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新竹街道",
 		"parentCode":"450103"
 	},
@@ -11,7 +11,7 @@
 		"code":"450103002",
 		"fullCode":"450103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山街道",
 		"parentCode":"450103"
 	},
@@ -19,7 +19,7 @@
 		"code":"450103003",
 		"fullCode":"450103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建政街道",
 		"parentCode":"450103"
 	},
@@ -27,7 +27,7 @@
 		"code":"450103004",
 		"fullCode":"450103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖街道",
 		"parentCode":"450103"
 	},
@@ -35,7 +35,7 @@
 		"code":"450103005",
 		"fullCode":"450103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"津头街道",
 		"parentCode":"450103"
 	},
@@ -43,7 +43,7 @@
 		"code":"450103100",
 		"fullCode":"450103100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘圩镇",
 		"parentCode":"450103"
 	},
@@ -51,7 +51,7 @@
 		"code":"450103101",
 		"fullCode":"450103101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南阳镇",
 		"parentCode":"450103"
 	},
@@ -59,7 +59,7 @@
 		"code":"450103102",
 		"fullCode":"450103102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伶俐镇",
 		"parentCode":"450103"
 	},
@@ -67,7 +67,7 @@
 		"code":"450103103",
 		"fullCode":"450103103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长塘镇",
 		"parentCode":"450103"
 	},
@@ -75,7 +75,7 @@
 		"code":"450103400",
 		"fullCode":"450103400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙葫经济开发区",
 		"parentCode":"450103"
 	},
@@ -83,7 +83,7 @@
 		"code":"450103451",
 		"fullCode":"450103451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青秀山",
 		"parentCode":"450103"
 	}

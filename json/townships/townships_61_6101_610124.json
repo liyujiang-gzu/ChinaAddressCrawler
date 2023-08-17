@@ -3,7 +3,7 @@
 		"code":"610124001",
 		"fullCode":"610124001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二曲街道",
 		"parentCode":"610124"
 	},
@@ -11,7 +11,7 @@
 		"code":"610124101",
 		"fullCode":"610124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哑柏镇",
 		"parentCode":"610124"
 	},
@@ -19,7 +19,7 @@
 		"code":"610124102",
 		"fullCode":"610124102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"终南镇",
 		"parentCode":"610124"
 	},
@@ -27,7 +27,7 @@
 		"code":"610124103",
 		"fullCode":"610124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马召镇",
 		"parentCode":"610124"
 	},
@@ -35,7 +35,7 @@
 		"code":"610124104",
 		"fullCode":"610124104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"集贤镇",
 		"parentCode":"610124"
 	},
@@ -43,7 +43,7 @@
 		"code":"610124105",
 		"fullCode":"610124105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楼观镇",
 		"parentCode":"610124"
 	},
@@ -51,7 +51,7 @@
 		"code":"610124106",
 		"fullCode":"610124106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚村镇",
 		"parentCode":"610124"
 	},
@@ -59,7 +59,7 @@
 		"code":"610124107",
 		"fullCode":"610124107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广济镇",
 		"parentCode":"610124"
 	},
@@ -67,7 +67,7 @@
 		"code":"610124108",
 		"fullCode":"610124108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"厚畛子镇",
 		"parentCode":"610124"
 	},
@@ -75,7 +75,7 @@
 		"code":"610124109",
 		"fullCode":"610124109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青化镇",
 		"parentCode":"610124"
 	},
@@ -83,7 +83,7 @@
 		"code":"610124110",
 		"fullCode":"610124110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹峪镇",
 		"parentCode":"610124"
 	},
@@ -91,7 +91,7 @@
 		"code":"610124111",
 		"fullCode":"610124111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠峰镇",
 		"parentCode":"610124"
 	},
@@ -99,7 +99,7 @@
 		"code":"610124112",
 		"fullCode":"610124112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四屯镇",
 		"parentCode":"610124"
 	},
@@ -107,7 +107,7 @@
 		"code":"610124115",
 		"fullCode":"610124115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"司竹镇",
 		"parentCode":"610124"
 	},
@@ -115,7 +115,7 @@
 		"code":"610124116",
 		"fullCode":"610124116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九峰镇",
 		"parentCode":"610124"
 	},
@@ -123,7 +123,7 @@
 		"code":"610124117",
 		"fullCode":"610124117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富仁镇",
 		"parentCode":"610124"
 	},
@@ -131,7 +131,7 @@
 		"code":"610124118",
 		"fullCode":"610124118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骆峪镇",
 		"parentCode":"610124"
 	},
@@ -139,7 +139,7 @@
 		"code":"610124119",
 		"fullCode":"610124119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈河镇",
 		"parentCode":"610124"
 	},
@@ -147,7 +147,7 @@
 		"code":"610124120",
 		"fullCode":"610124120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板房子镇",
 		"parentCode":"610124"
 	},
@@ -155,7 +155,7 @@
 		"code":"610124121",
 		"fullCode":"610124121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家河镇",
 		"parentCode":"610124"
 	}

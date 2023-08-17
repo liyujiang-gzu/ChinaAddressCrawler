@@ -3,7 +3,7 @@
 		"code":"211104002",
 		"fullCode":"211104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二界沟街道",
 		"parentCode":"211104"
 	},
@@ -11,7 +11,7 @@
 		"code":"211104004",
 		"fullCode":"211104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大洼街道",
 		"parentCode":"211104"
 	},
@@ -19,7 +19,7 @@
 		"code":"211104005",
 		"fullCode":"211104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田家街道",
 		"parentCode":"211104"
 	},
@@ -27,7 +27,7 @@
 		"code":"211104006",
 		"fullCode":"211104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆树街道",
 		"parentCode":"211104"
 	},
@@ -35,7 +35,7 @@
 		"code":"211104007",
 		"fullCode":"211104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家街道",
 		"parentCode":"211104"
 	},
@@ -43,7 +43,7 @@
 		"code":"211104009",
 		"fullCode":"211104009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"于楼街道",
 		"parentCode":"211104"
 	},
@@ -51,7 +51,7 @@
 		"code":"211104101",
 		"fullCode":"211104101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田庄台镇",
 		"parentCode":"211104"
 	},
@@ -59,7 +59,7 @@
 		"code":"211104103",
 		"fullCode":"211104103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风镇",
 		"parentCode":"211104"
 	},
@@ -67,7 +67,7 @@
 		"code":"211104104",
 		"fullCode":"211104104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新开镇",
 		"parentCode":"211104"
 	},
@@ -75,7 +75,7 @@
 		"code":"211104106",
 		"fullCode":"211104106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水镇",
 		"parentCode":"211104"
 	},
@@ -83,7 +83,7 @@
 		"code":"211104107",
 		"fullCode":"211104107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴镇",
 		"parentCode":"211104"
 	},
@@ -91,7 +91,7 @@
 		"code":"211104108",
 		"fullCode":"211104108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西安镇",
 		"parentCode":"211104"
 	},
@@ -99,7 +99,7 @@
 		"code":"211104109",
 		"fullCode":"211104109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新立镇",
 		"parentCode":"211104"
 	},
@@ -107,7 +107,7 @@
 		"code":"211104112",
 		"fullCode":"211104112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐家镇",
 		"parentCode":"211104"
 	},
@@ -115,7 +115,7 @@
 		"code":"211104113",
 		"fullCode":"211104113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安镇",
 		"parentCode":"211104"
 	},
@@ -123,7 +123,7 @@
 		"code":"211104114",
 		"fullCode":"211104114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵圈河镇",
 		"parentCode":"211104"
 	}

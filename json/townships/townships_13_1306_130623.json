@@ -3,7 +3,7 @@
 		"code":"130623100",
 		"fullCode":"130623100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涞水镇",
 		"parentCode":"130623"
 	},
@@ -11,7 +11,7 @@
 		"code":"130623101",
 		"fullCode":"130623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永阳镇",
 		"parentCode":"130623"
 	},
@@ -19,7 +19,7 @@
 		"code":"130623102",
 		"fullCode":"130623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义安镇",
 		"parentCode":"130623"
 	},
@@ -27,7 +27,7 @@
 		"code":"130623103",
 		"fullCode":"130623103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石亭镇",
 		"parentCode":"130623"
 	},
@@ -35,7 +35,7 @@
 		"code":"130623104",
 		"fullCode":"130623104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵各庄镇",
 		"parentCode":"130623"
 	},
@@ -43,7 +43,7 @@
 		"code":"130623105",
 		"fullCode":"130623105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙镇",
 		"parentCode":"130623"
 	},
@@ -51,7 +51,7 @@
 		"code":"130623106",
 		"fullCode":"130623106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三坡镇",
 		"parentCode":"130623"
 	},
@@ -59,7 +59,7 @@
 		"code":"130623107",
 		"fullCode":"130623107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"一渡镇",
 		"parentCode":"130623"
 	},
@@ -67,7 +67,7 @@
 		"code":"130623108",
 		"fullCode":"130623108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明义镇",
 		"parentCode":"130623"
 	},
@@ -75,7 +75,7 @@
 		"code":"130623109",
 		"fullCode":"130623109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王村镇",
 		"parentCode":"130623"
 	},
@@ -83,7 +83,7 @@
 		"code":"130623110",
 		"fullCode":"130623110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"娄村镇",
 		"parentCode":"130623"
 	},
@@ -91,7 +91,7 @@
 		"code":"130623111",
 		"fullCode":"130623111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东文山镇",
 		"parentCode":"130623"
 	},
@@ -99,7 +99,7 @@
 		"code":"130623205",
 		"fullCode":"130623205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"其中口乡",
 		"parentCode":"130623"
 	},
@@ -107,7 +107,7 @@
 		"code":"130623206",
 		"fullCode":"130623206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门乡",
 		"parentCode":"130623"
 	},
@@ -115,7 +115,7 @@
 		"code":"130623207",
 		"fullCode":"130623207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家庄乡",
 		"parentCode":"130623"
 	},
@@ -123,7 +123,7 @@
 		"code":"130623401",
 		"fullCode":"130623401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涞水县城区社区管理办公室",
 		"parentCode":"130623"
 	}

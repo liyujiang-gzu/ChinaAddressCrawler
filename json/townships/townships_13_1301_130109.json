@@ -3,7 +3,7 @@
 		"code":"130109100",
 		"fullCode":"130109100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"廉州镇",
 		"parentCode":"130109"
 	},
@@ -11,7 +11,7 @@
 		"code":"130109101",
 		"fullCode":"130109101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴安镇",
 		"parentCode":"130109"
 	},
@@ -19,7 +19,7 @@
 		"code":"130109102",
 		"fullCode":"130109102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾市庄镇",
 		"parentCode":"130109"
 	},
@@ -27,7 +27,7 @@
 		"code":"130109103",
 		"fullCode":"130109103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南营镇",
 		"parentCode":"130109"
 	},
@@ -35,7 +35,7 @@
 		"code":"130109104",
 		"fullCode":"130109104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅花镇",
 		"parentCode":"130109"
 	},
@@ -43,7 +43,7 @@
 		"code":"130109105",
 		"fullCode":"130109105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗上镇",
 		"parentCode":"130109"
 	},
@@ -51,7 +51,7 @@
 		"code":"130109107",
 		"fullCode":"130109107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南董镇",
 		"parentCode":"130109"
 	},
@@ -59,7 +59,7 @@
 		"code":"130109108",
 		"fullCode":"130109108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家庄镇",
 		"parentCode":"130109"
 	},
@@ -67,7 +67,7 @@
 		"code":"130109109",
 		"fullCode":"130109109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南孟镇",
 		"parentCode":"130109"
 	},
@@ -75,7 +75,7 @@
 		"code":"130109110",
 		"fullCode":"130109110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"增村镇",
 		"parentCode":"130109"
 	},
@@ -83,7 +83,7 @@
 		"code":"130109111",
 		"fullCode":"130109111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常安镇",
 		"parentCode":"130109"
 	},
@@ -91,7 +91,7 @@
 		"code":"130109112",
 		"fullCode":"130109112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关镇",
 		"parentCode":"130109"
 	},
@@ -99,7 +99,7 @@
 		"code":"130109200",
 		"fullCode":"130109200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九门回族乡",
 		"parentCode":"130109"
 	},
@@ -107,7 +107,7 @@
 		"code":"130109500",
 		"fullCode":"130109500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石家庄经济技术开发区",
 		"parentCode":"130109"
 	}

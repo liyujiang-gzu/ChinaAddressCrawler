@@ -3,7 +3,7 @@
 		"code":"341103003",
 		"fullCode":"341103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙蟠街道",
 		"parentCode":"341103"
 	},
@@ -11,7 +11,7 @@
 		"code":"341103004",
 		"fullCode":"341103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银花街道",
 		"parentCode":"341103"
 	},
@@ -19,7 +19,7 @@
 		"code":"341103005",
 		"fullCode":"341103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同乐街道",
 		"parentCode":"341103"
 	},
@@ -27,7 +27,7 @@
 		"code":"341103100",
 		"fullCode":"341103100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌衣镇",
 		"parentCode":"341103"
 	},
@@ -35,7 +35,7 @@
 		"code":"341103101",
 		"fullCode":"341103101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河镇",
 		"parentCode":"341103"
 	},
@@ -43,7 +43,7 @@
 		"code":"341103102",
 		"fullCode":"341103102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章广镇",
 		"parentCode":"341103"
 	},
@@ -51,7 +51,7 @@
 		"code":"341103103",
 		"fullCode":"341103103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄泥岗镇",
 		"parentCode":"341103"
 	},
@@ -59,7 +59,7 @@
 		"code":"341103104",
 		"fullCode":"341103104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠龙镇",
 		"parentCode":"341103"
 	},
@@ -67,7 +67,7 @@
 		"code":"341103105",
 		"fullCode":"341103105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大柳镇",
 		"parentCode":"341103"
 	},
@@ -75,7 +75,7 @@
 		"code":"341103106",
 		"fullCode":"341103106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰铺镇",
 		"parentCode":"341103"
 	},
@@ -83,7 +83,7 @@
 		"code":"341103107",
 		"fullCode":"341103107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"施集镇",
 		"parentCode":"341103"
 	},
@@ -91,7 +91,7 @@
 		"code":"341103400",
 		"fullCode":"341103400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南谯工业园区",
 		"parentCode":"341103"
 	},
@@ -99,7 +99,7 @@
 		"code":"341103401",
 		"fullCode":"341103401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滁州高教科创城管委会",
 		"parentCode":"341103"
 	}

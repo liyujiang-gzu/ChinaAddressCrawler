@@ -3,7 +3,7 @@
 		"code":"640104",
 		"fullCode":"640104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴庆区",
 		"parentCode":"6401"
 	},
@@ -11,7 +11,7 @@
 		"code":"640105",
 		"fullCode":"640105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西夏区",
 		"parentCode":"6401"
 	},
@@ -19,7 +19,7 @@
 		"code":"640106",
 		"fullCode":"640106000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金凤区",
 		"parentCode":"6401"
 	},
@@ -27,7 +27,7 @@
 		"code":"640121",
 		"fullCode":"640121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永宁县",
 		"parentCode":"6401"
 	},
@@ -35,7 +35,7 @@
 		"code":"640122",
 		"fullCode":"640122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"贺兰县",
 		"parentCode":"6401"
 	},
@@ -43,7 +43,7 @@
 		"code":"640181",
 		"fullCode":"640181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"灵武市",
 		"parentCode":"6401"
 	}

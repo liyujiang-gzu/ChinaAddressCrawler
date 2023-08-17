@@ -3,7 +3,7 @@
 		"code":"220284001",
 		"fullCode":"220284001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福安街道",
 		"parentCode":"220284"
 	},
@@ -11,7 +11,7 @@
 		"code":"220284002",
 		"fullCode":"220284002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东宁街道",
 		"parentCode":"220284"
 	},
@@ -19,7 +19,7 @@
 		"code":"220284003",
 		"fullCode":"220284003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河南街道",
 		"parentCode":"220284"
 	},
@@ -27,7 +27,7 @@
 		"code":"220284070",
 		"fullCode":"220284070000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磐石经济开发区特殊街道",
 		"parentCode":"220284"
 	},
@@ -35,7 +35,7 @@
 		"code":"220284100",
 		"fullCode":"220284100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烟筒山镇",
 		"parentCode":"220284"
 	},
@@ -43,7 +43,7 @@
 		"code":"220284101",
 		"fullCode":"220284101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗岭镇",
 		"parentCode":"220284"
 	},
@@ -51,7 +51,7 @@
 		"code":"220284102",
 		"fullCode":"220284102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明城镇",
 		"parentCode":"220284"
 	},
@@ -59,7 +59,7 @@
 		"code":"220284103",
 		"fullCode":"220284103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石嘴镇",
 		"parentCode":"220284"
 	},
@@ -67,7 +67,7 @@
 		"code":"220284104",
 		"fullCode":"220284104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驿马镇",
 		"parentCode":"220284"
 	},
@@ -75,7 +75,7 @@
 		"code":"220284105",
 		"fullCode":"220284105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛心镇",
 		"parentCode":"220284"
 	},
@@ -83,7 +83,7 @@
 		"code":"220284106",
 		"fullCode":"220284106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼兰镇",
 		"parentCode":"220284"
 	},
@@ -91,7 +91,7 @@
 		"code":"220284107",
 		"fullCode":"220284107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉昌镇",
 		"parentCode":"220284"
 	},
@@ -99,7 +99,7 @@
 		"code":"220284108",
 		"fullCode":"220284108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松山镇",
 		"parentCode":"220284"
 	},
@@ -107,7 +107,7 @@
 		"code":"220284109",
 		"fullCode":"220284109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑石镇",
 		"parentCode":"220284"
 	},
@@ -115,7 +115,7 @@
 		"code":"220284110",
 		"fullCode":"220284110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳山镇",
 		"parentCode":"220284"
 	},
@@ -123,7 +123,7 @@
 		"code":"220284111",
 		"fullCode":"220284111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富太镇",
 		"parentCode":"220284"
 	},
@@ -131,7 +131,7 @@
 		"code":"220284112",
 		"fullCode":"220284112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"取柴河镇",
 		"parentCode":"220284"
 	},
@@ -139,7 +139,7 @@
 		"code":"220284200",
 		"fullCode":"220284200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝山乡",
 		"parentCode":"220284"
 	}

@@ -3,7 +3,7 @@
 		"code":"532625101",
 		"fullCode":"532625101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马白镇",
 		"parentCode":"532625"
 	},
@@ -11,7 +11,7 @@
 		"code":"532625102",
 		"fullCode":"532625102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八寨镇",
 		"parentCode":"532625"
 	},
@@ -19,7 +19,7 @@
 		"code":"532625103",
 		"fullCode":"532625103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁和镇",
 		"parentCode":"532625"
 	},
@@ -27,7 +27,7 @@
 		"code":"532625104",
 		"fullCode":"532625104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木厂镇",
 		"parentCode":"532625"
 	},
@@ -35,7 +35,7 @@
 		"code":"532625105",
 		"fullCode":"532625105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹寒箐镇",
 		"parentCode":"532625"
 	},
@@ -43,7 +43,7 @@
 		"code":"532625106",
 		"fullCode":"532625106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小坝子镇",
 		"parentCode":"532625"
 	},
@@ -51,7 +51,7 @@
 		"code":"532625107",
 		"fullCode":"532625107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都龙镇",
 		"parentCode":"532625"
 	},
@@ -59,7 +59,7 @@
 		"code":"532625108",
 		"fullCode":"532625108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金厂镇",
 		"parentCode":"532625"
 	},
@@ -67,7 +67,7 @@
 		"code":"532625109",
 		"fullCode":"532625109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坡脚镇",
 		"parentCode":"532625"
 	},
@@ -75,7 +75,7 @@
 		"code":"532625201",
 		"fullCode":"532625201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南捞乡",
 		"parentCode":"532625"
 	},
@@ -83,7 +83,7 @@
 		"code":"532625202",
 		"fullCode":"532625202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大栗树乡",
 		"parentCode":"532625"
 	},
@@ -91,7 +91,7 @@
 		"code":"532625203",
 		"fullCode":"532625203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"篾厂乡",
 		"parentCode":"532625"
 	},
@@ -99,7 +99,7 @@
 		"code":"532625204",
 		"fullCode":"532625204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古林箐乡",
 		"parentCode":"532625"
 	},
@@ -107,7 +107,7 @@
 		"code":"532625501",
 		"fullCode":"532625501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"健康农场",
 		"parentCode":"532625"
 	}

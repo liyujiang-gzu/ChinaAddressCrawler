@@ -3,7 +3,7 @@
 		"code":"130104001",
 		"fullCode":"130104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东里街道",
 		"parentCode":"130104"
 	},
@@ -11,7 +11,7 @@
 		"code":"130104002",
 		"fullCode":"130104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山街道",
 		"parentCode":"130104"
 	},
@@ -19,7 +19,7 @@
 		"code":"130104004",
 		"fullCode":"130104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南长街道",
 		"parentCode":"130104"
 	},
@@ -27,7 +27,7 @@
 		"code":"130104005",
 		"fullCode":"130104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"维明街道",
 		"parentCode":"130104"
 	},
@@ -35,7 +35,7 @@
 		"code":"130104007",
 		"fullCode":"130104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友谊街道",
 		"parentCode":"130104"
 	},
@@ -43,7 +43,7 @@
 		"code":"130104008",
 		"fullCode":"130104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街道",
 		"parentCode":"130104"
 	},
@@ -51,7 +51,7 @@
 		"code":"130104009",
 		"fullCode":"130104009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新石街道",
 		"parentCode":"130104"
 	},
@@ -59,7 +59,7 @@
 		"code":"130104010",
 		"fullCode":"130104010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苑东街道",
 		"parentCode":"130104"
 	},
@@ -67,7 +67,7 @@
 		"code":"130104011",
 		"fullCode":"130104011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西里街道",
 		"parentCode":"130104"
 	},
@@ -75,7 +75,7 @@
 		"code":"130104012",
 		"fullCode":"130104012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振头街道",
 		"parentCode":"130104"
 	},
@@ -83,7 +83,7 @@
 		"code":"130104013",
 		"fullCode":"130104013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留营街道",
 		"parentCode":"130104"
 	},
@@ -91,7 +91,7 @@
 		"code":"130104014",
 		"fullCode":"130104014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长兴街道",
 		"parentCode":"130104"
 	},
@@ -99,7 +99,7 @@
 		"code":"130104015",
 		"fullCode":"130104015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭后街道",
 		"parentCode":"130104"
 	},
@@ -107,7 +107,7 @@
 		"code":"130104016",
 		"fullCode":"130104016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风街道",
 		"parentCode":"130104"
 	},
@@ -115,7 +115,7 @@
 		"code":"130104017",
 		"fullCode":"130104017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东华街道",
 		"parentCode":"130104"
 	},
@@ -123,7 +123,7 @@
 		"code":"130104018",
 		"fullCode":"130104018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"休门街道",
 		"parentCode":"130104"
 	},
@@ -131,7 +131,7 @@
 		"code":"130104019",
 		"fullCode":"130104019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汇通街道",
 		"parentCode":"130104"
 	}

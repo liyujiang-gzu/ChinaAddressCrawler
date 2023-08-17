@@ -3,7 +3,7 @@
 		"code":"621202001",
 		"fullCode":"621202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟楼街道",
 		"parentCode":"621202"
 	},
@@ -11,7 +11,7 @@
 		"code":"621202002",
 		"fullCode":"621202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉石坝街道",
 		"parentCode":"621202"
 	},
@@ -19,7 +19,7 @@
 		"code":"621202003",
 		"fullCode":"621202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江北街道",
 		"parentCode":"621202"
 	},
@@ -27,7 +27,7 @@
 		"code":"621202004",
 		"fullCode":"621202004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江南街道",
 		"parentCode":"621202"
 	},
@@ -35,7 +35,7 @@
 		"code":"621202100",
 		"fullCode":"621202100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"621202"
 	},
@@ -43,7 +43,7 @@
 		"code":"621202101",
 		"fullCode":"621202101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安化镇",
 		"parentCode":"621202"
 	},
@@ -51,7 +51,7 @@
 		"code":"621202102",
 		"fullCode":"621202102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东江镇",
 		"parentCode":"621202"
 	},
@@ -59,7 +59,7 @@
 		"code":"621202103",
 		"fullCode":"621202103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两水镇",
 		"parentCode":"621202"
 	},
@@ -67,7 +67,7 @@
 		"code":"621202104",
 		"fullCode":"621202104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉王镇",
 		"parentCode":"621202"
 	},
@@ -75,7 +75,7 @@
 		"code":"621202105",
 		"fullCode":"621202105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛塘镇",
 		"parentCode":"621202"
 	},
@@ -83,7 +83,7 @@
 		"code":"621202106",
 		"fullCode":"621202106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"角弓镇",
 		"parentCode":"621202"
 	},
@@ -91,7 +91,7 @@
 		"code":"621202107",
 		"fullCode":"621202107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马街镇",
 		"parentCode":"621202"
 	},
@@ -99,7 +99,7 @@
 		"code":"621202108",
 		"fullCode":"621202108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三河镇",
 		"parentCode":"621202"
 	},
@@ -107,7 +107,7 @@
 		"code":"621202109",
 		"fullCode":"621202109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘泉镇",
 		"parentCode":"621202"
 	},
@@ -115,7 +115,7 @@
 		"code":"621202110",
 		"fullCode":"621202110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼龙镇",
 		"parentCode":"621202"
 	},
@@ -123,7 +123,7 @@
 		"code":"621202111",
 		"fullCode":"621202111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琵琶镇",
 		"parentCode":"621202"
 	},
@@ -131,7 +131,7 @@
 		"code":"621202112",
 		"fullCode":"621202112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"外纳镇",
 		"parentCode":"621202"
 	},
@@ -139,7 +139,7 @@
 		"code":"621202113",
 		"fullCode":"621202113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马营镇",
 		"parentCode":"621202"
 	},
@@ -147,7 +147,7 @@
 		"code":"621202114",
 		"fullCode":"621202114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏林镇",
 		"parentCode":"621202"
 	},
@@ -155,7 +155,7 @@
 		"code":"621202115",
 		"fullCode":"621202115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚寨镇",
 		"parentCode":"621202"
 	},
@@ -163,7 +163,7 @@
 		"code":"621202116",
 		"fullCode":"621202116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛崖镇",
 		"parentCode":"621202"
 	},
@@ -171,7 +171,7 @@
 		"code":"621202117",
 		"fullCode":"621202117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门镇",
 		"parentCode":"621202"
 	},
@@ -179,7 +179,7 @@
 		"code":"621202118",
 		"fullCode":"621202118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五马镇",
 		"parentCode":"621202"
 	},
@@ -187,7 +187,7 @@
 		"code":"621202119",
 		"fullCode":"621202119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕河镇",
 		"parentCode":"621202"
 	},
@@ -195,7 +195,7 @@
 		"code":"621202120",
 		"fullCode":"621202120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉林镇",
 		"parentCode":"621202"
 	},
@@ -203,7 +203,7 @@
 		"code":"621202121",
 		"fullCode":"621202121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桔柑镇",
 		"parentCode":"621202"
 	},
@@ -211,7 +211,7 @@
 		"code":"621202122",
 		"fullCode":"621202122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆兴镇",
 		"parentCode":"621202"
 	},
@@ -219,7 +219,7 @@
 		"code":"621202123",
 		"fullCode":"621202123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄坪镇",
 		"parentCode":"621202"
 	},
@@ -227,7 +227,7 @@
 		"code":"621202124",
 		"fullCode":"621202124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五库镇",
 		"parentCode":"621202"
 	},
@@ -235,7 +235,7 @@
 		"code":"621202125",
 		"fullCode":"621202125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三仓镇",
 		"parentCode":"621202"
 	},
@@ -243,7 +243,7 @@
 		"code":"621202201",
 		"fullCode":"621202201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪垭藏族乡",
 		"parentCode":"621202"
 	},
@@ -251,7 +251,7 @@
 		"code":"621202203",
 		"fullCode":"621202203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲池乡",
 		"parentCode":"621202"
 	},
@@ -259,7 +259,7 @@
 		"code":"621202211",
 		"fullCode":"621202211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"池坝乡",
 		"parentCode":"621202"
 	},
@@ -267,7 +267,7 @@
 		"code":"621202218",
 		"fullCode":"621202218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙坝乡",
 		"parentCode":"621202"
 	},
@@ -275,7 +275,7 @@
 		"code":"621202219",
 		"fullCode":"621202219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙凤乡",
 		"parentCode":"621202"
 	},
@@ -283,7 +283,7 @@
 		"code":"621202221",
 		"fullCode":"621202221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磨坝藏族乡",
 		"parentCode":"621202"
 	},
@@ -291,7 +291,7 @@
 		"code":"621202225",
 		"fullCode":"621202225000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉皇乡",
 		"parentCode":"621202"
 	},
@@ -299,7 +299,7 @@
 		"code":"621202226",
 		"fullCode":"621202226000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭河乡",
 		"parentCode":"621202"
 	},
@@ -307,7 +307,7 @@
 		"code":"621202229",
 		"fullCode":"621202229000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫相乡",
 		"parentCode":"621202"
 	},
@@ -315,7 +315,7 @@
 		"code":"621202233",
 		"fullCode":"621202233000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月照乡",
 		"parentCode":"621202"
 	}

@@ -3,7 +3,7 @@
 		"code":"220203001",
 		"fullCode":"220203001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙华街道",
 		"parentCode":"220203"
 	},
@@ -11,7 +11,7 @@
 		"code":"220203002",
 		"fullCode":"220203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湘潭街道",
 		"parentCode":"220203"
 	},
@@ -19,7 +19,7 @@
 		"code":"220203003",
 		"fullCode":"220203003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁东街道",
 		"parentCode":"220203"
 	},
@@ -27,7 +27,7 @@
 		"code":"220203004",
 		"fullCode":"220203004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泡子沿街道",
 		"parentCode":"220203"
 	},
@@ -35,7 +35,7 @@
 		"code":"220203005",
 		"fullCode":"220203005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭街道",
 		"parentCode":"220203"
 	},
@@ -43,7 +43,7 @@
 		"code":"220203006",
 		"fullCode":"220203006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新吉林街道",
 		"parentCode":"220203"
 	},
@@ -51,7 +51,7 @@
 		"code":"220203007",
 		"fullCode":"220203007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山前街道",
 		"parentCode":"220203"
 	},
@@ -59,7 +59,7 @@
 		"code":"220203008",
 		"fullCode":"220203008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安街道",
 		"parentCode":"220203"
 	},
@@ -67,7 +67,7 @@
 		"code":"220203009",
 		"fullCode":"220203009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遵义街道",
 		"parentCode":"220203"
 	},
@@ -75,7 +75,7 @@
 		"code":"220203010",
 		"fullCode":"220203010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆树街道",
 		"parentCode":"220203"
 	},
@@ -83,7 +83,7 @@
 		"code":"220203012",
 		"fullCode":"220203012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"220203"
 	},
@@ -91,7 +91,7 @@
 		"code":"220203013",
 		"fullCode":"220203013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"承德街道",
 		"parentCode":"220203"
 	},
@@ -99,7 +99,7 @@
 		"code":"220203014",
 		"fullCode":"220203014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靠山街道",
 		"parentCode":"220203"
 	},
@@ -107,7 +107,7 @@
 		"code":"220203100",
 		"fullCode":"220203100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌拉街镇",
 		"parentCode":"220203"
 	},
@@ -115,7 +115,7 @@
 		"code":"220203101",
 		"fullCode":"220203101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"缸窑镇",
 		"parentCode":"220203"
 	},
@@ -123,7 +123,7 @@
 		"code":"220203102",
 		"fullCode":"220203102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江密峰镇",
 		"parentCode":"220203"
 	},
@@ -131,7 +131,7 @@
 		"code":"220203103",
 		"fullCode":"220203103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大口钦镇",
 		"parentCode":"220203"
 	},
@@ -139,7 +139,7 @@
 		"code":"220203104",
 		"fullCode":"220203104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金珠镇",
 		"parentCode":"220203"
 	},
@@ -147,7 +147,7 @@
 		"code":"220203200",
 		"fullCode":"220203200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江北乡",
 		"parentCode":"220203"
 	},
@@ -155,7 +155,7 @@
 		"code":"220203400",
 		"fullCode":"220203400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭经济开发区",
 		"parentCode":"220203"
 	},
@@ -163,7 +163,7 @@
 		"code":"220203401",
 		"fullCode":"220203401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金珠工业区",
 		"parentCode":"220203"
 	}

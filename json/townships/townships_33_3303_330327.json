@@ -3,7 +3,7 @@
 		"code":"330327100",
 		"fullCode":"330327100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵溪镇",
 		"parentCode":"330327"
 	},
@@ -11,7 +11,7 @@
 		"code":"330327103",
 		"fullCode":"330327103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜山镇",
 		"parentCode":"330327"
 	},
@@ -19,7 +19,7 @@
 		"code":"330327104",
 		"fullCode":"330327104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱库镇",
 		"parentCode":"330327"
 	},
@@ -27,7 +27,7 @@
 		"code":"330327107",
 		"fullCode":"330327107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金乡镇",
 		"parentCode":"330327"
 	},
@@ -35,7 +35,7 @@
 		"code":"330327112",
 		"fullCode":"330327112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"藻溪镇",
 		"parentCode":"330327"
 	},
@@ -43,7 +43,7 @@
 		"code":"330327113",
 		"fullCode":"330327113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥墩镇",
 		"parentCode":"330327"
 	},
@@ -51,7 +51,7 @@
 		"code":"330327116",
 		"fullCode":"330327116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矾山镇",
 		"parentCode":"330327"
 	},
@@ -59,7 +59,7 @@
 		"code":"330327117",
 		"fullCode":"330327117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤溪镇",
 		"parentCode":"330327"
 	},
@@ -67,7 +67,7 @@
 		"code":"330327118",
 		"fullCode":"330327118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马站镇",
 		"parentCode":"330327"
 	},
@@ -75,7 +75,7 @@
 		"code":"330327122",
 		"fullCode":"330327122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望里镇",
 		"parentCode":"330327"
 	},
@@ -83,7 +83,7 @@
 		"code":"330327123",
 		"fullCode":"330327123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炎亭镇",
 		"parentCode":"330327"
 	},
@@ -91,7 +91,7 @@
 		"code":"330327124",
 		"fullCode":"330327124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大渔镇",
 		"parentCode":"330327"
 	},
@@ -99,7 +99,7 @@
 		"code":"330327125",
 		"fullCode":"330327125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莒溪镇",
 		"parentCode":"330327"
 	},
@@ -107,7 +107,7 @@
 		"code":"330327126",
 		"fullCode":"330327126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南宋镇",
 		"parentCode":"330327"
 	},
@@ -115,7 +115,7 @@
 		"code":"330327127",
 		"fullCode":"330327127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞关镇",
 		"parentCode":"330327"
 	},
@@ -123,7 +123,7 @@
 		"code":"330327128",
 		"fullCode":"330327128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿浦镇",
 		"parentCode":"330327"
 	},
@@ -131,7 +131,7 @@
 		"code":"330327216",
 		"fullCode":"330327216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤阳畲族乡",
 		"parentCode":"330327"
 	},
@@ -139,7 +139,7 @@
 		"code":"330327218",
 		"fullCode":"330327218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岱岭畲族乡",
 		"parentCode":"330327"
 	}

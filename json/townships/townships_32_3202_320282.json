@@ -3,7 +3,7 @@
 		"code":"320282001",
 		"fullCode":"320282001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜城街道",
 		"parentCode":"320282"
 	},
@@ -11,7 +11,7 @@
 		"code":"320282002",
 		"fullCode":"320282002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屺亭街道",
 		"parentCode":"320282"
 	},
@@ -19,7 +19,7 @@
 		"code":"320282003",
 		"fullCode":"320282003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新庄街道",
 		"parentCode":"320282"
 	},
@@ -27,7 +27,7 @@
 		"code":"320282004",
 		"fullCode":"320282004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街街道",
 		"parentCode":"320282"
 	},
@@ -35,7 +35,7 @@
 		"code":"320282005",
 		"fullCode":"320282005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芳桥街道",
 		"parentCode":"320282"
 	},
@@ -43,7 +43,7 @@
 		"code":"320282100",
 		"fullCode":"320282100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张渚镇",
 		"parentCode":"320282"
 	},
@@ -51,7 +51,7 @@
 		"code":"320282101",
 		"fullCode":"320282101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西渚镇",
 		"parentCode":"320282"
 	},
@@ -59,7 +59,7 @@
 		"code":"320282102",
 		"fullCode":"320282102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太华镇",
 		"parentCode":"320282"
 	},
@@ -67,7 +67,7 @@
 		"code":"320282103",
 		"fullCode":"320282103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐舍镇",
 		"parentCode":"320282"
 	},
@@ -75,7 +75,7 @@
 		"code":"320282104",
 		"fullCode":"320282104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官林镇",
 		"parentCode":"320282"
 	},
@@ -83,7 +83,7 @@
 		"code":"320282105",
 		"fullCode":"320282105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨巷镇",
 		"parentCode":"320282"
 	},
@@ -91,7 +91,7 @@
 		"code":"320282106",
 		"fullCode":"320282106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新建镇",
 		"parentCode":"320282"
 	},
@@ -99,7 +99,7 @@
 		"code":"320282107",
 		"fullCode":"320282107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和桥镇",
 		"parentCode":"320282"
 	},
@@ -107,7 +107,7 @@
 		"code":"320282108",
 		"fullCode":"320282108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高塍镇",
 		"parentCode":"320282"
 	},
@@ -115,7 +115,7 @@
 		"code":"320282109",
 		"fullCode":"320282109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万石镇",
 		"parentCode":"320282"
 	},
@@ -123,7 +123,7 @@
 		"code":"320282110",
 		"fullCode":"320282110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周铁镇",
 		"parentCode":"320282"
 	},
@@ -131,7 +131,7 @@
 		"code":"320282112",
 		"fullCode":"320282112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁蜀镇",
 		"parentCode":"320282"
 	},
@@ -139,7 +139,7 @@
 		"code":"320282113",
 		"fullCode":"320282113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖父镇",
 		"parentCode":"320282"
 	},
@@ -147,7 +147,7 @@
 		"code":"320282400",
 		"fullCode":"320282400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"环科园",
 		"parentCode":"320282"
 	},
@@ -155,7 +155,7 @@
 		"code":"320282401",
 		"fullCode":"320282401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜兴经济开发区",
 		"parentCode":"320282"
 	},
@@ -163,7 +163,7 @@
 		"code":"320282402",
 		"fullCode":"320282402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳羡旅游度假区",
 		"parentCode":"320282"
 	}

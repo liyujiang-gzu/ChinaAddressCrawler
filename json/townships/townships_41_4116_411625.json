@@ -3,7 +3,7 @@
 		"code":"411625001",
 		"fullCode":"411625001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洺南街道",
 		"parentCode":"411625"
 	},
@@ -11,7 +11,7 @@
 		"code":"411625002",
 		"fullCode":"411625002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洺北街道",
 		"parentCode":"411625"
 	},
@@ -19,7 +19,7 @@
 		"code":"411625003",
 		"fullCode":"411625003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"411625"
 	},
@@ -27,7 +27,7 @@
 		"code":"411625101",
 		"fullCode":"411625101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴台镇",
 		"parentCode":"411625"
 	},
@@ -35,7 +35,7 @@
 		"code":"411625102",
 		"fullCode":"411625102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南丰镇",
 		"parentCode":"411625"
 	},
@@ -43,7 +43,7 @@
 		"code":"411625103",
 		"fullCode":"411625103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马镇",
 		"parentCode":"411625"
 	},
@@ -51,7 +51,7 @@
 		"code":"411625104",
 		"fullCode":"411625104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁平镇",
 		"parentCode":"411625"
 	},
@@ -59,7 +59,7 @@
 		"code":"411625105",
 		"fullCode":"411625105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜路镇",
 		"parentCode":"411625"
 	},
@@ -67,7 +67,7 @@
 		"code":"411625106",
 		"fullCode":"411625106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱店镇",
 		"parentCode":"411625"
 	},
@@ -75,7 +75,7 @@
 		"code":"411625107",
 		"fullCode":"411625107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汲冢镇",
 		"parentCode":"411625"
 	},
@@ -83,7 +83,7 @@
 		"code":"411625108",
 		"fullCode":"411625108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石槽镇",
 		"parentCode":"411625"
 	},
@@ -91,7 +91,7 @@
 		"code":"411625109",
 		"fullCode":"411625109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汲水镇",
 		"parentCode":"411625"
 	},
@@ -99,7 +99,7 @@
 		"code":"411625200",
 		"fullCode":"411625200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊乡",
 		"parentCode":"411625"
 	},
@@ -107,7 +107,7 @@
 		"code":"411625201",
 		"fullCode":"411625201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎岗乡",
 		"parentCode":"411625"
 	},
@@ -115,7 +115,7 @@
 		"code":"411625203",
 		"fullCode":"411625203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张完集乡",
 		"parentCode":"411625"
 	},
@@ -123,7 +123,7 @@
 		"code":"411625204",
 		"fullCode":"411625204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁村乡",
 		"parentCode":"411625"
 	},
@@ -131,7 +131,7 @@
 		"code":"411625205",
 		"fullCode":"411625205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双楼乡",
 		"parentCode":"411625"
 	},
@@ -139,7 +139,7 @@
 		"code":"411625206",
 		"fullCode":"411625206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秋渠乡",
 		"parentCode":"411625"
 	},
@@ -147,7 +147,7 @@
 		"code":"411625207",
 		"fullCode":"411625207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风乡",
 		"parentCode":"411625"
 	},
@@ -155,7 +155,7 @@
 		"code":"411625208",
 		"fullCode":"411625208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴集乡",
 		"parentCode":"411625"
 	},
@@ -163,7 +163,7 @@
 		"code":"411625209",
 		"fullCode":"411625209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李楼乡",
 		"parentCode":"411625"
 	},
@@ -171,7 +171,7 @@
 		"code":"411625210",
 		"fullCode":"411625210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡集乡",
 		"parentCode":"411625"
 	}

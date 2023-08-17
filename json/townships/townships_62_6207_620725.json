@@ -3,7 +3,7 @@
 		"code":"620725101",
 		"fullCode":"620725101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清泉镇",
 		"parentCode":"620725"
 	},
@@ -11,7 +11,7 @@
 		"code":"620725102",
 		"fullCode":"620725102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"位奇镇",
 		"parentCode":"620725"
 	},
@@ -19,7 +19,7 @@
 		"code":"620725103",
 		"fullCode":"620725103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霍城镇",
 		"parentCode":"620725"
 	},
@@ -27,7 +27,7 @@
 		"code":"620725104",
 		"fullCode":"620725104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈户镇",
 		"parentCode":"620725"
 	},
@@ -35,7 +35,7 @@
 		"code":"620725105",
 		"fullCode":"620725105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大马营镇",
 		"parentCode":"620725"
 	},
@@ -43,7 +43,7 @@
 		"code":"620725106",
 		"fullCode":"620725106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东乐镇",
 		"parentCode":"620725"
 	},
@@ -51,7 +51,7 @@
 		"code":"620725203",
 		"fullCode":"620725203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老军乡",
 		"parentCode":"620725"
 	},
@@ -59,7 +59,7 @@
 		"code":"620725204",
 		"fullCode":"620725204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李桥乡",
 		"parentCode":"620725"
 	},
@@ -67,7 +67,7 @@
 		"code":"620725400",
 		"fullCode":"620725400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营山丹农场",
 		"parentCode":"620725"
 	},
@@ -75,7 +75,7 @@
 		"code":"620725402",
 		"fullCode":"620725402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中牧公司山丹马场",
 		"parentCode":"620725"
 	}

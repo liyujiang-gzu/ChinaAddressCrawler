@@ -3,7 +3,7 @@
 		"code":"321181001",
 		"fullCode":"321181001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云阳街道",
 		"parentCode":"321181"
 	},
@@ -11,7 +11,7 @@
 		"code":"321181002",
 		"fullCode":"321181002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲阿街道",
 		"parentCode":"321181"
 	},
@@ -19,7 +19,7 @@
 		"code":"321181100",
 		"fullCode":"321181100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"司徒镇",
 		"parentCode":"321181"
 	},
@@ -27,7 +27,7 @@
 		"code":"321181101",
 		"fullCode":"321181101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延陵镇",
 		"parentCode":"321181"
 	},
@@ -35,7 +35,7 @@
 		"code":"321181102",
 		"fullCode":"321181102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珥陵镇",
 		"parentCode":"321181"
 	},
@@ -43,7 +43,7 @@
 		"code":"321181103",
 		"fullCode":"321181103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"导墅镇",
 		"parentCode":"321181"
 	},
@@ -51,7 +51,7 @@
 		"code":"321181104",
 		"fullCode":"321181104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇塘镇",
 		"parentCode":"321181"
 	},
@@ -59,7 +59,7 @@
 		"code":"321181105",
 		"fullCode":"321181105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吕城镇",
 		"parentCode":"321181"
 	},
@@ -67,7 +67,7 @@
 		"code":"321181106",
 		"fullCode":"321181106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陵口镇",
 		"parentCode":"321181"
 	},
@@ -75,7 +75,7 @@
 		"code":"321181107",
 		"fullCode":"321181107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"访仙镇",
 		"parentCode":"321181"
 	},
@@ -83,7 +83,7 @@
 		"code":"321181108",
 		"fullCode":"321181108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界牌镇",
 		"parentCode":"321181"
 	},
@@ -91,7 +91,7 @@
 		"code":"321181113",
 		"fullCode":"321181113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹北镇",
 		"parentCode":"321181"
 	}

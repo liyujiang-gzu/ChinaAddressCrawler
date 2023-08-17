@@ -3,7 +3,7 @@
 		"code":"632222100",
 		"fullCode":"632222100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八宝镇",
 		"parentCode":"632222"
 	},
@@ -11,7 +11,7 @@
 		"code":"632222101",
 		"fullCode":"632222101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峨堡镇",
 		"parentCode":"632222"
 	},
@@ -19,7 +19,7 @@
 		"code":"632222102",
 		"fullCode":"632222102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"默勒镇",
 		"parentCode":"632222"
 	},
@@ -27,7 +27,7 @@
 		"code":"632222200",
 		"fullCode":"632222200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎麻什乡",
 		"parentCode":"632222"
 	},
@@ -35,7 +35,7 @@
 		"code":"632222201",
 		"fullCode":"632222201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿柔乡",
 		"parentCode":"632222"
 	},
@@ -43,7 +43,7 @@
 		"code":"632222202",
 		"fullCode":"632222202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"野牛沟乡",
 		"parentCode":"632222"
 	},
@@ -51,7 +51,7 @@
 		"code":"632222203",
 		"fullCode":"632222203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"央隆乡",
 		"parentCode":"632222"
 	}

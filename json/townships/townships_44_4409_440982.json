@@ -3,7 +3,7 @@
 		"code":"440982001",
 		"fullCode":"440982001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西街道",
 		"parentCode":"440982"
 	},
@@ -11,7 +11,7 @@
 		"code":"440982002",
 		"fullCode":"440982002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山街道",
 		"parentCode":"440982"
 	},
@@ -19,7 +19,7 @@
 		"code":"440982003",
 		"fullCode":"440982003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下郭街道",
 		"parentCode":"440982"
 	},
@@ -27,7 +27,7 @@
 		"code":"440982004",
 		"fullCode":"440982004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南盛街道",
 		"parentCode":"440982"
 	},
@@ -35,7 +35,7 @@
 		"code":"440982005",
 		"fullCode":"440982005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石湾街道",
 		"parentCode":"440982"
 	},
@@ -43,7 +43,7 @@
 		"code":"440982006",
 		"fullCode":"440982006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鉴江街道",
 		"parentCode":"440982"
 	},
@@ -51,7 +51,7 @@
 		"code":"440982100",
 		"fullCode":"440982100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岐镇",
 		"parentCode":"440982"
 	},
@@ -59,7 +59,7 @@
 		"code":"440982101",
 		"fullCode":"440982101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同庆镇",
 		"parentCode":"440982"
 	},
@@ -67,7 +67,7 @@
 		"code":"440982102",
 		"fullCode":"440982102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨梅镇",
 		"parentCode":"440982"
 	},
@@ -75,7 +75,7 @@
 		"code":"440982103",
 		"fullCode":"440982103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良光镇",
 		"parentCode":"440982"
 	},
@@ -83,7 +83,7 @@
 		"code":"440982104",
 		"fullCode":"440982104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"笪桥镇",
 		"parentCode":"440982"
 	},
@@ -91,7 +91,7 @@
 		"code":"440982106",
 		"fullCode":"440982106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丽岗镇",
 		"parentCode":"440982"
 	},
@@ -99,7 +99,7 @@
 		"code":"440982107",
 		"fullCode":"440982107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安镇",
 		"parentCode":"440982"
 	},
@@ -107,7 +107,7 @@
 		"code":"440982108",
 		"fullCode":"440982108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官桥镇",
 		"parentCode":"440982"
 	},
@@ -115,7 +115,7 @@
 		"code":"440982110",
 		"fullCode":"440982110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林尘镇",
 		"parentCode":"440982"
 	},
@@ -123,7 +123,7 @@
 		"code":"440982112",
 		"fullCode":"440982112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合江镇",
 		"parentCode":"440982"
 	},
@@ -131,7 +131,7 @@
 		"code":"440982113",
 		"fullCode":"440982113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那务镇",
 		"parentCode":"440982"
 	},
@@ -139,7 +139,7 @@
 		"code":"440982114",
 		"fullCode":"440982114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"播扬镇",
 		"parentCode":"440982"
 	},
@@ -147,7 +147,7 @@
 		"code":"440982115",
 		"fullCode":"440982115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝圩镇",
 		"parentCode":"440982"
 	},
@@ -155,7 +155,7 @@
 		"code":"440982116",
 		"fullCode":"440982116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平定镇",
 		"parentCode":"440982"
 	},
@@ -163,7 +163,7 @@
 		"code":"440982117",
 		"fullCode":"440982117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文楼镇",
 		"parentCode":"440982"
 	},
@@ -171,7 +171,7 @@
 		"code":"440982118",
 		"fullCode":"440982118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江湖镇",
 		"parentCode":"440982"
 	},
@@ -179,7 +179,7 @@
 		"code":"440982120",
 		"fullCode":"440982120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中垌镇",
 		"parentCode":"440982"
 	},
@@ -187,7 +187,7 @@
 		"code":"440982401",
 		"fullCode":"440982401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新时代农场",
 		"parentCode":"440982"
 	},
@@ -195,7 +195,7 @@
 		"code":"440982402",
 		"fullCode":"440982402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华农场",
 		"parentCode":"440982"
 	},
@@ -203,7 +203,7 @@
 		"code":"440982403",
 		"fullCode":"440982403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平农场",
 		"parentCode":"440982"
 	},
@@ -211,7 +211,7 @@
 		"code":"440982404",
 		"fullCode":"440982404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红阳农场",
 		"parentCode":"440982"
 	},
@@ -219,7 +219,7 @@
 		"code":"440982405",
 		"fullCode":"440982405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红峰农场",
 		"parentCode":"440982"
 	},
@@ -227,7 +227,7 @@
 		"code":"440982406",
 		"fullCode":"440982406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设农场",
 		"parentCode":"440982"
 	},
@@ -235,7 +235,7 @@
 		"code":"440982407",
 		"fullCode":"440982407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石滩农场",
 		"parentCode":"440982"
 	}

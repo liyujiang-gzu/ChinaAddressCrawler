@@ -3,7 +3,7 @@
 		"code":"450502001",
 		"fullCode":"450502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中街街道",
 		"parentCode":"450502"
 	},
@@ -11,7 +11,7 @@
 		"code":"450502002",
 		"fullCode":"450502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东街街道",
 		"parentCode":"450502"
 	},
@@ -19,7 +19,7 @@
 		"code":"450502003",
 		"fullCode":"450502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西街街道",
 		"parentCode":"450502"
 	},
@@ -27,7 +27,7 @@
 		"code":"450502004",
 		"fullCode":"450502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海角街道",
 		"parentCode":"450502"
 	},
@@ -35,7 +35,7 @@
 		"code":"450502005",
 		"fullCode":"450502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地角街道",
 		"parentCode":"450502"
 	},
@@ -43,7 +43,7 @@
 		"code":"450502006",
 		"fullCode":"450502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高德街道",
 		"parentCode":"450502"
 	},
@@ -51,7 +51,7 @@
 		"code":"450502007",
 		"fullCode":"450502007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驿马街道",
 		"parentCode":"450502"
 	},
@@ -59,7 +59,7 @@
 		"code":"450502100",
 		"fullCode":"450502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涠洲镇",
 		"parentCode":"450502"
 	}

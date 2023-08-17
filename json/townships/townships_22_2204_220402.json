@@ -3,7 +3,7 @@
 		"code":"220402001",
 		"fullCode":"220402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东吉街道",
 		"parentCode":"220402"
 	},
@@ -11,7 +11,7 @@
 		"code":"220402002",
 		"fullCode":"220402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南康街道",
 		"parentCode":"220402"
 	},
@@ -19,7 +19,7 @@
 		"code":"220402003",
 		"fullCode":"220402003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北寿街道",
 		"parentCode":"220402"
 	},
@@ -27,7 +27,7 @@
 		"code":"220402004",
 		"fullCode":"220402004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西宁街道",
 		"parentCode":"220402"
 	},
@@ -35,7 +35,7 @@
 		"code":"220402005",
 		"fullCode":"220402005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站前街道",
 		"parentCode":"220402"
 	},
@@ -43,7 +43,7 @@
 		"code":"220402006",
 		"fullCode":"220402006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳街道",
 		"parentCode":"220402"
 	},
@@ -51,7 +51,7 @@
 		"code":"220402007",
 		"fullCode":"220402007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴街道",
 		"parentCode":"220402"
 	},
@@ -59,7 +59,7 @@
 		"code":"220402008",
 		"fullCode":"220402008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福镇街道",
 		"parentCode":"220402"
 	},
@@ -67,7 +67,7 @@
 		"code":"220402070",
 		"fullCode":"220402070000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽源经济开发区特殊街道",
 		"parentCode":"220402"
 	},
@@ -75,7 +75,7 @@
 		"code":"220402100",
 		"fullCode":"220402100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寿山镇",
 		"parentCode":"220402"
 	},
@@ -83,7 +83,7 @@
 		"code":"220402200",
 		"fullCode":"220402200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工农乡",
 		"parentCode":"220402"
 	}

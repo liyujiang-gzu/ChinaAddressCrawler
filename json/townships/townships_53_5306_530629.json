@@ -3,7 +3,7 @@
 		"code":"530629101",
 		"fullCode":"530629101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎西镇",
 		"parentCode":"530629"
 	},
@@ -11,7 +11,7 @@
 		"code":"530629102",
 		"fullCode":"530629102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧城镇",
 		"parentCode":"530629"
 	},
@@ -19,7 +19,7 @@
 		"code":"530629103",
 		"fullCode":"530629103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗布镇",
 		"parentCode":"530629"
 	},
@@ -27,7 +27,7 @@
 		"code":"530629104",
 		"fullCode":"530629104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麟凤镇",
 		"parentCode":"530629"
 	},
@@ -35,7 +35,7 @@
 		"code":"530629105",
 		"fullCode":"530629105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安镇",
 		"parentCode":"530629"
 	},
@@ -43,7 +43,7 @@
 		"code":"530629106",
 		"fullCode":"530629106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙沟镇",
 		"parentCode":"530629"
 	},
@@ -51,7 +51,7 @@
 		"code":"530629107",
 		"fullCode":"530629107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水田镇",
 		"parentCode":"530629"
 	},
@@ -59,7 +59,7 @@
 		"code":"530629201",
 		"fullCode":"530629201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河苗族彝族乡",
 		"parentCode":"530629"
 	},
@@ -67,7 +67,7 @@
 		"code":"530629202",
 		"fullCode":"530629202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高田乡",
 		"parentCode":"530629"
 	},
@@ -75,7 +75,7 @@
 		"code":"530629207",
 		"fullCode":"530629207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三桃乡",
 		"parentCode":"530629"
 	}

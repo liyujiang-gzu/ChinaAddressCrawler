@@ -3,7 +3,7 @@
 		"code":"450181100",
 		"fullCode":"450181100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横州镇",
 		"parentCode":"450181"
 	},
@@ -11,7 +11,7 @@
 		"code":"450181101",
 		"fullCode":"450181101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百合镇",
 		"parentCode":"450181"
 	},
@@ -19,7 +19,7 @@
 		"code":"450181102",
 		"fullCode":"450181102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那阳镇",
 		"parentCode":"450181"
 	},
@@ -27,7 +27,7 @@
 		"code":"450181103",
 		"fullCode":"450181103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南乡镇",
 		"parentCode":"450181"
 	},
@@ -35,7 +35,7 @@
 		"code":"450181104",
 		"fullCode":"450181104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新福镇",
 		"parentCode":"450181"
 	},
@@ -43,7 +43,7 @@
 		"code":"450181105",
 		"fullCode":"450181105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲塘镇",
 		"parentCode":"450181"
 	},
@@ -51,7 +51,7 @@
 		"code":"450181106",
 		"fullCode":"450181106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平马镇",
 		"parentCode":"450181"
 	},
@@ -59,7 +59,7 @@
 		"code":"450181107",
 		"fullCode":"450181107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峦城镇",
 		"parentCode":"450181"
 	},
@@ -67,7 +67,7 @@
 		"code":"450181108",
 		"fullCode":"450181108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六景镇",
 		"parentCode":"450181"
 	},
@@ -75,7 +75,7 @@
 		"code":"450181110",
 		"fullCode":"450181110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石塘镇",
 		"parentCode":"450181"
 	},
@@ -83,7 +83,7 @@
 		"code":"450181112",
 		"fullCode":"450181112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶圩镇",
 		"parentCode":"450181"
 	},
@@ -91,7 +91,7 @@
 		"code":"450181113",
 		"fullCode":"450181113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"校椅镇",
 		"parentCode":"450181"
 	},
@@ -99,7 +99,7 @@
 		"code":"450181114",
 		"fullCode":"450181114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云表镇",
 		"parentCode":"450181"
 	},
@@ -107,7 +107,7 @@
 		"code":"450181115",
 		"fullCode":"450181115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马岭镇",
 		"parentCode":"450181"
 	},
@@ -115,7 +115,7 @@
 		"code":"450181118",
 		"fullCode":"450181118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马山镇",
 		"parentCode":"450181"
 	},
@@ -123,7 +123,7 @@
 		"code":"450181119",
 		"fullCode":"450181119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平朗镇",
 		"parentCode":"450181"
 	},
@@ -131,7 +131,7 @@
 		"code":"450181204",
 		"fullCode":"450181204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇龙乡",
 		"parentCode":"450181"
 	},
@@ -139,7 +139,7 @@
 		"code":"450181400",
 		"fullCode":"450181400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南宁六景工业园区",
 		"parentCode":"450181"
 	}

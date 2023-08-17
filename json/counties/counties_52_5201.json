@@ -3,7 +3,7 @@
 		"code":"520102",
 		"fullCode":"520102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南明区",
 		"parentCode":"5201"
 	},
@@ -11,7 +11,7 @@
 		"code":"520103",
 		"fullCode":"520103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"云岩区",
 		"parentCode":"5201"
 	},
@@ -19,7 +19,7 @@
 		"code":"520111",
 		"fullCode":"520111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"花溪区",
 		"parentCode":"5201"
 	},
@@ -27,7 +27,7 @@
 		"code":"520112",
 		"fullCode":"520112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌当区",
 		"parentCode":"5201"
 	},
@@ -35,7 +35,7 @@
 		"code":"520113",
 		"fullCode":"520113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"白云区",
 		"parentCode":"5201"
 	},
@@ -43,7 +43,7 @@
 		"code":"520115",
 		"fullCode":"520115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"观山湖区",
 		"parentCode":"5201"
 	},
@@ -51,7 +51,7 @@
 		"code":"520121",
 		"fullCode":"520121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"开阳县",
 		"parentCode":"5201"
 	},
@@ -59,7 +59,7 @@
 		"code":"520122",
 		"fullCode":"520122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"息烽县",
 		"parentCode":"5201"
 	},
@@ -67,7 +67,7 @@
 		"code":"520123",
 		"fullCode":"520123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"修文县",
 		"parentCode":"5201"
 	},
@@ -75,7 +75,7 @@
 		"code":"520181",
 		"fullCode":"520181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"清镇市",
 		"parentCode":"5201"
 	}

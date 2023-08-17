@@ -3,7 +3,7 @@
 		"code":"530681001",
 		"fullCode":"530681001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云富街道",
 		"parentCode":"530681"
 	},
@@ -11,7 +11,7 @@
 		"code":"530681101",
 		"fullCode":"530681101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向家坝镇",
 		"parentCode":"530681"
 	},
@@ -19,7 +19,7 @@
 		"code":"530681102",
 		"fullCode":"530681102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"530681"
 	},
@@ -27,7 +27,7 @@
 		"code":"530681103",
 		"fullCode":"530681103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两碗镇",
 		"parentCode":"530681"
 	}

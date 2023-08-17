@@ -3,7 +3,7 @@
 		"code":"533102001",
 		"fullCode":"533102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐卯街道",
 		"parentCode":"533102"
 	},
@@ -11,7 +11,7 @@
 		"code":"533102102",
 		"fullCode":"533102102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"畹町镇",
 		"parentCode":"533102"
 	},
@@ -19,7 +19,7 @@
 		"code":"533102103",
 		"fullCode":"533102103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弄岛镇",
 		"parentCode":"533102"
 	},
@@ -27,7 +27,7 @@
 		"code":"533102104",
 		"fullCode":"533102104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姐相镇",
 		"parentCode":"533102"
 	},
@@ -35,7 +35,7 @@
 		"code":"533102202",
 		"fullCode":"533102202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"户育乡",
 		"parentCode":"533102"
 	},
@@ -43,7 +43,7 @@
 		"code":"533102203",
 		"fullCode":"533102203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐秀乡",
 		"parentCode":"533102"
 	},
@@ -51,7 +51,7 @@
 		"code":"533102400",
 		"fullCode":"533102400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑞丽农场",
 		"parentCode":"533102"
 	},
@@ -59,7 +59,7 @@
 		"code":"533102401",
 		"fullCode":"533102401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"畹町农场",
 		"parentCode":"533102"
 	}

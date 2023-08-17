@@ -3,7 +3,7 @@
 		"code":"371371001",
 		"fullCode":"371371001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗西街道",
 		"parentCode":"371371"
 	},
@@ -11,7 +11,7 @@
 		"code":"371371100",
 		"fullCode":"371371100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马厂湖镇",
 		"parentCode":"371371"
 	}

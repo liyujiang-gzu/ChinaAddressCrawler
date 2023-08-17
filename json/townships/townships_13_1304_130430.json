@@ -3,7 +3,7 @@
 		"code":"130430100",
 		"fullCode":"130430100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新马头镇",
 		"parentCode":"130430"
 	},
@@ -11,7 +11,7 @@
 		"code":"130430101",
 		"fullCode":"130430101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邱城镇",
 		"parentCode":"130430"
 	},
@@ -19,7 +19,7 @@
 		"code":"130430102",
 		"fullCode":"130430102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁二庄镇",
 		"parentCode":"130430"
 	},
@@ -27,7 +27,7 @@
 		"code":"130430103",
 		"fullCode":"130430103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香城固镇",
 		"parentCode":"130430"
 	},
@@ -35,7 +35,7 @@
 		"code":"130430104",
 		"fullCode":"130430104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城营镇",
 		"parentCode":"130430"
 	},
@@ -43,7 +43,7 @@
 		"code":"130430201",
 		"fullCode":"130430201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南辛店乡",
 		"parentCode":"130430"
 	},
@@ -51,7 +51,7 @@
 		"code":"130430204",
 		"fullCode":"130430204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈村回族乡",
 		"parentCode":"130430"
 	}

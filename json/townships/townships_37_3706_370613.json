@@ -3,7 +3,7 @@
 		"code":"370613001",
 		"fullCode":"370613001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄海路街道",
 		"parentCode":"370613"
 	},
@@ -11,7 +11,7 @@
 		"code":"370613002",
 		"fullCode":"370613002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"初家街道",
 		"parentCode":"370613"
 	},
@@ -19,7 +19,7 @@
 		"code":"370613003",
 		"fullCode":"370613003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海路街道",
 		"parentCode":"370613"
 	},
@@ -27,7 +27,7 @@
 		"code":"370613004",
 		"fullCode":"370613004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解甲庄街道",
 		"parentCode":"370613"
 	},
@@ -35,7 +35,7 @@
 		"code":"370613005",
 		"fullCode":"370613005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莱山街道",
 		"parentCode":"370613"
 	},
@@ -43,7 +43,7 @@
 		"code":"370613006",
 		"fullCode":"370613006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"院格庄街道",
 		"parentCode":"370613"
 	}

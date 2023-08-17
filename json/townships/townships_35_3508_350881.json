@@ -3,7 +3,7 @@
 		"code":"350881001",
 		"fullCode":"350881001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菁城街道",
 		"parentCode":"350881"
 	},
@@ -11,7 +11,7 @@
 		"code":"350881002",
 		"fullCode":"350881002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂林街道",
 		"parentCode":"350881"
 	},
@@ -19,7 +19,7 @@
 		"code":"350881100",
 		"fullCode":"350881100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥镇",
 		"parentCode":"350881"
 	},
@@ -27,7 +27,7 @@
 		"code":"350881101",
 		"fullCode":"350881101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双洋镇",
 		"parentCode":"350881"
 	},
@@ -35,7 +35,7 @@
 		"code":"350881102",
 		"fullCode":"350881102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永福镇",
 		"parentCode":"350881"
 	},
@@ -43,7 +43,7 @@
 		"code":"350881103",
 		"fullCode":"350881103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪南镇",
 		"parentCode":"350881"
 	},
@@ -51,7 +51,7 @@
 		"code":"350881104",
 		"fullCode":"350881104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平镇",
 		"parentCode":"350881"
 	},
@@ -59,7 +59,7 @@
 		"code":"350881105",
 		"fullCode":"350881105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拱桥镇",
 		"parentCode":"350881"
 	},
@@ -67,7 +67,7 @@
 		"code":"350881106",
 		"fullCode":"350881106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象湖镇",
 		"parentCode":"350881"
 	},
@@ -75,7 +75,7 @@
 		"code":"350881107",
 		"fullCode":"350881107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤水镇",
 		"parentCode":"350881"
 	},
@@ -83,7 +83,7 @@
 		"code":"350881108",
 		"fullCode":"350881108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西园镇",
 		"parentCode":"350881"
 	},
@@ -91,7 +91,7 @@
 		"code":"350881109",
 		"fullCode":"350881109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南洋镇",
 		"parentCode":"350881"
 	},
@@ -99,7 +99,7 @@
 		"code":"350881110",
 		"fullCode":"350881110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦芝镇",
 		"parentCode":"350881"
 	},
@@ -107,7 +107,7 @@
 		"code":"350881203",
 		"fullCode":"350881203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官田乡",
 		"parentCode":"350881"
 	},
@@ -115,7 +115,7 @@
 		"code":"350881204",
 		"fullCode":"350881204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吾祠乡",
 		"parentCode":"350881"
 	},
@@ -123,7 +123,7 @@
 		"code":"350881205",
 		"fullCode":"350881205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵地乡",
 		"parentCode":"350881"
 	}

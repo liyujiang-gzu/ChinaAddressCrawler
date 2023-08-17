@@ -3,7 +3,7 @@
 		"code":"510182001",
 		"fullCode":"510182001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天彭街道",
 		"parentCode":"510182"
 	},
@@ -11,7 +11,7 @@
 		"code":"510182002",
 		"fullCode":"510182002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆丰街道",
 		"parentCode":"510182"
 	},
@@ -19,7 +19,7 @@
 		"code":"510182003",
 		"fullCode":"510182003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濛阳街道",
 		"parentCode":"510182"
 	},
@@ -27,7 +27,7 @@
 		"code":"510182004",
 		"fullCode":"510182004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"致和街道",
 		"parentCode":"510182"
 	},
@@ -35,7 +35,7 @@
 		"code":"510182101",
 		"fullCode":"510182101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门山镇",
 		"parentCode":"510182"
 	},
@@ -43,7 +43,7 @@
 		"code":"510182103",
 		"fullCode":"510182103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丽春镇",
 		"parentCode":"510182"
 	},
@@ -51,7 +51,7 @@
 		"code":"510182104",
 		"fullCode":"510182104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九尺镇",
 		"parentCode":"510182"
 	},
@@ -59,7 +59,7 @@
 		"code":"510182106",
 		"fullCode":"510182106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通济镇",
 		"parentCode":"510182"
 	},
@@ -67,7 +67,7 @@
 		"code":"510182107",
 		"fullCode":"510182107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹景山镇",
 		"parentCode":"510182"
 	},
@@ -75,7 +75,7 @@
 		"code":"510182109",
 		"fullCode":"510182109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敖平镇",
 		"parentCode":"510182"
 	},
@@ -83,7 +83,7 @@
 		"code":"510182111",
 		"fullCode":"510182111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂花镇",
 		"parentCode":"510182"
 	},
@@ -91,7 +91,7 @@
 		"code":"510182121",
 		"fullCode":"510182121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鹿镇",
 		"parentCode":"510182"
 	},
@@ -99,7 +99,7 @@
 		"code":"510182123",
 		"fullCode":"510182123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛仙山镇",
 		"parentCode":"510182"
 	}

@@ -3,7 +3,7 @@
 		"code":"340303001",
 		"fullCode":"340303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天桥街道",
 		"parentCode":"340303"
 	},
@@ -11,7 +11,7 @@
 		"code":"340303002",
 		"fullCode":"340303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青年街道",
 		"parentCode":"340303"
 	},
@@ -19,7 +19,7 @@
 		"code":"340303003",
 		"fullCode":"340303003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纬二路街道",
 		"parentCode":"340303"
 	},
@@ -27,7 +27,7 @@
 		"code":"340303004",
 		"fullCode":"340303004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄庄街道",
 		"parentCode":"340303"
 	},
@@ -35,7 +35,7 @@
 		"code":"340303005",
 		"fullCode":"340303005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏业村街道",
 		"parentCode":"340303"
 	},
@@ -43,7 +43,7 @@
 		"code":"340303010",
 		"fullCode":"340303010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利街道",
 		"parentCode":"340303"
 	},
@@ -51,7 +51,7 @@
 		"code":"340303011",
 		"fullCode":"340303011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湖新村街道",
 		"parentCode":"340303"
 	},
@@ -59,7 +59,7 @@
 		"code":"340303200",
 		"fullCode":"340303200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕山乡",
 		"parentCode":"340303"
 	},
@@ -67,7 +67,7 @@
 		"code":"340303201",
 		"fullCode":"340303201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪华乡",
 		"parentCode":"340303"
 	},
@@ -75,7 +75,7 @@
 		"code":"340303401",
 		"fullCode":"340303401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖滨社区行政事务管理中心",
 		"parentCode":"340303"
 	},
@@ -83,7 +83,7 @@
 		"code":"340303402",
 		"fullCode":"340303402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淮河社区行政事务管理中心",
 		"parentCode":"340303"
 	}

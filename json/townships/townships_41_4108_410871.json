@@ -3,7 +3,7 @@
 		"code":"410871060",
 		"fullCode":"410871060000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李万街道",
 		"parentCode":"410871"
 	},
@@ -11,7 +11,7 @@
 		"code":"410871061",
 		"fullCode":"410871061000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文苑街道",
 		"parentCode":"410871"
 	},
@@ -19,7 +19,7 @@
 		"code":"410871062",
 		"fullCode":"410871062000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌街道",
 		"parentCode":"410871"
 	},
@@ -27,7 +27,7 @@
 		"code":"410871100",
 		"fullCode":"410871100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳庙镇",
 		"parentCode":"410871"
 	},
@@ -35,7 +35,7 @@
 		"code":"410871101",
 		"fullCode":"410871101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁郭镇",
 		"parentCode":"410871"
 	},
@@ -43,7 +43,7 @@
 		"code":"410871203",
 		"fullCode":"410871203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏家作乡",
 		"parentCode":"410871"
 	}

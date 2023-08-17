@@ -3,7 +3,7 @@
 		"code":"330683001",
 		"fullCode":"330683001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"剡湖街道",
 		"parentCode":"330683"
 	},
@@ -11,7 +11,7 @@
 		"code":"330683002",
 		"fullCode":"330683002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三江街道",
 		"parentCode":"330683"
 	},
@@ -19,7 +19,7 @@
 		"code":"330683003",
 		"fullCode":"330683003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿山街道",
 		"parentCode":"330683"
 	},
@@ -27,7 +27,7 @@
 		"code":"330683005",
 		"fullCode":"330683005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浦口街道",
 		"parentCode":"330683"
 	},
@@ -35,7 +35,7 @@
 		"code":"330683100",
 		"fullCode":"330683100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘霖镇",
 		"parentCode":"330683"
 	},
@@ -43,7 +43,7 @@
 		"code":"330683101",
 		"fullCode":"330683101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长乐镇",
 		"parentCode":"330683"
 	},
@@ -51,7 +51,7 @@
 		"code":"330683102",
 		"fullCode":"330683102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇仁镇",
 		"parentCode":"330683"
 	},
@@ -59,7 +59,7 @@
 		"code":"330683103",
 		"fullCode":"330683103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄泽镇",
 		"parentCode":"330683"
 	},
@@ -67,7 +67,7 @@
 		"code":"330683104",
 		"fullCode":"330683104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三界镇",
 		"parentCode":"330683"
 	},
@@ -75,7 +75,7 @@
 		"code":"330683105",
 		"fullCode":"330683105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石璜镇",
 		"parentCode":"330683"
 	},
@@ -83,7 +83,7 @@
 		"code":"330683106",
 		"fullCode":"330683106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷来镇",
 		"parentCode":"330683"
 	},
@@ -91,7 +91,7 @@
 		"code":"330683107",
 		"fullCode":"330683107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙岩镇",
 		"parentCode":"330683"
 	},
@@ -99,7 +99,7 @@
 		"code":"330683108",
 		"fullCode":"330683108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金庭镇",
 		"parentCode":"330683"
 	},
@@ -107,7 +107,7 @@
 		"code":"330683110",
 		"fullCode":"330683110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下王镇",
 		"parentCode":"330683"
 	},
@@ -115,7 +115,7 @@
 		"code":"330683200",
 		"fullCode":"330683200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贵门乡",
 		"parentCode":"330683"
 	}

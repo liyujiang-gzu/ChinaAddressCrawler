@@ -3,7 +3,7 @@
 		"code":"360830001",
 		"fullCode":"360830001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三月坪街道",
 		"parentCode":"360830"
 	},
@@ -11,7 +11,7 @@
 		"code":"360830100",
 		"fullCode":"360830100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾川镇",
 		"parentCode":"360830"
 	},
@@ -19,7 +19,7 @@
 		"code":"360830101",
 		"fullCode":"360830101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥镇",
 		"parentCode":"360830"
 	},
@@ -27,7 +27,7 @@
 		"code":"360830102",
 		"fullCode":"360830102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙源口镇",
 		"parentCode":"360830"
 	},
@@ -35,7 +35,7 @@
 		"code":"360830103",
 		"fullCode":"360830103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澧田镇",
 		"parentCode":"360830"
 	},
@@ -43,7 +43,7 @@
 		"code":"360830104",
 		"fullCode":"360830104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门镇",
 		"parentCode":"360830"
 	},
@@ -51,7 +51,7 @@
 		"code":"360830105",
 		"fullCode":"360830105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙市镇",
 		"parentCode":"360830"
 	},
@@ -59,7 +59,7 @@
 		"code":"360830106",
 		"fullCode":"360830106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文竹镇",
 		"parentCode":"360830"
 	},
@@ -67,7 +67,7 @@
 		"code":"360830107",
 		"fullCode":"360830107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"埠前镇",
 		"parentCode":"360830"
 	},
@@ -75,7 +75,7 @@
 		"code":"360830108",
 		"fullCode":"360830108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀忠镇",
 		"parentCode":"360830"
 	},
@@ -83,7 +83,7 @@
 		"code":"360830109",
 		"fullCode":"360830109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥楼镇",
 		"parentCode":"360830"
 	},
@@ -91,7 +91,7 @@
 		"code":"360830200",
 		"fullCode":"360830200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坳南乡",
 		"parentCode":"360830"
 	},
@@ -99,7 +99,7 @@
 		"code":"360830201",
 		"fullCode":"360830201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲白乡",
 		"parentCode":"360830"
 	},
@@ -107,7 +107,7 @@
 		"code":"360830202",
 		"fullCode":"360830202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"才丰乡",
 		"parentCode":"360830"
 	},
@@ -115,7 +115,7 @@
 		"code":"360830203",
 		"fullCode":"360830203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烟阁乡",
 		"parentCode":"360830"
 	},
@@ -123,7 +123,7 @@
 		"code":"360830204",
 		"fullCode":"360830204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"在中乡",
 		"parentCode":"360830"
 	},
@@ -131,7 +131,7 @@
 		"code":"360830205",
 		"fullCode":"360830205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三湾乡",
 		"parentCode":"360830"
 	},
@@ -139,7 +139,7 @@
 		"code":"360830206",
 		"fullCode":"360830206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台岭乡",
 		"parentCode":"360830"
 	},
@@ -147,7 +147,7 @@
 		"code":"360830207",
 		"fullCode":"360830207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙田乡",
 		"parentCode":"360830"
 	},
@@ -155,7 +155,7 @@
 		"code":"360830208",
 		"fullCode":"360830208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高溪乡",
 		"parentCode":"360830"
 	},
@@ -163,7 +163,7 @@
 		"code":"360830209",
 		"fullCode":"360830209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲洲乡",
 		"parentCode":"360830"
 	},
@@ -171,7 +171,7 @@
 		"code":"360830210",
 		"fullCode":"360830210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高市乡",
 		"parentCode":"360830"
 	},
@@ -179,7 +179,7 @@
 		"code":"360830211",
 		"fullCode":"360830211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象形乡",
 		"parentCode":"360830"
 	},
@@ -187,7 +187,7 @@
 		"code":"360830212",
 		"fullCode":"360830212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦溪乡",
 		"parentCode":"360830"
 	},
@@ -195,7 +195,7 @@
 		"code":"360830400",
 		"fullCode":"360830400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永新县工业园区",
 		"parentCode":"360830"
 	}

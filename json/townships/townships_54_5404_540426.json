@@ -3,7 +3,7 @@
 		"code":"540426100",
 		"fullCode":"540426100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朗镇",
 		"parentCode":"540426"
 	},
@@ -11,7 +11,7 @@
 		"code":"540426101",
 		"fullCode":"540426101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仲达镇",
 		"parentCode":"540426"
 	},
@@ -19,7 +19,7 @@
 		"code":"540426102",
 		"fullCode":"540426102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洞嘎镇",
 		"parentCode":"540426"
 	},
@@ -27,7 +27,7 @@
 		"code":"540426200",
 		"fullCode":"540426200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉多乡",
 		"parentCode":"540426"
 	},
@@ -35,7 +35,7 @@
 		"code":"540426201",
 		"fullCode":"540426201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金东乡",
 		"parentCode":"540426"
 	},
@@ -43,7 +43,7 @@
 		"code":"540426202",
 		"fullCode":"540426202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"登木乡",
 		"parentCode":"540426"
 	}

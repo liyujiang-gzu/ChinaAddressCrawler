@@ -3,7 +3,7 @@
 		"code":"130532001",
 		"fullCode":"130532001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华路街道",
 		"parentCode":"130532"
 	},
@@ -11,7 +11,7 @@
 		"code":"130532101",
 		"fullCode":"130532101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平乡镇",
 		"parentCode":"130532"
 	},
@@ -19,7 +19,7 @@
 		"code":"130532102",
 		"fullCode":"130532102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河古庙镇",
 		"parentCode":"130532"
 	},
@@ -27,7 +27,7 @@
 		"code":"130532103",
 		"fullCode":"130532103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田付村镇",
 		"parentCode":"130532"
 	},
@@ -35,7 +35,7 @@
 		"code":"130532104",
 		"fullCode":"130532104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"节固镇",
 		"parentCode":"130532"
 	},
@@ -43,7 +43,7 @@
 		"code":"130532201",
 		"fullCode":"130532201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"油召乡",
 		"parentCode":"130532"
 	},
@@ -51,7 +51,7 @@
 		"code":"130532203",
 		"fullCode":"130532203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寻召乡",
 		"parentCode":"130532"
 	}

@@ -3,7 +3,7 @@
 		"code":"610203001",
 		"fullCode":"610203001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"610203"
 	},
@@ -11,7 +11,7 @@
 		"code":"610203002",
 		"fullCode":"610203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里洞街道",
 		"parentCode":"610203"
 	},
@@ -19,7 +19,7 @@
 		"code":"610203003",
 		"fullCode":"610203003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王石凹街道",
 		"parentCode":"610203"
 	},
@@ -27,7 +27,7 @@
 		"code":"610203004",
 		"fullCode":"610203004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"印台街道",
 		"parentCode":"610203"
 	},
@@ -35,7 +35,7 @@
 		"code":"610203100",
 		"fullCode":"610203100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈炉镇",
 		"parentCode":"610203"
 	},
@@ -43,7 +43,7 @@
 		"code":"610203101",
 		"fullCode":"610203101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红土镇",
 		"parentCode":"610203"
 	},
@@ -51,7 +51,7 @@
 		"code":"610203102",
 		"fullCode":"610203102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广阳镇",
 		"parentCode":"610203"
 	},
@@ -59,7 +59,7 @@
 		"code":"610203104",
 		"fullCode":"610203104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金锁关镇",
 		"parentCode":"610203"
 	},
@@ -67,7 +67,7 @@
 		"code":"610203106",
 		"fullCode":"610203106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿庄镇",
 		"parentCode":"610203"
 	}

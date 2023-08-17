@@ -3,7 +3,7 @@
 		"code":"130207001",
 		"fullCode":"130207001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青年路街道",
 		"parentCode":"130207"
 	},
@@ -11,7 +11,7 @@
 		"code":"130207100",
 		"fullCode":"130207100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胥各庄镇",
 		"parentCode":"130207"
 	},
@@ -19,7 +19,7 @@
 		"code":"130207103",
 		"fullCode":"130207103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小集镇",
 		"parentCode":"130207"
 	},
@@ -27,7 +27,7 @@
 		"code":"130207104",
 		"fullCode":"130207104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄各庄镇",
 		"parentCode":"130207"
 	},
@@ -35,7 +35,7 @@
 		"code":"130207105",
 		"fullCode":"130207105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西葛镇",
 		"parentCode":"130207"
 	},
@@ -43,7 +43,7 @@
 		"code":"130207106",
 		"fullCode":"130207106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大新庄镇",
 		"parentCode":"130207"
 	},
@@ -51,7 +51,7 @@
 		"code":"130207107",
 		"fullCode":"130207107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱营镇",
 		"parentCode":"130207"
 	},
@@ -59,7 +59,7 @@
 		"code":"130207108",
 		"fullCode":"130207108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐坊镇",
 		"parentCode":"130207"
 	},
@@ -67,7 +67,7 @@
 		"code":"130207109",
 		"fullCode":"130207109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王兰庄镇",
 		"parentCode":"130207"
 	},
@@ -75,7 +75,7 @@
 		"code":"130207110",
 		"fullCode":"130207110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳树瞿阝镇",
 		"parentCode":"130207"
 	},
@@ -83,7 +83,7 @@
 		"code":"130207111",
 		"fullCode":"130207111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑沿子镇",
 		"parentCode":"130207"
 	},
@@ -91,7 +91,7 @@
 		"code":"130207114",
 		"fullCode":"130207114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大齐各庄镇",
 		"parentCode":"130207"
 	},
@@ -99,7 +99,7 @@
 		"code":"130207116",
 		"fullCode":"130207116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岔河镇",
 		"parentCode":"130207"
 	},
@@ -107,7 +107,7 @@
 		"code":"130207117",
 		"fullCode":"130207117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南孙庄镇",
 		"parentCode":"130207"
 	},
@@ -115,7 +115,7 @@
 		"code":"130207202",
 		"fullCode":"130207202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东田庄乡",
 		"parentCode":"130207"
 	},
@@ -123,7 +123,7 @@
 		"code":"130207203",
 		"fullCode":"130207203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尖字沽乡",
 		"parentCode":"130207"
 	}

@@ -3,7 +3,7 @@
 		"code":"652828100",
 		"fullCode":"652828100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"特吾里克镇",
 		"parentCode":"652828"
 	},
@@ -11,7 +11,7 @@
 		"code":"652828101",
 		"fullCode":"652828101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔哈其镇",
 		"parentCode":"652828"
 	},
@@ -19,7 +19,7 @@
 		"code":"652828102",
 		"fullCode":"652828102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲惠镇",
 		"parentCode":"652828"
 	},
@@ -27,7 +27,7 @@
 		"code":"652828200",
 		"fullCode":"652828200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌什塔拉回族民族乡",
 		"parentCode":"652828"
 	},
@@ -35,7 +35,7 @@
 		"code":"652828203",
 		"fullCode":"652828203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏哈特乡",
 		"parentCode":"652828"
 	},
@@ -43,7 +43,7 @@
 		"code":"652828204",
 		"fullCode":"652828204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乃仁克尔乡",
 		"parentCode":"652828"
 	},
@@ -51,7 +51,7 @@
 		"code":"652828205",
 		"fullCode":"652828205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新塔热乡",
 		"parentCode":"652828"
 	},
@@ -59,7 +59,7 @@
 		"code":"652828400",
 		"fullCode":"652828400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水河农场",
 		"parentCode":"652828"
 	},
@@ -67,7 +67,7 @@
 		"code":"652828402",
 		"fullCode":"652828402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和硕县马兰公安管区",
 		"parentCode":"652828"
 	}

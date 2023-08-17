@@ -3,7 +3,7 @@
 		"code":"420982001",
 		"fullCode":"420982001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"府城街道",
 		"parentCode":"420982"
 	},
@@ -11,7 +11,7 @@
 		"code":"420982002",
 		"fullCode":"420982002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城街道",
 		"parentCode":"420982"
 	},
@@ -19,7 +19,7 @@
 		"code":"420982100",
 		"fullCode":"420982100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵棚镇",
 		"parentCode":"420982"
 	},
@@ -27,7 +27,7 @@
 		"code":"420982101",
 		"fullCode":"420982101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李店镇",
 		"parentCode":"420982"
 	},
@@ -35,7 +35,7 @@
 		"code":"420982102",
 		"fullCode":"420982102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巡店镇",
 		"parentCode":"420982"
 	},
@@ -43,7 +43,7 @@
 		"code":"420982103",
 		"fullCode":"420982103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棠棣镇",
 		"parentCode":"420982"
 	},
@@ -51,7 +51,7 @@
 		"code":"420982104",
 		"fullCode":"420982104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷公镇",
 		"parentCode":"420982"
 	},
@@ -59,7 +59,7 @@
 		"code":"420982105",
 		"fullCode":"420982105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王义贞镇",
 		"parentCode":"420982"
 	},
@@ -67,7 +67,7 @@
 		"code":"420982106",
 		"fullCode":"420982106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烟店镇",
 		"parentCode":"420982"
 	},
@@ -75,7 +75,7 @@
 		"code":"420982107",
 		"fullCode":"420982107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孛畈镇",
 		"parentCode":"420982"
 	},
@@ -83,7 +83,7 @@
 		"code":"420982108",
 		"fullCode":"420982108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洑水镇",
 		"parentCode":"420982"
 	},
@@ -91,7 +91,7 @@
 		"code":"420982200",
 		"fullCode":"420982200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈店乡",
 		"parentCode":"420982"
 	},
@@ -99,7 +99,7 @@
 		"code":"420982201",
 		"fullCode":"420982201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛榨乡",
 		"parentCode":"420982"
 	},
@@ -107,7 +107,7 @@
 		"code":"420982202",
 		"fullCode":"420982202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木梓乡",
 		"parentCode":"420982"
 	},
@@ -115,7 +115,7 @@
 		"code":"420982203",
 		"fullCode":"420982203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"接官乡",
 		"parentCode":"420982"
 	},
@@ -123,7 +123,7 @@
 		"code":"420982400",
 		"fullCode":"420982400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开发区",
 		"parentCode":"420982"
 	}

@@ -3,7 +3,7 @@
 		"code":"500153001",
 		"fullCode":"500153001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌元街道",
 		"parentCode":"500153"
 	},
@@ -11,7 +11,7 @@
 		"code":"500153002",
 		"fullCode":"500153002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌州街道",
 		"parentCode":"500153"
 	},
@@ -19,7 +19,7 @@
 		"code":"500153003",
 		"fullCode":"500153003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广顺街道",
 		"parentCode":"500153"
 	},
@@ -27,7 +27,7 @@
 		"code":"500153004",
 		"fullCode":"500153004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河街道",
 		"parentCode":"500153"
 	},
@@ -35,7 +35,7 @@
 		"code":"500153005",
 		"fullCode":"500153005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安富街道",
 		"parentCode":"500153"
 	},
@@ -43,7 +43,7 @@
 		"code":"500153006",
 		"fullCode":"500153006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峰高街道",
 		"parentCode":"500153"
 	},
@@ -51,7 +51,7 @@
 		"code":"500153100",
 		"fullCode":"500153100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣隆镇",
 		"parentCode":"500153"
 	},
@@ -59,7 +59,7 @@
 		"code":"500153101",
 		"fullCode":"500153101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁义镇",
 		"parentCode":"500153"
 	},
@@ -67,7 +67,7 @@
 		"code":"500153102",
 		"fullCode":"500153102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘龙镇",
 		"parentCode":"500153"
 	},
@@ -75,7 +75,7 @@
 		"code":"500153103",
 		"fullCode":"500153103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴家镇",
 		"parentCode":"500153"
 	},
@@ -83,7 +83,7 @@
 		"code":"500153104",
 		"fullCode":"500153104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"直升镇",
 		"parentCode":"500153"
 	},
@@ -91,7 +91,7 @@
 		"code":"500153105",
 		"fullCode":"500153105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万灵镇",
 		"parentCode":"500153"
 	},
@@ -99,7 +99,7 @@
 		"code":"500153106",
 		"fullCode":"500153106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清升镇",
 		"parentCode":"500153"
 	},
@@ -107,7 +107,7 @@
 		"code":"500153107",
 		"fullCode":"500153107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清江镇",
 		"parentCode":"500153"
 	},
@@ -115,7 +115,7 @@
 		"code":"500153108",
 		"fullCode":"500153108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古昌镇",
 		"parentCode":"500153"
 	},
@@ -123,7 +123,7 @@
 		"code":"500153109",
 		"fullCode":"500153109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河包镇",
 		"parentCode":"500153"
 	},
@@ -131,7 +131,7 @@
 		"code":"500153110",
 		"fullCode":"500153110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观胜镇",
 		"parentCode":"500153"
 	},
@@ -139,7 +139,7 @@
 		"code":"500153111",
 		"fullCode":"500153111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜鼓镇",
 		"parentCode":"500153"
 	},
@@ -147,7 +147,7 @@
 		"code":"500153112",
 		"fullCode":"500153112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清流镇",
 		"parentCode":"500153"
 	},
@@ -155,7 +155,7 @@
 		"code":"500153113",
 		"fullCode":"500153113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"远觉镇",
 		"parentCode":"500153"
 	},
@@ -163,7 +163,7 @@
 		"code":"500153114",
 		"fullCode":"500153114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙集镇",
 		"parentCode":"500153"
 	}

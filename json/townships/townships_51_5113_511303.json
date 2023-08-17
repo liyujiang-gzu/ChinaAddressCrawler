@@ -3,7 +3,7 @@
 		"code":"511303001",
 		"fullCode":"511303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔街道",
 		"parentCode":"511303"
 	},
@@ -11,7 +11,7 @@
 		"code":"511303002",
 		"fullCode":"511303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清溪街道",
 		"parentCode":"511303"
 	},
@@ -19,7 +19,7 @@
 		"code":"511303003",
 		"fullCode":"511303003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小龙街道",
 		"parentCode":"511303"
 	},
@@ -27,7 +27,7 @@
 		"code":"511303004",
 		"fullCode":"511303004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门街道",
 		"parentCode":"511303"
 	},
@@ -35,7 +35,7 @@
 		"code":"511303005",
 		"fullCode":"511303005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青莲街道",
 		"parentCode":"511303"
 	},
@@ -43,7 +43,7 @@
 		"code":"511303006",
 		"fullCode":"511303006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都京街道",
 		"parentCode":"511303"
 	},
@@ -51,7 +51,7 @@
 		"code":"511303008",
 		"fullCode":"511303008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老君街道",
 		"parentCode":"511303"
 	},
@@ -59,7 +59,7 @@
 		"code":"511303009",
 		"fullCode":"511303009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"螺溪街道",
 		"parentCode":"511303"
 	},
@@ -67,7 +67,7 @@
 		"code":"511303103",
 		"fullCode":"511303103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江陵镇",
 		"parentCode":"511303"
 	},
@@ -75,7 +75,7 @@
 		"code":"511303104",
 		"fullCode":"511303104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"擦耳镇",
 		"parentCode":"511303"
 	},
@@ -83,7 +83,7 @@
 		"code":"511303106",
 		"fullCode":"511303106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东观镇",
 		"parentCode":"511303"
 	},
@@ -91,7 +91,7 @@
 		"code":"511303107",
 		"fullCode":"511303107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长乐镇",
 		"parentCode":"511303"
 	},
@@ -99,7 +99,7 @@
 		"code":"511303108",
 		"fullCode":"511303108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜观镇",
 		"parentCode":"511303"
 	},
@@ -107,7 +107,7 @@
 		"code":"511303110",
 		"fullCode":"511303110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阙家镇",
 		"parentCode":"511303"
 	},
@@ -115,7 +115,7 @@
 		"code":"511303111",
 		"fullCode":"511303111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石圭镇",
 		"parentCode":"511303"
 	},
@@ -123,7 +123,7 @@
 		"code":"511303112",
 		"fullCode":"511303112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青居镇",
 		"parentCode":"511303"
 	},
@@ -131,7 +131,7 @@
 		"code":"511303115",
 		"fullCode":"511303115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会龙镇",
 		"parentCode":"511303"
 	},
@@ -139,7 +139,7 @@
 		"code":"511303117",
 		"fullCode":"511303117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"走马镇",
 		"parentCode":"511303"
 	},
@@ -147,7 +147,7 @@
 		"code":"511303211",
 		"fullCode":"511303211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛门乡",
 		"parentCode":"511303"
 	}

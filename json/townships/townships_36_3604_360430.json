@@ -3,7 +3,7 @@
 		"code":"360430100",
 		"fullCode":"360430100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙城镇",
 		"parentCode":"360430"
 	},
@@ -11,7 +11,7 @@
 		"code":"360430101",
 		"fullCode":"360430101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棉船镇",
 		"parentCode":"360430"
 	},
@@ -19,7 +19,7 @@
 		"code":"360430102",
 		"fullCode":"360430102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马垱镇",
 		"parentCode":"360430"
 	},
@@ -27,7 +27,7 @@
 		"code":"360430103",
 		"fullCode":"360430103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芙蓉墩镇",
 		"parentCode":"360430"
 	},
@@ -35,7 +35,7 @@
 		"code":"360430104",
 		"fullCode":"360430104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定山镇",
 		"parentCode":"360430"
 	},
@@ -43,7 +43,7 @@
 		"code":"360430105",
 		"fullCode":"360430105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天红镇",
 		"parentCode":"360430"
 	},
@@ -51,7 +51,7 @@
 		"code":"360430106",
 		"fullCode":"360430106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨梓镇",
 		"parentCode":"360430"
 	},
@@ -59,7 +59,7 @@
 		"code":"360430107",
 		"fullCode":"360430107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东升镇",
 		"parentCode":"360430"
 	},
@@ -67,7 +67,7 @@
 		"code":"360430108",
 		"fullCode":"360430108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瀼溪镇",
 		"parentCode":"360430"
 	},
@@ -75,7 +75,7 @@
 		"code":"360430109",
 		"fullCode":"360430109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄花镇",
 		"parentCode":"360430"
 	},
@@ -83,7 +83,7 @@
 		"code":"360430200",
 		"fullCode":"360430200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平关乡",
 		"parentCode":"360430"
 	},
@@ -91,7 +91,7 @@
 		"code":"360430201",
 		"fullCode":"360430201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄岭乡",
 		"parentCode":"360430"
 	},
@@ -99,7 +99,7 @@
 		"code":"360430202",
 		"fullCode":"360430202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浩山乡",
 		"parentCode":"360430"
 	},
@@ -107,7 +107,7 @@
 		"code":"360430403",
 		"fullCode":"360430403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建筑材料厂",
 		"parentCode":"360430"
 	},
@@ -115,7 +115,7 @@
 		"code":"360430404",
 		"fullCode":"360430404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水产养殖场",
 		"parentCode":"360430"
 	},
@@ -123,7 +123,7 @@
 		"code":"360430500",
 		"fullCode":"360430500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太泊湖农业综合开发区",
 		"parentCode":"360430"
 	},
@@ -131,7 +131,7 @@
 		"code":"360430501",
 		"fullCode":"360430501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上十岭综合垦殖场",
 		"parentCode":"360430"
 	},
@@ -139,7 +139,7 @@
 		"code":"360430502",
 		"fullCode":"360430502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芙蓉农场",
 		"parentCode":"360430"
 	},
@@ -147,7 +147,7 @@
 		"code":"360430505",
 		"fullCode":"360430505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太泊湖水产养殖场",
 		"parentCode":"360430"
 	},
@@ -155,7 +155,7 @@
 		"code":"360430506",
 		"fullCode":"360430506000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄乐林场",
 		"parentCode":"360430"
 	}

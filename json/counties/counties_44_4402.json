@@ -3,7 +3,7 @@
 		"code":"440203",
 		"fullCode":"440203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武江区",
 		"parentCode":"4402"
 	},
@@ -11,7 +11,7 @@
 		"code":"440204",
 		"fullCode":"440204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浈江区",
 		"parentCode":"4402"
 	},
@@ -19,7 +19,7 @@
 		"code":"440205",
 		"fullCode":"440205000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"曲江区",
 		"parentCode":"4402"
 	},
@@ -27,7 +27,7 @@
 		"code":"440222",
 		"fullCode":"440222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"始兴县",
 		"parentCode":"4402"
 	},
@@ -35,7 +35,7 @@
 		"code":"440224",
 		"fullCode":"440224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"仁化县",
 		"parentCode":"4402"
 	},
@@ -43,7 +43,7 @@
 		"code":"440229",
 		"fullCode":"440229000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"翁源县",
 		"parentCode":"4402"
 	},
@@ -51,7 +51,7 @@
 		"code":"440232",
 		"fullCode":"440232000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乳源瑶族自治县",
 		"parentCode":"4402"
 	},
@@ -59,7 +59,7 @@
 		"code":"440233",
 		"fullCode":"440233000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新丰县",
 		"parentCode":"4402"
 	},
@@ -67,7 +67,7 @@
 		"code":"440281",
 		"fullCode":"440281000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乐昌市",
 		"parentCode":"4402"
 	},
@@ -75,7 +75,7 @@
 		"code":"440282",
 		"fullCode":"440282000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南雄市",
 		"parentCode":"4402"
 	}

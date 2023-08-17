@@ -3,7 +3,7 @@
 		"code":"540121100",
 		"fullCode":"540121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘丹曲果镇",
 		"parentCode":"540121"
 	},
@@ -11,7 +11,7 @@
 		"code":"540121200",
 		"fullCode":"540121200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春堆乡",
 		"parentCode":"540121"
 	},
@@ -19,7 +19,7 @@
 		"code":"540121201",
 		"fullCode":"540121201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松盘乡",
 		"parentCode":"540121"
 	},
@@ -27,7 +27,7 @@
 		"code":"540121202",
 		"fullCode":"540121202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"强嘎乡",
 		"parentCode":"540121"
 	},
@@ -35,7 +35,7 @@
 		"code":"540121203",
 		"fullCode":"540121203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡孜乡",
 		"parentCode":"540121"
 	},
@@ -43,7 +43,7 @@
 		"code":"540121204",
 		"fullCode":"540121204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"边交林乡",
 		"parentCode":"540121"
 	},
@@ -51,7 +51,7 @@
 		"code":"540121205",
 		"fullCode":"540121205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江热夏乡",
 		"parentCode":"540121"
 	},
@@ -59,7 +59,7 @@
 		"code":"540121206",
 		"fullCode":"540121206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿朗乡",
 		"parentCode":"540121"
 	},
@@ -67,7 +67,7 @@
 		"code":"540121207",
 		"fullCode":"540121207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐古乡",
 		"parentCode":"540121"
 	},
@@ -75,7 +75,7 @@
 		"code":"540121208",
 		"fullCode":"540121208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旁多乡",
 		"parentCode":"540121"
 	}

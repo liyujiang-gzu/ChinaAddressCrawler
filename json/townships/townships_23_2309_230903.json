@@ -3,7 +3,7 @@
 		"code":"230903011",
 		"fullCode":"230903011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃东街道",
 		"parentCode":"230903"
 	},
@@ -11,7 +11,7 @@
 		"code":"230903012",
 		"fullCode":"230903012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃南街道",
 		"parentCode":"230903"
 	},
@@ -19,7 +19,7 @@
 		"code":"230903013",
 		"fullCode":"230903013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃西街道",
 		"parentCode":"230903"
 	},
@@ -27,7 +27,7 @@
 		"code":"230903014",
 		"fullCode":"230903014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃北街道",
 		"parentCode":"230903"
 	},
@@ -35,7 +35,7 @@
 		"code":"230903015",
 		"fullCode":"230903015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃源街道",
 		"parentCode":"230903"
 	},
@@ -43,7 +43,7 @@
 		"code":"230903016",
 		"fullCode":"230903016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃山街道",
 		"parentCode":"230903"
 	},
@@ -51,7 +51,7 @@
 		"code":"230903100",
 		"fullCode":"230903100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万宝河镇",
 		"parentCode":"230903"
 	}

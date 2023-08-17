@@ -3,7 +3,7 @@
 		"code":"350721001",
 		"fullCode":"350721001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双溪街道",
 		"parentCode":"350721"
 	},
@@ -11,7 +11,7 @@
 		"code":"350721100",
 		"fullCode":"350721100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建西镇",
 		"parentCode":"350721"
 	},
@@ -19,7 +19,7 @@
 		"code":"350721101",
 		"fullCode":"350721101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋口镇",
 		"parentCode":"350721"
 	},
@@ -27,7 +27,7 @@
 		"code":"350721102",
 		"fullCode":"350721102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元坑镇",
 		"parentCode":"350721"
 	},
@@ -35,7 +35,7 @@
 		"code":"350721103",
 		"fullCode":"350721103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"埔上镇",
 		"parentCode":"350721"
 	},
@@ -43,7 +43,7 @@
 		"code":"350721104",
 		"fullCode":"350721104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大历镇",
 		"parentCode":"350721"
 	},
@@ -51,7 +51,7 @@
 		"code":"350721105",
 		"fullCode":"350721105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大干镇",
 		"parentCode":"350721"
 	},
@@ -59,7 +59,7 @@
 		"code":"350721106",
 		"fullCode":"350721106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁寿镇",
 		"parentCode":"350721"
 	},
@@ -67,7 +67,7 @@
 		"code":"350721107",
 		"fullCode":"350721107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑坊镇",
 		"parentCode":"350721"
 	},
@@ -75,7 +75,7 @@
 		"code":"350721200",
 		"fullCode":"350721200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋墩乡",
 		"parentCode":"350721"
 	},
@@ -83,7 +83,7 @@
 		"code":"350721202",
 		"fullCode":"350721202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岚下乡",
 		"parentCode":"350721"
 	},
@@ -91,7 +91,7 @@
 		"code":"350721203",
 		"fullCode":"350721203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高阳乡",
 		"parentCode":"350721"
 	}

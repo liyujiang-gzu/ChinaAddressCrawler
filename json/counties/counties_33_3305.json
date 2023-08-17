@@ -3,7 +3,7 @@
 		"code":"330502",
 		"fullCode":"330502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"吴兴区",
 		"parentCode":"3305"
 	},
@@ -11,7 +11,7 @@
 		"code":"330503",
 		"fullCode":"330503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南浔区",
 		"parentCode":"3305"
 	},
@@ -19,7 +19,7 @@
 		"code":"330521",
 		"fullCode":"330521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德清县",
 		"parentCode":"3305"
 	},
@@ -27,7 +27,7 @@
 		"code":"330522",
 		"fullCode":"330522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长兴县",
 		"parentCode":"3305"
 	},
@@ -35,7 +35,7 @@
 		"code":"330523",
 		"fullCode":"330523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安吉县",
 		"parentCode":"3305"
 	}

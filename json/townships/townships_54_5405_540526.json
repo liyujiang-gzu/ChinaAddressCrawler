@@ -3,7 +3,7 @@
 		"code":"540526100",
 		"fullCode":"540526100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"措美镇",
 		"parentCode":"540526"
 	},
@@ -11,7 +11,7 @@
 		"code":"540526101",
 		"fullCode":"540526101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哲古镇",
 		"parentCode":"540526"
 	},
@@ -19,7 +19,7 @@
 		"code":"540526200",
 		"fullCode":"540526200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乃西乡",
 		"parentCode":"540526"
 	},
@@ -27,7 +27,7 @@
 		"code":"540526201",
 		"fullCode":"540526201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古堆乡",
 		"parentCode":"540526"
 	}

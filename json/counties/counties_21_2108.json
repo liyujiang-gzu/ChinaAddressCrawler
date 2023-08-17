@@ -3,7 +3,7 @@
 		"code":"210802",
 		"fullCode":"210802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"站前区",
 		"parentCode":"2108"
 	},
@@ -11,7 +11,7 @@
 		"code":"210803",
 		"fullCode":"210803000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西市区",
 		"parentCode":"2108"
 	},
@@ -19,7 +19,7 @@
 		"code":"210804",
 		"fullCode":"210804000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鲅鱼圈区",
 		"parentCode":"2108"
 	},
@@ -27,7 +27,7 @@
 		"code":"210811",
 		"fullCode":"210811000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"老边区",
 		"parentCode":"2108"
 	},
@@ -35,7 +35,7 @@
 		"code":"210881",
 		"fullCode":"210881000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"盖州市",
 		"parentCode":"2108"
 	},
@@ -43,7 +43,7 @@
 		"code":"210882",
 		"fullCode":"210882000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大石桥市",
 		"parentCode":"2108"
 	}

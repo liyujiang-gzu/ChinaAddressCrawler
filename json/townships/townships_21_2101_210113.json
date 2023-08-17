@@ -3,7 +3,7 @@
 		"code":"210113001",
 		"fullCode":"210113001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城子街道",
 		"parentCode":"210113"
 	},
@@ -11,7 +11,7 @@
 		"code":"210113002",
 		"fullCode":"210113002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水台街道",
 		"parentCode":"210113"
 	},
@@ -19,7 +19,7 @@
 		"code":"210113003",
 		"fullCode":"210113003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辉山街道",
 		"parentCode":"210113"
 	},
@@ -27,7 +27,7 @@
 		"code":"210113004",
 		"fullCode":"210113004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道义街道",
 		"parentCode":"210113"
 	},
@@ -35,7 +35,7 @@
 		"code":"210113006",
 		"fullCode":"210113006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎石台街道",
 		"parentCode":"210113"
 	},
@@ -43,7 +43,7 @@
 		"code":"210113007",
 		"fullCode":"210113007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"财落街道",
 		"parentCode":"210113"
 	},
@@ -51,7 +51,7 @@
 		"code":"210113010",
 		"fullCode":"210113010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马刚街道",
 		"parentCode":"210113"
 	},
@@ -59,7 +59,7 @@
 		"code":"210113012",
 		"fullCode":"210113012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄家街道",
 		"parentCode":"210113"
 	},
@@ -67,7 +67,7 @@
 		"code":"210113014",
 		"fullCode":"210113014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆台街道",
 		"parentCode":"210113"
 	},
@@ -75,7 +75,7 @@
 		"code":"210113016",
 		"fullCode":"210113016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正良街道",
 		"parentCode":"210113"
 	},
@@ -83,7 +83,7 @@
 		"code":"210113401",
 		"fullCode":"210113401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青年农场",
 		"parentCode":"210113"
 	},
@@ -91,7 +91,7 @@
 		"code":"210113402",
 		"fullCode":"210113402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进农场",
 		"parentCode":"210113"
 	},
@@ -99,7 +99,7 @@
 		"code":"210113403",
 		"fullCode":"210113403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"育新农场",
 		"parentCode":"210113"
 	},
@@ -107,7 +107,7 @@
 		"code":"210113404",
 		"fullCode":"210113404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈北新区马刚林场",
 		"parentCode":"210113"
 	},
@@ -115,7 +115,7 @@
 		"code":"210113405",
 		"fullCode":"210113405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈北新区示范农场",
 		"parentCode":"210113"
 	},
@@ -123,7 +123,7 @@
 		"code":"210113406",
 		"fullCode":"210113406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈北新区种畜场",
 		"parentCode":"210113"
 	}

@@ -3,7 +3,7 @@
 		"code":"420304101",
 		"fullCode":"420304101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安阳镇",
 		"parentCode":"420304"
 	},
@@ -11,7 +11,7 @@
 		"code":"420304102",
 		"fullCode":"420304102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨溪铺镇",
 		"parentCode":"420304"
 	},
@@ -19,7 +19,7 @@
 		"code":"420304103",
 		"fullCode":"420304103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青曲镇",
 		"parentCode":"420304"
 	},
@@ -27,7 +27,7 @@
 		"code":"420304104",
 		"fullCode":"420304104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白桑关镇",
 		"parentCode":"420304"
 	},
@@ -35,7 +35,7 @@
 		"code":"420304105",
 		"fullCode":"420304105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南化塘镇",
 		"parentCode":"420304"
 	},
@@ -43,7 +43,7 @@
 		"code":"420304106",
 		"fullCode":"420304106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白浪镇",
 		"parentCode":"420304"
 	},
@@ -51,7 +51,7 @@
 		"code":"420304107",
 		"fullCode":"420304107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘洞镇",
 		"parentCode":"420304"
 	},
@@ -59,7 +59,7 @@
 		"code":"420304108",
 		"fullCode":"420304108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谭山镇",
 		"parentCode":"420304"
 	},
@@ -67,7 +67,7 @@
 		"code":"420304109",
 		"fullCode":"420304109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅铺镇",
 		"parentCode":"420304"
 	},
@@ -75,7 +75,7 @@
 		"code":"420304110",
 		"fullCode":"420304110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山镇",
 		"parentCode":"420304"
 	},
@@ -83,7 +83,7 @@
 		"code":"420304111",
 		"fullCode":"420304111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶店镇",
 		"parentCode":"420304"
 	},
@@ -91,7 +91,7 @@
 		"code":"420304112",
 		"fullCode":"420304112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳陂镇",
 		"parentCode":"420304"
 	},
@@ -99,7 +99,7 @@
 		"code":"420304113",
 		"fullCode":"420304113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲍峡镇",
 		"parentCode":"420304"
 	},
@@ -107,7 +107,7 @@
 		"code":"420304114",
 		"fullCode":"420304114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家营镇",
 		"parentCode":"420304"
 	},
@@ -115,7 +115,7 @@
 		"code":"420304115",
 		"fullCode":"420304115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谭家湾镇",
 		"parentCode":"420304"
 	},
@@ -123,7 +123,7 @@
 		"code":"420304117",
 		"fullCode":"420304117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"420304"
 	},
@@ -131,7 +131,7 @@
 		"code":"420304200",
 		"fullCode":"420304200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大柳乡",
 		"parentCode":"420304"
 	},
@@ -139,7 +139,7 @@
 		"code":"420304201",
 		"fullCode":"420304201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五峰乡",
 		"parentCode":"420304"
 	},
@@ -147,7 +147,7 @@
 		"code":"420304202",
 		"fullCode":"420304202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叶大乡",
 		"parentCode":"420304"
 	},
@@ -155,7 +155,7 @@
 		"code":"420304400",
 		"fullCode":"420304400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沧浪山林场",
 		"parentCode":"420304"
 	}

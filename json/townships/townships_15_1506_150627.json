@@ -3,7 +3,7 @@
 		"code":"150627100",
 		"fullCode":"150627100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿勒腾席热镇",
 		"parentCode":"150627"
 	},
@@ -11,7 +11,7 @@
 		"code":"150627101",
 		"fullCode":"150627101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"札萨克镇",
 		"parentCode":"150627"
 	},
@@ -19,7 +19,7 @@
 		"code":"150627102",
 		"fullCode":"150627102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰木伦镇",
 		"parentCode":"150627"
 	},
@@ -27,7 +27,7 @@
 		"code":"150627103",
 		"fullCode":"150627103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳林陶亥镇",
 		"parentCode":"150627"
 	},
@@ -35,7 +35,7 @@
 		"code":"150627104",
 		"fullCode":"150627104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏布尔嘎镇",
 		"parentCode":"150627"
 	},
@@ -43,7 +43,7 @@
 		"code":"150627105",
 		"fullCode":"150627105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红庆河镇",
 		"parentCode":"150627"
 	},
@@ -51,7 +51,7 @@
 		"code":"150627106",
 		"fullCode":"150627106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊金霍洛镇",
 		"parentCode":"150627"
 	},
@@ -59,7 +59,7 @@
 		"code":"150627400",
 		"fullCode":"150627400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鄂尔多斯蒙苏经济开发区",
 		"parentCode":"150627"
 	},
@@ -67,7 +67,7 @@
 		"code":"150627407",
 		"fullCode":"150627407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鄂尔多斯空港物流园区",
 		"parentCode":"150627"
 	}

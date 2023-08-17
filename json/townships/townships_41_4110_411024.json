@@ -3,7 +3,7 @@
 		"code":"411024100",
 		"fullCode":"411024100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安陵镇",
 		"parentCode":"411024"
 	},
@@ -11,7 +11,7 @@
 		"code":"411024101",
 		"fullCode":"411024101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马栏镇",
 		"parentCode":"411024"
 	},
@@ -19,7 +19,7 @@
 		"code":"411024102",
 		"fullCode":"411024102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏梁镇",
 		"parentCode":"411024"
 	},
@@ -27,7 +27,7 @@
 		"code":"411024103",
 		"fullCode":"411024103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈化店镇",
 		"parentCode":"411024"
 	},
@@ -35,7 +35,7 @@
 		"code":"411024104",
 		"fullCode":"411024104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望田镇",
 		"parentCode":"411024"
 	},
@@ -43,7 +43,7 @@
 		"code":"411024105",
 		"fullCode":"411024105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大马镇",
 		"parentCode":"411024"
 	},
@@ -51,7 +51,7 @@
 		"code":"411024106",
 		"fullCode":"411024106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶城镇",
 		"parentCode":"411024"
 	},
@@ -59,7 +59,7 @@
 		"code":"411024107",
 		"fullCode":"411024107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张桥镇",
 		"parentCode":"411024"
 	},
@@ -67,7 +67,7 @@
 		"code":"411024108",
 		"fullCode":"411024108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭店镇",
 		"parentCode":"411024"
 	},
@@ -75,7 +75,7 @@
 		"code":"411024109",
 		"fullCode":"411024109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"只乐镇",
 		"parentCode":"411024"
 	},
@@ -83,7 +83,7 @@
 		"code":"411024110",
 		"fullCode":"411024110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南坞镇",
 		"parentCode":"411024"
 	},
@@ -91,7 +91,7 @@
 		"code":"411024111",
 		"fullCode":"411024111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坊镇",
 		"parentCode":"411024"
 	}

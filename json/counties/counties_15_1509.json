@@ -3,7 +3,7 @@
 		"code":"150902",
 		"fullCode":"150902000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"集宁区",
 		"parentCode":"1509"
 	},
@@ -11,7 +11,7 @@
 		"code":"150921",
 		"fullCode":"150921000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"卓资县",
 		"parentCode":"1509"
 	},
@@ -19,7 +19,7 @@
 		"code":"150922",
 		"fullCode":"150922000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"化德县",
 		"parentCode":"1509"
 	},
@@ -27,7 +27,7 @@
 		"code":"150923",
 		"fullCode":"150923000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"商都县",
 		"parentCode":"1509"
 	},
@@ -35,7 +35,7 @@
 		"code":"150924",
 		"fullCode":"150924000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴和县",
 		"parentCode":"1509"
 	},
@@ -43,7 +43,7 @@
 		"code":"150925",
 		"fullCode":"150925000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凉城县",
 		"parentCode":"1509"
 	},
@@ -51,7 +51,7 @@
 		"code":"150926",
 		"fullCode":"150926000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"察哈尔右翼前旗",
 		"parentCode":"1509"
 	},
@@ -59,7 +59,7 @@
 		"code":"150927",
 		"fullCode":"150927000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"察哈尔右翼中旗",
 		"parentCode":"1509"
 	},
@@ -67,7 +67,7 @@
 		"code":"150928",
 		"fullCode":"150928000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"察哈尔右翼后旗",
 		"parentCode":"1509"
 	},
@@ -75,7 +75,7 @@
 		"code":"150929",
 		"fullCode":"150929000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"四子王旗",
 		"parentCode":"1509"
 	},
@@ -83,7 +83,7 @@
 		"code":"150981",
 		"fullCode":"150981000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丰镇市",
 		"parentCode":"1509"
 	}

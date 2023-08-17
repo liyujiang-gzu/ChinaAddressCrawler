@@ -3,7 +3,7 @@
 		"code":"511502",
 		"fullCode":"511502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"翠屏区",
 		"parentCode":"5115"
 	},
@@ -11,7 +11,7 @@
 		"code":"511503",
 		"fullCode":"511503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南溪区",
 		"parentCode":"5115"
 	},
@@ -19,7 +19,7 @@
 		"code":"511504",
 		"fullCode":"511504000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"叙州区",
 		"parentCode":"5115"
 	},
@@ -27,7 +27,7 @@
 		"code":"511523",
 		"fullCode":"511523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江安县",
 		"parentCode":"5115"
 	},
@@ -35,7 +35,7 @@
 		"code":"511524",
 		"fullCode":"511524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长宁县",
 		"parentCode":"5115"
 	},
@@ -43,7 +43,7 @@
 		"code":"511525",
 		"fullCode":"511525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"高县",
 		"parentCode":"5115"
 	},
@@ -51,7 +51,7 @@
 		"code":"511526",
 		"fullCode":"511526000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"珙县",
 		"parentCode":"5115"
 	},
@@ -59,7 +59,7 @@
 		"code":"511527",
 		"fullCode":"511527000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"筠连县",
 		"parentCode":"5115"
 	},
@@ -67,7 +67,7 @@
 		"code":"511528",
 		"fullCode":"511528000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴文县",
 		"parentCode":"5115"
 	},
@@ -75,7 +75,7 @@
 		"code":"511529",
 		"fullCode":"511529000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"屏山县",
 		"parentCode":"5115"
 	}

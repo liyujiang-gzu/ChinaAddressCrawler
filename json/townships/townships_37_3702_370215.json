@@ -3,7 +3,7 @@
 		"code":"370215001",
 		"fullCode":"370215001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"环秀街道",
 		"parentCode":"370215"
 	},
@@ -11,7 +11,7 @@
 		"code":"370215002",
 		"fullCode":"370215002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潮海街道",
 		"parentCode":"370215"
 	},
@@ -19,7 +19,7 @@
 		"code":"370215003",
 		"fullCode":"370215003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通济街道",
 		"parentCode":"370215"
 	},
@@ -27,7 +27,7 @@
 		"code":"370215004",
 		"fullCode":"370215004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北安街道",
 		"parentCode":"370215"
 	},
@@ -35,7 +35,7 @@
 		"code":"370215005",
 		"fullCode":"370215005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山街道",
 		"parentCode":"370215"
 	},
@@ -43,7 +43,7 @@
 		"code":"370215006",
 		"fullCode":"370215006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉街道",
 		"parentCode":"370215"
 	},
@@ -51,7 +51,7 @@
 		"code":"370215007",
 		"fullCode":"370215007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鳌山卫街道",
 		"parentCode":"370215"
 	},
@@ -59,7 +59,7 @@
 		"code":"370215008",
 		"fullCode":"370215008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉街道",
 		"parentCode":"370215"
 	},
@@ -67,7 +67,7 @@
 		"code":"370215009",
 		"fullCode":"370215009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵山街道",
 		"parentCode":"370215"
 	},
@@ -75,7 +75,7 @@
 		"code":"370215010",
 		"fullCode":"370215010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝村街道",
 		"parentCode":"370215"
 	},
@@ -83,7 +83,7 @@
 		"code":"370215011",
 		"fullCode":"370215011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大信街道",
 		"parentCode":"370215"
 	},
@@ -91,7 +91,7 @@
 		"code":"370215100",
 		"fullCode":"370215100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田横镇",
 		"parentCode":"370215"
 	},
@@ -99,7 +99,7 @@
 		"code":"370215101",
 		"fullCode":"370215101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金口镇",
 		"parentCode":"370215"
 	},
@@ -107,7 +107,7 @@
 		"code":"370215103",
 		"fullCode":"370215103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段泊岚镇",
 		"parentCode":"370215"
 	},
@@ -115,7 +115,7 @@
 		"code":"370215104",
 		"fullCode":"370215104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"移风店镇",
 		"parentCode":"370215"
 	},
@@ -123,7 +123,7 @@
 		"code":"370215400",
 		"fullCode":"370215400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通济新经济区",
 		"parentCode":"370215"
 	},
@@ -131,7 +131,7 @@
 		"code":"370215402",
 		"fullCode":"370215402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田横岛省级旅游度假区",
 		"parentCode":"370215"
 	}

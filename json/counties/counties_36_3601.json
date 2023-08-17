@@ -3,7 +3,7 @@
 		"code":"360102",
 		"fullCode":"360102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东湖区",
 		"parentCode":"3601"
 	},
@@ -11,7 +11,7 @@
 		"code":"360103",
 		"fullCode":"360103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西湖区",
 		"parentCode":"3601"
 	},
@@ -19,7 +19,7 @@
 		"code":"360104",
 		"fullCode":"360104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"青云谱区",
 		"parentCode":"3601"
 	},
@@ -27,7 +27,7 @@
 		"code":"360111",
 		"fullCode":"360111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"青山湖区",
 		"parentCode":"3601"
 	},
@@ -35,7 +35,7 @@
 		"code":"360112",
 		"fullCode":"360112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新建区",
 		"parentCode":"3601"
 	},
@@ -43,7 +43,7 @@
 		"code":"360113",
 		"fullCode":"360113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"红谷滩区",
 		"parentCode":"3601"
 	},
@@ -51,7 +51,7 @@
 		"code":"360121",
 		"fullCode":"360121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南昌县",
 		"parentCode":"3601"
 	},
@@ -59,7 +59,7 @@
 		"code":"360123",
 		"fullCode":"360123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安义县",
 		"parentCode":"3601"
 	},
@@ -67,7 +67,7 @@
 		"code":"360124",
 		"fullCode":"360124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"进贤县",
 		"parentCode":"3601"
 	}

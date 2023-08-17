@@ -3,7 +3,7 @@
 		"code":"522328001",
 		"fullCode":"522328001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"招堤街道",
 		"parentCode":"522328"
 	},
@@ -11,7 +11,7 @@
 		"code":"522328002",
 		"fullCode":"522328002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栖凤街道",
 		"parentCode":"522328"
 	},
@@ -19,7 +19,7 @@
 		"code":"522328003",
 		"fullCode":"522328003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱相街道",
 		"parentCode":"522328"
 	},
@@ -27,7 +27,7 @@
 		"code":"522328004",
 		"fullCode":"522328004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五福街道",
 		"parentCode":"522328"
 	},
@@ -35,7 +35,7 @@
 		"code":"522328005",
 		"fullCode":"522328005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春潭街道",
 		"parentCode":"522328"
 	},
@@ -43,7 +43,7 @@
 		"code":"522328101",
 		"fullCode":"522328101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙广镇",
 		"parentCode":"522328"
 	},
@@ -51,7 +51,7 @@
 		"code":"522328102",
 		"fullCode":"522328102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德卧镇",
 		"parentCode":"522328"
 	},
@@ -59,7 +59,7 @@
 		"code":"522328103",
 		"fullCode":"522328103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万峰湖镇",
 		"parentCode":"522328"
 	},
@@ -67,7 +67,7 @@
 		"code":"522328104",
 		"fullCode":"522328104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木咱镇",
 		"parentCode":"522328"
 	},
@@ -75,7 +75,7 @@
 		"code":"522328105",
 		"fullCode":"522328105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洒雨镇",
 		"parentCode":"522328"
 	},
@@ -83,7 +83,7 @@
 		"code":"522328106",
 		"fullCode":"522328106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普坪镇",
 		"parentCode":"522328"
 	},
@@ -91,7 +91,7 @@
 		"code":"522328107",
 		"fullCode":"522328107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山镇",
 		"parentCode":"522328"
 	},
@@ -99,7 +99,7 @@
 		"code":"522328110",
 		"fullCode":"522328110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥镇",
 		"parentCode":"522328"
 	},
@@ -107,7 +107,7 @@
 		"code":"522328111",
 		"fullCode":"522328111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海子镇",
 		"parentCode":"522328"
 	},
@@ -115,7 +115,7 @@
 		"code":"522328112",
 		"fullCode":"522328112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"笃山镇",
 		"parentCode":"522328"
 	}

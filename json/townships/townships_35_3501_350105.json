@@ -3,7 +3,7 @@
 		"code":"350105001",
 		"fullCode":"350105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗星街道",
 		"parentCode":"350105"
 	},
@@ -11,7 +11,7 @@
 		"code":"350105100",
 		"fullCode":"350105100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马尾镇",
 		"parentCode":"350105"
 	},
@@ -19,7 +19,7 @@
 		"code":"350105101",
 		"fullCode":"350105101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亭江镇",
 		"parentCode":"350105"
 	},
@@ -27,7 +27,7 @@
 		"code":"350105102",
 		"fullCode":"350105102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琅岐镇",
 		"parentCode":"350105"
 	}

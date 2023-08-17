@@ -3,7 +3,7 @@
 		"code":"620823001",
 		"fullCode":"620823001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城市社区管理委员会街道",
 		"parentCode":"620823"
 	},
@@ -11,7 +11,7 @@
 		"code":"620823100",
 		"fullCode":"620823100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦屏镇",
 		"parentCode":"620823"
 	},
@@ -19,7 +19,7 @@
 		"code":"620823101",
 		"fullCode":"620823101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新窑镇",
 		"parentCode":"620823"
 	},
@@ -27,7 +27,7 @@
 		"code":"620823102",
 		"fullCode":"620823102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏树镇",
 		"parentCode":"620823"
 	},
@@ -35,7 +35,7 @@
 		"code":"620823103",
 		"fullCode":"620823103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄寨镇",
 		"parentCode":"620823"
 	},
@@ -43,7 +43,7 @@
 		"code":"620823202",
 		"fullCode":"620823202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄花乡",
 		"parentCode":"620823"
 	},
@@ -51,7 +51,7 @@
 		"code":"620823203",
 		"fullCode":"620823203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木林乡",
 		"parentCode":"620823"
 	}

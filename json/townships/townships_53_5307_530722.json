@@ -3,7 +3,7 @@
 		"code":"530722101",
 		"fullCode":"530722101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永北镇",
 		"parentCode":"530722"
 	},
@@ -11,7 +11,7 @@
 		"code":"530722102",
 		"fullCode":"530722102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁和镇",
 		"parentCode":"530722"
 	},
@@ -19,7 +19,7 @@
 		"code":"530722103",
 		"fullCode":"530722103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"期纳镇",
 		"parentCode":"530722"
 	},
@@ -27,7 +27,7 @@
 		"code":"530722104",
 		"fullCode":"530722104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三川镇",
 		"parentCode":"530722"
 	},
@@ -35,7 +35,7 @@
 		"code":"530722105",
 		"fullCode":"530722105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"程海镇",
 		"parentCode":"530722"
 	},
@@ -43,7 +43,7 @@
 		"code":"530722106",
 		"fullCode":"530722106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涛源镇",
 		"parentCode":"530722"
 	},
@@ -51,7 +51,7 @@
 		"code":"530722107",
 		"fullCode":"530722107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁地拉镇",
 		"parentCode":"530722"
 	},
@@ -59,7 +59,7 @@
 		"code":"530722108",
 		"fullCode":"530722108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"片角镇",
 		"parentCode":"530722"
 	},
@@ -67,7 +67,7 @@
 		"code":"530722109",
 		"fullCode":"530722109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺州镇",
 		"parentCode":"530722"
 	},
@@ -75,7 +75,7 @@
 		"code":"530722201",
 		"fullCode":"530722201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊坪彝族乡",
 		"parentCode":"530722"
 	},
@@ -83,7 +83,7 @@
 		"code":"530722202",
 		"fullCode":"530722202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六德傈僳族彝族乡",
 		"parentCode":"530722"
 	},
@@ -91,7 +91,7 @@
 		"code":"530722203",
 		"fullCode":"530722203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山傈僳族彝族乡",
 		"parentCode":"530722"
 	},
@@ -99,7 +99,7 @@
 		"code":"530722207",
 		"fullCode":"530722207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光华傈僳族彝族乡",
 		"parentCode":"530722"
 	},
@@ -107,7 +107,7 @@
 		"code":"530722208",
 		"fullCode":"530722208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松坪傈僳族彝族乡",
 		"parentCode":"530722"
 	},
@@ -115,7 +115,7 @@
 		"code":"530722209",
 		"fullCode":"530722209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安彝族纳西族乡",
 		"parentCode":"530722"
 	}

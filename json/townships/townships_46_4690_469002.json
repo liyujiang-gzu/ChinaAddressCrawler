@@ -3,7 +3,7 @@
 		"code":"469002100",
 		"fullCode":"469002100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉积镇",
 		"parentCode":"469002"
 	},
@@ -11,7 +11,7 @@
 		"code":"469002101",
 		"fullCode":"469002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万泉镇",
 		"parentCode":"469002"
 	},
@@ -19,7 +19,7 @@
 		"code":"469002102",
 		"fullCode":"469002102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石壁镇",
 		"parentCode":"469002"
 	},
@@ -27,7 +27,7 @@
 		"code":"469002103",
 		"fullCode":"469002103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中原镇",
 		"parentCode":"469002"
 	},
@@ -35,7 +35,7 @@
 		"code":"469002104",
 		"fullCode":"469002104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博鳌镇",
 		"parentCode":"469002"
 	},
@@ -43,7 +43,7 @@
 		"code":"469002105",
 		"fullCode":"469002105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳江镇",
 		"parentCode":"469002"
 	},
@@ -51,7 +51,7 @@
 		"code":"469002106",
 		"fullCode":"469002106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙江镇",
 		"parentCode":"469002"
 	},
@@ -59,7 +59,7 @@
 		"code":"469002107",
 		"fullCode":"469002107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭门镇",
 		"parentCode":"469002"
 	},
@@ -67,7 +67,7 @@
 		"code":"469002108",
 		"fullCode":"469002108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔洋镇",
 		"parentCode":"469002"
 	},
@@ -75,7 +75,7 @@
 		"code":"469002109",
 		"fullCode":"469002109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长坡镇",
 		"parentCode":"469002"
 	},
@@ -83,7 +83,7 @@
 		"code":"469002110",
 		"fullCode":"469002110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大路镇",
 		"parentCode":"469002"
 	},
@@ -91,7 +91,7 @@
 		"code":"469002111",
 		"fullCode":"469002111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会山镇",
 		"parentCode":"469002"
 	},
@@ -99,7 +99,7 @@
 		"code":"469002500",
 		"fullCode":"469002500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彬村山华侨农场",
 		"parentCode":"469002"
 	}

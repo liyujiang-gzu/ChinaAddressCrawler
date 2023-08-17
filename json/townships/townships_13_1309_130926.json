@@ -3,7 +3,7 @@
 		"code":"130926100",
 		"fullCode":"130926100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肃宁镇",
 		"parentCode":"130926"
 	},
@@ -11,7 +11,7 @@
 		"code":"130926101",
 		"fullCode":"130926101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁家村镇",
 		"parentCode":"130926"
 	},
@@ -19,7 +19,7 @@
 		"code":"130926102",
 		"fullCode":"130926102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窝北镇",
 		"parentCode":"130926"
 	},
@@ -27,7 +27,7 @@
 		"code":"130926103",
 		"fullCode":"130926103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚村镇",
 		"parentCode":"130926"
 	},
@@ -35,7 +35,7 @@
 		"code":"130926104",
 		"fullCode":"130926104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万里镇",
 		"parentCode":"130926"
 	},
@@ -43,7 +43,7 @@
 		"code":"130926105",
 		"fullCode":"130926105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"师素镇",
 		"parentCode":"130926"
 	},
@@ -51,7 +51,7 @@
 		"code":"130926106",
 		"fullCode":"130926106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北留善寺镇",
 		"parentCode":"130926"
 	},
@@ -59,7 +59,7 @@
 		"code":"130926107",
 		"fullCode":"130926107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"付家佐镇",
 		"parentCode":"130926"
 	},
@@ -67,7 +67,7 @@
 		"code":"130926205",
 		"fullCode":"130926205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邵庄乡",
 		"parentCode":"130926"
 	}

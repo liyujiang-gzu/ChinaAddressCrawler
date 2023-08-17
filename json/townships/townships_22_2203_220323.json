@@ -3,7 +3,7 @@
 		"code":"220323001",
 		"fullCode":"220323001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永盛街道",
 		"parentCode":"220323"
 	},
@@ -11,7 +11,7 @@
 		"code":"220323002",
 		"fullCode":"220323002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁街道",
 		"parentCode":"220323"
 	},
@@ -19,7 +19,7 @@
 		"code":"220323100",
 		"fullCode":"220323100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊通镇",
 		"parentCode":"220323"
 	},
@@ -27,7 +27,7 @@
 		"code":"220323101",
 		"fullCode":"220323101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二道镇",
 		"parentCode":"220323"
 	},
@@ -35,7 +35,7 @@
 		"code":"220323102",
 		"fullCode":"220323102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊丹镇",
 		"parentCode":"220323"
 	},
@@ -43,7 +43,7 @@
 		"code":"220323103",
 		"fullCode":"220323103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马鞍山镇",
 		"parentCode":"220323"
 	},
@@ -51,7 +51,7 @@
 		"code":"220323104",
 		"fullCode":"220323104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景台镇",
 		"parentCode":"220323"
 	},
@@ -59,7 +59,7 @@
 		"code":"220323105",
 		"fullCode":"220323105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靠山镇",
 		"parentCode":"220323"
 	},
@@ -67,7 +67,7 @@
 		"code":"220323106",
 		"fullCode":"220323106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大孤山镇",
 		"parentCode":"220323"
 	},
@@ -75,7 +75,7 @@
 		"code":"220323107",
 		"fullCode":"220323107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小孤山镇",
 		"parentCode":"220323"
 	},
@@ -83,7 +83,7 @@
 		"code":"220323108",
 		"fullCode":"220323108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营城子镇",
 		"parentCode":"220323"
 	},
@@ -91,7 +91,7 @@
 		"code":"220323109",
 		"fullCode":"220323109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西苇镇",
 		"parentCode":"220323"
 	},
@@ -99,7 +99,7 @@
 		"code":"220323110",
 		"fullCode":"220323110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河源镇",
 		"parentCode":"220323"
 	},
@@ -107,7 +107,7 @@
 		"code":"220323111",
 		"fullCode":"220323111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄岭子镇",
 		"parentCode":"220323"
 	},
@@ -115,7 +115,7 @@
 		"code":"220323200",
 		"fullCode":"220323200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴乡",
 		"parentCode":"220323"
 	},
@@ -123,7 +123,7 @@
 		"code":"220323201",
 		"fullCode":"220323201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫里青乡",
 		"parentCode":"220323"
 	},
@@ -131,7 +131,7 @@
 		"code":"220323202",
 		"fullCode":"220323202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道乡",
 		"parentCode":"220323"
 	}

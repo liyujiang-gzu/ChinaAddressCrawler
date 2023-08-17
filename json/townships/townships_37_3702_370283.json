@@ -3,7 +3,7 @@
 		"code":"370283001",
 		"fullCode":"370283001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东阁街道",
 		"parentCode":"370283"
 	},
@@ -11,7 +11,7 @@
 		"code":"370283002",
 		"fullCode":"370283002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李园街道",
 		"parentCode":"370283"
 	},
@@ -19,7 +19,7 @@
 		"code":"370283003",
 		"fullCode":"370283003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同和街道",
 		"parentCode":"370283"
 	},
@@ -27,7 +27,7 @@
 		"code":"370283004",
 		"fullCode":"370283004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤台街道",
 		"parentCode":"370283"
 	},
@@ -35,7 +35,7 @@
 		"code":"370283005",
 		"fullCode":"370283005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙河街道",
 		"parentCode":"370283"
 	},
@@ -43,7 +43,7 @@
 		"code":"370283101",
 		"fullCode":"370283101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古岘镇",
 		"parentCode":"370283"
 	},
@@ -51,7 +51,7 @@
 		"code":"370283102",
 		"fullCode":"370283102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁兆镇",
 		"parentCode":"370283"
 	},
@@ -59,7 +59,7 @@
 		"code":"370283105",
 		"fullCode":"370283105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南村镇",
 		"parentCode":"370283"
 	},
@@ -67,7 +67,7 @@
 		"code":"370283108",
 		"fullCode":"370283108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓼兰镇",
 		"parentCode":"370283"
 	},
@@ -75,7 +75,7 @@
 		"code":"370283109",
 		"fullCode":"370283109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崔家集镇",
 		"parentCode":"370283"
 	},
@@ -83,7 +83,7 @@
 		"code":"370283110",
 		"fullCode":"370283110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明村镇",
 		"parentCode":"370283"
 	},
@@ -91,7 +91,7 @@
 		"code":"370283113",
 		"fullCode":"370283113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田庄镇",
 		"parentCode":"370283"
 	},
@@ -99,7 +99,7 @@
 		"code":"370283116",
 		"fullCode":"370283116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新河镇",
 		"parentCode":"370283"
 	},
@@ -107,7 +107,7 @@
 		"code":"370283119",
 		"fullCode":"370283119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店子镇",
 		"parentCode":"370283"
 	},
@@ -115,7 +115,7 @@
 		"code":"370283120",
 		"fullCode":"370283120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大泽山镇",
 		"parentCode":"370283"
 	},
@@ -123,7 +123,7 @@
 		"code":"370283122",
 		"fullCode":"370283122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧店镇",
 		"parentCode":"370283"
 	},
@@ -131,7 +131,7 @@
 		"code":"370283124",
 		"fullCode":"370283124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云山镇",
 		"parentCode":"370283"
 	},
@@ -139,7 +139,7 @@
 		"code":"370283400",
 		"fullCode":"370283400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平度经济开发区",
 		"parentCode":"370283"
 	}

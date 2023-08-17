@@ -3,7 +3,7 @@
 		"code":"370202001",
 		"fullCode":"370202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香港中路街道",
 		"parentCode":"370202"
 	},
@@ -11,7 +11,7 @@
 		"code":"370202002",
 		"fullCode":"370202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八大峡街道",
 		"parentCode":"370202"
 	},
@@ -19,7 +19,7 @@
 		"code":"370202004",
 		"fullCode":"370202004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云南路街道",
 		"parentCode":"370202"
 	},
@@ -27,7 +27,7 @@
 		"code":"370202005",
 		"fullCode":"370202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山路街道",
 		"parentCode":"370202"
 	},
@@ -35,7 +35,7 @@
 		"code":"370202007",
 		"fullCode":"370202007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江苏路街道",
 		"parentCode":"370202"
 	},
@@ -43,7 +43,7 @@
 		"code":"370202009",
 		"fullCode":"370202009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八大关街道",
 		"parentCode":"370202"
 	},
@@ -51,7 +51,7 @@
 		"code":"370202010",
 		"fullCode":"370202010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湛山街道",
 		"parentCode":"370202"
 	},
@@ -59,7 +59,7 @@
 		"code":"370202011",
 		"fullCode":"370202011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金湖路街道",
 		"parentCode":"370202"
 	},
@@ -67,7 +67,7 @@
 		"code":"370202012",
 		"fullCode":"370202012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八大湖街道",
 		"parentCode":"370202"
 	},
@@ -75,7 +75,7 @@
 		"code":"370202013",
 		"fullCode":"370202013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金门路街道",
 		"parentCode":"370202"
 	},
@@ -83,7 +83,7 @@
 		"code":"370202014",
 		"fullCode":"370202014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠海路街道",
 		"parentCode":"370202"
 	}

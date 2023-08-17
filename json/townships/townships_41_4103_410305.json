@@ -3,7 +3,7 @@
 		"code":"410305001",
 		"fullCode":"410305001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖北路街道",
 		"parentCode":"410305"
 	},
@@ -11,7 +11,7 @@
 		"code":"410305002",
 		"fullCode":"410305002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津路街道",
 		"parentCode":"410305"
 	},
@@ -19,7 +19,7 @@
 		"code":"410305003",
 		"fullCode":"410305003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长春路街道",
 		"parentCode":"410305"
 	},
@@ -27,7 +27,7 @@
 		"code":"410305004",
 		"fullCode":"410305004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南昌路街道",
 		"parentCode":"410305"
 	},
@@ -35,7 +35,7 @@
 		"code":"410305005",
 		"fullCode":"410305005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安路街道",
 		"parentCode":"410305"
 	},
@@ -43,7 +43,7 @@
 		"code":"410305006",
 		"fullCode":"410305006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"重庆路街道",
 		"parentCode":"410305"
 	},
@@ -51,7 +51,7 @@
 		"code":"410305007",
 		"fullCode":"410305007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑州路街道",
 		"parentCode":"410305"
 	},
@@ -59,7 +59,7 @@
 		"code":"410305008",
 		"fullCode":"410305008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武汉路街道",
 		"parentCode":"410305"
 	},
@@ -67,7 +67,7 @@
 		"code":"410305010",
 		"fullCode":"410305010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠江路街道",
 		"parentCode":"410305"
 	},
@@ -75,7 +75,7 @@
 		"code":"410305011",
 		"fullCode":"410305011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周山路街道",
 		"parentCode":"410305"
 	},
@@ -83,7 +83,7 @@
 		"code":"410305012",
 		"fullCode":"410305012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工农街道",
 		"parentCode":"410305"
 	}

@@ -3,7 +3,7 @@
 		"code":"320509001",
 		"fullCode":"320509001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松陵街道",
 		"parentCode":"320509"
 	},
@@ -11,7 +11,7 @@
 		"code":"320509002",
 		"fullCode":"320509002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横扇街道",
 		"parentCode":"320509"
 	},
@@ -19,7 +19,7 @@
 		"code":"320509003",
 		"fullCode":"320509003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八坼街道",
 		"parentCode":"320509"
 	},
@@ -27,7 +27,7 @@
 		"code":"320509004",
 		"fullCode":"320509004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江陵街道",
 		"parentCode":"320509"
 	},
@@ -35,7 +35,7 @@
 		"code":"320509104",
 		"fullCode":"320509104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平望镇",
 		"parentCode":"320509"
 	},
@@ -43,7 +43,7 @@
 		"code":"320509105",
 		"fullCode":"320509105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盛泽镇",
 		"parentCode":"320509"
 	},
@@ -51,7 +51,7 @@
 		"code":"320509107",
 		"fullCode":"320509107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七都镇",
 		"parentCode":"320509"
 	},
@@ -59,7 +59,7 @@
 		"code":"320509108",
 		"fullCode":"320509108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"震泽镇",
 		"parentCode":"320509"
 	},
@@ -67,7 +67,7 @@
 		"code":"320509109",
 		"fullCode":"320509109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃源镇",
 		"parentCode":"320509"
 	},
@@ -75,7 +75,7 @@
 		"code":"320509110",
 		"fullCode":"320509110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎里镇",
 		"parentCode":"320509"
 	},
@@ -83,7 +83,7 @@
 		"code":"320509111",
 		"fullCode":"320509111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同里镇",
 		"parentCode":"320509"
 	},
@@ -91,7 +91,7 @@
 		"code":"320509400",
 		"fullCode":"320509400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴江经济技术开发区",
 		"parentCode":"320509"
 	},
@@ -99,7 +99,7 @@
 		"code":"320509401",
 		"fullCode":"320509401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方丝绸市场",
 		"parentCode":"320509"
 	},
@@ -107,7 +107,7 @@
 		"code":"320509402",
 		"fullCode":"320509402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东太湖生态旅游度假区",
 		"parentCode":"320509"
 	}

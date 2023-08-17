@@ -42,14 +42,14 @@ public class McaGovCrawler {
                 String regionName = selected.get(2).text();
                 String parentCode;
                 if (regionCode.matches("^[1-9]\\d{5}$")) {
-                    Region.Level level = Region.Level.地;
+                    Region.Level level = Region.Level.地级;
                     parentCode = regionCode.substring(0, 2) + "0000";
                     if (!regionCode.endsWith("00")) {
-                        level = Region.Level.县;
+                        level = Region.Level.县级;
                         parentCode = regionCode.substring(0, 4) + "00";
                     }
                     if (regionCode.endsWith("0000")) {
-                        level = Region.Level.省;
+                        level = Region.Level.省级;
                         parentCode = "000000";
                     }
                     Region region = new Region();
@@ -71,19 +71,19 @@ public class McaGovCrawler {
 
     private static void saveAsSQL(List<Region> regions) {
         StringBuilder sb = new StringBuilder();
-        sb.append("-- 国家民政局，2022年中华人民共和国县以上行政区划代码\n");
-        sb.append("INSERT INTO region (`code`, `name`, `level`, `parent_code`) VALUES\n");
+        sb.append("-- 国家民政部，2022年中华人民共和国县以上行政区划代码\n");
+        sb.append("REPLACE INTO region_mca (`code`, `name`, `level`, `parent_code`) VALUES\n");
         int i = 0, n = regions.size();
         for (Region region : regions) {
             sb.append("(");
             sb.append("'").append(region.code).append("', ");
             sb.append("'").append(region.name).append("', ");
-            sb.append("'").append(region.level).append("', ");
+            sb.append("'").append(region.level.name()).append("', ");
             sb.append("'").append(region.parentCode).append("'");
             sb.append(i == n - 1 ? ");\n" : "), \n");
             i++;
         }
-        MessyUtils.saveToFile("sql/region_county.sql", sb.toString());
+        MessyUtils.saveToFile("sql/region_mca.sql", sb.toString());
     }
 
 }

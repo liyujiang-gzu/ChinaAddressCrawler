@@ -3,7 +3,7 @@
 		"code":"230502",
 		"fullCode":"230502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"尖山区",
 		"parentCode":"2305"
 	},
@@ -11,7 +11,7 @@
 		"code":"230503",
 		"fullCode":"230503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岭东区",
 		"parentCode":"2305"
 	},
@@ -19,7 +19,7 @@
 		"code":"230505",
 		"fullCode":"230505000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"四方台区",
 		"parentCode":"2305"
 	},
@@ -27,7 +27,7 @@
 		"code":"230506",
 		"fullCode":"230506000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宝山区",
 		"parentCode":"2305"
 	},
@@ -35,7 +35,7 @@
 		"code":"230521",
 		"fullCode":"230521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"集贤县",
 		"parentCode":"2305"
 	},
@@ -43,7 +43,7 @@
 		"code":"230522",
 		"fullCode":"230522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"友谊县",
 		"parentCode":"2305"
 	},
@@ -51,7 +51,7 @@
 		"code":"230523",
 		"fullCode":"230523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宝清县",
 		"parentCode":"2305"
 	},
@@ -59,7 +59,7 @@
 		"code":"230524",
 		"fullCode":"230524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"饶河县",
 		"parentCode":"2305"
 	}

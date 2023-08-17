@@ -3,7 +3,7 @@
 		"code":"350524100",
 		"fullCode":"350524100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤城镇",
 		"parentCode":"350524"
 	},
@@ -11,7 +11,7 @@
 		"code":"350524101",
 		"fullCode":"350524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓬莱镇",
 		"parentCode":"350524"
 	},
@@ -19,7 +19,7 @@
 		"code":"350524102",
 		"fullCode":"350524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖头镇",
 		"parentCode":"350524"
 	},
@@ -27,7 +27,7 @@
 		"code":"350524103",
 		"fullCode":"350524103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官桥镇",
 		"parentCode":"350524"
 	},
@@ -35,7 +35,7 @@
 		"code":"350524104",
 		"fullCode":"350524104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"剑斗镇",
 		"parentCode":"350524"
 	},
@@ -43,7 +43,7 @@
 		"code":"350524105",
 		"fullCode":"350524105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城厢镇",
 		"parentCode":"350524"
 	},
@@ -51,7 +51,7 @@
 		"code":"350524106",
 		"fullCode":"350524106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金谷镇",
 		"parentCode":"350524"
 	},
@@ -59,7 +59,7 @@
 		"code":"350524107",
 		"fullCode":"350524107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门镇",
 		"parentCode":"350524"
 	},
@@ -67,7 +67,7 @@
 		"code":"350524108",
 		"fullCode":"350524108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎邱镇",
 		"parentCode":"350524"
 	},
@@ -75,7 +75,7 @@
 		"code":"350524109",
 		"fullCode":"350524109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦田镇",
 		"parentCode":"350524"
 	},
@@ -83,7 +83,7 @@
 		"code":"350524110",
 		"fullCode":"350524110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"感德镇",
 		"parentCode":"350524"
 	},
@@ -91,7 +91,7 @@
 		"code":"350524111",
 		"fullCode":"350524111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魁斗镇",
 		"parentCode":"350524"
 	},
@@ -99,7 +99,7 @@
 		"code":"350524112",
 		"fullCode":"350524112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西坪镇",
 		"parentCode":"350524"
 	},
@@ -107,7 +107,7 @@
 		"code":"350524113",
 		"fullCode":"350524113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"参内镇",
 		"parentCode":"350524"
 	},
@@ -115,7 +115,7 @@
 		"code":"350524114",
 		"fullCode":"350524114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长卿镇",
 		"parentCode":"350524"
 	},
@@ -123,7 +123,7 @@
 		"code":"350524201",
 		"fullCode":"350524201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白濑乡",
 		"parentCode":"350524"
 	},
@@ -131,7 +131,7 @@
 		"code":"350524202",
 		"fullCode":"350524202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖上乡",
 		"parentCode":"350524"
 	},
@@ -139,7 +139,7 @@
 		"code":"350524203",
 		"fullCode":"350524203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚卿乡",
 		"parentCode":"350524"
 	},
@@ -147,7 +147,7 @@
 		"code":"350524204",
 		"fullCode":"350524204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坪乡",
 		"parentCode":"350524"
 	},
@@ -155,7 +155,7 @@
 		"code":"350524205",
 		"fullCode":"350524205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙涓乡",
 		"parentCode":"350524"
 	},
@@ -163,7 +163,7 @@
 		"code":"350524207",
 		"fullCode":"350524207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝田乡",
 		"parentCode":"350524"
 	},
@@ -171,7 +171,7 @@
 		"code":"350524208",
 		"fullCode":"350524208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祥华乡",
 		"parentCode":"350524"
 	},
@@ -179,7 +179,7 @@
 		"code":"350524209",
 		"fullCode":"350524209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃舟乡",
 		"parentCode":"350524"
 	},
@@ -187,7 +187,7 @@
 		"code":"350524210",
 		"fullCode":"350524210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福田乡",
 		"parentCode":"350524"
 	}

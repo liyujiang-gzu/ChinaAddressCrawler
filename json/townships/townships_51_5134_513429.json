@@ -3,7 +3,7 @@
 		"code":"513429100",
 		"fullCode":"513429100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"特木里镇",
 		"parentCode":"513429"
 	},
@@ -11,7 +11,7 @@
 		"code":"513429101",
 		"fullCode":"513429101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭镇",
 		"parentCode":"513429"
 	},
@@ -19,7 +19,7 @@
 		"code":"513429102",
 		"fullCode":"513429102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拖觉镇",
 		"parentCode":"513429"
 	},
@@ -27,7 +27,7 @@
 		"code":"513429103",
 		"fullCode":"513429103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九都镇",
 		"parentCode":"513429"
 	},
@@ -35,7 +35,7 @@
 		"code":"513429104",
 		"fullCode":"513429104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐安镇",
 		"parentCode":"513429"
 	},
@@ -43,7 +43,7 @@
 		"code":"513429105",
 		"fullCode":"513429105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俄里坪镇",
 		"parentCode":"513429"
 	},
@@ -51,7 +51,7 @@
 		"code":"513429106",
 		"fullCode":"513429106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地洛镇",
 		"parentCode":"513429"
 	},
@@ -59,7 +59,7 @@
 		"code":"513429107",
 		"fullCode":"513429107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛角湾镇",
 		"parentCode":"513429"
 	},
@@ -67,7 +67,7 @@
 		"code":"513429206",
 		"fullCode":"513429206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"补尔乡",
 		"parentCode":"513429"
 	},
@@ -75,7 +75,7 @@
 		"code":"513429209",
 		"fullCode":"513429209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉果乡",
 		"parentCode":"513429"
 	},
@@ -83,7 +83,7 @@
 		"code":"513429224",
 		"fullCode":"513429224000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"委只洛乡",
 		"parentCode":"513429"
 	},
@@ -91,7 +91,7 @@
 		"code":"513429226",
 		"fullCode":"513429226000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"基只乡",
 		"parentCode":"513429"
 	}

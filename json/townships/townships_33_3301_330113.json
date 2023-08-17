@@ -3,7 +3,7 @@
 		"code":"330113001",
 		"fullCode":"330113001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临平街道",
 		"parentCode":"330113"
 	},
@@ -11,7 +11,7 @@
 		"code":"330113002",
 		"fullCode":"330113002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南苑街道",
 		"parentCode":"330113"
 	},
@@ -19,7 +19,7 @@
 		"code":"330113003",
 		"fullCode":"330113003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖街道",
 		"parentCode":"330113"
 	},
@@ -27,7 +27,7 @@
 		"code":"330113004",
 		"fullCode":"330113004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星桥街道",
 		"parentCode":"330113"
 	},
@@ -35,7 +35,7 @@
 		"code":"330113005",
 		"fullCode":"330113005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔司街道",
 		"parentCode":"330113"
 	},
@@ -43,7 +43,7 @@
 		"code":"330113006",
 		"fullCode":"330113006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"运河街道",
 		"parentCode":"330113"
 	},
@@ -51,7 +51,7 @@
 		"code":"330113007",
 		"fullCode":"330113007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇贤街道",
 		"parentCode":"330113"
 	},
@@ -59,7 +59,7 @@
 		"code":"330113100",
 		"fullCode":"330113100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘栖镇",
 		"parentCode":"330113"
 	}

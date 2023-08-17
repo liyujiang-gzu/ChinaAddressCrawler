@@ -3,7 +3,7 @@
 		"code":"210521001",
 		"fullCode":"210521001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音阁街道",
 		"parentCode":"210521"
 	},
@@ -11,7 +11,7 @@
 		"code":"210521100",
 		"fullCode":"210521100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小市镇",
 		"parentCode":"210521"
 	},
@@ -19,7 +19,7 @@
 		"code":"210521101",
 		"fullCode":"210521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草河掌镇",
 		"parentCode":"210521"
 	},
@@ -27,7 +27,7 @@
 		"code":"210521102",
 		"fullCode":"210521102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草河城镇",
 		"parentCode":"210521"
 	},
@@ -35,7 +35,7 @@
 		"code":"210521103",
 		"fullCode":"210521103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草河口镇",
 		"parentCode":"210521"
 	},
@@ -43,7 +43,7 @@
 		"code":"210521104",
 		"fullCode":"210521104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连山关镇",
 		"parentCode":"210521"
 	},
@@ -51,7 +51,7 @@
 		"code":"210521106",
 		"fullCode":"210521106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河城镇",
 		"parentCode":"210521"
 	},
@@ -59,7 +59,7 @@
 		"code":"210521109",
 		"fullCode":"210521109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田师傅镇",
 		"parentCode":"210521"
 	},
@@ -67,7 +67,7 @@
 		"code":"210521110",
 		"fullCode":"210521110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南甸子镇",
 		"parentCode":"210521"
 	},
@@ -75,7 +75,7 @@
 		"code":"210521111",
 		"fullCode":"210521111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碱厂镇",
 		"parentCode":"210521"
 	},
@@ -83,7 +83,7 @@
 		"code":"210521112",
 		"fullCode":"210521112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高官镇",
 		"parentCode":"210521"
 	},
@@ -91,7 +91,7 @@
 		"code":"210521202",
 		"fullCode":"210521202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东营坊乡",
 		"parentCode":"210521"
 	}

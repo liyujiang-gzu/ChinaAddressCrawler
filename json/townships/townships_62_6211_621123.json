@@ -3,7 +3,7 @@
 		"code":"621123100",
 		"fullCode":"621123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清源镇",
 		"parentCode":"621123"
 	},
@@ -11,7 +11,7 @@
 		"code":"621123101",
 		"fullCode":"621123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲峰镇",
 		"parentCode":"621123"
 	},
@@ -19,7 +19,7 @@
 		"code":"621123102",
 		"fullCode":"621123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会川镇",
 		"parentCode":"621123"
 	},
@@ -27,7 +27,7 @@
 		"code":"621123103",
 		"fullCode":"621123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五竹镇",
 		"parentCode":"621123"
 	},
@@ -35,7 +35,7 @@
 		"code":"621123104",
 		"fullCode":"621123104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路园镇",
 		"parentCode":"621123"
 	},
@@ -43,7 +43,7 @@
 		"code":"621123105",
 		"fullCode":"621123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北寨镇",
 		"parentCode":"621123"
 	},
@@ -51,7 +51,7 @@
 		"code":"621123106",
 		"fullCode":"621123106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新寨镇",
 		"parentCode":"621123"
 	},
@@ -59,7 +59,7 @@
 		"code":"621123107",
 		"fullCode":"621123107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻家集镇",
 		"parentCode":"621123"
 	},
@@ -67,7 +67,7 @@
 		"code":"621123108",
 		"fullCode":"621123108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锹峪镇",
 		"parentCode":"621123"
 	},
@@ -75,7 +75,7 @@
 		"code":"621123109",
 		"fullCode":"621123109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆坪镇",
 		"parentCode":"621123"
 	},
@@ -83,7 +83,7 @@
 		"code":"621123110",
 		"fullCode":"621123110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祁家庙镇",
 		"parentCode":"621123"
 	},
@@ -91,7 +91,7 @@
 		"code":"621123111",
 		"fullCode":"621123111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上湾镇",
 		"parentCode":"621123"
 	},
@@ -99,7 +99,7 @@
 		"code":"621123203",
 		"fullCode":"621123203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安乡",
 		"parentCode":"621123"
 	},
@@ -107,7 +107,7 @@
 		"code":"621123204",
 		"fullCode":"621123204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦祁乡",
 		"parentCode":"621123"
 	},
@@ -115,7 +115,7 @@
 		"code":"621123209",
 		"fullCode":"621123209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峡城乡",
 		"parentCode":"621123"
 	},
@@ -123,7 +123,7 @@
 		"code":"621123210",
 		"fullCode":"621123210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田家河乡",
 		"parentCode":"621123"
 	}

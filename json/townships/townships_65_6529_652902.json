@@ -3,7 +3,7 @@
 		"code":"652902001",
 		"fullCode":"652902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热斯坦街道",
 		"parentCode":"652902"
 	},
@@ -11,7 +11,7 @@
 		"code":"652902002",
 		"fullCode":"652902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨克萨克街道",
 		"parentCode":"652902"
 	},
@@ -19,7 +19,7 @@
 		"code":"652902003",
 		"fullCode":"652902003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"652902"
 	},
@@ -27,7 +27,7 @@
 		"code":"652902004",
 		"fullCode":"652902004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"652902"
 	},
@@ -35,7 +35,7 @@
 		"code":"652902101",
 		"fullCode":"652902101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌恰镇",
 		"parentCode":"652902"
 	},
@@ -43,7 +43,7 @@
 		"code":"652902102",
 		"fullCode":"652902102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿拉哈格镇",
 		"parentCode":"652902"
 	},
@@ -51,7 +51,7 @@
 		"code":"652902103",
 		"fullCode":"652902103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐满镇",
 		"parentCode":"652902"
 	},
@@ -59,7 +59,7 @@
 		"code":"652902104",
 		"fullCode":"652902104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墩阔坦镇",
 		"parentCode":"652902"
 	},
@@ -67,7 +67,7 @@
 		"code":"652902105",
 		"fullCode":"652902105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牙哈镇",
 		"parentCode":"652902"
 	},
@@ -75,7 +75,7 @@
 		"code":"652902106",
 		"fullCode":"652902106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌尊镇",
 		"parentCode":"652902"
 	},
@@ -83,7 +83,7 @@
 		"code":"652902107",
 		"fullCode":"652902107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊西哈拉镇",
 		"parentCode":"652902"
 	},
@@ -91,7 +91,7 @@
 		"code":"652902108",
 		"fullCode":"652902108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二八台镇",
 		"parentCode":"652902"
 	},
@@ -99,7 +99,7 @@
 		"code":"652902109",
 		"fullCode":"652902109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔里木镇",
 		"parentCode":"652902"
 	},
@@ -107,7 +107,7 @@
 		"code":"652902201",
 		"fullCode":"652902201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉奇吾斯塘乡",
 		"parentCode":"652902"
 	},
@@ -115,7 +115,7 @@
 		"code":"652902202",
 		"fullCode":"652902202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"比西巴格乡",
 		"parentCode":"652902"
 	},
@@ -123,7 +123,7 @@
 		"code":"652902203",
 		"fullCode":"652902203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈尼喀塔木乡",
 		"parentCode":"652902"
 	},
@@ -131,7 +131,7 @@
 		"code":"652902204",
 		"fullCode":"652902204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿克吾斯塘乡",
 		"parentCode":"652902"
 	},
@@ -139,7 +139,7 @@
 		"code":"652902205",
 		"fullCode":"652902205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿格乡",
 		"parentCode":"652902"
 	},
@@ -147,7 +147,7 @@
 		"code":"652902500",
 		"fullCode":"652902500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"库车经济技术开发区",
 		"parentCode":"652902"
 	}

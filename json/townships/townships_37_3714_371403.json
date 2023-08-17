@@ -3,7 +3,7 @@
 		"code":"371403001",
 		"fullCode":"371403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安德街道",
 		"parentCode":"371403"
 	},
@@ -11,7 +11,7 @@
 		"code":"371403002",
 		"fullCode":"371403002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临齐街道",
 		"parentCode":"371403"
 	},
@@ -19,7 +19,7 @@
 		"code":"371403101",
 		"fullCode":"371403101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑家寨镇",
 		"parentCode":"371403"
 	},
@@ -27,7 +27,7 @@
 		"code":"371403102",
 		"fullCode":"371403102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"糜镇",
 		"parentCode":"371403"
 	},
@@ -35,7 +35,7 @@
 		"code":"371403103",
 		"fullCode":"371403103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋家镇",
 		"parentCode":"371403"
 	},
@@ -43,7 +43,7 @@
 		"code":"371403104",
 		"fullCode":"371403104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徽王庄镇",
 		"parentCode":"371403"
 	},
@@ -51,7 +51,7 @@
 		"code":"371403105",
 		"fullCode":"371403105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神头镇",
 		"parentCode":"371403"
 	},
@@ -59,7 +59,7 @@
 		"code":"371403106",
 		"fullCode":"371403106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滋镇",
 		"parentCode":"371403"
 	},
@@ -67,7 +67,7 @@
 		"code":"371403107",
 		"fullCode":"371403107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前孙镇",
 		"parentCode":"371403"
 	},
@@ -75,7 +75,7 @@
 		"code":"371403108",
 		"fullCode":"371403108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"边临镇",
 		"parentCode":"371403"
 	},
@@ -83,7 +83,7 @@
 		"code":"371403109",
 		"fullCode":"371403109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义渡口镇",
 		"parentCode":"371403"
 	},
@@ -91,7 +91,7 @@
 		"code":"371403110",
 		"fullCode":"371403110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁庄镇",
 		"parentCode":"371403"
 	},
@@ -99,7 +99,7 @@
 		"code":"371403202",
 		"fullCode":"371403202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"于集乡",
 		"parentCode":"371403"
 	}

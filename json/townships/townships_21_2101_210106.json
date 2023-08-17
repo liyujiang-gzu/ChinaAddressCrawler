@@ -3,7 +3,7 @@
 		"code":"210106001",
 		"fullCode":"210106001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆明湖街道",
 		"parentCode":"210106"
 	},
@@ -11,7 +11,7 @@
 		"code":"210106003",
 		"fullCode":"210106003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工人村街道",
 		"parentCode":"210106"
 	},
@@ -19,7 +19,7 @@
 		"code":"210106007",
 		"fullCode":"210106007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"启工街道",
 		"parentCode":"210106"
 	},
@@ -27,7 +27,7 @@
 		"code":"210106013",
 		"fullCode":"210106013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"笃工街道",
 		"parentCode":"210106"
 	},
@@ -35,7 +35,7 @@
 		"code":"210106015",
 		"fullCode":"210106015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华街道",
 		"parentCode":"210106"
 	},
@@ -43,7 +43,7 @@
 		"code":"210106019",
 		"fullCode":"210106019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霁虹街道",
 		"parentCode":"210106"
 	},
@@ -51,7 +51,7 @@
 		"code":"210106020",
 		"fullCode":"210106020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凌空街道",
 		"parentCode":"210106"
 	},
@@ -59,7 +59,7 @@
 		"code":"210106021",
 		"fullCode":"210106021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"重工街道",
 		"parentCode":"210106"
 	},
@@ -67,7 +67,7 @@
 		"code":"210106024",
 		"fullCode":"210106024000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴顺街道",
 		"parentCode":"210106"
 	},
@@ -75,7 +75,7 @@
 		"code":"210106026",
 		"fullCode":"210106026000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大青中朝友谊街道",
 		"parentCode":"210106"
 	},
@@ -83,7 +83,7 @@
 		"code":"210106027",
 		"fullCode":"210106027000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翟家街道",
 		"parentCode":"210106"
 	},
@@ -91,7 +91,7 @@
 		"code":"210106029",
 		"fullCode":"210106029000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大潘街道",
 		"parentCode":"210106"
 	},
@@ -99,7 +99,7 @@
 		"code":"210106030",
 		"fullCode":"210106030000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彰驿站街道",
 		"parentCode":"210106"
 	},
@@ -107,7 +107,7 @@
 		"code":"210106031",
 		"fullCode":"210106031000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高花街道",
 		"parentCode":"210106"
 	},
@@ -115,7 +115,7 @@
 		"code":"210106401",
 		"fullCode":"210106401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈阳市经济技术开发区",
 		"parentCode":"210106"
 	}

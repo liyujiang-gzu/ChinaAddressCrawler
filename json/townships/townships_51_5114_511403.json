@@ -3,7 +3,7 @@
 		"code":"511403001",
 		"fullCode":"511403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤鸣街道",
 		"parentCode":"511403"
 	},
@@ -11,7 +11,7 @@
 		"code":"511403003",
 		"fullCode":"511403003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙街道",
 		"parentCode":"511403"
 	},
@@ -19,7 +19,7 @@
 		"code":"511403004",
 		"fullCode":"511403004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音街道",
 		"parentCode":"511403"
 	},
@@ -27,7 +27,7 @@
 		"code":"511403006",
 		"fullCode":"511403006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢家街道",
 		"parentCode":"511403"
 	},
@@ -35,7 +35,7 @@
 		"code":"511403007",
 		"fullCode":"511403007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江口街道",
 		"parentCode":"511403"
 	},
@@ -43,7 +43,7 @@
 		"code":"511403110",
 		"fullCode":"511403110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦江镇",
 		"parentCode":"511403"
 	},
@@ -51,7 +51,7 @@
 		"code":"511403118",
 		"fullCode":"511403118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公义镇",
 		"parentCode":"511403"
 	},
@@ -59,7 +59,7 @@
 		"code":"511403121",
 		"fullCode":"511403121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄丰镇",
 		"parentCode":"511403"
 	}

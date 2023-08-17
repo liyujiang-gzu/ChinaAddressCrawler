@@ -3,7 +3,7 @@
 		"code":"422801",
 		"fullCode":"422801000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"恩施市",
 		"parentCode":"4228"
 	},
@@ -11,7 +11,7 @@
 		"code":"422802",
 		"fullCode":"422802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"利川市",
 		"parentCode":"4228"
 	},
@@ -19,7 +19,7 @@
 		"code":"422822",
 		"fullCode":"422822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"建始县",
 		"parentCode":"4228"
 	},
@@ -27,7 +27,7 @@
 		"code":"422823",
 		"fullCode":"422823000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巴东县",
 		"parentCode":"4228"
 	},
@@ -35,7 +35,7 @@
 		"code":"422825",
 		"fullCode":"422825000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宣恩县",
 		"parentCode":"4228"
 	},
@@ -43,7 +43,7 @@
 		"code":"422826",
 		"fullCode":"422826000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"咸丰县",
 		"parentCode":"4228"
 	},
@@ -51,7 +51,7 @@
 		"code":"422827",
 		"fullCode":"422827000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"来凤县",
 		"parentCode":"4228"
 	},
@@ -59,7 +59,7 @@
 		"code":"422828",
 		"fullCode":"422828000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鹤峰县",
 		"parentCode":"4228"
 	}

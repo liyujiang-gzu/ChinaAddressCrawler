@@ -3,7 +3,7 @@
 		"code":"530826101",
 		"fullCode":"530826101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐烈镇",
 		"parentCode":"530826"
 	},
@@ -11,7 +11,7 @@
 		"code":"530826102",
 		"fullCode":"530826102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"整董镇",
 		"parentCode":"530826"
 	},
@@ -19,7 +19,7 @@
 		"code":"530826103",
 		"fullCode":"530826103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲水镇",
 		"parentCode":"530826"
 	},
@@ -27,7 +27,7 @@
 		"code":"530826104",
 		"fullCode":"530826104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝藏镇",
 		"parentCode":"530826"
 	},
@@ -35,7 +35,7 @@
 		"code":"530826105",
 		"fullCode":"530826105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康平镇",
 		"parentCode":"530826"
 	},
@@ -43,7 +43,7 @@
 		"code":"530826202",
 		"fullCode":"530826202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国庆乡",
 		"parentCode":"530826"
 	},
@@ -51,7 +51,7 @@
 		"code":"530826203",
 		"fullCode":"530826203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘉禾乡",
 		"parentCode":"530826"
 	}

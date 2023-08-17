@@ -3,7 +3,7 @@
 		"code":"421003001",
 		"fullCode":"421003001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"421003"
 	},
@@ -11,7 +11,7 @@
 		"code":"421003002",
 		"fullCode":"421003002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"421003"
 	},
@@ -19,7 +19,7 @@
 		"code":"421003003",
 		"fullCode":"421003003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"421003"
 	},
@@ -27,7 +27,7 @@
 		"code":"421003004",
 		"fullCode":"421003004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰街道",
 		"parentCode":"421003"
 	},
@@ -35,7 +35,7 @@
 		"code":"421003005",
 		"fullCode":"421003005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太湖港街道",
 		"parentCode":"421003"
 	},
@@ -43,7 +43,7 @@
 		"code":"421003100",
 		"fullCode":"421003100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纪南镇",
 		"parentCode":"421003"
 	},
@@ -51,7 +51,7 @@
 		"code":"421003101",
 		"fullCode":"421003101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川店镇",
 		"parentCode":"421003"
 	},
@@ -59,7 +59,7 @@
 		"code":"421003102",
 		"fullCode":"421003102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马山镇",
 		"parentCode":"421003"
 	},
@@ -67,7 +67,7 @@
 		"code":"421003103",
 		"fullCode":"421003103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八岭山镇",
 		"parentCode":"421003"
 	},
@@ -75,7 +75,7 @@
 		"code":"421003104",
 		"fullCode":"421003104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李埠镇",
 		"parentCode":"421003"
 	},
@@ -83,7 +83,7 @@
 		"code":"421003105",
 		"fullCode":"421003105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弥市镇",
 		"parentCode":"421003"
 	},
@@ -91,7 +91,7 @@
 		"code":"421003106",
 		"fullCode":"421003106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郢城镇",
 		"parentCode":"421003"
 	},
@@ -99,7 +99,7 @@
 		"code":"421003451",
 		"fullCode":"421003451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菱角湖管理区",
 		"parentCode":"421003"
 	}

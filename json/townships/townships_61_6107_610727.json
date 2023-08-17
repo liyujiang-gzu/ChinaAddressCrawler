@@ -3,7 +3,7 @@
 		"code":"610727001",
 		"fullCode":"610727001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴州街道",
 		"parentCode":"610727"
 	},
@@ -11,7 +11,7 @@
 		"code":"610727002",
 		"fullCode":"610727002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横现河街道",
 		"parentCode":"610727"
 	},
@@ -19,7 +19,7 @@
 		"code":"610727101",
 		"fullCode":"610727101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"接官亭镇",
 		"parentCode":"610727"
 	},
@@ -27,7 +27,7 @@
 		"code":"610727102",
 		"fullCode":"610727102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西淮坝镇",
 		"parentCode":"610727"
 	},
@@ -35,7 +35,7 @@
 		"code":"610727103",
 		"fullCode":"610727103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两河口镇",
 		"parentCode":"610727"
 	},
@@ -43,7 +43,7 @@
 		"code":"610727104",
 		"fullCode":"610727104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金家河镇",
 		"parentCode":"610727"
 	},
@@ -51,7 +51,7 @@
 		"code":"610727105",
 		"fullCode":"610727105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐家坪镇",
 		"parentCode":"610727"
 	},
@@ -59,7 +59,7 @@
 		"code":"610727106",
 		"fullCode":"610727106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白水江镇",
 		"parentCode":"610727"
 	},
@@ -67,7 +67,7 @@
 		"code":"610727107",
 		"fullCode":"610727107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"硖口驿镇",
 		"parentCode":"610727"
 	},
@@ -75,7 +75,7 @@
 		"code":"610727108",
 		"fullCode":"610727108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马蹄湾镇",
 		"parentCode":"610727"
 	},
@@ -83,7 +83,7 @@
 		"code":"610727109",
 		"fullCode":"610727109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐素河镇",
 		"parentCode":"610727"
 	},
@@ -91,7 +91,7 @@
 		"code":"610727110",
 		"fullCode":"610727110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭镇",
 		"parentCode":"610727"
 	},
@@ -99,7 +99,7 @@
 		"code":"610727111",
 		"fullCode":"610727111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑河镇",
 		"parentCode":"610727"
 	},
@@ -107,7 +107,7 @@
 		"code":"610727112",
 		"fullCode":"610727112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白雀寺镇",
 		"parentCode":"610727"
 	},
@@ -115,7 +115,7 @@
 		"code":"610727113",
 		"fullCode":"610727113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙台坝镇",
 		"parentCode":"610727"
 	},
@@ -123,7 +123,7 @@
 		"code":"610727114",
 		"fullCode":"610727114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五龙洞镇",
 		"parentCode":"610727"
 	},
@@ -131,7 +131,7 @@
 		"code":"610727115",
 		"fullCode":"610727115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音寺镇",
 		"parentCode":"610727"
 	}

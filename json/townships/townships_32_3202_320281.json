@@ -3,7 +3,7 @@
 		"code":"320281001",
 		"fullCode":"320281001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澄江街道",
 		"parentCode":"320281"
 	},
@@ -11,7 +11,7 @@
 		"code":"320281004",
 		"fullCode":"320281004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南闸街道",
 		"parentCode":"320281"
 	},
@@ -19,7 +19,7 @@
 		"code":"320281005",
 		"fullCode":"320281005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云亭街道",
 		"parentCode":"320281"
 	},
@@ -27,7 +27,7 @@
 		"code":"320281007",
 		"fullCode":"320281007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"申港街道",
 		"parentCode":"320281"
 	},
@@ -35,7 +35,7 @@
 		"code":"320281008",
 		"fullCode":"320281008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"利港街道",
 		"parentCode":"320281"
 	},
@@ -43,7 +43,7 @@
 		"code":"320281009",
 		"fullCode":"320281009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏港街道",
 		"parentCode":"320281"
 	},
@@ -51,7 +51,7 @@
 		"code":"320281100",
 		"fullCode":"320281100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"璜土镇",
 		"parentCode":"320281"
 	},
@@ -59,7 +59,7 @@
 		"code":"320281102",
 		"fullCode":"320281102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月城镇",
 		"parentCode":"320281"
 	},
@@ -67,7 +67,7 @@
 		"code":"320281103",
 		"fullCode":"320281103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青阳镇",
 		"parentCode":"320281"
 	},
@@ -75,7 +75,7 @@
 		"code":"320281104",
 		"fullCode":"320281104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐霞客镇",
 		"parentCode":"320281"
 	},
@@ -83,7 +83,7 @@
 		"code":"320281107",
 		"fullCode":"320281107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华士镇",
 		"parentCode":"320281"
 	},
@@ -91,7 +91,7 @@
 		"code":"320281108",
 		"fullCode":"320281108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周庄镇",
 		"parentCode":"320281"
 	},
@@ -99,7 +99,7 @@
 		"code":"320281109",
 		"fullCode":"320281109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥镇",
 		"parentCode":"320281"
 	},
@@ -107,7 +107,7 @@
 		"code":"320281110",
 		"fullCode":"320281110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长泾镇",
 		"parentCode":"320281"
 	},
@@ -115,7 +115,7 @@
 		"code":"320281111",
 		"fullCode":"320281111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顾山镇",
 		"parentCode":"320281"
 	},
@@ -123,7 +123,7 @@
 		"code":"320281112",
 		"fullCode":"320281112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祝塘镇",
 		"parentCode":"320281"
 	},
@@ -131,7 +131,7 @@
 		"code":"320281400",
 		"fullCode":"320281400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江阴高新技术产业开发区",
 		"parentCode":"320281"
 	},
@@ -139,7 +139,7 @@
 		"code":"320281403",
 		"fullCode":"320281403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江苏江阴靖江工业园区",
 		"parentCode":"320281"
 	},
@@ -147,7 +147,7 @@
 		"code":"320281404",
 		"fullCode":"320281404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临港经济开发区",
 		"parentCode":"320281"
 	},
@@ -155,7 +155,7 @@
 		"code":"320281405",
 		"fullCode":"320281405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青阳园区",
 		"parentCode":"320281"
 	},
@@ -163,7 +163,7 @@
 		"code":"320281406",
 		"fullCode":"320281406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月城园区",
 		"parentCode":"320281"
 	}

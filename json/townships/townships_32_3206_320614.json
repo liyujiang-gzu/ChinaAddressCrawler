@@ -3,7 +3,7 @@
 		"code":"320614102",
 		"fullCode":"320614102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海永镇",
 		"parentCode":"320614"
 	},
@@ -11,7 +11,7 @@
 		"code":"320614103",
 		"fullCode":"320614103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常乐镇",
 		"parentCode":"320614"
 	},
@@ -19,7 +19,7 @@
 		"code":"320614104",
 		"fullCode":"320614104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"悦来镇",
 		"parentCode":"320614"
 	},
@@ -27,7 +27,7 @@
 		"code":"320614105",
 		"fullCode":"320614105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四甲镇",
 		"parentCode":"320614"
 	},
@@ -35,7 +35,7 @@
 		"code":"320614106",
 		"fullCode":"320614106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余东镇",
 		"parentCode":"320614"
 	},
@@ -43,7 +43,7 @@
 		"code":"320614107",
 		"fullCode":"320614107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正余镇",
 		"parentCode":"320614"
 	},
@@ -51,7 +51,7 @@
 		"code":"320614400",
 		"fullCode":"320614400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区经济技术开发区",
 		"parentCode":"320614"
 	},
@@ -59,7 +59,7 @@
 		"code":"320614401",
 		"fullCode":"320614401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区永隆沙农场",
 		"parentCode":"320614"
 	},
@@ -67,7 +67,7 @@
 		"code":"320614403",
 		"fullCode":"320614403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区大东农场",
 		"parentCode":"320614"
 	},
@@ -75,7 +75,7 @@
 		"code":"320614404",
 		"fullCode":"320614404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区畜禽良种场",
 		"parentCode":"320614"
 	},
@@ -83,7 +83,7 @@
 		"code":"320614405",
 		"fullCode":"320614405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区种羊场",
 		"parentCode":"320614"
 	},
@@ -91,7 +91,7 @@
 		"code":"320614406",
 		"fullCode":"320614406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区包场渔场",
 		"parentCode":"320614"
 	},
@@ -99,7 +99,7 @@
 		"code":"320614407",
 		"fullCode":"320614407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区长江芦荡养殖场",
 		"parentCode":"320614"
 	},
@@ -107,7 +107,7 @@
 		"code":"320614408",
 		"fullCode":"320614408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门市沿江渔场",
 		"parentCode":"320614"
 	},
@@ -115,7 +115,7 @@
 		"code":"320614409",
 		"fullCode":"320614409000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区三厂苗圃",
 		"parentCode":"320614"
 	},
@@ -123,7 +123,7 @@
 		"code":"320614410",
 		"fullCode":"320614410000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区农科所",
 		"parentCode":"320614"
 	},
@@ -131,7 +131,7 @@
 		"code":"320614412",
 		"fullCode":"320614412000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区财政局芦荡管理所",
 		"parentCode":"320614"
 	},
@@ -139,7 +139,7 @@
 		"code":"320614413",
 		"fullCode":"320614413000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江苏省国营江心沙农场",
 		"parentCode":"320614"
 	},
@@ -147,7 +147,7 @@
 		"code":"320614414",
 		"fullCode":"320614414000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南通市海门区临江新区管理委员会",
 		"parentCode":"320614"
 	},
@@ -155,7 +155,7 @@
 		"code":"320614415",
 		"fullCode":"320614415000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海门港新区",
 		"parentCode":"320614"
 	},
@@ -163,7 +163,7 @@
 		"code":"320614416",
 		"fullCode":"320614416000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三星镇（叠石桥家纺产业园区）",
 		"parentCode":"320614"
 	},
@@ -171,7 +171,7 @@
 		"code":"320614418",
 		"fullCode":"320614418000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三厂工业园区",
 		"parentCode":"320614"
 	}

@@ -3,7 +3,7 @@
 		"code":"522731001",
 		"fullCode":"522731001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涟江街道",
 		"parentCode":"522731"
 	},
@@ -11,7 +11,7 @@
 		"code":"522731002",
 		"fullCode":"522731002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濛江街道",
 		"parentCode":"522731"
 	},
@@ -19,7 +19,7 @@
 		"code":"522731003",
 		"fullCode":"522731003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明田街道",
 		"parentCode":"522731"
 	},
@@ -27,7 +27,7 @@
 		"code":"522731102",
 		"fullCode":"522731102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"好花红镇",
 		"parentCode":"522731"
 	},
@@ -35,7 +35,7 @@
 		"code":"522731103",
 		"fullCode":"522731103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"摆金镇",
 		"parentCode":"522731"
 	},
@@ -43,7 +43,7 @@
 		"code":"522731104",
 		"fullCode":"522731104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅水镇",
 		"parentCode":"522731"
 	},
@@ -51,7 +51,7 @@
 		"code":"522731105",
 		"fullCode":"522731105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"断杉镇",
 		"parentCode":"522731"
 	},
@@ -59,7 +59,7 @@
 		"code":"522731106",
 		"fullCode":"522731106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦山镇",
 		"parentCode":"522731"
 	},
@@ -67,7 +67,7 @@
 		"code":"522731107",
 		"fullCode":"522731107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王佑镇",
 		"parentCode":"522731"
 	},
@@ -75,7 +75,7 @@
 		"code":"522731108",
 		"fullCode":"522731108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羡塘镇",
 		"parentCode":"522731"
 	},
@@ -83,7 +83,7 @@
 		"code":"522731109",
 		"fullCode":"522731109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗度镇",
 		"parentCode":"522731"
 	}

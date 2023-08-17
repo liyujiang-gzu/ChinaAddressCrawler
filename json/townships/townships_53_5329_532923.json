@@ -3,7 +3,7 @@
 		"code":"532923101",
 		"fullCode":"532923101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祥城镇",
 		"parentCode":"532923"
 	},
@@ -11,7 +11,7 @@
 		"code":"532923102",
 		"fullCode":"532923102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙龙镇",
 		"parentCode":"532923"
 	},
@@ -19,7 +19,7 @@
 		"code":"532923103",
 		"fullCode":"532923103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云南驿镇",
 		"parentCode":"532923"
 	},
@@ -27,7 +27,7 @@
 		"code":"532923104",
 		"fullCode":"532923104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下庄镇",
 		"parentCode":"532923"
 	},
@@ -35,7 +35,7 @@
 		"code":"532923105",
 		"fullCode":"532923105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普棚镇",
 		"parentCode":"532923"
 	},
@@ -43,7 +43,7 @@
 		"code":"532923106",
 		"fullCode":"532923106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘厂镇",
 		"parentCode":"532923"
 	},
@@ -51,7 +51,7 @@
 		"code":"532923107",
 		"fullCode":"532923107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾甸镇",
 		"parentCode":"532923"
 	},
@@ -59,7 +59,7 @@
 		"code":"532923108",
 		"fullCode":"532923108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米甸镇",
 		"parentCode":"532923"
 	},
@@ -67,7 +67,7 @@
 		"code":"532923201",
 		"fullCode":"532923201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿鸣乡",
 		"parentCode":"532923"
 	},
@@ -75,7 +75,7 @@
 		"code":"532923202",
 		"fullCode":"532923202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山彝族乡",
 		"parentCode":"532923"
 	}

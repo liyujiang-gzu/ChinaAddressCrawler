@@ -3,7 +3,7 @@
 		"code":"210505001",
 		"fullCode":"210505001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南芬街道",
 		"parentCode":"210505"
 	},
@@ -11,7 +11,7 @@
 		"code":"210505004",
 		"fullCode":"210505004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思山岭街道",
 		"parentCode":"210505"
 	},
@@ -19,7 +19,7 @@
 		"code":"210505005",
 		"fullCode":"210505005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下马塘街道",
 		"parentCode":"210505"
 	}

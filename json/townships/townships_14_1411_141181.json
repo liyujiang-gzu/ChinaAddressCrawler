@@ -3,7 +3,7 @@
 		"code":"141181001",
 		"fullCode":"141181001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新义街道",
 		"parentCode":"141181"
 	},
@@ -11,7 +11,7 @@
 		"code":"141181002",
 		"fullCode":"141181002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中阳楼街道",
 		"parentCode":"141181"
 	},
@@ -19,7 +19,7 @@
 		"code":"141181003",
 		"fullCode":"141181003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振兴街道",
 		"parentCode":"141181"
 	},
@@ -27,7 +27,7 @@
 		"code":"141181004",
 		"fullCode":"141181004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜溪湖街道",
 		"parentCode":"141181"
 	},
@@ -35,7 +35,7 @@
 		"code":"141181005",
 		"fullCode":"141181005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇文街道",
 		"parentCode":"141181"
 	},
@@ -43,7 +43,7 @@
 		"code":"141181100",
 		"fullCode":"141181100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兑镇镇",
 		"parentCode":"141181"
 	},
@@ -51,7 +51,7 @@
 		"code":"141181101",
 		"fullCode":"141181101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳泉曲镇",
 		"parentCode":"141181"
 	},
@@ -59,7 +59,7 @@
 		"code":"141181102",
 		"fullCode":"141181102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下堡镇",
 		"parentCode":"141181"
 	},
@@ -67,7 +67,7 @@
 		"code":"141181103",
 		"fullCode":"141181103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西辛庄镇",
 		"parentCode":"141181"
 	},
@@ -75,7 +75,7 @@
 		"code":"141181104",
 		"fullCode":"141181104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高阳镇",
 		"parentCode":"141181"
 	},
@@ -83,7 +83,7 @@
 		"code":"141181105",
 		"fullCode":"141181105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梧桐镇",
 		"parentCode":"141181"
 	},
@@ -91,7 +91,7 @@
 		"code":"141181106",
 		"fullCode":"141181106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柱濮镇",
 		"parentCode":"141181"
 	},
@@ -99,7 +99,7 @@
 		"code":"141181107",
 		"fullCode":"141181107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大孝堡镇",
 		"parentCode":"141181"
 	},
@@ -107,7 +107,7 @@
 		"code":"141181201",
 		"fullCode":"141181201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下栅乡",
 		"parentCode":"141181"
 	},
@@ -115,7 +115,7 @@
 		"code":"141181202",
 		"fullCode":"141181202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驿马乡",
 		"parentCode":"141181"
 	},
@@ -123,7 +123,7 @@
 		"code":"141181204",
 		"fullCode":"141181204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜村乡",
 		"parentCode":"141181"
 	}

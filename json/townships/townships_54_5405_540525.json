@@ -3,7 +3,7 @@
 		"code":"540525100",
 		"fullCode":"540525100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲松镇",
 		"parentCode":"540525"
 	},
@@ -11,7 +11,7 @@
 		"code":"540525101",
 		"fullCode":"540525101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗布沙镇",
 		"parentCode":"540525"
 	},
@@ -19,7 +19,7 @@
 		"code":"540525200",
 		"fullCode":"540525200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下江乡",
 		"parentCode":"540525"
 	},
@@ -27,7 +27,7 @@
 		"code":"540525201",
 		"fullCode":"540525201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邱多江乡",
 		"parentCode":"540525"
 	},
@@ -35,7 +35,7 @@
 		"code":"540525202",
 		"fullCode":"540525202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堆随乡",
 		"parentCode":"540525"
 	}

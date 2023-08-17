@@ -3,7 +3,7 @@
 		"code":"632803100",
 		"fullCode":"632803100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花土沟镇",
 		"parentCode":"632803"
 	},
@@ -11,7 +11,7 @@
 		"code":"632803101",
 		"fullCode":"632803101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茫崖镇",
 		"parentCode":"632803"
 	},
@@ -19,7 +19,7 @@
 		"code":"632803102",
 		"fullCode":"632803102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冷湖镇",
 		"parentCode":"632803"
 	}

@@ -3,7 +3,7 @@
 		"code":"230822103",
 		"fullCode":"230822103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驼腰子镇",
 		"parentCode":"230822"
 	},
@@ -11,7 +11,7 @@
 		"code":"230822104",
 		"fullCode":"230822104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石头河子镇",
 		"parentCode":"230822"
 	},
@@ -19,7 +19,7 @@
 		"code":"230822106",
 		"fullCode":"230822106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桦南镇",
 		"parentCode":"230822"
 	},
@@ -27,7 +27,7 @@
 		"code":"230822107",
 		"fullCode":"230822107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土龙山镇",
 		"parentCode":"230822"
 	},
@@ -35,7 +35,7 @@
 		"code":"230822108",
 		"fullCode":"230822108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟家岗镇",
 		"parentCode":"230822"
 	},
@@ -43,7 +43,7 @@
 		"code":"230822109",
 		"fullCode":"230822109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闫家镇",
 		"parentCode":"230822"
 	},
@@ -51,7 +51,7 @@
 		"code":"230822110",
 		"fullCode":"230822110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳毛河镇",
 		"parentCode":"230822"
 	},
@@ -59,7 +59,7 @@
 		"code":"230822205",
 		"fullCode":"230822205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙乡",
 		"parentCode":"230822"
 	},
@@ -67,7 +67,7 @@
 		"code":"230822213",
 		"fullCode":"230822213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨树乡",
 		"parentCode":"230822"
 	},
@@ -75,7 +75,7 @@
 		"code":"230822214",
 		"fullCode":"230822214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明义乡",
 		"parentCode":"230822"
 	},
@@ -83,7 +83,7 @@
 		"code":"230822215",
 		"fullCode":"230822215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大八浪乡",
 		"parentCode":"230822"
 	},
@@ -91,7 +91,7 @@
 		"code":"230822216",
 		"fullCode":"230822216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五道岗乡",
 		"parentCode":"230822"
 	},
@@ -99,7 +99,7 @@
 		"code":"230822400",
 		"fullCode":"230822400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桦南林业局",
 		"parentCode":"230822"
 	},
@@ -107,7 +107,7 @@
 		"code":"230822480",
 		"fullCode":"230822480000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑龙江桦南经济开发区",
 		"parentCode":"230822"
 	},
@@ -115,7 +115,7 @@
 		"code":"230822500",
 		"fullCode":"230822500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曙光农场",
 		"parentCode":"230822"
 	},
@@ -123,7 +123,7 @@
 		"code":"230822580",
 		"fullCode":"230822580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桦南种畜场",
 		"parentCode":"230822"
 	}

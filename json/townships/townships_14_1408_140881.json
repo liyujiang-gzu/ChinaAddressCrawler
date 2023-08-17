@@ -3,7 +3,7 @@
 		"code":"140881001",
 		"fullCode":"140881001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"140881"
 	},
@@ -11,7 +11,7 @@
 		"code":"140881002",
 		"fullCode":"140881002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"140881"
 	},
@@ -19,7 +19,7 @@
 		"code":"140881003",
 		"fullCode":"140881003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"140881"
 	},
@@ -27,7 +27,7 @@
 		"code":"140881100",
 		"fullCode":"140881100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虞乡镇",
 		"parentCode":"140881"
 	},
@@ -35,7 +35,7 @@
 		"code":"140881101",
 		"fullCode":"140881101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卿头镇",
 		"parentCode":"140881"
 	},
@@ -43,7 +43,7 @@
 		"code":"140881102",
 		"fullCode":"140881102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开张镇",
 		"parentCode":"140881"
 	},
@@ -51,7 +51,7 @@
 		"code":"140881103",
 		"fullCode":"140881103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栲栳镇",
 		"parentCode":"140881"
 	},
@@ -59,7 +59,7 @@
 		"code":"140881104",
 		"fullCode":"140881104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲州镇",
 		"parentCode":"140881"
 	},
@@ -67,7 +67,7 @@
 		"code":"140881105",
 		"fullCode":"140881105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩阳镇",
 		"parentCode":"140881"
 	},
@@ -75,7 +75,7 @@
 		"code":"140881106",
 		"fullCode":"140881106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张营镇",
 		"parentCode":"140881"
 	},
@@ -83,7 +83,7 @@
 		"code":"140881400",
 		"fullCode":"140881400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永济监狱",
 		"parentCode":"140881"
 	},
@@ -91,7 +91,7 @@
 		"code":"140881401",
 		"fullCode":"140881401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山西省永济虞乡强制隔离戒毒所",
 		"parentCode":"140881"
 	},
@@ -99,7 +99,7 @@
 		"code":"140881402",
 		"fullCode":"140881402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山西省永济董村强制隔离戒毒所",
 		"parentCode":"140881"
 	}

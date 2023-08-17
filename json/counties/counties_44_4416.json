@@ -3,7 +3,7 @@
 		"code":"441602",
 		"fullCode":"441602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"源城区",
 		"parentCode":"4416"
 	},
@@ -11,7 +11,7 @@
 		"code":"441621",
 		"fullCode":"441621000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"紫金县",
 		"parentCode":"4416"
 	},
@@ -19,7 +19,7 @@
 		"code":"441622",
 		"fullCode":"441622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙川县",
 		"parentCode":"4416"
 	},
@@ -27,7 +27,7 @@
 		"code":"441623",
 		"fullCode":"441623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"连平县",
 		"parentCode":"4416"
 	},
@@ -35,7 +35,7 @@
 		"code":"441624",
 		"fullCode":"441624000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"和平县",
 		"parentCode":"4416"
 	},
@@ -43,7 +43,7 @@
 		"code":"441625",
 		"fullCode":"441625000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东源县",
 		"parentCode":"4416"
 	}

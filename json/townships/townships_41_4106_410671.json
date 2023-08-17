@@ -3,7 +3,7 @@
 		"code":"410671400",
 		"fullCode":"410671400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东杨路办事处",
 		"parentCode":"410671"
 	},
@@ -11,7 +11,7 @@
 		"code":"410671401",
 		"fullCode":"410671401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渤海路办事处",
 		"parentCode":"410671"
 	},
@@ -19,7 +19,7 @@
 		"code":"410671402",
 		"fullCode":"410671402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海河路办事处",
 		"parentCode":"410671"
 	}

@@ -3,7 +3,7 @@
 		"code":"130772105",
 		"fullCode":"130772105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙沟镇",
 		"parentCode":"130772"
 	},
@@ -11,7 +11,7 @@
 		"code":"130772215",
 		"fullCode":"130772215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宇宙营乡",
 		"parentCode":"130772"
 	},
@@ -19,7 +19,7 @@
 		"code":"130772401",
 		"fullCode":"130772401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄山管理处",
 		"parentCode":"130772"
 	},
@@ -27,7 +27,7 @@
 		"code":"130772402",
 		"fullCode":"130772402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门管理处",
 		"parentCode":"130772"
 	},
@@ -35,7 +35,7 @@
 		"code":"130772403",
 		"fullCode":"130772403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰管理处",
 		"parentCode":"130772"
 	},
@@ -43,7 +43,7 @@
 		"code":"130772404",
 		"fullCode":"130772404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙管理处",
 		"parentCode":"130772"
 	},
@@ -51,7 +51,7 @@
 		"code":"130772405",
 		"fullCode":"130772405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔管理处",
 		"parentCode":"130772"
 	}

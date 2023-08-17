@@ -3,7 +3,7 @@
 		"code":"445203001",
 		"fullCode":"445203001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲溪街道",
 		"parentCode":"445203"
 	},
@@ -11,7 +11,7 @@
 		"code":"445203002",
 		"fullCode":"445203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磐东街道",
 		"parentCode":"445203"
 	},
@@ -19,7 +19,7 @@
 		"code":"445203102",
 		"fullCode":"445203102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云路镇",
 		"parentCode":"445203"
 	},
@@ -27,7 +27,7 @@
 		"code":"445203103",
 		"fullCode":"445203103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉窖镇",
 		"parentCode":"445203"
 	},
@@ -35,7 +35,7 @@
 		"code":"445203104",
 		"fullCode":"445203104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锡场镇",
 		"parentCode":"445203"
 	},
@@ -43,7 +43,7 @@
 		"code":"445203105",
 		"fullCode":"445203105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新亨镇",
 		"parentCode":"445203"
 	},
@@ -51,7 +51,7 @@
 		"code":"445203106",
 		"fullCode":"445203106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉湖镇",
 		"parentCode":"445203"
 	},
@@ -59,7 +59,7 @@
 		"code":"445203107",
 		"fullCode":"445203107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"埔田镇",
 		"parentCode":"445203"
 	},
@@ -67,7 +67,7 @@
 		"code":"445203108",
 		"fullCode":"445203108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霖磐镇",
 		"parentCode":"445203"
 	},
@@ -75,7 +75,7 @@
 		"code":"445203109",
 		"fullCode":"445203109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月城镇",
 		"parentCode":"445203"
 	},
@@ -83,7 +83,7 @@
 		"code":"445203110",
 		"fullCode":"445203110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔镇",
 		"parentCode":"445203"
 	},
@@ -91,7 +91,7 @@
 		"code":"445203111",
 		"fullCode":"445203111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙尾镇",
 		"parentCode":"445203"
 	},
@@ -99,7 +99,7 @@
 		"code":"445203112",
 		"fullCode":"445203112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂岭镇",
 		"parentCode":"445203"
 	},
@@ -107,7 +107,7 @@
 		"code":"445203401",
 		"fullCode":"445203401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东径茶场",
 		"parentCode":"445203"
 	},
@@ -115,7 +115,7 @@
 		"code":"445203402",
 		"fullCode":"445203402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪上农场",
 		"parentCode":"445203"
 	},
@@ -123,7 +123,7 @@
 		"code":"445203403",
 		"fullCode":"445203403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"揭阳高新技术产业开发区",
 		"parentCode":"445203"
 	},
@@ -131,7 +131,7 @@
 		"code":"445203404",
 		"fullCode":"445203404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卅岭农场",
 		"parentCode":"445203"
 	},
@@ -139,7 +139,7 @@
 		"code":"445203405",
 		"fullCode":"445203405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝城区工业园区管理处",
 		"parentCode":"445203"
 	},
@@ -147,7 +147,7 @@
 		"code":"445203406",
 		"fullCode":"445203406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠海（揭阳）产业转移工业园",
 		"parentCode":"445203"
 	}

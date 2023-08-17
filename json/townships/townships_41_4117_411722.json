@@ -3,7 +3,7 @@
 		"code":"411722001",
 		"fullCode":"411722001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡都街道",
 		"parentCode":"411722"
 	},
@@ -11,7 +11,7 @@
 		"code":"411722002",
 		"fullCode":"411722002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦岗街道",
 		"parentCode":"411722"
 	},
@@ -19,7 +19,7 @@
 		"code":"411722003",
 		"fullCode":"411722003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"重阳街道",
 		"parentCode":"411722"
 	},
@@ -27,7 +27,7 @@
 		"code":"411722004",
 		"fullCode":"411722004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧龙街道",
 		"parentCode":"411722"
 	},
@@ -35,7 +35,7 @@
 		"code":"411722101",
 		"fullCode":"411722101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄埠镇",
 		"parentCode":"411722"
 	},
@@ -43,7 +43,7 @@
 		"code":"411722102",
 		"fullCode":"411722102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨集镇",
 		"parentCode":"411722"
 	},
@@ -51,7 +51,7 @@
 		"code":"411722103",
 		"fullCode":"411722103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洙湖镇",
 		"parentCode":"411722"
 	},
@@ -59,7 +59,7 @@
 		"code":"411722104",
 		"fullCode":"411722104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"党店镇",
 		"parentCode":"411722"
 	},
@@ -67,7 +67,7 @@
 		"code":"411722105",
 		"fullCode":"411722105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱里镇",
 		"parentCode":"411722"
 	},
@@ -75,7 +75,7 @@
 		"code":"411722106",
 		"fullCode":"411722106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华陂镇",
 		"parentCode":"411722"
 	},
@@ -83,7 +83,7 @@
 		"code":"411722107",
 		"fullCode":"411722107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔桥镇",
 		"parentCode":"411722"
 	},
@@ -91,7 +91,7 @@
 		"code":"411722108",
 		"fullCode":"411722108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东洪镇",
 		"parentCode":"411722"
 	},
@@ -99,7 +99,7 @@
 		"code":"411722109",
 		"fullCode":"411722109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邵店镇",
 		"parentCode":"411722"
 	},
@@ -107,7 +107,7 @@
 		"code":"411722110",
 		"fullCode":"411722110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五龙镇",
 		"parentCode":"411722"
 	},
@@ -115,7 +115,7 @@
 		"code":"411722111",
 		"fullCode":"411722111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和店镇",
 		"parentCode":"411722"
 	},
@@ -123,7 +123,7 @@
 		"code":"411722112",
 		"fullCode":"411722112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩寨镇",
 		"parentCode":"411722"
 	},
@@ -131,7 +131,7 @@
 		"code":"411722113",
 		"fullCode":"411722113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡沟镇",
 		"parentCode":"411722"
 	},
@@ -139,7 +139,7 @@
 		"code":"411722201",
 		"fullCode":"411722201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大路李乡",
 		"parentCode":"411722"
 	},
@@ -147,7 +147,7 @@
 		"code":"411722202",
 		"fullCode":"411722202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无量寺乡",
 		"parentCode":"411722"
 	},
@@ -155,7 +155,7 @@
 		"code":"411722205",
 		"fullCode":"411722205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨屯乡",
 		"parentCode":"411722"
 	},
@@ -163,7 +163,7 @@
 		"code":"411722209",
 		"fullCode":"411722209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐海乡",
 		"parentCode":"411722"
 	},
@@ -171,7 +171,7 @@
 		"code":"411722210",
 		"fullCode":"411722210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇礼乡",
 		"parentCode":"411722"
 	},
@@ -179,7 +179,7 @@
 		"code":"411722212",
 		"fullCode":"411722212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东岸乡",
 		"parentCode":"411722"
 	},
@@ -187,7 +187,7 @@
 		"code":"411722215",
 		"fullCode":"411722215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小岳寺乡",
 		"parentCode":"411722"
 	},
@@ -195,7 +195,7 @@
 		"code":"411722216",
 		"fullCode":"411722216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西洪乡",
 		"parentCode":"411722"
 	},
@@ -203,7 +203,7 @@
 		"code":"411722217",
 		"fullCode":"411722217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百尺乡",
 		"parentCode":"411722"
 	}

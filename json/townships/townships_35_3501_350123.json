@@ -3,7 +3,7 @@
 		"code":"350123100",
 		"fullCode":"350123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤山镇",
 		"parentCode":"350123"
 	},
@@ -11,7 +11,7 @@
 		"code":"350123101",
 		"fullCode":"350123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松山镇",
 		"parentCode":"350123"
 	},
@@ -19,7 +19,7 @@
 		"code":"350123102",
 		"fullCode":"350123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"起步镇",
 		"parentCode":"350123"
 	},
@@ -27,7 +27,7 @@
 		"code":"350123103",
 		"fullCode":"350123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中房镇",
 		"parentCode":"350123"
 	},
@@ -35,7 +35,7 @@
 		"code":"350123104",
 		"fullCode":"350123104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"飞竹镇",
 		"parentCode":"350123"
 	},
@@ -43,7 +43,7 @@
 		"code":"350123105",
 		"fullCode":"350123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鉴江镇",
 		"parentCode":"350123"
 	},
@@ -51,7 +51,7 @@
 		"code":"350123200",
 		"fullCode":"350123200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白塔乡",
 		"parentCode":"350123"
 	},
@@ -59,7 +59,7 @@
 		"code":"350123201",
 		"fullCode":"350123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪洋乡",
 		"parentCode":"350123"
 	},
@@ -67,7 +67,7 @@
 		"code":"350123202",
 		"fullCode":"350123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西兰乡",
 		"parentCode":"350123"
 	},
@@ -75,7 +75,7 @@
 		"code":"350123203",
 		"fullCode":"350123203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霍口畲族乡",
 		"parentCode":"350123"
 	},
@@ -83,7 +83,7 @@
 		"code":"350123204",
 		"fullCode":"350123204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧里乡",
 		"parentCode":"350123"
 	},
@@ -91,7 +91,7 @@
 		"code":"350123500",
 		"fullCode":"350123500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗源湾",
 		"parentCode":"350123"
 	}

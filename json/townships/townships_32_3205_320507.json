@@ -3,7 +3,7 @@
 		"code":"320507001",
 		"fullCode":"320507001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元和街道",
 		"parentCode":"320507"
 	},
@@ -11,7 +11,7 @@
 		"code":"320507002",
 		"fullCode":"320507002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平街道",
 		"parentCode":"320507"
 	},
@@ -19,7 +19,7 @@
 		"code":"320507003",
 		"fullCode":"320507003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄桥街道",
 		"parentCode":"320507"
 	},
@@ -27,7 +27,7 @@
 		"code":"320507004",
 		"fullCode":"320507004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北桥街道",
 		"parentCode":"320507"
 	},
@@ -35,7 +35,7 @@
 		"code":"320507005",
 		"fullCode":"320507005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北河泾街道",
 		"parentCode":"320507"
 	},
@@ -43,7 +43,7 @@
 		"code":"320507006",
 		"fullCode":"320507006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漕湖街道",
 		"parentCode":"320507"
 	},
@@ -51,7 +51,7 @@
 		"code":"320507007",
 		"fullCode":"320507007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澄阳街道",
 		"parentCode":"320507"
 	},
@@ -59,7 +59,7 @@
 		"code":"320507100",
 		"fullCode":"320507100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望亭镇",
 		"parentCode":"320507"
 	},
@@ -67,7 +67,7 @@
 		"code":"320507102",
 		"fullCode":"320507102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄埭镇",
 		"parentCode":"320507"
 	},
@@ -75,7 +75,7 @@
 		"code":"320507105",
 		"fullCode":"320507105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渭塘镇",
 		"parentCode":"320507"
 	},
@@ -83,7 +83,7 @@
 		"code":"320507109",
 		"fullCode":"320507109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳澄湖镇",
 		"parentCode":"320507"
 	},
@@ -91,7 +91,7 @@
 		"code":"320507401",
 		"fullCode":"320507401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳澄湖生态休闲旅游度假区",
 		"parentCode":"320507"
 	},
@@ -99,7 +99,7 @@
 		"code":"320507402",
 		"fullCode":"320507402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏州高铁新城",
 		"parentCode":"320507"
 	}

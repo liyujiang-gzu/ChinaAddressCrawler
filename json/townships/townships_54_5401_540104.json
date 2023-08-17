@@ -3,7 +3,7 @@
 		"code":"540104100",
 		"fullCode":"540104100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德庆镇",
 		"parentCode":"540104"
 	},
@@ -11,7 +11,7 @@
 		"code":"540104200",
 		"fullCode":"540104200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔杰乡",
 		"parentCode":"540104"
 	},
@@ -19,7 +19,7 @@
 		"code":"540104201",
 		"fullCode":"540104201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章多乡",
 		"parentCode":"540104"
 	},
@@ -27,7 +27,7 @@
 		"code":"540104202",
 		"fullCode":"540104202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐嘎乡",
 		"parentCode":"540104"
 	},
@@ -35,7 +35,7 @@
 		"code":"540104203",
 		"fullCode":"540104203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪乡",
 		"parentCode":"540104"
 	},
@@ -43,7 +43,7 @@
 		"code":"540104204",
 		"fullCode":"540104204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"帮堆乡",
 		"parentCode":"540104"
 	}

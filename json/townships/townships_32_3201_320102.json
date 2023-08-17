@@ -3,7 +3,7 @@
 		"code":"320102002",
 		"fullCode":"320102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅园新村街道",
 		"parentCode":"320102"
 	},
@@ -11,7 +11,7 @@
 		"code":"320102003",
 		"fullCode":"320102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街口街道",
 		"parentCode":"320102"
 	},
@@ -19,7 +19,7 @@
 		"code":"320102005",
 		"fullCode":"320102005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玄武门街道",
 		"parentCode":"320102"
 	},
@@ -27,7 +27,7 @@
 		"code":"320102007",
 		"fullCode":"320102007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锁金村街道",
 		"parentCode":"320102"
 	},
@@ -35,7 +35,7 @@
 		"code":"320102008",
 		"fullCode":"320102008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红山街道",
 		"parentCode":"320102"
 	},
@@ -43,7 +43,7 @@
 		"code":"320102009",
 		"fullCode":"320102009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孝陵卫街道",
 		"parentCode":"320102"
 	},
@@ -51,7 +51,7 @@
 		"code":"320102010",
 		"fullCode":"320102010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玄武湖街道",
 		"parentCode":"320102"
 	},
@@ -59,7 +59,7 @@
 		"code":"320102400",
 		"fullCode":"320102400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐庄高新技术产业开发区",
 		"parentCode":"320102"
 	}

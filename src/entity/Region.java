@@ -13,6 +13,6 @@ public class Region {
 
     @SuppressWarnings("NonAsciiCharacters")
     public enum Level {
-        省, 地, 县, 乡, 村
+        省级, 地级, 县级, 乡级, 村级
     }
 }

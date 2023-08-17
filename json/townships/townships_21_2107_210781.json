@@ -3,7 +3,7 @@
 		"code":"210781001",
 		"fullCode":"210781001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大凌河街道",
 		"parentCode":"210781"
 	},
@@ -11,7 +11,7 @@
 		"code":"210781002",
 		"fullCode":"210781002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金城街道",
 		"parentCode":"210781"
 	},
@@ -19,7 +19,7 @@
 		"code":"210781003",
 		"fullCode":"210781003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八千街道",
 		"parentCode":"210781"
 	},
@@ -27,7 +27,7 @@
 		"code":"210781101",
 		"fullCode":"210781101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石山镇",
 		"parentCode":"210781"
 	},
@@ -35,7 +35,7 @@
 		"code":"210781102",
 		"fullCode":"210781102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余积镇",
 		"parentCode":"210781"
 	},
@@ -43,7 +43,7 @@
 		"code":"210781103",
 		"fullCode":"210781103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双羊镇",
 		"parentCode":"210781"
 	},
@@ -51,7 +51,7 @@
 		"code":"210781104",
 		"fullCode":"210781104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"班吉塔镇",
 		"parentCode":"210781"
 	},
@@ -59,7 +59,7 @@
 		"code":"210781105",
 		"fullCode":"210781105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈家台镇",
 		"parentCode":"210781"
 	},
@@ -67,7 +67,7 @@
 		"code":"210781106",
 		"fullCode":"210781106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三台子镇",
 		"parentCode":"210781"
 	},
@@ -75,7 +75,7 @@
 		"code":"210781107",
 		"fullCode":"210781107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"右卫镇",
 		"parentCode":"210781"
 	},
@@ -83,7 +83,7 @@
 		"code":"210781108",
 		"fullCode":"210781108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阎家镇",
 		"parentCode":"210781"
 	},
@@ -91,7 +91,7 @@
 		"code":"210781109",
 		"fullCode":"210781109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新庄子镇",
 		"parentCode":"210781"
 	},
@@ -99,7 +99,7 @@
 		"code":"210781112",
 		"fullCode":"210781112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠岩镇",
 		"parentCode":"210781"
 	},
@@ -107,7 +107,7 @@
 		"code":"210781113",
 		"fullCode":"210781113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安屯镇",
 		"parentCode":"210781"
 	},
@@ -115,7 +115,7 @@
 		"code":"210781114",
 		"fullCode":"210781114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大业镇",
 		"parentCode":"210781"
 	},
@@ -123,7 +123,7 @@
 		"code":"210781116",
 		"fullCode":"210781116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建业镇",
 		"parentCode":"210781"
 	},
@@ -131,7 +131,7 @@
 		"code":"210781117",
 		"fullCode":"210781117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温滴楼镇",
 		"parentCode":"210781"
 	},
@@ -139,7 +139,7 @@
 		"code":"210781118",
 		"fullCode":"210781118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白台子镇",
 		"parentCode":"210781"
 	},
@@ -147,7 +147,7 @@
 		"code":"210781212",
 		"fullCode":"210781212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板石沟乡",
 		"parentCode":"210781"
 	},
@@ -155,7 +155,7 @@
 		"code":"210781217",
 		"fullCode":"210781217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢屯乡",
 		"parentCode":"210781"
 	},
@@ -163,7 +163,7 @@
 		"code":"210781401",
 		"fullCode":"210781401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽宁省金城原种场",
 		"parentCode":"210781"
 	}

@@ -3,7 +3,7 @@
 		"code":"532628101",
 		"fullCode":"532628101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华镇",
 		"parentCode":"532628"
 	},
@@ -11,7 +11,7 @@
 		"code":"532628102",
 		"fullCode":"532628102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"归朝镇",
 		"parentCode":"532628"
 	},
@@ -19,7 +19,7 @@
 		"code":"532628103",
 		"fullCode":"532628103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"剥隘镇",
 		"parentCode":"532628"
 	},
@@ -27,7 +27,7 @@
 		"code":"532628104",
 		"fullCode":"532628104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里达镇",
 		"parentCode":"532628"
 	},
@@ -35,7 +35,7 @@
 		"code":"532628105",
 		"fullCode":"532628105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田蓬镇",
 		"parentCode":"532628"
 	},
@@ -43,7 +43,7 @@
 		"code":"532628106",
 		"fullCode":"532628106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木央镇",
 		"parentCode":"532628"
 	},
@@ -51,7 +51,7 @@
 		"code":"532628201",
 		"fullCode":"532628201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板仑乡",
 		"parentCode":"532628"
 	},
@@ -59,7 +59,7 @@
 		"code":"532628202",
 		"fullCode":"532628202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷拉乡",
 		"parentCode":"532628"
 	},
@@ -67,7 +67,7 @@
 		"code":"532628203",
 		"fullCode":"532628203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"者桑乡",
 		"parentCode":"532628"
 	},
@@ -75,7 +75,7 @@
 		"code":"532628204",
 		"fullCode":"532628204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那能乡",
 		"parentCode":"532628"
 	},
@@ -83,7 +83,7 @@
 		"code":"532628205",
 		"fullCode":"532628205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洞波瑶族乡",
 		"parentCode":"532628"
 	},
@@ -91,7 +91,7 @@
 		"code":"532628206",
 		"fullCode":"532628206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿用乡",
 		"parentCode":"532628"
 	},
@@ -99,7 +99,7 @@
 		"code":"532628207",
 		"fullCode":"532628207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花甲乡",
 		"parentCode":"532628"
 	}

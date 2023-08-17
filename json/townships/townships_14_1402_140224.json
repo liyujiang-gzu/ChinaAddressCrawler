@@ -3,7 +3,7 @@
 		"code":"140224100",
 		"fullCode":"140224100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武灵镇",
 		"parentCode":"140224"
 	},
@@ -11,7 +11,7 @@
 		"code":"140224101",
 		"fullCode":"140224101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东河南镇",
 		"parentCode":"140224"
 	},
@@ -19,7 +19,7 @@
 		"code":"140224102",
 		"fullCode":"140224102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上寨镇",
 		"parentCode":"140224"
 	},
@@ -27,7 +27,7 @@
 		"code":"140224200",
 		"fullCode":"140224200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"落水河乡",
 		"parentCode":"140224"
 	},
@@ -35,7 +35,7 @@
 		"code":"140224205",
 		"fullCode":"140224205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵北乡",
 		"parentCode":"140224"
 	},
@@ -43,7 +43,7 @@
 		"code":"140224206",
 		"fullCode":"140224206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石家田乡",
 		"parentCode":"140224"
 	},
@@ -51,7 +51,7 @@
 		"code":"140224207",
 		"fullCode":"140224207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳科乡",
 		"parentCode":"140224"
 	},
@@ -59,7 +59,7 @@
 		"code":"140224208",
 		"fullCode":"140224208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白崖台乡",
 		"parentCode":"140224"
 	},
@@ -67,7 +67,7 @@
 		"code":"140224210",
 		"fullCode":"140224210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红石塄乡",
 		"parentCode":"140224"
 	},
@@ -75,7 +75,7 @@
 		"code":"140224212",
 		"fullCode":"140224212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下关乡",
 		"parentCode":"140224"
 	},
@@ -83,7 +83,7 @@
 		"code":"140224213",
 		"fullCode":"140224213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"独峪乡",
 		"parentCode":"140224"
 	}

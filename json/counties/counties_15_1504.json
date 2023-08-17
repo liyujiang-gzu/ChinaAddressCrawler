@@ -3,7 +3,7 @@
 		"code":"150402",
 		"fullCode":"150402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"红山区",
 		"parentCode":"1504"
 	},
@@ -11,7 +11,7 @@
 		"code":"150403",
 		"fullCode":"150403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"元宝山区",
 		"parentCode":"1504"
 	},
@@ -19,7 +19,7 @@
 		"code":"150404",
 		"fullCode":"150404000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"松山区",
 		"parentCode":"1504"
 	},
@@ -27,7 +27,7 @@
 		"code":"150421",
 		"fullCode":"150421000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿鲁科尔沁旗",
 		"parentCode":"1504"
 	},
@@ -35,7 +35,7 @@
 		"code":"150422",
 		"fullCode":"150422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巴林左旗",
 		"parentCode":"1504"
 	},
@@ -43,7 +43,7 @@
 		"code":"150423",
 		"fullCode":"150423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巴林右旗",
 		"parentCode":"1504"
 	},
@@ -51,7 +51,7 @@
 		"code":"150424",
 		"fullCode":"150424000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"林西县",
 		"parentCode":"1504"
 	},
@@ -59,7 +59,7 @@
 		"code":"150425",
 		"fullCode":"150425000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"克什克腾旗",
 		"parentCode":"1504"
 	},
@@ -67,7 +67,7 @@
 		"code":"150426",
 		"fullCode":"150426000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"翁牛特旗",
 		"parentCode":"1504"
 	},
@@ -75,7 +75,7 @@
 		"code":"150428",
 		"fullCode":"150428000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"喀喇沁旗",
 		"parentCode":"1504"
 	},
@@ -83,7 +83,7 @@
 		"code":"150429",
 		"fullCode":"150429000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁城县",
 		"parentCode":"1504"
 	},
@@ -91,7 +91,7 @@
 		"code":"150430",
 		"fullCode":"150430000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"敖汉旗",
 		"parentCode":"1504"
 	}

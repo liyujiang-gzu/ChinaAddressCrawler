@@ -3,7 +3,7 @@
 		"code":"321112001",
 		"fullCode":"321112001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高资街道",
 		"parentCode":"321112"
 	},
@@ -11,7 +11,7 @@
 		"code":"321112002",
 		"fullCode":"321112002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜城街道",
 		"parentCode":"321112"
 	},
@@ -19,7 +19,7 @@
 		"code":"321112100",
 		"fullCode":"321112100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥镇",
 		"parentCode":"321112"
 	},
@@ -27,7 +27,7 @@
 		"code":"321112101",
 		"fullCode":"321112101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛丰镇",
 		"parentCode":"321112"
 	},
@@ -35,7 +35,7 @@
 		"code":"321112102",
 		"fullCode":"321112102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷阳镇",
 		"parentCode":"321112"
 	},
@@ -43,7 +43,7 @@
 		"code":"321112103",
 		"fullCode":"321112103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上党镇",
 		"parentCode":"321112"
 	},
@@ -51,7 +51,7 @@
 		"code":"321112104",
 		"fullCode":"321112104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝堰镇",
 		"parentCode":"321112"
 	},
@@ -59,7 +59,7 @@
 		"code":"321112105",
 		"fullCode":"321112105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"世业镇",
 		"parentCode":"321112"
 	},
@@ -67,7 +67,7 @@
 		"code":"321112401",
 		"fullCode":"321112401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江心洲生态农业园区",
 		"parentCode":"321112"
 	},
@@ -75,7 +75,7 @@
 		"code":"321112402",
 		"fullCode":"321112402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣炳盐资源区",
 		"parentCode":"321112"
 	}

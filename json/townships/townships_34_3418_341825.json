@@ -3,7 +3,7 @@
 		"code":"341825100",
 		"fullCode":"341825100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旌阳镇",
 		"parentCode":"341825"
 	},
@@ -11,7 +11,7 @@
 		"code":"341825101",
 		"fullCode":"341825101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡家桥镇",
 		"parentCode":"341825"
 	},
@@ -19,7 +19,7 @@
 		"code":"341825102",
 		"fullCode":"341825102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三溪镇",
 		"parentCode":"341825"
 	},
@@ -27,7 +27,7 @@
 		"code":"341825103",
 		"fullCode":"341825103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙首镇",
 		"parentCode":"341825"
 	},
@@ -35,7 +35,7 @@
 		"code":"341825104",
 		"fullCode":"341825104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白地镇",
 		"parentCode":"341825"
 	},
@@ -43,7 +43,7 @@
 		"code":"341825105",
 		"fullCode":"341825105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俞村镇",
 		"parentCode":"341825"
 	},
@@ -51,7 +51,7 @@
 		"code":"341825106",
 		"fullCode":"341825106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"341825"
 	},
@@ -59,7 +59,7 @@
 		"code":"341825107",
 		"fullCode":"341825107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙村镇",
 		"parentCode":"341825"
 	},
@@ -67,7 +67,7 @@
 		"code":"341825108",
 		"fullCode":"341825108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"版书镇",
 		"parentCode":"341825"
 	},
@@ -75,7 +75,7 @@
 		"code":"341825109",
 		"fullCode":"341825109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云乐镇",
 		"parentCode":"341825"
 	}

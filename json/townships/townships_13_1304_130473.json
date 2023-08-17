@@ -3,7 +3,7 @@
 		"code":"130473001",
 		"fullCode":"130473001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"130473"
 	},
@@ -11,7 +11,7 @@
 		"code":"130473100",
 		"fullCode":"130473100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高臾镇",
 		"parentCode":"130473"
 	},
@@ -19,7 +19,7 @@
 		"code":"130473101",
 		"fullCode":"130473101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光禄镇",
 		"parentCode":"130473"
 	},
@@ -27,7 +27,7 @@
 		"code":"130473102",
 		"fullCode":"130473102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林坛镇",
 		"parentCode":"130473"
 	},
@@ -35,7 +35,7 @@
 		"code":"130473103",
 		"fullCode":"130473103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马头镇",
 		"parentCode":"130473"
 	},
@@ -43,7 +43,7 @@
 		"code":"130473200",
 		"fullCode":"130473200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛庄营乡",
 		"parentCode":"130473"
 	},
@@ -51,7 +51,7 @@
 		"code":"130473201",
 		"fullCode":"130473201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花官营乡",
 		"parentCode":"130473"
 	},
@@ -59,7 +59,7 @@
 		"code":"130473202",
 		"fullCode":"130473202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台城乡",
 		"parentCode":"130473"
 	},
@@ -67,7 +67,7 @@
 		"code":"130473203",
 		"fullCode":"130473203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城乡",
 		"parentCode":"130473"
 	}

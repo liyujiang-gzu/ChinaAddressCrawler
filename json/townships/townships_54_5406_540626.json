@@ -3,7 +3,7 @@
 		"code":"540626100",
 		"fullCode":"540626100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚拉镇",
 		"parentCode":"540626"
 	},
@@ -11,7 +11,7 @@
 		"code":"540626101",
 		"fullCode":"540626101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣布镇",
 		"parentCode":"540626"
 	},
@@ -19,7 +19,7 @@
 		"code":"540626201",
 		"fullCode":"540626201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"若达乡",
 		"parentCode":"540626"
 	},
@@ -27,7 +27,7 @@
 		"code":"540626202",
 		"fullCode":"540626202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加勤乡",
 		"parentCode":"540626"
 	},
@@ -35,7 +35,7 @@
 		"code":"540626203",
 		"fullCode":"540626203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤多乡",
 		"parentCode":"540626"
 	},
@@ -43,7 +43,7 @@
 		"code":"540626205",
 		"fullCode":"540626205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西昌乡",
 		"parentCode":"540626"
 	},
@@ -51,7 +51,7 @@
 		"code":"540626206",
 		"fullCode":"540626206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江达乡",
 		"parentCode":"540626"
 	},
@@ -59,7 +59,7 @@
 		"code":"540626208",
 		"fullCode":"540626208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"热瓦乡",
 		"parentCode":"540626"
 	},
@@ -67,7 +67,7 @@
 		"code":"540626209",
 		"fullCode":"540626209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎美乡",
 		"parentCode":"540626"
 	},
@@ -75,7 +75,7 @@
 		"code":"540626210",
 		"fullCode":"540626210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎木乡",
 		"parentCode":"540626"
 	}

@@ -3,7 +3,7 @@
 		"code":"513330100",
 		"fullCode":"513330100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"更庆镇",
 		"parentCode":"513330"
 	},
@@ -11,7 +11,7 @@
 		"code":"513330101",
 		"fullCode":"513330101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马尼干戈镇",
 		"parentCode":"513330"
 	},
@@ -19,7 +19,7 @@
 		"code":"513330102",
 		"fullCode":"513330102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹庆镇",
 		"parentCode":"513330"
 	},
@@ -27,7 +27,7 @@
 		"code":"513330103",
 		"fullCode":"513330103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿须镇",
 		"parentCode":"513330"
 	},
@@ -35,7 +35,7 @@
 		"code":"513330105",
 		"fullCode":"513330105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"错阿镇",
 		"parentCode":"513330"
 	},
@@ -43,7 +43,7 @@
 		"code":"513330106",
 		"fullCode":"513330106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦宿镇",
 		"parentCode":"513330"
 	},
@@ -51,7 +51,7 @@
 		"code":"513330107",
 		"fullCode":"513330107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"打滚镇",
 		"parentCode":"513330"
 	},
@@ -59,7 +59,7 @@
 		"code":"513330108",
 		"fullCode":"513330108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龚垭镇",
 		"parentCode":"513330"
 	},
@@ -67,7 +67,7 @@
 		"code":"513330109",
 		"fullCode":"513330109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温拖镇",
 		"parentCode":"513330"
 	},
@@ -75,7 +75,7 @@
 		"code":"513330110",
 		"fullCode":"513330110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中扎科镇",
 		"parentCode":"513330"
 	},
@@ -83,7 +83,7 @@
 		"code":"513330202",
 		"fullCode":"513330202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳巴乡",
 		"parentCode":"513330"
 	},
@@ -91,7 +91,7 @@
 		"code":"513330203",
 		"fullCode":"513330203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八帮乡",
 		"parentCode":"513330"
 	},
@@ -99,7 +99,7 @@
 		"code":"513330205",
 		"fullCode":"513330205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白垭乡",
 		"parentCode":"513330"
 	},
@@ -107,7 +107,7 @@
 		"code":"513330206",
 		"fullCode":"513330206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪布顶乡",
 		"parentCode":"513330"
 	},
@@ -115,7 +115,7 @@
 		"code":"513330207",
 		"fullCode":"513330207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯洛洞乡",
 		"parentCode":"513330"
 	},
@@ -123,7 +123,7 @@
 		"code":"513330208",
 		"fullCode":"513330208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡松渡乡",
 		"parentCode":"513330"
 	},
@@ -131,7 +131,7 @@
 		"code":"513330209",
 		"fullCode":"513330209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俄南乡",
 		"parentCode":"513330"
 	},
@@ -139,7 +139,7 @@
 		"code":"513330211",
 		"fullCode":"513330211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俄支乡",
 		"parentCode":"513330"
 	},
@@ -147,7 +147,7 @@
 		"code":"513330213",
 		"fullCode":"513330213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉隆乡",
 		"parentCode":"513330"
 	},
@@ -155,7 +155,7 @@
 		"code":"513330216",
 		"fullCode":"513330216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上燃姑乡",
 		"parentCode":"513330"
 	},
@@ -163,7 +163,7 @@
 		"code":"513330219",
 		"fullCode":"513330219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"年古乡",
 		"parentCode":"513330"
 	},
@@ -171,7 +171,7 @@
 		"code":"513330220",
 		"fullCode":"513330220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浪多乡",
 		"parentCode":"513330"
 	},
@@ -179,7 +179,7 @@
 		"code":"513330223",
 		"fullCode":"513330223000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚丁乡",
 		"parentCode":"513330"
 	}

@@ -3,7 +3,7 @@
 		"code":"371602001",
 		"fullCode":"371602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市中街道",
 		"parentCode":"371602"
 	},
@@ -11,7 +11,7 @@
 		"code":"371602002",
 		"fullCode":"371602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市西街道",
 		"parentCode":"371602"
 	},
@@ -19,7 +19,7 @@
 		"code":"371602003",
 		"fullCode":"371602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北镇街道",
 		"parentCode":"371602"
 	},
@@ -27,7 +27,7 @@
 		"code":"371602004",
 		"fullCode":"371602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市东街道",
 		"parentCode":"371602"
 	},
@@ -35,7 +35,7 @@
 		"code":"371602005",
 		"fullCode":"371602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭李街道",
 		"parentCode":"371602"
 	},
@@ -43,7 +43,7 @@
 		"code":"371602007",
 		"fullCode":"371602007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小营街道",
 		"parentCode":"371602"
 	},
@@ -51,7 +51,7 @@
 		"code":"371602008",
 		"fullCode":"371602008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨北街道",
 		"parentCode":"371602"
 	},
@@ -59,7 +59,7 @@
 		"code":"371602009",
 		"fullCode":"371602009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁才街道",
 		"parentCode":"371602"
 	},
@@ -67,7 +67,7 @@
 		"code":"371602010",
 		"fullCode":"371602010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜店街道",
 		"parentCode":"371602"
 	},
@@ -75,7 +75,7 @@
 		"code":"371602011",
 		"fullCode":"371602011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河街道",
 		"parentCode":"371602"
 	},
@@ -83,7 +83,7 @@
 		"code":"371602012",
 		"fullCode":"371602012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里则街道",
 		"parentCode":"371602"
 	},
@@ -91,7 +91,7 @@
 		"code":"371602013",
 		"fullCode":"371602013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青田街道",
 		"parentCode":"371602"
 	},
@@ -99,7 +99,7 @@
 		"code":"371602105",
 		"fullCode":"371602105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三河湖镇",
 		"parentCode":"371602"
 	},
@@ -107,7 +107,7 @@
 		"code":"371602106",
 		"fullCode":"371602106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨柳雪镇",
 		"parentCode":"371602"
 	},
@@ -115,7 +115,7 @@
 		"code":"371602203",
 		"fullCode":"371602203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦皇台乡",
 		"parentCode":"371602"
 	}

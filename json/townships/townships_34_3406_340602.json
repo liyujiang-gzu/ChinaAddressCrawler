@@ -3,7 +3,7 @@
 		"code":"340602001",
 		"fullCode":"340602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高岳街道",
 		"parentCode":"340602"
 	},
@@ -11,7 +11,7 @@
 		"code":"340602002",
 		"fullCode":"340602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿山集街道",
 		"parentCode":"340602"
 	},
@@ -19,7 +19,7 @@
 		"code":"340602100",
 		"fullCode":"340602100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朔里镇",
 		"parentCode":"340602"
 	},
@@ -27,7 +27,7 @@
 		"code":"340602101",
 		"fullCode":"340602101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石台镇",
 		"parentCode":"340602"
 	},
@@ -35,7 +35,7 @@
 		"code":"340602102",
 		"fullCode":"340602102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段园镇",
 		"parentCode":"340602"
 	},
@@ -43,7 +43,7 @@
 		"code":"340602400",
 		"fullCode":"340602400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淮北杜集经济开发区",
 		"parentCode":"340602"
 	}

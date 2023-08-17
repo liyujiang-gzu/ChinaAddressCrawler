@@ -3,7 +3,7 @@
 		"code":"411771360",
 		"fullCode":"411771360000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关王庙乡",
 		"parentCode":"411771"
 	},
@@ -11,7 +11,7 @@
 		"code":"411771400",
 		"fullCode":"411771400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驻马店市职教园区",
 		"parentCode":"411771"
 	},
@@ -19,7 +19,7 @@
 		"code":"411771560",
 		"fullCode":"411771560000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金河街道",
 		"parentCode":"411771"
 	},
@@ -27,7 +27,7 @@
 		"code":"411771562",
 		"fullCode":"411771562000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山街道",
 		"parentCode":"411771"
 	},
@@ -35,7 +35,7 @@
 		"code":"411771563",
 		"fullCode":"411771563000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开源街道",
 		"parentCode":"411771"
 	}

@@ -3,7 +3,7 @@
 		"code":"450403",
 		"fullCode":"450403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"万秀区",
 		"parentCode":"4504"
 	},
@@ -11,7 +11,7 @@
 		"code":"450405",
 		"fullCode":"450405000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长洲区",
 		"parentCode":"4504"
 	},
@@ -19,7 +19,7 @@
 		"code":"450406",
 		"fullCode":"450406000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙圩区",
 		"parentCode":"4504"
 	},
@@ -27,7 +27,7 @@
 		"code":"450421",
 		"fullCode":"450421000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"苍梧县",
 		"parentCode":"4504"
 	},
@@ -35,7 +35,7 @@
 		"code":"450422",
 		"fullCode":"450422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"藤县",
 		"parentCode":"4504"
 	},
@@ -43,7 +43,7 @@
 		"code":"450423",
 		"fullCode":"450423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蒙山县",
 		"parentCode":"4504"
 	},
@@ -51,7 +51,7 @@
 		"code":"450481",
 		"fullCode":"450481000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岑溪市",
 		"parentCode":"4504"
 	}

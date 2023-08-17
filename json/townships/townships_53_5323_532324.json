@@ -3,7 +3,7 @@
 		"code":"532324101",
 		"fullCode":"532324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙川镇",
 		"parentCode":"532324"
 	},
@@ -11,7 +11,7 @@
 		"code":"532324102",
 		"fullCode":"532324102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙桥镇",
 		"parentCode":"532324"
 	},
@@ -19,7 +19,7 @@
 		"code":"532324103",
 		"fullCode":"532324103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五街镇",
 		"parentCode":"532324"
 	},
@@ -27,7 +27,7 @@
 		"code":"532324104",
 		"fullCode":"532324104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红土坡镇",
 		"parentCode":"532324"
 	},
@@ -35,7 +35,7 @@
 		"code":"532324105",
 		"fullCode":"532324105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马街镇",
 		"parentCode":"532324"
 	},
@@ -43,7 +43,7 @@
 		"code":"532324106",
 		"fullCode":"532324106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兔街镇",
 		"parentCode":"532324"
 	},
@@ -51,7 +51,7 @@
 		"code":"532324201",
 		"fullCode":"532324201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雨露白族乡",
 		"parentCode":"532324"
 	},
@@ -59,7 +59,7 @@
 		"code":"532324202",
 		"fullCode":"532324202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"一街乡",
 		"parentCode":"532324"
 	},
@@ -67,7 +67,7 @@
 		"code":"532324203",
 		"fullCode":"532324203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗武庄乡",
 		"parentCode":"532324"
 	},
@@ -75,7 +75,7 @@
 		"code":"532324204",
 		"fullCode":"532324204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五顶山乡",
 		"parentCode":"532324"
 	}

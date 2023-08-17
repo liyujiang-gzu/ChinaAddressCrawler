@@ -3,7 +3,7 @@
 		"code":"611021001",
 		"fullCode":"611021001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"611021"
 	},
@@ -11,7 +11,7 @@
 		"code":"611021002",
 		"fullCode":"611021002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四皓街道",
 		"parentCode":"611021"
 	},
@@ -19,7 +19,7 @@
 		"code":"611021101",
 		"fullCode":"611021101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景村镇",
 		"parentCode":"611021"
 	},
@@ -27,7 +27,7 @@
 		"code":"611021102",
 		"fullCode":"611021102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"611021"
 	},
@@ -35,7 +35,7 @@
 		"code":"611021103",
 		"fullCode":"611021103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三要镇",
 		"parentCode":"611021"
 	},
@@ -43,7 +43,7 @@
 		"code":"611021104",
 		"fullCode":"611021104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵口镇",
 		"parentCode":"611021"
 	},
@@ -51,7 +51,7 @@
 		"code":"611021106",
 		"fullCode":"611021106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺耳镇",
 		"parentCode":"611021"
 	},
@@ -59,7 +59,7 @@
 		"code":"611021107",
 		"fullCode":"611021107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巡检镇",
 		"parentCode":"611021"
 	},
@@ -67,7 +67,7 @@
 		"code":"611021108",
 		"fullCode":"611021108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石坡镇",
 		"parentCode":"611021"
 	},
@@ -75,7 +75,7 @@
 		"code":"611021109",
 		"fullCode":"611021109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门镇",
 		"parentCode":"611021"
 	},
@@ -83,7 +83,7 @@
 		"code":"611021110",
 		"fullCode":"611021110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻坪镇",
 		"parentCode":"611021"
 	},
@@ -91,7 +91,7 @@
 		"code":"611021111",
 		"fullCode":"611021111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛源镇",
 		"parentCode":"611021"
 	},
@@ -99,7 +99,7 @@
 		"code":"611021112",
 		"fullCode":"611021112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保安镇",
 		"parentCode":"611021"
 	},
@@ -107,7 +107,7 @@
 		"code":"611021114",
 		"fullCode":"611021114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰镇",
 		"parentCode":"611021"
 	},
@@ -115,7 +115,7 @@
 		"code":"611021117",
 		"fullCode":"611021117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏峪寺镇",
 		"parentCode":"611021"
 	},
@@ -123,7 +123,7 @@
 		"code":"611021118",
 		"fullCode":"611021118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高耀镇",
 		"parentCode":"611021"
 	}

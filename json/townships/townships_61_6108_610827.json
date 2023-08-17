@@ -3,7 +3,7 @@
 		"code":"610827001",
 		"fullCode":"610827001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银州街道",
 		"parentCode":"610827"
 	},
@@ -11,7 +11,7 @@
 		"code":"610827101",
 		"fullCode":"610827101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃镇",
 		"parentCode":"610827"
 	},
@@ -19,7 +19,7 @@
 		"code":"610827102",
 		"fullCode":"610827102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙镇",
 		"parentCode":"610827"
 	},
@@ -27,7 +27,7 @@
 		"code":"610827103",
 		"fullCode":"610827103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家沟镇",
 		"parentCode":"610827"
 	},
@@ -35,7 +35,7 @@
 		"code":"610827104",
 		"fullCode":"610827104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜家石沟镇",
 		"parentCode":"610827"
 	},
@@ -43,7 +43,7 @@
 		"code":"610827105",
 		"fullCode":"610827105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙家店镇",
 		"parentCode":"610827"
 	},
@@ -51,7 +51,7 @@
 		"code":"610827106",
 		"fullCode":"610827106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"印斗镇",
 		"parentCode":"610827"
 	},
@@ -59,7 +59,7 @@
 		"code":"610827107",
 		"fullCode":"610827107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭兴庄镇",
 		"parentCode":"610827"
 	},
@@ -67,7 +67,7 @@
 		"code":"610827108",
 		"fullCode":"610827108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊镇",
 		"parentCode":"610827"
 	}

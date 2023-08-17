@@ -3,7 +3,7 @@
 		"code":"130503001",
 		"fullCode":"130503001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钢铁路街道",
 		"parentCode":"130503"
 	},
@@ -11,7 +11,7 @@
 		"code":"130503002",
 		"fullCode":"130503002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中兴路街道",
 		"parentCode":"130503"
 	},
@@ -19,7 +19,7 @@
 		"code":"130503003",
 		"fullCode":"130503003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达活泉街道",
 		"parentCode":"130503"
 	},
@@ -27,7 +27,7 @@
 		"code":"130503004",
 		"fullCode":"130503004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张宽街道",
 		"parentCode":"130503"
 	},
@@ -35,7 +35,7 @@
 		"code":"130503005",
 		"fullCode":"130503005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章村街道",
 		"parentCode":"130503"
 	},
@@ -43,7 +43,7 @@
 		"code":"130503006",
 		"fullCode":"130503006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华大街街道",
 		"parentCode":"130503"
 	},
@@ -51,7 +51,7 @@
 		"code":"130503007",
 		"fullCode":"130503007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结路街道",
 		"parentCode":"130503"
 	},
@@ -59,7 +59,7 @@
 		"code":"130503008",
 		"fullCode":"130503008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉西街道",
 		"parentCode":"130503"
 	},
@@ -67,7 +67,7 @@
 		"code":"130503100",
 		"fullCode":"130503100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南大郭镇",
 		"parentCode":"130503"
 	},
@@ -75,7 +75,7 @@
 		"code":"130503101",
 		"fullCode":"130503101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李村镇",
 		"parentCode":"130503"
 	},
@@ -83,7 +83,7 @@
 		"code":"130503102",
 		"fullCode":"130503102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南石门镇",
 		"parentCode":"130503"
 	},
@@ -91,7 +91,7 @@
 		"code":"130503103",
 		"fullCode":"130503103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊范镇",
 		"parentCode":"130503"
 	},
@@ -99,7 +99,7 @@
 		"code":"130503104",
 		"fullCode":"130503104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇寺镇",
 		"parentCode":"130503"
 	},
@@ -107,7 +107,7 @@
 		"code":"130503105",
 		"fullCode":"130503105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会宁镇",
 		"parentCode":"130503"
 	},
@@ -115,7 +115,7 @@
 		"code":"130503106",
 		"fullCode":"130503106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西黄村镇",
 		"parentCode":"130503"
 	},
@@ -123,7 +123,7 @@
 		"code":"130503107",
 		"fullCode":"130503107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路罗镇",
 		"parentCode":"130503"
 	},
@@ -131,7 +131,7 @@
 		"code":"130503108",
 		"fullCode":"130503108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"将军墓镇",
 		"parentCode":"130503"
 	},
@@ -139,7 +139,7 @@
 		"code":"130503109",
 		"fullCode":"130503109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浆水镇",
 		"parentCode":"130503"
 	},
@@ -147,7 +147,7 @@
 		"code":"130503110",
 		"fullCode":"130503110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋家庄镇",
 		"parentCode":"130503"
 	},
@@ -155,7 +155,7 @@
 		"code":"130503202",
 		"fullCode":"130503202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太子井乡",
 		"parentCode":"130503"
 	},
@@ -163,7 +163,7 @@
 		"code":"130503203",
 		"fullCode":"130503203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉寺乡",
 		"parentCode":"130503"
 	},
@@ -171,7 +171,7 @@
 		"code":"130503204",
 		"fullCode":"130503204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北小庄乡",
 		"parentCode":"130503"
 	},
@@ -179,7 +179,7 @@
 		"code":"130503205",
 		"fullCode":"130503205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城计头乡",
 		"parentCode":"130503"
 	},
@@ -187,7 +187,7 @@
 		"code":"130503206",
 		"fullCode":"130503206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白岸乡",
 		"parentCode":"130503"
 	},
@@ -195,7 +195,7 @@
 		"code":"130503207",
 		"fullCode":"130503207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冀家村乡",
 		"parentCode":"130503"
 	}

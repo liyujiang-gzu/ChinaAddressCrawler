@@ -3,7 +3,7 @@
 		"code":"140702",
 		"fullCode":"140702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"榆次区",
 		"parentCode":"1407"
 	},
@@ -11,7 +11,7 @@
 		"code":"140703",
 		"fullCode":"140703000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"太谷区",
 		"parentCode":"1407"
 	},
@@ -19,7 +19,7 @@
 		"code":"140721",
 		"fullCode":"140721000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"榆社县",
 		"parentCode":"1407"
 	},
@@ -27,7 +27,7 @@
 		"code":"140722",
 		"fullCode":"140722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"左权县",
 		"parentCode":"1407"
 	},
@@ -35,7 +35,7 @@
 		"code":"140723",
 		"fullCode":"140723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"和顺县",
 		"parentCode":"1407"
 	},
@@ -43,7 +43,7 @@
 		"code":"140724",
 		"fullCode":"140724000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"昔阳县",
 		"parentCode":"1407"
 	},
@@ -51,7 +51,7 @@
 		"code":"140725",
 		"fullCode":"140725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"寿阳县",
 		"parentCode":"1407"
 	},
@@ -59,7 +59,7 @@
 		"code":"140727",
 		"fullCode":"140727000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"祁县",
 		"parentCode":"1407"
 	},
@@ -67,7 +67,7 @@
 		"code":"140728",
 		"fullCode":"140728000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平遥县",
 		"parentCode":"1407"
 	},
@@ -75,7 +75,7 @@
 		"code":"140729",
 		"fullCode":"140729000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"灵石县",
 		"parentCode":"1407"
 	},
@@ -83,7 +83,7 @@
 		"code":"140781",
 		"fullCode":"140781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"介休市",
 		"parentCode":"1407"
 	}

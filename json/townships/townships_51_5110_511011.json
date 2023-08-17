@@ -3,7 +3,7 @@
 		"code":"511011001",
 		"fullCode":"511011001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴街道",
 		"parentCode":"511011"
 	},
@@ -11,7 +11,7 @@
 		"code":"511011002",
 		"fullCode":"511011002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西林街道",
 		"parentCode":"511011"
 	},
@@ -19,7 +19,7 @@
 		"code":"511011003",
 		"fullCode":"511011003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新江街道",
 		"parentCode":"511011"
 	},
@@ -27,7 +27,7 @@
 		"code":"511011004",
 		"fullCode":"511011004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利街道",
 		"parentCode":"511011"
 	},
@@ -35,7 +35,7 @@
 		"code":"511011005",
 		"fullCode":"511011005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥街道",
 		"parentCode":"511011"
 	},
@@ -43,7 +43,7 @@
 		"code":"511011100",
 		"fullCode":"511011100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田家镇",
 		"parentCode":"511011"
 	},
@@ -51,7 +51,7 @@
 		"code":"511011101",
 		"fullCode":"511011101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭北镇",
 		"parentCode":"511011"
 	},
@@ -59,7 +59,7 @@
 		"code":"511011102",
 		"fullCode":"511011102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高梁镇",
 		"parentCode":"511011"
 	},
@@ -67,7 +67,7 @@
 		"code":"511011103",
 		"fullCode":"511011103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白合镇",
 		"parentCode":"511011"
 	},
@@ -75,7 +75,7 @@
 		"code":"511011104",
 		"fullCode":"511011104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺河镇",
 		"parentCode":"511011"
 	},
@@ -83,7 +83,7 @@
 		"code":"511011107",
 		"fullCode":"511011107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双才镇",
 		"parentCode":"511011"
 	},
@@ -91,7 +91,7 @@
 		"code":"511011109",
 		"fullCode":"511011109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家镇",
 		"parentCode":"511011"
 	},
@@ -99,7 +99,7 @@
 		"code":"511011110",
 		"fullCode":"511011110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"椑木镇",
 		"parentCode":"511011"
 	},
@@ -107,7 +107,7 @@
 		"code":"511011111",
 		"fullCode":"511011111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石子镇",
 		"parentCode":"511011"
 	},
@@ -115,7 +115,7 @@
 		"code":"511011113",
 		"fullCode":"511011113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴镇",
 		"parentCode":"511011"
 	},
@@ -123,7 +123,7 @@
 		"code":"511011114",
 		"fullCode":"511011114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平坦镇",
 		"parentCode":"511011"
 	},
@@ -131,7 +131,7 @@
 		"code":"511011117",
 		"fullCode":"511011117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桥镇",
 		"parentCode":"511011"
 	},
@@ -139,7 +139,7 @@
 		"code":"511011118",
 		"fullCode":"511011118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富溪镇",
 		"parentCode":"511011"
 	},
@@ -147,7 +147,7 @@
 		"code":"511011120",
 		"fullCode":"511011120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永福镇",
 		"parentCode":"511011"
 	}

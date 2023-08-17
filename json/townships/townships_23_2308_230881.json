@@ -3,7 +3,7 @@
 		"code":"230881001",
 		"fullCode":"230881001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"繁荣街道",
 		"parentCode":"230881"
 	},
@@ -11,7 +11,7 @@
 		"code":"230881002",
 		"fullCode":"230881002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华街道",
 		"parentCode":"230881"
 	},
@@ -19,7 +19,7 @@
 		"code":"230881100",
 		"fullCode":"230881100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同江镇",
 		"parentCode":"230881"
 	},
@@ -27,7 +27,7 @@
 		"code":"230881101",
 		"fullCode":"230881101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐业镇",
 		"parentCode":"230881"
 	},
@@ -35,7 +35,7 @@
 		"code":"230881102",
 		"fullCode":"230881102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三村镇",
 		"parentCode":"230881"
 	},
@@ -43,7 +43,7 @@
 		"code":"230881103",
 		"fullCode":"230881103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江镇",
 		"parentCode":"230881"
 	},
@@ -51,7 +51,7 @@
 		"code":"230881104",
 		"fullCode":"230881104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳镇",
 		"parentCode":"230881"
 	},
@@ -59,7 +59,7 @@
 		"code":"230881105",
 		"fullCode":"230881105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青河镇",
 		"parentCode":"230881"
 	},
@@ -67,7 +67,7 @@
 		"code":"230881204",
 		"fullCode":"230881204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"街津口乡",
 		"parentCode":"230881"
 	},
@@ -75,7 +75,7 @@
 		"code":"230881205",
 		"fullCode":"230881205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八岔乡",
 		"parentCode":"230881"
 	},
@@ -83,7 +83,7 @@
 		"code":"230881206",
 		"fullCode":"230881206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金川乡",
 		"parentCode":"230881"
 	},
@@ -91,7 +91,7 @@
 		"code":"230881207",
 		"fullCode":"230881207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银川乡",
 		"parentCode":"230881"
 	},
@@ -99,7 +99,7 @@
 		"code":"230881400",
 		"fullCode":"230881400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"街津口林场",
 		"parentCode":"230881"
 	},
@@ -107,7 +107,7 @@
 		"code":"230881401",
 		"fullCode":"230881401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸭北林场",
 		"parentCode":"230881"
 	},
@@ -115,7 +115,7 @@
 		"code":"230881500",
 		"fullCode":"230881500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勤得利农场",
 		"parentCode":"230881"
 	},
@@ -123,7 +123,7 @@
 		"code":"230881501",
 		"fullCode":"230881501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙山农场",
 		"parentCode":"230881"
 	},
@@ -131,7 +131,7 @@
 		"code":"230881502",
 		"fullCode":"230881502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进农场",
 		"parentCode":"230881"
 	},
@@ -139,7 +139,7 @@
 		"code":"230881503",
 		"fullCode":"230881503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪河农场",
 		"parentCode":"230881"
 	},
@@ -147,7 +147,7 @@
 		"code":"230881504",
 		"fullCode":"230881504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸭绿河农场",
 		"parentCode":"230881"
 	},
@@ -155,7 +155,7 @@
 		"code":"230881505",
 		"fullCode":"230881505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浓江农场",
 		"parentCode":"230881"
 	},
@@ -163,7 +163,7 @@
 		"code":"230881580",
 		"fullCode":"230881580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良种场",
 		"parentCode":"230881"
 	},
@@ -171,7 +171,7 @@
 		"code":"230881581",
 		"fullCode":"230881581000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"畜牧场",
 		"parentCode":"230881"
 	},
@@ -179,7 +179,7 @@
 		"code":"230881582",
 		"fullCode":"230881582000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"知青农场",
 		"parentCode":"230881"
 	}

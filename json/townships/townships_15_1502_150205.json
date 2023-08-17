@@ -3,7 +3,7 @@
 		"code":"150205001",
 		"fullCode":"150205001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石拐街道",
 		"parentCode":"150205"
 	},
@@ -11,7 +11,7 @@
 		"code":"150205002",
 		"fullCode":"150205002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大发街道",
 		"parentCode":"150205"
 	},
@@ -19,7 +19,7 @@
 		"code":"150205003",
 		"fullCode":"150205003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大磁街道",
 		"parentCode":"150205"
 	},
@@ -27,7 +27,7 @@
 		"code":"150205004",
 		"fullCode":"150205004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五当沟街道",
 		"parentCode":"150205"
 	},
@@ -35,7 +35,7 @@
 		"code":"150205005",
 		"fullCode":"150205005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白狐沟街道",
 		"parentCode":"150205"
 	},
@@ -43,7 +43,7 @@
 		"code":"150205006",
 		"fullCode":"150205006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大德恒街道",
 		"parentCode":"150205"
 	},
@@ -51,7 +51,7 @@
 		"code":"150205101",
 		"fullCode":"150205101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五当召镇",
 		"parentCode":"150205"
 	},
@@ -59,7 +59,7 @@
 		"code":"150205202",
 		"fullCode":"150205202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉忽伦图苏木",
 		"parentCode":"150205"
 	},
@@ -67,7 +67,7 @@
 		"code":"150205400",
 		"fullCode":"150205400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工业园区管理委员会",
 		"parentCode":"150205"
 	}

@@ -3,7 +3,7 @@
 		"code":"530402001",
 		"fullCode":"530402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉兴街道",
 		"parentCode":"530402"
 	},
@@ -11,7 +11,7 @@
 		"code":"530402002",
 		"fullCode":"530402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰街道",
 		"parentCode":"530402"
 	},
@@ -19,7 +19,7 @@
 		"code":"530402003",
 		"fullCode":"530402003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉带街道",
 		"parentCode":"530402"
 	},
@@ -27,7 +27,7 @@
 		"code":"530402004",
 		"fullCode":"530402004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"530402"
 	},
@@ -35,7 +35,7 @@
 		"code":"530402005",
 		"fullCode":"530402005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春和街道",
 		"parentCode":"530402"
 	},
@@ -43,7 +43,7 @@
 		"code":"530402006",
 		"fullCode":"530402006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李棋街道",
 		"parentCode":"530402"
 	},
@@ -51,7 +51,7 @@
 		"code":"530402007",
 		"fullCode":"530402007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营街街道",
 		"parentCode":"530402"
 	},
@@ -59,7 +59,7 @@
 		"code":"530402008",
 		"fullCode":"530402008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"研和街道",
 		"parentCode":"530402"
 	},
@@ -67,7 +67,7 @@
 		"code":"530402009",
 		"fullCode":"530402009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高仓街道",
 		"parentCode":"530402"
 	},
@@ -75,7 +75,7 @@
 		"code":"530402201",
 		"fullCode":"530402201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小石桥彝族乡",
 		"parentCode":"530402"
 	},
@@ -83,7 +83,7 @@
 		"code":"530402202",
 		"fullCode":"530402202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛河彝族乡",
 		"parentCode":"530402"
 	}

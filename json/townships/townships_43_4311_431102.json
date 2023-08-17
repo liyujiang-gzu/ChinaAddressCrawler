@@ -3,7 +3,7 @@
 		"code":"431102001",
 		"fullCode":"431102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳街道",
 		"parentCode":"431102"
 	},
@@ -11,7 +11,7 @@
 		"code":"431102002",
 		"fullCode":"431102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南津渡街道",
 		"parentCode":"431102"
 	},
@@ -19,7 +19,7 @@
 		"code":"431102003",
 		"fullCode":"431102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里店街道",
 		"parentCode":"431102"
 	},
@@ -27,7 +27,7 @@
 		"code":"431102004",
 		"fullCode":"431102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐家井街道",
 		"parentCode":"431102"
 	},
@@ -35,7 +35,7 @@
 		"code":"431102005",
 		"fullCode":"431102005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"接履桥街道",
 		"parentCode":"431102"
 	},
@@ -43,7 +43,7 @@
 		"code":"431102006",
 		"fullCode":"431102006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石山脚街道",
 		"parentCode":"431102"
 	},
@@ -51,7 +51,7 @@
 		"code":"431102101",
 		"fullCode":"431102101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口山镇",
 		"parentCode":"431102"
 	},
@@ -59,7 +59,7 @@
 		"code":"431102102",
 		"fullCode":"431102102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠山镇",
 		"parentCode":"431102"
 	},
@@ -67,7 +67,7 @@
 		"code":"431102103",
 		"fullCode":"431102103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄田铺镇",
 		"parentCode":"431102"
 	},
@@ -75,7 +75,7 @@
 		"code":"431102104",
 		"fullCode":"431102104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富家桥镇",
 		"parentCode":"431102"
 	},
@@ -83,7 +83,7 @@
 		"code":"431102105",
 		"fullCode":"431102105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菱角塘镇",
 		"parentCode":"431102"
 	},
@@ -91,7 +91,7 @@
 		"code":"431102106",
 		"fullCode":"431102106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邮亭圩镇",
 		"parentCode":"431102"
 	},
@@ -99,7 +99,7 @@
 		"code":"431102108",
 		"fullCode":"431102108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石岩头镇",
 		"parentCode":"431102"
 	},
@@ -107,7 +107,7 @@
 		"code":"431102200",
 		"fullCode":"431102200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庆坪乡",
 		"parentCode":"431102"
 	},
@@ -115,7 +115,7 @@
 		"code":"431102201",
 		"fullCode":"431102201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梳子铺乡",
 		"parentCode":"431102"
 	},
@@ -123,7 +123,7 @@
 		"code":"431102203",
 		"fullCode":"431102203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凼底乡",
 		"parentCode":"431102"
 	}

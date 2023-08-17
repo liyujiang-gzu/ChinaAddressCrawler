@@ -3,7 +3,7 @@
 		"code":"610723001",
 		"fullCode":"610723001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋州街道",
 		"parentCode":"610723"
 	},
@@ -11,7 +11,7 @@
 		"code":"610723002",
 		"fullCode":"610723002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纸坊街道",
 		"parentCode":"610723"
 	},
@@ -19,7 +19,7 @@
 		"code":"610723003",
 		"fullCode":"610723003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"戚氏街道",
 		"parentCode":"610723"
 	},
@@ -27,7 +27,7 @@
 		"code":"610723103",
 		"fullCode":"610723103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙亭镇",
 		"parentCode":"610723"
 	},
@@ -35,7 +35,7 @@
 		"code":"610723104",
 		"fullCode":"610723104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢村镇",
 		"parentCode":"610723"
 	},
@@ -43,7 +43,7 @@
 		"code":"610723105",
 		"fullCode":"610723105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马畅镇",
 		"parentCode":"610723"
 	},
@@ -51,7 +51,7 @@
 		"code":"610723107",
 		"fullCode":"610723107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溢水镇",
 		"parentCode":"610723"
 	},
@@ -59,7 +59,7 @@
 		"code":"610723108",
 		"fullCode":"610723108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磨子桥镇",
 		"parentCode":"610723"
 	},
@@ -67,7 +67,7 @@
 		"code":"610723109",
 		"fullCode":"610723109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄家营镇",
 		"parentCode":"610723"
 	},
@@ -75,7 +75,7 @@
 		"code":"610723110",
 		"fullCode":"610723110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄安镇",
 		"parentCode":"610723"
 	},
@@ -83,7 +83,7 @@
 		"code":"610723111",
 		"fullCode":"610723111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄金峡镇",
 		"parentCode":"610723"
 	},
@@ -91,7 +91,7 @@
 		"code":"610723112",
 		"fullCode":"610723112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槐树关镇",
 		"parentCode":"610723"
 	},
@@ -99,7 +99,7 @@
 		"code":"610723113",
 		"fullCode":"610723113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金水镇",
 		"parentCode":"610723"
 	},
@@ -107,7 +107,7 @@
 		"code":"610723114",
 		"fullCode":"610723114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华阳镇",
 		"parentCode":"610723"
 	},
@@ -115,7 +115,7 @@
 		"code":"610723115",
 		"fullCode":"610723115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅坪镇",
 		"parentCode":"610723"
 	},
@@ -123,7 +123,7 @@
 		"code":"610723119",
 		"fullCode":"610723119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里关镇",
 		"parentCode":"610723"
 	},
@@ -131,7 +131,7 @@
 		"code":"610723120",
 		"fullCode":"610723120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑溪镇",
 		"parentCode":"610723"
 	},
@@ -139,7 +139,7 @@
 		"code":"610723121",
 		"fullCode":"610723121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关帝镇",
 		"parentCode":"610723"
 	}

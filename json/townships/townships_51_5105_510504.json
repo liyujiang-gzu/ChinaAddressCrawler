@@ -3,7 +3,7 @@
 		"code":"510504001",
 		"fullCode":"510504001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小市街道",
 		"parentCode":"510504"
 	},
@@ -11,7 +11,7 @@
 		"code":"510504003",
 		"fullCode":"510504003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星街道",
 		"parentCode":"510504"
 	},
@@ -19,7 +19,7 @@
 		"code":"510504004",
 		"fullCode":"510504004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花池街道",
 		"parentCode":"510504"
 	},
@@ -27,7 +27,7 @@
 		"code":"510504005",
 		"fullCode":"510504005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗汉街道",
 		"parentCode":"510504"
 	},
@@ -35,7 +35,7 @@
 		"code":"510504006",
 		"fullCode":"510504006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼塘街道",
 		"parentCode":"510504"
 	},
@@ -43,7 +43,7 @@
 		"code":"510504007",
 		"fullCode":"510504007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安宁街道",
 		"parentCode":"510504"
 	},
@@ -51,7 +51,7 @@
 		"code":"510504008",
 		"fullCode":"510504008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石洞街道",
 		"parentCode":"510504"
 	},
@@ -59,7 +59,7 @@
 		"code":"510504009",
 		"fullCode":"510504009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"特兴街道",
 		"parentCode":"510504"
 	},
@@ -67,7 +67,7 @@
 		"code":"510504103",
 		"fullCode":"510504103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡市镇",
 		"parentCode":"510504"
 	},
@@ -75,7 +75,7 @@
 		"code":"510504106",
 		"fullCode":"510504106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双加镇",
 		"parentCode":"510504"
 	},
@@ -83,7 +83,7 @@
 		"code":"510504107",
 		"fullCode":"510504107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金龙镇",
 		"parentCode":"510504"
 	}

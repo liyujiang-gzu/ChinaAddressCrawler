@@ -3,7 +3,7 @@
 		"code":"1401",
 		"fullCode":"140100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"太原市",
 		"parentCode":"14"
 	},
@@ -11,7 +11,7 @@
 		"code":"1402",
 		"fullCode":"140200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"大同市",
 		"parentCode":"14"
 	},
@@ -19,7 +19,7 @@
 		"code":"1403",
 		"fullCode":"140300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"阳泉市",
 		"parentCode":"14"
 	},
@@ -27,7 +27,7 @@
 		"code":"1404",
 		"fullCode":"140400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"长治市",
 		"parentCode":"14"
 	},
@@ -35,7 +35,7 @@
 		"code":"1405",
 		"fullCode":"140500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"晋城市",
 		"parentCode":"14"
 	},
@@ -43,7 +43,7 @@
 		"code":"1406",
 		"fullCode":"140600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"朔州市",
 		"parentCode":"14"
 	},
@@ -51,7 +51,7 @@
 		"code":"1407",
 		"fullCode":"140700000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"晋中市",
 		"parentCode":"14"
 	},
@@ -59,7 +59,7 @@
 		"code":"1408",
 		"fullCode":"140800000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"运城市",
 		"parentCode":"14"
 	},
@@ -67,7 +67,7 @@
 		"code":"1409",
 		"fullCode":"140900000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"忻州市",
 		"parentCode":"14"
 	},
@@ -75,7 +75,7 @@
 		"code":"1410",
 		"fullCode":"141000000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"临汾市",
 		"parentCode":"14"
 	},
@@ -83,7 +83,7 @@
 		"code":"1411",
 		"fullCode":"141100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"吕梁市",
 		"parentCode":"14"
 	}

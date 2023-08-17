@@ -3,7 +3,7 @@
 		"code":"331102",
 		"fullCode":"331102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"莲都区",
 		"parentCode":"3311"
 	},
@@ -11,7 +11,7 @@
 		"code":"331121",
 		"fullCode":"331121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"青田县",
 		"parentCode":"3311"
 	},
@@ -19,7 +19,7 @@
 		"code":"331122",
 		"fullCode":"331122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"缙云县",
 		"parentCode":"3311"
 	},
@@ -27,7 +27,7 @@
 		"code":"331123",
 		"fullCode":"331123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"遂昌县",
 		"parentCode":"3311"
 	},
@@ -35,7 +35,7 @@
 		"code":"331124",
 		"fullCode":"331124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"松阳县",
 		"parentCode":"3311"
 	},
@@ -43,7 +43,7 @@
 		"code":"331125",
 		"fullCode":"331125000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"云和县",
 		"parentCode":"3311"
 	},
@@ -51,7 +51,7 @@
 		"code":"331126",
 		"fullCode":"331126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"庆元县",
 		"parentCode":"3311"
 	},
@@ -59,7 +59,7 @@
 		"code":"331127",
 		"fullCode":"331127000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"景宁畲族自治县",
 		"parentCode":"3311"
 	},
@@ -67,7 +67,7 @@
 		"code":"331181",
 		"fullCode":"331181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙泉市",
 		"parentCode":"3311"
 	}

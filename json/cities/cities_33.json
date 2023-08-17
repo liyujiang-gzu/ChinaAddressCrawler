@@ -3,7 +3,7 @@
 		"code":"3301",
 		"fullCode":"330100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"杭州市",
 		"parentCode":"33"
 	},
@@ -11,7 +11,7 @@
 		"code":"3302",
 		"fullCode":"330200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"宁波市",
 		"parentCode":"33"
 	},
@@ -19,7 +19,7 @@
 		"code":"3303",
 		"fullCode":"330300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"温州市",
 		"parentCode":"33"
 	},
@@ -27,7 +27,7 @@
 		"code":"3304",
 		"fullCode":"330400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"嘉兴市",
 		"parentCode":"33"
 	},
@@ -35,7 +35,7 @@
 		"code":"3305",
 		"fullCode":"330500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"湖州市",
 		"parentCode":"33"
 	},
@@ -43,7 +43,7 @@
 		"code":"3306",
 		"fullCode":"330600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"绍兴市",
 		"parentCode":"33"
 	},
@@ -51,7 +51,7 @@
 		"code":"3307",
 		"fullCode":"330700000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"金华市",
 		"parentCode":"33"
 	},
@@ -59,7 +59,7 @@
 		"code":"3308",
 		"fullCode":"330800000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"衢州市",
 		"parentCode":"33"
 	},
@@ -67,7 +67,7 @@
 		"code":"3309",
 		"fullCode":"330900000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"舟山市",
 		"parentCode":"33"
 	},
@@ -75,7 +75,7 @@
 		"code":"3310",
 		"fullCode":"331000000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"台州市",
 		"parentCode":"33"
 	},
@@ -83,7 +83,7 @@
 		"code":"3311",
 		"fullCode":"331100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"丽水市",
 		"parentCode":"33"
 	}

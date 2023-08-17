@@ -3,7 +3,7 @@
 		"code":"450921100",
 		"fullCode":"450921100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"容州镇",
 		"parentCode":"450921"
 	},
@@ -11,7 +11,7 @@
 		"code":"450921102",
 		"fullCode":"450921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨梅镇",
 		"parentCode":"450921"
 	},
@@ -19,7 +19,7 @@
 		"code":"450921103",
 		"fullCode":"450921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵山镇",
 		"parentCode":"450921"
 	},
@@ -27,7 +27,7 @@
 		"code":"450921104",
 		"fullCode":"450921104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六王镇",
 		"parentCode":"450921"
 	},
@@ -35,7 +35,7 @@
 		"code":"450921105",
 		"fullCode":"450921105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎村镇",
 		"parentCode":"450921"
 	},
@@ -43,7 +43,7 @@
 		"code":"450921106",
 		"fullCode":"450921106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨村镇",
 		"parentCode":"450921"
 	},
@@ -51,7 +51,7 @@
 		"code":"450921107",
 		"fullCode":"450921107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县底镇",
 		"parentCode":"450921"
 	},
@@ -59,7 +59,7 @@
 		"code":"450921108",
 		"fullCode":"450921108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"自良镇",
 		"parentCode":"450921"
 	},
@@ -67,7 +67,7 @@
 		"code":"450921109",
 		"fullCode":"450921109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松山镇",
 		"parentCode":"450921"
 	},
@@ -75,7 +75,7 @@
 		"code":"450921110",
 		"fullCode":"450921110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗江镇",
 		"parentCode":"450921"
 	},
@@ -83,7 +83,7 @@
 		"code":"450921111",
 		"fullCode":"450921111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石头镇",
 		"parentCode":"450921"
 	},
@@ -91,7 +91,7 @@
 		"code":"450921112",
 		"fullCode":"450921112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石寨镇",
 		"parentCode":"450921"
 	},
@@ -99,7 +99,7 @@
 		"code":"450921113",
 		"fullCode":"450921113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里镇",
 		"parentCode":"450921"
 	},
@@ -107,7 +107,7 @@
 		"code":"450921114",
 		"fullCode":"450921114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"容西镇",
 		"parentCode":"450921"
 	},
@@ -115,7 +115,7 @@
 		"code":"450921115",
 		"fullCode":"450921115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浪水镇",
 		"parentCode":"450921"
 	}

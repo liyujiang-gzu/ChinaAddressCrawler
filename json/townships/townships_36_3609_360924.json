@@ -3,7 +3,7 @@
 		"code":"360924100",
 		"fullCode":"360924100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新昌镇",
 		"parentCode":"360924"
 	},
@@ -11,7 +11,7 @@
 		"code":"360924101",
 		"fullCode":"360924101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澄塘镇",
 		"parentCode":"360924"
 	},
@@ -19,7 +19,7 @@
 		"code":"360924102",
 		"fullCode":"360924102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棠浦镇",
 		"parentCode":"360924"
 	},
@@ -27,7 +27,7 @@
 		"code":"360924103",
 		"fullCode":"360924103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新庄镇",
 		"parentCode":"360924"
 	},
@@ -35,7 +35,7 @@
 		"code":"360924104",
 		"fullCode":"360924104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭山镇",
 		"parentCode":"360924"
 	},
@@ -43,7 +43,7 @@
 		"code":"360924105",
 		"fullCode":"360924105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芳溪镇",
 		"parentCode":"360924"
 	},
@@ -51,7 +51,7 @@
 		"code":"360924106",
 		"fullCode":"360924106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石市镇",
 		"parentCode":"360924"
 	},
@@ -59,7 +59,7 @@
 		"code":"360924107",
 		"fullCode":"360924107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄岗镇",
 		"parentCode":"360924"
 	},
@@ -67,7 +67,7 @@
 		"code":"360924108",
 		"fullCode":"360924108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄垦镇",
 		"parentCode":"360924"
 	},
@@ -75,7 +75,7 @@
 		"code":"360924200",
 		"fullCode":"360924200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花桥乡",
 		"parentCode":"360924"
 	},
@@ -83,7 +83,7 @@
 		"code":"360924201",
 		"fullCode":"360924201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同安乡",
 		"parentCode":"360924"
 	},
@@ -91,7 +91,7 @@
 		"code":"360924202",
 		"fullCode":"360924202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天宝乡",
 		"parentCode":"360924"
 	},
@@ -99,7 +99,7 @@
 		"code":"360924204",
 		"fullCode":"360924204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥西乡",
 		"parentCode":"360924"
 	},
@@ -107,7 +107,7 @@
 		"code":"360924400",
 		"fullCode":"360924400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜丰县工业园区",
 		"parentCode":"360924"
 	},
@@ -115,7 +115,7 @@
 		"code":"360924500",
 		"fullCode":"360924500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车上林场",
 		"parentCode":"360924"
 	},
@@ -123,7 +123,7 @@
 		"code":"360924501",
 		"fullCode":"360924501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双峰林场",
 		"parentCode":"360924"
 	},
@@ -131,7 +131,7 @@
 		"code":"360924502",
 		"fullCode":"360924502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石花尖垦殖场",
 		"parentCode":"360924"
 	}

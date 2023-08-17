@@ -3,7 +3,7 @@
 		"code":"440983001",
 		"fullCode":"440983001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东镇街道",
 		"parentCode":"440983"
 	},
@@ -11,7 +11,7 @@
 		"code":"440983002",
 		"fullCode":"440983002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉都街道",
 		"parentCode":"440983"
 	},
@@ -19,7 +19,7 @@
 		"code":"440983101",
 		"fullCode":"440983101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇隆镇",
 		"parentCode":"440983"
 	},
@@ -27,7 +27,7 @@
 		"code":"440983102",
 		"fullCode":"440983102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口镇",
 		"parentCode":"440983"
 	},
@@ -35,7 +35,7 @@
 		"code":"440983105",
 		"fullCode":"440983105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁堡镇",
 		"parentCode":"440983"
 	},
@@ -43,7 +43,7 @@
 		"code":"440983106",
 		"fullCode":"440983106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"池洞镇",
 		"parentCode":"440983"
 	},
@@ -51,7 +51,7 @@
 		"code":"440983112",
 		"fullCode":"440983112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贵子镇",
 		"parentCode":"440983"
 	},
@@ -59,7 +59,7 @@
 		"code":"440983113",
 		"fullCode":"440983113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀乡镇",
 		"parentCode":"440983"
 	},
@@ -67,7 +67,7 @@
 		"code":"440983114",
 		"fullCode":"440983114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶山镇",
 		"parentCode":"440983"
 	},
@@ -75,7 +75,7 @@
 		"code":"440983115",
 		"fullCode":"440983115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪冠镇",
 		"parentCode":"440983"
 	},
@@ -83,7 +83,7 @@
 		"code":"440983116",
 		"fullCode":"440983116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石镇",
 		"parentCode":"440983"
 	},
@@ -91,7 +91,7 @@
 		"code":"440983117",
 		"fullCode":"440983117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大成镇",
 		"parentCode":"440983"
 	},
@@ -99,7 +99,7 @@
 		"code":"440983118",
 		"fullCode":"440983118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱排镇",
 		"parentCode":"440983"
 	},
@@ -107,7 +107,7 @@
 		"code":"440983119",
 		"fullCode":"440983119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合水镇",
 		"parentCode":"440983"
 	},
@@ -115,7 +115,7 @@
 		"code":"440983120",
 		"fullCode":"440983120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新宝镇",
 		"parentCode":"440983"
 	},
@@ -123,7 +123,7 @@
 		"code":"440983121",
 		"fullCode":"440983121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平塘镇",
 		"parentCode":"440983"
 	},
@@ -131,7 +131,7 @@
 		"code":"440983122",
 		"fullCode":"440983122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思贺镇",
 		"parentCode":"440983"
 	},
@@ -139,7 +139,7 @@
 		"code":"440983123",
 		"fullCode":"440983123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金垌镇",
 		"parentCode":"440983"
 	},
@@ -147,7 +147,7 @@
 		"code":"440983124",
 		"fullCode":"440983124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱砂镇",
 		"parentCode":"440983"
 	},
@@ -155,7 +155,7 @@
 		"code":"440983125",
 		"fullCode":"440983125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北界镇",
 		"parentCode":"440983"
 	},
@@ -163,7 +163,7 @@
 		"code":"440983400",
 		"fullCode":"440983400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"信宜市国营红旗农场",
 		"parentCode":"440983"
 	}

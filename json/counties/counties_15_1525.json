@@ -3,7 +3,7 @@
 		"code":"152501",
 		"fullCode":"152501000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"二连浩特市",
 		"parentCode":"1525"
 	},
@@ -11,7 +11,7 @@
 		"code":"152502",
 		"fullCode":"152502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"锡林浩特市",
 		"parentCode":"1525"
 	},
@@ -19,7 +19,7 @@
 		"code":"152522",
 		"fullCode":"152522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿巴嘎旗",
 		"parentCode":"1525"
 	},
@@ -27,7 +27,7 @@
 		"code":"152523",
 		"fullCode":"152523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"苏尼特左旗",
 		"parentCode":"1525"
 	},
@@ -35,7 +35,7 @@
 		"code":"152524",
 		"fullCode":"152524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"苏尼特右旗",
 		"parentCode":"1525"
 	},
@@ -43,7 +43,7 @@
 		"code":"152525",
 		"fullCode":"152525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东乌珠穆沁旗",
 		"parentCode":"1525"
 	},
@@ -51,7 +51,7 @@
 		"code":"152526",
 		"fullCode":"152526000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西乌珠穆沁旗",
 		"parentCode":"1525"
 	},
@@ -59,7 +59,7 @@
 		"code":"152527",
 		"fullCode":"152527000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"太仆寺旗",
 		"parentCode":"1525"
 	},
@@ -67,7 +67,7 @@
 		"code":"152528",
 		"fullCode":"152528000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"镶黄旗",
 		"parentCode":"1525"
 	},
@@ -75,7 +75,7 @@
 		"code":"152529",
 		"fullCode":"152529000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"正镶白旗",
 		"parentCode":"1525"
 	},
@@ -83,7 +83,7 @@
 		"code":"152530",
 		"fullCode":"152530000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"正蓝旗",
 		"parentCode":"1525"
 	},
@@ -91,7 +91,7 @@
 		"code":"152531",
 		"fullCode":"152531000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"多伦县",
 		"parentCode":"1525"
 	},
@@ -99,7 +99,7 @@
 		"code":"152571",
 		"fullCode":"152571000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌拉盖管委会",
 		"parentCode":"1525"
 	}

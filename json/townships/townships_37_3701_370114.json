@@ -3,7 +3,7 @@
 		"code":"370114001",
 		"fullCode":"370114001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明水街道",
 		"parentCode":"370114"
 	},
@@ -11,7 +11,7 @@
 		"code":"370114002",
 		"fullCode":"370114002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双山街道",
 		"parentCode":"370114"
 	},
@@ -19,7 +19,7 @@
 		"code":"370114003",
 		"fullCode":"370114003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枣园街道",
 		"parentCode":"370114"
 	},
@@ -27,7 +27,7 @@
 		"code":"370114004",
 		"fullCode":"370114004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山街道",
 		"parentCode":"370114"
 	},
@@ -35,7 +35,7 @@
 		"code":"370114005",
 		"fullCode":"370114005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"埠村街道",
 		"parentCode":"370114"
 	},
@@ -43,7 +43,7 @@
 		"code":"370114006",
 		"fullCode":"370114006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圣井街道",
 		"parentCode":"370114"
 	},
@@ -51,7 +51,7 @@
 		"code":"370114007",
 		"fullCode":"370114007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普集街道",
 		"parentCode":"370114"
 	},
@@ -59,7 +59,7 @@
 		"code":"370114008",
 		"fullCode":"370114008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绣惠街道",
 		"parentCode":"370114"
 	},
@@ -67,7 +67,7 @@
 		"code":"370114009",
 		"fullCode":"370114009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"相公庄街道",
 		"parentCode":"370114"
 	},
@@ -75,7 +75,7 @@
 		"code":"370114010",
 		"fullCode":"370114010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文祖街道",
 		"parentCode":"370114"
 	},
@@ -83,7 +83,7 @@
 		"code":"370114011",
 		"fullCode":"370114011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官庄街道",
 		"parentCode":"370114"
 	},
@@ -91,7 +91,7 @@
 		"code":"370114012",
 		"fullCode":"370114012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高官寨街道",
 		"parentCode":"370114"
 	},
@@ -99,7 +99,7 @@
 		"code":"370114013",
 		"fullCode":"370114013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白云湖街道",
 		"parentCode":"370114"
 	},
@@ -107,7 +107,7 @@
 		"code":"370114014",
 		"fullCode":"370114014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁家埠街道",
 		"parentCode":"370114"
 	},
@@ -115,7 +115,7 @@
 		"code":"370114015",
 		"fullCode":"370114015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹范街道",
 		"parentCode":"370114"
 	},
@@ -123,7 +123,7 @@
 		"code":"370114016",
 		"fullCode":"370114016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刁镇街道",
 		"parentCode":"370114"
 	},
@@ -131,7 +131,7 @@
 		"code":"370114017",
 		"fullCode":"370114017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄河街道",
 		"parentCode":"370114"
 	},
@@ -139,7 +139,7 @@
 		"code":"370114101",
 		"fullCode":"370114101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垛庄镇",
 		"parentCode":"370114"
 	}

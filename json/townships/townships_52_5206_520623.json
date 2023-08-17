@@ -3,7 +3,7 @@
 		"code":"520623001",
 		"fullCode":"520623001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤山街道",
 		"parentCode":"520623"
 	},
@@ -11,7 +11,7 @@
 		"code":"520623002",
 		"fullCode":"520623002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉都街道",
 		"parentCode":"520623"
 	},
@@ -19,7 +19,7 @@
 		"code":"520623003",
 		"fullCode":"520623003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中坝街道",
 		"parentCode":"520623"
 	},
@@ -27,7 +27,7 @@
 		"code":"520623101",
 		"fullCode":"520623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"本庄镇",
 		"parentCode":"520623"
 	},
@@ -35,7 +35,7 @@
 		"code":"520623102",
 		"fullCode":"520623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"520623"
 	},
@@ -43,7 +43,7 @@
 		"code":"520623103",
 		"fullCode":"520623103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙塘镇",
 		"parentCode":"520623"
 	},
@@ -51,7 +51,7 @@
 		"code":"520623104",
 		"fullCode":"520623104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花桥镇",
 		"parentCode":"520623"
 	},
@@ -59,7 +59,7 @@
 		"code":"520623105",
 		"fullCode":"520623105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五德镇",
 		"parentCode":"520623"
 	},
@@ -67,7 +67,7 @@
 		"code":"520623107",
 		"fullCode":"520623107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河坝镇",
 		"parentCode":"520623"
 	},
@@ -75,7 +75,7 @@
 		"code":"520623201",
 		"fullCode":"520623201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国荣乡",
 		"parentCode":"520623"
 	},
@@ -83,7 +83,7 @@
 		"code":"520623202",
 		"fullCode":"520623202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聚凤仡佬族侗族乡",
 		"parentCode":"520623"
 	},
@@ -91,7 +91,7 @@
 		"code":"520623203",
 		"fullCode":"520623203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙井仡佬族侗族乡",
 		"parentCode":"520623"
 	},
@@ -99,7 +99,7 @@
 		"code":"520623204",
 		"fullCode":"520623204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大沙坝仡佬族侗族乡",
 		"parentCode":"520623"
 	},
@@ -107,7 +107,7 @@
 		"code":"520623205",
 		"fullCode":"520623205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫香仡佬族侗族乡",
 		"parentCode":"520623"
 	},
@@ -115,7 +115,7 @@
 		"code":"520623206",
 		"fullCode":"520623206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青阳苗族仡佬族侗族乡",
 		"parentCode":"520623"
 	},
@@ -123,7 +123,7 @@
 		"code":"520623207",
 		"fullCode":"520623207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石固仡佬族侗族乡",
 		"parentCode":"520623"
 	},
@@ -131,7 +131,7 @@
 		"code":"520623208",
 		"fullCode":"520623208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪地场仡佬族侗族乡",
 		"parentCode":"520623"
 	},
@@ -139,7 +139,7 @@
 		"code":"520623209",
 		"fullCode":"520623209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘溪仡佬族侗族乡",
 		"parentCode":"520623"
 	},
@@ -147,7 +147,7 @@
 		"code":"520623210",
 		"fullCode":"520623210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪山仡佬族侗族乡",
 		"parentCode":"520623"
 	}

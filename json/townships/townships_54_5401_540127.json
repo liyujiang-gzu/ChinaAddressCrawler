@@ -3,7 +3,7 @@
 		"code":"540127100",
 		"fullCode":"540127100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工卡镇",
 		"parentCode":"540127"
 	},
@@ -11,7 +11,7 @@
 		"code":"540127200",
 		"fullCode":"540127200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎雪乡",
 		"parentCode":"540127"
 	},
@@ -19,7 +19,7 @@
 		"code":"540127201",
 		"fullCode":"540127201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门巴乡",
 		"parentCode":"540127"
 	},
@@ -27,7 +27,7 @@
 		"code":"540127202",
 		"fullCode":"540127202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎西岗乡",
 		"parentCode":"540127"
 	},
@@ -35,7 +35,7 @@
 		"code":"540127203",
 		"fullCode":"540127203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日多乡",
 		"parentCode":"540127"
 	},
@@ -43,7 +43,7 @@
 		"code":"540127204",
 		"fullCode":"540127204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼玛江热乡",
 		"parentCode":"540127"
 	},
@@ -51,7 +51,7 @@
 		"code":"540127205",
 		"fullCode":"540127205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲玛乡",
 		"parentCode":"540127"
 	},
@@ -59,7 +59,7 @@
 		"code":"540127206",
 		"fullCode":"540127206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐加乡",
 		"parentCode":"540127"
 	}

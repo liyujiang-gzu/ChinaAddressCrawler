@@ -3,7 +3,7 @@
 		"code":"610728001",
 		"fullCode":"610728001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泾洋街道",
 		"parentCode":"610728"
 	},
@@ -11,7 +11,7 @@
 		"code":"610728101",
 		"fullCode":"610728101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔渡镇",
 		"parentCode":"610728"
 	},
@@ -19,7 +19,7 @@
 		"code":"610728102",
 		"fullCode":"610728102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐场镇",
 		"parentCode":"610728"
 	},
@@ -27,7 +27,7 @@
 		"code":"610728103",
 		"fullCode":"610728103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观音镇",
 		"parentCode":"610728"
 	},
@@ -35,7 +35,7 @@
 		"code":"610728104",
 		"fullCode":"610728104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴庙镇",
 		"parentCode":"610728"
 	},
@@ -43,7 +43,7 @@
 		"code":"610728105",
 		"fullCode":"610728105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"610728"
 	},
@@ -51,7 +51,7 @@
 		"code":"610728106",
 		"fullCode":"610728106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岭镇",
 		"parentCode":"610728"
 	},
@@ -59,7 +59,7 @@
 		"code":"610728107",
 		"fullCode":"610728107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三元镇",
 		"parentCode":"610728"
 	},
@@ -67,7 +67,7 @@
 		"code":"610728108",
 		"fullCode":"610728108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"简池镇",
 		"parentCode":"610728"
 	},
@@ -75,7 +75,7 @@
 		"code":"610728109",
 		"fullCode":"610728109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碾子镇",
 		"parentCode":"610728"
 	},
@@ -83,7 +83,7 @@
 		"code":"610728110",
 		"fullCode":"610728110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小洋镇",
 		"parentCode":"610728"
 	},
@@ -91,7 +91,7 @@
 		"code":"610728111",
 		"fullCode":"610728111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青水镇",
 		"parentCode":"610728"
 	},
@@ -99,7 +99,7 @@
 		"code":"610728112",
 		"fullCode":"610728112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤南镇",
 		"parentCode":"610728"
 	},
@@ -107,7 +107,7 @@
 		"code":"610728113",
 		"fullCode":"610728113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安镇",
 		"parentCode":"610728"
 	},
@@ -115,7 +115,7 @@
 		"code":"610728114",
 		"fullCode":"610728114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家河镇",
 		"parentCode":"610728"
 	},
@@ -123,7 +123,7 @@
 		"code":"610728115",
 		"fullCode":"610728115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴山镇",
 		"parentCode":"610728"
 	},
@@ -131,7 +131,7 @@
 		"code":"610728116",
 		"fullCode":"610728116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎坝镇",
 		"parentCode":"610728"
 	},
@@ -139,7 +139,7 @@
 		"code":"610728117",
 		"fullCode":"610728117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁村镇",
 		"parentCode":"610728"
 	},
@@ -147,7 +147,7 @@
 		"code":"610728118",
 		"fullCode":"610728118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大池镇",
 		"parentCode":"610728"
 	},
@@ -155,7 +155,7 @@
 		"code":"610728120",
 		"fullCode":"610728120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乐镇",
 		"parentCode":"610728"
 	}

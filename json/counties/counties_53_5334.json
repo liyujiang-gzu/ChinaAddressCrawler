@@ -3,7 +3,7 @@
 		"code":"533401",
 		"fullCode":"533401000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"香格里拉市",
 		"parentCode":"5334"
 	},
@@ -11,7 +11,7 @@
 		"code":"533422",
 		"fullCode":"533422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德钦县",
 		"parentCode":"5334"
 	},
@@ -19,7 +19,7 @@
 		"code":"533423",
 		"fullCode":"533423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"维西傈僳族自治县",
 		"parentCode":"5334"
 	}

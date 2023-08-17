@@ -3,7 +3,7 @@
 		"code":"540321100",
 		"fullCode":"540321100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江达镇",
 		"parentCode":"540321"
 	},
@@ -11,7 +11,7 @@
 		"code":"540321101",
 		"fullCode":"540321101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗托镇",
 		"parentCode":"540321"
 	},
@@ -19,7 +19,7 @@
 		"code":"540321200",
 		"fullCode":"540321200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡贡乡",
 		"parentCode":"540321"
 	},
@@ -27,7 +27,7 @@
 		"code":"540321201",
 		"fullCode":"540321201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩比乡",
 		"parentCode":"540321"
 	},
@@ -35,7 +35,7 @@
 		"code":"540321202",
 		"fullCode":"540321202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓柯乡",
 		"parentCode":"540321"
 	},
@@ -43,7 +43,7 @@
 		"code":"540321203",
 		"fullCode":"540321203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"生达乡",
 		"parentCode":"540321"
 	},
@@ -51,7 +51,7 @@
 		"code":"540321204",
 		"fullCode":"540321204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"娘西乡",
 		"parentCode":"540321"
 	},
@@ -59,7 +59,7 @@
 		"code":"540321205",
 		"fullCode":"540321205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"字嘎乡",
 		"parentCode":"540321"
 	},
@@ -67,7 +67,7 @@
 		"code":"540321206",
 		"fullCode":"540321206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青泥洞乡",
 		"parentCode":"540321"
 	},
@@ -75,7 +75,7 @@
 		"code":"540321207",
 		"fullCode":"540321207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪布顶乡",
 		"parentCode":"540321"
 	},
@@ -83,7 +83,7 @@
 		"code":"540321208",
 		"fullCode":"540321208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德登乡",
 		"parentCode":"540321"
 	},
@@ -91,7 +91,7 @@
 		"code":"540321209",
 		"fullCode":"540321209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同普乡",
 		"parentCode":"540321"
 	},
@@ -99,7 +99,7 @@
 		"code":"540321210",
 		"fullCode":"540321210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波罗乡",
 		"parentCode":"540321"
 	}

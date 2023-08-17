@@ -3,7 +3,7 @@
 		"code":"530922101",
 		"fullCode":"530922101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱华镇",
 		"parentCode":"530922"
 	},
@@ -11,7 +11,7 @@
 		"code":"530922102",
 		"fullCode":"530922102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漫湾镇",
 		"parentCode":"530922"
 	},
@@ -19,7 +19,7 @@
 		"code":"530922103",
 		"fullCode":"530922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大朝山西镇",
 		"parentCode":"530922"
 	},
@@ -27,7 +27,7 @@
 		"code":"530922104",
 		"fullCode":"530922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涌宝镇",
 		"parentCode":"530922"
 	},
@@ -35,7 +35,7 @@
 		"code":"530922105",
 		"fullCode":"530922105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茂兰镇",
 		"parentCode":"530922"
 	},
@@ -43,7 +43,7 @@
 		"code":"530922106",
 		"fullCode":"530922106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福镇",
 		"parentCode":"530922"
 	},
@@ -51,7 +51,7 @@
 		"code":"530922107",
 		"fullCode":"530922107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大寨镇",
 		"parentCode":"530922"
 	},
@@ -59,7 +59,7 @@
 		"code":"530922201",
 		"fullCode":"530922201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忙怀彝族布朗族乡",
 		"parentCode":"530922"
 	},
@@ -67,7 +67,7 @@
 		"code":"530922202",
 		"fullCode":"530922202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晓街乡",
 		"parentCode":"530922"
 	},
@@ -75,7 +75,7 @@
 		"code":"530922203",
 		"fullCode":"530922203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶房乡",
 		"parentCode":"530922"
 	},
@@ -83,7 +83,7 @@
 		"code":"530922204",
 		"fullCode":"530922204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栗树彝族傣族乡",
 		"parentCode":"530922"
 	},
@@ -91,7 +91,7 @@
 		"code":"530922205",
 		"fullCode":"530922205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后箐彝族乡",
 		"parentCode":"530922"
 	},
@@ -99,7 +99,7 @@
 		"code":"530922401",
 		"fullCode":"530922401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临沧监狱",
 		"parentCode":"530922"
 	},
@@ -107,7 +107,7 @@
 		"code":"530922501",
 		"fullCode":"530922501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福农场",
 		"parentCode":"530922"
 	}

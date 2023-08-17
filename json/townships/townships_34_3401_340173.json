@@ -3,7 +3,7 @@
 		"code":"340173001",
 		"fullCode":"340173001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里塘街道",
 		"parentCode":"340173"
 	},
@@ -11,7 +11,7 @@
 		"code":"340173002",
 		"fullCode":"340173002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磨店街道",
 		"parentCode":"340173"
 	},
@@ -19,7 +19,7 @@
 		"code":"340173003",
 		"fullCode":"340173003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三十头街道",
 		"parentCode":"340173"
 	},
@@ -27,7 +27,7 @@
 		"code":"340173400",
 		"fullCode":"340173400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑶海社区服务中心",
 		"parentCode":"340173"
 	},
@@ -35,7 +35,7 @@
 		"code":"340173401",
 		"fullCode":"340173401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站北社区服务中心",
 		"parentCode":"340173"
 	}

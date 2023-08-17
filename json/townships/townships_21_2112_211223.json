@@ -3,7 +3,7 @@
 		"code":"211223100",
 		"fullCode":"211223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西丰镇",
 		"parentCode":"211223"
 	},
@@ -11,7 +11,7 @@
 		"code":"211223101",
 		"fullCode":"211223101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平岗镇",
 		"parentCode":"211223"
 	},
@@ -19,7 +19,7 @@
 		"code":"211223102",
 		"fullCode":"211223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郜家店镇",
 		"parentCode":"211223"
 	},
@@ -27,7 +27,7 @@
 		"code":"211223103",
 		"fullCode":"211223103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉泉镇",
 		"parentCode":"211223"
 	},
@@ -35,7 +35,7 @@
 		"code":"211223104",
 		"fullCode":"211223104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振兴镇",
 		"parentCode":"211223"
 	},
@@ -43,7 +43,7 @@
 		"code":"211223105",
 		"fullCode":"211223105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安民镇",
 		"parentCode":"211223"
 	},
@@ -51,7 +51,7 @@
 		"code":"211223106",
 		"fullCode":"211223106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天德镇",
 		"parentCode":"211223"
 	},
@@ -59,7 +59,7 @@
 		"code":"211223107",
 		"fullCode":"211223107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"房木镇",
 		"parentCode":"211223"
 	},
@@ -67,7 +67,7 @@
 		"code":"211223108",
 		"fullCode":"211223108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏榆镇",
 		"parentCode":"211223"
 	},
@@ -75,7 +75,7 @@
 		"code":"211223109",
 		"fullCode":"211223109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶然镇",
 		"parentCode":"211223"
 	},
@@ -83,7 +83,7 @@
 		"code":"211223110",
 		"fullCode":"211223110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钓鱼镇",
 		"parentCode":"211223"
 	},
@@ -91,7 +91,7 @@
 		"code":"211223111",
 		"fullCode":"211223111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"更刻镇",
 		"parentCode":"211223"
 	},
@@ -99,7 +99,7 @@
 		"code":"211223204",
 		"fullCode":"211223204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德兴满族乡",
 		"parentCode":"211223"
 	},
@@ -107,7 +107,7 @@
 		"code":"211223206",
 		"fullCode":"211223206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明德满族乡",
 		"parentCode":"211223"
 	},
@@ -115,7 +115,7 @@
 		"code":"211223209",
 		"fullCode":"211223209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"成平满族乡",
 		"parentCode":"211223"
 	},
@@ -123,7 +123,7 @@
 		"code":"211223211",
 		"fullCode":"211223211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和隆满族乡",
 		"parentCode":"211223"
 	},
@@ -131,7 +131,7 @@
 		"code":"211223212",
 		"fullCode":"211223212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营厂满族乡",
 		"parentCode":"211223"
 	},
@@ -139,7 +139,7 @@
 		"code":"211223213",
 		"fullCode":"211223213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金星满族乡",
 		"parentCode":"211223"
 	}

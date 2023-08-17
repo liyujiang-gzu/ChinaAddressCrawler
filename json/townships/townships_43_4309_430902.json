@@ -3,7 +3,7 @@
 		"code":"430902005",
 		"fullCode":"430902005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大码头街道",
 		"parentCode":"430902"
 	},
@@ -11,7 +11,7 @@
 		"code":"430902006",
 		"fullCode":"430902006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汽车路街道",
 		"parentCode":"430902"
 	},
@@ -19,7 +19,7 @@
 		"code":"430902102",
 		"fullCode":"430902102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎风桥镇",
 		"parentCode":"430902"
 	},
@@ -27,7 +27,7 @@
 		"code":"430902104",
 		"fullCode":"430902104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙头镇",
 		"parentCode":"430902"
 	},
@@ -35,7 +35,7 @@
 		"code":"430902105",
 		"fullCode":"430902105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茈湖口镇",
 		"parentCode":"430902"
 	},
@@ -43,7 +43,7 @@
 		"code":"430902106",
 		"fullCode":"430902106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长春镇",
 		"parentCode":"430902"
 	},
@@ -51,7 +51,7 @@
 		"code":"430902107",
 		"fullCode":"430902107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥河镇",
 		"parentCode":"430902"
 	},
@@ -59,7 +59,7 @@
 		"code":"430902203",
 		"fullCode":"430902203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家塞乡",
 		"parentCode":"430902"
 	},
@@ -67,7 +67,7 @@
 		"code":"430902401",
 		"fullCode":"430902401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长春经济开发区",
 		"parentCode":"430902"
 	}

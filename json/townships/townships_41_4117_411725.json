@@ -3,7 +3,7 @@
 		"code":"411725001",
 		"fullCode":"411725001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘龙街道",
 		"parentCode":"411725"
 	},
@@ -11,7 +11,7 @@
 		"code":"411725002",
 		"fullCode":"411725002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里河街道",
 		"parentCode":"411725"
 	},
@@ -19,7 +19,7 @@
 		"code":"411725003",
 		"fullCode":"411725003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朗陵街道",
 		"parentCode":"411725"
 	},
@@ -27,7 +27,7 @@
 		"code":"411725101",
 		"fullCode":"411725101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹沟镇",
 		"parentCode":"411725"
 	},
@@ -35,7 +35,7 @@
 		"code":"411725102",
 		"fullCode":"411725102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"任店镇",
 		"parentCode":"411725"
 	},
@@ -43,7 +43,7 @@
 		"code":"411725103",
 		"fullCode":"411725103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安店镇",
 		"parentCode":"411725"
 	},
@@ -51,7 +51,7 @@
 		"code":"411725104",
 		"fullCode":"411725104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留庄镇",
 		"parentCode":"411725"
 	},
@@ -59,7 +59,7 @@
 		"code":"411725105",
 		"fullCode":"411725105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘店镇",
 		"parentCode":"411725"
 	},
@@ -67,7 +67,7 @@
 		"code":"411725107",
 		"fullCode":"411725107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦岗镇",
 		"parentCode":"411725"
 	},
@@ -75,7 +75,7 @@
 		"code":"411725108",
 		"fullCode":"411725108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河镇",
 		"parentCode":"411725"
 	},
@@ -83,7 +83,7 @@
 		"code":"411725109",
 		"fullCode":"411725109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石滚河镇",
 		"parentCode":"411725"
 	},
@@ -91,7 +91,7 @@
 		"code":"411725110",
 		"fullCode":"411725110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李新店镇",
 		"parentCode":"411725"
 	},
@@ -99,7 +99,7 @@
 		"code":"411725111",
 		"fullCode":"411725111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普会寺镇",
 		"parentCode":"411725"
 	}

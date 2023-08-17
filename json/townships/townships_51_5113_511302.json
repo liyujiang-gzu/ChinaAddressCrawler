@@ -3,7 +3,7 @@
 		"code":"511302001",
 		"fullCode":"511302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中城街道",
 		"parentCode":"511302"
 	},
@@ -11,7 +11,7 @@
 		"code":"511302002",
 		"fullCode":"511302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"511302"
 	},
@@ -19,7 +19,7 @@
 		"code":"511302003",
 		"fullCode":"511302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"511302"
 	},
@@ -27,7 +27,7 @@
 		"code":"511302004",
 		"fullCode":"511302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东南街道",
 		"parentCode":"511302"
 	},
@@ -35,7 +35,7 @@
 		"code":"511302005",
 		"fullCode":"511302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舞凤街道",
 		"parentCode":"511302"
 	},
@@ -43,7 +43,7 @@
 		"code":"511302006",
 		"fullCode":"511302006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新建街道",
 		"parentCode":"511302"
 	},
@@ -51,7 +51,7 @@
 		"code":"511302007",
 		"fullCode":"511302007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华凤街道",
 		"parentCode":"511302"
 	},
@@ -59,7 +59,7 @@
 		"code":"511302008",
 		"fullCode":"511302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平路街道",
 		"parentCode":"511302"
 	},
@@ -67,7 +67,7 @@
 		"code":"511302009",
 		"fullCode":"511302009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潆溪街道",
 		"parentCode":"511302"
 	},
@@ -75,7 +75,7 @@
 		"code":"511302010",
 		"fullCode":"511302010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荆溪街道",
 		"parentCode":"511302"
 	},
@@ -83,7 +83,7 @@
 		"code":"511302011",
 		"fullCode":"511302011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西山街道",
 		"parentCode":"511302"
 	},
@@ -91,7 +91,7 @@
 		"code":"511302012",
 		"fullCode":"511302012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"搬罾街道",
 		"parentCode":"511302"
 	},
@@ -99,7 +99,7 @@
 		"code":"511302104",
 		"fullCode":"511302104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共兴镇",
 		"parentCode":"511302"
 	},
@@ -107,7 +107,7 @@
 		"code":"511302105",
 		"fullCode":"511302105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金台镇",
 		"parentCode":"511302"
 	},
@@ -115,7 +115,7 @@
 		"code":"511302106",
 		"fullCode":"511302106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦溪镇",
 		"parentCode":"511302"
 	},
@@ -123,7 +123,7 @@
 		"code":"511302107",
 		"fullCode":"511302107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李家镇",
 		"parentCode":"511302"
 	},
@@ -131,7 +131,7 @@
 		"code":"511302108",
 		"fullCode":"511302108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桥镇",
 		"parentCode":"511302"
 	},
@@ -139,7 +139,7 @@
 		"code":"511302114",
 		"fullCode":"511302114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔溪镇",
 		"parentCode":"511302"
 	},
@@ -147,7 +147,7 @@
 		"code":"511302200",
 		"fullCode":"511302200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新复乡",
 		"parentCode":"511302"
 	}

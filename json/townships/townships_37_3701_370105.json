@@ -3,7 +3,7 @@
 		"code":"370105001",
 		"fullCode":"370105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无影山街道",
 		"parentCode":"370105"
 	},
@@ -11,7 +11,7 @@
 		"code":"370105003",
 		"fullCode":"370105003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天桥东街街道",
 		"parentCode":"370105"
 	},
@@ -19,7 +19,7 @@
 		"code":"370105004",
 		"fullCode":"370105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北村街道",
 		"parentCode":"370105"
 	},
@@ -27,7 +27,7 @@
 		"code":"370105005",
 		"fullCode":"370105005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南村街道",
 		"parentCode":"370105"
 	},
@@ -35,7 +35,7 @@
 		"code":"370105006",
 		"fullCode":"370105006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堤口路街道",
 		"parentCode":"370105"
 	},
@@ -43,7 +43,7 @@
 		"code":"370105007",
 		"fullCode":"370105007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北坦街道",
 		"parentCode":"370105"
 	},
@@ -51,7 +51,7 @@
 		"code":"370105009",
 		"fullCode":"370105009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"制锦市街道",
 		"parentCode":"370105"
 	},
@@ -59,7 +59,7 @@
 		"code":"370105010",
 		"fullCode":"370105010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝华街道",
 		"parentCode":"370105"
 	},
@@ -67,7 +67,7 @@
 		"code":"370105011",
 		"fullCode":"370105011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官扎营街道",
 		"parentCode":"370105"
 	},
@@ -75,7 +75,7 @@
 		"code":"370105012",
 		"fullCode":"370105012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纬北路街道",
 		"parentCode":"370105"
 	},
@@ -83,7 +83,7 @@
 		"code":"370105013",
 		"fullCode":"370105013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"药山街道",
 		"parentCode":"370105"
 	},
@@ -91,7 +91,7 @@
 		"code":"370105014",
 		"fullCode":"370105014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北园街道",
 		"parentCode":"370105"
 	},
@@ -99,7 +99,7 @@
 		"code":"370105015",
 		"fullCode":"370105015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泺口街道",
 		"parentCode":"370105"
 	},
@@ -107,7 +107,7 @@
 		"code":"370105016",
 		"fullCode":"370105016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑梓店街道",
 		"parentCode":"370105"
 	},
@@ -115,7 +115,7 @@
 		"code":"370105017",
 		"fullCode":"370105017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥街道",
 		"parentCode":"370105"
 	}

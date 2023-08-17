@@ -3,7 +3,7 @@
 		"code":"450981001",
 		"fullCode":"450981001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陵城街道",
 		"parentCode":"450981"
 	},
@@ -11,7 +11,7 @@
 		"code":"450981002",
 		"fullCode":"450981002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"450981"
 	},
@@ -19,7 +19,7 @@
 		"code":"450981003",
 		"fullCode":"450981003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"450981"
 	},
@@ -27,7 +27,7 @@
 		"code":"450981100",
 		"fullCode":"450981100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北流镇",
 		"parentCode":"450981"
 	},
@@ -35,7 +35,7 @@
 		"code":"450981101",
 		"fullCode":"450981101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新荣镇",
 		"parentCode":"450981"
 	},
@@ -43,7 +43,7 @@
 		"code":"450981102",
 		"fullCode":"450981102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民安镇",
 		"parentCode":"450981"
 	},
@@ -51,7 +51,7 @@
 		"code":"450981103",
 		"fullCode":"450981103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山围镇",
 		"parentCode":"450981"
 	},
@@ -59,7 +59,7 @@
 		"code":"450981104",
 		"fullCode":"450981104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民乐镇",
 		"parentCode":"450981"
 	},
@@ -67,7 +67,7 @@
 		"code":"450981105",
 		"fullCode":"450981105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西埌镇",
 		"parentCode":"450981"
 	},
@@ -75,7 +75,7 @@
 		"code":"450981106",
 		"fullCode":"450981106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新圩镇",
 		"parentCode":"450981"
 	},
@@ -83,7 +83,7 @@
 		"code":"450981107",
 		"fullCode":"450981107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大里镇",
 		"parentCode":"450981"
 	},
@@ -91,7 +91,7 @@
 		"code":"450981108",
 		"fullCode":"450981108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘岸镇",
 		"parentCode":"450981"
 	},
@@ -99,7 +99,7 @@
 		"code":"450981109",
 		"fullCode":"450981109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水口镇",
 		"parentCode":"450981"
 	},
@@ -107,7 +107,7 @@
 		"code":"450981110",
 		"fullCode":"450981110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆盛镇",
 		"parentCode":"450981"
 	},
@@ -115,7 +115,7 @@
 		"code":"450981111",
 		"fullCode":"450981111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坡外镇",
 		"parentCode":"450981"
 	},
@@ -123,7 +123,7 @@
 		"code":"450981112",
 		"fullCode":"450981112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六麻镇",
 		"parentCode":"450981"
 	},
@@ -131,7 +131,7 @@
 		"code":"450981113",
 		"fullCode":"450981113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新丰镇",
 		"parentCode":"450981"
 	},
@@ -139,7 +139,7 @@
 		"code":"450981114",
 		"fullCode":"450981114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙垌镇",
 		"parentCode":"450981"
 	},
@@ -147,7 +147,7 @@
 		"code":"450981115",
 		"fullCode":"450981115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平政镇",
 		"parentCode":"450981"
 	},
@@ -155,7 +155,7 @@
 		"code":"450981116",
 		"fullCode":"450981116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马镇",
 		"parentCode":"450981"
 	},
@@ -163,7 +163,7 @@
 		"code":"450981117",
 		"fullCode":"450981117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大伦镇",
 		"parentCode":"450981"
 	},
@@ -171,7 +171,7 @@
 		"code":"450981118",
 		"fullCode":"450981118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扶新镇",
 		"parentCode":"450981"
 	},
@@ -179,7 +179,7 @@
 		"code":"450981119",
 		"fullCode":"450981119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六靖镇",
 		"parentCode":"450981"
 	},
@@ -187,7 +187,7 @@
 		"code":"450981120",
 		"fullCode":"450981120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石窝镇",
 		"parentCode":"450981"
 	},
@@ -195,7 +195,7 @@
 		"code":"450981121",
 		"fullCode":"450981121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清湾镇",
 		"parentCode":"450981"
 	}

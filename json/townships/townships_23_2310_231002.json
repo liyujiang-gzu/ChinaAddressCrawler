@@ -3,7 +3,7 @@
 		"code":"231002001",
 		"fullCode":"231002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安街道",
 		"parentCode":"231002"
 	},
@@ -11,7 +11,7 @@
 		"code":"231002002",
 		"fullCode":"231002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安街道",
 		"parentCode":"231002"
 	},
@@ -19,7 +19,7 @@
 		"code":"231002003",
 		"fullCode":"231002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七星街道",
 		"parentCode":"231002"
 	},
@@ -27,7 +27,7 @@
 		"code":"231002004",
 		"fullCode":"231002004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五星街道",
 		"parentCode":"231002"
 	},
@@ -35,7 +35,7 @@
 		"code":"231002008",
 		"fullCode":"231002008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴街道",
 		"parentCode":"231002"
 	},
@@ -43,7 +43,7 @@
 		"code":"231002009",
 		"fullCode":"231002009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振兴街道",
 		"parentCode":"231002"
 	},
@@ -51,7 +51,7 @@
 		"code":"231002101",
 		"fullCode":"231002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"231002"
 	}

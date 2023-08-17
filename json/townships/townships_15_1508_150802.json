@@ -3,7 +3,7 @@
 		"code":"150802001",
 		"fullCode":"150802001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结街道",
 		"parentCode":"150802"
 	},
@@ -11,7 +11,7 @@
 		"code":"150802002",
 		"fullCode":"150802002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车站街道",
 		"parentCode":"150802"
 	},
@@ -19,7 +19,7 @@
 		"code":"150802003",
 		"fullCode":"150802003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先锋街道",
 		"parentCode":"150802"
 	},
@@ -27,7 +27,7 @@
 		"code":"150802004",
 		"fullCode":"150802004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放街道",
 		"parentCode":"150802"
 	},
@@ -35,7 +35,7 @@
 		"code":"150802005",
 		"fullCode":"150802005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街道",
 		"parentCode":"150802"
 	},
@@ -43,7 +43,7 @@
 		"code":"150802006",
 		"fullCode":"150802006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东环街道",
 		"parentCode":"150802"
 	},
@@ -51,7 +51,7 @@
 		"code":"150802007",
 		"fullCode":"150802007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁南街道",
 		"parentCode":"150802"
 	},
@@ -59,7 +59,7 @@
 		"code":"150802008",
 		"fullCode":"150802008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西环街道",
 		"parentCode":"150802"
 	},
@@ -67,7 +67,7 @@
 		"code":"150802009",
 		"fullCode":"150802009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北环街道",
 		"parentCode":"150802"
 	},
@@ -75,7 +75,7 @@
 		"code":"150802013",
 		"fullCode":"150802013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金川街道",
 		"parentCode":"150802"
 	},
@@ -83,7 +83,7 @@
 		"code":"150802014",
 		"fullCode":"150802014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汇丰街道",
 		"parentCode":"150802"
 	},
@@ -91,7 +91,7 @@
 		"code":"150802100",
 		"fullCode":"150802100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狼山镇",
 		"parentCode":"150802"
 	},
@@ -99,7 +99,7 @@
 		"code":"150802101",
 		"fullCode":"150802101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华镇",
 		"parentCode":"150802"
 	},
@@ -107,7 +107,7 @@
 		"code":"150802102",
 		"fullCode":"150802102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"干召庙镇",
 		"parentCode":"150802"
 	},
@@ -115,7 +115,7 @@
 		"code":"150802103",
 		"fullCode":"150802103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰图克镇",
 		"parentCode":"150802"
 	},
@@ -123,7 +123,7 @@
 		"code":"150802104",
 		"fullCode":"150802104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河镇",
 		"parentCode":"150802"
 	},
@@ -131,7 +131,7 @@
 		"code":"150802105",
 		"fullCode":"150802105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"150802"
 	},
@@ -139,7 +139,7 @@
 		"code":"150802106",
 		"fullCode":"150802106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白脑包镇",
 		"parentCode":"150802"
 	},
@@ -147,7 +147,7 @@
 		"code":"150802200",
 		"fullCode":"150802200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曙光乡",
 		"parentCode":"150802"
 	},
@@ -155,7 +155,7 @@
 		"code":"150802201",
 		"fullCode":"150802201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八一乡",
 		"parentCode":"150802"
 	},
@@ -163,7 +163,7 @@
 		"code":"150802400",
 		"fullCode":"150802400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦淖尔市狼山农场农牧业发展有限公司",
 		"parentCode":"150802"
 	},
@@ -171,7 +171,7 @@
 		"code":"150802401",
 		"fullCode":"150802401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦淖尔市临农农牧业发展有限公司",
 		"parentCode":"150802"
 	}

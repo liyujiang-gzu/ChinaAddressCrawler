@@ -3,7 +3,7 @@
 		"code":"640324100",
 		"fullCode":"640324100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"豫海镇",
 		"parentCode":"640324"
 	},
@@ -11,7 +11,7 @@
 		"code":"640324101",
 		"fullCode":"640324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西镇",
 		"parentCode":"640324"
 	},
@@ -19,7 +19,7 @@
 		"code":"640324102",
 		"fullCode":"640324102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韦州镇",
 		"parentCode":"640324"
 	},
@@ -27,7 +27,7 @@
 		"code":"640324103",
 		"fullCode":"640324103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下马关镇",
 		"parentCode":"640324"
 	},
@@ -35,7 +35,7 @@
 		"code":"640324104",
 		"fullCode":"640324104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"预旺镇",
 		"parentCode":"640324"
 	},
@@ -43,7 +43,7 @@
 		"code":"640324105",
 		"fullCode":"640324105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王团镇",
 		"parentCode":"640324"
 	},
@@ -51,7 +51,7 @@
 		"code":"640324106",
 		"fullCode":"640324106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁塘镇",
 		"parentCode":"640324"
 	},
@@ -59,7 +59,7 @@
 		"code":"640324201",
 		"fullCode":"640324201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田老庄乡",
 		"parentCode":"640324"
 	},
@@ -67,7 +67,7 @@
 		"code":"640324202",
 		"fullCode":"640324202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马高庄乡",
 		"parentCode":"640324"
 	},
@@ -75,7 +75,7 @@
 		"code":"640324203",
 		"fullCode":"640324203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家塬乡",
 		"parentCode":"640324"
 	},
@@ -83,7 +83,7 @@
 		"code":"640324204",
 		"fullCode":"640324204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆乡",
 		"parentCode":"640324"
 	}

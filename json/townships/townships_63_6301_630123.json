@@ -3,7 +3,7 @@
 		"code":"630123100",
 		"fullCode":"630123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"630123"
 	},
@@ -11,7 +11,7 @@
 		"code":"630123101",
 		"fullCode":"630123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大华镇",
 		"parentCode":"630123"
 	},
@@ -19,7 +19,7 @@
 		"code":"630123200",
 		"fullCode":"630123200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东峡乡",
 		"parentCode":"630123"
 	},
@@ -27,7 +27,7 @@
 		"code":"630123201",
 		"fullCode":"630123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"日月藏族乡",
 		"parentCode":"630123"
 	},
@@ -35,7 +35,7 @@
 		"code":"630123202",
 		"fullCode":"630123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平乡",
 		"parentCode":"630123"
 	},
@@ -43,7 +43,7 @@
 		"code":"630123203",
 		"fullCode":"630123203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波航乡",
 		"parentCode":"630123"
 	},
@@ -51,7 +51,7 @@
 		"code":"630123204",
 		"fullCode":"630123204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"申中乡",
 		"parentCode":"630123"
 	},
@@ -59,7 +59,7 @@
 		"code":"630123205",
 		"fullCode":"630123205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴燕乡",
 		"parentCode":"630123"
 	},
@@ -67,7 +67,7 @@
 		"code":"630123206",
 		"fullCode":"630123206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺寨乡",
 		"parentCode":"630123"
 	}

@@ -3,7 +3,7 @@
 		"code":"310118001",
 		"fullCode":"310118001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏阳街道",
 		"parentCode":"310118"
 	},
@@ -11,7 +11,7 @@
 		"code":"310118002",
 		"fullCode":"310118002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盈浦街道",
 		"parentCode":"310118"
 	},
@@ -19,7 +19,7 @@
 		"code":"310118003",
 		"fullCode":"310118003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香花桥街道",
 		"parentCode":"310118"
 	},
@@ -27,7 +27,7 @@
 		"code":"310118102",
 		"fullCode":"310118102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱家角镇",
 		"parentCode":"310118"
 	},
@@ -35,7 +35,7 @@
 		"code":"310118103",
 		"fullCode":"310118103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"练塘镇",
 		"parentCode":"310118"
 	},
@@ -43,7 +43,7 @@
 		"code":"310118104",
 		"fullCode":"310118104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金泽镇",
 		"parentCode":"310118"
 	},
@@ -51,7 +51,7 @@
 		"code":"310118105",
 		"fullCode":"310118105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵巷镇",
 		"parentCode":"310118"
 	},
@@ -59,7 +59,7 @@
 		"code":"310118106",
 		"fullCode":"310118106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐泾镇",
 		"parentCode":"310118"
 	},
@@ -67,7 +67,7 @@
 		"code":"310118107",
 		"fullCode":"310118107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华新镇",
 		"parentCode":"310118"
 	},
@@ -75,7 +75,7 @@
 		"code":"310118109",
 		"fullCode":"310118109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"重固镇",
 		"parentCode":"310118"
 	},
@@ -83,7 +83,7 @@
 		"code":"310118110",
 		"fullCode":"310118110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鹤镇",
 		"parentCode":"310118"
 	}

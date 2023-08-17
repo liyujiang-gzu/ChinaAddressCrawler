@@ -3,7 +3,7 @@
 		"code":"540232100",
 		"fullCode":"540232100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"帕羊镇",
 		"parentCode":"540232"
 	},
@@ -11,7 +11,7 @@
 		"code":"540232200",
 		"fullCode":"540232200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉让乡",
 		"parentCode":"540232"
 	},
@@ -19,7 +19,7 @@
 		"code":"540232201",
 		"fullCode":"540232201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琼果乡",
 		"parentCode":"540232"
 	},
@@ -27,7 +27,7 @@
 		"code":"540232202",
 		"fullCode":"540232202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚热乡",
 		"parentCode":"540232"
 	},
@@ -35,7 +35,7 @@
 		"code":"540232203",
 		"fullCode":"540232203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布多乡",
 		"parentCode":"540232"
 	},
@@ -43,7 +43,7 @@
 		"code":"540232204",
 		"fullCode":"540232204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"偏吉乡",
 		"parentCode":"540232"
 	},
@@ -51,7 +51,7 @@
 		"code":"540232205",
 		"fullCode":"540232205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳久乡",
 		"parentCode":"540232"
 	},
@@ -59,7 +59,7 @@
 		"code":"540232206",
 		"fullCode":"540232206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉拉乡",
 		"parentCode":"540232"
 	},
@@ -67,7 +67,7 @@
 		"code":"540232207",
 		"fullCode":"540232207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霍尔巴乡",
 		"parentCode":"540232"
 	},
@@ -75,7 +75,7 @@
 		"code":"540232208",
 		"fullCode":"540232208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆格尔乡",
 		"parentCode":"540232"
 	},
@@ -83,7 +83,7 @@
 		"code":"540232209",
 		"fullCode":"540232209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉玛乡",
 		"parentCode":"540232"
 	},
@@ -91,7 +91,7 @@
 		"code":"540232210",
 		"fullCode":"540232210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁多乡",
 		"parentCode":"540232"
 	},
@@ -99,7 +99,7 @@
 		"code":"540232211",
 		"fullCode":"540232211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"帕江乡",
 		"parentCode":"540232"
 	}

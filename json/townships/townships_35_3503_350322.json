@@ -3,7 +3,7 @@
 		"code":"350322001",
 		"fullCode":"350322001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲤城街道",
 		"parentCode":"350322"
 	},
@@ -11,7 +11,7 @@
 		"code":"350322100",
 		"fullCode":"350322100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫亭镇",
 		"parentCode":"350322"
 	},
@@ -19,7 +19,7 @@
 		"code":"350322101",
 		"fullCode":"350322101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榜头镇",
 		"parentCode":"350322"
 	},
@@ -27,7 +27,7 @@
 		"code":"350322102",
 		"fullCode":"350322102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郊尾镇",
 		"parentCode":"350322"
 	},
@@ -35,7 +35,7 @@
 		"code":"350322103",
 		"fullCode":"350322103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"度尾镇",
 		"parentCode":"350322"
 	},
@@ -43,7 +43,7 @@
 		"code":"350322104",
 		"fullCode":"350322104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲤南镇",
 		"parentCode":"350322"
 	},
@@ -51,7 +51,7 @@
 		"code":"350322105",
 		"fullCode":"350322105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赖店镇",
 		"parentCode":"350322"
 	},
@@ -59,7 +59,7 @@
 		"code":"350322106",
 		"fullCode":"350322106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盖尾镇",
 		"parentCode":"350322"
 	},
@@ -67,7 +67,7 @@
 		"code":"350322107",
 		"fullCode":"350322107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"园庄镇",
 		"parentCode":"350322"
 	},
@@ -75,7 +75,7 @@
 		"code":"350322108",
 		"fullCode":"350322108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大济镇",
 		"parentCode":"350322"
 	},
@@ -83,7 +83,7 @@
 		"code":"350322109",
 		"fullCode":"350322109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙华镇",
 		"parentCode":"350322"
 	},
@@ -91,7 +91,7 @@
 		"code":"350322110",
 		"fullCode":"350322110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟山镇",
 		"parentCode":"350322"
 	},
@@ -99,7 +99,7 @@
 		"code":"350322111",
 		"fullCode":"350322111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"游洋镇",
 		"parentCode":"350322"
 	},
@@ -107,7 +107,7 @@
 		"code":"350322200",
 		"fullCode":"350322200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西苑乡",
 		"parentCode":"350322"
 	},
@@ -115,7 +115,7 @@
 		"code":"350322201",
 		"fullCode":"350322201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石苍乡",
 		"parentCode":"350322"
 	},
@@ -123,7 +123,7 @@
 		"code":"350322202",
 		"fullCode":"350322202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"社硎乡",
 		"parentCode":"350322"
 	},
@@ -131,7 +131,7 @@
 		"code":"350322203",
 		"fullCode":"350322203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"书峰乡",
 		"parentCode":"350322"
 	},
@@ -139,7 +139,7 @@
 		"code":"350322204",
 		"fullCode":"350322204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菜溪乡",
 		"parentCode":"350322"
 	}

@@ -3,7 +3,7 @@
 		"code":"511102",
 		"fullCode":"511102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"市中区",
 		"parentCode":"5111"
 	},
@@ -11,7 +11,7 @@
 		"code":"511111",
 		"fullCode":"511111000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沙湾区",
 		"parentCode":"5111"
 	},
@@ -19,7 +19,7 @@
 		"code":"511112",
 		"fullCode":"511112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"五通桥区",
 		"parentCode":"5111"
 	},
@@ -27,7 +27,7 @@
 		"code":"511113",
 		"fullCode":"511113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金口河区",
 		"parentCode":"5111"
 	},
@@ -35,7 +35,7 @@
 		"code":"511123",
 		"fullCode":"511123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"犍为县",
 		"parentCode":"5111"
 	},
@@ -43,7 +43,7 @@
 		"code":"511124",
 		"fullCode":"511124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"井研县",
 		"parentCode":"5111"
 	},
@@ -51,7 +51,7 @@
 		"code":"511126",
 		"fullCode":"511126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"夹江县",
 		"parentCode":"5111"
 	},
@@ -59,7 +59,7 @@
 		"code":"511129",
 		"fullCode":"511129000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沐川县",
 		"parentCode":"5111"
 	},
@@ -67,7 +67,7 @@
 		"code":"511132",
 		"fullCode":"511132000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"峨边彝族自治县",
 		"parentCode":"5111"
 	},
@@ -75,7 +75,7 @@
 		"code":"511133",
 		"fullCode":"511133000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"马边彝族自治县",
 		"parentCode":"5111"
 	},
@@ -83,7 +83,7 @@
 		"code":"511181",
 		"fullCode":"511181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"峨眉山市",
 		"parentCode":"5111"
 	}

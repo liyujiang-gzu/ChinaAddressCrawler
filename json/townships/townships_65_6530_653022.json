@@ -3,7 +3,7 @@
 		"code":"653022100",
 		"fullCode":"653022100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿克陶镇",
 		"parentCode":"653022"
 	},
@@ -11,7 +11,7 @@
 		"code":"653022101",
 		"fullCode":"653022101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奥依塔克镇",
 		"parentCode":"653022"
 	},
@@ -19,7 +19,7 @@
 		"code":"653022102",
 		"fullCode":"653022102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克孜勒陶镇",
 		"parentCode":"653022"
 	},
@@ -27,7 +27,7 @@
 		"code":"653022103",
 		"fullCode":"653022103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恰尔隆镇",
 		"parentCode":"653022"
 	},
@@ -35,7 +35,7 @@
 		"code":"653022104",
 		"fullCode":"653022104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉麦镇",
 		"parentCode":"653022"
 	},
@@ -43,7 +43,7 @@
 		"code":"653022201",
 		"fullCode":"653022201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皮拉勒乡",
 		"parentCode":"653022"
 	},
@@ -51,7 +51,7 @@
 		"code":"653022202",
 		"fullCode":"653022202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴仁乡",
 		"parentCode":"653022"
 	},
@@ -59,7 +59,7 @@
 		"code":"653022203",
 		"fullCode":"653022203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喀热开其克乡",
 		"parentCode":"653022"
 	},
@@ -67,7 +67,7 @@
 		"code":"653022204",
 		"fullCode":"653022204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加马铁热克乡",
 		"parentCode":"653022"
 	},
@@ -75,7 +75,7 @@
 		"code":"653022205",
 		"fullCode":"653022205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木吉乡",
 		"parentCode":"653022"
 	},
@@ -83,7 +83,7 @@
 		"code":"653022206",
 		"fullCode":"653022206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布伦口乡",
 		"parentCode":"653022"
 	},
@@ -91,7 +91,7 @@
 		"code":"653022210",
 		"fullCode":"653022210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔尔塔吉克民族乡",
 		"parentCode":"653022"
 	},
@@ -99,7 +99,7 @@
 		"code":"653022400",
 		"fullCode":"653022400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托尔塔依农场",
 		"parentCode":"653022"
 	},
@@ -107,7 +107,7 @@
 		"code":"653022401",
 		"fullCode":"653022401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿克达拉牧场",
 		"parentCode":"653022"
 	},
@@ -115,7 +115,7 @@
 		"code":"653022402",
 		"fullCode":"653022402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"原种场",
 		"parentCode":"653022"
 	},
@@ -123,7 +123,7 @@
 		"code":"653022403",
 		"fullCode":"653022403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克孜勒苏柯尔克孜自治州林场",
 		"parentCode":"653022"
 	},
@@ -131,7 +131,7 @@
 		"code":"653022404",
 		"fullCode":"653022404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苗圃",
 		"parentCode":"653022"
 	}

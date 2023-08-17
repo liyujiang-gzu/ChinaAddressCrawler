@@ -3,7 +3,7 @@
 		"code":"150222102",
 		"fullCode":"150222102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山镇",
 		"parentCode":"150222"
 	},
@@ -11,7 +11,7 @@
 		"code":"150222103",
 		"fullCode":"150222103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西斗铺镇",
 		"parentCode":"150222"
 	},
@@ -19,7 +19,7 @@
 		"code":"150222104",
 		"fullCode":"150222104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下湿壕镇",
 		"parentCode":"150222"
 	},
@@ -27,7 +27,7 @@
 		"code":"150222105",
 		"fullCode":"150222105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银号镇",
 		"parentCode":"150222"
 	},
@@ -35,7 +35,7 @@
 		"code":"150222106",
 		"fullCode":"150222106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"怀朔镇",
 		"parentCode":"150222"
 	},
@@ -43,7 +43,7 @@
 		"code":"150222107",
 		"fullCode":"150222107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴顺西镇",
 		"parentCode":"150222"
 	}

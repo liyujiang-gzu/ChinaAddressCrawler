@@ -3,7 +3,7 @@
 		"code":"500119001",
 		"fullCode":"500119001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"500119"
 	},
@@ -11,7 +11,7 @@
 		"code":"500119002",
 		"fullCode":"500119002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南城街道",
 		"parentCode":"500119"
 	},
@@ -19,7 +19,7 @@
 		"code":"500119003",
 		"fullCode":"500119003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"500119"
 	},
@@ -27,7 +27,7 @@
 		"code":"500119100",
 		"fullCode":"500119100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三泉镇",
 		"parentCode":"500119"
 	},
@@ -35,7 +35,7 @@
 		"code":"500119101",
 		"fullCode":"500119101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南平镇",
 		"parentCode":"500119"
 	},
@@ -43,7 +43,7 @@
 		"code":"500119102",
 		"fullCode":"500119102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神童镇",
 		"parentCode":"500119"
 	},
@@ -51,7 +51,7 @@
 		"code":"500119103",
 		"fullCode":"500119103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸣玉镇",
 		"parentCode":"500119"
 	},
@@ -59,7 +59,7 @@
 		"code":"500119104",
 		"fullCode":"500119104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大观镇",
 		"parentCode":"500119"
 	},
@@ -67,7 +67,7 @@
 		"code":"500119105",
 		"fullCode":"500119105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"500119"
 	},
@@ -75,7 +75,7 @@
 		"code":"500119106",
 		"fullCode":"500119106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平场镇",
 		"parentCode":"500119"
 	},
@@ -83,7 +83,7 @@
 		"code":"500119107",
 		"fullCode":"500119107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"500119"
 	},
@@ -91,7 +91,7 @@
 		"code":"500119108",
 		"fullCode":"500119108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水江镇",
 		"parentCode":"500119"
 	},
@@ -99,7 +99,7 @@
 		"code":"500119109",
 		"fullCode":"500119109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石墙镇",
 		"parentCode":"500119"
 	},
@@ -107,7 +107,7 @@
 		"code":"500119110",
 		"fullCode":"500119110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山镇",
 		"parentCode":"500119"
 	},
@@ -115,7 +115,7 @@
 		"code":"500119111",
 		"fullCode":"500119111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头渡镇",
 		"parentCode":"500119"
 	},
@@ -123,7 +123,7 @@
 		"code":"500119112",
 		"fullCode":"500119112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大有镇",
 		"parentCode":"500119"
 	},
@@ -131,7 +131,7 @@
 		"code":"500119113",
 		"fullCode":"500119113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合溪镇",
 		"parentCode":"500119"
 	},
@@ -139,7 +139,7 @@
 		"code":"500119114",
 		"fullCode":"500119114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎香湖镇",
 		"parentCode":"500119"
 	},
@@ -147,7 +147,7 @@
 		"code":"500119115",
 		"fullCode":"500119115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山王坪镇",
 		"parentCode":"500119"
 	},
@@ -155,7 +155,7 @@
 		"code":"500119116",
 		"fullCode":"500119116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木凉镇",
 		"parentCode":"500119"
 	},
@@ -163,7 +163,7 @@
 		"code":"500119117",
 		"fullCode":"500119117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楠竹山镇",
 		"parentCode":"500119"
 	},
@@ -171,7 +171,7 @@
 		"code":"500119118",
 		"fullCode":"500119118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石溪镇",
 		"parentCode":"500119"
 	},
@@ -179,7 +179,7 @@
 		"code":"500119119",
 		"fullCode":"500119119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德隆镇",
 		"parentCode":"500119"
 	},
@@ -187,7 +187,7 @@
 		"code":"500119120",
 		"fullCode":"500119120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民主镇",
 		"parentCode":"500119"
 	},
@@ -195,7 +195,7 @@
 		"code":"500119121",
 		"fullCode":"500119121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福寿镇",
 		"parentCode":"500119"
 	},
@@ -203,7 +203,7 @@
 		"code":"500119122",
 		"fullCode":"500119122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河图镇",
 		"parentCode":"500119"
 	},
@@ -211,7 +211,7 @@
 		"code":"500119123",
 		"fullCode":"500119123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆元镇",
 		"parentCode":"500119"
 	},
@@ -219,7 +219,7 @@
 		"code":"500119124",
 		"fullCode":"500119124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古花镇",
 		"parentCode":"500119"
 	},
@@ -227,7 +227,7 @@
 		"code":"500119125",
 		"fullCode":"500119125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石莲镇",
 		"parentCode":"500119"
 	},
@@ -235,7 +235,7 @@
 		"code":"500119126",
 		"fullCode":"500119126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乾丰镇",
 		"parentCode":"500119"
 	},
@@ -243,7 +243,7 @@
 		"code":"500119127",
 		"fullCode":"500119127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骑龙镇",
 		"parentCode":"500119"
 	},
@@ -251,7 +251,7 @@
 		"code":"500119128",
 		"fullCode":"500119128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冷水关镇",
 		"parentCode":"500119"
 	},
@@ -259,7 +259,7 @@
 		"code":"500119207",
 		"fullCode":"500119207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中桥乡",
 		"parentCode":"500119"
 	},
@@ -267,7 +267,7 @@
 		"code":"500119212",
 		"fullCode":"500119212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峰岩乡",
 		"parentCode":"500119"
 	}

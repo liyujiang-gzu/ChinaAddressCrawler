@@ -3,7 +3,7 @@
 		"code":"532925101",
 		"fullCode":"532925101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弥城镇",
 		"parentCode":"532925"
 	},
@@ -11,7 +11,7 @@
 		"code":"532925102",
 		"fullCode":"532925102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红岩镇",
 		"parentCode":"532925"
 	},
@@ -19,7 +19,7 @@
 		"code":"532925103",
 		"fullCode":"532925103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街镇",
 		"parentCode":"532925"
 	},
@@ -27,7 +27,7 @@
 		"code":"532925104",
 		"fullCode":"532925104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寅街镇",
 		"parentCode":"532925"
 	},
@@ -35,7 +35,7 @@
 		"code":"532925105",
 		"fullCode":"532925105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苴力镇",
 		"parentCode":"532925"
 	},
@@ -43,7 +43,7 @@
 		"code":"532925106",
 		"fullCode":"532925106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"密祉镇",
 		"parentCode":"532925"
 	},
@@ -51,7 +51,7 @@
 		"code":"532925203",
 		"fullCode":"532925203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德苴乡",
 		"parentCode":"532925"
 	},
@@ -59,7 +59,7 @@
 		"code":"532925204",
 		"fullCode":"532925204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛街彝族乡",
 		"parentCode":"532925"
 	}

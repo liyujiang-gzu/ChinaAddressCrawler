@@ -3,7 +3,7 @@
 		"code":"130183100",
 		"fullCode":"130183100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋州镇",
 		"parentCode":"130183"
 	},
@@ -11,7 +11,7 @@
 		"code":"130183101",
 		"fullCode":"130183101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"总十庄镇",
 		"parentCode":"130183"
 	},
@@ -19,7 +19,7 @@
 		"code":"130183102",
 		"fullCode":"130183102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营里镇",
 		"parentCode":"130183"
 	},
@@ -27,7 +27,7 @@
 		"code":"130183103",
 		"fullCode":"130183103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃园镇",
 		"parentCode":"130183"
 	},
@@ -35,7 +35,7 @@
 		"code":"130183104",
 		"fullCode":"130183104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东卓宿镇",
 		"parentCode":"130183"
 	},
@@ -43,7 +43,7 @@
 		"code":"130183105",
 		"fullCode":"130183105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马于镇",
 		"parentCode":"130183"
 	},
@@ -51,7 +51,7 @@
 		"code":"130183106",
 		"fullCode":"130183106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小樵镇",
 		"parentCode":"130183"
 	},
@@ -59,7 +59,7 @@
 		"code":"130183107",
 		"fullCode":"130183107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槐树镇",
 		"parentCode":"130183"
 	},
@@ -67,7 +67,7 @@
 		"code":"130183108",
 		"fullCode":"130183108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东里庄镇",
 		"parentCode":"130183"
 	},
@@ -75,7 +75,7 @@
 		"code":"130183201",
 		"fullCode":"130183201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周家庄乡",
 		"parentCode":"130183"
 	}

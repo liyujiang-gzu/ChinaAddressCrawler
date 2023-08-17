@@ -3,7 +3,7 @@
 		"code":"610629001",
 		"fullCode":"610629001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤栖街道",
 		"parentCode":"610629"
 	},
@@ -11,7 +11,7 @@
 		"code":"610629101",
 		"fullCode":"610629101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧县镇",
 		"parentCode":"610629"
 	},
@@ -19,7 +19,7 @@
 		"code":"610629102",
 		"fullCode":"610629102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"交口河镇",
 		"parentCode":"610629"
 	},
@@ -27,7 +27,7 @@
 		"code":"610629103",
 		"fullCode":"610629103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老庙镇",
 		"parentCode":"610629"
 	},
@@ -35,7 +35,7 @@
 		"code":"610629104",
 		"fullCode":"610629104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土基镇",
 		"parentCode":"610629"
 	},
@@ -43,7 +43,7 @@
 		"code":"610629105",
 		"fullCode":"610629105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石头镇",
 		"parentCode":"610629"
 	},
@@ -51,7 +51,7 @@
 		"code":"610629106",
 		"fullCode":"610629106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槐柏镇",
 		"parentCode":"610629"
 	},
@@ -59,7 +59,7 @@
 		"code":"610629107",
 		"fullCode":"610629107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乡镇",
 		"parentCode":"610629"
 	},
@@ -67,7 +67,7 @@
 		"code":"610629108",
 		"fullCode":"610629108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菩提镇",
 		"parentCode":"610629"
 	}

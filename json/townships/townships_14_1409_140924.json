@@ -3,7 +3,7 @@
 		"code":"140924100",
 		"fullCode":"140924100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"繁城镇",
 		"parentCode":"140924"
 	},
@@ -11,7 +11,7 @@
 		"code":"140924101",
 		"fullCode":"140924101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"砂河镇",
 		"parentCode":"140924"
 	},
@@ -19,7 +19,7 @@
 		"code":"140924102",
 		"fullCode":"140924102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营镇",
 		"parentCode":"140924"
 	},
@@ -27,7 +27,7 @@
 		"code":"140924103",
 		"fullCode":"140924103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平型关镇",
 		"parentCode":"140924"
 	},
@@ -35,7 +35,7 @@
 		"code":"140924200",
 		"fullCode":"140924200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下茹越乡",
 		"parentCode":"140924"
 	},
@@ -43,7 +43,7 @@
 		"code":"140924202",
 		"fullCode":"140924202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光裕堡乡",
 		"parentCode":"140924"
 	},
@@ -51,7 +51,7 @@
 		"code":"140924203",
 		"fullCode":"140924203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"集义庄乡",
 		"parentCode":"140924"
 	},
@@ -59,7 +59,7 @@
 		"code":"140924204",
 		"fullCode":"140924204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山乡",
 		"parentCode":"140924"
 	},
@@ -67,7 +67,7 @@
 		"code":"140924205",
 		"fullCode":"140924205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山铺乡",
 		"parentCode":"140924"
 	},
@@ -75,7 +75,7 @@
 		"code":"140924208",
 		"fullCode":"140924208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神堂堡乡",
 		"parentCode":"140924"
 	},
@@ -83,7 +83,7 @@
 		"code":"140924209",
 		"fullCode":"140924209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩头乡",
 		"parentCode":"140924"
 	}

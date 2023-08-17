@@ -3,7 +3,7 @@
 		"code":"411025100",
 		"fullCode":"411025100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"411025"
 	},
@@ -11,7 +11,7 @@
 		"code":"411025101",
 		"fullCode":"411025101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"颍桥回族镇",
 		"parentCode":"411025"
 	},
@@ -19,7 +19,7 @@
 		"code":"411025102",
 		"fullCode":"411025102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦岭镇",
 		"parentCode":"411025"
 	},
@@ -27,7 +27,7 @@
 		"code":"411025103",
 		"fullCode":"411025103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"颍阳镇",
 		"parentCode":"411025"
 	},
@@ -35,7 +35,7 @@
 		"code":"411025104",
 		"fullCode":"411025104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王洛镇",
 		"parentCode":"411025"
 	},
@@ -43,7 +43,7 @@
 		"code":"411025105",
 		"fullCode":"411025105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫云镇",
 		"parentCode":"411025"
 	},
@@ -51,7 +51,7 @@
 		"code":"411025106",
 		"fullCode":"411025106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"库庄镇",
 		"parentCode":"411025"
 	},
@@ -59,7 +59,7 @@
 		"code":"411025107",
 		"fullCode":"411025107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里铺镇",
 		"parentCode":"411025"
 	},
@@ -67,7 +67,7 @@
 		"code":"411025108",
 		"fullCode":"411025108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山头店镇",
 		"parentCode":"411025"
 	},
@@ -75,7 +75,7 @@
 		"code":"411025109",
 		"fullCode":"411025109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汾陈镇",
 		"parentCode":"411025"
 	},
@@ -83,7 +83,7 @@
 		"code":"411025200",
 		"fullCode":"411025200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湛北乡",
 		"parentCode":"411025"
 	},
@@ -91,7 +91,7 @@
 		"code":"411025202",
 		"fullCode":"411025202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨沟乡",
 		"parentCode":"411025"
 	},
@@ -99,7 +99,7 @@
 		"code":"411025203",
 		"fullCode":"411025203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁营乡",
 		"parentCode":"411025"
 	},
@@ -107,7 +107,7 @@
 		"code":"411025204",
 		"fullCode":"411025204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜庄乡",
 		"parentCode":"411025"
 	},
@@ -115,7 +115,7 @@
 		"code":"411025205",
 		"fullCode":"411025205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范湖乡",
 		"parentCode":"411025"
 	},
@@ -123,7 +123,7 @@
 		"code":"411025206",
 		"fullCode":"411025206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双庙乡",
 		"parentCode":"411025"
 	}

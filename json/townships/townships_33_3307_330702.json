@@ -3,7 +3,7 @@
 		"code":"330702001",
 		"fullCode":"330702001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"330702"
 	},
@@ -11,7 +11,7 @@
 		"code":"330702002",
 		"fullCode":"330702002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城中街道",
 		"parentCode":"330702"
 	},
@@ -19,7 +19,7 @@
 		"code":"330702003",
 		"fullCode":"330702003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"330702"
 	},
@@ -27,7 +27,7 @@
 		"code":"330702004",
 		"fullCode":"330702004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"330702"
 	},
@@ -35,7 +35,7 @@
 		"code":"330702005",
 		"fullCode":"330702005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江南街道",
 		"parentCode":"330702"
 	},
@@ -43,7 +43,7 @@
 		"code":"330702006",
 		"fullCode":"330702006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三江街道",
 		"parentCode":"330702"
 	},
@@ -51,7 +51,7 @@
 		"code":"330702007",
 		"fullCode":"330702007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关街道",
 		"parentCode":"330702"
 	},
@@ -59,7 +59,7 @@
 		"code":"330702008",
 		"fullCode":"330702008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秋滨街道",
 		"parentCode":"330702"
 	},
@@ -67,7 +67,7 @@
 		"code":"330702009",
 		"fullCode":"330702009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新狮街道",
 		"parentCode":"330702"
 	},
@@ -75,7 +75,7 @@
 		"code":"330702100",
 		"fullCode":"330702100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗店镇",
 		"parentCode":"330702"
 	},
@@ -83,7 +83,7 @@
 		"code":"330702101",
 		"fullCode":"330702101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅畈镇",
 		"parentCode":"330702"
 	},
@@ -91,7 +91,7 @@
 		"code":"330702102",
 		"fullCode":"330702102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安地镇",
 		"parentCode":"330702"
 	},
@@ -99,7 +99,7 @@
 		"code":"330702103",
 		"fullCode":"330702103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白龙桥镇",
 		"parentCode":"330702"
 	},
@@ -107,7 +107,7 @@
 		"code":"330702104",
 		"fullCode":"330702104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琅琊镇",
 		"parentCode":"330702"
 	},
@@ -115,7 +115,7 @@
 		"code":"330702105",
 		"fullCode":"330702105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋堂镇",
 		"parentCode":"330702"
 	},
@@ -123,7 +123,7 @@
 		"code":"330702106",
 		"fullCode":"330702106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤溪镇",
 		"parentCode":"330702"
 	},
@@ -131,7 +131,7 @@
 		"code":"330702107",
 		"fullCode":"330702107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗埠镇",
 		"parentCode":"330702"
 	},
@@ -139,7 +139,7 @@
 		"code":"330702108",
 		"fullCode":"330702108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋埠镇",
 		"parentCode":"330702"
 	},
@@ -147,7 +147,7 @@
 		"code":"330702201",
 		"fullCode":"330702201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乾西乡",
 		"parentCode":"330702"
 	},
@@ -155,7 +155,7 @@
 		"code":"330702202",
 		"fullCode":"330702202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹马乡",
 		"parentCode":"330702"
 	},
@@ -163,7 +163,7 @@
 		"code":"330702203",
 		"fullCode":"330702203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长山乡",
 		"parentCode":"330702"
 	},
@@ -171,7 +171,7 @@
 		"code":"330702204",
 		"fullCode":"330702204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"箬阳乡",
 		"parentCode":"330702"
 	},
@@ -179,7 +179,7 @@
 		"code":"330702205",
 		"fullCode":"330702205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙畈乡",
 		"parentCode":"330702"
 	},
@@ -187,7 +187,7 @@
 		"code":"330702206",
 		"fullCode":"330702206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔石乡",
 		"parentCode":"330702"
 	},
@@ -195,7 +195,7 @@
 		"code":"330702208",
 		"fullCode":"330702208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莘畈乡",
 		"parentCode":"330702"
 	},
@@ -203,7 +203,7 @@
 		"code":"330702209",
 		"fullCode":"330702209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏孟乡",
 		"parentCode":"330702"
 	}

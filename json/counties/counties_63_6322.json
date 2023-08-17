@@ -3,7 +3,7 @@
 		"code":"632221",
 		"fullCode":"632221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"门源回族自治县",
 		"parentCode":"6322"
 	},
@@ -11,7 +11,7 @@
 		"code":"632222",
 		"fullCode":"632222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"祁连县",
 		"parentCode":"6322"
 	},
@@ -19,7 +19,7 @@
 		"code":"632223",
 		"fullCode":"632223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海晏县",
 		"parentCode":"6322"
 	},
@@ -27,7 +27,7 @@
 		"code":"632224",
 		"fullCode":"632224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"刚察县",
 		"parentCode":"6322"
 	}

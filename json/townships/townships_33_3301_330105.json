@@ -3,7 +3,7 @@
 		"code":"330105001",
 		"fullCode":"330105001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米市巷街道",
 		"parentCode":"330105"
 	},
@@ -11,7 +11,7 @@
 		"code":"330105002",
 		"fullCode":"330105002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖墅街道",
 		"parentCode":"330105"
 	},
@@ -19,7 +19,7 @@
 		"code":"330105003",
 		"fullCode":"330105003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小河街道",
 		"parentCode":"330105"
 	},
@@ -27,7 +27,7 @@
 		"code":"330105004",
 		"fullCode":"330105004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和睦街道",
 		"parentCode":"330105"
 	},
@@ -35,7 +35,7 @@
 		"code":"330105005",
 		"fullCode":"330105005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拱宸桥街道",
 		"parentCode":"330105"
 	},
@@ -43,7 +43,7 @@
 		"code":"330105007",
 		"fullCode":"330105007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大关街道",
 		"parentCode":"330105"
 	},
@@ -51,7 +51,7 @@
 		"code":"330105008",
 		"fullCode":"330105008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上塘街道",
 		"parentCode":"330105"
 	},
@@ -59,7 +59,7 @@
 		"code":"330105009",
 		"fullCode":"330105009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祥符街道",
 		"parentCode":"330105"
 	},
@@ -67,7 +67,7 @@
 		"code":"330105010",
 		"fullCode":"330105010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康桥街道",
 		"parentCode":"330105"
 	},
@@ -75,7 +75,7 @@
 		"code":"330105011",
 		"fullCode":"330105011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半山街道",
 		"parentCode":"330105"
 	},
@@ -83,7 +83,7 @@
 		"code":"330105012",
 		"fullCode":"330105012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天水街道",
 		"parentCode":"330105"
 	},
@@ -91,7 +91,7 @@
 		"code":"330105013",
 		"fullCode":"330105013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武林街道",
 		"parentCode":"330105"
 	},
@@ -99,7 +99,7 @@
 		"code":"330105014",
 		"fullCode":"330105014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长庆街道",
 		"parentCode":"330105"
 	},
@@ -107,7 +107,7 @@
 		"code":"330105015",
 		"fullCode":"330105015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潮鸣街道",
 		"parentCode":"330105"
 	},
@@ -115,7 +115,7 @@
 		"code":"330105016",
 		"fullCode":"330105016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝晖街道",
 		"parentCode":"330105"
 	},
@@ -123,7 +123,7 @@
 		"code":"330105017",
 		"fullCode":"330105017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文晖街道",
 		"parentCode":"330105"
 	},
@@ -131,7 +131,7 @@
 		"code":"330105018",
 		"fullCode":"330105018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东新街道",
 		"parentCode":"330105"
 	},
@@ -139,7 +139,7 @@
 		"code":"330105019",
 		"fullCode":"330105019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥街道",
 		"parentCode":"330105"
 	}

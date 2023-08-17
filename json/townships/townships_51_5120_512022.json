@@ -3,7 +3,7 @@
 		"code":"512022001",
 		"fullCode":"512022001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天池街道",
 		"parentCode":"512022"
 	},
@@ -11,7 +11,7 @@
 		"code":"512022002",
 		"fullCode":"512022002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南塔街道",
 		"parentCode":"512022"
 	},
@@ -19,7 +19,7 @@
 		"code":"512022101",
 		"fullCode":"512022101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石佛镇",
 		"parentCode":"512022"
 	},
@@ -27,7 +27,7 @@
 		"code":"512022102",
 		"fullCode":"512022102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回澜镇",
 		"parentCode":"512022"
 	},
@@ -35,7 +35,7 @@
 		"code":"512022103",
 		"fullCode":"512022103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石湍镇",
 		"parentCode":"512022"
 	},
@@ -43,7 +43,7 @@
 		"code":"512022104",
 		"fullCode":"512022104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"童家镇",
 		"parentCode":"512022"
 	},
@@ -51,7 +51,7 @@
 		"code":"512022105",
 		"fullCode":"512022105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝林镇",
 		"parentCode":"512022"
 	},
@@ -59,7 +59,7 @@
 		"code":"512022106",
 		"fullCode":"512022106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大佛镇",
 		"parentCode":"512022"
 	},
@@ -67,7 +67,7 @@
 		"code":"512022107",
 		"fullCode":"512022107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良安镇",
 		"parentCode":"512022"
 	},
@@ -75,7 +75,7 @@
 		"code":"512022108",
 		"fullCode":"512022108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金顺镇",
 		"parentCode":"512022"
 	},
@@ -83,7 +83,7 @@
 		"code":"512022109",
 		"fullCode":"512022109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中和场镇",
 		"parentCode":"512022"
 	},
@@ -91,7 +91,7 @@
 		"code":"512022110",
 		"fullCode":"512022110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"劳动镇",
 		"parentCode":"512022"
 	},
@@ -99,7 +99,7 @@
 		"code":"512022111",
 		"fullCode":"512022111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中天镇",
 		"parentCode":"512022"
 	},
@@ -107,7 +107,7 @@
 		"code":"512022112",
 		"fullCode":"512022112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛星镇",
 		"parentCode":"512022"
 	},
@@ -115,7 +115,7 @@
 		"code":"512022113",
 		"fullCode":"512022113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蟠龙镇",
 		"parentCode":"512022"
 	},
@@ -123,7 +123,7 @@
 		"code":"512022114",
 		"fullCode":"512022114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山镇",
 		"parentCode":"512022"
 	},
@@ -131,7 +131,7 @@
 		"code":"512022115",
 		"fullCode":"512022115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通旅镇",
 		"parentCode":"512022"
 	},
@@ -139,7 +139,7 @@
 		"code":"512022116",
 		"fullCode":"512022116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高寺镇",
 		"parentCode":"512022"
 	},
@@ -147,7 +147,7 @@
 		"code":"512022117",
 		"fullCode":"512022117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门镇",
 		"parentCode":"512022"
 	},
@@ -155,7 +155,7 @@
 		"code":"512022118",
 		"fullCode":"512022118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盛池镇",
 		"parentCode":"512022"
 	},
@@ -163,7 +163,7 @@
 		"code":"512022204",
 		"fullCode":"512022204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河场乡",
 		"parentCode":"512022"
 	}

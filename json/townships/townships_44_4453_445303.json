@@ -3,7 +3,7 @@
 		"code":"445303100",
 		"fullCode":"445303100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六都镇",
 		"parentCode":"445303"
 	},
@@ -11,7 +11,7 @@
 		"code":"445303101",
 		"fullCode":"445303101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高村镇",
 		"parentCode":"445303"
 	},
@@ -19,7 +19,7 @@
 		"code":"445303102",
 		"fullCode":"445303102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石镇",
 		"parentCode":"445303"
 	},
@@ -27,7 +27,7 @@
 		"code":"445303103",
 		"fullCode":"445303103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇安镇",
 		"parentCode":"445303"
 	},
@@ -35,7 +35,7 @@
 		"code":"445303104",
 		"fullCode":"445303104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富林镇",
 		"parentCode":"445303"
 	},
@@ -43,7 +43,7 @@
 		"code":"445303105",
 		"fullCode":"445303105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石城镇",
 		"parentCode":"445303"
 	},
@@ -51,7 +51,7 @@
 		"code":"445303106",
 		"fullCode":"445303106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都杨镇",
 		"parentCode":"445303"
 	}

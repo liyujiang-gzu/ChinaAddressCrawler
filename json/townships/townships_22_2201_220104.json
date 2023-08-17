@@ -3,7 +3,7 @@
 		"code":"220104001",
 		"fullCode":"220104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进街道",
 		"parentCode":"220104"
 	},
@@ -11,7 +11,7 @@
 		"code":"220104002",
 		"fullCode":"220104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂林街道",
 		"parentCode":"220104"
 	},
@@ -19,7 +19,7 @@
 		"code":"220104003",
 		"fullCode":"220104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖街道",
 		"parentCode":"220104"
 	},
@@ -27,7 +27,7 @@
 		"code":"220104004",
 		"fullCode":"220104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永昌街道",
 		"parentCode":"220104"
 	},
@@ -35,7 +35,7 @@
 		"code":"220104005",
 		"fullCode":"220104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"重庆街道",
 		"parentCode":"220104"
 	},
@@ -43,7 +43,7 @@
 		"code":"220104006",
 		"fullCode":"220104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清和街道",
 		"parentCode":"220104"
 	},
@@ -51,7 +51,7 @@
 		"code":"220104007",
 		"fullCode":"220104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街道",
 		"parentCode":"220104"
 	},
@@ -59,7 +59,7 @@
 		"code":"220104008",
 		"fullCode":"220104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖西街道",
 		"parentCode":"220104"
 	},
@@ -67,7 +67,7 @@
 		"code":"220104009",
 		"fullCode":"220104009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富锋街道",
 		"parentCode":"220104"
 	},
@@ -75,7 +75,7 @@
 		"code":"220104100",
 		"fullCode":"220104100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐山镇",
 		"parentCode":"220104"
 	},
@@ -83,7 +83,7 @@
 		"code":"220104101",
 		"fullCode":"220104101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永春镇",
 		"parentCode":"220104"
 	}

@@ -3,7 +3,7 @@
 		"code":"540422100",
 		"fullCode":"540422100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米林镇",
 		"parentCode":"540422"
 	},
@@ -11,7 +11,7 @@
 		"code":"540422101",
 		"fullCode":"540422101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"派镇",
 		"parentCode":"540422"
 	},
@@ -19,7 +19,7 @@
 		"code":"540422102",
 		"fullCode":"540422102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧龙镇",
 		"parentCode":"540422"
 	},
@@ -27,7 +27,7 @@
 		"code":"540422200",
 		"fullCode":"540422200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹娘乡",
 		"parentCode":"540422"
 	},
@@ -35,7 +35,7 @@
 		"code":"540422201",
 		"fullCode":"540422201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南伊珞巴民族乡",
 		"parentCode":"540422"
 	},
@@ -43,7 +43,7 @@
 		"code":"540422202",
 		"fullCode":"540422202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎西绕登乡",
 		"parentCode":"540422"
 	},
@@ -51,7 +51,7 @@
 		"code":"540422203",
 		"fullCode":"540422203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里龙乡",
 		"parentCode":"540422"
 	},
@@ -59,7 +59,7 @@
 		"code":"540422204",
 		"fullCode":"540422204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羌纳乡",
 		"parentCode":"540422"
 	}

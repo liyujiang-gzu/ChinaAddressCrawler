@@ -3,7 +3,7 @@
 		"code":"440513001",
 		"fullCode":"440513001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文光街道",
 		"parentCode":"440513"
 	},
@@ -11,7 +11,7 @@
 		"code":"440513002",
 		"fullCode":"440513002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棉北街道",
 		"parentCode":"440513"
 	},
@@ -19,7 +19,7 @@
 		"code":"440513003",
 		"fullCode":"440513003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"440513"
 	},
@@ -27,7 +27,7 @@
 		"code":"440513004",
 		"fullCode":"440513004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金浦街道",
 		"parentCode":"440513"
 	},
@@ -35,7 +35,7 @@
 		"code":"440513100",
 		"fullCode":"440513100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海门镇",
 		"parentCode":"440513"
 	},
@@ -43,7 +43,7 @@
 		"code":"440513101",
 		"fullCode":"440513101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河溪镇",
 		"parentCode":"440513"
 	},
@@ -51,7 +51,7 @@
 		"code":"440513102",
 		"fullCode":"440513102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平镇",
 		"parentCode":"440513"
 	},
@@ -59,7 +59,7 @@
 		"code":"440513103",
 		"fullCode":"440513103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西胪镇",
 		"parentCode":"440513"
 	},
@@ -67,7 +67,7 @@
 		"code":"440513104",
 		"fullCode":"440513104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关埠镇",
 		"parentCode":"440513"
 	},
@@ -75,7 +75,7 @@
 		"code":"440513106",
 		"fullCode":"440513106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谷饶镇",
 		"parentCode":"440513"
 	},
@@ -83,7 +83,7 @@
 		"code":"440513107",
 		"fullCode":"440513107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贵屿镇",
 		"parentCode":"440513"
 	},
@@ -91,7 +91,7 @@
 		"code":"440513108",
 		"fullCode":"440513108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜盂镇",
 		"parentCode":"440513"
 	},
@@ -99,7 +99,7 @@
 		"code":"440513110",
 		"fullCode":"440513110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金灶镇",
 		"parentCode":"440513"
 	}

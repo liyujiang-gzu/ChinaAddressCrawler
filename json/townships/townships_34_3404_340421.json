@@ -3,7 +3,7 @@
 		"code":"340421100",
 		"fullCode":"340421100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"340421"
 	},
@@ -11,7 +11,7 @@
 		"code":"340421102",
 		"fullCode":"340421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新集镇",
 		"parentCode":"340421"
 	},
@@ -19,7 +19,7 @@
 		"code":"340421103",
 		"fullCode":"340421103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱马店镇",
 		"parentCode":"340421"
 	},
@@ -27,7 +27,7 @@
 		"code":"340421104",
 		"fullCode":"340421104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳张集镇",
 		"parentCode":"340421"
 	},
@@ -35,7 +35,7 @@
 		"code":"340421105",
 		"fullCode":"340421105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顾桥镇",
 		"parentCode":"340421"
 	},
@@ -43,7 +43,7 @@
 		"code":"340421106",
 		"fullCode":"340421106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛集镇",
 		"parentCode":"340421"
 	},
@@ -51,7 +51,7 @@
 		"code":"340421107",
 		"fullCode":"340421107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏集镇",
 		"parentCode":"340421"
 	},
@@ -59,7 +59,7 @@
 		"code":"340421108",
 		"fullCode":"340421108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂集镇",
 		"parentCode":"340421"
 	},
@@ -67,7 +67,7 @@
 		"code":"340421109",
 		"fullCode":"340421109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"焦岗湖镇",
 		"parentCode":"340421"
 	},
@@ -75,7 +75,7 @@
 		"code":"340421110",
 		"fullCode":"340421110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰镇",
 		"parentCode":"340421"
 	},
@@ -83,7 +83,7 @@
 		"code":"340421111",
 		"fullCode":"340421111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨村镇",
 		"parentCode":"340421"
 	},
@@ -91,7 +91,7 @@
 		"code":"340421112",
 		"fullCode":"340421112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁集镇",
 		"parentCode":"340421"
 	},
@@ -99,7 +99,7 @@
 		"code":"340421113",
 		"fullCode":"340421113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘集镇",
 		"parentCode":"340421"
 	},
@@ -107,7 +107,7 @@
 		"code":"340421114",
 		"fullCode":"340421114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴镇",
 		"parentCode":"340421"
 	},
@@ -115,7 +115,7 @@
 		"code":"340421115",
 		"fullCode":"340421115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚塘镇",
 		"parentCode":"340421"
 	},
@@ -123,7 +123,7 @@
 		"code":"340421204",
 		"fullCode":"340421204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古店乡",
 		"parentCode":"340421"
 	},
@@ -131,7 +131,7 @@
 		"code":"340421205",
 		"fullCode":"340421205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱庙乡",
 		"parentCode":"340421"
 	},
@@ -139,7 +139,7 @@
 		"code":"340421209",
 		"fullCode":"340421209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关店乡",
 		"parentCode":"340421"
 	},
@@ -147,7 +147,7 @@
 		"code":"340421212",
 		"fullCode":"340421212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李冲回族乡",
 		"parentCode":"340421"
 	}

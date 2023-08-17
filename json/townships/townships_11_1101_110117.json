@@ -3,7 +3,7 @@
 		"code":"110117001",
 		"fullCode":"110117001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨河街道",
 		"parentCode":"110117"
 	},
@@ -11,7 +11,7 @@
 		"code":"110117002",
 		"fullCode":"110117002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴谷街道",
 		"parentCode":"110117"
 	},
@@ -19,7 +19,7 @@
 		"code":"110117003",
 		"fullCode":"110117003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔阳地区",
 		"parentCode":"110117"
 	},
@@ -27,7 +27,7 @@
 		"code":"110117004",
 		"fullCode":"110117004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峪口地区",
 		"parentCode":"110117"
 	},
@@ -35,7 +35,7 @@
 		"code":"110117005",
 		"fullCode":"110117005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坊地区",
 		"parentCode":"110117"
 	},
@@ -43,7 +43,7 @@
 		"code":"110117006",
 		"fullCode":"110117006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金海湖地区",
 		"parentCode":"110117"
 	},
@@ -51,7 +51,7 @@
 		"code":"110117101",
 		"fullCode":"110117101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东高村镇",
 		"parentCode":"110117"
 	},
@@ -59,7 +59,7 @@
 		"code":"110117102",
 		"fullCode":"110117102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山东庄镇",
 		"parentCode":"110117"
 	},
@@ -67,7 +67,7 @@
 		"code":"110117104",
 		"fullCode":"110117104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南独乐河镇",
 		"parentCode":"110117"
 	},
@@ -75,7 +75,7 @@
 		"code":"110117105",
 		"fullCode":"110117105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大华山镇",
 		"parentCode":"110117"
 	},
@@ -83,7 +83,7 @@
 		"code":"110117106",
 		"fullCode":"110117106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏各庄镇",
 		"parentCode":"110117"
 	},
@@ -91,7 +91,7 @@
 		"code":"110117108",
 		"fullCode":"110117108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马昌营镇",
 		"parentCode":"110117"
 	},
@@ -99,7 +99,7 @@
 		"code":"110117110",
 		"fullCode":"110117110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王辛庄镇",
 		"parentCode":"110117"
 	},
@@ -107,7 +107,7 @@
 		"code":"110117111",
 		"fullCode":"110117111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴庄镇",
 		"parentCode":"110117"
 	},
@@ -115,7 +115,7 @@
 		"code":"110117112",
 		"fullCode":"110117112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘家店镇",
 		"parentCode":"110117"
 	},
@@ -123,7 +123,7 @@
 		"code":"110117114",
 		"fullCode":"110117114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇罗营镇",
 		"parentCode":"110117"
 	},
@@ -131,7 +131,7 @@
 		"code":"110117213",
 		"fullCode":"110117213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄松峪乡",
 		"parentCode":"110117"
 	},
@@ -139,7 +139,7 @@
 		"code":"110117214",
 		"fullCode":"110117214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"熊儿寨乡",
 		"parentCode":"110117"
 	}

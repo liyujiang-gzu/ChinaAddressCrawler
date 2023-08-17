@@ -3,7 +3,7 @@
 		"code":"532504001",
 		"fullCode":"532504001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弥阳街道",
 		"parentCode":"532504"
 	},
@@ -11,7 +11,7 @@
 		"code":"532504002",
 		"fullCode":"532504002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平街道",
 		"parentCode":"532504"
 	},
@@ -19,7 +19,7 @@
 		"code":"532504003",
 		"fullCode":"532504003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福城街道",
 		"parentCode":"532504"
 	},
@@ -27,7 +27,7 @@
 		"code":"532504102",
 		"fullCode":"532504102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新哨镇",
 		"parentCode":"532504"
 	},
@@ -35,7 +35,7 @@
 		"code":"532504103",
 		"fullCode":"532504103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虹溪镇",
 		"parentCode":"532504"
 	},
@@ -43,7 +43,7 @@
 		"code":"532504104",
 		"fullCode":"532504104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹园镇",
 		"parentCode":"532504"
 	},
@@ -51,7 +51,7 @@
 		"code":"532504105",
 		"fullCode":"532504105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朋普镇",
 		"parentCode":"532504"
 	},
@@ -59,7 +59,7 @@
 		"code":"532504106",
 		"fullCode":"532504106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巡检司镇",
 		"parentCode":"532504"
 	},
@@ -67,7 +67,7 @@
 		"code":"532504107",
 		"fullCode":"532504107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西一镇",
 		"parentCode":"532504"
 	},
@@ -75,7 +75,7 @@
 		"code":"532504108",
 		"fullCode":"532504108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西二镇",
 		"parentCode":"532504"
 	},
@@ -83,7 +83,7 @@
 		"code":"532504109",
 		"fullCode":"532504109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西三镇",
 		"parentCode":"532504"
 	},
@@ -91,7 +91,7 @@
 		"code":"532504110",
 		"fullCode":"532504110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山镇",
 		"parentCode":"532504"
 	},
@@ -99,7 +99,7 @@
 		"code":"532504202",
 		"fullCode":"532504202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五山乡",
 		"parentCode":"532504"
 	},
@@ -107,7 +107,7 @@
 		"code":"532504203",
 		"fullCode":"532504203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江边乡",
 		"parentCode":"532504"
 	}

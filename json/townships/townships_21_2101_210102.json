@@ -3,7 +3,7 @@
 		"code":"210102001",
 		"fullCode":"210102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浑河湾街道",
 		"parentCode":"210102"
 	},
@@ -11,7 +11,7 @@
 		"code":"210102002",
 		"fullCode":"210102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街道",
 		"parentCode":"210102"
 	},
@@ -19,7 +19,7 @@
 		"code":"210102016",
 		"fullCode":"210102016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马路湾街道",
 		"parentCode":"210102"
 	},
@@ -27,7 +27,7 @@
 		"code":"210102019",
 		"fullCode":"210102019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖街道",
 		"parentCode":"210102"
 	},
@@ -35,7 +35,7 @@
 		"code":"210102021",
 		"fullCode":"210102021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长白街道",
 		"parentCode":"210102"
 	},
@@ -43,7 +43,7 @@
 		"code":"210102022",
 		"fullCode":"210102022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太原街街道",
 		"parentCode":"210102"
 	},
@@ -51,7 +51,7 @@
 		"code":"210102023",
 		"fullCode":"210102023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北市场街道",
 		"parentCode":"210102"
 	},
@@ -59,7 +59,7 @@
 		"code":"210102025",
 		"fullCode":"210102025000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南市场街道",
 		"parentCode":"210102"
 	},
@@ -67,7 +67,7 @@
 		"code":"210102027",
 		"fullCode":"210102027000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈水湾街道",
 		"parentCode":"210102"
 	},
@@ -75,7 +75,7 @@
 		"code":"210102028",
 		"fullCode":"210102028000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浑河站西街道",
 		"parentCode":"210102"
 	}

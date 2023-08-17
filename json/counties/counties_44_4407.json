@@ -3,7 +3,7 @@
 		"code":"440703",
 		"fullCode":"440703000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蓬江区",
 		"parentCode":"4407"
 	},
@@ -11,7 +11,7 @@
 		"code":"440704",
 		"fullCode":"440704000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江海区",
 		"parentCode":"4407"
 	},
@@ -19,7 +19,7 @@
 		"code":"440705",
 		"fullCode":"440705000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新会区",
 		"parentCode":"4407"
 	},
@@ -27,7 +27,7 @@
 		"code":"440781",
 		"fullCode":"440781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"台山市",
 		"parentCode":"4407"
 	},
@@ -35,7 +35,7 @@
 		"code":"440783",
 		"fullCode":"440783000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"开平市",
 		"parentCode":"4407"
 	},
@@ -43,7 +43,7 @@
 		"code":"440784",
 		"fullCode":"440784000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鹤山市",
 		"parentCode":"4407"
 	},
@@ -51,7 +51,7 @@
 		"code":"440785",
 		"fullCode":"440785000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"恩平市",
 		"parentCode":"4407"
 	}

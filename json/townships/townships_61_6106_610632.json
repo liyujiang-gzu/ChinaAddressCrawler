@@ -3,7 +3,7 @@
 		"code":"610632001",
 		"fullCode":"610632001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥山街道",
 		"parentCode":"610632"
 	},
@@ -11,7 +11,7 @@
 		"code":"610632101",
 		"fullCode":"610632101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店头镇",
 		"parentCode":"610632"
 	},
@@ -19,7 +19,7 @@
 		"code":"610632102",
 		"fullCode":"610632102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆坊镇",
 		"parentCode":"610632"
 	},
@@ -27,7 +27,7 @@
 		"code":"610632103",
 		"fullCode":"610632103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田庄镇",
 		"parentCode":"610632"
 	},
@@ -35,7 +35,7 @@
 		"code":"610632104",
 		"fullCode":"610632104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿党镇",
 		"parentCode":"610632"
 	},
@@ -43,7 +43,7 @@
 		"code":"610632105",
 		"fullCode":"610632105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙镇",
 		"parentCode":"610632"
 	}

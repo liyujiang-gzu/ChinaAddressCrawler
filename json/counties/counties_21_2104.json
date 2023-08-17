@@ -3,7 +3,7 @@
 		"code":"210402",
 		"fullCode":"210402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新抚区",
 		"parentCode":"2104"
 	},
@@ -11,7 +11,7 @@
 		"code":"210403",
 		"fullCode":"210403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东洲区",
 		"parentCode":"2104"
 	},
@@ -19,7 +19,7 @@
 		"code":"210404",
 		"fullCode":"210404000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"望花区",
 		"parentCode":"2104"
 	},
@@ -27,7 +27,7 @@
 		"code":"210411",
 		"fullCode":"210411000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"顺城区",
 		"parentCode":"2104"
 	},
@@ -35,7 +35,7 @@
 		"code":"210421",
 		"fullCode":"210421000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"抚顺县",
 		"parentCode":"2104"
 	},
@@ -43,7 +43,7 @@
 		"code":"210422",
 		"fullCode":"210422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新宾满族自治县",
 		"parentCode":"2104"
 	},
@@ -51,7 +51,7 @@
 		"code":"210423",
 		"fullCode":"210423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"清原满族自治县",
 		"parentCode":"2104"
 	}

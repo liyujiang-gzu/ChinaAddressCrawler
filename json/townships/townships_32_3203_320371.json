@@ -3,7 +3,7 @@
 		"code":"320371001",
 		"fullCode":"320371001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山桥街道",
 		"parentCode":"320371"
 	},
@@ -11,7 +11,7 @@
 		"code":"320371002",
 		"fullCode":"320371002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东环街道",
 		"parentCode":"320371"
 	},
@@ -19,7 +19,7 @@
 		"code":"320371003",
 		"fullCode":"320371003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大黄山街道",
 		"parentCode":"320371"
 	},
@@ -27,7 +27,7 @@
 		"code":"320371004",
 		"fullCode":"320371004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庙街道",
 		"parentCode":"320371"
 	},
@@ -35,7 +35,7 @@
 		"code":"320371005",
 		"fullCode":"320371005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金龙湖街道",
 		"parentCode":"320371"
 	},
@@ -43,7 +43,7 @@
 		"code":"320371101",
 		"fullCode":"320371101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐庄镇",
 		"parentCode":"320371"
 	}

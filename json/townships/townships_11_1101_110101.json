@@ -3,7 +3,7 @@
 		"code":"110101001",
 		"fullCode":"110101001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东华门街道",
 		"parentCode":"110101"
 	},
@@ -11,7 +11,7 @@
 		"code":"110101002",
 		"fullCode":"110101002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景山街道",
 		"parentCode":"110101"
 	},
@@ -19,7 +19,7 @@
 		"code":"110101003",
 		"fullCode":"110101003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"交道口街道",
 		"parentCode":"110101"
 	},
@@ -27,7 +27,7 @@
 		"code":"110101004",
 		"fullCode":"110101004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安定门街道",
 		"parentCode":"110101"
 	},
@@ -35,7 +35,7 @@
 		"code":"110101005",
 		"fullCode":"110101005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北新桥街道",
 		"parentCode":"110101"
 	},
@@ -43,7 +43,7 @@
 		"code":"110101006",
 		"fullCode":"110101006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东四街道",
 		"parentCode":"110101"
 	},
@@ -51,7 +51,7 @@
 		"code":"110101007",
 		"fullCode":"110101007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳门街道",
 		"parentCode":"110101"
 	},
@@ -59,7 +59,7 @@
 		"code":"110101008",
 		"fullCode":"110101008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建国门街道",
 		"parentCode":"110101"
 	},
@@ -67,7 +67,7 @@
 		"code":"110101009",
 		"fullCode":"110101009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东直门街道",
 		"parentCode":"110101"
 	},
@@ -75,7 +75,7 @@
 		"code":"110101010",
 		"fullCode":"110101010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平里街道",
 		"parentCode":"110101"
 	},
@@ -83,7 +83,7 @@
 		"code":"110101011",
 		"fullCode":"110101011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前门街道",
 		"parentCode":"110101"
 	},
@@ -91,7 +91,7 @@
 		"code":"110101012",
 		"fullCode":"110101012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇文门外街道",
 		"parentCode":"110101"
 	},
@@ -99,7 +99,7 @@
 		"code":"110101013",
 		"fullCode":"110101013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东花市街道",
 		"parentCode":"110101"
 	},
@@ -107,7 +107,7 @@
 		"code":"110101014",
 		"fullCode":"110101014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭街道",
 		"parentCode":"110101"
 	},
@@ -115,7 +115,7 @@
 		"code":"110101015",
 		"fullCode":"110101015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"体育馆路街道",
 		"parentCode":"110101"
 	},
@@ -123,7 +123,7 @@
 		"code":"110101016",
 		"fullCode":"110101016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天坛街道",
 		"parentCode":"110101"
 	},
@@ -131,7 +131,7 @@
 		"code":"110101017",
 		"fullCode":"110101017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永定门外街道",
 		"parentCode":"110101"
 	}

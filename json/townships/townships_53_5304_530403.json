@@ -3,7 +3,7 @@
 		"code":"530403001",
 		"fullCode":"530403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星云街道",
 		"parentCode":"530403"
 	},
@@ -11,7 +11,7 @@
 		"code":"530403002",
 		"fullCode":"530403002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁海街道",
 		"parentCode":"530403"
 	},
@@ -19,7 +19,7 @@
 		"code":"530403101",
 		"fullCode":"530403101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江城镇",
 		"parentCode":"530403"
 	},
@@ -27,7 +27,7 @@
 		"code":"530403102",
 		"fullCode":"530403102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前卫镇",
 		"parentCode":"530403"
 	},
@@ -35,7 +35,7 @@
 		"code":"530403103",
 		"fullCode":"530403103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九溪镇",
 		"parentCode":"530403"
 	},
@@ -43,7 +43,7 @@
 		"code":"530403104",
 		"fullCode":"530403104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"路居镇",
 		"parentCode":"530403"
 	},
@@ -51,7 +51,7 @@
 		"code":"530403201",
 		"fullCode":"530403201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安化彝族乡",
 		"parentCode":"530403"
 	},
@@ -59,7 +59,7 @@
 		"code":"530403202",
 		"fullCode":"530403202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雄关乡",
 		"parentCode":"530403"
 	}

@@ -3,7 +3,7 @@
 		"code":"361127100",
 		"fullCode":"361127100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉亭镇",
 		"parentCode":"361127"
 	},
@@ -11,7 +11,7 @@
 		"code":"361127101",
 		"fullCode":"361127101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑞洪镇",
 		"parentCode":"361127"
 	},
@@ -19,7 +19,7 @@
 		"code":"361127102",
 		"fullCode":"361127102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄金埠镇",
 		"parentCode":"361127"
 	},
@@ -27,7 +27,7 @@
 		"code":"361127104",
 		"fullCode":"361127104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古埠镇",
 		"parentCode":"361127"
 	},
@@ -35,7 +35,7 @@
 		"code":"361127105",
 		"fullCode":"361127105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌泥镇",
 		"parentCode":"361127"
 	},
@@ -43,7 +43,7 @@
 		"code":"361127106",
 		"fullCode":"361127106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石口镇",
 		"parentCode":"361127"
 	},
@@ -51,7 +51,7 @@
 		"code":"361127107",
 		"fullCode":"361127107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨埠镇",
 		"parentCode":"361127"
 	},
@@ -59,7 +59,7 @@
 		"code":"361127108",
 		"fullCode":"361127108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙镇",
 		"parentCode":"361127"
 	},
@@ -67,7 +67,7 @@
 		"code":"361127109",
 		"fullCode":"361127109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"社赓镇",
 		"parentCode":"361127"
 	},
@@ -75,7 +75,7 @@
 		"code":"361127200",
 		"fullCode":"361127200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康山乡",
 		"parentCode":"361127"
 	},
@@ -83,7 +83,7 @@
 		"code":"361127202",
 		"fullCode":"361127202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东塘乡",
 		"parentCode":"361127"
 	},
@@ -91,7 +91,7 @@
 		"code":"361127204",
 		"fullCode":"361127204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大塘乡",
 		"parentCode":"361127"
 	},
@@ -99,7 +99,7 @@
 		"code":"361127206",
 		"fullCode":"361127206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹭鸶港乡",
 		"parentCode":"361127"
 	},
@@ -107,7 +107,7 @@
 		"code":"361127207",
 		"fullCode":"361127207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三塘乡",
 		"parentCode":"361127"
 	},
@@ -115,7 +115,7 @@
 		"code":"361127209",
 		"fullCode":"361127209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪家嘴乡",
 		"parentCode":"361127"
 	},
@@ -123,7 +123,7 @@
 		"code":"361127210",
 		"fullCode":"361127210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马桥乡",
 		"parentCode":"361127"
 	},
@@ -131,7 +131,7 @@
 		"code":"361127211",
 		"fullCode":"361127211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江埠乡",
 		"parentCode":"361127"
 	},
@@ -139,7 +139,7 @@
 		"code":"361127213",
 		"fullCode":"361127213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫港乡",
 		"parentCode":"361127"
 	},
@@ -147,7 +147,7 @@
 		"code":"361127214",
 		"fullCode":"361127214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大溪乡",
 		"parentCode":"361127"
 	},
@@ -155,7 +155,7 @@
 		"code":"361127217",
 		"fullCode":"361127217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅港乡",
 		"parentCode":"361127"
 	},
@@ -163,7 +163,7 @@
 		"code":"361127400",
 		"fullCode":"361127400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余干县城市社区",
 		"parentCode":"361127"
 	},
@@ -171,7 +171,7 @@
 		"code":"361127500",
 		"fullCode":"361127500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔池湖水产场",
 		"parentCode":"361127"
 	},
@@ -179,7 +179,7 @@
 		"code":"361127501",
 		"fullCode":"361127501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县良种场",
 		"parentCode":"361127"
 	},
@@ -187,7 +187,7 @@
 		"code":"361127502",
 		"fullCode":"361127502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李梅林场",
 		"parentCode":"361127"
 	},
@@ -195,7 +195,7 @@
 		"code":"361127503",
 		"fullCode":"361127503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康山垦总场",
 		"parentCode":"361127"
 	},
@@ -203,7 +203,7 @@
 		"code":"361127504",
 		"fullCode":"361127504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾斛岭垦殖场",
 		"parentCode":"361127"
 	},
@@ -211,7 +211,7 @@
 		"code":"361127505",
 		"fullCode":"361127505000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峡山林场",
 		"parentCode":"361127"
 	},
@@ -219,7 +219,7 @@
 		"code":"361127506",
 		"fullCode":"361127506000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"信丰垦殖场",
 		"parentCode":"361127"
 	}

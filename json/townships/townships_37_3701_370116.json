@@ -3,7 +3,7 @@
 		"code":"370116001",
 		"fullCode":"370116001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤城街道",
 		"parentCode":"370116"
 	},
@@ -11,7 +11,7 @@
 		"code":"370116002",
 		"fullCode":"370116002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家洼街道",
 		"parentCode":"370116"
 	},
@@ -19,7 +19,7 @@
 		"code":"370116003",
 		"fullCode":"370116003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高庄街道",
 		"parentCode":"370116"
 	},
@@ -27,7 +27,7 @@
 		"code":"370116004",
 		"fullCode":"370116004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹏泉街道",
 		"parentCode":"370116"
 	},
@@ -35,7 +35,7 @@
 		"code":"370116005",
 		"fullCode":"370116005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"口镇街道",
 		"parentCode":"370116"
 	},
@@ -43,7 +43,7 @@
 		"code":"370116006",
 		"fullCode":"370116006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊里街道",
 		"parentCode":"370116"
 	},
@@ -51,7 +51,7 @@
 		"code":"370116007",
 		"fullCode":"370116007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方下街道",
 		"parentCode":"370116"
 	},
@@ -59,7 +59,7 @@
 		"code":"370116008",
 		"fullCode":"370116008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪野街道",
 		"parentCode":"370116"
 	},
@@ -67,7 +67,7 @@
 		"code":"370116103",
 		"fullCode":"370116103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛泉镇",
 		"parentCode":"370116"
 	},
@@ -75,7 +75,7 @@
 		"code":"370116104",
 		"fullCode":"370116104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苗山镇",
 		"parentCode":"370116"
 	},
@@ -83,7 +83,7 @@
 		"code":"370116106",
 		"fullCode":"370116106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大王庄镇",
 		"parentCode":"370116"
 	},
@@ -91,7 +91,7 @@
 		"code":"370116107",
 		"fullCode":"370116107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨里镇",
 		"parentCode":"370116"
 	},
@@ -99,7 +99,7 @@
 		"code":"370116108",
 		"fullCode":"370116108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨庄镇",
 		"parentCode":"370116"
 	},
@@ -107,7 +107,7 @@
 		"code":"370116109",
 		"fullCode":"370116109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶业口镇",
 		"parentCode":"370116"
 	},
@@ -115,7 +115,7 @@
 		"code":"370116110",
 		"fullCode":"370116110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和庄镇",
 		"parentCode":"370116"
 	}

@@ -3,7 +3,7 @@
 		"code":"411624001",
 		"fullCode":"411624001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"411624"
 	},
@@ -11,7 +11,7 @@
 		"code":"411624002",
 		"fullCode":"411624002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"411624"
 	},
@@ -19,7 +19,7 @@
 		"code":"411624100",
 		"fullCode":"411624100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槐店回族镇",
 		"parentCode":"411624"
 	},
@@ -27,7 +27,7 @@
 		"code":"411624101",
 		"fullCode":"411624101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘庄店镇",
 		"parentCode":"411624"
 	},
@@ -35,7 +35,7 @@
 		"code":"411624102",
 		"fullCode":"411624102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留福镇",
 		"parentCode":"411624"
 	},
@@ -43,7 +43,7 @@
 		"code":"411624103",
 		"fullCode":"411624103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老城镇",
 		"parentCode":"411624"
 	},
@@ -51,7 +51,7 @@
 		"code":"411624104",
 		"fullCode":"411624104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵德营镇",
 		"parentCode":"411624"
 	},
@@ -59,7 +59,7 @@
 		"code":"411624105",
 		"fullCode":"411624105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"付井镇",
 		"parentCode":"411624"
 	},
@@ -67,7 +67,7 @@
 		"code":"411624106",
 		"fullCode":"411624106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纸店镇",
 		"parentCode":"411624"
 	},
@@ -75,7 +75,7 @@
 		"code":"411624107",
 		"fullCode":"411624107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安集镇",
 		"parentCode":"411624"
 	},
@@ -83,7 +83,7 @@
 		"code":"411624108",
 		"fullCode":"411624108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白集镇",
 		"parentCode":"411624"
 	},
@@ -91,7 +91,7 @@
 		"code":"411624109",
 		"fullCode":"411624109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘湾镇",
 		"parentCode":"411624"
 	},
@@ -99,7 +99,7 @@
 		"code":"411624110",
 		"fullCode":"411624110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲池镇",
 		"parentCode":"411624"
 	},
@@ -107,7 +107,7 @@
 		"code":"411624111",
 		"fullCode":"411624111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪山镇",
 		"parentCode":"411624"
 	},
@@ -115,7 +115,7 @@
 		"code":"411624112",
 		"fullCode":"411624112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北杨集镇",
 		"parentCode":"411624"
 	},
@@ -123,7 +123,7 @@
 		"code":"411624113",
 		"fullCode":"411624113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邢庄镇",
 		"parentCode":"411624"
 	},
@@ -131,7 +131,7 @@
 		"code":"411624114",
 		"fullCode":"411624114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周营镇",
 		"parentCode":"411624"
 	},
@@ -139,7 +139,7 @@
 		"code":"411624115",
 		"fullCode":"411624115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯营镇",
 		"parentCode":"411624"
 	},
@@ -147,7 +147,7 @@
 		"code":"411624201",
 		"fullCode":"411624201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石槽集乡",
 		"parentCode":"411624"
 	},
@@ -155,7 +155,7 @@
 		"code":"411624202",
 		"fullCode":"411624202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范营乡",
 		"parentCode":"411624"
 	},
@@ -163,7 +163,7 @@
 		"code":"411624203",
 		"fullCode":"411624203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李老庄乡",
 		"parentCode":"411624"
 	},
@@ -171,7 +171,7 @@
 		"code":"411624209",
 		"fullCode":"411624209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卞路口乡",
 		"parentCode":"411624"
 	}

@@ -3,7 +3,7 @@
 		"code":"511529100",
 		"fullCode":"511529100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦屏镇",
 		"parentCode":"511529"
 	},
@@ -11,7 +11,7 @@
 		"code":"511529101",
 		"fullCode":"511529101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新市镇",
 		"parentCode":"511529"
 	},
@@ -19,7 +19,7 @@
 		"code":"511529102",
 		"fullCode":"511529102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中都镇",
 		"parentCode":"511529"
 	},
@@ -27,7 +27,7 @@
 		"code":"511529103",
 		"fullCode":"511529103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙华镇",
 		"parentCode":"511529"
 	},
@@ -35,7 +35,7 @@
 		"code":"511529104",
 		"fullCode":"511529104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大乘镇",
 		"parentCode":"511529"
 	},
@@ -43,7 +43,7 @@
 		"code":"511529107",
 		"fullCode":"511529107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新安镇",
 		"parentCode":"511529"
 	},
@@ -51,7 +51,7 @@
 		"code":"511529109",
 		"fullCode":"511529109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"书楼镇",
 		"parentCode":"511529"
 	},
@@ -59,7 +59,7 @@
 		"code":"511529110",
 		"fullCode":"511529110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屏山镇",
 		"parentCode":"511529"
 	},
@@ -67,7 +67,7 @@
 		"code":"511529208",
 		"fullCode":"511529208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏溪乡",
 		"parentCode":"511529"
 	},
@@ -75,7 +75,7 @@
 		"code":"511529210",
 		"fullCode":"511529210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屏边彝族乡",
 		"parentCode":"511529"
 	},
@@ -83,7 +83,7 @@
 		"code":"511529211",
 		"fullCode":"511529211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清平彝族乡",
 		"parentCode":"511529"
 	}

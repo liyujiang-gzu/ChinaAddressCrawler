@@ -3,7 +3,7 @@
 		"code":"652701",
 		"fullCode":"652701000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"博乐市",
 		"parentCode":"6527"
 	},
@@ -11,7 +11,7 @@
 		"code":"652702",
 		"fullCode":"652702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿拉山口市",
 		"parentCode":"6527"
 	},
@@ -19,7 +19,7 @@
 		"code":"652722",
 		"fullCode":"652722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"精河县",
 		"parentCode":"6527"
 	},
@@ -27,7 +27,7 @@
 		"code":"652723",
 		"fullCode":"652723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"温泉县",
 		"parentCode":"6527"
 	}

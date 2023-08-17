@@ -3,7 +3,7 @@
 		"code":"520602002",
 		"fullCode":"520602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"环北街道",
 		"parentCode":"520602"
 	},
@@ -11,7 +11,7 @@
 		"code":"520602003",
 		"fullCode":"520602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河西街道",
 		"parentCode":"520602"
 	},
@@ -19,7 +19,7 @@
 		"code":"520602005",
 		"fullCode":"520602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灯塔街道",
 		"parentCode":"520602"
 	},
@@ -27,7 +27,7 @@
 		"code":"520602006",
 		"fullCode":"520602006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川硐街道",
 		"parentCode":"520602"
 	},
@@ -35,7 +35,7 @@
 		"code":"520602007",
 		"fullCode":"520602007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦江街道",
 		"parentCode":"520602"
 	},
@@ -43,7 +43,7 @@
 		"code":"520602008",
 		"fullCode":"520602008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜兴街道",
 		"parentCode":"520602"
 	},
@@ -51,7 +51,7 @@
 		"code":"520602009",
 		"fullCode":"520602009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正光街道",
 		"parentCode":"520602"
 	},
@@ -59,7 +59,7 @@
 		"code":"520602101",
 		"fullCode":"520602101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坝黄镇",
 		"parentCode":"520602"
 	},
@@ -67,7 +67,7 @@
 		"code":"520602102",
 		"fullCode":"520602102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云场坪镇",
 		"parentCode":"520602"
 	},
@@ -75,7 +75,7 @@
 		"code":"520602103",
 		"fullCode":"520602103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漾头镇",
 		"parentCode":"520602"
 	},
@@ -83,7 +83,7 @@
 		"code":"520602200",
 		"fullCode":"520602200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐木坪侗族乡",
 		"parentCode":"520602"
 	},
@@ -91,7 +91,7 @@
 		"code":"520602201",
 		"fullCode":"520602201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滑石侗族苗族土家族乡",
 		"parentCode":"520602"
 	},
@@ -99,7 +99,7 @@
 		"code":"520602202",
 		"fullCode":"520602202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平土家族侗族乡",
 		"parentCode":"520602"
 	},
@@ -107,7 +107,7 @@
 		"code":"520602203",
 		"fullCode":"520602203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦屋侗族乡",
 		"parentCode":"520602"
 	},
@@ -115,7 +115,7 @@
 		"code":"520602204",
 		"fullCode":"520602204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六龙山侗族土家族乡",
 		"parentCode":"520602"
 	}

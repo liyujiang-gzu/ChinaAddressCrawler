@@ -3,7 +3,7 @@
 		"code":"331121001",
 		"fullCode":"331121001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤城街道",
 		"parentCode":"331121"
 	},
@@ -11,7 +11,7 @@
 		"code":"331121002",
 		"fullCode":"331121002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓯南街道",
 		"parentCode":"331121"
 	},
@@ -19,7 +19,7 @@
 		"code":"331121003",
 		"fullCode":"331121003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"油竹街道",
 		"parentCode":"331121"
 	},
@@ -27,7 +27,7 @@
 		"code":"331121004",
 		"fullCode":"331121004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三溪口街道",
 		"parentCode":"331121"
 	},
@@ -35,7 +35,7 @@
 		"code":"331121101",
 		"fullCode":"331121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温溪镇",
 		"parentCode":"331121"
 	},
@@ -43,7 +43,7 @@
 		"code":"331121102",
 		"fullCode":"331121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东源镇",
 		"parentCode":"331121"
 	},
@@ -51,7 +51,7 @@
 		"code":"331121103",
 		"fullCode":"331121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高湖镇",
 		"parentCode":"331121"
 	},
@@ -59,7 +59,7 @@
 		"code":"331121104",
 		"fullCode":"331121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"船寮镇",
 		"parentCode":"331121"
 	},
@@ -67,7 +67,7 @@
 		"code":"331121105",
 		"fullCode":"331121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海口镇",
 		"parentCode":"331121"
 	},
@@ -75,7 +75,7 @@
 		"code":"331121106",
 		"fullCode":"331121106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腊口镇",
 		"parentCode":"331121"
 	},
@@ -83,7 +83,7 @@
 		"code":"331121107",
 		"fullCode":"331121107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北山镇",
 		"parentCode":"331121"
 	},
@@ -91,7 +91,7 @@
 		"code":"331121108",
 		"fullCode":"331121108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山口镇",
 		"parentCode":"331121"
 	},
@@ -99,7 +99,7 @@
 		"code":"331121109",
 		"fullCode":"331121109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁庄镇",
 		"parentCode":"331121"
 	},
@@ -107,7 +107,7 @@
 		"code":"331121110",
 		"fullCode":"331121110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祯埠镇",
 		"parentCode":"331121"
 	},
@@ -115,7 +115,7 @@
 		"code":"331121200",
 		"fullCode":"331121200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万山乡",
 		"parentCode":"331121"
 	},
@@ -123,7 +123,7 @@
 		"code":"331121201",
 		"fullCode":"331121201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄垟乡",
 		"parentCode":"331121"
 	},
@@ -131,7 +131,7 @@
 		"code":"331121202",
 		"fullCode":"331121202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"季宅乡",
 		"parentCode":"331121"
 	},
@@ -139,7 +139,7 @@
 		"code":"331121203",
 		"fullCode":"331121203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高市乡",
 		"parentCode":"331121"
 	},
@@ -147,7 +147,7 @@
 		"code":"331121204",
 		"fullCode":"331121204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海溪乡",
 		"parentCode":"331121"
 	},
@@ -155,7 +155,7 @@
 		"code":"331121205",
 		"fullCode":"331121205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章村乡",
 		"parentCode":"331121"
 	},
@@ -163,7 +163,7 @@
 		"code":"331121206",
 		"fullCode":"331121206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祯旺乡",
 		"parentCode":"331121"
 	},
@@ -171,7 +171,7 @@
 		"code":"331121208",
 		"fullCode":"331121208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舒桥乡",
 		"parentCode":"331121"
 	},
@@ -179,7 +179,7 @@
 		"code":"331121209",
 		"fullCode":"331121209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨浦乡",
 		"parentCode":"331121"
 	},
@@ -187,7 +187,7 @@
 		"code":"331121211",
 		"fullCode":"331121211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万阜乡",
 		"parentCode":"331121"
 	},
@@ -195,7 +195,7 @@
 		"code":"331121212",
 		"fullCode":"331121212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方山乡",
 		"parentCode":"331121"
 	},
@@ -203,7 +203,7 @@
 		"code":"331121213",
 		"fullCode":"331121213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤垟乡",
 		"parentCode":"331121"
 	},
@@ -211,7 +211,7 @@
 		"code":"331121214",
 		"fullCode":"331121214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贵岙乡",
 		"parentCode":"331121"
 	},
@@ -219,7 +219,7 @@
 		"code":"331121215",
 		"fullCode":"331121215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小舟山乡",
 		"parentCode":"331121"
 	},
@@ -227,7 +227,7 @@
 		"code":"331121216",
 		"fullCode":"331121216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴坑乡",
 		"parentCode":"331121"
 	},
@@ -235,7 +235,7 @@
 		"code":"331121217",
 		"fullCode":"331121217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁宫乡",
 		"parentCode":"331121"
 	},
@@ -243,7 +243,7 @@
 		"code":"331121218",
 		"fullCode":"331121218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章旦乡",
 		"parentCode":"331121"
 	},
@@ -251,7 +251,7 @@
 		"code":"331121219",
 		"fullCode":"331121219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阜山乡",
 		"parentCode":"331121"
 	}

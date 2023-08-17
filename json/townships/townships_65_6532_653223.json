@@ -3,7 +3,7 @@
 		"code":"653223001",
 		"fullCode":"653223001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"街道",
 		"parentCode":"653223"
 	},
@@ -11,7 +11,7 @@
 		"code":"653223100",
 		"fullCode":"653223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固玛镇",
 		"parentCode":"653223"
 	},
@@ -19,7 +19,7 @@
 		"code":"653223101",
 		"fullCode":"653223101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜瓦镇",
 		"parentCode":"653223"
 	},
@@ -27,7 +27,7 @@
 		"code":"653223102",
 		"fullCode":"653223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛图拉镇",
 		"parentCode":"653223"
 	},
@@ -35,7 +35,7 @@
 		"code":"653223103",
 		"fullCode":"653223103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木吉镇",
 		"parentCode":"653223"
 	},
@@ -43,7 +43,7 @@
 		"code":"653223104",
 		"fullCode":"653223104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阔什塔格镇",
 		"parentCode":"653223"
 	},
@@ -51,7 +51,7 @@
 		"code":"653223105",
 		"fullCode":"653223105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑株镇",
 		"parentCode":"653223"
 	},
@@ -59,7 +59,7 @@
 		"code":"653223201",
 		"fullCode":"653223201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克里阳乡",
 		"parentCode":"653223"
 	},
@@ -67,7 +67,7 @@
 		"code":"653223202",
 		"fullCode":"653223202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科克铁热克乡",
 		"parentCode":"653223"
 	},
@@ -75,7 +75,7 @@
 		"code":"653223205",
 		"fullCode":"653223205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔达乡",
 		"parentCode":"653223"
 	},
@@ -83,7 +83,7 @@
 		"code":"653223206",
 		"fullCode":"653223206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木奎拉乡",
 		"parentCode":"653223"
 	},
@@ -91,7 +91,7 @@
 		"code":"653223207",
 		"fullCode":"653223207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"藏桂乡",
 		"parentCode":"653223"
 	},
@@ -99,7 +99,7 @@
 		"code":"653223208",
 		"fullCode":"653223208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皮亚勒玛乡",
 		"parentCode":"653223"
 	},
@@ -107,7 +107,7 @@
 		"code":"653223209",
 		"fullCode":"653223209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皮西那乡",
 		"parentCode":"653223"
 	},
@@ -115,7 +115,7 @@
 		"code":"653223210",
 		"fullCode":"653223210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴什兰干乡",
 		"parentCode":"653223"
 	},
@@ -123,7 +123,7 @@
 		"code":"653223211",
 		"fullCode":"653223211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垴阿巴提塔吉克民族乡",
 		"parentCode":"653223"
 	},
@@ -131,7 +131,7 @@
 		"code":"653223212",
 		"fullCode":"653223212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康克尔柯尔克孜民族乡",
 		"parentCode":"653223"
 	},
@@ -139,7 +139,7 @@
 		"code":"653223401",
 		"fullCode":"653223401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皮山三峡工业园区",
 		"parentCode":"653223"
 	}

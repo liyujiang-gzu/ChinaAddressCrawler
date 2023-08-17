@@ -3,7 +3,7 @@
 		"code":"230223100",
 		"fullCode":"230223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依安镇",
 		"parentCode":"230223"
 	},
@@ -11,7 +11,7 @@
 		"code":"230223101",
 		"fullCode":"230223101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依龙镇",
 		"parentCode":"230223"
 	},
@@ -19,7 +19,7 @@
 		"code":"230223102",
 		"fullCode":"230223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双阳镇",
 		"parentCode":"230223"
 	},
@@ -27,7 +27,7 @@
 		"code":"230223103",
 		"fullCode":"230223103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三兴镇",
 		"parentCode":"230223"
 	},
@@ -35,7 +35,7 @@
 		"code":"230223104",
 		"fullCode":"230223104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中心镇",
 		"parentCode":"230223"
 	},
@@ -43,7 +43,7 @@
 		"code":"230223105",
 		"fullCode":"230223105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴镇",
 		"parentCode":"230223"
 	},
@@ -51,7 +51,7 @@
 		"code":"230223200",
 		"fullCode":"230223200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富饶乡",
 		"parentCode":"230223"
 	},
@@ -59,7 +59,7 @@
 		"code":"230223201",
 		"fullCode":"230223201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放乡",
 		"parentCode":"230223"
 	},
@@ -67,7 +67,7 @@
 		"code":"230223202",
 		"fullCode":"230223202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳春乡",
 		"parentCode":"230223"
 	},
@@ -75,7 +75,7 @@
 		"code":"230223203",
 		"fullCode":"230223203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新发乡",
 		"parentCode":"230223"
 	},
@@ -83,7 +83,7 @@
 		"code":"230223204",
 		"fullCode":"230223204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太东乡",
 		"parentCode":"230223"
 	},
@@ -91,7 +91,7 @@
 		"code":"230223205",
 		"fullCode":"230223205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上游乡",
 		"parentCode":"230223"
 	},
@@ -99,7 +99,7 @@
 		"code":"230223206",
 		"fullCode":"230223206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星乡",
 		"parentCode":"230223"
 	},
@@ -107,7 +107,7 @@
 		"code":"230223207",
 		"fullCode":"230223207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先锋乡",
 		"parentCode":"230223"
 	},
@@ -115,7 +115,7 @@
 		"code":"230223208",
 		"fullCode":"230223208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新屯乡",
 		"parentCode":"230223"
 	}

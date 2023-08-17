@@ -3,7 +3,7 @@
 		"code":"451027100",
 		"fullCode":"451027100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗城镇",
 		"parentCode":"451027"
 	},
@@ -11,7 +11,7 @@
 		"code":"451027101",
 		"fullCode":"451027101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"逻楼镇",
 		"parentCode":"451027"
 	},
@@ -19,7 +19,7 @@
 		"code":"451027102",
 		"fullCode":"451027102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加尤镇",
 		"parentCode":"451027"
 	},
@@ -27,7 +27,7 @@
 		"code":"451027103",
 		"fullCode":"451027103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下甲镇",
 		"parentCode":"451027"
 	},
@@ -35,7 +35,7 @@
 		"code":"451027201",
 		"fullCode":"451027201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伶站瑶族乡",
 		"parentCode":"451027"
 	},
@@ -43,7 +43,7 @@
 		"code":"451027202",
 		"fullCode":"451027202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝里瑶族乡",
 		"parentCode":"451027"
 	},
@@ -51,7 +51,7 @@
 		"code":"451027203",
 		"fullCode":"451027203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙里瑶族乡",
 		"parentCode":"451027"
 	},
@@ -59,7 +59,7 @@
 		"code":"451027205",
 		"fullCode":"451027205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉洪瑶族乡",
 		"parentCode":"451027"
 	}

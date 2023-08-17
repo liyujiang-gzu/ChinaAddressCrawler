@@ -3,7 +3,7 @@
 		"code":"530626101",
 		"fullCode":"530626101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中城镇",
 		"parentCode":"530626"
 	},
@@ -11,7 +11,7 @@
 		"code":"530626102",
 		"fullCode":"530626102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岸镇",
 		"parentCode":"530626"
 	},
@@ -19,7 +19,7 @@
 		"code":"530626103",
 		"fullCode":"530626103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新滩镇",
 		"parentCode":"530626"
 	},
@@ -27,7 +27,7 @@
 		"code":"530626104",
 		"fullCode":"530626104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会仪镇",
 		"parentCode":"530626"
 	},
@@ -35,7 +35,7 @@
 		"code":"530626105",
 		"fullCode":"530626105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板栗镇",
 		"parentCode":"530626"
 	}

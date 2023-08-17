@@ -3,7 +3,7 @@
 		"code":"610331100",
 		"fullCode":"610331100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"咀头镇",
 		"parentCode":"610331"
 	},
@@ -11,7 +11,7 @@
 		"code":"610331101",
 		"fullCode":"610331101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃川镇",
 		"parentCode":"610331"
 	},
@@ -19,7 +19,7 @@
 		"code":"610331102",
 		"fullCode":"610331102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹦鸽镇",
 		"parentCode":"610331"
 	},
@@ -27,7 +27,7 @@
 		"code":"610331103",
 		"fullCode":"610331103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖口镇",
 		"parentCode":"610331"
 	},
@@ -35,7 +35,7 @@
 		"code":"610331104",
 		"fullCode":"610331104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太白河镇",
 		"parentCode":"610331"
 	},
@@ -43,7 +43,7 @@
 		"code":"610331105",
 		"fullCode":"610331105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄柏塬镇",
 		"parentCode":"610331"
 	},
@@ -51,7 +51,7 @@
 		"code":"610331106",
 		"fullCode":"610331106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家堎镇",
 		"parentCode":"610331"
 	}

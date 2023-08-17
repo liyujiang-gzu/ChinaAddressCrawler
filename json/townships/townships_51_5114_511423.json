@@ -3,7 +3,7 @@
 		"code":"511423101",
 		"fullCode":"511423101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"止戈镇",
 		"parentCode":"511423"
 	},
@@ -11,7 +11,7 @@
 		"code":"511423112",
 		"fullCode":"511423112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪川镇",
 		"parentCode":"511423"
 	},
@@ -19,7 +19,7 @@
 		"code":"511423113",
 		"fullCode":"511423113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余坪镇",
 		"parentCode":"511423"
 	},
@@ -27,7 +27,7 @@
 		"code":"511423114",
 		"fullCode":"511423114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槽渔滩镇",
 		"parentCode":"511423"
 	},
@@ -35,7 +35,7 @@
 		"code":"511423115",
 		"fullCode":"511423115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中保镇",
 		"parentCode":"511423"
 	},
@@ -43,7 +43,7 @@
 		"code":"511423116",
 		"fullCode":"511423116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东岳镇",
 		"parentCode":"511423"
 	},
@@ -51,7 +51,7 @@
 		"code":"511423117",
 		"fullCode":"511423117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳江镇",
 		"parentCode":"511423"
 	},
@@ -59,7 +59,7 @@
 		"code":"511423118",
 		"fullCode":"511423118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高庙镇",
 		"parentCode":"511423"
 	},
@@ -67,7 +67,7 @@
 		"code":"511423119",
 		"fullCode":"511423119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦屋山镇",
 		"parentCode":"511423"
 	},
@@ -75,7 +75,7 @@
 		"code":"511423120",
 		"fullCode":"511423120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里坪镇",
 		"parentCode":"511423"
 	},
@@ -83,7 +83,7 @@
 		"code":"511423121",
 		"fullCode":"511423121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"将军镇",
 		"parentCode":"511423"
 	},
@@ -91,7 +91,7 @@
 		"code":"511423122",
 		"fullCode":"511423122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中山镇",
 		"parentCode":"511423"
 	}

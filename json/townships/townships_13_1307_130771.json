@@ -3,7 +3,7 @@
 		"code":"130771001",
 		"fullCode":"130771001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南站街道",
 		"parentCode":"130771"
 	},
@@ -11,7 +11,7 @@
 		"code":"130771002",
 		"fullCode":"130771002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马路东街道",
 		"parentCode":"130771"
 	},
@@ -19,7 +19,7 @@
 		"code":"130771100",
 		"fullCode":"130771100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老鸦庄镇",
 		"parentCode":"130771"
 	},
@@ -27,7 +27,7 @@
 		"code":"130771101",
 		"fullCode":"130771101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈家屯镇",
 		"parentCode":"130771"
 	},
@@ -35,7 +35,7 @@
 		"code":"130771102",
 		"fullCode":"130771102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚家房镇",
 		"parentCode":"130771"
 	},
@@ -43,7 +43,7 @@
 		"code":"130771103",
 		"fullCode":"130771103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙岭子镇",
 		"parentCode":"130771"
 	}

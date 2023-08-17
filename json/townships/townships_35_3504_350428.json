@@ -3,7 +3,7 @@
 		"code":"350428100",
 		"fullCode":"350428100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古镛镇",
 		"parentCode":"350428"
 	},
@@ -11,7 +11,7 @@
 		"code":"350428101",
 		"fullCode":"350428101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万安镇",
 		"parentCode":"350428"
 	},
@@ -19,7 +19,7 @@
 		"code":"350428102",
 		"fullCode":"350428102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高唐镇",
 		"parentCode":"350428"
 	},
@@ -27,7 +27,7 @@
 		"code":"350428103",
 		"fullCode":"350428103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白莲镇",
 		"parentCode":"350428"
 	},
@@ -35,7 +35,7 @@
 		"code":"350428104",
 		"fullCode":"350428104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄潭镇",
 		"parentCode":"350428"
 	},
@@ -43,7 +43,7 @@
 		"code":"350428105",
 		"fullCode":"350428105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水南镇",
 		"parentCode":"350428"
 	},
@@ -51,7 +51,7 @@
 		"code":"350428106",
 		"fullCode":"350428106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明镇",
 		"parentCode":"350428"
 	},
@@ -59,7 +59,7 @@
 		"code":"350428107",
 		"fullCode":"350428107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南口镇",
 		"parentCode":"350428"
 	},
@@ -67,7 +67,7 @@
 		"code":"350428201",
 		"fullCode":"350428201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漠源乡",
 		"parentCode":"350428"
 	},
@@ -75,7 +75,7 @@
 		"code":"350428203",
 		"fullCode":"350428203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万全乡",
 		"parentCode":"350428"
 	},
@@ -83,7 +83,7 @@
 		"code":"350428204",
 		"fullCode":"350428204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安仁乡",
 		"parentCode":"350428"
 	},
@@ -91,7 +91,7 @@
 		"code":"350428205",
 		"fullCode":"350428205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大源乡",
 		"parentCode":"350428"
 	},
@@ -99,7 +99,7 @@
 		"code":"350428206",
 		"fullCode":"350428206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余坊乡",
 		"parentCode":"350428"
 	}

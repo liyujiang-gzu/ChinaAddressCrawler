@@ -3,7 +3,7 @@
 		"code":"520382001",
 		"fullCode":"520382001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐津街道",
 		"parentCode":"520382"
 	},
@@ -11,7 +11,7 @@
 		"code":"520382002",
 		"fullCode":"520382002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中枢街道",
 		"parentCode":"520382"
 	},
@@ -19,7 +19,7 @@
 		"code":"520382003",
 		"fullCode":"520382003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苍龙街道",
 		"parentCode":"520382"
 	},
@@ -27,7 +27,7 @@
 		"code":"520382004",
 		"fullCode":"520382004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坛厂街道",
 		"parentCode":"520382"
 	},
@@ -35,7 +35,7 @@
 		"code":"520382005",
 		"fullCode":"520382005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁班街道",
 		"parentCode":"520382"
 	},
@@ -43,7 +43,7 @@
 		"code":"520382102",
 		"fullCode":"520382102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岗镇",
 		"parentCode":"520382"
 	},
@@ -51,7 +51,7 @@
 		"code":"520382104",
 		"fullCode":"520382104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五马镇",
 		"parentCode":"520382"
 	},
@@ -59,7 +59,7 @@
 		"code":"520382105",
 		"fullCode":"520382105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅坝镇",
 		"parentCode":"520382"
 	},
@@ -67,7 +67,7 @@
 		"code":"520382106",
 		"fullCode":"520382106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九仓镇",
 		"parentCode":"520382"
 	},
@@ -75,7 +75,7 @@
 		"code":"520382107",
 		"fullCode":"520382107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喜头镇",
 		"parentCode":"520382"
 	},
@@ -83,7 +83,7 @@
 		"code":"520382108",
 		"fullCode":"520382108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坝镇",
 		"parentCode":"520382"
 	},
@@ -91,7 +91,7 @@
 		"code":"520382109",
 		"fullCode":"520382109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三合镇",
 		"parentCode":"520382"
 	},
@@ -99,7 +99,7 @@
 		"code":"520382110",
 		"fullCode":"520382110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合马镇",
 		"parentCode":"520382"
 	},
@@ -107,7 +107,7 @@
 		"code":"520382112",
 		"fullCode":"520382112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火石镇",
 		"parentCode":"520382"
 	},
@@ -115,7 +115,7 @@
 		"code":"520382113",
 		"fullCode":"520382113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学孔镇",
 		"parentCode":"520382"
 	},
@@ -123,7 +123,7 @@
 		"code":"520382114",
 		"fullCode":"520382114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙井镇",
 		"parentCode":"520382"
 	},
@@ -131,7 +131,7 @@
 		"code":"520382115",
 		"fullCode":"520382115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美酒河镇",
 		"parentCode":"520382"
 	},
@@ -139,7 +139,7 @@
 		"code":"520382116",
 		"fullCode":"520382116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高大坪镇",
 		"parentCode":"520382"
 	},
@@ -147,7 +147,7 @@
 		"code":"520382117",
 		"fullCode":"520382117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅台镇",
 		"parentCode":"520382"
 	},
@@ -155,7 +155,7 @@
 		"code":"520382201",
 		"fullCode":"520382201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后山苗族布依族乡",
 		"parentCode":"520382"
 	}

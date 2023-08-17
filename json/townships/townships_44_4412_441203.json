@@ -3,7 +3,7 @@
 		"code":"441203001",
 		"fullCode":"441203001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坑口街道",
 		"parentCode":"441203"
 	},
@@ -11,7 +11,7 @@
 		"code":"441203002",
 		"fullCode":"441203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂城街道",
 		"parentCode":"441203"
 	},
@@ -19,7 +19,7 @@
 		"code":"441203003",
 		"fullCode":"441203003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广利街道",
 		"parentCode":"441203"
 	},
@@ -27,7 +27,7 @@
 		"code":"441203101",
 		"fullCode":"441203101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安镇",
 		"parentCode":"441203"
 	},
@@ -35,7 +35,7 @@
 		"code":"441203102",
 		"fullCode":"441203102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙浦镇",
 		"parentCode":"441203"
 	},
@@ -43,7 +43,7 @@
 		"code":"441203103",
 		"fullCode":"441203103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰镇",
 		"parentCode":"441203"
 	},
@@ -51,7 +51,7 @@
 		"code":"441203104",
 		"fullCode":"441203104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花镇",
 		"parentCode":"441203"
 	}

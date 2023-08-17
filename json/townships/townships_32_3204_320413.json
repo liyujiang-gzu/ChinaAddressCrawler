@@ -3,7 +3,7 @@
 		"code":"320413001",
 		"fullCode":"320413001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"320413"
 	},
@@ -11,7 +11,7 @@
 		"code":"320413100",
 		"fullCode":"320413100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金城镇",
 		"parentCode":"320413"
 	},
@@ -19,7 +19,7 @@
 		"code":"320413104",
 		"fullCode":"320413104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"儒林镇",
 		"parentCode":"320413"
 	},
@@ -27,7 +27,7 @@
 		"code":"320413106",
 		"fullCode":"320413106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"直溪镇",
 		"parentCode":"320413"
 	},
@@ -35,7 +35,7 @@
 		"code":"320413108",
 		"fullCode":"320413108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱林镇",
 		"parentCode":"320413"
 	},
@@ -43,7 +43,7 @@
 		"code":"320413109",
 		"fullCode":"320413109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薛埠镇",
 		"parentCode":"320413"
 	},
@@ -51,7 +51,7 @@
 		"code":"320413112",
 		"fullCode":"320413112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"指前镇",
 		"parentCode":"320413"
 	},
@@ -59,7 +59,7 @@
 		"code":"320413400",
 		"fullCode":"320413400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"经济开发区",
 		"parentCode":"320413"
 	},
@@ -67,7 +67,7 @@
 		"code":"320413401",
 		"fullCode":"320413401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅山旅游度假区",
 		"parentCode":"320413"
 	},
@@ -75,7 +75,7 @@
 		"code":"320413402",
 		"fullCode":"320413402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华罗庚高新区",
 		"parentCode":"320413"
 	}

@@ -3,7 +3,7 @@
 		"code":"430103002",
 		"fullCode":"430103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坡子街街道",
 		"parentCode":"430103"
 	},
@@ -11,7 +11,7 @@
 		"code":"430103004",
 		"fullCode":"430103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南路街道",
 		"parentCode":"430103"
 	},
@@ -19,7 +19,7 @@
 		"code":"430103005",
 		"fullCode":"430103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕南街街道",
 		"parentCode":"430103"
 	},
@@ -27,7 +27,7 @@
 		"code":"430103006",
 		"fullCode":"430103006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金盆岭街道",
 		"parentCode":"430103"
 	},
@@ -35,7 +35,7 @@
 		"code":"430103007",
 		"fullCode":"430103007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新开铺街道",
 		"parentCode":"430103"
 	},
@@ -43,7 +43,7 @@
 		"code":"430103008",
 		"fullCode":"430103008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青园街道",
 		"parentCode":"430103"
 	},
@@ -51,7 +51,7 @@
 		"code":"430103009",
 		"fullCode":"430103009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂花坪街道",
 		"parentCode":"430103"
 	},
@@ -59,7 +59,7 @@
 		"code":"430103010",
 		"fullCode":"430103010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤岭路街道",
 		"parentCode":"430103"
 	},
@@ -67,7 +67,7 @@
 		"code":"430103011",
 		"fullCode":"430103011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文源街道",
 		"parentCode":"430103"
 	},
@@ -75,7 +75,7 @@
 		"code":"430103012",
 		"fullCode":"430103012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先锋街道",
 		"parentCode":"430103"
 	},
@@ -83,7 +83,7 @@
 		"code":"430103013",
 		"fullCode":"430103013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑石铺街道",
 		"parentCode":"430103"
 	},
@@ -91,7 +91,7 @@
 		"code":"430103014",
 		"fullCode":"430103014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大托铺街道",
 		"parentCode":"430103"
 	},
@@ -99,7 +99,7 @@
 		"code":"430103015",
 		"fullCode":"430103015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"暮云街道",
 		"parentCode":"430103"
 	},
@@ -107,7 +107,7 @@
 		"code":"430103016",
 		"fullCode":"430103016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南托街道",
 		"parentCode":"430103"
 	}

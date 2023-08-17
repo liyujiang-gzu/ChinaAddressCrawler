@@ -3,7 +3,7 @@
 		"code":"141028100",
 		"fullCode":"141028100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉昌镇",
 		"parentCode":"141028"
 	},
@@ -11,7 +11,7 @@
 		"code":"141028101",
 		"fullCode":"141028101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屯里镇",
 		"parentCode":"141028"
 	},
@@ -19,7 +19,7 @@
 		"code":"141028102",
 		"fullCode":"141028102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"壶口镇",
 		"parentCode":"141028"
 	},
@@ -27,7 +27,7 @@
 		"code":"141028200",
 		"fullCode":"141028200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车城乡",
 		"parentCode":"141028"
 	},
@@ -35,7 +35,7 @@
 		"code":"141028201",
 		"fullCode":"141028201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文城乡",
 		"parentCode":"141028"
 	},
@@ -43,7 +43,7 @@
 		"code":"141028203",
 		"fullCode":"141028203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏山寺乡",
 		"parentCode":"141028"
 	},
@@ -51,7 +51,7 @@
 		"code":"141028204",
 		"fullCode":"141028204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中垛乡",
 		"parentCode":"141028"
 	}

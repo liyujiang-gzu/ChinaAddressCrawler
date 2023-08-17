@@ -3,7 +3,7 @@
 		"code":"231123100",
 		"fullCode":"231123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奇克镇",
 		"parentCode":"231123"
 	},
@@ -11,7 +11,7 @@
 		"code":"231123101",
 		"fullCode":"231123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"逊河镇",
 		"parentCode":"231123"
 	},
@@ -19,7 +19,7 @@
 		"code":"231123103",
 		"fullCode":"231123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克林镇",
 		"parentCode":"231123"
 	},
@@ -27,7 +27,7 @@
 		"code":"231123201",
 		"fullCode":"231123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"干岔子乡",
 		"parentCode":"231123"
 	},
@@ -35,7 +35,7 @@
 		"code":"231123202",
 		"fullCode":"231123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松树沟乡",
 		"parentCode":"231123"
 	},
@@ -43,7 +43,7 @@
 		"code":"231123203",
 		"fullCode":"231123203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车陆乡",
 		"parentCode":"231123"
 	},
@@ -51,7 +51,7 @@
 		"code":"231123204",
 		"fullCode":"231123204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新鄂乡",
 		"parentCode":"231123"
 	},
@@ -59,7 +59,7 @@
 		"code":"231123205",
 		"fullCode":"231123205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴乡",
 		"parentCode":"231123"
 	},
@@ -67,7 +67,7 @@
 		"code":"231123207",
 		"fullCode":"231123207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝山乡",
 		"parentCode":"231123"
 	},
@@ -75,7 +75,7 @@
 		"code":"231123402",
 		"fullCode":"231123402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道干林场",
 		"parentCode":"231123"
 	},
@@ -83,7 +83,7 @@
 		"code":"231123403",
 		"fullCode":"231123403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"干岔子林场",
 		"parentCode":"231123"
 	},
@@ -91,7 +91,7 @@
 		"code":"231123404",
 		"fullCode":"231123404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新立林场",
 		"parentCode":"231123"
 	},
@@ -99,7 +99,7 @@
 		"code":"231123405",
 		"fullCode":"231123405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三间房林场",
 		"parentCode":"231123"
 	},
@@ -107,7 +107,7 @@
 		"code":"231123406",
 		"fullCode":"231123406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良种场",
 		"parentCode":"231123"
 	},
@@ -115,7 +115,7 @@
 		"code":"231123407",
 		"fullCode":"231123407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"种畜场",
 		"parentCode":"231123"
 	},
@@ -123,7 +123,7 @@
 		"code":"231123500",
 		"fullCode":"231123500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"逊克农场",
 		"parentCode":"231123"
 	}

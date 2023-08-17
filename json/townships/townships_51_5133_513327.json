@@ -3,7 +3,7 @@
 		"code":"513327100",
 		"fullCode":"513327100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新都镇",
 		"parentCode":"513327"
 	},
@@ -11,7 +11,7 @@
 		"code":"513327101",
 		"fullCode":"513327101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱倭镇",
 		"parentCode":"513327"
 	},
@@ -19,7 +19,7 @@
 		"code":"513327103",
 		"fullCode":"513327103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虾拉沱镇",
 		"parentCode":"513327"
 	},
@@ -27,7 +27,7 @@
 		"code":"513327104",
 		"fullCode":"513327104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上罗柯马镇",
 		"parentCode":"513327"
 	},
@@ -35,7 +35,7 @@
 		"code":"513327200",
 		"fullCode":"513327200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥巴乡",
 		"parentCode":"513327"
 	},
@@ -43,7 +43,7 @@
 		"code":"513327201",
 		"fullCode":"513327201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅德乡",
 		"parentCode":"513327"
 	},
@@ -51,7 +51,7 @@
 		"code":"513327202",
 		"fullCode":"513327202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛秋乡",
 		"parentCode":"513327"
 	},
@@ -59,7 +59,7 @@
 		"code":"513327205",
 		"fullCode":"513327205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁达乡",
 		"parentCode":"513327"
 	},
@@ -67,7 +67,7 @@
 		"code":"513327207",
 		"fullCode":"513327207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旦都乡",
 		"parentCode":"513327"
 	},
@@ -75,7 +75,7 @@
 		"code":"513327208",
 		"fullCode":"513327208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"充古乡",
 		"parentCode":"513327"
 	},
@@ -83,7 +83,7 @@
 		"code":"513327209",
 		"fullCode":"513327209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"更知乡",
 		"parentCode":"513327"
 	},
@@ -91,7 +91,7 @@
 		"code":"513327210",
 		"fullCode":"513327210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡娘乡",
 		"parentCode":"513327"
 	},
@@ -99,7 +99,7 @@
 		"code":"513327211",
 		"fullCode":"513327211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗塔乡",
 		"parentCode":"513327"
 	},
@@ -107,7 +107,7 @@
 		"code":"513327212",
 		"fullCode":"513327212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗麦乡",
 		"parentCode":"513327"
 	},
@@ -115,7 +115,7 @@
 		"code":"513327214",
 		"fullCode":"513327214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下罗柯马乡",
 		"parentCode":"513327"
 	}

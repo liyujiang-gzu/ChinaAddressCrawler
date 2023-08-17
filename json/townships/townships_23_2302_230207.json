@@ -3,7 +3,7 @@
 		"code":"230207001",
 		"fullCode":"230207001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东安街道",
 		"parentCode":"230207"
 	},
@@ -11,7 +11,7 @@
 		"code":"230207002",
 		"fullCode":"230207002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富强街道",
 		"parentCode":"230207"
 	},
@@ -19,7 +19,7 @@
 		"code":"230207003",
 		"fullCode":"230207003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"跃进街道",
 		"parentCode":"230207"
 	},
@@ -27,7 +27,7 @@
 		"code":"230207004",
 		"fullCode":"230207004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"繁荣街道",
 		"parentCode":"230207"
 	}

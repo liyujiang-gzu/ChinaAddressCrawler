@@ -3,7 +3,7 @@
 		"code":"371524001",
 		"fullCode":"371524001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜城街道",
 		"parentCode":"371524"
 	},
@@ -11,7 +11,7 @@
 		"code":"371524002",
 		"fullCode":"371524002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"371524"
 	},
@@ -19,7 +19,7 @@
 		"code":"371524101",
 		"fullCode":"371524101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘集镇",
 		"parentCode":"371524"
 	},
@@ -27,7 +27,7 @@
 		"code":"371524102",
 		"fullCode":"371524102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛角店镇",
 		"parentCode":"371524"
 	},
@@ -35,7 +35,7 @@
 		"code":"371524103",
 		"fullCode":"371524103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥镇",
 		"parentCode":"371524"
 	},
@@ -43,7 +43,7 @@
 		"code":"371524104",
 		"fullCode":"371524104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高集镇",
 		"parentCode":"371524"
 	},
@@ -51,7 +51,7 @@
 		"code":"371524105",
 		"fullCode":"371524105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜楼镇",
 		"parentCode":"371524"
 	},
@@ -59,7 +59,7 @@
 		"code":"371524107",
 		"fullCode":"371524107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚寨镇",
 		"parentCode":"371524"
 	},
@@ -67,7 +67,7 @@
 		"code":"371524108",
 		"fullCode":"371524108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼山镇",
 		"parentCode":"371524"
 	},
@@ -75,7 +75,7 @@
 		"code":"371524109",
 		"fullCode":"371524109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈集镇",
 		"parentCode":"371524"
 	}

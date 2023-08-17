@@ -3,7 +3,7 @@
 		"code":"450223100",
 		"fullCode":"450223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿寨镇",
 		"parentCode":"450223"
 	},
@@ -11,7 +11,7 @@
 		"code":"450223102",
 		"fullCode":"450223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中渡镇",
 		"parentCode":"450223"
 	},
@@ -19,7 +19,7 @@
 		"code":"450223103",
 		"fullCode":"450223103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨沙镇",
 		"parentCode":"450223"
 	},
@@ -27,7 +27,7 @@
 		"code":"450223104",
 		"fullCode":"450223104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山镇",
 		"parentCode":"450223"
 	},
@@ -35,7 +35,7 @@
 		"code":"450223105",
 		"fullCode":"450223105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄冕镇",
 		"parentCode":"450223"
 	},
@@ -43,7 +43,7 @@
 		"code":"450223106",
 		"fullCode":"450223106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四排镇",
 		"parentCode":"450223"
 	},
@@ -51,7 +51,7 @@
 		"code":"450223201",
 		"fullCode":"450223201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江口乡",
 		"parentCode":"450223"
 	},
@@ -59,7 +59,7 @@
 		"code":"450223202",
 		"fullCode":"450223202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"导江乡",
 		"parentCode":"450223"
 	},
@@ -67,7 +67,7 @@
 		"code":"450223203",
 		"fullCode":"450223203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉沟乡",
 		"parentCode":"450223"
 	}

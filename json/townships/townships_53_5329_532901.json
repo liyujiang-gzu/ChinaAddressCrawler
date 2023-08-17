@@ -3,7 +3,7 @@
 		"code":"532901003",
 		"fullCode":"532901003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下关街道",
 		"parentCode":"532901"
 	},
@@ -11,7 +11,7 @@
 		"code":"532901004",
 		"fullCode":"532901004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和街道",
 		"parentCode":"532901"
 	},
@@ -19,7 +19,7 @@
 		"code":"532901005",
 		"fullCode":"532901005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满江街道",
 		"parentCode":"532901"
 	},
@@ -27,7 +27,7 @@
 		"code":"532901102",
 		"fullCode":"532901102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大理镇",
 		"parentCode":"532901"
 	},
@@ -35,7 +35,7 @@
 		"code":"532901103",
 		"fullCode":"532901103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤仪镇",
 		"parentCode":"532901"
 	},
@@ -43,7 +43,7 @@
 		"code":"532901104",
 		"fullCode":"532901104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喜洲镇",
 		"parentCode":"532901"
 	},
@@ -51,7 +51,7 @@
 		"code":"532901105",
 		"fullCode":"532901105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海东镇",
 		"parentCode":"532901"
 	},
@@ -59,7 +59,7 @@
 		"code":"532901106",
 		"fullCode":"532901106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"挖色镇",
 		"parentCode":"532901"
 	},
@@ -67,7 +67,7 @@
 		"code":"532901107",
 		"fullCode":"532901107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湾桥镇",
 		"parentCode":"532901"
 	},
@@ -75,7 +75,7 @@
 		"code":"532901108",
 		"fullCode":"532901108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银桥镇",
 		"parentCode":"532901"
 	},
@@ -83,7 +83,7 @@
 		"code":"532901109",
 		"fullCode":"532901109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双廊镇",
 		"parentCode":"532901"
 	},
@@ -91,7 +91,7 @@
 		"code":"532901110",
 		"fullCode":"532901110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上关镇",
 		"parentCode":"532901"
 	},
@@ -99,7 +99,7 @@
 		"code":"532901201",
 		"fullCode":"532901201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太邑彝族乡",
 		"parentCode":"532901"
 	}

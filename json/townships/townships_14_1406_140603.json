@@ -3,7 +3,7 @@
 		"code":"140603100",
 		"fullCode":"140603100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井坪镇",
 		"parentCode":"140603"
 	},
@@ -11,7 +11,7 @@
 		"code":"140603101",
 		"fullCode":"140603101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰城镇",
 		"parentCode":"140603"
 	},
@@ -19,7 +19,7 @@
 		"code":"140603200",
 		"fullCode":"140603200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白堂乡",
 		"parentCode":"140603"
 	},
@@ -27,7 +27,7 @@
 		"code":"140603201",
 		"fullCode":"140603201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶村乡",
 		"parentCode":"140603"
 	},
@@ -35,7 +35,7 @@
 		"code":"140603202",
 		"fullCode":"140603202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下水头乡",
 		"parentCode":"140603"
 	},
@@ -43,7 +43,7 @@
 		"code":"140603203",
 		"fullCode":"140603203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双碾乡",
 		"parentCode":"140603"
 	},
@@ -51,7 +51,7 @@
 		"code":"140603204",
 		"fullCode":"140603204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阻虎乡",
 		"parentCode":"140603"
 	},
@@ -59,7 +59,7 @@
 		"code":"140603205",
 		"fullCode":"140603205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高石庄乡",
 		"parentCode":"140603"
 	},
@@ -67,7 +67,7 @@
 		"code":"140603206",
 		"fullCode":"140603206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西水界乡",
 		"parentCode":"140603"
 	},
@@ -75,7 +75,7 @@
 		"code":"140603207",
 		"fullCode":"140603207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下面高乡",
 		"parentCode":"140603"
 	},
@@ -83,7 +83,7 @@
 		"code":"140603209",
 		"fullCode":"140603209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳堡乡",
 		"parentCode":"140603"
 	},
@@ -91,7 +91,7 @@
 		"code":"140603210",
 		"fullCode":"140603210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆岭乡",
 		"parentCode":"140603"
 	}

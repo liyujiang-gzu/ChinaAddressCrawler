@@ -3,7 +3,7 @@
 		"code":"130930100",
 		"fullCode":"130930100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟村镇",
 		"parentCode":"130930"
 	},
@@ -11,7 +11,7 @@
 		"code":"130930101",
 		"fullCode":"130930101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新县镇",
 		"parentCode":"130930"
 	},
@@ -19,7 +19,7 @@
 		"code":"130930102",
 		"fullCode":"130930102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛店镇",
 		"parentCode":"130930"
 	},
@@ -27,7 +27,7 @@
 		"code":"130930103",
 		"fullCode":"130930103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高寨镇",
 		"parentCode":"130930"
 	},
@@ -35,7 +35,7 @@
 		"code":"130930200",
 		"fullCode":"130930200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋庄子乡",
 		"parentCode":"130930"
 	},
@@ -43,7 +43,7 @@
 		"code":"130930201",
 		"fullCode":"130930201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛进庄乡",
 		"parentCode":"130930"
 	}

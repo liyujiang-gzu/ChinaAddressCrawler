@@ -3,7 +3,7 @@
 		"code":"610924100",
 		"fullCode":"610924100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"610924"
 	},
@@ -11,7 +11,7 @@
 		"code":"610924101",
 		"fullCode":"610924101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒿坪镇",
 		"parentCode":"610924"
 	},
@@ -19,7 +19,7 @@
 		"code":"610924102",
 		"fullCode":"610924102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉王镇",
 		"parentCode":"610924"
 	},
@@ -27,7 +27,7 @@
 		"code":"610924103",
 		"fullCode":"610924103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"焕古镇",
 		"parentCode":"610924"
 	},
@@ -35,7 +35,7 @@
 		"code":"610924104",
 		"fullCode":"610924104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳镇",
 		"parentCode":"610924"
 	},
@@ -43,7 +43,7 @@
 		"code":"610924105",
 		"fullCode":"610924105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洞河镇",
 		"parentCode":"610924"
 	},
@@ -51,7 +51,7 @@
 		"code":"610924106",
 		"fullCode":"610924106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洄水镇",
 		"parentCode":"610924"
 	},
@@ -59,7 +59,7 @@
 		"code":"610924108",
 		"fullCode":"610924108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桥镇",
 		"parentCode":"610924"
 	},
@@ -67,7 +67,7 @@
 		"code":"610924109",
 		"fullCode":"610924109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥镇",
 		"parentCode":"610924"
 	},
@@ -75,7 +75,7 @@
 		"code":"610924110",
 		"fullCode":"610924110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红椿镇",
 		"parentCode":"610924"
 	},
@@ -83,7 +83,7 @@
 		"code":"610924111",
 		"fullCode":"610924111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高滩镇",
 		"parentCode":"610924"
 	},
@@ -91,7 +91,7 @@
 		"code":"610924112",
 		"fullCode":"610924112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛坝镇",
 		"parentCode":"610924"
 	},
@@ -99,7 +99,7 @@
 		"code":"610924113",
 		"fullCode":"610924113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦庙镇",
 		"parentCode":"610924"
 	},
@@ -107,7 +107,7 @@
 		"code":"610924114",
 		"fullCode":"610924114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻柳镇",
 		"parentCode":"610924"
 	},
@@ -115,7 +115,7 @@
 		"code":"610924115",
 		"fullCode":"610924115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双安镇",
 		"parentCode":"610924"
 	},
@@ -123,7 +123,7 @@
 		"code":"610924116",
 		"fullCode":"610924116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东木镇",
 		"parentCode":"610924"
 	},
@@ -131,7 +131,7 @@
 		"code":"610924117",
 		"fullCode":"610924117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界岭镇",
 		"parentCode":"610924"
 	}

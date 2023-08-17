@@ -3,7 +3,7 @@
 		"code":"610725001",
 		"fullCode":"610725001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勉阳街道",
 		"parentCode":"610725"
 	},
@@ -11,7 +11,7 @@
 		"code":"610725101",
 		"fullCode":"610725101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武侯镇",
 		"parentCode":"610725"
 	},
@@ -19,7 +19,7 @@
 		"code":"610725102",
 		"fullCode":"610725102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周家山镇",
 		"parentCode":"610725"
 	},
@@ -27,7 +27,7 @@
 		"code":"610725103",
 		"fullCode":"610725103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同沟寺镇",
 		"parentCode":"610725"
 	},
@@ -35,7 +35,7 @@
 		"code":"610725105",
 		"fullCode":"610725105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街子镇",
 		"parentCode":"610725"
 	},
@@ -43,7 +43,7 @@
 		"code":"610725106",
 		"fullCode":"610725106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老道寺镇",
 		"parentCode":"610725"
 	},
@@ -51,7 +51,7 @@
 		"code":"610725107",
 		"fullCode":"610725107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"褒城镇",
 		"parentCode":"610725"
 	},
@@ -59,7 +59,7 @@
 		"code":"610725109",
 		"fullCode":"610725109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金泉镇",
 		"parentCode":"610725"
 	},
@@ -67,7 +67,7 @@
 		"code":"610725110",
 		"fullCode":"610725110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定军山镇",
 		"parentCode":"610725"
 	},
@@ -75,7 +75,7 @@
 		"code":"610725111",
 		"fullCode":"610725111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉镇",
 		"parentCode":"610725"
 	},
@@ -83,7 +83,7 @@
 		"code":"610725112",
 		"fullCode":"610725112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元墩镇",
 		"parentCode":"610725"
 	},
@@ -91,7 +91,7 @@
 		"code":"610725113",
 		"fullCode":"610725113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阜川镇",
 		"parentCode":"610725"
 	},
@@ -99,7 +99,7 @@
 		"code":"610725114",
 		"fullCode":"610725114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新铺镇",
 		"parentCode":"610725"
 	},
@@ -107,7 +107,7 @@
 		"code":"610725116",
 		"fullCode":"610725116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶店镇",
 		"parentCode":"610725"
 	},
@@ -115,7 +115,7 @@
 		"code":"610725117",
 		"fullCode":"610725117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇川镇",
 		"parentCode":"610725"
 	},
@@ -123,7 +123,7 @@
 		"code":"610725118",
 		"fullCode":"610725118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漆树坝镇",
 		"parentCode":"610725"
 	},
@@ -131,7 +131,7 @@
 		"code":"610725119",
 		"fullCode":"610725119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家河镇",
 		"parentCode":"610725"
 	},
@@ -139,7 +139,7 @@
 		"code":"610725120",
 		"fullCode":"610725120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长沟河镇",
 		"parentCode":"610725"
 	}

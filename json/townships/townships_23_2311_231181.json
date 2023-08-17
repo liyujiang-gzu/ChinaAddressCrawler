@@ -3,7 +3,7 @@
 		"code":"231181001",
 		"fullCode":"231181001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兆麟街道地区",
 		"parentCode":"231181"
 	},
@@ -11,7 +11,7 @@
 		"code":"231181002",
 		"fullCode":"231181002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道地区",
 		"parentCode":"231181"
 	},
@@ -19,7 +19,7 @@
 		"code":"231181003",
 		"fullCode":"231181003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北岗街道地区",
 		"parentCode":"231181"
 	},
@@ -27,7 +27,7 @@
 		"code":"231181004",
 		"fullCode":"231181004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆华街道地区",
 		"parentCode":"231181"
 	},
@@ -35,7 +35,7 @@
 		"code":"231181005",
 		"fullCode":"231181005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西街道地区",
 		"parentCode":"231181"
 	},
@@ -43,7 +43,7 @@
 		"code":"231181006",
 		"fullCode":"231181006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁南街道地区",
 		"parentCode":"231181"
 	},
@@ -51,7 +51,7 @@
 		"code":"231181101",
 		"fullCode":"231181101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通北镇",
 		"parentCode":"231181"
 	},
@@ -59,7 +59,7 @@
 		"code":"231181102",
 		"fullCode":"231181102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵光镇",
 		"parentCode":"231181"
 	},
@@ -67,7 +67,7 @@
 		"code":"231181103",
 		"fullCode":"231181103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海星镇",
 		"parentCode":"231181"
 	},
@@ -75,7 +75,7 @@
 		"code":"231181104",
 		"fullCode":"231181104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石泉镇",
 		"parentCode":"231181"
 	},
@@ -83,7 +83,7 @@
 		"code":"231181105",
 		"fullCode":"231181105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二井镇",
 		"parentCode":"231181"
 	},
@@ -91,7 +91,7 @@
 		"code":"231181200",
 		"fullCode":"231181200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊乡",
 		"parentCode":"231181"
 	},
@@ -99,7 +99,7 @@
 		"code":"231181201",
 		"fullCode":"231181201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东胜乡",
 		"parentCode":"231181"
 	},
@@ -107,7 +107,7 @@
 		"code":"231181203",
 		"fullCode":"231181203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家乡",
 		"parentCode":"231181"
 	},
@@ -115,7 +115,7 @@
 		"code":"231181207",
 		"fullCode":"231181207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"主星乡",
 		"parentCode":"231181"
 	},
@@ -123,7 +123,7 @@
 		"code":"231181400",
 		"fullCode":"231181400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通北林业局",
 		"parentCode":"231181"
 	},
@@ -131,7 +131,7 @@
 		"code":"231181500",
 		"fullCode":"231181500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北安管理局局直",
 		"parentCode":"231181"
 	},
@@ -139,7 +139,7 @@
 		"code":"231181501",
 		"fullCode":"231181501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长水河农场",
 		"parentCode":"231181"
 	},
@@ -147,7 +147,7 @@
 		"code":"231181502",
 		"fullCode":"231181502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵光农场",
 		"parentCode":"231181"
 	},
@@ -155,7 +155,7 @@
 		"code":"231181503",
 		"fullCode":"231181503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星农场",
 		"parentCode":"231181"
 	},
@@ -163,7 +163,7 @@
 		"code":"231181504",
 		"fullCode":"231181504000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设农场",
 		"parentCode":"231181"
 	}

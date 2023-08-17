@@ -3,7 +3,7 @@
 		"code":"130581001",
 		"fullCode":"130581001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤岗街道",
 		"parentCode":"130581"
 	},
@@ -11,7 +11,7 @@
 		"code":"130581002",
 		"fullCode":"130581002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南杜街道",
 		"parentCode":"130581"
 	},
@@ -19,7 +19,7 @@
 		"code":"130581003",
 		"fullCode":"130581003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北胡街道",
 		"parentCode":"130581"
 	},
@@ -27,7 +27,7 @@
 		"code":"130581004",
 		"fullCode":"130581004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西丁街道",
 		"parentCode":"130581"
 	},
@@ -35,7 +35,7 @@
 		"code":"130581100",
 		"fullCode":"130581100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏村镇",
 		"parentCode":"130581"
 	},
@@ -43,7 +43,7 @@
 		"code":"130581101",
 		"fullCode":"130581101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大高村镇",
 		"parentCode":"130581"
 	},
@@ -51,7 +51,7 @@
 		"code":"130581102",
 		"fullCode":"130581102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垂杨镇",
 		"parentCode":"130581"
 	},
@@ -59,7 +59,7 @@
 		"code":"130581103",
 		"fullCode":"130581103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明化镇",
 		"parentCode":"130581"
 	},
@@ -67,7 +67,7 @@
 		"code":"130581104",
 		"fullCode":"130581104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段芦头镇",
 		"parentCode":"130581"
 	},
@@ -75,7 +75,7 @@
 		"code":"130581105",
 		"fullCode":"130581105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫冢镇",
 		"parentCode":"130581"
 	},
@@ -83,7 +83,7 @@
 		"code":"130581200",
 		"fullCode":"130581200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大村乡",
 		"parentCode":"130581"
 	},
@@ -91,7 +91,7 @@
 		"code":"130581201",
 		"fullCode":"130581201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南便村乡",
 		"parentCode":"130581"
 	},
@@ -99,7 +99,7 @@
 		"code":"130581202",
 		"fullCode":"130581202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大屯乡",
 		"parentCode":"130581"
 	},
@@ -107,7 +107,7 @@
 		"code":"130581203",
 		"fullCode":"130581203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王道寨乡",
 		"parentCode":"130581"
 	},
@@ -115,7 +115,7 @@
 		"code":"130581204",
 		"fullCode":"130581204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薛吴村乡",
 		"parentCode":"130581"
 	}

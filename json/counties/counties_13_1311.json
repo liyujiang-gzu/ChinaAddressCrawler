@@ -3,7 +3,7 @@
 		"code":"131102",
 		"fullCode":"131102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桃城区",
 		"parentCode":"1311"
 	},
@@ -11,7 +11,7 @@
 		"code":"131103",
 		"fullCode":"131103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"冀州区",
 		"parentCode":"1311"
 	},
@@ -19,7 +19,7 @@
 		"code":"131121",
 		"fullCode":"131121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"枣强县",
 		"parentCode":"1311"
 	},
@@ -27,7 +27,7 @@
 		"code":"131122",
 		"fullCode":"131122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武邑县",
 		"parentCode":"1311"
 	},
@@ -35,7 +35,7 @@
 		"code":"131123",
 		"fullCode":"131123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武强县",
 		"parentCode":"1311"
 	},
@@ -43,7 +43,7 @@
 		"code":"131124",
 		"fullCode":"131124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"饶阳县",
 		"parentCode":"1311"
 	},
@@ -51,7 +51,7 @@
 		"code":"131125",
 		"fullCode":"131125000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安平县",
 		"parentCode":"1311"
 	},
@@ -59,7 +59,7 @@
 		"code":"131126",
 		"fullCode":"131126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"故城县",
 		"parentCode":"1311"
 	},
@@ -67,7 +67,7 @@
 		"code":"131127",
 		"fullCode":"131127000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"景县",
 		"parentCode":"1311"
 	},
@@ -75,7 +75,7 @@
 		"code":"131128",
 		"fullCode":"131128000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阜城县",
 		"parentCode":"1311"
 	},
@@ -83,7 +83,7 @@
 		"code":"131171",
 		"fullCode":"131171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"河北衡水高新技术产业开发区",
 		"parentCode":"1311"
 	},
@@ -91,7 +91,7 @@
 		"code":"131172",
 		"fullCode":"131172000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"衡水滨湖新区",
 		"parentCode":"1311"
 	},
@@ -99,7 +99,7 @@
 		"code":"131182",
 		"fullCode":"131182000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"深州市",
 		"parentCode":"1311"
 	}

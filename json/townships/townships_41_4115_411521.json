@@ -3,7 +3,7 @@
 		"code":"411521001",
 		"fullCode":"411521001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丽水街道",
 		"parentCode":"411521"
 	},
@@ -11,7 +11,7 @@
 		"code":"411521002",
 		"fullCode":"411521002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝城街道",
 		"parentCode":"411521"
 	},
@@ -19,7 +19,7 @@
 		"code":"411521003",
 		"fullCode":"411521003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山街道",
 		"parentCode":"411521"
 	},
@@ -27,7 +27,7 @@
 		"code":"411521101",
 		"fullCode":"411521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周党镇",
 		"parentCode":"411521"
 	},
@@ -35,7 +35,7 @@
 		"code":"411521102",
 		"fullCode":"411521102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹竿镇",
 		"parentCode":"411521"
 	},
@@ -43,7 +43,7 @@
 		"code":"411521103",
 		"fullCode":"411521103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵山镇",
 		"parentCode":"411521"
 	},
@@ -51,7 +51,7 @@
 		"code":"411521104",
 		"fullCode":"411521104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"子路镇",
 		"parentCode":"411521"
 	},
@@ -59,7 +59,7 @@
 		"code":"411521105",
 		"fullCode":"411521105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楠杆镇",
 		"parentCode":"411521"
 	},
@@ -67,7 +67,7 @@
 		"code":"411521106",
 		"fullCode":"411521106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山镇",
 		"parentCode":"411521"
 	},
@@ -75,7 +75,7 @@
 		"code":"411521107",
 		"fullCode":"411521107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘新镇",
 		"parentCode":"411521"
 	},
@@ -83,7 +83,7 @@
 		"code":"411521108",
 		"fullCode":"411521108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭新镇",
 		"parentCode":"411521"
 	},
@@ -91,7 +91,7 @@
 		"code":"411521109",
 		"fullCode":"411521109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莽张镇",
 		"parentCode":"411521"
 	},
@@ -99,7 +99,7 @@
 		"code":"411521110",
 		"fullCode":"411521110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东卜镇",
 		"parentCode":"411521"
 	},
@@ -107,7 +107,7 @@
 		"code":"411521111",
 		"fullCode":"411521111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁铺镇",
 		"parentCode":"411521"
 	},
@@ -115,7 +115,7 @@
 		"code":"411521202",
 		"fullCode":"411521202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙仙乡",
 		"parentCode":"411521"
 	},
@@ -123,7 +123,7 @@
 		"code":"411521204",
 		"fullCode":"411521204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定远乡",
 		"parentCode":"411521"
 	},
@@ -131,7 +131,7 @@
 		"code":"411521205",
 		"fullCode":"411521205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山店乡",
 		"parentCode":"411521"
 	},
@@ -139,7 +139,7 @@
 		"code":"411521207",
 		"fullCode":"411521207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱堂乡",
 		"parentCode":"411521"
 	},
@@ -147,7 +147,7 @@
 		"code":"411521208",
 		"fullCode":"411521208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尤店乡",
 		"parentCode":"411521"
 	},
@@ -155,7 +155,7 @@
 		"code":"411521209",
 		"fullCode":"411521209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高店乡",
 		"parentCode":"411521"
 	},
@@ -163,7 +163,7 @@
 		"code":"411521400",
 		"fullCode":"411521400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河南省五一农场",
 		"parentCode":"411521"
 	}

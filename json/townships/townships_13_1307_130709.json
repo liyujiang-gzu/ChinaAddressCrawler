@@ -3,7 +3,7 @@
 		"code":"130709100",
 		"fullCode":"130709100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湾子镇",
 		"parentCode":"130709"
 	},
@@ -11,7 +11,7 @@
 		"code":"130709101",
 		"fullCode":"130709101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高家营镇",
 		"parentCode":"130709"
 	},
@@ -19,7 +19,7 @@
 		"code":"130709200",
 		"fullCode":"130709200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四台嘴乡",
 		"parentCode":"130709"
 	},
@@ -27,7 +27,7 @@
 		"code":"130709201",
 		"fullCode":"130709201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗营乡",
 		"parentCode":"130709"
 	},
@@ -35,7 +35,7 @@
 		"code":"130709202",
 		"fullCode":"130709202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石窑子乡",
 		"parentCode":"130709"
 	},
@@ -43,7 +43,7 @@
 		"code":"130709203",
 		"fullCode":"130709203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驿马图乡",
 		"parentCode":"130709"
 	},
@@ -51,7 +51,7 @@
 		"code":"130709204",
 		"fullCode":"130709204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石嘴子乡",
 		"parentCode":"130709"
 	},
@@ -59,7 +59,7 @@
 		"code":"130709205",
 		"fullCode":"130709205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮子沟乡",
 		"parentCode":"130709"
 	},
@@ -67,7 +67,7 @@
 		"code":"130709206",
 		"fullCode":"130709206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清三营乡",
 		"parentCode":"130709"
 	},
@@ -75,7 +75,7 @@
 		"code":"130709207",
 		"fullCode":"130709207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白旗乡",
 		"parentCode":"130709"
 	},
@@ -83,7 +83,7 @@
 		"code":"130709400",
 		"fullCode":"130709400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道筹备处",
 		"parentCode":"130709"
 	}

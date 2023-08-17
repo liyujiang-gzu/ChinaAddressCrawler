@@ -3,7 +3,7 @@
 		"code":"420303001",
 		"fullCode":"420303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花果街道",
 		"parentCode":"420303"
 	},
@@ -11,7 +11,7 @@
 		"code":"420303002",
 		"fullCode":"420303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红卫街道",
 		"parentCode":"420303"
 	},
@@ -19,7 +19,7 @@
 		"code":"420303003",
 		"fullCode":"420303003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车城路街道",
 		"parentCode":"420303"
 	},
@@ -27,7 +27,7 @@
 		"code":"420303004",
 		"fullCode":"420303004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉江路街道",
 		"parentCode":"420303"
 	},
@@ -35,7 +35,7 @@
 		"code":"420303100",
 		"fullCode":"420303100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄龙镇",
 		"parentCode":"420303"
 	},
@@ -43,7 +43,7 @@
 		"code":"420303101",
 		"fullCode":"420303101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏林镇",
 		"parentCode":"420303"
 	},
@@ -51,7 +51,7 @@
 		"code":"420303200",
 		"fullCode":"420303200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方滩乡",
 		"parentCode":"420303"
 	},
@@ -59,7 +59,7 @@
 		"code":"420303201",
 		"fullCode":"420303201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西沟乡",
 		"parentCode":"420303"
 	},
@@ -67,7 +67,7 @@
 		"code":"420303400",
 		"fullCode":"420303400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城开发区",
 		"parentCode":"420303"
 	},
@@ -75,7 +75,7 @@
 		"code":"420303401",
 		"fullCode":"420303401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十堰工业新区",
 		"parentCode":"420303"
 	}

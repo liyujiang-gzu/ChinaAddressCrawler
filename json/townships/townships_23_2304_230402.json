@@ -3,7 +3,7 @@
 		"code":"230402001",
 		"fullCode":"230402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北山街道",
 		"parentCode":"230402"
 	},
@@ -11,7 +11,7 @@
 		"code":"230402002",
 		"fullCode":"230402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红军街道",
 		"parentCode":"230402"
 	},
@@ -19,7 +19,7 @@
 		"code":"230402003",
 		"fullCode":"230402003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明街道",
 		"parentCode":"230402"
 	},
@@ -27,7 +27,7 @@
 		"code":"230402004",
 		"fullCode":"230402004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利街道",
 		"parentCode":"230402"
 	},
@@ -35,7 +35,7 @@
 		"code":"230402005",
 		"fullCode":"230402005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南翼街道",
 		"parentCode":"230402"
 	}

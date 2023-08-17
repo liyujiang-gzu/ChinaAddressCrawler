@@ -3,7 +3,7 @@
 		"code":"321071050",
 		"fullCode":"321071050000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扬子津街道",
 		"parentCode":"321071"
 	},
@@ -11,7 +11,7 @@
 		"code":"321071051",
 		"fullCode":"321071051000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文汇街道",
 		"parentCode":"321071"
 	},
@@ -19,7 +19,7 @@
 		"code":"321071150",
 		"fullCode":"321071150000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"施桥镇",
 		"parentCode":"321071"
 	},
@@ -27,7 +27,7 @@
 		"code":"321071151",
 		"fullCode":"321071151000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里镇",
 		"parentCode":"321071"
 	},
@@ -35,7 +35,7 @@
 		"code":"321071152",
 		"fullCode":"321071152000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朴席镇",
 		"parentCode":"321071"
 	}

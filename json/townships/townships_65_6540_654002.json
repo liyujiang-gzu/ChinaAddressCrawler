@@ -3,7 +3,7 @@
 		"code":"654002001",
 		"fullCode":"654002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨依布依街道",
 		"parentCode":"654002"
 	},
@@ -11,7 +11,7 @@
 		"code":"654002002",
 		"fullCode":"654002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墩买里街道",
 		"parentCode":"654002"
 	},
@@ -19,7 +19,7 @@
 		"code":"654002003",
 		"fullCode":"654002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊犁河路街道",
 		"parentCode":"654002"
 	},
@@ -27,7 +27,7 @@
 		"code":"654002004",
 		"fullCode":"654002004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喀赞其街道",
 		"parentCode":"654002"
 	},
@@ -35,7 +35,7 @@
 		"code":"654002005",
 		"fullCode":"654002005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都来提巴格街道",
 		"parentCode":"654002"
 	},
@@ -43,7 +43,7 @@
 		"code":"654002006",
 		"fullCode":"654002006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琼科瑞克街道",
 		"parentCode":"654002"
 	},
@@ -51,7 +51,7 @@
 		"code":"654002007",
 		"fullCode":"654002007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"艾兰木巴格街道",
 		"parentCode":"654002"
 	},
@@ -59,7 +59,7 @@
 		"code":"654002008",
 		"fullCode":"654002008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放路街道",
 		"parentCode":"654002"
 	},
@@ -67,7 +67,7 @@
 		"code":"654002100",
 		"fullCode":"654002100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦岱镇",
 		"parentCode":"654002"
 	},
@@ -75,7 +75,7 @@
 		"code":"654002101",
 		"fullCode":"654002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘津镇",
 		"parentCode":"654002"
 	},
@@ -83,7 +83,7 @@
 		"code":"654002102",
 		"fullCode":"654002102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英也尔镇",
 		"parentCode":"654002"
 	},
@@ -91,7 +91,7 @@
 		"code":"654002103",
 		"fullCode":"654002103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达达木图镇",
 		"parentCode":"654002"
 	},
@@ -99,7 +99,7 @@
 		"code":"654002201",
 		"fullCode":"654002201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉宾乡",
 		"parentCode":"654002"
 	},
@@ -107,7 +107,7 @@
 		"code":"654002202",
 		"fullCode":"654002202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔什科瑞克乡",
 		"parentCode":"654002"
 	},
@@ -115,7 +115,7 @@
 		"code":"654002203",
 		"fullCode":"654002203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喀尔墩乡",
 		"parentCode":"654002"
 	},
@@ -123,7 +123,7 @@
 		"code":"654002204",
 		"fullCode":"654002204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托格拉克乡",
 		"parentCode":"654002"
 	},
@@ -131,7 +131,7 @@
 		"code":"654002205",
 		"fullCode":"654002205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克伯克于孜乡",
 		"parentCode":"654002"
 	},
@@ -139,7 +139,7 @@
 		"code":"654002403",
 		"fullCode":"654002403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊宁市边境经济合作区",
 		"parentCode":"654002"
 	},
@@ -147,7 +147,7 @@
 		"code":"654002404",
 		"fullCode":"654002404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊犁河南岸新区",
 		"parentCode":"654002"
 	}

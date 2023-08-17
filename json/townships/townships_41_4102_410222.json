@@ -3,7 +3,7 @@
 		"code":"410222001",
 		"fullCode":"410222001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"咸平街道",
 		"parentCode":"410222"
 	},
@@ -11,7 +11,7 @@
 		"code":"410222101",
 		"fullCode":"410222101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竖岗镇",
 		"parentCode":"410222"
 	},
@@ -19,7 +19,7 @@
 		"code":"410222102",
 		"fullCode":"410222102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉皇庙镇",
 		"parentCode":"410222"
 	},
@@ -27,7 +27,7 @@
 		"code":"410222103",
 		"fullCode":"410222103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四所楼镇",
 		"parentCode":"410222"
 	},
@@ -35,7 +35,7 @@
 		"code":"410222104",
 		"fullCode":"410222104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱砂镇",
 		"parentCode":"410222"
 	},
@@ -43,7 +43,7 @@
 		"code":"410222105",
 		"fullCode":"410222105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长智镇",
 		"parentCode":"410222"
 	},
@@ -51,7 +51,7 @@
 		"code":"410222200",
 		"fullCode":"410222200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冯庄乡",
 		"parentCode":"410222"
 	},
@@ -59,7 +59,7 @@
 		"code":"410222201",
 		"fullCode":"410222201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙营乡",
 		"parentCode":"410222"
 	},
@@ -67,7 +67,7 @@
 		"code":"410222202",
 		"fullCode":"410222202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大岗李乡",
 		"parentCode":"410222"
 	},
@@ -75,7 +75,7 @@
 		"code":"410222203",
 		"fullCode":"410222203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邸阁乡",
 		"parentCode":"410222"
 	},
@@ -83,7 +83,7 @@
 		"code":"410222204",
 		"fullCode":"410222204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"练城乡",
 		"parentCode":"410222"
 	},
@@ -91,7 +91,7 @@
 		"code":"410222205",
 		"fullCode":"410222205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"厉庄乡",
 		"parentCode":"410222"
 	}

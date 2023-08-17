@@ -3,7 +3,7 @@
 		"code":"511002",
 		"fullCode":"511002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"市中区",
 		"parentCode":"5110"
 	},
@@ -11,7 +11,7 @@
 		"code":"511011",
 		"fullCode":"511011000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东兴区",
 		"parentCode":"5110"
 	},
@@ -19,7 +19,7 @@
 		"code":"511024",
 		"fullCode":"511024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"威远县",
 		"parentCode":"5110"
 	},
@@ -27,7 +27,7 @@
 		"code":"511025",
 		"fullCode":"511025000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"资中县",
 		"parentCode":"5110"
 	},
@@ -35,7 +35,7 @@
 		"code":"511083",
 		"fullCode":"511083000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"隆昌市",
 		"parentCode":"5110"
 	}

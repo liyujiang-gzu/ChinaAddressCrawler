@@ -3,7 +3,7 @@
 		"code":"652323100",
 		"fullCode":"652323100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼图壁镇",
 		"parentCode":"652323"
 	},
@@ -11,7 +11,7 @@
 		"code":"652323101",
 		"fullCode":"652323101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大丰镇",
 		"parentCode":"652323"
 	},
@@ -19,7 +19,7 @@
 		"code":"652323102",
 		"fullCode":"652323102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雀尔沟镇",
 		"parentCode":"652323"
 	},
@@ -27,7 +27,7 @@
 		"code":"652323103",
 		"fullCode":"652323103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二十里店镇",
 		"parentCode":"652323"
 	},
@@ -35,7 +35,7 @@
 		"code":"652323104",
 		"fullCode":"652323104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"园户村镇",
 		"parentCode":"652323"
 	},
@@ -43,7 +43,7 @@
 		"code":"652323105",
 		"fullCode":"652323105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五工台镇",
 		"parentCode":"652323"
 	},
@@ -51,7 +51,7 @@
 		"code":"652323201",
 		"fullCode":"652323201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石梯子哈萨克民族乡",
 		"parentCode":"652323"
 	},
@@ -59,7 +59,7 @@
 		"code":"652323402",
 		"fullCode":"652323402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国有林管理中心",
 		"parentCode":"652323"
 	},
@@ -67,7 +67,7 @@
 		"code":"652323405",
 		"fullCode":"652323405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼图壁种牛场",
 		"parentCode":"652323"
 	},
@@ -75,7 +75,7 @@
 		"code":"652323520",
 		"fullCode":"652323520000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一零五团",
 		"parentCode":"652323"
 	},
@@ -83,7 +83,7 @@
 		"code":"652323521",
 		"fullCode":"652323521000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一零六团",
 		"parentCode":"652323"
 	},
@@ -91,7 +91,7 @@
 		"code":"652323523",
 		"fullCode":"652323523000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团芳草湖总场",
 		"parentCode":"652323"
 	}

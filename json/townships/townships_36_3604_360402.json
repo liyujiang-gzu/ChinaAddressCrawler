@@ -3,7 +3,7 @@
 		"code":"360402001",
 		"fullCode":"360402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里街道",
 		"parentCode":"360402"
 	},
@@ -11,7 +11,7 @@
 		"code":"360402002",
 		"fullCode":"360402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里街道",
 		"parentCode":"360402"
 	},
@@ -19,7 +19,7 @@
 		"code":"360402090",
 		"fullCode":"360402090000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七里湖街道",
 		"parentCode":"360402"
 	},
@@ -27,7 +27,7 @@
 		"code":"360402100",
 		"fullCode":"360402100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姑塘镇",
 		"parentCode":"360402"
 	},
@@ -35,7 +35,7 @@
 		"code":"360402101",
 		"fullCode":"360402101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"威家镇",
 		"parentCode":"360402"
 	},
@@ -43,7 +43,7 @@
 		"code":"360402102",
 		"fullCode":"360402102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新港镇",
 		"parentCode":"360402"
 	},
@@ -51,7 +51,7 @@
 		"code":"360402103",
 		"fullCode":"360402103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花镇",
 		"parentCode":"360402"
 	},
@@ -59,7 +59,7 @@
 		"code":"360402105",
 		"fullCode":"360402105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛阳镇",
 		"parentCode":"360402"
 	},
@@ -67,7 +67,7 @@
 		"code":"360402200",
 		"fullCode":"360402200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虞家河乡",
 		"parentCode":"360402"
 	},
@@ -75,7 +75,7 @@
 		"code":"360402201",
 		"fullCode":"360402201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高垅乡",
 		"parentCode":"360402"
 	},
@@ -83,7 +83,7 @@
 		"code":"360402471",
 		"fullCode":"360402471000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庐山林科所",
 		"parentCode":"360402"
 	},
@@ -91,7 +91,7 @@
 		"code":"360402472",
 		"fullCode":"360402472000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庐山生态文化新城",
 		"parentCode":"360402"
 	}

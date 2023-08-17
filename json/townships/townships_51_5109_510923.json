@@ -3,7 +3,7 @@
 		"code":"510923001",
 		"fullCode":"510923001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐井街道",
 		"parentCode":"510923"
 	},
@@ -11,7 +11,7 @@
 		"code":"510923100",
 		"fullCode":"510923100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓬莱镇",
 		"parentCode":"510923"
 	},
@@ -19,7 +19,7 @@
 		"code":"510923101",
 		"fullCode":"510923101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆盛镇",
 		"parentCode":"510923"
 	},
@@ -27,7 +27,7 @@
 		"code":"510923102",
 		"fullCode":"510923102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回马镇",
 		"parentCode":"510923"
 	},
@@ -35,7 +35,7 @@
 		"code":"510923103",
 		"fullCode":"510923103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天保镇",
 		"parentCode":"510923"
 	},
@@ -43,7 +43,7 @@
 		"code":"510923104",
 		"fullCode":"510923104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河边镇",
 		"parentCode":"510923"
 	},
@@ -51,7 +51,7 @@
 		"code":"510923105",
 		"fullCode":"510923105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卓筒井镇",
 		"parentCode":"510923"
 	},
@@ -59,7 +59,7 @@
 		"code":"510923106",
 		"fullCode":"510923106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉峰镇",
 		"parentCode":"510923"
 	},
@@ -67,7 +67,7 @@
 		"code":"510923107",
 		"fullCode":"510923107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象山镇",
 		"parentCode":"510923"
 	},
@@ -75,7 +75,7 @@
 		"code":"510923108",
 		"fullCode":"510923108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金元镇",
 		"parentCode":"510923"
 	}

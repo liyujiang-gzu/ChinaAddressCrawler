@@ -3,7 +3,7 @@
 		"code":"511402001",
 		"fullCode":"511402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通惠街道",
 		"parentCode":"511402"
 	},
@@ -11,7 +11,7 @@
 		"code":"511402002",
 		"fullCode":"511402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石桥街道",
 		"parentCode":"511402"
 	},
@@ -19,7 +19,7 @@
 		"code":"511402003",
 		"fullCode":"511402003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏祠街道",
 		"parentCode":"511402"
 	},
@@ -27,7 +27,7 @@
 		"code":"511402102",
 		"fullCode":"511402102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和镇",
 		"parentCode":"511402"
 	},
@@ -35,7 +35,7 @@
 		"code":"511402104",
 		"fullCode":"511402104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚义镇",
 		"parentCode":"511402"
 	},
@@ -43,7 +43,7 @@
 		"code":"511402105",
 		"fullCode":"511402105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多悦镇",
 		"parentCode":"511402"
 	},
@@ -51,7 +51,7 @@
 		"code":"511402106",
 		"fullCode":"511402106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦家镇",
 		"parentCode":"511402"
 	},
@@ -59,7 +59,7 @@
 		"code":"511402107",
 		"fullCode":"511402107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万胜镇",
 		"parentCode":"511402"
 	},
@@ -67,7 +67,7 @@
 		"code":"511402109",
 		"fullCode":"511402109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思蒙镇",
 		"parentCode":"511402"
 	},
@@ -75,7 +75,7 @@
 		"code":"511402110",
 		"fullCode":"511402110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"修文镇",
 		"parentCode":"511402"
 	},
@@ -83,7 +83,7 @@
 		"code":"511402112",
 		"fullCode":"511402112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松江镇",
 		"parentCode":"511402"
 	},
@@ -91,7 +91,7 @@
 		"code":"511402113",
 		"fullCode":"511402113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇礼镇",
 		"parentCode":"511402"
 	},
@@ -99,7 +99,7 @@
 		"code":"511402114",
 		"fullCode":"511402114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富牛镇",
 		"parentCode":"511402"
 	},
@@ -107,7 +107,7 @@
 		"code":"511402115",
 		"fullCode":"511402115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永寿镇",
 		"parentCode":"511402"
 	},
@@ -115,7 +115,7 @@
 		"code":"511402116",
 		"fullCode":"511402116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三苏镇",
 		"parentCode":"511402"
 	},
@@ -123,7 +123,7 @@
 		"code":"511402121",
 		"fullCode":"511402121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复兴镇",
 		"parentCode":"511402"
 	}

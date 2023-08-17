@@ -3,7 +3,7 @@
 		"code":"150625100",
 		"fullCode":"150625100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锡尼镇",
 		"parentCode":"150625"
 	},
@@ -11,7 +11,7 @@
 		"code":"150625101",
 		"fullCode":"150625101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴拉贡镇",
 		"parentCode":"150625"
 	},
@@ -19,7 +19,7 @@
 		"code":"150625102",
 		"fullCode":"150625102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉日嘎朗图镇",
 		"parentCode":"150625"
 	},
@@ -27,7 +27,7 @@
 		"code":"150625103",
 		"fullCode":"150625103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"独贵塔拉镇",
 		"parentCode":"150625"
 	},
@@ -35,7 +35,7 @@
 		"code":"150625104",
 		"fullCode":"150625104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼和木独镇",
 		"parentCode":"150625"
 	},
@@ -43,7 +43,7 @@
 		"code":"150625200",
 		"fullCode":"150625200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊和乌素苏木",
 		"parentCode":"150625"
 	},
@@ -51,7 +51,7 @@
 		"code":"150625400",
 		"fullCode":"150625400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内蒙古鄂尔多斯杭锦经济开发区",
 		"parentCode":"150625"
 	}

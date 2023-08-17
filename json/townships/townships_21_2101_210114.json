@@ -3,7 +3,7 @@
 		"code":"210114001",
 		"fullCode":"210114001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎宾路街道",
 		"parentCode":"210114"
 	},
@@ -11,7 +11,7 @@
 		"code":"210114003",
 		"fullCode":"210114003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陵西街道",
 		"parentCode":"210114"
 	},
@@ -19,7 +19,7 @@
 		"code":"210114007",
 		"fullCode":"210114007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北陵街道",
 		"parentCode":"210114"
 	},
@@ -27,7 +27,7 @@
 		"code":"210114009",
 		"fullCode":"210114009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙岭街道",
 		"parentCode":"210114"
 	},
@@ -35,7 +35,7 @@
 		"code":"210114010",
 		"fullCode":"210114010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南阳湖街道",
 		"parentCode":"210114"
 	},
@@ -43,7 +43,7 @@
 		"code":"210114011",
 		"fullCode":"210114011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东湖街道",
 		"parentCode":"210114"
 	},
@@ -51,7 +51,7 @@
 		"code":"210114012",
 		"fullCode":"210114012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平罗街道",
 		"parentCode":"210114"
 	},
@@ -59,7 +59,7 @@
 		"code":"210114013",
 		"fullCode":"210114013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马三家街道",
 		"parentCode":"210114"
 	},
@@ -67,7 +67,7 @@
 		"code":"210114014",
 		"fullCode":"210114014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"造化街道",
 		"parentCode":"210114"
 	},
@@ -75,7 +75,7 @@
 		"code":"210114016",
 		"fullCode":"210114016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光辉街道",
 		"parentCode":"210114"
 	},
@@ -83,7 +83,7 @@
 		"code":"210114401",
 		"fullCode":"210114401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马三家强制隔离戒毒所",
 		"parentCode":"210114"
 	},
@@ -91,7 +91,7 @@
 		"code":"210114402",
 		"fullCode":"210114402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光辉农场",
 		"parentCode":"210114"
 	},
@@ -99,7 +99,7 @@
 		"code":"210114404",
 		"fullCode":"210114404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"监狱城",
 		"parentCode":"210114"
 	}

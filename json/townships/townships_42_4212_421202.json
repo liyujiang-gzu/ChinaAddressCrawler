@@ -3,7 +3,7 @@
 		"code":"421202001",
 		"fullCode":"421202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉街道",
 		"parentCode":"421202"
 	},
@@ -11,7 +11,7 @@
 		"code":"421202002",
 		"fullCode":"421202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浮山街道",
 		"parentCode":"421202"
 	},
@@ -19,7 +19,7 @@
 		"code":"421202003",
 		"fullCode":"421202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安街道",
 		"parentCode":"421202"
 	},
@@ -27,7 +27,7 @@
 		"code":"421202100",
 		"fullCode":"421202100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汀泗桥镇",
 		"parentCode":"421202"
 	},
@@ -35,7 +35,7 @@
 		"code":"421202101",
 		"fullCode":"421202101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳湖镇",
 		"parentCode":"421202"
 	},
@@ -43,7 +43,7 @@
 		"code":"421202102",
 		"fullCode":"421202102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官埠桥镇",
 		"parentCode":"421202"
 	},
@@ -51,7 +51,7 @@
 		"code":"421202103",
 		"fullCode":"421202103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横沟桥镇",
 		"parentCode":"421202"
 	},
@@ -59,7 +59,7 @@
 		"code":"421202104",
 		"fullCode":"421202104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贺胜桥镇",
 		"parentCode":"421202"
 	},
@@ -67,7 +67,7 @@
 		"code":"421202105",
 		"fullCode":"421202105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双溪桥镇",
 		"parentCode":"421202"
 	},
@@ -75,7 +75,7 @@
 		"code":"421202106",
 		"fullCode":"421202106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马桥镇",
 		"parentCode":"421202"
 	},
@@ -83,7 +83,7 @@
 		"code":"421202107",
 		"fullCode":"421202107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂花镇",
 		"parentCode":"421202"
 	},
@@ -91,7 +91,7 @@
 		"code":"421202108",
 		"fullCode":"421202108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高桥镇",
 		"parentCode":"421202"
 	},
@@ -99,7 +99,7 @@
 		"code":"421202200",
 		"fullCode":"421202200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大幕乡",
 		"parentCode":"421202"
 	},
@@ -107,7 +107,7 @@
 		"code":"421202450",
 		"fullCode":"421202450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳湖奶牛良种场",
 		"parentCode":"421202"
 	},
@@ -115,7 +115,7 @@
 		"code":"421202451",
 		"fullCode":"421202451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"咸安商贸物流区",
 		"parentCode":"421202"
 	},
@@ -123,7 +123,7 @@
 		"code":"421202570",
 		"fullCode":"421202570000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"咸宁市经济技术开发区",
 		"parentCode":"421202"
 	},
@@ -131,7 +131,7 @@
 		"code":"421202571",
 		"fullCode":"421202571000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖北咸安经济开发区",
 		"parentCode":"421202"
 	}

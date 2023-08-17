@@ -3,7 +3,7 @@
 		"code":"540323100",
 		"fullCode":"540323100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"类乌齐镇",
 		"parentCode":"540323"
 	},
@@ -11,7 +11,7 @@
 		"code":"540323101",
 		"fullCode":"540323101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑多镇",
 		"parentCode":"540323"
 	},
@@ -19,7 +19,7 @@
 		"code":"540323200",
 		"fullCode":"540323200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲桑卡乡",
 		"parentCode":"540323"
 	},
@@ -27,7 +27,7 @@
 		"code":"540323201",
 		"fullCode":"540323201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长毛岭乡",
 		"parentCode":"540323"
 	},
@@ -35,7 +35,7 @@
 		"code":"540323202",
 		"fullCode":"540323202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗色乡",
 		"parentCode":"540323"
 	},
@@ -43,7 +43,7 @@
 		"code":"540323203",
 		"fullCode":"540323203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉多乡",
 		"parentCode":"540323"
 	},
@@ -51,7 +51,7 @@
 		"code":"540323204",
 		"fullCode":"540323204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宾达乡",
 		"parentCode":"540323"
 	},
@@ -59,7 +59,7 @@
 		"code":"540323205",
 		"fullCode":"540323205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡玛多乡",
 		"parentCode":"540323"
 	},
@@ -67,7 +67,7 @@
 		"code":"540323206",
 		"fullCode":"540323206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚卡乡",
 		"parentCode":"540323"
 	},
@@ -75,7 +75,7 @@
 		"code":"540323207",
 		"fullCode":"540323207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伊日乡",
 		"parentCode":"540323"
 	}

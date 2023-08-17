@@ -3,7 +3,7 @@
 		"code":"370115001",
 		"fullCode":"370115001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济阳街道",
 		"parentCode":"370115"
 	},
@@ -11,7 +11,7 @@
 		"code":"370115002",
 		"fullCode":"370115002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济北街道",
 		"parentCode":"370115"
 	},
@@ -19,7 +19,7 @@
 		"code":"370115003",
 		"fullCode":"370115003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崔寨街道",
 		"parentCode":"370115"
 	},
@@ -27,7 +27,7 @@
 		"code":"370115004",
 		"fullCode":"370115004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙耿街道",
 		"parentCode":"370115"
 	},
@@ -35,7 +35,7 @@
 		"code":"370115005",
 		"fullCode":"370115005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回河街道",
 		"parentCode":"370115"
 	},
@@ -43,7 +43,7 @@
 		"code":"370115006",
 		"fullCode":"370115006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平街道",
 		"parentCode":"370115"
 	},
@@ -51,7 +51,7 @@
 		"code":"370115007",
 		"fullCode":"370115007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"垛石街道",
 		"parentCode":"370115"
 	},
@@ -59,7 +59,7 @@
 		"code":"370115008",
 		"fullCode":"370115008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲堤街道",
 		"parentCode":"370115"
 	},
@@ -67,7 +67,7 @@
 		"code":"370115104",
 		"fullCode":"370115104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁风镇",
 		"parentCode":"370115"
 	},
@@ -75,7 +75,7 @@
 		"code":"370115110",
 		"fullCode":"370115110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新市镇",
 		"parentCode":"370115"
 	}

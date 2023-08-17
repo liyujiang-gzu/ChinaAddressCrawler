@@ -3,7 +3,7 @@
 		"code":"411723001",
 		"fullCode":"411723001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古槐街道",
 		"parentCode":"411723"
 	},
@@ -11,7 +11,7 @@
 		"code":"411723002",
 		"fullCode":"411723002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河街道",
 		"parentCode":"411723"
 	},
@@ -19,7 +19,7 @@
 		"code":"411723003",
 		"fullCode":"411723003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东皇街道",
 		"parentCode":"411723"
 	},
@@ -27,7 +27,7 @@
 		"code":"411723004",
 		"fullCode":"411723004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭楼街道",
 		"parentCode":"411723"
 	},
@@ -35,7 +35,7 @@
 		"code":"411723101",
 		"fullCode":"411723101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨埠镇",
 		"parentCode":"411723"
 	},
@@ -43,7 +43,7 @@
 		"code":"411723102",
 		"fullCode":"411723102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东和店镇",
 		"parentCode":"411723"
 	},
@@ -51,7 +51,7 @@
 		"code":"411723103",
 		"fullCode":"411723103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙湾镇",
 		"parentCode":"411723"
 	},
@@ -59,7 +59,7 @@
 		"code":"411723104",
 		"fullCode":"411723104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"射桥镇",
 		"parentCode":"411723"
 	},
@@ -67,7 +67,7 @@
 		"code":"411723105",
 		"fullCode":"411723105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西洋店镇",
 		"parentCode":"411723"
 	},
@@ -75,7 +75,7 @@
 		"code":"411723106",
 		"fullCode":"411723106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳城镇",
 		"parentCode":"411723"
 	},
@@ -83,7 +83,7 @@
 		"code":"411723108",
 		"fullCode":"411723108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李屯镇",
 		"parentCode":"411723"
 	},
@@ -91,7 +91,7 @@
 		"code":"411723109",
 		"fullCode":"411723109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万金店镇",
 		"parentCode":"411723"
 	},
@@ -99,7 +99,7 @@
 		"code":"411723110",
 		"fullCode":"411723110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高杨店镇",
 		"parentCode":"411723"
 	},
@@ -107,7 +107,7 @@
 		"code":"411723111",
 		"fullCode":"411723111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万冢镇",
 		"parentCode":"411723"
 	},
@@ -115,7 +115,7 @@
 		"code":"411723202",
 		"fullCode":"411723202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十字路乡",
 		"parentCode":"411723"
 	},
@@ -123,7 +123,7 @@
 		"code":"411723205",
 		"fullCode":"411723205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉皇庙乡",
 		"parentCode":"411723"
 	},
@@ -131,7 +131,7 @@
 		"code":"411723208",
 		"fullCode":"411723208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老王岗乡",
 		"parentCode":"411723"
 	},
@@ -139,7 +139,7 @@
 		"code":"411723209",
 		"fullCode":"411723209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛店乡",
 		"parentCode":"411723"
 	},
@@ -147,7 +147,7 @@
 		"code":"411723211",
 		"fullCode":"411723211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双庙乡",
 		"parentCode":"411723"
 	}

@@ -3,7 +3,7 @@
 		"code":"120103001",
 		"fullCode":"120103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营门街道",
 		"parentCode":"120103"
 	},
@@ -11,7 +11,7 @@
 		"code":"120103002",
 		"fullCode":"120103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下瓦房街道",
 		"parentCode":"120103"
 	},
@@ -19,7 +19,7 @@
 		"code":"120103003",
 		"fullCode":"120103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃园街道",
 		"parentCode":"120103"
 	},
@@ -27,7 +27,7 @@
 		"code":"120103004",
 		"fullCode":"120103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"挂甲寺街道",
 		"parentCode":"120103"
 	},
@@ -35,7 +35,7 @@
 		"code":"120103005",
 		"fullCode":"120103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马场街道",
 		"parentCode":"120103"
 	},
@@ -43,7 +43,7 @@
 		"code":"120103006",
 		"fullCode":"120103006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"越秀路街道",
 		"parentCode":"120103"
 	},
@@ -51,7 +51,7 @@
 		"code":"120103007",
 		"fullCode":"120103007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友谊路街道",
 		"parentCode":"120103"
 	},
@@ -59,7 +59,7 @@
 		"code":"120103008",
 		"fullCode":"120103008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天塔街道",
 		"parentCode":"120103"
 	},
@@ -67,7 +67,7 @@
 		"code":"120103009",
 		"fullCode":"120103009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尖山街道",
 		"parentCode":"120103"
 	},
@@ -75,7 +75,7 @@
 		"code":"120103010",
 		"fullCode":"120103010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈塘庄街道",
 		"parentCode":"120103"
 	},
@@ -83,7 +83,7 @@
 		"code":"120103011",
 		"fullCode":"120103011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳林街道",
 		"parentCode":"120103"
 	},
@@ -91,7 +91,7 @@
 		"code":"120103012",
 		"fullCode":"120103012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东海街道",
 		"parentCode":"120103"
 	},
@@ -99,7 +99,7 @@
 		"code":"120103013",
 		"fullCode":"120103013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅江街道",
 		"parentCode":"120103"
 	},
@@ -107,7 +107,7 @@
 		"code":"120103014",
 		"fullCode":"120103014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太湖路街道",
 		"parentCode":"120103"
 	}

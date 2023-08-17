@@ -3,7 +3,7 @@
 		"code":"513432100",
 		"fullCode":"513432100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明镇",
 		"parentCode":"513432"
 	},
@@ -11,7 +11,7 @@
 		"code":"513432101",
 		"fullCode":"513432101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冕山镇",
 		"parentCode":"513432"
 	},
@@ -19,7 +19,7 @@
 		"code":"513432102",
 		"fullCode":"513432102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红莫镇",
 		"parentCode":"513432"
 	},
@@ -27,7 +27,7 @@
 		"code":"513432103",
 		"fullCode":"513432103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两河口镇",
 		"parentCode":"513432"
 	},
@@ -35,7 +35,7 @@
 		"code":"513432104",
 		"fullCode":"513432104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米市镇",
 		"parentCode":"513432"
 	},
@@ -43,7 +43,7 @@
 		"code":"513432105",
 		"fullCode":"513432105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛哈镇",
 		"parentCode":"513432"
 	},
@@ -51,7 +51,7 @@
 		"code":"513432106",
 		"fullCode":"513432106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼波镇",
 		"parentCode":"513432"
 	},
@@ -59,7 +59,7 @@
 		"code":"513432202",
 		"fullCode":"513432202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贺波洛乡",
 		"parentCode":"513432"
 	},
@@ -67,7 +67,7 @@
 		"code":"513432203",
 		"fullCode":"513432203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁基乡",
 		"parentCode":"513432"
 	},
@@ -75,7 +75,7 @@
 		"code":"513432204",
 		"fullCode":"513432204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李子乡",
 		"parentCode":"513432"
 	},
@@ -83,7 +83,7 @@
 		"code":"513432205",
 		"fullCode":"513432205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北山乡",
 		"parentCode":"513432"
 	},
@@ -91,7 +91,7 @@
 		"code":"513432208",
 		"fullCode":"513432208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"且拖乡",
 		"parentCode":"513432"
 	},
@@ -99,7 +99,7 @@
 		"code":"513432210",
 		"fullCode":"513432210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙马拉达乡",
 		"parentCode":"513432"
 	}

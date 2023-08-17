@@ -3,7 +3,7 @@
 		"code":"510107001",
 		"fullCode":"510107001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浆洗街街道",
 		"parentCode":"510107"
 	},
@@ -11,7 +11,7 @@
 		"code":"510107004",
 		"fullCode":"510107004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望江路街道",
 		"parentCode":"510107"
 	},
@@ -19,7 +19,7 @@
 		"code":"510107005",
 		"fullCode":"510107005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉林街道",
 		"parentCode":"510107"
 	},
@@ -27,7 +27,7 @@
 		"code":"510107007",
 		"fullCode":"510107007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火车南站街道",
 		"parentCode":"510107"
 	},
@@ -35,7 +35,7 @@
 		"code":"510107009",
 		"fullCode":"510107009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋阳街道",
 		"parentCode":"510107"
 	},
@@ -43,7 +43,7 @@
 		"code":"510107010",
 		"fullCode":"510107010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红牌楼街道",
 		"parentCode":"510107"
 	},
@@ -51,7 +51,7 @@
 		"code":"510107011",
 		"fullCode":"510107011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"簇桥街道",
 		"parentCode":"510107"
 	},
@@ -59,7 +59,7 @@
 		"code":"510107012",
 		"fullCode":"510107012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"机投桥街道",
 		"parentCode":"510107"
 	},
@@ -67,7 +67,7 @@
 		"code":"510107013",
 		"fullCode":"510107013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金花桥街道",
 		"parentCode":"510107"
 	},
@@ -75,7 +75,7 @@
 		"code":"510107014",
 		"fullCode":"510107014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"簇锦街道",
 		"parentCode":"510107"
 	},
@@ -83,7 +83,7 @@
 		"code":"510107015",
 		"fullCode":"510107015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华兴街道",
 		"parentCode":"510107"
 	},
@@ -91,7 +91,7 @@
 		"code":"510107061",
 		"fullCode":"510107061000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芳草街街道",
 		"parentCode":"510107"
 	},
@@ -99,7 +99,7 @@
 		"code":"510107062",
 		"fullCode":"510107062000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖家河街道",
 		"parentCode":"510107"
 	},
@@ -107,7 +107,7 @@
 		"code":"510107063",
 		"fullCode":"510107063000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石羊街道",
 		"parentCode":"510107"
 	},
@@ -115,7 +115,7 @@
 		"code":"510107064",
 		"fullCode":"510107064000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂溪街道",
 		"parentCode":"510107"
 	}

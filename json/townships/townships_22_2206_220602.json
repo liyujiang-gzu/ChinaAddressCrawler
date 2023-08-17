@@ -3,7 +3,7 @@
 		"code":"220602001",
 		"fullCode":"220602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新建街道",
 		"parentCode":"220602"
 	},
@@ -11,7 +11,7 @@
 		"code":"220602002",
 		"fullCode":"220602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通沟街道",
 		"parentCode":"220602"
 	},
@@ -19,7 +19,7 @@
 		"code":"220602003",
 		"fullCode":"220602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴街道",
 		"parentCode":"220602"
 	},
@@ -27,7 +27,7 @@
 		"code":"220602004",
 		"fullCode":"220602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街道",
 		"parentCode":"220602"
 	},
@@ -35,7 +35,7 @@
 		"code":"220602005",
 		"fullCode":"220602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"220602"
 	},
@@ -43,7 +43,7 @@
 		"code":"220602006",
 		"fullCode":"220602006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江北街道",
 		"parentCode":"220602"
 	},
@@ -51,7 +51,7 @@
 		"code":"220602007",
 		"fullCode":"220602007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口街道",
 		"parentCode":"220602"
 	},
@@ -59,7 +59,7 @@
 		"code":"220602008",
 		"fullCode":"220602008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板石街道",
 		"parentCode":"220602"
 	},
@@ -67,7 +67,7 @@
 		"code":"220602100",
 		"fullCode":"220602100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七道江镇",
 		"parentCode":"220602"
 	},
@@ -75,7 +75,7 @@
 		"code":"220602101",
 		"fullCode":"220602101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六道江镇",
 		"parentCode":"220602"
 	},
@@ -83,7 +83,7 @@
 		"code":"220602102",
 		"fullCode":"220602102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红土崖镇",
 		"parentCode":"220602"
 	},
@@ -91,7 +91,7 @@
 		"code":"220602103",
 		"fullCode":"220602103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道沟镇",
 		"parentCode":"220602"
 	}

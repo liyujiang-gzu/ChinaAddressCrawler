@@ -3,7 +3,7 @@
 		"code":"533301",
 		"fullCode":"533301000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泸水市",
 		"parentCode":"5333"
 	},
@@ -11,7 +11,7 @@
 		"code":"533323",
 		"fullCode":"533323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"福贡县",
 		"parentCode":"5333"
 	},
@@ -19,7 +19,7 @@
 		"code":"533324",
 		"fullCode":"533324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"贡山独龙族怒族自治县",
 		"parentCode":"5333"
 	},
@@ -27,7 +27,7 @@
 		"code":"533325",
 		"fullCode":"533325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兰坪白族普米族自治县",
 		"parentCode":"5333"
 	}

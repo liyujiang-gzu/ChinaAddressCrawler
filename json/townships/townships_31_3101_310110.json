@@ -3,7 +3,7 @@
 		"code":"310110001",
 		"fullCode":"310110001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定海路街道",
 		"parentCode":"310110"
 	},
@@ -11,7 +11,7 @@
 		"code":"310110006",
 		"fullCode":"310110006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平凉路街道",
 		"parentCode":"310110"
 	},
@@ -19,7 +19,7 @@
 		"code":"310110008",
 		"fullCode":"310110008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江浦路街道",
 		"parentCode":"310110"
 	},
@@ -27,7 +27,7 @@
 		"code":"310110009",
 		"fullCode":"310110009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四平路街道",
 		"parentCode":"310110"
 	},
@@ -35,7 +35,7 @@
 		"code":"310110012",
 		"fullCode":"310110012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"控江路街道",
 		"parentCode":"310110"
 	},
@@ -43,7 +43,7 @@
 		"code":"310110013",
 		"fullCode":"310110013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长白新村街道",
 		"parentCode":"310110"
 	},
@@ -51,7 +51,7 @@
 		"code":"310110015",
 		"fullCode":"310110015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延吉新村街道",
 		"parentCode":"310110"
 	},
@@ -59,7 +59,7 @@
 		"code":"310110016",
 		"fullCode":"310110016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"殷行街道",
 		"parentCode":"310110"
 	},
@@ -67,7 +67,7 @@
 		"code":"310110018",
 		"fullCode":"310110018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥街道",
 		"parentCode":"310110"
 	},
@@ -75,7 +75,7 @@
 		"code":"310110019",
 		"fullCode":"310110019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五角场街道",
 		"parentCode":"310110"
 	},
@@ -83,7 +83,7 @@
 		"code":"310110020",
 		"fullCode":"310110020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新江湾城街道",
 		"parentCode":"310110"
 	},
@@ -91,7 +91,7 @@
 		"code":"310110021",
 		"fullCode":"310110021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长海路街道",
 		"parentCode":"310110"
 	}

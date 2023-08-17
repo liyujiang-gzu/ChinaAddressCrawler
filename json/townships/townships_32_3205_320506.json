@@ -3,7 +3,7 @@
 		"code":"320506001",
 		"fullCode":"320506001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长桥街道",
 		"parentCode":"320506"
 	},
@@ -11,7 +11,7 @@
 		"code":"320506003",
 		"fullCode":"320506003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"越溪街道",
 		"parentCode":"320506"
 	},
@@ -19,7 +19,7 @@
 		"code":"320506004",
 		"fullCode":"320506004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭巷街道",
 		"parentCode":"320506"
 	},
@@ -27,7 +27,7 @@
 		"code":"320506005",
 		"fullCode":"320506005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横泾街道",
 		"parentCode":"320506"
 	},
@@ -35,7 +35,7 @@
 		"code":"320506006",
 		"fullCode":"320506006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香山街道",
 		"parentCode":"320506"
 	},
@@ -43,7 +43,7 @@
 		"code":"320506009",
 		"fullCode":"320506009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"320506"
 	},
@@ -51,7 +51,7 @@
 		"code":"320506010",
 		"fullCode":"320506010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太湖街道",
 		"parentCode":"320506"
 	},
@@ -59,7 +59,7 @@
 		"code":"320506100",
 		"fullCode":"320506100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甪直镇",
 		"parentCode":"320506"
 	},
@@ -67,7 +67,7 @@
 		"code":"320506103",
 		"fullCode":"320506103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木渎镇",
 		"parentCode":"320506"
 	},
@@ -75,7 +75,7 @@
 		"code":"320506104",
 		"fullCode":"320506104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胥口镇",
 		"parentCode":"320506"
 	},
@@ -83,7 +83,7 @@
 		"code":"320506107",
 		"fullCode":"320506107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山镇",
 		"parentCode":"320506"
 	},
@@ -91,7 +91,7 @@
 		"code":"320506108",
 		"fullCode":"320506108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光福镇",
 		"parentCode":"320506"
 	},
@@ -99,7 +99,7 @@
 		"code":"320506109",
 		"fullCode":"320506109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金庭镇",
 		"parentCode":"320506"
 	},
@@ -107,7 +107,7 @@
 		"code":"320506110",
 		"fullCode":"320506110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临湖镇",
 		"parentCode":"320506"
 	},
@@ -115,7 +115,7 @@
 		"code":"320506400",
 		"fullCode":"320506400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江苏省太湖采石公司",
 		"parentCode":"320506"
 	},
@@ -123,7 +123,7 @@
 		"code":"320506401",
 		"fullCode":"320506401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴中区林场",
 		"parentCode":"320506"
 	},
@@ -131,7 +131,7 @@
 		"code":"320506402",
 		"fullCode":"320506402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西山农业园区",
 		"parentCode":"320506"
 	},
@@ -139,7 +139,7 @@
 		"code":"320506403",
 		"fullCode":"320506403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"穹窿山风景区",
 		"parentCode":"320506"
 	},
@@ -147,7 +147,7 @@
 		"code":"320506404",
 		"fullCode":"320506404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开发区",
 		"parentCode":"320506"
 	},
@@ -155,7 +155,7 @@
 		"code":"320506405",
 		"fullCode":"320506405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国家苏州太湖旅游度假区",
 		"parentCode":"320506"
 	}

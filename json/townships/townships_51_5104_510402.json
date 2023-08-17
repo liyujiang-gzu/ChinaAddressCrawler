@@ -3,7 +3,7 @@
 		"code":"510402001",
 		"fullCode":"510402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大渡口街道",
 		"parentCode":"510402"
 	},
@@ -11,7 +11,7 @@
 		"code":"510402002",
 		"fullCode":"510402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炳草岗街道",
 		"parentCode":"510402"
 	},
@@ -19,7 +19,7 @@
 		"code":"510402005",
 		"fullCode":"510402005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"弄弄坪街道",
 		"parentCode":"510402"
 	},
@@ -27,7 +27,7 @@
 		"code":"510402009",
 		"fullCode":"510402009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓜子坪街道",
 		"parentCode":"510402"
 	},
@@ -35,7 +35,7 @@
 		"code":"510402010",
 		"fullCode":"510402010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东华街道",
 		"parentCode":"510402"
 	},
@@ -43,7 +43,7 @@
 		"code":"510402100",
 		"fullCode":"510402100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银江镇",
 		"parentCode":"510402"
 	}

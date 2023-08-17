@@ -3,7 +3,7 @@
 		"code":"522325001",
 		"fullCode":"522325001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永丰街道",
 		"parentCode":"522325"
 	},
@@ -11,7 +11,7 @@
 		"code":"522325002",
 		"fullCode":"522325002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珉谷街道",
 		"parentCode":"522325"
 	},
@@ -19,7 +19,7 @@
 		"code":"522325003",
 		"fullCode":"522325003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰茂街道",
 		"parentCode":"522325"
 	},
@@ -27,7 +27,7 @@
 		"code":"522325004",
 		"fullCode":"522325004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙兴街道",
 		"parentCode":"522325"
 	},
@@ -35,7 +35,7 @@
 		"code":"522325005",
 		"fullCode":"522325005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双峰街道",
 		"parentCode":"522325"
 	},
@@ -43,7 +43,7 @@
 		"code":"522325101",
 		"fullCode":"522325101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙场镇",
 		"parentCode":"522325"
 	},
@@ -51,7 +51,7 @@
 		"code":"522325102",
 		"fullCode":"522325102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"者相镇",
 		"parentCode":"522325"
 	},
@@ -59,7 +59,7 @@
 		"code":"522325103",
 		"fullCode":"522325103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北盘江镇",
 		"parentCode":"522325"
 	},
@@ -67,7 +67,7 @@
 		"code":"522325104",
 		"fullCode":"522325104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白层镇",
 		"parentCode":"522325"
 	},
@@ -75,7 +75,7 @@
 		"code":"522325105",
 		"fullCode":"522325105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁贡镇",
 		"parentCode":"522325"
 	},
@@ -83,7 +83,7 @@
 		"code":"522325106",
 		"fullCode":"522325106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小屯镇",
 		"parentCode":"522325"
 	},
@@ -91,7 +91,7 @@
 		"code":"522325107",
 		"fullCode":"522325107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长田镇",
 		"parentCode":"522325"
 	},
@@ -99,7 +99,7 @@
 		"code":"522325108",
 		"fullCode":"522325108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙坪镇",
 		"parentCode":"522325"
 	},
@@ -107,7 +107,7 @@
 		"code":"522325109",
 		"fullCode":"522325109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"挽澜镇",
 		"parentCode":"522325"
 	},
@@ -115,7 +115,7 @@
 		"code":"522325200",
 		"fullCode":"522325200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连环乡",
 		"parentCode":"522325"
 	},
@@ -123,7 +123,7 @@
 		"code":"522325204",
 		"fullCode":"522325204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平街乡",
 		"parentCode":"522325"
 	},
@@ -131,7 +131,7 @@
 		"code":"522325205",
 		"fullCode":"522325205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁容乡",
 		"parentCode":"522325"
 	}

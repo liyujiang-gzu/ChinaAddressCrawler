@@ -3,7 +3,7 @@
 		"code":"469001100",
 		"fullCode":"469001100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通什镇",
 		"parentCode":"469001"
 	},
@@ -11,7 +11,7 @@
 		"code":"469001101",
 		"fullCode":"469001101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南圣镇",
 		"parentCode":"469001"
 	},
@@ -19,7 +19,7 @@
 		"code":"469001102",
 		"fullCode":"469001102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛阳镇",
 		"parentCode":"469001"
 	},
@@ -27,7 +27,7 @@
 		"code":"469001103",
 		"fullCode":"469001103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"番阳镇",
 		"parentCode":"469001"
 	},
@@ -35,7 +35,7 @@
 		"code":"469001198",
 		"fullCode":"469001198000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县直辖村级区划",
 		"parentCode":"469001"
 	},
@@ -43,7 +43,7 @@
 		"code":"469001200",
 		"fullCode":"469001200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"畅好乡",
 		"parentCode":"469001"
 	},
@@ -51,7 +51,7 @@
 		"code":"469001201",
 		"fullCode":"469001201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛道乡",
 		"parentCode":"469001"
 	},
@@ -59,7 +59,7 @@
 		"code":"469001202",
 		"fullCode":"469001202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水满乡",
 		"parentCode":"469001"
 	}

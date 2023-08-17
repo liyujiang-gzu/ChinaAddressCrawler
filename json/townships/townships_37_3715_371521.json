@@ -3,7 +3,7 @@
 		"code":"371521001",
 		"fullCode":"371521001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博济桥街道",
 		"parentCode":"371521"
 	},
@@ -11,7 +11,7 @@
 		"code":"371521002",
 		"fullCode":"371521002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侨润街道",
 		"parentCode":"371521"
 	},
@@ -19,7 +19,7 @@
 		"code":"371521003",
 		"fullCode":"371521003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮子楼街道",
 		"parentCode":"371521"
 	},
@@ -27,7 +27,7 @@
 		"code":"371521101",
 		"fullCode":"371521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阎楼镇",
 		"parentCode":"371521"
 	},
@@ -35,7 +35,7 @@
 		"code":"371521103",
 		"fullCode":"371521103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿城镇",
 		"parentCode":"371521"
 	},
@@ -43,7 +43,7 @@
 		"code":"371521104",
 		"fullCode":"371521104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七级镇",
 		"parentCode":"371521"
 	},
@@ -51,7 +51,7 @@
 		"code":"371521105",
 		"fullCode":"371521105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安乐镇",
 		"parentCode":"371521"
 	},
@@ -59,7 +59,7 @@
 		"code":"371521106",
 		"fullCode":"371521106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定水镇",
 		"parentCode":"371521"
 	},
@@ -67,7 +67,7 @@
 		"code":"371521107",
 		"fullCode":"371521107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石佛镇",
 		"parentCode":"371521"
 	},
@@ -75,7 +75,7 @@
 		"code":"371521108",
 		"fullCode":"371521108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李台镇",
 		"parentCode":"371521"
 	},
@@ -83,7 +83,7 @@
 		"code":"371521109",
 		"fullCode":"371521109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寿张镇",
 		"parentCode":"371521"
 	},
@@ -91,7 +91,7 @@
 		"code":"371521111",
 		"fullCode":"371521111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十五里园镇",
 		"parentCode":"371521"
 	},
@@ -99,7 +99,7 @@
 		"code":"371521112",
 		"fullCode":"371521112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张秋镇",
 		"parentCode":"371521"
 	},
@@ -107,7 +107,7 @@
 		"code":"371521113",
 		"fullCode":"371521113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭店屯镇",
 		"parentCode":"371521"
 	},
@@ -115,7 +115,7 @@
 		"code":"371521114",
 		"fullCode":"371521114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖镇",
 		"parentCode":"371521"
 	},
@@ -123,7 +123,7 @@
 		"code":"371521115",
 		"fullCode":"371521115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高庙王镇",
 		"parentCode":"371521"
 	},
@@ -131,7 +131,7 @@
 		"code":"371521116",
 		"fullCode":"371521116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金斗营镇",
 		"parentCode":"371521"
 	},
@@ -139,7 +139,7 @@
 		"code":"371521203",
 		"fullCode":"371521203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大布乡",
 		"parentCode":"371521"
 	}

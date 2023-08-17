@@ -3,7 +3,7 @@
 		"code":"430525001",
 		"fullCode":"430525001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌街道",
 		"parentCode":"430525"
 	},
@@ -11,7 +11,7 @@
 		"code":"430525002",
 		"fullCode":"430525002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪峰街道",
 		"parentCode":"430525"
 	},
@@ -19,7 +19,7 @@
 		"code":"430525003",
 		"fullCode":"430525003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花古街道",
 		"parentCode":"430525"
 	},
@@ -27,7 +27,7 @@
 		"code":"430525101",
 		"fullCode":"430525101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江口镇",
 		"parentCode":"430525"
 	},
@@ -35,7 +35,7 @@
 		"code":"430525102",
 		"fullCode":"430525102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毓兰镇",
 		"parentCode":"430525"
 	},
@@ -43,7 +43,7 @@
 		"code":"430525103",
 		"fullCode":"430525103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高沙镇",
 		"parentCode":"430525"
 	},
@@ -51,7 +51,7 @@
 		"code":"430525104",
 		"fullCode":"430525104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹市镇",
 		"parentCode":"430525"
 	},
@@ -59,7 +59,7 @@
 		"code":"430525105",
 		"fullCode":"430525105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石江镇",
 		"parentCode":"430525"
 	},
@@ -67,7 +67,7 @@
 		"code":"430525106",
 		"fullCode":"430525106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄桥镇",
 		"parentCode":"430525"
 	},
@@ -75,7 +75,7 @@
 		"code":"430525107",
 		"fullCode":"430525107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山门镇",
 		"parentCode":"430525"
 	},
@@ -83,7 +83,7 @@
 		"code":"430525108",
 		"fullCode":"430525108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"醪田镇",
 		"parentCode":"430525"
 	},
@@ -91,7 +91,7 @@
 		"code":"430525109",
 		"fullCode":"430525109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花园镇",
 		"parentCode":"430525"
 	},
@@ -99,7 +99,7 @@
 		"code":"430525110",
 		"fullCode":"430525110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩山镇",
 		"parentCode":"430525"
 	},
@@ -107,7 +107,7 @@
 		"code":"430525111",
 		"fullCode":"430525111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水东镇",
 		"parentCode":"430525"
 	},
@@ -115,7 +115,7 @@
 		"code":"430525112",
 		"fullCode":"430525112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨林镇",
 		"parentCode":"430525"
 	},
@@ -123,7 +123,7 @@
 		"code":"430525113",
 		"fullCode":"430525113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月溪镇",
 		"parentCode":"430525"
 	},
@@ -131,7 +131,7 @@
 		"code":"430525114",
 		"fullCode":"430525114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石柱镇",
 		"parentCode":"430525"
 	},
@@ -139,7 +139,7 @@
 		"code":"430525201",
 		"fullCode":"430525201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古楼乡",
 		"parentCode":"430525"
 	},
@@ -147,7 +147,7 @@
 		"code":"430525202",
 		"fullCode":"430525202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长塘瑶族乡",
 		"parentCode":"430525"
 	},
@@ -155,7 +155,7 @@
 		"code":"430525203",
 		"fullCode":"430525203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗溪瑶族乡",
 		"parentCode":"430525"
 	},
@@ -163,7 +163,7 @@
 		"code":"430525205",
 		"fullCode":"430525205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渣坪乡",
 		"parentCode":"430525"
 	},
@@ -171,7 +171,7 @@
 		"code":"430525211",
 		"fullCode":"430525211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐山乡",
 		"parentCode":"430525"
 	},
@@ -179,7 +179,7 @@
 		"code":"430525212",
 		"fullCode":"430525212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大屋瑶族乡",
 		"parentCode":"430525"
 	},
@@ -187,7 +187,7 @@
 		"code":"430525500",
 		"fullCode":"430525500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶铺茶场管理区",
 		"parentCode":"430525"
 	}

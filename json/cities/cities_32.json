@@ -3,7 +3,7 @@
 		"code":"3201",
 		"fullCode":"320100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"南京市",
 		"parentCode":"32"
 	},
@@ -11,7 +11,7 @@
 		"code":"3202",
 		"fullCode":"320200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"无锡市",
 		"parentCode":"32"
 	},
@@ -19,7 +19,7 @@
 		"code":"3203",
 		"fullCode":"320300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"徐州市",
 		"parentCode":"32"
 	},
@@ -27,7 +27,7 @@
 		"code":"3204",
 		"fullCode":"320400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"常州市",
 		"parentCode":"32"
 	},
@@ -35,7 +35,7 @@
 		"code":"3205",
 		"fullCode":"320500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"苏州市",
 		"parentCode":"32"
 	},
@@ -43,7 +43,7 @@
 		"code":"3206",
 		"fullCode":"320600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"南通市",
 		"parentCode":"32"
 	},
@@ -51,7 +51,7 @@
 		"code":"3207",
 		"fullCode":"320700000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"连云港市",
 		"parentCode":"32"
 	},
@@ -59,7 +59,7 @@
 		"code":"3208",
 		"fullCode":"320800000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"淮安市",
 		"parentCode":"32"
 	},
@@ -67,7 +67,7 @@
 		"code":"3209",
 		"fullCode":"320900000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"盐城市",
 		"parentCode":"32"
 	},
@@ -75,7 +75,7 @@
 		"code":"3210",
 		"fullCode":"321000000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"扬州市",
 		"parentCode":"32"
 	},
@@ -83,7 +83,7 @@
 		"code":"3211",
 		"fullCode":"321100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"镇江市",
 		"parentCode":"32"
 	},
@@ -91,7 +91,7 @@
 		"code":"3212",
 		"fullCode":"321200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"泰州市",
 		"parentCode":"32"
 	},
@@ -99,7 +99,7 @@
 		"code":"3213",
 		"fullCode":"321300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"宿迁市",
 		"parentCode":"32"
 	}

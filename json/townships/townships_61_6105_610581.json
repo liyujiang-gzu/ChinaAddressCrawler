@@ -3,7 +3,7 @@
 		"code":"610581001",
 		"fullCode":"610581001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"610581"
 	},
@@ -11,7 +11,7 @@
 		"code":"610581002",
 		"fullCode":"610581002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金城街道",
 		"parentCode":"610581"
 	},
@@ -19,7 +19,7 @@
 		"code":"610581100",
 		"fullCode":"610581100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门镇",
 		"parentCode":"610581"
 	},
@@ -27,7 +27,7 @@
 		"code":"610581101",
 		"fullCode":"610581101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑树坪镇",
 		"parentCode":"610581"
 	},
@@ -35,7 +35,7 @@
 		"code":"610581103",
 		"fullCode":"610581103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芝川镇",
 		"parentCode":"610581"
 	},
@@ -43,7 +43,7 @@
 		"code":"610581104",
 		"fullCode":"610581104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西庄镇",
 		"parentCode":"610581"
 	},
@@ -51,7 +51,7 @@
 		"code":"610581106",
 		"fullCode":"610581106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芝阳镇",
 		"parentCode":"610581"
 	},
@@ -59,7 +59,7 @@
 		"code":"610581107",
 		"fullCode":"610581107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"610581"
 	}

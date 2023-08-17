@@ -3,7 +3,7 @@
 		"code":"410621001",
 		"fullCode":"410621001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卫溪街道",
 		"parentCode":"410621"
 	},
@@ -11,7 +11,7 @@
 		"code":"410621002",
 		"fullCode":"410621002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浚州街道",
 		"parentCode":"410621"
 	},
@@ -19,7 +19,7 @@
 		"code":"410621003",
 		"fullCode":"410621003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎阳街道",
 		"parentCode":"410621"
 	},
@@ -27,7 +27,7 @@
 		"code":"410621004",
 		"fullCode":"410621004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伾山街道",
 		"parentCode":"410621"
 	},
@@ -35,7 +35,7 @@
 		"code":"410621101",
 		"fullCode":"410621101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"善堂镇",
 		"parentCode":"410621"
 	},
@@ -43,7 +43,7 @@
 		"code":"410621102",
 		"fullCode":"410621102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屯子镇",
 		"parentCode":"410621"
 	},
@@ -51,7 +51,7 @@
 		"code":"410621104",
 		"fullCode":"410621104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新镇镇",
 		"parentCode":"410621"
 	},
@@ -59,7 +59,7 @@
 		"code":"410621105",
 		"fullCode":"410621105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小河镇",
 		"parentCode":"410621"
 	},
@@ -67,7 +67,7 @@
 		"code":"410621107",
 		"fullCode":"410621107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卫贤镇",
 		"parentCode":"410621"
 	},
@@ -75,7 +75,7 @@
 		"code":"410621108",
 		"fullCode":"410621108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王庄镇",
 		"parentCode":"410621"
 	},
@@ -83,7 +83,7 @@
 		"code":"410621109",
 		"fullCode":"410621109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白寺镇",
 		"parentCode":"410621"
 	}

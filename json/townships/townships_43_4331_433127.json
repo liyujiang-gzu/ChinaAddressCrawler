@@ -3,7 +3,7 @@
 		"code":"433127101",
 		"fullCode":"433127101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"首车镇",
 		"parentCode":"433127"
 	},
@@ -11,7 +11,7 @@
 		"code":"433127103",
 		"fullCode":"433127103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芙蓉镇",
 		"parentCode":"433127"
 	},
@@ -19,7 +19,7 @@
 		"code":"433127104",
 		"fullCode":"433127104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永茂镇",
 		"parentCode":"433127"
 	},
@@ -27,7 +27,7 @@
 		"code":"433127108",
 		"fullCode":"433127108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小溪镇",
 		"parentCode":"433127"
 	},
@@ -35,7 +35,7 @@
 		"code":"433127109",
 		"fullCode":"433127109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青坪镇",
 		"parentCode":"433127"
 	},
@@ -43,7 +43,7 @@
 		"code":"433127112",
 		"fullCode":"433127112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石堤镇",
 		"parentCode":"433127"
 	},
@@ -51,7 +51,7 @@
 		"code":"433127113",
 		"fullCode":"433127113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万坪镇",
 		"parentCode":"433127"
 	},
@@ -59,7 +59,7 @@
 		"code":"433127114",
 		"fullCode":"433127114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔卧镇",
 		"parentCode":"433127"
 	},
@@ -67,7 +67,7 @@
 		"code":"433127115",
 		"fullCode":"433127115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"砂坝镇",
 		"parentCode":"433127"
 	},
@@ -75,7 +75,7 @@
 		"code":"433127116",
 		"fullCode":"433127116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵溪镇",
 		"parentCode":"433127"
 	},
@@ -83,7 +83,7 @@
 		"code":"433127117",
 		"fullCode":"433127117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松柏镇",
 		"parentCode":"433127"
 	},
@@ -91,7 +91,7 @@
 		"code":"433127118",
 		"fullCode":"433127118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泽家镇",
 		"parentCode":"433127"
 	},
@@ -99,7 +99,7 @@
 		"code":"433127200",
 		"fullCode":"433127200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两岔乡",
 		"parentCode":"433127"
 	},
@@ -107,7 +107,7 @@
 		"code":"433127202",
 		"fullCode":"433127202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西歧乡",
 		"parentCode":"433127"
 	},
@@ -115,7 +115,7 @@
 		"code":"433127203",
 		"fullCode":"433127203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"对山乡",
 		"parentCode":"433127"
 	},
@@ -123,7 +123,7 @@
 		"code":"433127210",
 		"fullCode":"433127210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坪乡",
 		"parentCode":"433127"
 	},
@@ -131,7 +131,7 @@
 		"code":"433127216",
 		"fullCode":"433127216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朗溪乡",
 		"parentCode":"433127"
 	},
@@ -139,7 +139,7 @@
 		"code":"433127220",
 		"fullCode":"433127220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"润雅乡",
 		"parentCode":"433127"
 	},
@@ -147,7 +147,7 @@
 		"code":"433127222",
 		"fullCode":"433127222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车坪乡",
 		"parentCode":"433127"
 	},
@@ -155,7 +155,7 @@
 		"code":"433127228",
 		"fullCode":"433127228000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛坝乡",
 		"parentCode":"433127"
 	},
@@ -163,7 +163,7 @@
 		"code":"433127229",
 		"fullCode":"433127229000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万民乡",
 		"parentCode":"433127"
 	},
@@ -171,7 +171,7 @@
 		"code":"433127230",
 		"fullCode":"433127230000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐井乡",
 		"parentCode":"433127"
 	},
@@ -179,7 +179,7 @@
 		"code":"433127238",
 		"fullCode":"433127238000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"颗砂乡",
 		"parentCode":"433127"
 	}

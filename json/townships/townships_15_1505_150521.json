@@ -3,7 +3,7 @@
 		"code":"150521100",
 		"fullCode":"150521100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保康镇",
 		"parentCode":"150521"
 	},
@@ -11,7 +11,7 @@
 		"code":"150521101",
 		"fullCode":"150521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝龙山镇",
 		"parentCode":"150521"
 	},
@@ -19,7 +19,7 @@
 		"code":"150521102",
 		"fullCode":"150521102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舍伯吐镇",
 		"parentCode":"150521"
 	},
@@ -27,7 +27,7 @@
 		"code":"150521103",
 		"fullCode":"150521103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦塔拉镇",
 		"parentCode":"150521"
 	},
@@ -35,7 +35,7 @@
 		"code":"150521104",
 		"fullCode":"150521104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门达镇",
 		"parentCode":"150521"
 	},
@@ -43,7 +43,7 @@
 		"code":"150521105",
 		"fullCode":"150521105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"架玛吐镇",
 		"parentCode":"150521"
 	},
@@ -51,7 +51,7 @@
 		"code":"150521106",
 		"fullCode":"150521106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰林毛都镇",
 		"parentCode":"150521"
 	},
@@ -59,7 +59,7 @@
 		"code":"150521107",
 		"fullCode":"150521107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"希伯花镇",
 		"parentCode":"150521"
 	},
@@ -67,7 +67,7 @@
 		"code":"150521108",
 		"fullCode":"150521108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花吐古拉镇",
 		"parentCode":"150521"
 	},
@@ -75,7 +75,7 @@
 		"code":"150521109",
 		"fullCode":"150521109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"代力吉镇",
 		"parentCode":"150521"
 	},
@@ -83,7 +83,7 @@
 		"code":"150521110",
 		"fullCode":"150521110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"努日木镇",
 		"parentCode":"150521"
 	},
@@ -91,7 +91,7 @@
 		"code":"150521200",
 		"fullCode":"150521200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花胡硕苏木",
 		"parentCode":"150521"
 	},
@@ -99,7 +99,7 @@
 		"code":"150521201",
 		"fullCode":"150521201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"协代苏木",
 		"parentCode":"150521"
 	},
@@ -107,7 +107,7 @@
 		"code":"150521202",
 		"fullCode":"150521202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白兴吐苏木",
 		"parentCode":"150521"
 	},
@@ -115,7 +115,7 @@
 		"code":"150521203",
 		"fullCode":"150521203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"图布信苏木",
 		"parentCode":"150521"
 	},
@@ -123,7 +123,7 @@
 		"code":"150521204",
 		"fullCode":"150521204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敖包苏木",
 		"parentCode":"150521"
 	},
@@ -131,7 +131,7 @@
 		"code":"150521205",
 		"fullCode":"150521205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利乡",
 		"parentCode":"150521"
 	},
@@ -139,7 +139,7 @@
 		"code":"150521400",
 		"fullCode":"150521400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白音塔拉农场",
 		"parentCode":"150521"
 	},
@@ -147,7 +147,7 @@
 		"code":"150521401",
 		"fullCode":"150521401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠日河牧场",
 		"parentCode":"150521"
 	},
@@ -155,7 +155,7 @@
 		"code":"150521402",
 		"fullCode":"150521402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰库牧场",
 		"parentCode":"150521"
 	},
@@ -163,7 +163,7 @@
 		"code":"150521403",
 		"fullCode":"150521403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保康街道办事处",
 		"parentCode":"150521"
 	}

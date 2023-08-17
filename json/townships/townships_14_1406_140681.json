@@ -3,7 +3,7 @@
 		"code":"140681001",
 		"fullCode":"140681001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云东街道",
 		"parentCode":"140681"
 	},
@@ -11,7 +11,7 @@
 		"code":"140681002",
 		"fullCode":"140681002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云中街道",
 		"parentCode":"140681"
 	},
@@ -19,7 +19,7 @@
 		"code":"140681003",
 		"fullCode":"140681003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云西街道",
 		"parentCode":"140681"
 	},
@@ -27,7 +27,7 @@
 		"code":"140681101",
 		"fullCode":"140681101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴家窑镇",
 		"parentCode":"140681"
 	},
@@ -35,7 +35,7 @@
 		"code":"140681102",
 		"fullCode":"140681102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙滩镇",
 		"parentCode":"140681"
 	},
@@ -43,7 +43,7 @@
 		"code":"140681103",
 		"fullCode":"140681103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛家皂镇",
 		"parentCode":"140681"
 	},
@@ -51,7 +51,7 @@
 		"code":"140681200",
 		"fullCode":"140681200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何家堡乡",
 		"parentCode":"140681"
 	},
@@ -59,7 +59,7 @@
 		"code":"140681201",
 		"fullCode":"140681201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新家园乡",
 		"parentCode":"140681"
 	},
@@ -67,7 +67,7 @@
 		"code":"140681202",
 		"fullCode":"140681202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亲和乡",
 		"parentCode":"140681"
 	},
@@ -75,7 +75,7 @@
 		"code":"140681203",
 		"fullCode":"140681203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海北头乡",
 		"parentCode":"140681"
 	},
@@ -83,7 +83,7 @@
 		"code":"140681205",
 		"fullCode":"140681205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河头乡",
 		"parentCode":"140681"
 	},
@@ -91,7 +91,7 @@
 		"code":"140681500",
 		"fullCode":"140681500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙滩农牧场",
 		"parentCode":"140681"
 	},
@@ -99,7 +99,7 @@
 		"code":"140681501",
 		"fullCode":"140681501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金沙滩林场",
 		"parentCode":"140681"
 	}

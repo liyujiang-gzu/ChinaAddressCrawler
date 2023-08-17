@@ -3,7 +3,7 @@
 		"code":"350922001",
 		"fullCode":"350922001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"350922"
 	},
@@ -11,7 +11,7 @@
 		"code":"350922002",
 		"fullCode":"350922002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"350922"
 	},
@@ -19,7 +19,7 @@
 		"code":"350922101",
 		"fullCode":"350922101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平湖镇",
 		"parentCode":"350922"
 	},
@@ -27,7 +27,7 @@
 		"code":"350922102",
 		"fullCode":"350922102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥镇",
 		"parentCode":"350922"
 	},
@@ -35,7 +35,7 @@
 		"code":"350922103",
 		"fullCode":"350922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄田镇",
 		"parentCode":"350922"
 	},
@@ -43,7 +43,7 @@
 		"code":"350922104",
 		"fullCode":"350922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤塘镇",
 		"parentCode":"350922"
 	},
@@ -51,7 +51,7 @@
 		"code":"350922105",
 		"fullCode":"350922105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杉洋镇",
 		"parentCode":"350922"
 	},
@@ -59,7 +59,7 @@
 		"code":"350922106",
 		"fullCode":"350922106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤都镇",
 		"parentCode":"350922"
 	},
@@ -67,7 +67,7 @@
 		"code":"350922107",
 		"fullCode":"350922107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口镇",
 		"parentCode":"350922"
 	},
@@ -75,7 +75,7 @@
 		"code":"350922108",
 		"fullCode":"350922108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大甲镇",
 		"parentCode":"350922"
 	},
@@ -83,7 +83,7 @@
 		"code":"350922201",
 		"fullCode":"350922201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉巷乡",
 		"parentCode":"350922"
 	},
@@ -91,7 +91,7 @@
 		"code":"350922203",
 		"fullCode":"350922203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泮洋乡",
 		"parentCode":"350922"
 	},
@@ -99,7 +99,7 @@
 		"code":"350922204",
 		"fullCode":"350922204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤埔乡",
 		"parentCode":"350922"
 	},
@@ -107,7 +107,7 @@
 		"code":"350922205",
 		"fullCode":"350922205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卓洋乡",
 		"parentCode":"350922"
 	}

@@ -3,7 +3,7 @@
 		"code":"511825100",
 		"fullCode":"511825100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城厢镇",
 		"parentCode":"511825"
 	},
@@ -11,7 +11,7 @@
 		"code":"511825101",
 		"fullCode":"511825101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"始阳镇",
 		"parentCode":"511825"
 	},
@@ -19,7 +19,7 @@
 		"code":"511825102",
 		"fullCode":"511825102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思经镇",
 		"parentCode":"511825"
 	},
@@ -27,7 +27,7 @@
 		"code":"511825103",
 		"fullCode":"511825103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喇叭河镇",
 		"parentCode":"511825"
 	},
@@ -35,7 +35,7 @@
 		"code":"511825104",
 		"fullCode":"511825104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小河镇",
 		"parentCode":"511825"
 	},
@@ -43,7 +43,7 @@
 		"code":"511825105",
 		"fullCode":"511825105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁义镇",
 		"parentCode":"511825"
 	},
@@ -51,7 +51,7 @@
 		"code":"511825106",
 		"fullCode":"511825106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新场镇",
 		"parentCode":"511825"
 	},
@@ -59,7 +59,7 @@
 		"code":"511825206",
 		"fullCode":"511825206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐英乡",
 		"parentCode":"511825"
 	},
@@ -67,7 +67,7 @@
 		"code":"511825210",
 		"fullCode":"511825210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华乡",
 		"parentCode":"511825"
 	},
@@ -75,7 +75,7 @@
 		"code":"511825212",
 		"fullCode":"511825212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴业乡",
 		"parentCode":"511825"
 	}

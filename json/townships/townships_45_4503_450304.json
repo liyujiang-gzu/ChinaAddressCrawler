@@ -3,7 +3,7 @@
 		"code":"450304001",
 		"fullCode":"450304001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南门街道",
 		"parentCode":"450304"
 	},
@@ -11,7 +11,7 @@
 		"code":"450304002",
 		"fullCode":"450304002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象山街道",
 		"parentCode":"450304"
 	},
@@ -19,7 +19,7 @@
 		"code":"450304003",
 		"fullCode":"450304003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山街道",
 		"parentCode":"450304"
 	},
@@ -27,7 +27,7 @@
 		"code":"450304200",
 		"fullCode":"450304200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二塘乡",
 		"parentCode":"450304"
 	}

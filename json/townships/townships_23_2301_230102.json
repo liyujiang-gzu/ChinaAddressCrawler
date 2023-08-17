@@ -3,7 +3,7 @@
 		"code":"230102001",
 		"fullCode":"230102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兆麟街道",
 		"parentCode":"230102"
 	},
@@ -11,7 +11,7 @@
 		"code":"230102002",
 		"fullCode":"230102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新阳路街道",
 		"parentCode":"230102"
 	},
@@ -19,7 +19,7 @@
 		"code":"230102003",
 		"fullCode":"230102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抚顺街道",
 		"parentCode":"230102"
 	},
@@ -27,7 +27,7 @@
 		"code":"230102004",
 		"fullCode":"230102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共乐街道",
 		"parentCode":"230102"
 	},
@@ -35,7 +35,7 @@
 		"code":"230102005",
 		"fullCode":"230102005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街道",
 		"parentCode":"230102"
 	},
@@ -43,7 +43,7 @@
 		"code":"230102006",
 		"fullCode":"230102006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城乡路街道",
 		"parentCode":"230102"
 	},
@@ -51,7 +51,7 @@
 		"code":"230102007",
 		"fullCode":"230102007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工农街道",
 		"parentCode":"230102"
 	},
@@ -59,7 +59,7 @@
 		"code":"230102008",
 		"fullCode":"230102008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚志街道",
 		"parentCode":"230102"
 	},
@@ -67,7 +67,7 @@
 		"code":"230102009",
 		"fullCode":"230102009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斯大林街道",
 		"parentCode":"230102"
 	},
@@ -75,7 +75,7 @@
 		"code":"230102010",
 		"fullCode":"230102010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通江街道",
 		"parentCode":"230102"
 	},
@@ -83,7 +83,7 @@
 		"code":"230102011",
 		"fullCode":"230102011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"经纬街道",
 		"parentCode":"230102"
 	},
@@ -91,7 +91,7 @@
 		"code":"230102012",
 		"fullCode":"230102012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工程街道",
 		"parentCode":"230102"
 	},
@@ -99,7 +99,7 @@
 		"code":"230102013",
 		"fullCode":"230102013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安静街道",
 		"parentCode":"230102"
 	},
@@ -107,7 +107,7 @@
 		"code":"230102014",
 		"fullCode":"230102014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安和街道",
 		"parentCode":"230102"
 	},
@@ -115,7 +115,7 @@
 		"code":"230102015",
 		"fullCode":"230102015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳河街道",
 		"parentCode":"230102"
 	},
@@ -123,7 +123,7 @@
 		"code":"230102016",
 		"fullCode":"230102016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建国街道",
 		"parentCode":"230102"
 	},
@@ -131,7 +131,7 @@
 		"code":"230102017",
 		"fullCode":"230102017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康安街道",
 		"parentCode":"230102"
 	},
@@ -139,7 +139,7 @@
 		"code":"230102018",
 		"fullCode":"230102018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱建街道",
 		"parentCode":"230102"
 	},
@@ -147,7 +147,7 @@
 		"code":"230102019",
 		"fullCode":"230102019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"群力街道",
 		"parentCode":"230102"
 	},
@@ -155,7 +155,7 @@
 		"code":"230102101",
 		"fullCode":"230102101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"230102"
 	},
@@ -163,7 +163,7 @@
 		"code":"230102102",
 		"fullCode":"230102102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新发镇",
 		"parentCode":"230102"
 	},
@@ -171,7 +171,7 @@
 		"code":"230102103",
 		"fullCode":"230102103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新农镇",
 		"parentCode":"230102"
 	},
@@ -179,7 +179,7 @@
 		"code":"230102104",
 		"fullCode":"230102104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆树镇",
 		"parentCode":"230102"
 	}

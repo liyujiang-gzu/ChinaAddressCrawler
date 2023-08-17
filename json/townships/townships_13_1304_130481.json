@@ -3,7 +3,7 @@
 		"code":"130481100",
 		"fullCode":"130481100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武安镇",
 		"parentCode":"130481"
 	},
@@ -11,7 +11,7 @@
 		"code":"130481101",
 		"fullCode":"130481101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康二城镇",
 		"parentCode":"130481"
 	},
@@ -19,7 +19,7 @@
 		"code":"130481102",
 		"fullCode":"130481102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"午汲镇",
 		"parentCode":"130481"
 	},
@@ -27,7 +27,7 @@
 		"code":"130481103",
 		"fullCode":"130481103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磁山镇",
 		"parentCode":"130481"
 	},
@@ -35,7 +35,7 @@
 		"code":"130481104",
 		"fullCode":"130481104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伯延镇",
 		"parentCode":"130481"
 	},
@@ -43,7 +43,7 @@
 		"code":"130481105",
 		"fullCode":"130481105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淑村镇",
 		"parentCode":"130481"
 	},
@@ -51,7 +51,7 @@
 		"code":"130481106",
 		"fullCode":"130481106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大同镇",
 		"parentCode":"130481"
 	},
@@ -59,7 +59,7 @@
 		"code":"130481107",
 		"fullCode":"130481107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邑城镇",
 		"parentCode":"130481"
 	},
@@ -67,7 +67,7 @@
 		"code":"130481108",
 		"fullCode":"130481108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿山镇",
 		"parentCode":"130481"
 	},
@@ -75,7 +75,7 @@
 		"code":"130481109",
 		"fullCode":"130481109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贺进镇",
 		"parentCode":"130481"
 	},
@@ -83,7 +83,7 @@
 		"code":"130481110",
 		"fullCode":"130481110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳邑镇",
 		"parentCode":"130481"
 	},
@@ -91,7 +91,7 @@
 		"code":"130481111",
 		"fullCode":"130481111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徘徊镇",
 		"parentCode":"130481"
 	},
@@ -99,7 +99,7 @@
 		"code":"130481112",
 		"fullCode":"130481112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冶陶镇",
 		"parentCode":"130481"
 	},
@@ -107,7 +107,7 @@
 		"code":"130481200",
 		"fullCode":"130481200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上团城乡",
 		"parentCode":"130481"
 	},
@@ -115,7 +115,7 @@
 		"code":"130481201",
 		"fullCode":"130481201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北安庄乡",
 		"parentCode":"130481"
 	},
@@ -123,7 +123,7 @@
 		"code":"130481202",
 		"fullCode":"130481202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北安乐乡",
 		"parentCode":"130481"
 	},
@@ -131,7 +131,7 @@
 		"code":"130481203",
 		"fullCode":"130481203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西土山乡",
 		"parentCode":"130481"
 	},
@@ -139,7 +139,7 @@
 		"code":"130481204",
 		"fullCode":"130481204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西寺庄乡",
 		"parentCode":"130481"
 	},
@@ -147,7 +147,7 @@
 		"code":"130481205",
 		"fullCode":"130481205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"活水乡",
 		"parentCode":"130481"
 	},
@@ -155,7 +155,7 @@
 		"code":"130481206",
 		"fullCode":"130481206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石洞乡",
 		"parentCode":"130481"
 	},
@@ -163,7 +163,7 @@
 		"code":"130481207",
 		"fullCode":"130481207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"管陶乡",
 		"parentCode":"130481"
 	},
@@ -171,7 +171,7 @@
 		"code":"130481208",
 		"fullCode":"130481208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马家庄乡",
 		"parentCode":"130481"
 	},
@@ -179,7 +179,7 @@
 		"code":"130481400",
 		"fullCode":"130481400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北武安工业园区",
 		"parentCode":"130481"
 	}

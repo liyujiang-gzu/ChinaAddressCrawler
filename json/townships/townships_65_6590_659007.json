@@ -3,7 +3,7 @@
 		"code":"659007001",
 		"fullCode":"659007001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明珠街道",
 		"parentCode":"659007"
 	},
@@ -11,7 +11,7 @@
 		"code":"659007100",
 		"fullCode":"659007100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双桥镇",
 		"parentCode":"659007"
 	},
@@ -19,7 +19,7 @@
 		"code":"659007101",
 		"fullCode":"659007101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石峪镇",
 		"parentCode":"659007"
 	},
@@ -27,7 +27,7 @@
 		"code":"659007102",
 		"fullCode":"659007102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博河镇",
 		"parentCode":"659007"
 	},
@@ -35,7 +35,7 @@
 		"code":"659007103",
 		"fullCode":"659007103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双乐镇",
 		"parentCode":"659007"
 	},
@@ -43,7 +43,7 @@
 		"code":"659007104",
 		"fullCode":"659007104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友谊镇",
 		"parentCode":"659007"
 	},
@@ -51,7 +51,7 @@
 		"code":"659007400",
 		"fullCode":"659007400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河市经济技术开发区",
 		"parentCode":"659007"
 	}

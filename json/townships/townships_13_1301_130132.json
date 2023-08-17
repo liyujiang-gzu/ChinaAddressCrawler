@@ -3,7 +3,7 @@
 		"code":"130132100",
 		"fullCode":"130132100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槐阳镇",
 		"parentCode":"130132"
 	},
@@ -11,7 +11,7 @@
 		"code":"130132101",
 		"fullCode":"130132101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"殷村镇",
 		"parentCode":"130132"
 	},
@@ -19,7 +19,7 @@
 		"code":"130132102",
 		"fullCode":"130132102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南佐镇",
 		"parentCode":"130132"
 	},
@@ -27,7 +27,7 @@
 		"code":"130132103",
 		"fullCode":"130132103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋曹镇",
 		"parentCode":"130132"
 	},
@@ -35,7 +35,7 @@
 		"code":"130132104",
 		"fullCode":"130132104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南因镇",
 		"parentCode":"130132"
 	},
@@ -43,7 +43,7 @@
 		"code":"130132105",
 		"fullCode":"130132105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姬村镇",
 		"parentCode":"130132"
 	},
@@ -51,7 +51,7 @@
 		"code":"130132106",
 		"fullCode":"130132106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北褚镇",
 		"parentCode":"130132"
 	},
@@ -59,7 +59,7 @@
 		"code":"130132107",
 		"fullCode":"130132107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马村镇",
 		"parentCode":"130132"
 	},
@@ -67,7 +67,7 @@
 		"code":"130132201",
 		"fullCode":"130132201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东张乡",
 		"parentCode":"130132"
 	},
@@ -75,7 +75,7 @@
 		"code":"130132202",
 		"fullCode":"130132202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵同乡",
 		"parentCode":"130132"
 	},
@@ -83,7 +83,7 @@
 		"code":"130132204",
 		"fullCode":"130132204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏村乡",
 		"parentCode":"130132"
 	},
@@ -91,7 +91,7 @@
 		"code":"130132205",
 		"fullCode":"130132205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏阳乡",
 		"parentCode":"130132"
 	},
@@ -99,7 +99,7 @@
 		"code":"130132206",
 		"fullCode":"130132206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北正乡",
 		"parentCode":"130132"
 	},
@@ -107,7 +107,7 @@
 		"code":"130132207",
 		"fullCode":"130132207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前仙乡",
 		"parentCode":"130132"
 	},
@@ -115,7 +115,7 @@
 		"code":"130132208",
 		"fullCode":"130132208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑水河乡",
 		"parentCode":"130132"
 	}

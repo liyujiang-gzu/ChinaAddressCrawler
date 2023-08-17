@@ -3,7 +3,7 @@
 		"code":"511826001",
 		"fullCode":"511826001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦阳街道",
 		"parentCode":"511826"
 	},
@@ -11,7 +11,7 @@
 		"code":"511826101",
 		"fullCode":"511826101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"飞仙关镇",
 		"parentCode":"511826"
 	},
@@ -19,7 +19,7 @@
 		"code":"511826102",
 		"fullCode":"511826102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双石镇",
 		"parentCode":"511826"
 	},
@@ -27,7 +27,7 @@
 		"code":"511826103",
 		"fullCode":"511826103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"511826"
 	},
@@ -35,7 +35,7 @@
 		"code":"511826104",
 		"fullCode":"511826104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大川镇",
 		"parentCode":"511826"
 	},
@@ -43,7 +43,7 @@
 		"code":"511826105",
 		"fullCode":"511826105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思延镇",
 		"parentCode":"511826"
 	},
@@ -51,7 +51,7 @@
 		"code":"511826106",
 		"fullCode":"511826106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门镇",
 		"parentCode":"511826"
 	},
@@ -59,7 +59,7 @@
 		"code":"511826203",
 		"fullCode":"511826203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝盛乡",
 		"parentCode":"511826"
 	}

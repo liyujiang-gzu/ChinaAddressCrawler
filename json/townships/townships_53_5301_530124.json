@@ -3,7 +3,7 @@
 		"code":"530124001",
 		"fullCode":"530124001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永定街道",
 		"parentCode":"530124"
 	},
@@ -11,7 +11,7 @@
 		"code":"530124002",
 		"fullCode":"530124002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营街道",
 		"parentCode":"530124"
 	},
@@ -19,7 +19,7 @@
 		"code":"530124103",
 		"fullCode":"530124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗免镇",
 		"parentCode":"530124"
 	},
@@ -27,7 +27,7 @@
 		"code":"530124104",
 		"fullCode":"530124104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤鹫镇",
 		"parentCode":"530124"
 	},
@@ -35,7 +35,7 @@
 		"code":"530124105",
 		"fullCode":"530124105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东村镇",
 		"parentCode":"530124"
 	},
@@ -43,7 +43,7 @@
 		"code":"530124106",
 		"fullCode":"530124106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"款庄镇",
 		"parentCode":"530124"
 	},
@@ -51,7 +51,7 @@
 		"code":"530124107",
 		"fullCode":"530124107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"散旦镇",
 		"parentCode":"530124"
 	}

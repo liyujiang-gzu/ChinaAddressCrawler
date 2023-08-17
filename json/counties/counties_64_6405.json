@@ -3,7 +3,7 @@
 		"code":"640502",
 		"fullCode":"640502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沙坡头区",
 		"parentCode":"6405"
 	},
@@ -11,7 +11,7 @@
 		"code":"640521",
 		"fullCode":"640521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"中宁县",
 		"parentCode":"6405"
 	},
@@ -19,7 +19,7 @@
 		"code":"640522",
 		"fullCode":"640522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海原县",
 		"parentCode":"6405"
 	}

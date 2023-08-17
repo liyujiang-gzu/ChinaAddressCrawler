@@ -3,7 +3,7 @@
 		"code":"410212001",
 		"fullCode":"410212001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"410212"
 	},
@@ -11,7 +11,7 @@
 		"code":"410212101",
 		"fullCode":"410212101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈留镇",
 		"parentCode":"410212"
 	},
@@ -19,7 +19,7 @@
 		"code":"410212102",
 		"fullCode":"410212102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仇楼镇",
 		"parentCode":"410212"
 	},
@@ -27,7 +27,7 @@
 		"code":"410212103",
 		"fullCode":"410212103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里湾镇",
 		"parentCode":"410212"
 	},
@@ -35,7 +35,7 @@
 		"code":"410212104",
 		"fullCode":"410212104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲兴镇",
 		"parentCode":"410212"
 	},
@@ -43,7 +43,7 @@
 		"code":"410212106",
 		"fullCode":"410212106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱仙镇",
 		"parentCode":"410212"
 	},
@@ -51,7 +51,7 @@
 		"code":"410212107",
 		"fullCode":"410212107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗王镇",
 		"parentCode":"410212"
 	},
@@ -59,7 +59,7 @@
 		"code":"410212200",
 		"fullCode":"410212200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半坡店乡",
 		"parentCode":"410212"
 	},
@@ -67,7 +67,7 @@
 		"code":"410212203",
 		"fullCode":"410212203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘店乡",
 		"parentCode":"410212"
 	},
@@ -75,7 +75,7 @@
 		"code":"410212204",
 		"fullCode":"410212204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"袁坊乡",
 		"parentCode":"410212"
 	},
@@ -83,7 +83,7 @@
 		"code":"410212205",
 		"fullCode":"410212205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜良乡",
 		"parentCode":"410212"
 	},
@@ -91,7 +91,7 @@
 		"code":"410212206",
 		"fullCode":"410212206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆乡",
 		"parentCode":"410212"
 	},
@@ -99,7 +99,7 @@
 		"code":"410212208",
 		"fullCode":"410212208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西姜寨乡",
 		"parentCode":"410212"
 	},
@@ -107,7 +107,7 @@
 		"code":"410212210",
 		"fullCode":"410212210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万隆乡",
 		"parentCode":"410212"
 	},
@@ -115,7 +115,7 @@
 		"code":"410212211",
 		"fullCode":"410212211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范村乡",
 		"parentCode":"410212"
 	}

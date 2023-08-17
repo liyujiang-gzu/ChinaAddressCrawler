@@ -3,7 +3,7 @@
 		"code":"440607001",
 		"fullCode":"440607001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西南街道",
 		"parentCode":"440607"
 	},
@@ -11,7 +11,7 @@
 		"code":"440607004",
 		"fullCode":"440607004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云东海街道",
 		"parentCode":"440607"
 	},
@@ -19,7 +19,7 @@
 		"code":"440607101",
 		"fullCode":"440607101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大塘镇",
 		"parentCode":"440607"
 	},
@@ -27,7 +27,7 @@
 		"code":"440607103",
 		"fullCode":"440607103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐平镇",
 		"parentCode":"440607"
 	},
@@ -35,7 +35,7 @@
 		"code":"440607104",
 		"fullCode":"440607104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白坭镇",
 		"parentCode":"440607"
 	},
@@ -43,7 +43,7 @@
 		"code":"440607105",
 		"fullCode":"440607105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦苞镇",
 		"parentCode":"440607"
 	},
@@ -51,7 +51,7 @@
 		"code":"440607106",
 		"fullCode":"440607106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山镇",
 		"parentCode":"440607"
 	},
@@ -59,7 +59,7 @@
 		"code":"440607400",
 		"fullCode":"440607400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"省三水劳教所",
 		"parentCode":"440607"
 	},
@@ -67,7 +67,7 @@
 		"code":"440607401",
 		"fullCode":"440607401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"省南丰劳教所",
 		"parentCode":"440607"
 	},
@@ -75,7 +75,7 @@
 		"code":"440607402",
 		"fullCode":"440607402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"省女子劳教所",
 		"parentCode":"440607"
 	},
@@ -83,7 +83,7 @@
 		"code":"440607403",
 		"fullCode":"440607403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"省第二戒毒劳教所",
 		"parentCode":"440607"
 	},
@@ -91,7 +91,7 @@
 		"code":"440607404",
 		"fullCode":"440607404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广州军区三水农场",
 		"parentCode":"440607"
 	}

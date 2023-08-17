@@ -3,7 +3,7 @@
 		"code":"620403001",
 		"fullCode":"620403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长征街道",
 		"parentCode":"620403"
 	},
@@ -11,7 +11,7 @@
 		"code":"620403002",
 		"fullCode":"620403002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"电力路街道",
 		"parentCode":"620403"
 	},
@@ -19,7 +19,7 @@
 		"code":"620403003",
 		"fullCode":"620403003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红会路街道",
 		"parentCode":"620403"
 	},
@@ -27,7 +27,7 @@
 		"code":"620403004",
 		"fullCode":"620403004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴平路街道",
 		"parentCode":"620403"
 	},
@@ -35,7 +35,7 @@
 		"code":"620403100",
 		"fullCode":"620403100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家山镇",
 		"parentCode":"620403"
 	},
@@ -43,7 +43,7 @@
 		"code":"620403101",
 		"fullCode":"620403101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水泉镇",
 		"parentCode":"620403"
 	},
@@ -51,7 +51,7 @@
 		"code":"620403102",
 		"fullCode":"620403102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共和镇",
 		"parentCode":"620403"
 	},
@@ -59,7 +59,7 @@
 		"code":"620403105",
 		"fullCode":"620403105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝积镇",
 		"parentCode":"620403"
 	},
@@ -67,7 +67,7 @@
 		"code":"620403106",
 		"fullCode":"620403106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄峤镇",
 		"parentCode":"620403"
 	},
@@ -75,7 +75,7 @@
 		"code":"620403203",
 		"fullCode":"620403203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"种田乡",
 		"parentCode":"620403"
 	},
@@ -83,7 +83,7 @@
 		"code":"620403204",
 		"fullCode":"620403204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复兴乡",
 		"parentCode":"620403"
 	}

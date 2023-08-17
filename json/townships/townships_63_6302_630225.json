@@ -3,7 +3,7 @@
 		"code":"630225100",
 		"fullCode":"630225100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"积石镇",
 		"parentCode":"630225"
 	},
@@ -11,7 +11,7 @@
 		"code":"630225101",
 		"fullCode":"630225101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白庄镇",
 		"parentCode":"630225"
 	},
@@ -19,7 +19,7 @@
 		"code":"630225102",
 		"fullCode":"630225102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"街子镇",
 		"parentCode":"630225"
 	},
@@ -27,7 +27,7 @@
 		"code":"630225200",
 		"fullCode":"630225200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道帏藏族乡",
 		"parentCode":"630225"
 	},
@@ -35,7 +35,7 @@
 		"code":"630225201",
 		"fullCode":"630225201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水乡",
 		"parentCode":"630225"
 	},
@@ -43,7 +43,7 @@
 		"code":"630225202",
 		"fullCode":"630225202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗察藏族乡",
 		"parentCode":"630225"
 	},
@@ -51,7 +51,7 @@
 		"code":"630225203",
 		"fullCode":"630225203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查汗都斯乡",
 		"parentCode":"630225"
 	},
@@ -59,7 +59,7 @@
 		"code":"630225204",
 		"fullCode":"630225204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文都藏族乡",
 		"parentCode":"630225"
 	},
@@ -67,7 +67,7 @@
 		"code":"630225205",
 		"fullCode":"630225205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尕楞藏族乡",
 		"parentCode":"630225"
 	}

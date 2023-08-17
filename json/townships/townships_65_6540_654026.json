@@ -3,7 +3,7 @@
 		"code":"654026100",
 		"fullCode":"654026100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昭苏镇",
 		"parentCode":"654026"
 	},
@@ -11,7 +11,7 @@
 		"code":"654026101",
 		"fullCode":"654026101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喀夏加尔镇",
 		"parentCode":"654026"
 	},
@@ -19,7 +19,7 @@
 		"code":"654026102",
 		"fullCode":"654026102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿克达拉镇",
 		"parentCode":"654026"
 	},
@@ -27,7 +27,7 @@
 		"code":"654026103",
 		"fullCode":"654026103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"喀拉苏镇",
 		"parentCode":"654026"
 	},
@@ -35,7 +35,7 @@
 		"code":"654026104",
 		"fullCode":"654026104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪纳海镇",
 		"parentCode":"654026"
 	},
@@ -43,7 +43,7 @@
 		"code":"654026105",
 		"fullCode":"654026105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌尊布拉克镇",
 		"parentCode":"654026"
 	},
@@ -51,7 +51,7 @@
 		"code":"654026203",
 		"fullCode":"654026203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨尔阔布乡",
 		"parentCode":"654026"
 	},
@@ -59,7 +59,7 @@
 		"code":"654026206",
 		"fullCode":"654026206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"察汗乌苏蒙古族乡",
 		"parentCode":"654026"
 	},
@@ -67,7 +67,7 @@
 		"code":"654026207",
 		"fullCode":"654026207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏特柯尔克孜族乡",
 		"parentCode":"654026"
 	},
@@ -75,7 +75,7 @@
 		"code":"654026208",
 		"fullCode":"654026208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡松图喀尔逊蒙古族乡",
 		"parentCode":"654026"
 	},
@@ -83,7 +83,7 @@
 		"code":"654026513",
 		"fullCode":"654026513000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团七十四团",
 		"parentCode":"654026"
 	},
@@ -91,7 +91,7 @@
 		"code":"654026514",
 		"fullCode":"654026514000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团七十五团",
 		"parentCode":"654026"
 	},
@@ -99,7 +99,7 @@
 		"code":"654026515",
 		"fullCode":"654026515000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团七十六团",
 		"parentCode":"654026"
 	},
@@ -107,7 +107,7 @@
 		"code":"654026516",
 		"fullCode":"654026516000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团七十七团",
 		"parentCode":"654026"
 	}

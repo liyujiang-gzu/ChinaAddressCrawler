@@ -3,7 +3,7 @@
 		"code":"230521100",
 		"fullCode":"230521100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福利镇",
 		"parentCode":"230521"
 	},
@@ -11,7 +11,7 @@
 		"code":"230521101",
 		"fullCode":"230521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"集贤镇",
 		"parentCode":"230521"
 	},
@@ -19,7 +19,7 @@
 		"code":"230521102",
 		"fullCode":"230521102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"升昌镇",
 		"parentCode":"230521"
 	},
@@ -27,7 +27,7 @@
 		"code":"230521103",
 		"fullCode":"230521103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰乐镇",
 		"parentCode":"230521"
 	},
@@ -35,7 +35,7 @@
 		"code":"230521104",
 		"fullCode":"230521104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"230521"
 	},
@@ -43,7 +43,7 @@
 		"code":"230521201",
 		"fullCode":"230521201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰屯乡",
 		"parentCode":"230521"
 	},
@@ -51,7 +51,7 @@
 		"code":"230521202",
 		"fullCode":"230521202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴安乡",
 		"parentCode":"230521"
 	},
@@ -59,7 +59,7 @@
 		"code":"230521204",
 		"fullCode":"230521204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安乡",
 		"parentCode":"230521"
 	},
@@ -67,7 +67,7 @@
 		"code":"230521401",
 		"fullCode":"230521401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平林场",
 		"parentCode":"230521"
 	},
@@ -75,7 +75,7 @@
 		"code":"230521402",
 		"fullCode":"230521402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰乐林场",
 		"parentCode":"230521"
 	},
@@ -83,7 +83,7 @@
 		"code":"230521403",
 		"fullCode":"230521403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七星林场",
 		"parentCode":"230521"
 	},
@@ -91,7 +91,7 @@
 		"code":"230521404",
 		"fullCode":"230521404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峻山林场",
 		"parentCode":"230521"
 	},
@@ -99,7 +99,7 @@
 		"code":"230521405",
 		"fullCode":"230521405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱林林场",
 		"parentCode":"230521"
 	},
@@ -107,7 +107,7 @@
 		"code":"230521406",
 		"fullCode":"230521406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰屯林场",
 		"parentCode":"230521"
 	},
@@ -115,7 +115,7 @@
 		"code":"230521407",
 		"fullCode":"230521407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"升平煤矿",
 		"parentCode":"230521"
 	},
@@ -123,7 +123,7 @@
 		"code":"230521480",
 		"fullCode":"230521480000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑龙江省双鸭山监狱",
 		"parentCode":"230521"
 	},
@@ -131,7 +131,7 @@
 		"code":"230521500",
 		"fullCode":"230521500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二九一农场",
 		"parentCode":"230521"
 	},
@@ -139,7 +139,7 @@
 		"code":"230521581",
 		"fullCode":"230521581000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良种场",
 		"parentCode":"230521"
 	},
@@ -147,7 +147,7 @@
 		"code":"230521582",
 		"fullCode":"230521582000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"种畜场",
 		"parentCode":"230521"
 	},
@@ -155,7 +155,7 @@
 		"code":"230521583",
 		"fullCode":"230521583000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"果树示范场",
 		"parentCode":"230521"
 	}

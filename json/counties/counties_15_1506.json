@@ -3,7 +3,7 @@
 		"code":"150602",
 		"fullCode":"150602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东胜区",
 		"parentCode":"1506"
 	},
@@ -11,7 +11,7 @@
 		"code":"150603",
 		"fullCode":"150603000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"康巴什区",
 		"parentCode":"1506"
 	},
@@ -19,7 +19,7 @@
 		"code":"150621",
 		"fullCode":"150621000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"达拉特旗",
 		"parentCode":"1506"
 	},
@@ -27,7 +27,7 @@
 		"code":"150622",
 		"fullCode":"150622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"准格尔旗",
 		"parentCode":"1506"
 	},
@@ -35,7 +35,7 @@
 		"code":"150623",
 		"fullCode":"150623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鄂托克前旗",
 		"parentCode":"1506"
 	},
@@ -43,7 +43,7 @@
 		"code":"150624",
 		"fullCode":"150624000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鄂托克旗",
 		"parentCode":"1506"
 	},
@@ -51,7 +51,7 @@
 		"code":"150625",
 		"fullCode":"150625000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"杭锦旗",
 		"parentCode":"1506"
 	},
@@ -59,7 +59,7 @@
 		"code":"150626",
 		"fullCode":"150626000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌审旗",
 		"parentCode":"1506"
 	},
@@ -67,7 +67,7 @@
 		"code":"150627",
 		"fullCode":"150627000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"伊金霍洛旗",
 		"parentCode":"1506"
 	}

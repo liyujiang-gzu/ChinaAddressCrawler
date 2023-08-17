@@ -3,7 +3,7 @@
 		"code":"330225001",
 		"fullCode":"330225001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹东街道",
 		"parentCode":"330225"
 	},
@@ -11,7 +11,7 @@
 		"code":"330225002",
 		"fullCode":"330225002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹西街道",
 		"parentCode":"330225"
 	},
@@ -19,7 +19,7 @@
 		"code":"330225003",
 		"fullCode":"330225003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爵溪街道",
 		"parentCode":"330225"
 	},
@@ -27,7 +27,7 @@
 		"code":"330225101",
 		"fullCode":"330225101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石浦镇",
 		"parentCode":"330225"
 	},
@@ -35,7 +35,7 @@
 		"code":"330225102",
 		"fullCode":"330225102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西周镇",
 		"parentCode":"330225"
 	},
@@ -43,7 +43,7 @@
 		"code":"330225103",
 		"fullCode":"330225103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤浦镇",
 		"parentCode":"330225"
 	},
@@ -51,7 +51,7 @@
 		"code":"330225104",
 		"fullCode":"330225104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贤庠镇",
 		"parentCode":"330225"
 	},
@@ -59,7 +59,7 @@
 		"code":"330225105",
 		"fullCode":"330225105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墙头镇",
 		"parentCode":"330225"
 	},
@@ -67,7 +67,7 @@
 		"code":"330225106",
 		"fullCode":"330225106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泗洲头镇",
 		"parentCode":"330225"
 	},
@@ -75,7 +75,7 @@
 		"code":"330225107",
 		"fullCode":"330225107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定塘镇",
 		"parentCode":"330225"
 	},
@@ -83,7 +83,7 @@
 		"code":"330225108",
 		"fullCode":"330225108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涂茨镇",
 		"parentCode":"330225"
 	},
@@ -91,7 +91,7 @@
 		"code":"330225109",
 		"fullCode":"330225109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大徐镇",
 		"parentCode":"330225"
 	},
@@ -99,7 +99,7 @@
 		"code":"330225110",
 		"fullCode":"330225110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥镇",
 		"parentCode":"330225"
 	},
@@ -107,7 +107,7 @@
 		"code":"330225200",
 		"fullCode":"330225200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东陈乡",
 		"parentCode":"330225"
 	},
@@ -115,7 +115,7 @@
 		"code":"330225201",
 		"fullCode":"330225201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晓塘乡",
 		"parentCode":"330225"
 	},
@@ -123,7 +123,7 @@
 		"code":"330225202",
 		"fullCode":"330225202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄避岙乡",
 		"parentCode":"330225"
 	},
@@ -131,7 +131,7 @@
 		"code":"330225203",
 		"fullCode":"330225203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅洋乡",
 		"parentCode":"330225"
 	},
@@ -139,7 +139,7 @@
 		"code":"330225204",
 		"fullCode":"330225204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高塘岛乡",
 		"parentCode":"330225"
 	}

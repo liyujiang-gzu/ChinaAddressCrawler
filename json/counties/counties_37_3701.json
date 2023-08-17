@@ -3,7 +3,7 @@
 		"code":"370102",
 		"fullCode":"370102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"历下区",
 		"parentCode":"3701"
 	},
@@ -11,7 +11,7 @@
 		"code":"370103",
 		"fullCode":"370103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"市中区",
 		"parentCode":"3701"
 	},
@@ -19,7 +19,7 @@
 		"code":"370104",
 		"fullCode":"370104000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"槐荫区",
 		"parentCode":"3701"
 	},
@@ -27,7 +27,7 @@
 		"code":"370105",
 		"fullCode":"370105000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天桥区",
 		"parentCode":"3701"
 	},
@@ -35,7 +35,7 @@
 		"code":"370112",
 		"fullCode":"370112000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"历城区",
 		"parentCode":"3701"
 	},
@@ -43,7 +43,7 @@
 		"code":"370113",
 		"fullCode":"370113000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长清区",
 		"parentCode":"3701"
 	},
@@ -51,7 +51,7 @@
 		"code":"370114",
 		"fullCode":"370114000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"章丘区",
 		"parentCode":"3701"
 	},
@@ -59,7 +59,7 @@
 		"code":"370115",
 		"fullCode":"370115000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"济阳区",
 		"parentCode":"3701"
 	},
@@ -67,7 +67,7 @@
 		"code":"370116",
 		"fullCode":"370116000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"莱芜区",
 		"parentCode":"3701"
 	},
@@ -75,7 +75,7 @@
 		"code":"370117",
 		"fullCode":"370117000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"钢城区",
 		"parentCode":"3701"
 	},
@@ -83,7 +83,7 @@
 		"code":"370124",
 		"fullCode":"370124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平阴县",
 		"parentCode":"3701"
 	},
@@ -91,7 +91,7 @@
 		"code":"370126",
 		"fullCode":"370126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"商河县",
 		"parentCode":"3701"
 	},
@@ -99,7 +99,7 @@
 		"code":"370171",
 		"fullCode":"370171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"济南高新技术产业开发区",
 		"parentCode":"3701"
 	}

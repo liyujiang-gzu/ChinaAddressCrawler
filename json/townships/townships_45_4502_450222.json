@@ -3,7 +3,7 @@
 		"code":"450222100",
 		"fullCode":"450222100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大埔镇",
 		"parentCode":"450222"
 	},
@@ -11,7 +11,7 @@
 		"code":"450222101",
 		"fullCode":"450222101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头镇",
 		"parentCode":"450222"
 	},
@@ -19,7 +19,7 @@
 		"code":"450222102",
 		"fullCode":"450222102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"450222"
 	},
@@ -27,7 +27,7 @@
 		"code":"450222103",
 		"fullCode":"450222103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙埔镇",
 		"parentCode":"450222"
 	},
@@ -35,7 +35,7 @@
 		"code":"450222104",
 		"fullCode":"450222104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东泉镇",
 		"parentCode":"450222"
 	},
@@ -43,7 +43,7 @@
 		"code":"450222105",
 		"fullCode":"450222105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤山镇",
 		"parentCode":"450222"
 	},
@@ -51,7 +51,7 @@
 		"code":"450222106",
 		"fullCode":"450222106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六塘镇",
 		"parentCode":"450222"
 	},
@@ -59,7 +59,7 @@
 		"code":"450222107",
 		"fullCode":"450222107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冲脉镇",
 		"parentCode":"450222"
 	},
@@ -67,7 +67,7 @@
 		"code":"450222108",
 		"fullCode":"450222108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨隆镇",
 		"parentCode":"450222"
 	},
@@ -75,7 +75,7 @@
 		"code":"450222109",
 		"fullCode":"450222109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马山镇",
 		"parentCode":"450222"
 	},
@@ -83,7 +83,7 @@
 		"code":"450222200",
 		"fullCode":"450222200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古砦仫佬族乡",
 		"parentCode":"450222"
 	},
@@ -91,7 +91,7 @@
 		"code":"450222202",
 		"fullCode":"450222202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"社冲乡",
 		"parentCode":"450222"
 	}

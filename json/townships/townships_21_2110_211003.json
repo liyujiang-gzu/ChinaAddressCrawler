@@ -3,7 +3,7 @@
 		"code":"211003004",
 		"fullCode":"211003004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆阳街道",
 		"parentCode":"211003"
 	},
@@ -11,7 +11,7 @@
 		"code":"211003008",
 		"fullCode":"211003008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东京陵街道",
 		"parentCode":"211003"
 	},
@@ -19,7 +19,7 @@
 		"code":"211003101",
 		"fullCode":"211003101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小屯镇",
 		"parentCode":"211003"
 	},
@@ -27,7 +27,7 @@
 		"code":"211003102",
 		"fullCode":"211003102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗大台镇",
 		"parentCode":"211003"
 	}

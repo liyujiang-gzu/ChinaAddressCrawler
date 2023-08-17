@@ -3,7 +3,7 @@
 		"code":"620422100",
 		"fullCode":"620422100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"会师镇",
 		"parentCode":"620422"
 	},
@@ -11,7 +11,7 @@
 		"code":"620422101",
 		"fullCode":"620422101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭城驿镇",
 		"parentCode":"620422"
 	},
@@ -19,7 +19,7 @@
 		"code":"620422102",
 		"fullCode":"620422102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河畔镇",
 		"parentCode":"620422"
 	},
@@ -27,7 +27,7 @@
 		"code":"620422103",
 		"fullCode":"620422103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头寨子镇",
 		"parentCode":"620422"
 	},
@@ -35,7 +35,7 @@
 		"code":"620422104",
 		"fullCode":"620422104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平店镇",
 		"parentCode":"620422"
 	},
@@ -43,7 +43,7 @@
 		"code":"620422105",
 		"fullCode":"620422105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘沟驿镇",
 		"parentCode":"620422"
 	},
@@ -51,7 +51,7 @@
 		"code":"620422106",
 		"fullCode":"620422106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侯家川镇",
 		"parentCode":"620422"
 	},
@@ -59,7 +59,7 @@
 		"code":"620422107",
 		"fullCode":"620422107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柴家门镇",
 		"parentCode":"620422"
 	},
@@ -67,7 +67,7 @@
 		"code":"620422108",
 		"fullCode":"620422108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉家岔镇",
 		"parentCode":"620422"
 	},
@@ -75,7 +75,7 @@
 		"code":"620422109",
 		"fullCode":"620422109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘家寨子镇",
 		"parentCode":"620422"
 	},
@@ -83,7 +83,7 @@
 		"code":"620422110",
 		"fullCode":"620422110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白草塬镇",
 		"parentCode":"620422"
 	},
@@ -91,7 +91,7 @@
 		"code":"620422111",
 		"fullCode":"620422111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大沟镇",
 		"parentCode":"620422"
 	},
@@ -99,7 +99,7 @@
 		"code":"620422112",
 		"fullCode":"620422112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四房吴镇",
 		"parentCode":"620422"
 	},
@@ -107,7 +107,7 @@
 		"code":"620422113",
 		"fullCode":"620422113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中川镇",
 		"parentCode":"620422"
 	},
@@ -115,7 +115,7 @@
 		"code":"620422114",
 		"fullCode":"620422114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老君坡镇",
 		"parentCode":"620422"
 	},
@@ -123,7 +123,7 @@
 		"code":"620422115",
 		"fullCode":"620422115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平头川镇",
 		"parentCode":"620422"
 	},
@@ -131,7 +131,7 @@
 		"code":"620422116",
 		"fullCode":"620422116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁家沟镇",
 		"parentCode":"620422"
 	},
@@ -139,7 +139,7 @@
 		"code":"620422117",
 		"fullCode":"620422117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨崖集镇",
 		"parentCode":"620422"
 	},
@@ -147,7 +147,7 @@
 		"code":"620422118",
 		"fullCode":"620422118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翟家所镇",
 		"parentCode":"620422"
 	},
@@ -155,7 +155,7 @@
 		"code":"620422119",
 		"fullCode":"620422119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩家集镇",
 		"parentCode":"620422"
 	},
@@ -163,7 +163,7 @@
 		"code":"620422120",
 		"fullCode":"620422120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土门岘镇",
 		"parentCode":"620422"
 	},
@@ -171,7 +171,7 @@
 		"code":"620422121",
 		"fullCode":"620422121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新塬镇",
 		"parentCode":"620422"
 	},
@@ -179,7 +179,7 @@
 		"code":"620422122",
 		"fullCode":"620422122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草滩镇",
 		"parentCode":"620422"
 	},
@@ -187,7 +187,7 @@
 		"code":"620422123",
 		"fullCode":"620422123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新庄镇",
 		"parentCode":"620422"
 	},
@@ -195,7 +195,7 @@
 		"code":"620422202",
 		"fullCode":"620422202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新添堡回族乡",
 		"parentCode":"620422"
 	},
@@ -203,7 +203,7 @@
 		"code":"620422204",
 		"fullCode":"620422204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"党家岘乡",
 		"parentCode":"620422"
 	},
@@ -211,7 +211,7 @@
 		"code":"620422213",
 		"fullCode":"620422213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里湾乡",
 		"parentCode":"620422"
 	},
@@ -219,7 +219,7 @@
 		"code":"620422225",
 		"fullCode":"620422225000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土高山乡",
 		"parentCode":"620422"
 	}

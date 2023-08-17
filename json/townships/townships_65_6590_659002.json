@@ -3,7 +3,7 @@
 		"code":"659002001",
 		"fullCode":"659002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金银川路街道",
 		"parentCode":"659002"
 	},
@@ -11,7 +11,7 @@
 		"code":"659002002",
 		"fullCode":"659002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福路街道",
 		"parentCode":"659002"
 	},
@@ -19,7 +19,7 @@
 		"code":"659002003",
 		"fullCode":"659002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青松路街道",
 		"parentCode":"659002"
 	},
@@ -27,7 +27,7 @@
 		"code":"659002100",
 		"fullCode":"659002100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金银川镇",
 		"parentCode":"659002"
 	},
@@ -35,7 +35,7 @@
 		"code":"659002101",
 		"fullCode":"659002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新井子镇",
 		"parentCode":"659002"
 	},
@@ -43,7 +43,7 @@
 		"code":"659002102",
 		"fullCode":"659002102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘泉镇",
 		"parentCode":"659002"
 	},
@@ -51,7 +51,7 @@
 		"code":"659002103",
 		"fullCode":"659002103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁镇",
 		"parentCode":"659002"
 	},
@@ -59,7 +59,7 @@
 		"code":"659002104",
 		"fullCode":"659002104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙河镇",
 		"parentCode":"659002"
 	},
@@ -67,7 +67,7 @@
 		"code":"659002105",
 		"fullCode":"659002105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双城镇",
 		"parentCode":"659002"
 	},
@@ -75,7 +75,7 @@
 		"code":"659002106",
 		"fullCode":"659002106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花桥镇",
 		"parentCode":"659002"
 	},
@@ -83,7 +83,7 @@
 		"code":"659002107",
 		"fullCode":"659002107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福镇",
 		"parentCode":"659002"
 	},
@@ -91,7 +91,7 @@
 		"code":"659002108",
 		"fullCode":"659002108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金杨镇",
 		"parentCode":"659002"
 	},
@@ -99,7 +99,7 @@
 		"code":"659002109",
 		"fullCode":"659002109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玛滩镇",
 		"parentCode":"659002"
 	},
@@ -107,7 +107,7 @@
 		"code":"659002110",
 		"fullCode":"659002110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔门镇",
 		"parentCode":"659002"
 	},
@@ -115,7 +115,7 @@
 		"code":"659002111",
 		"fullCode":"659002111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨花镇",
 		"parentCode":"659002"
 	},
@@ -123,7 +123,7 @@
 		"code":"659002112",
 		"fullCode":"659002112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌安镇",
 		"parentCode":"659002"
 	},
@@ -131,7 +131,7 @@
 		"code":"659002113",
 		"fullCode":"659002113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔南镇",
 		"parentCode":"659002"
 	},
@@ -139,7 +139,7 @@
 		"code":"659002114",
 		"fullCode":"659002114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新开岭镇",
 		"parentCode":"659002"
 	},
@@ -147,7 +147,7 @@
 		"code":"659002200",
 		"fullCode":"659002200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托喀依乡",
 		"parentCode":"659002"
 	},
@@ -155,7 +155,7 @@
 		"code":"659002402",
 		"fullCode":"659002402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工业园区",
 		"parentCode":"659002"
 	},
@@ -163,7 +163,7 @@
 		"code":"659002518",
 		"fullCode":"659002518000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西工业园区",
 		"parentCode":"659002"
 	}

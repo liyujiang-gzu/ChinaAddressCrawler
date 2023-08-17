@@ -3,7 +3,7 @@
 		"code":"350782001",
 		"fullCode":"350782001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇安街道",
 		"parentCode":"350782"
 	},
@@ -11,7 +11,7 @@
 		"code":"350782002",
 		"fullCode":"350782002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新丰街道",
 		"parentCode":"350782"
 	},
@@ -19,7 +19,7 @@
 		"code":"350782003",
 		"fullCode":"350782003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武夷街道",
 		"parentCode":"350782"
 	},
@@ -27,7 +27,7 @@
 		"code":"350782100",
 		"fullCode":"350782100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星村镇",
 		"parentCode":"350782"
 	},
@@ -35,7 +35,7 @@
 		"code":"350782101",
 		"fullCode":"350782101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴田镇",
 		"parentCode":"350782"
 	},
@@ -43,7 +43,7 @@
 		"code":"350782102",
 		"fullCode":"350782102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五夫镇",
 		"parentCode":"350782"
 	},
@@ -51,7 +51,7 @@
 		"code":"350782200",
 		"fullCode":"350782200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上梅乡",
 		"parentCode":"350782"
 	},
@@ -59,7 +59,7 @@
 		"code":"350782201",
 		"fullCode":"350782201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴屯乡",
 		"parentCode":"350782"
 	},
@@ -67,7 +67,7 @@
 		"code":"350782202",
 		"fullCode":"350782202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岚谷乡",
 		"parentCode":"350782"
 	},
@@ -75,7 +75,7 @@
 		"code":"350782203",
 		"fullCode":"350782203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋庄乡",
 		"parentCode":"350782"
 	}

@@ -3,7 +3,7 @@
 		"code":"530325001",
 		"fullCode":"530325001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中安街道",
 		"parentCode":"530325"
 	},
@@ -11,7 +11,7 @@
 		"code":"530325002",
 		"fullCode":"530325002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜境街道",
 		"parentCode":"530325"
 	},
@@ -19,7 +19,7 @@
 		"code":"530325102",
 		"fullCode":"530325102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营上镇",
 		"parentCode":"530325"
 	},
@@ -27,7 +27,7 @@
 		"code":"530325103",
 		"fullCode":"530325103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄泥河镇",
 		"parentCode":"530325"
 	},
@@ -35,7 +35,7 @@
 		"code":"530325104",
 		"fullCode":"530325104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹园镇",
 		"parentCode":"530325"
 	},
@@ -43,7 +43,7 @@
 		"code":"530325105",
 		"fullCode":"530325105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后所镇",
 		"parentCode":"530325"
 	},
@@ -51,7 +51,7 @@
 		"code":"530325106",
 		"fullCode":"530325106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河镇",
 		"parentCode":"530325"
 	},
@@ -59,7 +59,7 @@
 		"code":"530325107",
 		"fullCode":"530325107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墨红镇",
 		"parentCode":"530325"
 	},
@@ -67,7 +67,7 @@
 		"code":"530325108",
 		"fullCode":"530325108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富村镇",
 		"parentCode":"530325"
 	},
@@ -75,7 +75,7 @@
 		"code":"530325109",
 		"fullCode":"530325109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十八连山镇",
 		"parentCode":"530325"
 	},
@@ -83,7 +83,7 @@
 		"code":"530325110",
 		"fullCode":"530325110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老厂镇",
 		"parentCode":"530325"
 	},
@@ -91,7 +91,7 @@
 		"code":"530325201",
 		"fullCode":"530325201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古敢水族乡",
 		"parentCode":"530325"
 	}

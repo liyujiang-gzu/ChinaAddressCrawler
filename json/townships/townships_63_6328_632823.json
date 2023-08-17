@@ -3,7 +3,7 @@
 		"code":"632823100",
 		"fullCode":"632823100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新源镇",
 		"parentCode":"632823"
 	},
@@ -11,7 +11,7 @@
 		"code":"632823101",
 		"fullCode":"632823101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木里镇",
 		"parentCode":"632823"
 	},
@@ -19,7 +19,7 @@
 		"code":"632823102",
 		"fullCode":"632823102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江河镇",
 		"parentCode":"632823"
 	},
@@ -27,7 +27,7 @@
 		"code":"632823200",
 		"fullCode":"632823200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"快尔玛乡",
 		"parentCode":"632823"
 	},
@@ -35,7 +35,7 @@
 		"code":"632823201",
 		"fullCode":"632823201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舟群乡",
 		"parentCode":"632823"
 	},
@@ -43,7 +43,7 @@
 		"code":"632823202",
 		"fullCode":"632823202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"织合玛乡",
 		"parentCode":"632823"
 	},
@@ -51,7 +51,7 @@
 		"code":"632823203",
 		"fullCode":"632823203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏里乡",
 		"parentCode":"632823"
 	},
@@ -59,7 +59,7 @@
 		"code":"632823204",
 		"fullCode":"632823204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"生格乡",
 		"parentCode":"632823"
 	},
@@ -67,7 +67,7 @@
 		"code":"632823205",
 		"fullCode":"632823205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳康乡",
 		"parentCode":"632823"
 	},
@@ -75,7 +75,7 @@
 		"code":"632823206",
 		"fullCode":"632823206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门乡",
 		"parentCode":"632823"
 	}

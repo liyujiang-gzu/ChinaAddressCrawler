@@ -3,7 +3,7 @@
 		"code":"520527001",
 		"fullCode":"520527001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河街道",
 		"parentCode":"520527"
 	},
@@ -11,7 +11,7 @@
 		"code":"520527002",
 		"fullCode":"520527002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白果街道",
 		"parentCode":"520527"
 	},
@@ -19,7 +19,7 @@
 		"code":"520527003",
 		"fullCode":"520527003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉阳街道",
 		"parentCode":"520527"
 	},
@@ -27,7 +27,7 @@
 		"code":"520527004",
 		"fullCode":"520527004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金银山街道",
 		"parentCode":"520527"
 	},
@@ -35,7 +35,7 @@
 		"code":"520527005",
 		"fullCode":"520527005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七家湾街道",
 		"parentCode":"520527"
 	},
@@ -43,7 +43,7 @@
 		"code":"520527102",
 		"fullCode":"520527102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"妈姑镇",
 		"parentCode":"520527"
 	},
@@ -51,7 +51,7 @@
 		"code":"520527103",
 		"fullCode":"520527103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"财神镇",
 		"parentCode":"520527"
 	},
@@ -59,7 +59,7 @@
 		"code":"520527104",
 		"fullCode":"520527104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六曲河镇",
 		"parentCode":"520527"
 	},
@@ -67,7 +67,7 @@
 		"code":"520527105",
 		"fullCode":"520527105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"野马川镇",
 		"parentCode":"520527"
 	},
@@ -75,7 +75,7 @@
 		"code":"520527106",
 		"fullCode":"520527106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗州镇",
 		"parentCode":"520527"
 	},
@@ -83,7 +83,7 @@
 		"code":"520527107",
 		"fullCode":"520527107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山镇",
 		"parentCode":"520527"
 	},
@@ -91,7 +91,7 @@
 		"code":"520527108",
 		"fullCode":"520527108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哲庄镇",
 		"parentCode":"520527"
 	},
@@ -99,7 +99,7 @@
 		"code":"520527109",
 		"fullCode":"520527109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古基镇",
 		"parentCode":"520527"
 	},
@@ -107,7 +107,7 @@
 		"code":"520527110",
 		"fullCode":"520527110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱明镇",
 		"parentCode":"520527"
 	},
@@ -115,7 +115,7 @@
 		"code":"520527111",
 		"fullCode":"520527111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德卓镇",
 		"parentCode":"520527"
 	},
@@ -123,7 +123,7 @@
 		"code":"520527200",
 		"fullCode":"520527200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达依乡",
 		"parentCode":"520527"
 	},
@@ -131,7 +131,7 @@
 		"code":"520527201",
 		"fullCode":"520527201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水塘堡彝族苗族乡",
 		"parentCode":"520527"
 	},
@@ -139,7 +139,7 @@
 		"code":"520527202",
 		"fullCode":"520527202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴发苗族彝族回族乡",
 		"parentCode":"520527"
 	},
@@ -147,7 +147,7 @@
 		"code":"520527203",
 		"fullCode":"520527203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松林坡白族彝族苗族乡",
 		"parentCode":"520527"
 	},
@@ -155,7 +155,7 @@
 		"code":"520527204",
 		"fullCode":"520527204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雉街彝族苗族乡",
 		"parentCode":"520527"
 	},
@@ -163,7 +163,7 @@
 		"code":"520527205",
 		"fullCode":"520527205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠市彝族乡",
 		"parentCode":"520527"
 	},
@@ -171,7 +171,7 @@
 		"code":"520527207",
 		"fullCode":"520527207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双坪彝族苗族乡",
 		"parentCode":"520527"
 	},
@@ -179,7 +179,7 @@
 		"code":"520527208",
 		"fullCode":"520527208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁匠苗族乡",
 		"parentCode":"520527"
 	},
@@ -187,7 +187,7 @@
 		"code":"520527209",
 		"fullCode":"520527209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辅处彝族苗族乡",
 		"parentCode":"520527"
 	},
@@ -195,7 +195,7 @@
 		"code":"520527210",
 		"fullCode":"520527210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"可乐彝族苗族乡",
 		"parentCode":"520527"
 	},
@@ -203,7 +203,7 @@
 		"code":"520527211",
 		"fullCode":"520527211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河镇彝族苗族乡",
 		"parentCode":"520527"
 	},
@@ -211,7 +211,7 @@
 		"code":"520527213",
 		"fullCode":"520527213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安乐溪乡",
 		"parentCode":"520527"
 	},
@@ -219,7 +219,7 @@
 		"code":"520527215",
 		"fullCode":"520527215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"结构彝族苗族乡",
 		"parentCode":"520527"
 	},
@@ -227,7 +227,7 @@
 		"code":"520527219",
 		"fullCode":"520527219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古达苗族彝族乡",
 		"parentCode":"520527"
 	},
@@ -235,7 +235,7 @@
 		"code":"520527220",
 		"fullCode":"520527220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"威奢乡",
 		"parentCode":"520527"
 	}

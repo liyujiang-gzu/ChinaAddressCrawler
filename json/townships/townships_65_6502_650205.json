@@ -3,7 +3,7 @@
 		"code":"650205001",
 		"fullCode":"650205001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳树街街道",
 		"parentCode":"650205"
 	},
@@ -11,7 +11,7 @@
 		"code":"650205100",
 		"fullCode":"650205100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌尔禾镇",
 		"parentCode":"650205"
 	},
@@ -19,7 +19,7 @@
 		"code":"650205509",
 		"fullCode":"650205509000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团一三七团乡",
 		"parentCode":"650205"
 	}

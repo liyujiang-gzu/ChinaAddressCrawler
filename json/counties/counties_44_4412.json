@@ -3,7 +3,7 @@
 		"code":"441202",
 		"fullCode":"441202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"端州区",
 		"parentCode":"4412"
 	},
@@ -11,7 +11,7 @@
 		"code":"441203",
 		"fullCode":"441203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鼎湖区",
 		"parentCode":"4412"
 	},
@@ -19,7 +19,7 @@
 		"code":"441204",
 		"fullCode":"441204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"高要区",
 		"parentCode":"4412"
 	},
@@ -27,7 +27,7 @@
 		"code":"441223",
 		"fullCode":"441223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"广宁县",
 		"parentCode":"4412"
 	},
@@ -35,7 +35,7 @@
 		"code":"441224",
 		"fullCode":"441224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"怀集县",
 		"parentCode":"4412"
 	},
@@ -43,7 +43,7 @@
 		"code":"441225",
 		"fullCode":"441225000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"封开县",
 		"parentCode":"4412"
 	},
@@ -51,7 +51,7 @@
 		"code":"441226",
 		"fullCode":"441226000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德庆县",
 		"parentCode":"4412"
 	},
@@ -59,7 +59,7 @@
 		"code":"441284",
 		"fullCode":"441284000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"四会市",
 		"parentCode":"4412"
 	}

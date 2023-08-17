@@ -3,7 +3,7 @@
 		"code":"410581001",
 		"fullCode":"410581001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开元街道",
 		"parentCode":"410581"
 	},
@@ -11,7 +11,7 @@
 		"code":"410581002",
 		"fullCode":"410581002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"振林街道",
 		"parentCode":"410581"
 	},
@@ -19,7 +19,7 @@
 		"code":"410581003",
 		"fullCode":"410581003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山街道",
 		"parentCode":"410581"
 	},
@@ -27,7 +27,7 @@
 		"code":"410581004",
 		"fullCode":"410581004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂园街道",
 		"parentCode":"410581"
 	},
@@ -35,7 +35,7 @@
 		"code":"410581101",
 		"fullCode":"410581101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合涧镇",
 		"parentCode":"410581"
 	},
@@ -43,7 +43,7 @@
 		"code":"410581102",
 		"fullCode":"410581102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临淇镇",
 		"parentCode":"410581"
 	},
@@ -51,7 +51,7 @@
 		"code":"410581103",
 		"fullCode":"410581103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东姚镇",
 		"parentCode":"410581"
 	},
@@ -59,7 +59,7 @@
 		"code":"410581104",
 		"fullCode":"410581104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横水镇",
 		"parentCode":"410581"
 	},
@@ -67,7 +67,7 @@
 		"code":"410581105",
 		"fullCode":"410581105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河顺镇",
 		"parentCode":"410581"
 	},
@@ -75,7 +75,7 @@
 		"code":"410581106",
 		"fullCode":"410581106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"任村镇",
 		"parentCode":"410581"
 	},
@@ -83,7 +83,7 @@
 		"code":"410581107",
 		"fullCode":"410581107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚村镇",
 		"parentCode":"410581"
 	},
@@ -91,7 +91,7 @@
 		"code":"410581108",
 		"fullCode":"410581108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陵阳镇",
 		"parentCode":"410581"
 	},
@@ -99,7 +99,7 @@
 		"code":"410581109",
 		"fullCode":"410581109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"原康镇",
 		"parentCode":"410581"
 	},
@@ -107,7 +107,7 @@
 		"code":"410581110",
 		"fullCode":"410581110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五龙镇",
 		"parentCode":"410581"
 	},
@@ -115,7 +115,7 @@
 		"code":"410581111",
 		"fullCode":"410581111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"采桑镇",
 		"parentCode":"410581"
 	},
@@ -123,7 +123,7 @@
 		"code":"410581112",
 		"fullCode":"410581112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东岗镇",
 		"parentCode":"410581"
 	},
@@ -131,7 +131,7 @@
 		"code":"410581113",
 		"fullCode":"410581113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂林镇",
 		"parentCode":"410581"
 	},
@@ -139,7 +139,7 @@
 		"code":"410581114",
 		"fullCode":"410581114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶店镇",
 		"parentCode":"410581"
 	},
@@ -147,7 +147,7 @@
 		"code":"410581115",
 		"fullCode":"410581115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石板岩镇",
 		"parentCode":"410581"
 	},
@@ -155,7 +155,7 @@
 		"code":"410581116",
 		"fullCode":"410581116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄华镇",
 		"parentCode":"410581"
 	}

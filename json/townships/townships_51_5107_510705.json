@@ -3,7 +3,7 @@
 		"code":"510705101",
 		"fullCode":"510705101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑枣镇",
 		"parentCode":"510705"
 	},
@@ -11,7 +11,7 @@
 		"code":"510705102",
 		"fullCode":"510705102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花荄镇",
 		"parentCode":"510705"
 	},
@@ -19,7 +19,7 @@
 		"code":"510705103",
 		"fullCode":"510705103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄土镇",
 		"parentCode":"510705"
 	},
@@ -27,7 +27,7 @@
 		"code":"510705104",
 		"fullCode":"510705104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔水镇",
 		"parentCode":"510705"
 	},
@@ -35,7 +35,7 @@
 		"code":"510705105",
 		"fullCode":"510705105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秀水镇",
 		"parentCode":"510705"
 	},
@@ -43,7 +43,7 @@
 		"code":"510705106",
 		"fullCode":"510705106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河清镇",
 		"parentCode":"510705"
 	},
@@ -51,7 +51,7 @@
 		"code":"510705108",
 		"fullCode":"510705108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界牌镇",
 		"parentCode":"510705"
 	},
@@ -59,7 +59,7 @@
 		"code":"510705110",
 		"fullCode":"510705110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雎水镇",
 		"parentCode":"510705"
 	},
@@ -67,7 +67,7 @@
 		"code":"510705116",
 		"fullCode":"510705116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千佛镇",
 		"parentCode":"510705"
 	},
@@ -75,7 +75,7 @@
 		"code":"510705202",
 		"fullCode":"510705202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高川乡",
 		"parentCode":"510705"
 	}

@@ -3,7 +3,7 @@
 		"code":"230722100",
 		"fullCode":"230722100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳镇",
 		"parentCode":"230722"
 	},
@@ -11,7 +11,7 @@
 		"code":"230722101",
 		"fullCode":"230722101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌云镇",
 		"parentCode":"230722"
 	},
@@ -19,7 +19,7 @@
 		"code":"230722102",
 		"fullCode":"230722102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌拉嘎镇",
 		"parentCode":"230722"
 	},
@@ -27,7 +27,7 @@
 		"code":"230722103",
 		"fullCode":"230722103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保兴镇",
 		"parentCode":"230722"
 	},
@@ -35,7 +35,7 @@
 		"code":"230722200",
 		"fullCode":"230722200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常胜乡",
 		"parentCode":"230722"
 	},
@@ -43,7 +43,7 @@
 		"code":"230722201",
 		"fullCode":"230722201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳乡",
 		"parentCode":"230722"
 	},
@@ -51,7 +51,7 @@
 		"code":"230722202",
 		"fullCode":"230722202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沪嘉乡",
 		"parentCode":"230722"
 	},
@@ -59,7 +59,7 @@
 		"code":"230722203",
 		"fullCode":"230722203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红光乡",
 		"parentCode":"230722"
 	},
@@ -67,7 +67,7 @@
 		"code":"230722205",
 		"fullCode":"230722205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山乡",
 		"parentCode":"230722"
 	},
@@ -75,7 +75,7 @@
 		"code":"230722400",
 		"fullCode":"230722400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平林场",
 		"parentCode":"230722"
 	},
@@ -83,7 +83,7 @@
 		"code":"230722402",
 		"fullCode":"230722402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河林场",
 		"parentCode":"230722"
 	},
@@ -91,7 +91,7 @@
 		"code":"230722404",
 		"fullCode":"230722404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马连林场",
 		"parentCode":"230722"
 	}

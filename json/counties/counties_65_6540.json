@@ -3,7 +3,7 @@
 		"code":"654002",
 		"fullCode":"654002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"伊宁市",
 		"parentCode":"6540"
 	},
@@ -11,7 +11,7 @@
 		"code":"654003",
 		"fullCode":"654003000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"奎屯市",
 		"parentCode":"6540"
 	},
@@ -19,7 +19,7 @@
 		"code":"654004",
 		"fullCode":"654004000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"霍尔果斯市",
 		"parentCode":"6540"
 	},
@@ -27,7 +27,7 @@
 		"code":"654021",
 		"fullCode":"654021000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"伊宁县",
 		"parentCode":"6540"
 	},
@@ -35,7 +35,7 @@
 		"code":"654022",
 		"fullCode":"654022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"察布查尔锡伯自治县",
 		"parentCode":"6540"
 	},
@@ -43,7 +43,7 @@
 		"code":"654023",
 		"fullCode":"654023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"霍城县",
 		"parentCode":"6540"
 	},
@@ -51,7 +51,7 @@
 		"code":"654024",
 		"fullCode":"654024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巩留县",
 		"parentCode":"6540"
 	},
@@ -59,7 +59,7 @@
 		"code":"654025",
 		"fullCode":"654025000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新源县",
 		"parentCode":"6540"
 	},
@@ -67,7 +67,7 @@
 		"code":"654026",
 		"fullCode":"654026000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"昭苏县",
 		"parentCode":"6540"
 	},
@@ -75,7 +75,7 @@
 		"code":"654027",
 		"fullCode":"654027000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"特克斯县",
 		"parentCode":"6540"
 	},
@@ -83,7 +83,7 @@
 		"code":"654028",
 		"fullCode":"654028000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"尼勒克县",
 		"parentCode":"6540"
 	}

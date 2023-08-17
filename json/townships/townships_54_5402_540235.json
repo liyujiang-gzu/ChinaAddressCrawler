@@ -3,7 +3,7 @@
 		"code":"540235100",
 		"fullCode":"540235100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"聂拉木镇",
 		"parentCode":"540235"
 	},
@@ -11,7 +11,7 @@
 		"code":"540235101",
 		"fullCode":"540235101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樟木镇",
 		"parentCode":"540235"
 	},
@@ -19,7 +19,7 @@
 		"code":"540235200",
 		"fullCode":"540235200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚来乡",
 		"parentCode":"540235"
 	},
@@ -27,7 +27,7 @@
 		"code":"540235201",
 		"fullCode":"540235201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锁作乡",
 		"parentCode":"540235"
 	},
@@ -35,7 +35,7 @@
 		"code":"540235202",
 		"fullCode":"540235202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乃龙乡",
 		"parentCode":"540235"
 	},
@@ -43,7 +43,7 @@
 		"code":"540235203",
 		"fullCode":"540235203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门布乡",
 		"parentCode":"540235"
 	},
@@ -51,7 +51,7 @@
 		"code":"540235204",
 		"fullCode":"540235204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波绒乡",
 		"parentCode":"540235"
 	}

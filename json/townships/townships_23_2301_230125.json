@@ -3,7 +3,7 @@
 		"code":"230125100",
 		"fullCode":"230125100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宾州镇",
 		"parentCode":"230125"
 	},
@@ -11,7 +11,7 @@
 		"code":"230125101",
 		"fullCode":"230125101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"居仁镇",
 		"parentCode":"230125"
 	},
@@ -19,7 +19,7 @@
 		"code":"230125102",
 		"fullCode":"230125102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宾西镇",
 		"parentCode":"230125"
 	},
@@ -27,7 +27,7 @@
 		"code":"230125103",
 		"fullCode":"230125103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"糖坊镇",
 		"parentCode":"230125"
 	},
@@ -35,7 +35,7 @@
 		"code":"230125104",
 		"fullCode":"230125104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宾安镇",
 		"parentCode":"230125"
 	},
@@ -43,7 +43,7 @@
 		"code":"230125105",
 		"fullCode":"230125105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新甸镇",
 		"parentCode":"230125"
 	},
@@ -51,7 +51,7 @@
 		"code":"230125106",
 		"fullCode":"230125106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利镇",
 		"parentCode":"230125"
 	},
@@ -59,7 +59,7 @@
 		"code":"230125107",
 		"fullCode":"230125107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁远镇",
 		"parentCode":"230125"
 	},
@@ -67,7 +67,7 @@
 		"code":"230125109",
 		"fullCode":"230125109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"摆渡镇",
 		"parentCode":"230125"
 	},
@@ -75,7 +75,7 @@
 		"code":"230125110",
 		"fullCode":"230125110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平坊镇",
 		"parentCode":"230125"
 	},
@@ -83,7 +83,7 @@
 		"code":"230125111",
 		"fullCode":"230125111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满井镇",
 		"parentCode":"230125"
 	},
@@ -91,7 +91,7 @@
 		"code":"230125112",
 		"fullCode":"230125112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常安镇",
 		"parentCode":"230125"
 	},
@@ -99,7 +99,7 @@
 		"code":"230125201",
 		"fullCode":"230125201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永和乡",
 		"parentCode":"230125"
 	},
@@ -107,7 +107,7 @@
 		"code":"230125203",
 		"fullCode":"230125203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸟河乡",
 		"parentCode":"230125"
 	},
@@ -115,7 +115,7 @@
 		"code":"230125204",
 		"fullCode":"230125204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民和乡",
 		"parentCode":"230125"
 	},
@@ -123,7 +123,7 @@
 		"code":"230125205",
 		"fullCode":"230125205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"经建乡",
 		"parentCode":"230125"
 	},
@@ -131,7 +131,7 @@
 		"code":"230125210",
 		"fullCode":"230125210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三宝乡",
 		"parentCode":"230125"
 	},
@@ -139,7 +139,7 @@
 		"code":"230125500",
 		"fullCode":"230125500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙山柞蚕育种场",
 		"parentCode":"230125"
 	},
@@ -147,7 +147,7 @@
 		"code":"230125579",
 		"fullCode":"230125579000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"农垦农业职业学院",
 		"parentCode":"230125"
 	}

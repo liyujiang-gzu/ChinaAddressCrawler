@@ -3,7 +3,7 @@
 		"code":"130426001",
 		"fullCode":"130426001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平安街道",
 		"parentCode":"130426"
 	},
@@ -11,7 +11,7 @@
 		"code":"130426101",
 		"fullCode":"130426101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河南店镇",
 		"parentCode":"130426"
 	},
@@ -19,7 +19,7 @@
 		"code":"130426102",
 		"fullCode":"130426102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"索堡镇",
 		"parentCode":"130426"
 	},
@@ -27,7 +27,7 @@
 		"code":"130426103",
 		"fullCode":"130426103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西戌镇",
 		"parentCode":"130426"
 	},
@@ -35,7 +35,7 @@
 		"code":"130426104",
 		"fullCode":"130426104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井店镇",
 		"parentCode":"130426"
 	},
@@ -43,7 +43,7 @@
 		"code":"130426105",
 		"fullCode":"130426105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"更乐镇",
 		"parentCode":"130426"
 	},
@@ -51,7 +51,7 @@
 		"code":"130426106",
 		"fullCode":"130426106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固新镇",
 		"parentCode":"130426"
 	},
@@ -59,7 +59,7 @@
 		"code":"130426107",
 		"fullCode":"130426107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西达镇",
 		"parentCode":"130426"
 	},
@@ -67,7 +67,7 @@
 		"code":"130426108",
 		"fullCode":"130426108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"偏城镇",
 		"parentCode":"130426"
 	},
@@ -75,7 +75,7 @@
 		"code":"130426200",
 		"fullCode":"130426200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"神头乡",
 		"parentCode":"130426"
 	},
@@ -83,7 +83,7 @@
 		"code":"130426201",
 		"fullCode":"130426201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽城乡",
 		"parentCode":"130426"
 	},
@@ -91,7 +91,7 @@
 		"code":"130426202",
 		"fullCode":"130426202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"偏店乡",
 		"parentCode":"130426"
 	},
@@ -99,7 +99,7 @@
 		"code":"130426203",
 		"fullCode":"130426203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙虎乡",
 		"parentCode":"130426"
 	},
@@ -107,7 +107,7 @@
 		"code":"130426204",
 		"fullCode":"130426204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木井乡",
 		"parentCode":"130426"
 	},
@@ -115,7 +115,7 @@
 		"code":"130426205",
 		"fullCode":"130426205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关防乡",
 		"parentCode":"130426"
 	},
@@ -123,7 +123,7 @@
 		"code":"130426206",
 		"fullCode":"130426206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合漳乡",
 		"parentCode":"130426"
 	},
@@ -131,7 +131,7 @@
 		"code":"130426207",
 		"fullCode":"130426207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿头乡",
 		"parentCode":"130426"
 	},
@@ -139,7 +139,7 @@
 		"code":"130426400",
 		"fullCode":"130426400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涉城镇",
 		"parentCode":"130426"
 	}

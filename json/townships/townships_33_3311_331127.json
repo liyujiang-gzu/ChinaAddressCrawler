@@ -3,7 +3,7 @@
 		"code":"331127001",
 		"fullCode":"331127001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星街道",
 		"parentCode":"331127"
 	},
@@ -11,7 +11,7 @@
 		"code":"331127002",
 		"fullCode":"331127002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤溪街道",
 		"parentCode":"331127"
 	},
@@ -19,7 +19,7 @@
 		"code":"331127101",
 		"fullCode":"331127101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渤海镇",
 		"parentCode":"331127"
 	},
@@ -27,7 +27,7 @@
 		"code":"331127102",
 		"fullCode":"331127102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坑镇",
 		"parentCode":"331127"
 	},
@@ -35,7 +35,7 @@
 		"code":"331127103",
 		"fullCode":"331127103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英川镇",
 		"parentCode":"331127"
 	},
@@ -43,7 +43,7 @@
 		"code":"331127104",
 		"fullCode":"331127104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙湾镇",
 		"parentCode":"331127"
 	},
@@ -51,7 +51,7 @@
 		"code":"331127201",
 		"fullCode":"331127201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大均乡",
 		"parentCode":"331127"
 	},
@@ -59,7 +59,7 @@
 		"code":"331127202",
 		"fullCode":"331127202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澄照乡",
 		"parentCode":"331127"
 	},
@@ -67,7 +67,7 @@
 		"code":"331127203",
 		"fullCode":"331127203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅岐乡",
 		"parentCode":"331127"
 	},
@@ -75,7 +75,7 @@
 		"code":"331127205",
 		"fullCode":"331127205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑坑乡",
 		"parentCode":"331127"
 	},
@@ -83,7 +83,7 @@
 		"code":"331127208",
 		"fullCode":"331127208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大漈乡",
 		"parentCode":"331127"
 	},
@@ -91,7 +91,7 @@
 		"code":"331127209",
 		"fullCode":"331127209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景南乡",
 		"parentCode":"331127"
 	},
@@ -99,7 +99,7 @@
 		"code":"331127210",
 		"fullCode":"331127210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雁溪乡",
 		"parentCode":"331127"
 	},
@@ -107,7 +107,7 @@
 		"code":"331127212",
 		"fullCode":"331127212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸬鹚乡",
 		"parentCode":"331127"
 	},
@@ -115,7 +115,7 @@
 		"code":"331127213",
 		"fullCode":"331127213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梧桐乡",
 		"parentCode":"331127"
 	},
@@ -123,7 +123,7 @@
 		"code":"331127214",
 		"fullCode":"331127214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"标溪乡",
 		"parentCode":"331127"
 	},
@@ -131,7 +131,7 @@
 		"code":"331127215",
 		"fullCode":"331127215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛垟乡",
 		"parentCode":"331127"
 	},
@@ -139,7 +139,7 @@
 		"code":"331127216",
 		"fullCode":"331127216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秋炉乡",
 		"parentCode":"331127"
 	},
@@ -147,7 +147,7 @@
 		"code":"331127217",
 		"fullCode":"331127217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大地乡",
 		"parentCode":"331127"
 	},
@@ -155,7 +155,7 @@
 		"code":"331127218",
 		"fullCode":"331127218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"家地乡",
 		"parentCode":"331127"
 	},
@@ -163,7 +163,7 @@
 		"code":"331127219",
 		"fullCode":"331127219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙乡",
 		"parentCode":"331127"
 	}

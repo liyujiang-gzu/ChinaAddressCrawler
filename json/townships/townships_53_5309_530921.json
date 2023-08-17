@@ -3,7 +3,7 @@
 		"code":"530921101",
 		"fullCode":"530921101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤山镇",
 		"parentCode":"530921"
 	},
@@ -11,7 +11,7 @@
 		"code":"530921102",
 		"fullCode":"530921102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁史镇",
 		"parentCode":"530921"
 	},
@@ -19,7 +19,7 @@
 		"code":"530921103",
 		"fullCode":"530921103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小湾镇",
 		"parentCode":"530921"
 	},
@@ -27,7 +27,7 @@
 		"code":"530921104",
 		"fullCode":"530921104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营盘镇",
 		"parentCode":"530921"
 	},
@@ -35,7 +35,7 @@
 		"code":"530921105",
 		"fullCode":"530921105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔河镇",
 		"parentCode":"530921"
 	},
@@ -43,7 +43,7 @@
 		"code":"530921106",
 		"fullCode":"530921106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"勐佑镇",
 		"parentCode":"530921"
 	},
@@ -51,7 +51,7 @@
 		"code":"530921107",
 		"fullCode":"530921107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪山镇",
 		"parentCode":"530921"
 	},
@@ -59,7 +59,7 @@
 		"code":"530921108",
 		"fullCode":"530921108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛党镇",
 		"parentCode":"530921"
 	},
@@ -67,7 +67,7 @@
 		"code":"530921201",
 		"fullCode":"530921201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"诗礼乡",
 		"parentCode":"530921"
 	},
@@ -75,7 +75,7 @@
 		"code":"530921202",
 		"fullCode":"530921202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华彝族苗族乡",
 		"parentCode":"530921"
 	},
@@ -83,7 +83,7 @@
 		"code":"530921204",
 		"fullCode":"530921204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大寺乡",
 		"parentCode":"530921"
 	},
@@ -91,7 +91,7 @@
 		"code":"530921206",
 		"fullCode":"530921206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腰街彝族乡",
 		"parentCode":"530921"
 	},
@@ -99,7 +99,7 @@
 		"code":"530921207",
 		"fullCode":"530921207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭大寨彝族白族乡",
 		"parentCode":"530921"
 	}

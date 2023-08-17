@@ -3,7 +3,7 @@
 		"code":"654325100",
 		"fullCode":"654325100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青河镇",
 		"parentCode":"654325"
 	},
@@ -11,7 +11,7 @@
 		"code":"654325101",
 		"fullCode":"654325101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔克什肯镇",
 		"parentCode":"654325"
 	},
@@ -19,7 +19,7 @@
 		"code":"654325102",
 		"fullCode":"654325102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿热勒托别镇",
 		"parentCode":"654325"
 	},
@@ -27,7 +27,7 @@
 		"code":"654325103",
 		"fullCode":"654325103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿格达拉镇",
 		"parentCode":"654325"
 	},
@@ -35,7 +35,7 @@
 		"code":"654325104",
 		"fullCode":"654325104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿热勒镇",
 		"parentCode":"654325"
 	},
@@ -43,7 +43,7 @@
 		"code":"654325202",
 		"fullCode":"654325202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨尔托海乡",
 		"parentCode":"654325"
 	},
@@ -51,7 +51,7 @@
 		"code":"654325203",
 		"fullCode":"654325203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查干郭勒乡",
 		"parentCode":"654325"
 	},
@@ -59,7 +59,7 @@
 		"code":"654325204",
 		"fullCode":"654325204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿尕什敖包乡",
 		"parentCode":"654325"
 	}

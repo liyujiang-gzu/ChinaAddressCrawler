@@ -3,7 +3,7 @@
 		"code":"152571101",
 		"fullCode":"152571101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦胡硕镇",
 		"parentCode":"152571"
 	},
@@ -11,7 +11,7 @@
 		"code":"152571500",
 		"fullCode":"152571500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉盖图农牧场",
 		"parentCode":"152571"
 	},
@@ -19,7 +19,7 @@
 		"code":"152571501",
 		"fullCode":"152571501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贺斯格乌拉牧场",
 		"parentCode":"152571"
 	},
@@ -27,7 +27,7 @@
 		"code":"152571502",
 		"fullCode":"152571502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌拉盖牧场",
 		"parentCode":"152571"
 	}

@@ -3,7 +3,7 @@
 		"code":"430304001",
 		"fullCode":"430304001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳塘街道",
 		"parentCode":"430304"
 	},
@@ -11,7 +11,7 @@
 		"code":"430304002",
 		"fullCode":"430304002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坪街道",
 		"parentCode":"430304"
 	},
@@ -19,7 +19,7 @@
 		"code":"430304004",
 		"fullCode":"430304004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"书院路街道",
 		"parentCode":"430304"
 	},
@@ -27,7 +27,7 @@
 		"code":"430304005",
 		"fullCode":"430304005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下摄司街道",
 		"parentCode":"430304"
 	},
@@ -35,7 +35,7 @@
 		"code":"430304006",
 		"fullCode":"430304006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设路街道",
 		"parentCode":"430304"
 	},
@@ -43,7 +43,7 @@
 		"code":"430304008",
 		"fullCode":"430304008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里堆街道",
 		"parentCode":"430304"
 	},
@@ -51,7 +51,7 @@
 		"code":"430304010",
 		"fullCode":"430304010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝塔街道",
 		"parentCode":"430304"
 	},
@@ -59,7 +59,7 @@
 		"code":"430304014",
 		"fullCode":"430304014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞城街道",
 		"parentCode":"430304"
 	},
@@ -67,7 +67,7 @@
 		"code":"430304015",
 		"fullCode":"430304015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荷塘街道",
 		"parentCode":"430304"
 	}

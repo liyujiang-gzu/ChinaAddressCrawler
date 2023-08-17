@@ -3,7 +3,7 @@
 		"code":"650102002",
 		"fullCode":"650102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕儿窝街道",
 		"parentCode":"650102"
 	},
@@ -11,7 +11,7 @@
 		"code":"650102003",
 		"fullCode":"650102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利路街道",
 		"parentCode":"650102"
 	},
@@ -19,7 +19,7 @@
 		"code":"650102004",
 		"fullCode":"650102004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结路街道",
 		"parentCode":"650102"
 	},
@@ -27,7 +27,7 @@
 		"code":"650102005",
 		"fullCode":"650102005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放南路街道",
 		"parentCode":"650102"
 	},
@@ -35,7 +35,7 @@
 		"code":"650102006",
 		"fullCode":"650102006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华南路街道",
 		"parentCode":"650102"
 	},
@@ -43,7 +43,7 @@
 		"code":"650102007",
 		"fullCode":"650102007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平路街道",
 		"parentCode":"650102"
 	},
@@ -51,7 +51,7 @@
 		"code":"650102008",
 		"fullCode":"650102008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放北路街道",
 		"parentCode":"650102"
 	},
@@ -59,7 +59,7 @@
 		"code":"650102009",
 		"fullCode":"650102009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福路街道",
 		"parentCode":"650102"
 	},
@@ -67,7 +67,7 @@
 		"code":"650102010",
 		"fullCode":"650102010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东门街道",
 		"parentCode":"650102"
 	},
@@ -75,7 +75,7 @@
 		"code":"650102011",
 		"fullCode":"650102011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华北路街道",
 		"parentCode":"650102"
 	},
@@ -83,7 +83,7 @@
 		"code":"650102012",
 		"fullCode":"650102012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青年路街道",
 		"parentCode":"650102"
 	},
@@ -91,7 +91,7 @@
 		"code":"650102013",
 		"fullCode":"650102013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碱泉街道",
 		"parentCode":"650102"
 	},
@@ -99,7 +99,7 @@
 		"code":"650102014",
 		"fullCode":"650102014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延安路街道",
 		"parentCode":"650102"
 	},
@@ -107,7 +107,7 @@
 		"code":"650102015",
 		"fullCode":"650102015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红雁街道",
 		"parentCode":"650102"
 	},
@@ -115,7 +115,7 @@
 		"code":"650102016",
 		"fullCode":"650102016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南草滩街道",
 		"parentCode":"650102"
 	},
@@ -123,7 +123,7 @@
 		"code":"650102017",
 		"fullCode":"650102017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东泉路街道",
 		"parentCode":"650102"
 	},
@@ -131,7 +131,7 @@
 		"code":"650102400",
 		"fullCode":"650102400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二道桥片区",
 		"parentCode":"650102"
 	},
@@ -139,7 +139,7 @@
 		"code":"650102401",
 		"fullCode":"650102401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑甲山片区",
 		"parentCode":"650102"
 	},
@@ -147,7 +147,7 @@
 		"code":"650102402",
 		"fullCode":"650102402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大湾片区",
 		"parentCode":"650102"
 	},
@@ -155,7 +155,7 @@
 		"code":"650102403",
 		"fullCode":"650102403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛马场片区",
 		"parentCode":"650102"
 	},
@@ -163,7 +163,7 @@
 		"code":"650102404",
 		"fullCode":"650102404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湾街片区",
 		"parentCode":"650102"
 	},
@@ -171,7 +171,7 @@
 		"code":"650102405",
 		"fullCode":"650102405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大巴扎片区",
 		"parentCode":"650102"
 	}

@@ -3,7 +3,7 @@
 		"code":"360482001",
 		"fullCode":"360482001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶山街道",
 		"parentCode":"360482"
 	},
@@ -11,7 +11,7 @@
 		"code":"360482100",
 		"fullCode":"360482100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘露镇",
 		"parentCode":"360482"
 	},
@@ -19,7 +19,7 @@
 		"code":"360482101",
 		"fullCode":"360482101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江益镇",
 		"parentCode":"360482"
 	},
@@ -27,7 +27,7 @@
 		"code":"360482200",
 		"fullCode":"360482200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金湖乡",
 		"parentCode":"360482"
 	},
@@ -35,7 +35,7 @@
 		"code":"360482201",
 		"fullCode":"360482201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏家垱乡",
 		"parentCode":"360482"
 	},
@@ -43,7 +43,7 @@
 		"code":"360482202",
 		"fullCode":"360482202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泽泉乡",
 		"parentCode":"360482"
 	}

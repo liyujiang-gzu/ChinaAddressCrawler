@@ -3,7 +3,7 @@
 		"code":"321322001",
 		"fullCode":"321322001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沭城街道",
 		"parentCode":"321322"
 	},
@@ -11,7 +11,7 @@
 		"code":"321322002",
 		"fullCode":"321322002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南湖街道",
 		"parentCode":"321322"
 	},
@@ -19,7 +19,7 @@
 		"code":"321322003",
 		"fullCode":"321322003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梦溪街道",
 		"parentCode":"321322"
 	},
@@ -27,7 +27,7 @@
 		"code":"321322004",
 		"fullCode":"321322004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十字街道",
 		"parentCode":"321322"
 	},
@@ -35,7 +35,7 @@
 		"code":"321322005",
 		"fullCode":"321322005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章集街道",
 		"parentCode":"321322"
 	},
@@ -43,7 +43,7 @@
 		"code":"321322006",
 		"fullCode":"321322006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七雄街道",
 		"parentCode":"321322"
 	},
@@ -51,7 +51,7 @@
 		"code":"321322101",
 		"fullCode":"321322101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陇集镇",
 		"parentCode":"321322"
 	},
@@ -59,7 +59,7 @@
 		"code":"321322102",
 		"fullCode":"321322102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡集镇",
 		"parentCode":"321322"
 	},
@@ -67,7 +67,7 @@
 		"code":"321322103",
 		"fullCode":"321322103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱集镇",
 		"parentCode":"321322"
 	},
@@ -75,7 +75,7 @@
 		"code":"321322104",
 		"fullCode":"321322104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘沟镇",
 		"parentCode":"321322"
 	},
@@ -83,7 +83,7 @@
 		"code":"321322105",
 		"fullCode":"321322105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马厂镇",
 		"parentCode":"321322"
 	},
@@ -91,7 +91,7 @@
 		"code":"321322106",
 		"fullCode":"321322106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沂涛镇",
 		"parentCode":"321322"
 	},
@@ -99,7 +99,7 @@
 		"code":"321322107",
 		"fullCode":"321322107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙头镇",
 		"parentCode":"321322"
 	},
@@ -107,7 +107,7 @@
 		"code":"321322108",
 		"fullCode":"321322108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩山镇",
 		"parentCode":"321322"
 	},
@@ -115,7 +115,7 @@
 		"code":"321322109",
 		"fullCode":"321322109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华冲镇",
 		"parentCode":"321322"
 	},
@@ -123,7 +123,7 @@
 		"code":"321322110",
 		"fullCode":"321322110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑墟镇",
 		"parentCode":"321322"
 	},
@@ -131,7 +131,7 @@
 		"code":"321322111",
 		"fullCode":"321322111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"悦来镇",
 		"parentCode":"321322"
 	},
@@ -139,7 +139,7 @@
 		"code":"321322112",
 		"fullCode":"321322112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘集镇",
 		"parentCode":"321322"
 	},
@@ -147,7 +147,7 @@
 		"code":"321322114",
 		"fullCode":"321322114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李恒镇",
 		"parentCode":"321322"
 	},
@@ -155,7 +155,7 @@
 		"code":"321322115",
 		"fullCode":"321322115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎下镇",
 		"parentCode":"321322"
 	},
@@ -163,7 +163,7 @@
 		"code":"321322116",
 		"fullCode":"321322116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"颜集镇",
 		"parentCode":"321322"
 	},
@@ -171,7 +171,7 @@
 		"code":"321322117",
 		"fullCode":"321322117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潼阳镇",
 		"parentCode":"321322"
 	},
@@ -179,7 +179,7 @@
 		"code":"321322118",
 		"fullCode":"321322118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙庙镇",
 		"parentCode":"321322"
 	},
@@ -187,7 +187,7 @@
 		"code":"321322119",
 		"fullCode":"321322119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高墟镇",
 		"parentCode":"321322"
 	},
@@ -195,7 +195,7 @@
 		"code":"321322120",
 		"fullCode":"321322120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"耿圩镇",
 		"parentCode":"321322"
 	},
@@ -203,7 +203,7 @@
 		"code":"321322124",
 		"fullCode":"321322124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新河镇",
 		"parentCode":"321322"
 	},
@@ -211,7 +211,7 @@
 		"code":"321322125",
 		"fullCode":"321322125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贤官镇",
 		"parentCode":"321322"
 	},
@@ -219,7 +219,7 @@
 		"code":"321322126",
 		"fullCode":"321322126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴集镇",
 		"parentCode":"321322"
 	},
@@ -227,7 +227,7 @@
 		"code":"321322128",
 		"fullCode":"321322128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青伊湖镇",
 		"parentCode":"321322"
 	},
@@ -235,7 +235,7 @@
 		"code":"321322205",
 		"fullCode":"321322205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西圩乡",
 		"parentCode":"321322"
 	},
@@ -243,7 +243,7 @@
 		"code":"321322401",
 		"fullCode":"321322401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沭阳经济开发区",
 		"parentCode":"321322"
 	},
@@ -251,7 +251,7 @@
 		"code":"321322402",
 		"fullCode":"321322402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆山（沭阳）工业园区",
 		"parentCode":"321322"
 	}

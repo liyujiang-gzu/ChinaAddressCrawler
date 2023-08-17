@@ -3,7 +3,7 @@
 		"code":"4301",
 		"fullCode":"430100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"长沙市",
 		"parentCode":"43"
 	},
@@ -11,7 +11,7 @@
 		"code":"4302",
 		"fullCode":"430200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"株洲市",
 		"parentCode":"43"
 	},
@@ -19,7 +19,7 @@
 		"code":"4303",
 		"fullCode":"430300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"湘潭市",
 		"parentCode":"43"
 	},
@@ -27,7 +27,7 @@
 		"code":"4304",
 		"fullCode":"430400000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"衡阳市",
 		"parentCode":"43"
 	},
@@ -35,7 +35,7 @@
 		"code":"4305",
 		"fullCode":"430500000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"邵阳市",
 		"parentCode":"43"
 	},
@@ -43,7 +43,7 @@
 		"code":"4306",
 		"fullCode":"430600000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"岳阳市",
 		"parentCode":"43"
 	},
@@ -51,7 +51,7 @@
 		"code":"4307",
 		"fullCode":"430700000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"常德市",
 		"parentCode":"43"
 	},
@@ -59,7 +59,7 @@
 		"code":"4308",
 		"fullCode":"430800000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"张家界市",
 		"parentCode":"43"
 	},
@@ -67,7 +67,7 @@
 		"code":"4309",
 		"fullCode":"430900000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"益阳市",
 		"parentCode":"43"
 	},
@@ -75,7 +75,7 @@
 		"code":"4310",
 		"fullCode":"431000000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"郴州市",
 		"parentCode":"43"
 	},
@@ -83,7 +83,7 @@
 		"code":"4311",
 		"fullCode":"431100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"永州市",
 		"parentCode":"43"
 	},
@@ -91,7 +91,7 @@
 		"code":"4312",
 		"fullCode":"431200000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"怀化市",
 		"parentCode":"43"
 	},
@@ -99,7 +99,7 @@
 		"code":"4313",
 		"fullCode":"431300000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"娄底市",
 		"parentCode":"43"
 	},
@@ -107,7 +107,7 @@
 		"code":"4331",
 		"fullCode":"433100000000",
 		"level":1,
-		"levelName":"地",
+		"levelName":"地级",
 		"name":"湘西土家族苗族自治州",
 		"parentCode":"43"
 	}

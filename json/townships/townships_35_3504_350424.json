@@ -3,7 +3,7 @@
 		"code":"350424100",
 		"fullCode":"350424100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠江镇",
 		"parentCode":"350424"
 	},
@@ -11,7 +11,7 @@
 		"code":"350424101",
 		"fullCode":"350424101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉上镇",
 		"parentCode":"350424"
 	},
@@ -19,7 +19,7 @@
 		"code":"350424102",
 		"fullCode":"350424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖村镇",
 		"parentCode":"350424"
 	},
@@ -27,7 +27,7 @@
 		"code":"350424103",
 		"fullCode":"350424103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石壁镇",
 		"parentCode":"350424"
 	},
@@ -35,7 +35,7 @@
 		"code":"350424104",
 		"fullCode":"350424104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹坊镇",
 		"parentCode":"350424"
 	},
@@ -43,7 +43,7 @@
 		"code":"350424105",
 		"fullCode":"350424105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安远镇",
 		"parentCode":"350424"
 	},
@@ -51,7 +51,7 @@
 		"code":"350424106",
 		"fullCode":"350424106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淮土镇",
 		"parentCode":"350424"
 	},
@@ -59,7 +59,7 @@
 		"code":"350424107",
 		"fullCode":"350424107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安乐镇",
 		"parentCode":"350424"
 	},
@@ -67,7 +67,7 @@
 		"code":"350424108",
 		"fullCode":"350424108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水茜镇",
 		"parentCode":"350424"
 	},
@@ -75,7 +75,7 @@
 		"code":"350424109",
 		"fullCode":"350424109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊镇",
 		"parentCode":"350424"
 	},
@@ -83,7 +83,7 @@
 		"code":"350424110",
 		"fullCode":"350424110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南镇",
 		"parentCode":"350424"
 	},
@@ -91,7 +91,7 @@
 		"code":"350424202",
 		"fullCode":"350424202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"济村乡",
 		"parentCode":"350424"
 	},
@@ -99,7 +99,7 @@
 		"code":"350424204",
 		"fullCode":"350424204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"方田乡",
 		"parentCode":"350424"
 	},
@@ -107,7 +107,7 @@
 		"code":"350424207",
 		"fullCode":"350424207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"治平畲族乡",
 		"parentCode":"350424"
 	},
@@ -115,7 +115,7 @@
 		"code":"350424208",
 		"fullCode":"350424208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中沙乡",
 		"parentCode":"350424"
 	},
@@ -123,7 +123,7 @@
 		"code":"350424209",
 		"fullCode":"350424209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河龙乡",
 		"parentCode":"350424"
 	}

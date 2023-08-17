@@ -3,7 +3,7 @@
 		"code":"340121100",
 		"fullCode":"340121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水湖镇",
 		"parentCode":"340121"
 	},
@@ -11,7 +11,7 @@
 		"code":"340121101",
 		"fullCode":"340121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄墓镇",
 		"parentCode":"340121"
 	},
@@ -19,7 +19,7 @@
 		"code":"340121102",
 		"fullCode":"340121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨庙镇",
 		"parentCode":"340121"
 	},
@@ -27,7 +27,7 @@
 		"code":"340121103",
 		"fullCode":"340121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴山镇",
 		"parentCode":"340121"
 	},
@@ -35,7 +35,7 @@
 		"code":"340121104",
 		"fullCode":"340121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗集镇",
 		"parentCode":"340121"
 	},
@@ -43,7 +43,7 @@
 		"code":"340121105",
 		"fullCode":"340121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双墩镇",
 		"parentCode":"340121"
 	},
@@ -51,7 +51,7 @@
 		"code":"340121106",
 		"fullCode":"340121106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下塘镇",
 		"parentCode":"340121"
 	},
@@ -59,7 +59,7 @@
 		"code":"340121107",
 		"fullCode":"340121107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱巷镇",
 		"parentCode":"340121"
 	},
@@ -67,7 +67,7 @@
 		"code":"340121109",
 		"fullCode":"340121109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶楼镇",
 		"parentCode":"340121"
 	},
@@ -75,7 +75,7 @@
 		"code":"340121110",
 		"fullCode":"340121110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜集镇",
 		"parentCode":"340121"
 	},
@@ -83,7 +83,7 @@
 		"code":"340121111",
 		"fullCode":"340121111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义井镇",
 		"parentCode":"340121"
 	},
@@ -91,7 +91,7 @@
 		"code":"340121112",
 		"fullCode":"340121112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"左店镇",
 		"parentCode":"340121"
 	},
@@ -99,7 +99,7 @@
 		"code":"340121200",
 		"fullCode":"340121200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗塘乡",
 		"parentCode":"340121"
 	},
@@ -107,7 +107,7 @@
 		"code":"340121203",
 		"fullCode":"340121203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"造甲乡",
 		"parentCode":"340121"
 	},
@@ -115,7 +115,7 @@
 		"code":"340121400",
 		"fullCode":"340121400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双凤开发区",
 		"parentCode":"340121"
 	},
@@ -123,7 +123,7 @@
 		"code":"340121401",
 		"fullCode":"340121401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽省水家湖农场",
 		"parentCode":"340121"
 	}

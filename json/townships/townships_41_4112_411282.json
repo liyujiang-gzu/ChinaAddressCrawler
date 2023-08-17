@@ -3,7 +3,7 @@
 		"code":"411282100",
 		"fullCode":"411282100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"411282"
 	},
@@ -11,7 +11,7 @@
 		"code":"411282101",
 		"fullCode":"411282101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尹庄镇",
 		"parentCode":"411282"
 	},
@@ -19,7 +19,7 @@
 		"code":"411282102",
 		"fullCode":"411282102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱阳镇",
 		"parentCode":"411282"
 	},
@@ -27,7 +27,7 @@
 		"code":"411282103",
 		"fullCode":"411282103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳平镇",
 		"parentCode":"411282"
 	},
@@ -35,7 +35,7 @@
 		"code":"411282104",
 		"fullCode":"411282104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"故县镇",
 		"parentCode":"411282"
 	},
@@ -43,7 +43,7 @@
 		"code":"411282105",
 		"fullCode":"411282105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"豫灵镇",
 		"parentCode":"411282"
 	},
@@ -51,7 +51,7 @@
 		"code":"411282106",
 		"fullCode":"411282106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大王镇",
 		"parentCode":"411282"
 	},
@@ -59,7 +59,7 @@
 		"code":"411282107",
 		"fullCode":"411282107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳店镇",
 		"parentCode":"411282"
 	},
@@ -67,7 +67,7 @@
 		"code":"411282108",
 		"fullCode":"411282108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"函谷关镇",
 		"parentCode":"411282"
 	},
@@ -75,7 +75,7 @@
 		"code":"411282109",
 		"fullCode":"411282109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"焦村镇",
 		"parentCode":"411282"
 	},
@@ -83,7 +83,7 @@
 		"code":"411282200",
 		"fullCode":"411282200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川口乡",
 		"parentCode":"411282"
 	},
@@ -91,7 +91,7 @@
 		"code":"411282201",
 		"fullCode":"411282201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺河乡",
 		"parentCode":"411282"
 	},
@@ -99,7 +99,7 @@
 		"code":"411282202",
 		"fullCode":"411282202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏村乡",
 		"parentCode":"411282"
 	},
@@ -107,7 +107,7 @@
 		"code":"411282203",
 		"fullCode":"411282203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五亩乡",
 		"parentCode":"411282"
 	},
@@ -115,7 +115,7 @@
 		"code":"411282204",
 		"fullCode":"411282204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西阎乡",
 		"parentCode":"411282"
 	},
@@ -123,7 +123,7 @@
 		"code":"411282400",
 		"fullCode":"411282400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵宝市园艺场",
 		"parentCode":"411282"
 	},
@@ -131,7 +131,7 @@
 		"code":"411282401",
 		"fullCode":"411282401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涧东区",
 		"parentCode":"411282"
 	},
@@ -139,7 +139,7 @@
 		"code":"411282402",
 		"fullCode":"411282402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涧西区",
 		"parentCode":"411282"
 	}

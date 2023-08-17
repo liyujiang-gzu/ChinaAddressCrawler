@@ -3,7 +3,7 @@
 		"code":"330122002",
 		"fullCode":"330122002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧县街道",
 		"parentCode":"330122"
 	},
@@ -11,7 +11,7 @@
 		"code":"330122003",
 		"fullCode":"330122003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐君街道",
 		"parentCode":"330122"
 	},
@@ -19,7 +19,7 @@
 		"code":"330122004",
 		"fullCode":"330122004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"330122"
 	},
@@ -27,7 +27,7 @@
 		"code":"330122005",
 		"fullCode":"330122005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤川街道",
 		"parentCode":"330122"
 	},
@@ -35,7 +35,7 @@
 		"code":"330122101",
 		"fullCode":"330122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富春江镇",
 		"parentCode":"330122"
 	},
@@ -43,7 +43,7 @@
 		"code":"330122102",
 		"fullCode":"330122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"横村镇",
 		"parentCode":"330122"
 	},
@@ -51,7 +51,7 @@
 		"code":"330122109",
 		"fullCode":"330122109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"分水镇",
 		"parentCode":"330122"
 	},
@@ -59,7 +59,7 @@
 		"code":"330122110",
 		"fullCode":"330122110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瑶琳镇",
 		"parentCode":"330122"
 	},
@@ -67,7 +67,7 @@
 		"code":"330122112",
 		"fullCode":"330122112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百江镇",
 		"parentCode":"330122"
 	},
@@ -75,7 +75,7 @@
 		"code":"330122113",
 		"fullCode":"330122113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江南镇",
 		"parentCode":"330122"
 	},
@@ -83,7 +83,7 @@
 		"code":"330122201",
 		"fullCode":"330122201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莪山畲族乡",
 		"parentCode":"330122"
 	},
@@ -91,7 +91,7 @@
 		"code":"330122202",
 		"fullCode":"330122202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钟山乡",
 		"parentCode":"330122"
 	},
@@ -99,7 +99,7 @@
 		"code":"330122204",
 		"fullCode":"330122204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新合乡",
 		"parentCode":"330122"
 	},
@@ -107,7 +107,7 @@
 		"code":"330122210",
 		"fullCode":"330122210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合村乡",
 		"parentCode":"330122"
 	}

@@ -3,7 +3,7 @@
 		"code":"110109001",
 		"fullCode":"110109001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大峪街道",
 		"parentCode":"110109"
 	},
@@ -11,7 +11,7 @@
 		"code":"110109002",
 		"fullCode":"110109002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城子街道",
 		"parentCode":"110109"
 	},
@@ -19,7 +19,7 @@
 		"code":"110109003",
 		"fullCode":"110109003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东辛房街道",
 		"parentCode":"110109"
 	},
@@ -27,7 +27,7 @@
 		"code":"110109004",
 		"fullCode":"110109004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大台街道",
 		"parentCode":"110109"
 	},
@@ -35,7 +35,7 @@
 		"code":"110109005",
 		"fullCode":"110109005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王平地区",
 		"parentCode":"110109"
 	},
@@ -43,7 +43,7 @@
 		"code":"110109006",
 		"fullCode":"110109006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永定地区",
 		"parentCode":"110109"
 	},
@@ -51,7 +51,7 @@
 		"code":"110109007",
 		"fullCode":"110109007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉地区",
 		"parentCode":"110109"
 	},
@@ -59,7 +59,7 @@
 		"code":"110109101",
 		"fullCode":"110109101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潭柘寺镇",
 		"parentCode":"110109"
 	},
@@ -67,7 +67,7 @@
 		"code":"110109104",
 		"fullCode":"110109104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"军庄镇",
 		"parentCode":"110109"
 	},
@@ -75,7 +75,7 @@
 		"code":"110109105",
 		"fullCode":"110109105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雁翅镇",
 		"parentCode":"110109"
 	},
@@ -83,7 +83,7 @@
 		"code":"110109106",
 		"fullCode":"110109106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斋堂镇",
 		"parentCode":"110109"
 	},
@@ -91,7 +91,7 @@
 		"code":"110109107",
 		"fullCode":"110109107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水镇",
 		"parentCode":"110109"
 	},
@@ -99,7 +99,7 @@
 		"code":"110109108",
 		"fullCode":"110109108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"妙峰山镇",
 		"parentCode":"110109"
 	}

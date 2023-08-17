@@ -3,7 +3,7 @@
 		"code":"211202001",
 		"fullCode":"211202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街道",
 		"parentCode":"211202"
 	},
@@ -11,7 +11,7 @@
 		"code":"211202002",
 		"fullCode":"211202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工人街道",
 		"parentCode":"211202"
 	},
@@ -19,7 +19,7 @@
 		"code":"211202003",
 		"fullCode":"211202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁西街道",
 		"parentCode":"211202"
 	},
@@ -27,7 +27,7 @@
 		"code":"211202004",
 		"fullCode":"211202004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜钟街道",
 		"parentCode":"211202"
 	},
@@ -35,7 +35,7 @@
 		"code":"211202005",
 		"fullCode":"211202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柴河街道",
 		"parentCode":"211202"
 	},
@@ -43,7 +43,7 @@
 		"code":"211202006",
 		"fullCode":"211202006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭东街道",
 		"parentCode":"211202"
 	},
@@ -51,7 +51,7 @@
 		"code":"211202007",
 		"fullCode":"211202007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辽海街道",
 		"parentCode":"211202"
 	},
@@ -59,7 +59,7 @@
 		"code":"211202201",
 		"fullCode":"211202201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山乡",
 		"parentCode":"211202"
 	},
@@ -67,7 +67,7 @@
 		"code":"211202401",
 		"fullCode":"211202401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁岭经济技术开发区",
 		"parentCode":"211202"
 	}

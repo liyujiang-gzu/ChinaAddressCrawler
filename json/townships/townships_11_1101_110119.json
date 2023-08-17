@@ -3,7 +3,7 @@
 		"code":"110119001",
 		"fullCode":"110119001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百泉街道",
 		"parentCode":"110119"
 	},
@@ -11,7 +11,7 @@
 		"code":"110119002",
 		"fullCode":"110119002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香水园街道",
 		"parentCode":"110119"
 	},
@@ -19,7 +19,7 @@
 		"code":"110119003",
 		"fullCode":"110119003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"儒林街道",
 		"parentCode":"110119"
 	},
@@ -27,7 +27,7 @@
 		"code":"110119100",
 		"fullCode":"110119100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延庆镇",
 		"parentCode":"110119"
 	},
@@ -35,7 +35,7 @@
 		"code":"110119101",
 		"fullCode":"110119101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康庄镇",
 		"parentCode":"110119"
 	},
@@ -43,7 +43,7 @@
 		"code":"110119102",
 		"fullCode":"110119102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八达岭镇",
 		"parentCode":"110119"
 	},
@@ -51,7 +51,7 @@
 		"code":"110119103",
 		"fullCode":"110119103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永宁镇",
 		"parentCode":"110119"
 	},
@@ -59,7 +59,7 @@
 		"code":"110119104",
 		"fullCode":"110119104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧县镇",
 		"parentCode":"110119"
 	},
@@ -67,7 +67,7 @@
 		"code":"110119105",
 		"fullCode":"110119105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张山营镇",
 		"parentCode":"110119"
 	},
@@ -75,7 +75,7 @@
 		"code":"110119106",
 		"fullCode":"110119106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四海镇",
 		"parentCode":"110119"
 	},
@@ -83,7 +83,7 @@
 		"code":"110119107",
 		"fullCode":"110119107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千家店镇",
 		"parentCode":"110119"
 	},
@@ -91,7 +91,7 @@
 		"code":"110119108",
 		"fullCode":"110119108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈家营镇",
 		"parentCode":"110119"
 	},
@@ -99,7 +99,7 @@
 		"code":"110119109",
 		"fullCode":"110119109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大榆树镇",
 		"parentCode":"110119"
 	},
@@ -107,7 +107,7 @@
 		"code":"110119110",
 		"fullCode":"110119110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"井庄镇",
 		"parentCode":"110119"
 	},
@@ -115,7 +115,7 @@
 		"code":"110119200",
 		"fullCode":"110119200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庄科乡",
 		"parentCode":"110119"
 	},
@@ -123,7 +123,7 @@
 		"code":"110119201",
 		"fullCode":"110119201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘斌堡乡",
 		"parentCode":"110119"
 	},
@@ -131,7 +131,7 @@
 		"code":"110119202",
 		"fullCode":"110119202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香营乡",
 		"parentCode":"110119"
 	},
@@ -139,7 +139,7 @@
 		"code":"110119203",
 		"fullCode":"110119203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珍珠泉乡",
 		"parentCode":"110119"
 	}

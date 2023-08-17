@@ -3,7 +3,7 @@
 		"code":"320322001",
 		"fullCode":"320322001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沛城街道",
 		"parentCode":"320322"
 	},
@@ -11,7 +11,7 @@
 		"code":"320322002",
 		"fullCode":"320322002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大屯街道",
 		"parentCode":"320322"
 	},
@@ -19,7 +19,7 @@
 		"code":"320322003",
 		"fullCode":"320322003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉源街道",
 		"parentCode":"320322"
 	},
@@ -27,7 +27,7 @@
 		"code":"320322004",
 		"fullCode":"320322004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉兴街道",
 		"parentCode":"320322"
 	},
@@ -35,7 +35,7 @@
 		"code":"320322101",
 		"fullCode":"320322101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙固镇",
 		"parentCode":"320322"
 	},
@@ -43,7 +43,7 @@
 		"code":"320322102",
 		"fullCode":"320322102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨屯镇",
 		"parentCode":"320322"
 	},
@@ -51,7 +51,7 @@
 		"code":"320322105",
 		"fullCode":"320322105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡寨镇",
 		"parentCode":"320322"
 	},
@@ -59,7 +59,7 @@
 		"code":"320322106",
 		"fullCode":"320322106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魏庙镇",
 		"parentCode":"320322"
 	},
@@ -67,7 +67,7 @@
 		"code":"320322107",
 		"fullCode":"320322107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五段镇",
 		"parentCode":"320322"
 	},
@@ -75,7 +75,7 @@
 		"code":"320322108",
 		"fullCode":"320322108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张庄镇",
 		"parentCode":"320322"
 	},
@@ -83,7 +83,7 @@
 		"code":"320322109",
 		"fullCode":"320322109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张寨镇",
 		"parentCode":"320322"
 	},
@@ -91,7 +91,7 @@
 		"code":"320322110",
 		"fullCode":"320322110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敬安镇",
 		"parentCode":"320322"
 	},
@@ -99,7 +99,7 @@
 		"code":"320322111",
 		"fullCode":"320322111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口镇",
 		"parentCode":"320322"
 	},
@@ -107,7 +107,7 @@
 		"code":"320322112",
 		"fullCode":"320322112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栖山镇",
 		"parentCode":"320322"
 	},
@@ -115,7 +115,7 @@
 		"code":"320322113",
 		"fullCode":"320322113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹿楼镇",
 		"parentCode":"320322"
 	},
@@ -123,7 +123,7 @@
 		"code":"320322114",
 		"fullCode":"320322114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱寨镇",
 		"parentCode":"320322"
 	},
@@ -131,7 +131,7 @@
 		"code":"320322115",
 		"fullCode":"320322115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安国镇",
 		"parentCode":"320322"
 	},
@@ -139,7 +139,7 @@
 		"code":"320322403",
 		"fullCode":"320322403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沛县湖西农场管理委员会",
 		"parentCode":"320322"
 	}

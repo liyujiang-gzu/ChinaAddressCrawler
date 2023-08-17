@@ -3,7 +3,7 @@
 		"code":"500112002",
 		"fullCode":"500112002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙湖街道",
 		"parentCode":"500112"
 	},
@@ -11,7 +11,7 @@
 		"code":"500112004",
 		"fullCode":"500112004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回兴街道",
 		"parentCode":"500112"
 	},
@@ -19,7 +19,7 @@
 		"code":"500112007",
 		"fullCode":"500112007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸳鸯街道",
 		"parentCode":"500112"
 	},
@@ -27,7 +27,7 @@
 		"code":"500112008",
 		"fullCode":"500112008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠云街道",
 		"parentCode":"500112"
 	},
@@ -35,7 +35,7 @@
 		"code":"500112009",
 		"fullCode":"500112009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人和街道",
 		"parentCode":"500112"
 	},
@@ -43,7 +43,7 @@
 		"code":"500112010",
 		"fullCode":"500112010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天宫殿街道",
 		"parentCode":"500112"
 	},
@@ -51,7 +51,7 @@
 		"code":"500112011",
 		"fullCode":"500112011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙溪街道",
 		"parentCode":"500112"
 	},
@@ -59,7 +59,7 @@
 		"code":"500112012",
 		"fullCode":"500112012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山街道",
 		"parentCode":"500112"
 	},
@@ -67,7 +67,7 @@
 		"code":"500112013",
 		"fullCode":"500112013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙塔街道",
 		"parentCode":"500112"
 	},
@@ -75,7 +75,7 @@
 		"code":"500112014",
 		"fullCode":"500112014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大竹林街道",
 		"parentCode":"500112"
 	},
@@ -83,7 +83,7 @@
 		"code":"500112015",
 		"fullCode":"500112015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"悦来街道",
 		"parentCode":"500112"
 	},
@@ -91,7 +91,7 @@
 		"code":"500112016",
 		"fullCode":"500112016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两路街道",
 		"parentCode":"500112"
 	},
@@ -99,7 +99,7 @@
 		"code":"500112017",
 		"fullCode":"500112017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双凤桥街道",
 		"parentCode":"500112"
 	},
@@ -107,7 +107,7 @@
 		"code":"500112018",
 		"fullCode":"500112018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家街道",
 		"parentCode":"500112"
 	},
@@ -115,7 +115,7 @@
 		"code":"500112019",
 		"fullCode":"500112019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"礼嘉街道",
 		"parentCode":"500112"
 	},
@@ -123,7 +123,7 @@
 		"code":"500112020",
 		"fullCode":"500112020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝圣湖街道",
 		"parentCode":"500112"
 	},
@@ -131,7 +131,7 @@
 		"code":"500112021",
 		"fullCode":"500112021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山街道",
 		"parentCode":"500112"
 	},
@@ -139,7 +139,7 @@
 		"code":"500112022",
 		"fullCode":"500112022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康美街道",
 		"parentCode":"500112"
 	},
@@ -147,7 +147,7 @@
 		"code":"500112023",
 		"fullCode":"500112023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙桃街道",
 		"parentCode":"500112"
 	},
@@ -155,7 +155,7 @@
 		"code":"500112129",
 		"fullCode":"500112129000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉峰山镇",
 		"parentCode":"500112"
 	},
@@ -163,7 +163,7 @@
 		"code":"500112131",
 		"fullCode":"500112131000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙兴镇",
 		"parentCode":"500112"
 	},
@@ -171,7 +171,7 @@
 		"code":"500112133",
 		"fullCode":"500112133000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"统景镇",
 		"parentCode":"500112"
 	},
@@ -179,7 +179,7 @@
 		"code":"500112135",
 		"fullCode":"500112135000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大湾镇",
 		"parentCode":"500112"
 	},
@@ -187,7 +187,7 @@
 		"code":"500112138",
 		"fullCode":"500112138000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"500112"
 	},
@@ -195,7 +195,7 @@
 		"code":"500112139",
 		"fullCode":"500112139000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木耳镇",
 		"parentCode":"500112"
 	},
@@ -203,7 +203,7 @@
 		"code":"500112140",
 		"fullCode":"500112140000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨竹镇",
 		"parentCode":"500112"
 	},
@@ -211,7 +211,7 @@
 		"code":"500112141",
 		"fullCode":"500112141000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古路镇",
 		"parentCode":"500112"
 	},
@@ -219,7 +219,7 @@
 		"code":"500112142",
 		"fullCode":"500112142000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石船镇",
 		"parentCode":"500112"
 	},
@@ -227,7 +227,7 @@
 		"code":"500112143",
 		"fullCode":"500112143000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大盛镇",
 		"parentCode":"500112"
 	},
@@ -235,7 +235,7 @@
 		"code":"500112144",
 		"fullCode":"500112144000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛碛镇",
 		"parentCode":"500112"
 	}

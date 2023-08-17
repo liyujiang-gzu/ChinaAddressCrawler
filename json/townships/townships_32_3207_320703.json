@@ -3,7 +3,7 @@
 		"code":"320703001",
 		"fullCode":"320703001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墟沟街道",
 		"parentCode":"320703"
 	},
@@ -11,7 +11,7 @@
 		"code":"320703003",
 		"fullCode":"320703003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连云街道",
 		"parentCode":"320703"
 	},
@@ -19,7 +19,7 @@
 		"code":"320703004",
 		"fullCode":"320703004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云山街道",
 		"parentCode":"320703"
 	},
@@ -27,7 +27,7 @@
 		"code":"320703005",
 		"fullCode":"320703005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥街道",
 		"parentCode":"320703"
 	},
@@ -35,7 +35,7 @@
 		"code":"320703006",
 		"fullCode":"320703006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连岛街道",
 		"parentCode":"320703"
 	},
@@ -43,7 +43,7 @@
 		"code":"320703007",
 		"fullCode":"320703007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐圩街道",
 		"parentCode":"320703"
 	},
@@ -51,7 +51,7 @@
 		"code":"320703008",
 		"fullCode":"320703008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海州湾街道",
 		"parentCode":"320703"
 	},
@@ -59,7 +59,7 @@
 		"code":"320703009",
 		"fullCode":"320703009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宿城街道",
 		"parentCode":"320703"
 	},
@@ -67,7 +67,7 @@
 		"code":"320703010",
 		"fullCode":"320703010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高公岛街道",
 		"parentCode":"320703"
 	},
@@ -75,7 +75,7 @@
 		"code":"320703203",
 		"fullCode":"320703203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前三岛乡",
 		"parentCode":"320703"
 	},
@@ -83,7 +83,7 @@
 		"code":"320703400",
 		"fullCode":"320703400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连云港碱厂",
 		"parentCode":"320703"
 	},
@@ -91,7 +91,7 @@
 		"code":"320703401",
 		"fullCode":"320703401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东辛农场",
 		"parentCode":"320703"
 	},
@@ -99,7 +99,7 @@
 		"code":"320703402",
 		"fullCode":"320703402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连云经济技术开发区",
 		"parentCode":"320703"
 	}

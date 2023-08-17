@@ -3,7 +3,7 @@
 		"code":"610622001",
 		"fullCode":"610622001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大禹街道",
 		"parentCode":"610622"
 	},
@@ -11,7 +11,7 @@
 		"code":"610622101",
 		"fullCode":"610622101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永坪镇",
 		"parentCode":"610622"
 	},
@@ -19,7 +19,7 @@
 		"code":"610622102",
 		"fullCode":"610622102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"延水关镇",
 		"parentCode":"610622"
 	},
@@ -27,7 +27,7 @@
 		"code":"610622103",
 		"fullCode":"610622103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文安驿镇",
 		"parentCode":"610622"
 	},
@@ -35,7 +35,7 @@
 		"code":"610622104",
 		"fullCode":"610622104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家圪台镇",
 		"parentCode":"610622"
 	},
@@ -43,7 +43,7 @@
 		"code":"610622105",
 		"fullCode":"610622105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾家坪镇",
 		"parentCode":"610622"
 	},
@@ -51,7 +51,7 @@
 		"code":"610622107",
 		"fullCode":"610622107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关庄镇",
 		"parentCode":"610622"
 	},
@@ -59,7 +59,7 @@
 		"code":"610622108",
 		"fullCode":"610622108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乾坤湾镇",
 		"parentCode":"610622"
 	}

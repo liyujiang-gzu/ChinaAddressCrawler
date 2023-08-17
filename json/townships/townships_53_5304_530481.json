@@ -3,7 +3,7 @@
 		"code":"530481001",
 		"fullCode":"530481001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤麓街道",
 		"parentCode":"530481"
 	},
@@ -11,7 +11,7 @@
 		"code":"530481002",
 		"fullCode":"530481002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙街街道",
 		"parentCode":"530481"
 	},
@@ -19,7 +19,7 @@
 		"code":"530481101",
 		"fullCode":"530481101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"右所镇",
 		"parentCode":"530481"
 	},
@@ -27,7 +27,7 @@
 		"code":"530481102",
 		"fullCode":"530481102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳宗镇",
 		"parentCode":"530481"
 	},
@@ -35,7 +35,7 @@
 		"code":"530481103",
 		"fullCode":"530481103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海口镇",
 		"parentCode":"530481"
 	},
@@ -43,7 +43,7 @@
 		"code":"530481104",
 		"fullCode":"530481104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九村镇",
 		"parentCode":"530481"
 	}

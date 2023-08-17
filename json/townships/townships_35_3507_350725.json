@@ -3,7 +3,7 @@
 		"code":"350725001",
 		"fullCode":"350725001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"熊山街道",
 		"parentCode":"350725"
 	},
@@ -11,7 +11,7 @@
 		"code":"350725101",
 		"fullCode":"350725101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东平镇",
 		"parentCode":"350725"
 	},
@@ -19,7 +19,7 @@
 		"code":"350725102",
 		"fullCode":"350725102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石屯镇",
 		"parentCode":"350725"
 	},
@@ -27,7 +27,7 @@
 		"code":"350725103",
 		"fullCode":"350725103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁山镇",
 		"parentCode":"350725"
 	},
@@ -35,7 +35,7 @@
 		"code":"350725104",
 		"fullCode":"350725104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇前镇",
 		"parentCode":"350725"
 	},
@@ -43,7 +43,7 @@
 		"code":"350725200",
 		"fullCode":"350725200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星溪乡",
 		"parentCode":"350725"
 	},
@@ -51,7 +51,7 @@
 		"code":"350725201",
 		"fullCode":"350725201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"外屯乡",
 		"parentCode":"350725"
 	},
@@ -59,7 +59,7 @@
 		"code":"350725202",
 		"fullCode":"350725202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨源乡",
 		"parentCode":"350725"
 	},
@@ -67,7 +67,7 @@
 		"code":"350725203",
 		"fullCode":"350725203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澄源乡",
 		"parentCode":"350725"
 	},
@@ -75,7 +75,7 @@
 		"code":"350725204",
 		"fullCode":"350725204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭腰乡",
 		"parentCode":"350725"
 	}

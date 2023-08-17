@@ -3,7 +3,7 @@
 		"code":"330481001",
 		"fullCode":"330481001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"硖石街道",
 		"parentCode":"330481"
 	},
@@ -11,7 +11,7 @@
 		"code":"330481002",
 		"fullCode":"330481002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海洲街道",
 		"parentCode":"330481"
 	},
@@ -19,7 +19,7 @@
 		"code":"330481003",
 		"fullCode":"330481003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海昌街道",
 		"parentCode":"330481"
 	},
@@ -27,7 +27,7 @@
 		"code":"330481004",
 		"fullCode":"330481004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马桥街道",
 		"parentCode":"330481"
 	},
@@ -35,7 +35,7 @@
 		"code":"330481101",
 		"fullCode":"330481101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"许村镇",
 		"parentCode":"330481"
 	},
@@ -43,7 +43,7 @@
 		"code":"330481103",
 		"fullCode":"330481103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安镇",
 		"parentCode":"330481"
 	},
@@ -51,7 +51,7 @@
 		"code":"330481105",
 		"fullCode":"330481105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周王庙镇",
 		"parentCode":"330481"
 	},
@@ -59,7 +59,7 @@
 		"code":"330481106",
 		"fullCode":"330481106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁桥镇",
 		"parentCode":"330481"
 	},
@@ -67,7 +67,7 @@
 		"code":"330481107",
 		"fullCode":"330481107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斜桥镇",
 		"parentCode":"330481"
 	},
@@ -75,7 +75,7 @@
 		"code":"330481108",
 		"fullCode":"330481108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄湾镇",
 		"parentCode":"330481"
 	},
@@ -83,7 +83,7 @@
 		"code":"330481110",
 		"fullCode":"330481110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐官镇",
 		"parentCode":"330481"
 	},
@@ -91,7 +91,7 @@
 		"code":"330481112",
 		"fullCode":"330481112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"袁花镇",
 		"parentCode":"330481"
 	}

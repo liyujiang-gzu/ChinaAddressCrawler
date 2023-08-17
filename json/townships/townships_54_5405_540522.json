@@ -3,7 +3,7 @@
 		"code":"540522100",
 		"fullCode":"540522100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉雄镇",
 		"parentCode":"540522"
 	},
@@ -11,7 +11,7 @@
 		"code":"540522101",
 		"fullCode":"540522101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲竹林镇",
 		"parentCode":"540522"
 	},
@@ -19,7 +19,7 @@
 		"code":"540522102",
 		"fullCode":"540522102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杰德秀镇",
 		"parentCode":"540522"
 	},
@@ -27,7 +27,7 @@
 		"code":"540522103",
 		"fullCode":"540522103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗堆镇",
 		"parentCode":"540522"
 	},
@@ -35,7 +35,7 @@
 		"code":"540522104",
 		"fullCode":"540522104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江塘镇",
 		"parentCode":"540522"
 	},
@@ -43,7 +43,7 @@
 		"code":"540522200",
 		"fullCode":"540522200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朗杰学乡",
 		"parentCode":"540522"
 	},
@@ -51,7 +51,7 @@
 		"code":"540522201",
 		"fullCode":"540522201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌果乡",
 		"parentCode":"540522"
 	},
@@ -59,7 +59,7 @@
 		"code":"540522205",
 		"fullCode":"540522205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东拉乡",
 		"parentCode":"540522"
 	},
@@ -67,7 +67,7 @@
 		"code":"540522206",
 		"fullCode":"540522206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克西乡",
 		"parentCode":"540522"
 	}

@@ -3,7 +3,7 @@
 		"code":"152223100",
 		"fullCode":"152223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"音德尔镇",
 		"parentCode":"152223"
 	},
@@ -11,7 +11,7 @@
 		"code":"152223101",
 		"fullCode":"152223101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新林镇",
 		"parentCode":"152223"
 	},
@@ -19,7 +19,7 @@
 		"code":"152223102",
 		"fullCode":"152223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦高勒镇",
 		"parentCode":"152223"
 	},
@@ -27,7 +27,7 @@
 		"code":"152223103",
 		"fullCode":"152223103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡尔勒镇",
 		"parentCode":"152223"
 	},
@@ -35,7 +35,7 @@
 		"code":"152223104",
 		"fullCode":"152223104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿尔本格勒镇",
 		"parentCode":"152223"
 	},
@@ -43,7 +43,7 @@
 		"code":"152223105",
 		"fullCode":"152223105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴达尔胡镇",
 		"parentCode":"152223"
 	},
@@ -51,7 +51,7 @@
 		"code":"152223106",
 		"fullCode":"152223106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"图牧吉镇",
 		"parentCode":"152223"
 	},
@@ -59,7 +59,7 @@
 		"code":"152223107",
 		"fullCode":"152223107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"好力保镇",
 		"parentCode":"152223"
 	},
@@ -67,7 +67,7 @@
 		"code":"152223201",
 		"fullCode":"152223201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦乌兰苏木",
 		"parentCode":"152223"
 	},
@@ -75,7 +75,7 @@
 		"code":"152223202",
 		"fullCode":"152223202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝力根花苏木",
 		"parentCode":"152223"
 	},
@@ -83,7 +83,7 @@
 		"code":"152223203",
 		"fullCode":"152223203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿拉达尔吐苏木",
 		"parentCode":"152223"
 	},
@@ -91,7 +91,7 @@
 		"code":"152223204",
 		"fullCode":"152223204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴彦扎拉嘎乡",
 		"parentCode":"152223"
 	},
@@ -99,7 +99,7 @@
 		"code":"152223205",
 		"fullCode":"152223205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"努文木仁乡",
 		"parentCode":"152223"
 	},
@@ -107,7 +107,7 @@
 		"code":"152223400",
 		"fullCode":"152223400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内蒙古自治区图牧吉强制隔离戒毒所",
 		"parentCode":"152223"
 	},
@@ -115,7 +115,7 @@
 		"code":"152223401",
 		"fullCode":"152223401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内蒙古自治区监狱管理局东部分局",
 		"parentCode":"152223"
 	},
@@ -123,7 +123,7 @@
 		"code":"152223404",
 		"fullCode":"152223404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"种畜场",
 		"parentCode":"152223"
 	},
@@ -131,7 +131,7 @@
 		"code":"152223405",
 		"fullCode":"152223405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八一牧场",
 		"parentCode":"152223"
 	},
@@ -139,7 +139,7 @@
 		"code":"152223406",
 		"fullCode":"152223406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴达尔胡农场",
 		"parentCode":"152223"
 	}

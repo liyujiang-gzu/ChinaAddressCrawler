@@ -3,7 +3,7 @@
 		"code":"230231100",
 		"fullCode":"230231100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拜泉镇",
 		"parentCode":"230231"
 	},
@@ -11,7 +11,7 @@
 		"code":"230231101",
 		"fullCode":"230231101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三道镇",
 		"parentCode":"230231"
 	},
@@ -19,7 +19,7 @@
 		"code":"230231102",
 		"fullCode":"230231102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴农镇",
 		"parentCode":"230231"
 	},
@@ -27,7 +27,7 @@
 		"code":"230231103",
 		"fullCode":"230231103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长春镇",
 		"parentCode":"230231"
 	},
@@ -35,7 +35,7 @@
 		"code":"230231104",
 		"fullCode":"230231104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉镇",
 		"parentCode":"230231"
 	},
@@ -43,7 +43,7 @@
 		"code":"230231105",
 		"fullCode":"230231105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国富镇",
 		"parentCode":"230231"
 	},
@@ -51,7 +51,7 @@
 		"code":"230231106",
 		"fullCode":"230231106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富强镇",
 		"parentCode":"230231"
 	},
@@ -59,7 +59,7 @@
 		"code":"230231200",
 		"fullCode":"230231200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新生乡",
 		"parentCode":"230231"
 	},
@@ -67,7 +67,7 @@
 		"code":"230231201",
 		"fullCode":"230231201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴国乡",
 		"parentCode":"230231"
 	},
@@ -75,7 +75,7 @@
 		"code":"230231203",
 		"fullCode":"230231203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上升乡",
 		"parentCode":"230231"
 	},
@@ -83,7 +83,7 @@
 		"code":"230231204",
 		"fullCode":"230231204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华乡",
 		"parentCode":"230231"
 	},
@@ -91,7 +91,7 @@
 		"code":"230231206",
 		"fullCode":"230231206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大众乡",
 		"parentCode":"230231"
 	},
@@ -99,7 +99,7 @@
 		"code":"230231209",
 		"fullCode":"230231209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰产乡",
 		"parentCode":"230231"
 	},
@@ -107,7 +107,7 @@
 		"code":"230231210",
 		"fullCode":"230231210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永勤乡",
 		"parentCode":"230231"
 	},
@@ -115,7 +115,7 @@
 		"code":"230231212",
 		"fullCode":"230231212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱农乡",
 		"parentCode":"230231"
 	},
@@ -123,7 +123,7 @@
 		"code":"230231214",
 		"fullCode":"230231214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"时中乡",
 		"parentCode":"230231"
 	}

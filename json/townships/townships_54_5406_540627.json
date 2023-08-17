@@ -3,7 +3,7 @@
 		"code":"540627100",
 		"fullCode":"540627100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普保镇",
 		"parentCode":"540627"
 	},
@@ -11,7 +11,7 @@
 		"code":"540627101",
 		"fullCode":"540627101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北拉镇",
 		"parentCode":"540627"
 	},
@@ -19,7 +19,7 @@
 		"code":"540627102",
 		"fullCode":"540627102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德庆镇",
 		"parentCode":"540627"
 	},
@@ -27,7 +27,7 @@
 		"code":"540627103",
 		"fullCode":"540627103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佳琼镇",
 		"parentCode":"540627"
 	},
@@ -35,7 +35,7 @@
 		"code":"540627205",
 		"fullCode":"540627205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尼玛乡",
 		"parentCode":"540627"
 	},
@@ -43,7 +43,7 @@
 		"code":"540627207",
 		"fullCode":"540627207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保吉乡",
 		"parentCode":"540627"
 	},
@@ -51,7 +51,7 @@
 		"code":"540627209",
 		"fullCode":"540627209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙乡",
 		"parentCode":"540627"
 	},
@@ -59,7 +59,7 @@
 		"code":"540627211",
 		"fullCode":"540627211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马前乡",
 		"parentCode":"540627"
 	},
@@ -67,7 +67,7 @@
 		"code":"540627215",
 		"fullCode":"540627215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门当乡",
 		"parentCode":"540627"
 	},
@@ -75,7 +75,7 @@
 		"code":"540627216",
 		"fullCode":"540627216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新吉乡",
 		"parentCode":"540627"
 	}

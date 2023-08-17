@@ -3,7 +3,7 @@
 		"code":"530322001",
 		"fullCode":"530322001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中枢街道",
 		"parentCode":"530322"
 	},
@@ -11,7 +11,7 @@
 		"code":"530322002",
 		"fullCode":"530322002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同乐街道",
 		"parentCode":"530322"
 	},
@@ -19,7 +19,7 @@
 		"code":"530322102",
 		"fullCode":"530322102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"530322"
 	},
@@ -27,7 +27,7 @@
 		"code":"530322103",
 		"fullCode":"530322103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔河镇",
 		"parentCode":"530322"
 	},
@@ -35,7 +35,7 @@
 		"code":"530322104",
 		"fullCode":"530322104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马街镇",
 		"parentCode":"530322"
 	},
@@ -43,7 +43,7 @@
 		"code":"530322105",
 		"fullCode":"530322105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"召夸镇",
 		"parentCode":"530322"
 	},
@@ -51,7 +51,7 @@
 		"code":"530322106",
 		"fullCode":"530322106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大莫古镇",
 		"parentCode":"530322"
 	},
@@ -59,7 +59,7 @@
 		"code":"530322107",
 		"fullCode":"530322107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芳华镇",
 		"parentCode":"530322"
 	},
@@ -67,7 +67,7 @@
 		"code":"530322108",
 		"fullCode":"530322108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小百户镇",
 		"parentCode":"530322"
 	},
@@ -75,7 +75,7 @@
 		"code":"530322201",
 		"fullCode":"530322201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"活水乡",
 		"parentCode":"530322"
 	},
@@ -83,7 +83,7 @@
 		"code":"530322202",
 		"fullCode":"530322202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙海乡",
 		"parentCode":"530322"
 	}

@@ -3,7 +3,7 @@
 		"code":"440512001",
 		"fullCode":"440512001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达濠街道",
 		"parentCode":"440512"
 	},
@@ -11,7 +11,7 @@
 		"code":"440512002",
 		"fullCode":"440512002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马窖街道",
 		"parentCode":"440512"
 	},
@@ -19,7 +19,7 @@
 		"code":"440512003",
 		"fullCode":"440512003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"礐石街道",
 		"parentCode":"440512"
 	},
@@ -27,7 +27,7 @@
 		"code":"440512004",
 		"fullCode":"440512004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广澳街道",
 		"parentCode":"440512"
 	},
@@ -35,7 +35,7 @@
 		"code":"440512005",
 		"fullCode":"440512005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海街道",
 		"parentCode":"440512"
 	},
@@ -43,7 +43,7 @@
 		"code":"440512006",
 		"fullCode":"440512006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河浦街道",
 		"parentCode":"440512"
 	},
@@ -51,7 +51,7 @@
 		"code":"440512007",
 		"fullCode":"440512007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉新街道",
 		"parentCode":"440512"
 	}

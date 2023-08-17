@@ -3,7 +3,7 @@
 		"code":"150626100",
 		"fullCode":"150626100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎鲁图镇",
 		"parentCode":"150626"
 	},
@@ -11,7 +11,7 @@
 		"code":"150626101",
 		"fullCode":"150626101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌审召镇",
 		"parentCode":"150626"
 	},
@@ -19,7 +19,7 @@
 		"code":"150626102",
 		"fullCode":"150626102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"图克镇",
 		"parentCode":"150626"
 	},
@@ -27,7 +27,7 @@
 		"code":"150626103",
 		"fullCode":"150626103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰陶勒盖镇",
 		"parentCode":"150626"
 	},
@@ -35,7 +35,7 @@
 		"code":"150626104",
 		"fullCode":"150626104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"无定河镇",
 		"parentCode":"150626"
 	},
@@ -43,7 +43,7 @@
 		"code":"150626200",
 		"fullCode":"150626200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏力德苏木",
 		"parentCode":"150626"
 	},
@@ -51,7 +51,7 @@
 		"code":"150626410",
 		"fullCode":"150626410000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏里格经济开发区",
 		"parentCode":"150626"
 	}

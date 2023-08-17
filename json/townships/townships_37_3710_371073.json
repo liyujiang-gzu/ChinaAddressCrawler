@@ -3,7 +3,7 @@
 		"code":"371073107",
 		"fullCode":"371073107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草庙子镇",
 		"parentCode":"371073"
 	},
@@ -11,7 +11,7 @@
 		"code":"371073112",
 		"fullCode":"371073112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪疃镇",
 		"parentCode":"371073"
 	},
@@ -19,7 +19,7 @@
 		"code":"371073113",
 		"fullCode":"371073113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苘山镇",
 		"parentCode":"371073"
 	}

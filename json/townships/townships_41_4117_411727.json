@@ -3,7 +3,7 @@
 		"code":"411727001",
 		"fullCode":"411727001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汝宁街道",
 		"parentCode":"411727"
 	},
@@ -11,7 +11,7 @@
 		"code":"411727002",
 		"fullCode":"411727002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三门闸街道",
 		"parentCode":"411727"
 	},
@@ -19,7 +19,7 @@
 		"code":"411727003",
 		"fullCode":"411727003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古塔街道",
 		"parentCode":"411727"
 	},
@@ -27,7 +27,7 @@
 		"code":"411727004",
 		"fullCode":"411727004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宿鸭湖街道",
 		"parentCode":"411727"
 	},
@@ -35,7 +35,7 @@
 		"code":"411727101",
 		"fullCode":"411727101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王岗镇",
 		"parentCode":"411727"
 	},
@@ -43,7 +43,7 @@
 		"code":"411727102",
 		"fullCode":"411727102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁祝镇",
 		"parentCode":"411727"
 	},
@@ -51,7 +51,7 @@
 		"code":"411727103",
 		"fullCode":"411727103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和孝镇",
 		"parentCode":"411727"
 	},
@@ -59,7 +59,7 @@
 		"code":"411727104",
 		"fullCode":"411727104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老君庙镇",
 		"parentCode":"411727"
 	},
@@ -67,7 +67,7 @@
 		"code":"411727105",
 		"fullCode":"411727105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留盆镇",
 		"parentCode":"411727"
 	},
@@ -75,7 +75,7 @@
 		"code":"411727106",
 		"fullCode":"411727106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金铺镇",
 		"parentCode":"411727"
 	},
@@ -83,7 +83,7 @@
 		"code":"411727107",
 		"fullCode":"411727107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东官庄镇",
 		"parentCode":"411727"
 	},
@@ -91,7 +91,7 @@
 		"code":"411727108",
 		"fullCode":"411727108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常兴镇",
 		"parentCode":"411727"
 	},
@@ -99,7 +99,7 @@
 		"code":"411727109",
 		"fullCode":"411727109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗店镇",
 		"parentCode":"411727"
 	},
@@ -107,7 +107,7 @@
 		"code":"411727110",
 		"fullCode":"411727110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩庄镇",
 		"parentCode":"411727"
 	},
@@ -115,7 +115,7 @@
 		"code":"411727111",
 		"fullCode":"411727111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三桥镇",
 		"parentCode":"411727"
 	},
@@ -123,7 +123,7 @@
 		"code":"411727112",
 		"fullCode":"411727112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张楼镇",
 		"parentCode":"411727"
 	},
@@ -131,7 +131,7 @@
 		"code":"411727204",
 		"fullCode":"411727204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南余店乡",
 		"parentCode":"411727"
 	},
@@ -139,7 +139,7 @@
 		"code":"411727212",
 		"fullCode":"411727212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板店乡",
 		"parentCode":"411727"
 	}

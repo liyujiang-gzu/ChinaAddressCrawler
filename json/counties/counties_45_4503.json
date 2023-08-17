@@ -3,7 +3,7 @@
 		"code":"450302",
 		"fullCode":"450302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"秀峰区",
 		"parentCode":"4503"
 	},
@@ -11,7 +11,7 @@
 		"code":"450303",
 		"fullCode":"450303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"叠彩区",
 		"parentCode":"4503"
 	},
@@ -19,7 +19,7 @@
 		"code":"450304",
 		"fullCode":"450304000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"象山区",
 		"parentCode":"4503"
 	},
@@ -27,7 +27,7 @@
 		"code":"450305",
 		"fullCode":"450305000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"七星区",
 		"parentCode":"4503"
 	},
@@ -35,7 +35,7 @@
 		"code":"450311",
 		"fullCode":"450311000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"雁山区",
 		"parentCode":"4503"
 	},
@@ -43,7 +43,7 @@
 		"code":"450312",
 		"fullCode":"450312000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临桂区",
 		"parentCode":"4503"
 	},
@@ -51,7 +51,7 @@
 		"code":"450321",
 		"fullCode":"450321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阳朔县",
 		"parentCode":"4503"
 	},
@@ -59,7 +59,7 @@
 		"code":"450323",
 		"fullCode":"450323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"灵川县",
 		"parentCode":"4503"
 	},
@@ -67,7 +67,7 @@
 		"code":"450324",
 		"fullCode":"450324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"全州县",
 		"parentCode":"4503"
 	},
@@ -75,7 +75,7 @@
 		"code":"450325",
 		"fullCode":"450325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴安县",
 		"parentCode":"4503"
 	},
@@ -83,7 +83,7 @@
 		"code":"450326",
 		"fullCode":"450326000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永福县",
 		"parentCode":"4503"
 	},
@@ -91,7 +91,7 @@
 		"code":"450327",
 		"fullCode":"450327000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"灌阳县",
 		"parentCode":"4503"
 	},
@@ -99,7 +99,7 @@
 		"code":"450328",
 		"fullCode":"450328000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙胜各族自治县",
 		"parentCode":"4503"
 	},
@@ -107,7 +107,7 @@
 		"code":"450329",
 		"fullCode":"450329000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"资源县",
 		"parentCode":"4503"
 	},
@@ -115,7 +115,7 @@
 		"code":"450330",
 		"fullCode":"450330000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平乐县",
 		"parentCode":"4503"
 	},
@@ -123,7 +123,7 @@
 		"code":"450332",
 		"fullCode":"450332000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"恭城瑶族自治县",
 		"parentCode":"4503"
 	},
@@ -131,7 +131,7 @@
 		"code":"450381",
 		"fullCode":"450381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"荔浦市",
 		"parentCode":"4503"
 	}

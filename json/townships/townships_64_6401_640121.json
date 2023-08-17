@@ -3,7 +3,7 @@
 		"code":"640121001",
 		"fullCode":"640121001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结西路街道",
 		"parentCode":"640121"
 	},
@@ -11,7 +11,7 @@
 		"code":"640121100",
 		"fullCode":"640121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨和镇",
 		"parentCode":"640121"
 	},
@@ -19,7 +19,7 @@
 		"code":"640121101",
 		"fullCode":"640121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李俊镇",
 		"parentCode":"640121"
 	},
@@ -27,7 +27,7 @@
 		"code":"640121102",
 		"fullCode":"640121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望远镇",
 		"parentCode":"640121"
 	},
@@ -35,7 +35,7 @@
 		"code":"640121103",
 		"fullCode":"640121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望洪镇",
 		"parentCode":"640121"
 	},
@@ -43,7 +43,7 @@
 		"code":"640121104",
 		"fullCode":"640121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闽宁镇",
 		"parentCode":"640121"
 	},
@@ -51,7 +51,7 @@
 		"code":"640121200",
 		"fullCode":"640121200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利乡",
 		"parentCode":"640121"
 	},
@@ -59,7 +59,7 @@
 		"code":"640121400",
 		"fullCode":"640121400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄羊滩农场",
 		"parentCode":"640121"
 	},
@@ -67,7 +67,7 @@
 		"code":"640121401",
 		"fullCode":"640121401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉泉营农场",
 		"parentCode":"640121"
 	}

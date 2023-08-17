@@ -3,7 +3,7 @@
 		"code":"330114001",
 		"fullCode":"330114001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下沙街道",
 		"parentCode":"330114"
 	},
@@ -11,7 +11,7 @@
 		"code":"330114002",
 		"fullCode":"330114002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白杨街道",
 		"parentCode":"330114"
 	},
@@ -19,7 +19,7 @@
 		"code":"330114003",
 		"fullCode":"330114003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河庄街道",
 		"parentCode":"330114"
 	},
@@ -27,7 +27,7 @@
 		"code":"330114004",
 		"fullCode":"330114004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义蓬街道",
 		"parentCode":"330114"
 	},
@@ -35,7 +35,7 @@
 		"code":"330114005",
 		"fullCode":"330114005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新湾街道",
 		"parentCode":"330114"
 	},
@@ -43,7 +43,7 @@
 		"code":"330114006",
 		"fullCode":"330114006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江街道",
 		"parentCode":"330114"
 	},
@@ -51,7 +51,7 @@
 		"code":"330114007",
 		"fullCode":"330114007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进街道",
 		"parentCode":"330114"
 	}

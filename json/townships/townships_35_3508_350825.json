@@ -3,7 +3,7 @@
 		"code":"350825100",
 		"fullCode":"350825100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲峰镇",
 		"parentCode":"350825"
 	},
@@ -11,7 +11,7 @@
 		"code":"350825101",
 		"fullCode":"350825101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北团镇",
 		"parentCode":"350825"
 	},
@@ -19,7 +19,7 @@
 		"code":"350825102",
 		"fullCode":"350825102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姑田镇",
 		"parentCode":"350825"
 	},
@@ -27,7 +27,7 @@
 		"code":"350825103",
 		"fullCode":"350825103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朋口镇",
 		"parentCode":"350825"
 	},
@@ -35,7 +35,7 @@
 		"code":"350825104",
 		"fullCode":"350825104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莒溪镇",
 		"parentCode":"350825"
 	},
@@ -43,7 +43,7 @@
 		"code":"350825105",
 		"fullCode":"350825105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新泉镇",
 		"parentCode":"350825"
 	},
@@ -51,7 +51,7 @@
 		"code":"350825106",
 		"fullCode":"350825106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙前镇",
 		"parentCode":"350825"
 	},
@@ -59,7 +59,7 @@
 		"code":"350825107",
 		"fullCode":"350825107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文亨镇",
 		"parentCode":"350825"
 	},
@@ -67,7 +67,7 @@
 		"code":"350825108",
 		"fullCode":"350825108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四堡镇",
 		"parentCode":"350825"
 	},
@@ -75,7 +75,7 @@
 		"code":"350825109",
 		"fullCode":"350825109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林坊镇",
 		"parentCode":"350825"
 	},
@@ -83,7 +83,7 @@
 		"code":"350825110",
 		"fullCode":"350825110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隔川镇",
 		"parentCode":"350825"
 	},
@@ -91,7 +91,7 @@
 		"code":"350825111",
 		"fullCode":"350825111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宣和镇",
 		"parentCode":"350825"
 	},
@@ -99,7 +99,7 @@
 		"code":"350825200",
 		"fullCode":"350825200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"揭乐乡",
 		"parentCode":"350825"
 	},
@@ -107,7 +107,7 @@
 		"code":"350825201",
 		"fullCode":"350825201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘前乡",
 		"parentCode":"350825"
 	},
@@ -115,7 +115,7 @@
 		"code":"350825204",
 		"fullCode":"350825204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗坊乡",
 		"parentCode":"350825"
 	},
@@ -123,7 +123,7 @@
 		"code":"350825208",
 		"fullCode":"350825208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲溪乡",
 		"parentCode":"350825"
 	},
@@ -131,7 +131,7 @@
 		"code":"350825209",
 		"fullCode":"350825209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赖源乡",
 		"parentCode":"350825"
 	}

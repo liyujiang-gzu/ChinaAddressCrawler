@@ -3,7 +3,7 @@
 		"code":"445281001",
 		"fullCode":"445281001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流沙东街道",
 		"parentCode":"445281"
 	},
@@ -11,7 +11,7 @@
 		"code":"445281002",
 		"fullCode":"445281002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流沙南街道",
 		"parentCode":"445281"
 	},
@@ -19,7 +19,7 @@
 		"code":"445281003",
 		"fullCode":"445281003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流沙西街道",
 		"parentCode":"445281"
 	},
@@ -27,7 +27,7 @@
 		"code":"445281004",
 		"fullCode":"445281004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流沙北街道",
 		"parentCode":"445281"
 	},
@@ -35,7 +35,7 @@
 		"code":"445281005",
 		"fullCode":"445281005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"池尾街道",
 		"parentCode":"445281"
 	},
@@ -43,7 +43,7 @@
 		"code":"445281006",
 		"fullCode":"445281006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燎原街道",
 		"parentCode":"445281"
 	},
@@ -51,7 +51,7 @@
 		"code":"445281007",
 		"fullCode":"445281007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大南山街道",
 		"parentCode":"445281"
 	},
@@ -59,7 +59,7 @@
 		"code":"445281102",
 		"fullCode":"445281102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤岗镇",
 		"parentCode":"445281"
 	},
@@ -67,7 +67,7 @@
 		"code":"445281103",
 		"fullCode":"445281103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坝镇",
 		"parentCode":"445281"
 	},
@@ -75,7 +75,7 @@
 		"code":"445281104",
 		"fullCode":"445281104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪阳镇",
 		"parentCode":"445281"
 	},
@@ -83,7 +83,7 @@
 		"code":"445281105",
 		"fullCode":"445281105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南溪镇",
 		"parentCode":"445281"
 	},
@@ -91,7 +91,7 @@
 		"code":"445281106",
 		"fullCode":"445281106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广太镇",
 		"parentCode":"445281"
 	},
@@ -99,7 +99,7 @@
 		"code":"445281107",
 		"fullCode":"445281107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麒麟镇",
 		"parentCode":"445281"
 	},
@@ -107,7 +107,7 @@
 		"code":"445281108",
 		"fullCode":"445281108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南径镇",
 		"parentCode":"445281"
 	},
@@ -115,7 +115,7 @@
 		"code":"445281109",
 		"fullCode":"445281109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"占陇镇",
 		"parentCode":"445281"
 	},
@@ -123,7 +123,7 @@
 		"code":"445281110",
 		"fullCode":"445281110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"军埠镇",
 		"parentCode":"445281"
 	},
@@ -131,7 +131,7 @@
 		"code":"445281111",
 		"fullCode":"445281111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下架山镇",
 		"parentCode":"445281"
 	},
@@ -139,7 +139,7 @@
 		"code":"445281113",
 		"fullCode":"445281113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高埔镇",
 		"parentCode":"445281"
 	},
@@ -147,7 +147,7 @@
 		"code":"445281114",
 		"fullCode":"445281114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云落镇",
 		"parentCode":"445281"
 	},
@@ -155,7 +155,7 @@
 		"code":"445281115",
 		"fullCode":"445281115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坪镇",
 		"parentCode":"445281"
 	},
@@ -163,7 +163,7 @@
 		"code":"445281116",
 		"fullCode":"445281116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"船埔镇",
 		"parentCode":"445281"
 	},
@@ -171,7 +171,7 @@
 		"code":"445281117",
 		"fullCode":"445281117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅林镇",
 		"parentCode":"445281"
 	},
@@ -179,7 +179,7 @@
 		"code":"445281119",
 		"fullCode":"445281119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里湖镇",
 		"parentCode":"445281"
 	},
@@ -187,7 +187,7 @@
 		"code":"445281121",
 		"fullCode":"445281121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅塘镇",
 		"parentCode":"445281"
 	},
@@ -195,7 +195,7 @@
 		"code":"445281123",
 		"fullCode":"445281123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普侨镇",
 		"parentCode":"445281"
 	},
@@ -203,7 +203,7 @@
 		"code":"445281201",
 		"fullCode":"445281201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"后溪乡",
 		"parentCode":"445281"
 	},
@@ -211,7 +211,7 @@
 		"code":"445281401",
 		"fullCode":"445281401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大池农场",
 		"parentCode":"445281"
 	},
@@ -219,7 +219,7 @@
 		"code":"445281402",
 		"fullCode":"445281402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马鞍山农场",
 		"parentCode":"445281"
 	},
@@ -227,7 +227,7 @@
 		"code":"445281403",
 		"fullCode":"445281403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大坪农场",
 		"parentCode":"445281"
 	},
@@ -235,7 +235,7 @@
 		"code":"445281405",
 		"fullCode":"445281405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三坑农场",
 		"parentCode":"445281"
 	},
@@ -243,7 +243,7 @@
 		"code":"445281406",
 		"fullCode":"445281406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌石农场",
 		"parentCode":"445281"
 	},
@@ -251,7 +251,7 @@
 		"code":"445281407",
 		"fullCode":"445281407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科技工业园",
 		"parentCode":"445281"
 	},
@@ -259,7 +259,7 @@
 		"code":"445281408",
 		"fullCode":"445281408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普宁产业转移工业园",
 		"parentCode":"445281"
 	}

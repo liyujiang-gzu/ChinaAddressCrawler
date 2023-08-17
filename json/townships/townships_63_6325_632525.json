@@ -3,7 +3,7 @@
 		"code":"632525100",
 		"fullCode":"632525100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茫曲镇",
 		"parentCode":"632525"
 	},
@@ -11,7 +11,7 @@
 		"code":"632525101",
 		"fullCode":"632525101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"过马营镇",
 		"parentCode":"632525"
 	},
@@ -19,7 +19,7 @@
 		"code":"632525102",
 		"fullCode":"632525102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"森多镇",
 		"parentCode":"632525"
 	},
@@ -27,7 +27,7 @@
 		"code":"632525200",
 		"fullCode":"632525200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙沟乡",
 		"parentCode":"632525"
 	},
@@ -35,7 +35,7 @@
 		"code":"632525202",
 		"fullCode":"632525202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茫拉乡",
 		"parentCode":"632525"
 	},
@@ -43,7 +43,7 @@
 		"code":"632525203",
 		"fullCode":"632525203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔秀乡",
 		"parentCode":"632525"
 	}

@@ -3,7 +3,7 @@
 		"code":"320211001",
 		"fullCode":"320211001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河埒街道",
 		"parentCode":"320211"
 	},
@@ -11,7 +11,7 @@
 		"code":"320211002",
 		"fullCode":"320211002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣巷街道",
 		"parentCode":"320211"
 	},
@@ -19,7 +19,7 @@
 		"code":"320211003",
 		"fullCode":"320211003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蠡园街道",
 		"parentCode":"320211"
 	},
@@ -27,7 +27,7 @@
 		"code":"320211004",
 		"fullCode":"320211004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蠡湖街道",
 		"parentCode":"320211"
 	},
@@ -35,7 +35,7 @@
 		"code":"320211006",
 		"fullCode":"320211006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华庄街道",
 		"parentCode":"320211"
 	},
@@ -43,7 +43,7 @@
 		"code":"320211007",
 		"fullCode":"320211007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太湖街道",
 		"parentCode":"320211"
 	},
@@ -51,7 +51,7 @@
 		"code":"320211008",
 		"fullCode":"320211008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪浪街道",
 		"parentCode":"320211"
 	},
@@ -59,7 +59,7 @@
 		"code":"320211009",
 		"fullCode":"320211009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马山街道",
 		"parentCode":"320211"
 	},
@@ -67,7 +67,7 @@
 		"code":"320211101",
 		"fullCode":"320211101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡埭镇",
 		"parentCode":"320211"
 	}

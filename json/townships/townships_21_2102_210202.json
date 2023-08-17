@@ -3,7 +3,7 @@
 		"code":"210202001",
 		"fullCode":"210202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海军广场街道",
 		"parentCode":"210202"
 	},
@@ -11,7 +11,7 @@
 		"code":"210202005",
 		"fullCode":"210202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人民路街道",
 		"parentCode":"210202"
 	},
@@ -19,7 +19,7 @@
 		"code":"210202008",
 		"fullCode":"210202008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青泥洼桥街道",
 		"parentCode":"210202"
 	},
@@ -27,7 +27,7 @@
 		"code":"210202010",
 		"fullCode":"210202010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葵英街道",
 		"parentCode":"210202"
 	},
@@ -35,7 +35,7 @@
 		"code":"210202011",
 		"fullCode":"210202011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃源街道",
 		"parentCode":"210202"
 	},
@@ -43,7 +43,7 @@
 		"code":"210202012",
 		"fullCode":"210202012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老虎滩街道",
 		"parentCode":"210202"
 	}

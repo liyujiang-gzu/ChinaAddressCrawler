@@ -3,7 +3,7 @@
 		"code":"632801",
 		"fullCode":"632801000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"格尔木市",
 		"parentCode":"6328"
 	},
@@ -11,7 +11,7 @@
 		"code":"632802",
 		"fullCode":"632802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德令哈市",
 		"parentCode":"6328"
 	},
@@ -19,7 +19,7 @@
 		"code":"632803",
 		"fullCode":"632803000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"茫崖市",
 		"parentCode":"6328"
 	},
@@ -27,7 +27,7 @@
 		"code":"632821",
 		"fullCode":"632821000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌兰县",
 		"parentCode":"6328"
 	},
@@ -35,7 +35,7 @@
 		"code":"632822",
 		"fullCode":"632822000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"都兰县",
 		"parentCode":"6328"
 	},
@@ -43,7 +43,7 @@
 		"code":"632823",
 		"fullCode":"632823000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"天峻县",
 		"parentCode":"6328"
 	},
@@ -51,7 +51,7 @@
 		"code":"632857",
 		"fullCode":"632857000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大柴旦行政委员会",
 		"parentCode":"6328"
 	}

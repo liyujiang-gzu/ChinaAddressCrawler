@@ -3,7 +3,7 @@
 		"code":"532525101",
 		"fullCode":"532525101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"异龙镇",
 		"parentCode":"532525"
 	},
@@ -11,7 +11,7 @@
 		"code":"532525102",
 		"fullCode":"532525102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝秀镇",
 		"parentCode":"532525"
 	},
@@ -19,7 +19,7 @@
 		"code":"532525103",
 		"fullCode":"532525103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坝心镇",
 		"parentCode":"532525"
 	},
@@ -27,7 +27,7 @@
 		"code":"532525104",
 		"fullCode":"532525104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙朋镇",
 		"parentCode":"532525"
 	},
@@ -35,7 +35,7 @@
 		"code":"532525105",
 		"fullCode":"532525105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙武镇",
 		"parentCode":"532525"
 	},
@@ -43,7 +43,7 @@
 		"code":"532525106",
 		"fullCode":"532525106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哨冲镇",
 		"parentCode":"532525"
 	},
@@ -51,7 +51,7 @@
 		"code":"532525107",
 		"fullCode":"532525107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛街镇",
 		"parentCode":"532525"
 	},
@@ -59,7 +59,7 @@
 		"code":"532525201",
 		"fullCode":"532525201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城乡",
 		"parentCode":"532525"
 	},
@@ -67,7 +67,7 @@
 		"code":"532525202",
 		"fullCode":"532525202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大桥乡",
 		"parentCode":"532525"
 	}

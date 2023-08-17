@@ -3,7 +3,7 @@
 		"code":"632623100",
 		"fullCode":"632623100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯曲镇",
 		"parentCode":"632623"
 	},
@@ -11,7 +11,7 @@
 		"code":"632623200",
 		"fullCode":"632623200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上贡麻乡",
 		"parentCode":"632623"
 	},
@@ -19,7 +19,7 @@
 		"code":"632623201",
 		"fullCode":"632623201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下贡麻乡",
 		"parentCode":"632623"
 	},
@@ -27,7 +27,7 @@
 		"code":"632623202",
 		"fullCode":"632623202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岗龙乡",
 		"parentCode":"632623"
 	},
@@ -35,7 +35,7 @@
 		"code":"632623203",
 		"fullCode":"632623203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青珍乡",
 		"parentCode":"632623"
 	},
@@ -43,7 +43,7 @@
 		"code":"632623204",
 		"fullCode":"632623204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江千乡",
 		"parentCode":"632623"
 	},
@@ -51,7 +51,7 @@
 		"code":"632623205",
 		"fullCode":"632623205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下藏科乡",
 		"parentCode":"632623"
 	}

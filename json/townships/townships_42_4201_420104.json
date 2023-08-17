@@ -3,7 +3,7 @@
 		"code":"420104001",
 		"fullCode":"420104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古田街道",
 		"parentCode":"420104"
 	},
@@ -11,7 +11,7 @@
 		"code":"420104002",
 		"fullCode":"420104002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩家墩街道",
 		"parentCode":"420104"
 	},
@@ -19,7 +19,7 @@
 		"code":"420104003",
 		"fullCode":"420104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宗关街道",
 		"parentCode":"420104"
 	},
@@ -27,7 +27,7 @@
 		"code":"420104004",
 		"fullCode":"420104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉水桥街道",
 		"parentCode":"420104"
 	},
@@ -35,7 +35,7 @@
 		"code":"420104005",
 		"fullCode":"420104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝丰街道",
 		"parentCode":"420104"
 	},
@@ -43,7 +43,7 @@
 		"code":"420104006",
 		"fullCode":"420104006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣华街道",
 		"parentCode":"420104"
 	},
@@ -51,7 +51,7 @@
 		"code":"420104008",
 		"fullCode":"420104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉中街道",
 		"parentCode":"420104"
 	},
@@ -59,7 +59,7 @@
 		"code":"420104009",
 		"fullCode":"420104009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汉正街道",
 		"parentCode":"420104"
 	},
@@ -67,7 +67,7 @@
 		"code":"420104010",
 		"fullCode":"420104010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六角亭街道",
 		"parentCode":"420104"
 	},
@@ -75,7 +75,7 @@
 		"code":"420104011",
 		"fullCode":"420104011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长丰街道",
 		"parentCode":"420104"
 	},
@@ -83,7 +83,7 @@
 		"code":"420104012",
 		"fullCode":"420104012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"易家街道",
 		"parentCode":"420104"
 	}

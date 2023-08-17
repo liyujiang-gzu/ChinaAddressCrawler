@@ -3,7 +3,7 @@
 		"code":"220882001",
 		"fullCode":"220882001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"慧阳街道",
 		"parentCode":"220882"
 	},
@@ -11,7 +11,7 @@
 		"code":"220882002",
 		"fullCode":"220882002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江街道",
 		"parentCode":"220882"
 	},
@@ -19,7 +19,7 @@
 		"code":"220882003",
 		"fullCode":"220882003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长虹街道",
 		"parentCode":"220882"
 	},
@@ -27,7 +27,7 @@
 		"code":"220882004",
 		"fullCode":"220882004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦华街道",
 		"parentCode":"220882"
 	},
@@ -35,7 +35,7 @@
 		"code":"220882005",
 		"fullCode":"220882005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安北街道",
 		"parentCode":"220882"
 	},
@@ -43,7 +43,7 @@
 		"code":"220882100",
 		"fullCode":"220882100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月亮泡镇",
 		"parentCode":"220882"
 	},
@@ -51,7 +51,7 @@
 		"code":"220882101",
 		"fullCode":"220882101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安广镇",
 		"parentCode":"220882"
 	},
@@ -59,7 +59,7 @@
 		"code":"220882102",
 		"fullCode":"220882102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰收镇",
 		"parentCode":"220882"
 	},
@@ -67,7 +67,7 @@
 		"code":"220882103",
 		"fullCode":"220882103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新平安镇",
 		"parentCode":"220882"
 	},
@@ -75,7 +75,7 @@
 		"code":"220882104",
 		"fullCode":"220882104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两家子镇",
 		"parentCode":"220882"
 	},
@@ -83,7 +83,7 @@
 		"code":"220882105",
 		"fullCode":"220882105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舍力镇",
 		"parentCode":"220882"
 	},
@@ -91,7 +91,7 @@
 		"code":"220882106",
 		"fullCode":"220882106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大岗子镇",
 		"parentCode":"220882"
 	},
@@ -99,7 +99,7 @@
 		"code":"220882107",
 		"fullCode":"220882107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叉干镇",
 		"parentCode":"220882"
 	},
@@ -107,7 +107,7 @@
 		"code":"220882108",
 		"fullCode":"220882108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙沼镇",
 		"parentCode":"220882"
 	},
@@ -115,7 +115,7 @@
 		"code":"220882109",
 		"fullCode":"220882109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太山镇",
 		"parentCode":"220882"
 	},
@@ -123,7 +123,7 @@
 		"code":"220882200",
 		"fullCode":"220882200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四棵树乡",
 		"parentCode":"220882"
 	},
@@ -131,7 +131,7 @@
 		"code":"220882201",
 		"fullCode":"220882201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联合乡",
 		"parentCode":"220882"
 	},
@@ -139,7 +139,7 @@
 		"code":"220882202",
 		"fullCode":"220882202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大赉乡",
 		"parentCode":"220882"
 	},
@@ -147,7 +147,7 @@
 		"code":"220882203",
 		"fullCode":"220882203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红岗子乡",
 		"parentCode":"220882"
 	},
@@ -155,7 +155,7 @@
 		"code":"220882204",
 		"fullCode":"220882204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海坨乡",
 		"parentCode":"220882"
 	},
@@ -163,7 +163,7 @@
 		"code":"220882205",
 		"fullCode":"220882205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新艾里蒙古族乡",
 		"parentCode":"220882"
 	},
@@ -171,7 +171,7 @@
 		"code":"220882206",
 		"fullCode":"220882206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"烧锅镇乡",
 		"parentCode":"220882"
 	},
@@ -179,7 +179,7 @@
 		"code":"220882207",
 		"fullCode":"220882207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐胜乡",
 		"parentCode":"220882"
 	},
@@ -187,7 +187,7 @@
 		"code":"220882400",
 		"fullCode":"220882400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安经济开发区（省级）",
 		"parentCode":"220882"
 	},
@@ -195,7 +195,7 @@
 		"code":"220882401",
 		"fullCode":"220882401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新荒渔场",
 		"parentCode":"220882"
 	},
@@ -203,7 +203,7 @@
 		"code":"220882402",
 		"fullCode":"220882402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东方红农场",
 		"parentCode":"220882"
 	},
@@ -211,7 +211,7 @@
 		"code":"220882404",
 		"fullCode":"220882404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五间房水库",
 		"parentCode":"220882"
 	},
@@ -219,7 +219,7 @@
 		"code":"220882406",
 		"fullCode":"220882406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"风水山牧场",
 		"parentCode":"220882"
 	},
@@ -227,7 +227,7 @@
 		"code":"220882407",
 		"fullCode":"220882407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风马场",
 		"parentCode":"220882"
 	},
@@ -235,7 +235,7 @@
 		"code":"220882408",
 		"fullCode":"220882408000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良种繁育场",
 		"parentCode":"220882"
 	},
@@ -243,7 +243,7 @@
 		"code":"220882409",
 		"fullCode":"220882409000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安马场",
 		"parentCode":"220882"
 	},
@@ -251,7 +251,7 @@
 		"code":"220882410",
 		"fullCode":"220882410000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安广猪场",
 		"parentCode":"220882"
 	},
@@ -259,7 +259,7 @@
 		"code":"220882411",
 		"fullCode":"220882411000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗饲养场",
 		"parentCode":"220882"
 	}

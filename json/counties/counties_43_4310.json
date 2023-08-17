@@ -3,7 +3,7 @@
 		"code":"431002",
 		"fullCode":"431002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"北湖区",
 		"parentCode":"4310"
 	},
@@ -11,7 +11,7 @@
 		"code":"431003",
 		"fullCode":"431003000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"苏仙区",
 		"parentCode":"4310"
 	},
@@ -19,7 +19,7 @@
 		"code":"431021",
 		"fullCode":"431021000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桂阳县",
 		"parentCode":"4310"
 	},
@@ -27,7 +27,7 @@
 		"code":"431022",
 		"fullCode":"431022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宜章县",
 		"parentCode":"4310"
 	},
@@ -35,7 +35,7 @@
 		"code":"431023",
 		"fullCode":"431023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永兴县",
 		"parentCode":"4310"
 	},
@@ -43,7 +43,7 @@
 		"code":"431024",
 		"fullCode":"431024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"嘉禾县",
 		"parentCode":"4310"
 	},
@@ -51,7 +51,7 @@
 		"code":"431025",
 		"fullCode":"431025000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临武县",
 		"parentCode":"4310"
 	},
@@ -59,7 +59,7 @@
 		"code":"431026",
 		"fullCode":"431026000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汝城县",
 		"parentCode":"4310"
 	},
@@ -67,7 +67,7 @@
 		"code":"431027",
 		"fullCode":"431027000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桂东县",
 		"parentCode":"4310"
 	},
@@ -75,7 +75,7 @@
 		"code":"431028",
 		"fullCode":"431028000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安仁县",
 		"parentCode":"4310"
 	},
@@ -83,7 +83,7 @@
 		"code":"431081",
 		"fullCode":"431081000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"资兴市",
 		"parentCode":"4310"
 	}

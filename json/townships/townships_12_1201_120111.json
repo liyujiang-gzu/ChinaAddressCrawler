@@ -3,7 +3,7 @@
 		"code":"120111001",
 		"fullCode":"120111001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西营门街道",
 		"parentCode":"120111"
 	},
@@ -11,7 +11,7 @@
 		"code":"120111002",
 		"fullCode":"120111002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李七庄街道",
 		"parentCode":"120111"
 	},
@@ -19,7 +19,7 @@
 		"code":"120111003",
 		"fullCode":"120111003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤龙南街道",
 		"parentCode":"120111"
 	},
@@ -27,7 +27,7 @@
 		"code":"120111004",
 		"fullCode":"120111004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤龙北街道",
 		"parentCode":"120111"
 	},
@@ -35,7 +35,7 @@
 		"code":"120111005",
 		"fullCode":"120111005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"津门湖街道",
 		"parentCode":"120111"
 	},
@@ -43,7 +43,7 @@
 		"code":"120111100",
 		"fullCode":"120111100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中北镇",
 		"parentCode":"120111"
 	},
@@ -51,7 +51,7 @@
 		"code":"120111101",
 		"fullCode":"120111101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨柳青镇",
 		"parentCode":"120111"
 	},
@@ -59,7 +59,7 @@
 		"code":"120111102",
 		"fullCode":"120111102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛口镇",
 		"parentCode":"120111"
 	},
@@ -67,7 +67,7 @@
 		"code":"120111103",
 		"fullCode":"120111103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家窝镇",
 		"parentCode":"120111"
 	},
@@ -75,7 +75,7 @@
 		"code":"120111104",
 		"fullCode":"120111104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"精武镇",
 		"parentCode":"120111"
 	},
@@ -83,7 +83,7 @@
 		"code":"120111105",
 		"fullCode":"120111105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大寺镇",
 		"parentCode":"120111"
 	},
@@ -91,7 +91,7 @@
 		"code":"120111106",
 		"fullCode":"120111106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王稳庄镇",
 		"parentCode":"120111"
 	},
@@ -99,7 +99,7 @@
 		"code":"120111400",
 		"fullCode":"120111400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天津经济技术开发区微电子小区",
 		"parentCode":"120111"
 	},
@@ -107,7 +107,7 @@
 		"code":"120111401",
 		"fullCode":"120111401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新技术产业园区",
 		"parentCode":"120111"
 	},
@@ -115,7 +115,7 @@
 		"code":"120111450",
 		"fullCode":"120111450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西青区开发区",
 		"parentCode":"120111"
 	}

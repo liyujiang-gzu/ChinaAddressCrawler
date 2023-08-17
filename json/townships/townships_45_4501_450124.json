@@ -3,7 +3,7 @@
 		"code":"450124100",
 		"fullCode":"450124100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白山镇",
 		"parentCode":"450124"
 	},
@@ -11,7 +11,7 @@
 		"code":"450124101",
 		"fullCode":"450124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百龙滩镇",
 		"parentCode":"450124"
 	},
@@ -19,7 +19,7 @@
 		"code":"450124102",
 		"fullCode":"450124102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林圩镇",
 		"parentCode":"450124"
 	},
@@ -27,7 +27,7 @@
 		"code":"450124103",
 		"fullCode":"450124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古零镇",
 		"parentCode":"450124"
 	},
@@ -35,7 +35,7 @@
 		"code":"450124104",
 		"fullCode":"450124104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金钗镇",
 		"parentCode":"450124"
 	},
@@ -43,7 +43,7 @@
 		"code":"450124105",
 		"fullCode":"450124105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周鹿镇",
 		"parentCode":"450124"
 	},
@@ -51,7 +51,7 @@
 		"code":"450124106",
 		"fullCode":"450124106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永州镇",
 		"parentCode":"450124"
 	},
@@ -59,7 +59,7 @@
 		"code":"450124200",
 		"fullCode":"450124200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔利乡",
 		"parentCode":"450124"
 	},
@@ -67,7 +67,7 @@
 		"code":"450124201",
 		"fullCode":"450124201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加方乡",
 		"parentCode":"450124"
 	},
@@ -75,7 +75,7 @@
 		"code":"450124202",
 		"fullCode":"450124202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古寨瑶族乡",
 		"parentCode":"450124"
 	},
@@ -83,7 +83,7 @@
 		"code":"450124203",
 		"fullCode":"450124203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里当瑶族乡",
 		"parentCode":"450124"
 	}

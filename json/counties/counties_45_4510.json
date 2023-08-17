@@ -3,7 +3,7 @@
 		"code":"451002",
 		"fullCode":"451002000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"右江区",
 		"parentCode":"4510"
 	},
@@ -11,7 +11,7 @@
 		"code":"451003",
 		"fullCode":"451003000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"田阳区",
 		"parentCode":"4510"
 	},
@@ -19,7 +19,7 @@
 		"code":"451022",
 		"fullCode":"451022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"田东县",
 		"parentCode":"4510"
 	},
@@ -27,7 +27,7 @@
 		"code":"451024",
 		"fullCode":"451024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德保县",
 		"parentCode":"4510"
 	},
@@ -35,7 +35,7 @@
 		"code":"451026",
 		"fullCode":"451026000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"那坡县",
 		"parentCode":"4510"
 	},
@@ -43,7 +43,7 @@
 		"code":"451027",
 		"fullCode":"451027000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"凌云县",
 		"parentCode":"4510"
 	},
@@ -51,7 +51,7 @@
 		"code":"451028",
 		"fullCode":"451028000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乐业县",
 		"parentCode":"4510"
 	},
@@ -59,7 +59,7 @@
 		"code":"451029",
 		"fullCode":"451029000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"田林县",
 		"parentCode":"4510"
 	},
@@ -67,7 +67,7 @@
 		"code":"451030",
 		"fullCode":"451030000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西林县",
 		"parentCode":"4510"
 	},
@@ -75,7 +75,7 @@
 		"code":"451031",
 		"fullCode":"451031000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"隆林各族自治县",
 		"parentCode":"4510"
 	},
@@ -83,7 +83,7 @@
 		"code":"451081",
 		"fullCode":"451081000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"靖西市",
 		"parentCode":"4510"
 	},
@@ -91,7 +91,7 @@
 		"code":"451082",
 		"fullCode":"451082000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平果市",
 		"parentCode":"4510"
 	}

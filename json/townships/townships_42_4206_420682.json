@@ -3,7 +3,7 @@
 		"code":"420682001",
 		"fullCode":"420682001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光化街道",
 		"parentCode":"420682"
 	},
@@ -11,7 +11,7 @@
 		"code":"420682002",
 		"fullCode":"420682002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"酂阳街道",
 		"parentCode":"420682"
 	},
@@ -19,7 +19,7 @@
 		"code":"420682100",
 		"fullCode":"420682100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟楼镇",
 		"parentCode":"420682"
 	},
@@ -27,7 +27,7 @@
 		"code":"420682101",
 		"fullCode":"420682101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹林桥镇",
 		"parentCode":"420682"
 	},
@@ -35,7 +35,7 @@
 		"code":"420682102",
 		"fullCode":"420682102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薛集镇",
 		"parentCode":"420682"
 	},
@@ -43,7 +43,7 @@
 		"code":"420682103",
 		"fullCode":"420682103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张集镇",
 		"parentCode":"420682"
 	},
@@ -51,7 +51,7 @@
 		"code":"420682104",
 		"fullCode":"420682104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙人渡镇",
 		"parentCode":"420682"
 	},
@@ -59,7 +59,7 @@
 		"code":"420682105",
 		"fullCode":"420682105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪山嘴镇",
 		"parentCode":"420682"
 	},
@@ -67,7 +67,7 @@
 		"code":"420682106",
 		"fullCode":"420682106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李楼镇",
 		"parentCode":"420682"
 	},
@@ -75,7 +75,7 @@
 		"code":"420682200",
 		"fullCode":"420682200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"袁冲乡",
 		"parentCode":"420682"
 	},
@@ -83,7 +83,7 @@
 		"code":"420682501",
 		"fullCode":"420682501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔬菜原种场",
 		"parentCode":"420682"
 	},
@@ -91,7 +91,7 @@
 		"code":"420682502",
 		"fullCode":"420682502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百花山林场",
 		"parentCode":"420682"
 	},
@@ -99,7 +99,7 @@
 		"code":"420682503",
 		"fullCode":"420682503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林茂山林场",
 		"parentCode":"420682"
 	}

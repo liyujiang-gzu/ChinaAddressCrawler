@@ -3,7 +3,7 @@
 		"code":"330703001",
 		"fullCode":"330703001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多湖街道",
 		"parentCode":"330703"
 	},
@@ -11,7 +11,7 @@
 		"code":"330703002",
 		"fullCode":"330703002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东孝街道",
 		"parentCode":"330703"
 	},
@@ -19,7 +19,7 @@
 		"code":"330703101",
 		"fullCode":"330703101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孝顺镇",
 		"parentCode":"330703"
 	},
@@ -27,7 +27,7 @@
 		"code":"330703102",
 		"fullCode":"330703102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"傅村镇",
 		"parentCode":"330703"
 	},
@@ -35,7 +35,7 @@
 		"code":"330703103",
 		"fullCode":"330703103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹宅镇",
 		"parentCode":"330703"
 	},
@@ -43,7 +43,7 @@
 		"code":"330703104",
 		"fullCode":"330703104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澧浦镇",
 		"parentCode":"330703"
 	},
@@ -51,7 +51,7 @@
 		"code":"330703105",
 		"fullCode":"330703105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭下镇",
 		"parentCode":"330703"
 	},
@@ -59,7 +59,7 @@
 		"code":"330703106",
 		"fullCode":"330703106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江东镇",
 		"parentCode":"330703"
 	},
@@ -67,7 +67,7 @@
 		"code":"330703107",
 		"fullCode":"330703107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塘雅镇",
 		"parentCode":"330703"
 	},
@@ -75,7 +75,7 @@
 		"code":"330703108",
 		"fullCode":"330703108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤松镇",
 		"parentCode":"330703"
 	},
@@ -83,7 +83,7 @@
 		"code":"330703200",
 		"fullCode":"330703200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"源东乡",
 		"parentCode":"330703"
 	}

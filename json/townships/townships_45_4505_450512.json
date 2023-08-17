@@ -3,7 +3,7 @@
 		"code":"450512100",
 		"fullCode":"450512100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南康镇",
 		"parentCode":"450512"
 	},
@@ -11,7 +11,7 @@
 		"code":"450512101",
 		"fullCode":"450512101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营盘镇",
 		"parentCode":"450512"
 	},
@@ -19,7 +19,7 @@
 		"code":"450512102",
 		"fullCode":"450512102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴港镇",
 		"parentCode":"450512"
 	}

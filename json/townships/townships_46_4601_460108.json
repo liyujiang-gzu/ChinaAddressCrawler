@@ -3,7 +3,7 @@
 		"code":"460108001",
 		"fullCode":"460108001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海府街道",
 		"parentCode":"460108"
 	},
@@ -11,7 +11,7 @@
 		"code":"460108002",
 		"fullCode":"460108002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓝天街道",
 		"parentCode":"460108"
 	},
@@ -19,7 +19,7 @@
 		"code":"460108003",
 		"fullCode":"460108003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博爱街道",
 		"parentCode":"460108"
 	},
@@ -27,7 +27,7 @@
 		"code":"460108004",
 		"fullCode":"460108004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海甸街道",
 		"parentCode":"460108"
 	},
@@ -35,7 +35,7 @@
 		"code":"460108005",
 		"fullCode":"460108005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人民街道",
 		"parentCode":"460108"
 	},
@@ -43,7 +43,7 @@
 		"code":"460108006",
 		"fullCode":"460108006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白龙街道",
 		"parentCode":"460108"
 	},
@@ -51,7 +51,7 @@
 		"code":"460108007",
 		"fullCode":"460108007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平南街道",
 		"parentCode":"460108"
 	},
@@ -59,7 +59,7 @@
 		"code":"460108008",
 		"fullCode":"460108008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙街道",
 		"parentCode":"460108"
 	},
@@ -67,7 +67,7 @@
 		"code":"460108009",
 		"fullCode":"460108009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新埠街道",
 		"parentCode":"460108"
 	},
@@ -75,7 +75,7 @@
 		"code":"460108101",
 		"fullCode":"460108101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵山镇",
 		"parentCode":"460108"
 	},
@@ -83,7 +83,7 @@
 		"code":"460108102",
 		"fullCode":"460108102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"演丰镇",
 		"parentCode":"460108"
 	},
@@ -91,7 +91,7 @@
 		"code":"460108103",
 		"fullCode":"460108103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三江镇",
 		"parentCode":"460108"
 	},
@@ -99,7 +99,7 @@
 		"code":"460108104",
 		"fullCode":"460108104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大致坡镇",
 		"parentCode":"460108"
 	},
@@ -107,7 +107,7 @@
 		"code":"460108400",
 		"fullCode":"460108400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海口桂林洋经济开发区（农场）",
 		"parentCode":"460108"
 	},
@@ -115,7 +115,7 @@
 		"code":"460108500",
 		"fullCode":"460108500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗牛山农场",
 		"parentCode":"460108"
 	}

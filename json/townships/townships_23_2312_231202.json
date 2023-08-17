@@ -3,7 +3,7 @@
 		"code":"231202001",
 		"fullCode":"231202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫来街道",
 		"parentCode":"231202"
 	},
@@ -11,7 +11,7 @@
 		"code":"231202002",
 		"fullCode":"231202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"爱路街道",
 		"parentCode":"231202"
 	},
@@ -19,7 +19,7 @@
 		"code":"231202003",
 		"fullCode":"231202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大有街道",
 		"parentCode":"231202"
 	},
@@ -27,7 +27,7 @@
 		"code":"231202004",
 		"fullCode":"231202004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉泰街道",
 		"parentCode":"231202"
 	},
@@ -35,7 +35,7 @@
 		"code":"231202005",
 		"fullCode":"231202005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴街道",
 		"parentCode":"231202"
 	},
@@ -43,7 +43,7 @@
 		"code":"231202006",
 		"fullCode":"231202006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北林街道",
 		"parentCode":"231202"
 	},
@@ -51,7 +51,7 @@
 		"code":"231202007",
 		"fullCode":"231202007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝旭街道",
 		"parentCode":"231202"
 	},
@@ -59,7 +59,7 @@
 		"code":"231202008",
 		"fullCode":"231202008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春雷街道",
 		"parentCode":"231202"
 	},
@@ -67,7 +67,7 @@
 		"code":"231202009",
 		"fullCode":"231202009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北辰街道",
 		"parentCode":"231202"
 	},
@@ -75,7 +75,7 @@
 		"code":"231202010",
 		"fullCode":"231202010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康庄街道",
 		"parentCode":"231202"
 	},
@@ -83,7 +83,7 @@
 		"code":"231202011",
 		"fullCode":"231202011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先锋街道",
 		"parentCode":"231202"
 	},
@@ -91,7 +91,7 @@
 		"code":"231202012",
 		"fullCode":"231202012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"231202"
 	},
@@ -99,7 +99,7 @@
 		"code":"231202101",
 		"fullCode":"231202101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝山镇",
 		"parentCode":"231202"
 	},
@@ -107,7 +107,7 @@
 		"code":"231202102",
 		"fullCode":"231202102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥胜满族镇",
 		"parentCode":"231202"
 	},
@@ -115,7 +115,7 @@
 		"code":"231202103",
 		"fullCode":"231202103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西长发镇",
 		"parentCode":"231202"
 	},
@@ -123,7 +123,7 @@
 		"code":"231202104",
 		"fullCode":"231202104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安满族镇",
 		"parentCode":"231202"
 	},
@@ -131,7 +131,7 @@
 		"code":"231202105",
 		"fullCode":"231202105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平川镇",
 		"parentCode":"231202"
 	},
@@ -139,7 +139,7 @@
 		"code":"231202106",
 		"fullCode":"231202106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦家镇",
 		"parentCode":"231202"
 	},
@@ -147,7 +147,7 @@
 		"code":"231202107",
 		"fullCode":"231202107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双河镇",
 		"parentCode":"231202"
 	},
@@ -155,7 +155,7 @@
 		"code":"231202108",
 		"fullCode":"231202108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三河镇",
 		"parentCode":"231202"
 	},
@@ -163,7 +163,7 @@
 		"code":"231202109",
 		"fullCode":"231202109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四方台镇",
 		"parentCode":"231202"
 	},
@@ -171,7 +171,7 @@
 		"code":"231202110",
 		"fullCode":"231202110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"津河镇",
 		"parentCode":"231202"
 	},
@@ -179,7 +179,7 @@
 		"code":"231202111",
 		"fullCode":"231202111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张维镇",
 		"parentCode":"231202"
 	},
@@ -187,7 +187,7 @@
 		"code":"231202113",
 		"fullCode":"231202113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东津镇",
 		"parentCode":"231202"
 	},
@@ -195,7 +195,7 @@
 		"code":"231202114",
 		"fullCode":"231202114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东富镇",
 		"parentCode":"231202"
 	},
@@ -203,7 +203,7 @@
 		"code":"231202115",
 		"fullCode":"231202115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴福镇",
 		"parentCode":"231202"
 	},
@@ -211,7 +211,7 @@
 		"code":"231202116",
 		"fullCode":"231202116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三井镇",
 		"parentCode":"231202"
 	},
@@ -219,7 +219,7 @@
 		"code":"231202201",
 		"fullCode":"231202201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗满族乡",
 		"parentCode":"231202"
 	},
@@ -227,7 +227,7 @@
 		"code":"231202202",
 		"fullCode":"231202202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连岗乡",
 		"parentCode":"231202"
 	},
@@ -235,7 +235,7 @@
 		"code":"231202203",
 		"fullCode":"231202203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华乡",
 		"parentCode":"231202"
 	},
@@ -243,7 +243,7 @@
 		"code":"231202212",
 		"fullCode":"231202212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五营乡",
 		"parentCode":"231202"
 	},
@@ -251,7 +251,7 @@
 		"code":"231202213",
 		"fullCode":"231202213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴和朝鲜族乡",
 		"parentCode":"231202"
 	},
@@ -259,7 +259,7 @@
 		"code":"231202579",
 		"fullCode":"231202579000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥化局直",
 		"parentCode":"231202"
 	}

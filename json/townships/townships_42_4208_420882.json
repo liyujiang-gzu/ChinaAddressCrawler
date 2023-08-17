@@ -3,7 +3,7 @@
 		"code":"420882001",
 		"fullCode":"420882001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新市街道",
 		"parentCode":"420882"
 	},
@@ -11,7 +11,7 @@
 		"code":"420882002",
 		"fullCode":"420882002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴街道",
 		"parentCode":"420882"
 	},
@@ -19,7 +19,7 @@
 		"code":"420882003",
 		"fullCode":"420882003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉街道",
 		"parentCode":"420882"
 	},
@@ -27,7 +27,7 @@
 		"code":"420882102",
 		"fullCode":"420882102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹武镇",
 		"parentCode":"420882"
 	},
@@ -35,7 +35,7 @@
 		"code":"420882103",
 		"fullCode":"420882103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗店镇",
 		"parentCode":"420882"
 	},
@@ -43,7 +43,7 @@
 		"code":"420882104",
 		"fullCode":"420882104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋河镇",
 		"parentCode":"420882"
 	},
@@ -51,7 +51,7 @@
 		"code":"420882105",
 		"fullCode":"420882105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪坝镇",
 		"parentCode":"420882"
 	},
@@ -59,7 +59,7 @@
 		"code":"420882106",
 		"fullCode":"420882106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三阳镇",
 		"parentCode":"420882"
 	},
@@ -67,7 +67,7 @@
 		"code":"420882107",
 		"fullCode":"420882107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绿林镇",
 		"parentCode":"420882"
 	},
@@ -75,7 +75,7 @@
 		"code":"420882108",
 		"fullCode":"420882108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨集镇",
 		"parentCode":"420882"
 	},
@@ -83,7 +83,7 @@
 		"code":"420882109",
 		"fullCode":"420882109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙桥镇",
 		"parentCode":"420882"
 	},
@@ -91,7 +91,7 @@
 		"code":"420882110",
 		"fullCode":"420882110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石龙镇",
 		"parentCode":"420882"
 	},
@@ -99,7 +99,7 @@
 		"code":"420882111",
 		"fullCode":"420882111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永漋镇",
 		"parentCode":"420882"
 	},
@@ -107,7 +107,7 @@
 		"code":"420882112",
 		"fullCode":"420882112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雁门口镇",
 		"parentCode":"420882"
 	},
@@ -115,7 +115,7 @@
 		"code":"420882113",
 		"fullCode":"420882113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱场镇",
 		"parentCode":"420882"
 	},
@@ -123,7 +123,7 @@
 		"code":"420882450",
 		"fullCode":"420882450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太子山",
 		"parentCode":"420882"
 	},
@@ -131,7 +131,7 @@
 		"code":"420882451",
 		"fullCode":"420882451000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗汉寺办事处",
 		"parentCode":"420882"
 	},
@@ -139,7 +139,7 @@
 		"code":"420882452",
 		"fullCode":"420882452000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长滩办事处",
 		"parentCode":"420882"
 	},
@@ -147,7 +147,7 @@
 		"code":"420882453",
 		"fullCode":"420882453000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何集办事处",
 		"parentCode":"420882"
 	},
@@ -155,7 +155,7 @@
 		"code":"420882455",
 		"fullCode":"420882455000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"易家岭办事处",
 		"parentCode":"420882"
 	}

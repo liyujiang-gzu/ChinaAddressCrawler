@@ -3,7 +3,7 @@
 		"code":"511824002",
 		"fullCode":"511824002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新棉街道",
 		"parentCode":"511824"
 	},
@@ -11,7 +11,7 @@
 		"code":"511824101",
 		"fullCode":"511824101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回隆镇",
 		"parentCode":"511824"
 	},
@@ -19,7 +19,7 @@
 		"code":"511824102",
 		"fullCode":"511824102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美罗镇",
 		"parentCode":"511824"
 	},
@@ -27,7 +27,7 @@
 		"code":"511824106",
 		"fullCode":"511824106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安顺场镇",
 		"parentCode":"511824"
 	},
@@ -35,7 +35,7 @@
 		"code":"511824202",
 		"fullCode":"511824202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蟹螺藏族乡",
 		"parentCode":"511824"
 	},
@@ -43,7 +43,7 @@
 		"code":"511824203",
 		"fullCode":"511824203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永和乡",
 		"parentCode":"511824"
 	},
@@ -51,7 +51,7 @@
 		"code":"511824206",
 		"fullCode":"511824206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栗子坪彝族乡",
 		"parentCode":"511824"
 	},
@@ -59,7 +59,7 @@
 		"code":"511824208",
 		"fullCode":"511824208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎政乡",
 		"parentCode":"511824"
 	},
@@ -67,7 +67,7 @@
 		"code":"511824210",
 		"fullCode":"511824210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰乐乡",
 		"parentCode":"511824"
 	},
@@ -75,7 +75,7 @@
 		"code":"511824211",
 		"fullCode":"511824211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民藏族彝族乡",
 		"parentCode":"511824"
 	},
@@ -83,7 +83,7 @@
 		"code":"511824214",
 		"fullCode":"511824214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草科藏族乡",
 		"parentCode":"511824"
 	},
@@ -91,7 +91,7 @@
 		"code":"511824216",
 		"fullCode":"511824216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王岗坪彝族藏族乡",
 		"parentCode":"511824"
 	}

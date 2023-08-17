@@ -3,7 +3,7 @@
 		"code":"350526100",
 		"fullCode":"350526100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浔中镇",
 		"parentCode":"350526"
 	},
@@ -11,7 +11,7 @@
 		"code":"350526101",
 		"fullCode":"350526101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙浔镇",
 		"parentCode":"350526"
 	},
@@ -19,7 +19,7 @@
 		"code":"350526102",
 		"fullCode":"350526102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三班镇",
 		"parentCode":"350526"
 	},
@@ -27,7 +27,7 @@
 		"code":"350526103",
 		"fullCode":"350526103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙门滩镇",
 		"parentCode":"350526"
 	},
@@ -35,7 +35,7 @@
 		"code":"350526104",
 		"fullCode":"350526104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雷峰镇",
 		"parentCode":"350526"
 	},
@@ -43,7 +43,7 @@
 		"code":"350526105",
 		"fullCode":"350526105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南埕镇",
 		"parentCode":"350526"
 	},
@@ -51,7 +51,7 @@
 		"code":"350526106",
 		"fullCode":"350526106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口镇",
 		"parentCode":"350526"
 	},
@@ -59,7 +59,7 @@
 		"code":"350526107",
 		"fullCode":"350526107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤水镇",
 		"parentCode":"350526"
 	},
@@ -67,7 +67,7 @@
 		"code":"350526108",
 		"fullCode":"350526108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上涌镇",
 		"parentCode":"350526"
 	},
@@ -75,7 +75,7 @@
 		"code":"350526109",
 		"fullCode":"350526109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛坑镇",
 		"parentCode":"350526"
 	},
@@ -83,7 +83,7 @@
 		"code":"350526110",
 		"fullCode":"350526110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盖德镇",
 		"parentCode":"350526"
 	},
@@ -91,7 +91,7 @@
 		"code":"350526111",
 		"fullCode":"350526111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美湖镇",
 		"parentCode":"350526"
 	},
@@ -99,7 +99,7 @@
 		"code":"350526200",
 		"fullCode":"350526200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨梅乡",
 		"parentCode":"350526"
 	},
@@ -107,7 +107,7 @@
 		"code":"350526202",
 		"fullCode":"350526202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤头乡",
 		"parentCode":"350526"
 	},
@@ -115,7 +115,7 @@
 		"code":"350526204",
 		"fullCode":"350526204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂阳乡",
 		"parentCode":"350526"
 	},
@@ -123,7 +123,7 @@
 		"code":"350526206",
 		"fullCode":"350526206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国宝乡",
 		"parentCode":"350526"
 	},
@@ -131,7 +131,7 @@
 		"code":"350526208",
 		"fullCode":"350526208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大铭乡",
 		"parentCode":"350526"
 	},
@@ -139,7 +139,7 @@
 		"code":"350526209",
 		"fullCode":"350526209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春美乡",
 		"parentCode":"350526"
 	}

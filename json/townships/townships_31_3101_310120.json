@@ -3,7 +3,7 @@
 		"code":"310120001",
 		"fullCode":"310120001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西渡街道",
 		"parentCode":"310120"
 	},
@@ -11,7 +11,7 @@
 		"code":"310120002",
 		"fullCode":"310120002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奉浦街道",
 		"parentCode":"310120"
 	},
@@ -19,7 +19,7 @@
 		"code":"310120003",
 		"fullCode":"310120003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金海街道",
 		"parentCode":"310120"
 	},
@@ -27,7 +27,7 @@
 		"code":"310120101",
 		"fullCode":"310120101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南桥镇",
 		"parentCode":"310120"
 	},
@@ -35,7 +35,7 @@
 		"code":"310120102",
 		"fullCode":"310120102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奉城镇",
 		"parentCode":"310120"
 	},
@@ -43,7 +43,7 @@
 		"code":"310120104",
 		"fullCode":"310120104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庄行镇",
 		"parentCode":"310120"
 	},
@@ -51,7 +51,7 @@
 		"code":"310120106",
 		"fullCode":"310120106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金汇镇",
 		"parentCode":"310120"
 	},
@@ -59,7 +59,7 @@
 		"code":"310120109",
 		"fullCode":"310120109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四团镇",
 		"parentCode":"310120"
 	},
@@ -67,7 +67,7 @@
 		"code":"310120111",
 		"fullCode":"310120111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青村镇",
 		"parentCode":"310120"
 	},
@@ -75,7 +75,7 @@
 		"code":"310120118",
 		"fullCode":"310120118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柘林镇",
 		"parentCode":"310120"
 	},
@@ -83,7 +83,7 @@
 		"code":"310120123",
 		"fullCode":"310120123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海湾镇",
 		"parentCode":"310120"
 	},
@@ -91,7 +91,7 @@
 		"code":"310120503",
 		"fullCode":"310120503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海湾旅游区",
 		"parentCode":"310120"
 	}

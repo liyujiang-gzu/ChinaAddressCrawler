@@ -3,7 +3,7 @@
 		"code":"211122001",
 		"fullCode":"211122001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平街道",
 		"parentCode":"211122"
 	},
@@ -11,7 +11,7 @@
 		"code":"211122002",
 		"fullCode":"211122002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高升街道",
 		"parentCode":"211122"
 	},
@@ -19,7 +19,7 @@
 		"code":"211122003",
 		"fullCode":"211122003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"得胜街道",
 		"parentCode":"211122"
 	},
@@ -27,7 +27,7 @@
 		"code":"211122004",
 		"fullCode":"211122004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东郭街道",
 		"parentCode":"211122"
 	},
@@ -35,7 +35,7 @@
 		"code":"211122101",
 		"fullCode":"211122101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙岭镇",
 		"parentCode":"211122"
 	},
@@ -43,7 +43,7 @@
 		"code":"211122103",
 		"fullCode":"211122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡家镇",
 		"parentCode":"211122"
 	},
@@ -51,7 +51,7 @@
 		"code":"211122104",
 		"fullCode":"211122104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石新镇",
 		"parentCode":"211122"
 	},
@@ -59,7 +59,7 @@
 		"code":"211122106",
 		"fullCode":"211122106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊圈子镇",
 		"parentCode":"211122"
 	},
@@ -67,7 +67,7 @@
 		"code":"211122107",
 		"fullCode":"211122107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城子镇",
 		"parentCode":"211122"
 	},
@@ -75,7 +75,7 @@
 		"code":"211122108",
 		"fullCode":"211122108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坝墙子镇",
 		"parentCode":"211122"
 	},
@@ -83,7 +83,7 @@
 		"code":"211122110",
 		"fullCode":"211122110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈家镇",
 		"parentCode":"211122"
 	},
@@ -91,7 +91,7 @@
 		"code":"211122111",
 		"fullCode":"211122111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甜水镇",
 		"parentCode":"211122"
 	},
@@ -99,7 +99,7 @@
 		"code":"211122112",
 		"fullCode":"211122112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴家镇",
 		"parentCode":"211122"
 	},
@@ -107,7 +107,7 @@
 		"code":"211122400",
 		"fullCode":"211122400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘山县林场",
 		"parentCode":"211122"
 	}

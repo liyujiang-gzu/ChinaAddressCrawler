@@ -3,7 +3,7 @@
 		"code":"431202",
 		"fullCode":"431202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鹤城区",
 		"parentCode":"4312"
 	},
@@ -11,7 +11,7 @@
 		"code":"431221",
 		"fullCode":"431221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"中方县",
 		"parentCode":"4312"
 	},
@@ -19,7 +19,7 @@
 		"code":"431222",
 		"fullCode":"431222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沅陵县",
 		"parentCode":"4312"
 	},
@@ -27,7 +27,7 @@
 		"code":"431223",
 		"fullCode":"431223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"辰溪县",
 		"parentCode":"4312"
 	},
@@ -35,7 +35,7 @@
 		"code":"431224",
 		"fullCode":"431224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"溆浦县",
 		"parentCode":"4312"
 	},
@@ -43,7 +43,7 @@
 		"code":"431225",
 		"fullCode":"431225000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"会同县",
 		"parentCode":"4312"
 	},
@@ -51,7 +51,7 @@
 		"code":"431226",
 		"fullCode":"431226000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"麻阳苗族自治县",
 		"parentCode":"4312"
 	},
@@ -59,7 +59,7 @@
 		"code":"431227",
 		"fullCode":"431227000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新晃侗族自治县",
 		"parentCode":"4312"
 	},
@@ -67,7 +67,7 @@
 		"code":"431228",
 		"fullCode":"431228000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"芷江侗族自治县",
 		"parentCode":"4312"
 	},
@@ -75,7 +75,7 @@
 		"code":"431229",
 		"fullCode":"431229000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"靖州苗族侗族自治县",
 		"parentCode":"4312"
 	},
@@ -83,7 +83,7 @@
 		"code":"431230",
 		"fullCode":"431230000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"通道侗族自治县",
 		"parentCode":"4312"
 	},
@@ -91,7 +91,7 @@
 		"code":"431271",
 		"fullCode":"431271000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"怀化市洪江管理区",
 		"parentCode":"4312"
 	},
@@ -99,7 +99,7 @@
 		"code":"431281",
 		"fullCode":"431281000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"洪江市",
 		"parentCode":"4312"
 	}

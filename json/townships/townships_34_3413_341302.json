@@ -3,7 +3,7 @@
 		"code":"341302001",
 		"fullCode":"341302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"埇桥街道",
 		"parentCode":"341302"
 	},
@@ -11,7 +11,7 @@
 		"code":"341302002",
 		"fullCode":"341302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沱河街道",
 		"parentCode":"341302"
 	},
@@ -19,7 +19,7 @@
 		"code":"341302003",
 		"fullCode":"341302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道东街道",
 		"parentCode":"341302"
 	},
@@ -27,7 +27,7 @@
 		"code":"341302004",
 		"fullCode":"341302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关街道",
 		"parentCode":"341302"
 	},
@@ -35,7 +35,7 @@
 		"code":"341302005",
 		"fullCode":"341302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里湾街道",
 		"parentCode":"341302"
 	},
@@ -43,7 +43,7 @@
 		"code":"341302006",
 		"fullCode":"341302006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南关街道",
 		"parentCode":"341302"
 	},
@@ -51,7 +51,7 @@
 		"code":"341302007",
 		"fullCode":"341302007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关街道",
 		"parentCode":"341302"
 	},
@@ -59,7 +59,7 @@
 		"code":"341302008",
 		"fullCode":"341302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北关街道",
 		"parentCode":"341302"
 	},
@@ -67,7 +67,7 @@
 		"code":"341302009",
 		"fullCode":"341302009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汴河街道",
 		"parentCode":"341302"
 	},
@@ -75,7 +75,7 @@
 		"code":"341302010",
 		"fullCode":"341302010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三八街道",
 		"parentCode":"341302"
 	},
@@ -83,7 +83,7 @@
 		"code":"341302011",
 		"fullCode":"341302011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城东街道",
 		"parentCode":"341302"
 	},
@@ -91,7 +91,7 @@
 		"code":"341302100",
 		"fullCode":"341302100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"符离镇",
 		"parentCode":"341302"
 	},
@@ -99,7 +99,7 @@
 		"code":"341302101",
 		"fullCode":"341302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦岭镇",
 		"parentCode":"341302"
 	},
@@ -107,7 +107,7 @@
 		"code":"341302102",
 		"fullCode":"341302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朱仙庄镇",
 		"parentCode":"341302"
 	},
@@ -115,7 +115,7 @@
 		"code":"341302103",
 		"fullCode":"341302103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"褚兰镇",
 		"parentCode":"341302"
 	},
@@ -123,7 +123,7 @@
 		"code":"341302104",
 		"fullCode":"341302104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹村镇",
 		"parentCode":"341302"
 	},
@@ -131,7 +131,7 @@
 		"code":"341302105",
 		"fullCode":"341302105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹沟镇",
 		"parentCode":"341302"
 	},
@@ -139,7 +139,7 @@
 		"code":"341302106",
 		"fullCode":"341302106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栏杆镇",
 		"parentCode":"341302"
 	},
@@ -147,7 +147,7 @@
 		"code":"341302107",
 		"fullCode":"341302107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"时村镇",
 		"parentCode":"341302"
 	},
@@ -155,7 +155,7 @@
 		"code":"341302108",
 		"fullCode":"341302108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安镇",
 		"parentCode":"341302"
 	},
@@ -163,7 +163,7 @@
 		"code":"341302109",
 		"fullCode":"341302109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灰古镇",
 		"parentCode":"341302"
 	},
@@ -171,7 +171,7 @@
 		"code":"341302110",
 		"fullCode":"341302110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大店镇",
 		"parentCode":"341302"
 	},
@@ -179,7 +179,7 @@
 		"code":"341302111",
 		"fullCode":"341302111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大泽乡镇",
 		"parentCode":"341302"
 	},
@@ -187,7 +187,7 @@
 		"code":"341302112",
 		"fullCode":"341302112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃园镇",
 		"parentCode":"341302"
 	},
@@ -195,7 +195,7 @@
 		"code":"341302113",
 		"fullCode":"341302113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蕲县镇",
 		"parentCode":"341302"
 	},
@@ -203,7 +203,7 @@
 		"code":"341302114",
 		"fullCode":"341302114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营镇",
 		"parentCode":"341302"
 	},
@@ -211,7 +211,7 @@
 		"code":"341302115",
 		"fullCode":"341302115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺河镇",
 		"parentCode":"341302"
 	},
@@ -219,7 +219,7 @@
 		"code":"341302116",
 		"fullCode":"341302116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒿沟镇",
 		"parentCode":"341302"
 	},
@@ -227,7 +227,7 @@
 		"code":"341302117",
 		"fullCode":"341302117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨庄镇",
 		"parentCode":"341302"
 	},
@@ -235,7 +235,7 @@
 		"code":"341302118",
 		"fullCode":"341302118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解集镇",
 		"parentCode":"341302"
 	},
@@ -243,7 +243,7 @@
 		"code":"341302119",
 		"fullCode":"341302119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苗安镇",
 		"parentCode":"341302"
 	},
@@ -251,7 +251,7 @@
 		"code":"341302120",
 		"fullCode":"341302120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"支河镇",
 		"parentCode":"341302"
 	},
@@ -259,7 +259,7 @@
 		"code":"341302121",
 		"fullCode":"341302121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃沟镇",
 		"parentCode":"341302"
 	},
@@ -267,7 +267,7 @@
 		"code":"341302122",
 		"fullCode":"341302122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永镇镇",
 		"parentCode":"341302"
 	},
@@ -275,7 +275,7 @@
 		"code":"341302123",
 		"fullCode":"341302123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西二铺镇",
 		"parentCode":"341302"
 	},
@@ -283,7 +283,7 @@
 		"code":"341302209",
 		"fullCode":"341302209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北杨寨乡",
 		"parentCode":"341302"
 	},
@@ -291,7 +291,7 @@
 		"code":"341302402",
 		"fullCode":"341302402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宿州高新技术产业开发区",
 		"parentCode":"341302"
 	},
@@ -299,7 +299,7 @@
 		"code":"341302403",
 		"fullCode":"341302403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宿州埇桥经济开发区",
 		"parentCode":"341302"
 	}

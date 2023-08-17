@@ -3,7 +3,7 @@
 		"code":"340705",
 		"fullCode":"340705000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铜官区",
 		"parentCode":"3407"
 	},
@@ -11,7 +11,7 @@
 		"code":"340706",
 		"fullCode":"340706000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"义安区",
 		"parentCode":"3407"
 	},
@@ -19,7 +19,7 @@
 		"code":"340711",
 		"fullCode":"340711000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郊区",
 		"parentCode":"3407"
 	},
@@ -27,7 +27,7 @@
 		"code":"340722",
 		"fullCode":"340722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"枞阳县",
 		"parentCode":"3407"
 	}

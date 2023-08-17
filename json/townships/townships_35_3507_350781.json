@@ -3,7 +3,7 @@
 		"code":"350781001",
 		"fullCode":"350781001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昭阳街道",
 		"parentCode":"350781"
 	},
@@ -11,7 +11,7 @@
 		"code":"350781002",
 		"fullCode":"350781002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通泰街道",
 		"parentCode":"350781"
 	},
@@ -19,7 +19,7 @@
 		"code":"350781003",
 		"fullCode":"350781003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水北街道",
 		"parentCode":"350781"
 	},
@@ -27,7 +27,7 @@
 		"code":"350781004",
 		"fullCode":"350781004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晒口街道",
 		"parentCode":"350781"
 	},
@@ -35,7 +35,7 @@
 		"code":"350781100",
 		"fullCode":"350781100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊镇",
 		"parentCode":"350781"
 	},
@@ -43,7 +43,7 @@
 		"code":"350781101",
 		"fullCode":"350781101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水北镇",
 		"parentCode":"350781"
 	},
@@ -51,7 +51,7 @@
 		"code":"350781102",
 		"fullCode":"350781102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下沙镇",
 		"parentCode":"350781"
 	},
@@ -59,7 +59,7 @@
 		"code":"350781103",
 		"fullCode":"350781103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卫闽镇",
 		"parentCode":"350781"
 	},
@@ -67,7 +67,7 @@
 		"code":"350781104",
 		"fullCode":"350781104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿山镇",
 		"parentCode":"350781"
 	},
@@ -75,7 +75,7 @@
 		"code":"350781105",
 		"fullCode":"350781105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拿口镇",
 		"parentCode":"350781"
 	},
@@ -83,7 +83,7 @@
 		"code":"350781106",
 		"fullCode":"350781106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪墩镇",
 		"parentCode":"350781"
 	},
@@ -91,7 +91,7 @@
 		"code":"350781107",
 		"fullCode":"350781107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大埠岗镇",
 		"parentCode":"350781"
 	},
@@ -99,7 +99,7 @@
 		"code":"350781108",
 		"fullCode":"350781108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平镇",
 		"parentCode":"350781"
 	},
@@ -107,7 +107,7 @@
 		"code":"350781109",
 		"fullCode":"350781109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖家坊镇",
 		"parentCode":"350781"
 	},
@@ -115,7 +115,7 @@
 		"code":"350781110",
 		"fullCode":"350781110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大竹镇",
 		"parentCode":"350781"
 	},
@@ -123,7 +123,7 @@
 		"code":"350781111",
 		"fullCode":"350781111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴家塘镇",
 		"parentCode":"350781"
 	},
@@ -131,7 +131,7 @@
 		"code":"350781200",
 		"fullCode":"350781200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桂林乡",
 		"parentCode":"350781"
 	},
@@ -139,7 +139,7 @@
 		"code":"350781201",
 		"fullCode":"350781201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张厝乡",
 		"parentCode":"350781"
 	},
@@ -147,7 +147,7 @@
 		"code":"350781202",
 		"fullCode":"350781202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金坑乡",
 		"parentCode":"350781"
 	}

@@ -3,7 +3,7 @@
 		"code":"530802001",
 		"fullCode":"530802001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思茅街道",
 		"parentCode":"530802"
 	},
@@ -11,7 +11,7 @@
 		"code":"530802102",
 		"fullCode":"530802102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南屏镇",
 		"parentCode":"530802"
 	},
@@ -19,7 +19,7 @@
 		"code":"530802103",
 		"fullCode":"530802103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"倚象镇",
 		"parentCode":"530802"
 	},
@@ -27,7 +27,7 @@
 		"code":"530802104",
 		"fullCode":"530802104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思茅港镇",
 		"parentCode":"530802"
 	},
@@ -35,7 +35,7 @@
 		"code":"530802105",
 		"fullCode":"530802105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六顺镇",
 		"parentCode":"530802"
 	},
@@ -43,7 +43,7 @@
 		"code":"530802201",
 		"fullCode":"530802201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭彝族傣族乡",
 		"parentCode":"530802"
 	},
@@ -51,7 +51,7 @@
 		"code":"530802202",
 		"fullCode":"530802202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云仙彝族乡",
 		"parentCode":"530802"
 	}

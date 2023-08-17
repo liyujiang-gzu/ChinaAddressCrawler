@@ -3,7 +3,7 @@
 		"code":"650106001",
 		"fullCode":"650106001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钢城片区街道",
 		"parentCode":"650106"
 	},
@@ -11,7 +11,7 @@
 		"code":"650106002",
 		"fullCode":"650106002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火车西站片区街道",
 		"parentCode":"650106"
 	},
@@ -19,7 +19,7 @@
 		"code":"650106003",
 		"fullCode":"650106003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家沟片区街道",
 		"parentCode":"650106"
 	},
@@ -27,7 +27,7 @@
 		"code":"650106004",
 		"fullCode":"650106004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌昌路片区街道",
 		"parentCode":"650106"
 	},
@@ -35,7 +35,7 @@
 		"code":"650106005",
 		"fullCode":"650106005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北站西路片区街道",
 		"parentCode":"650106"
 	},
@@ -43,7 +43,7 @@
 		"code":"650106007",
 		"fullCode":"650106007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中亚北路片区街道",
 		"parentCode":"650106"
 	},
@@ -51,7 +51,7 @@
 		"code":"650106008",
 		"fullCode":"650106008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中亚南路片区街道",
 		"parentCode":"650106"
 	},
@@ -59,7 +59,7 @@
 		"code":"650106009",
 		"fullCode":"650106009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嵩山街片区街道",
 		"parentCode":"650106"
 	},
@@ -67,7 +67,7 @@
 		"code":"650106010",
 		"fullCode":"650106010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高铁片区街道",
 		"parentCode":"650106"
 	},
@@ -75,7 +75,7 @@
 		"code":"650106011",
 		"fullCode":"650106011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鸟湖片区街道",
 		"parentCode":"650106"
 	},
@@ -83,7 +83,7 @@
 		"code":"650106012",
 		"fullCode":"650106012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西湖片区街道",
 		"parentCode":"650106"
 	},
@@ -91,7 +91,7 @@
 		"code":"650106013",
 		"fullCode":"650106013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北站东路片区街道",
 		"parentCode":"650106"
 	},
@@ -99,7 +99,7 @@
 		"code":"650106014",
 		"fullCode":"650106014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两河片区街道",
 		"parentCode":"650106"
 	},
@@ -107,7 +107,7 @@
 		"code":"650106015",
 		"fullCode":"650106015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌鲁木齐站片区街道",
 		"parentCode":"650106"
 	},
@@ -115,7 +115,7 @@
 		"code":"650106198",
 		"fullCode":"650106198000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"区直辖村级区划",
 		"parentCode":"650106"
 	},
@@ -123,7 +123,7 @@
 		"code":"650106501",
 		"fullCode":"650106501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团十二师三坪农场",
 		"parentCode":"650106"
 	},
@@ -131,7 +131,7 @@
 		"code":"650106502",
 		"fullCode":"650106502000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团十二师五一农场",
 		"parentCode":"650106"
 	},
@@ -139,7 +139,7 @@
 		"code":"650106503",
 		"fullCode":"650106503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新疆兵团十二师头屯河农场",
 		"parentCode":"650106"
 	}

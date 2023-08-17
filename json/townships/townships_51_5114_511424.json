@@ -3,7 +3,7 @@
 		"code":"511424102",
 		"fullCode":"511424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁美镇",
 		"parentCode":"511424"
 	},
@@ -11,7 +11,7 @@
 		"code":"511424106",
 		"fullCode":"511424106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨场镇",
 		"parentCode":"511424"
 	},
@@ -19,7 +19,7 @@
 		"code":"511424108",
 		"fullCode":"511424108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张场镇",
 		"parentCode":"511424"
 	},
@@ -27,7 +27,7 @@
 		"code":"511424109",
 		"fullCode":"511424109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐乐镇",
 		"parentCode":"511424"
 	},
@@ -35,7 +35,7 @@
 		"code":"511424204",
 		"fullCode":"511424204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺龙乡",
 		"parentCode":"511424"
 	}

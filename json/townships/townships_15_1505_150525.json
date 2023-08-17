@@ -3,7 +3,7 @@
 		"code":"150525100",
 		"fullCode":"150525100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大沁他拉镇",
 		"parentCode":"150525"
 	},
@@ -11,7 +11,7 @@
 		"code":"150525101",
 		"fullCode":"150525101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八仙筒镇",
 		"parentCode":"150525"
 	},
@@ -19,7 +19,7 @@
 		"code":"150525102",
 		"fullCode":"150525102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙山镇",
 		"parentCode":"150525"
 	},
@@ -27,7 +27,7 @@
 		"code":"150525103",
 		"fullCode":"150525103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新镇",
 		"parentCode":"150525"
 	},
@@ -35,7 +35,7 @@
 		"code":"150525104",
 		"fullCode":"150525104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"治安镇",
 		"parentCode":"150525"
 	},
@@ -43,7 +43,7 @@
 		"code":"150525105",
 		"fullCode":"150525105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东明镇",
 		"parentCode":"150525"
 	},
@@ -51,7 +51,7 @@
 		"code":"150525106",
 		"fullCode":"150525106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙日浩来镇",
 		"parentCode":"150525"
 	},
@@ -59,7 +59,7 @@
 		"code":"150525107",
 		"fullCode":"150525107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义隆永镇",
 		"parentCode":"150525"
 	},
@@ -67,7 +67,7 @@
 		"code":"150525200",
 		"fullCode":"150525200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固日班花苏木",
 		"parentCode":"150525"
 	},
@@ -75,7 +75,7 @@
 		"code":"150525201",
 		"fullCode":"150525201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白音他拉苏木",
 		"parentCode":"150525"
 	},
@@ -83,7 +83,7 @@
 		"code":"150525202",
 		"fullCode":"150525202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明仁苏木",
 		"parentCode":"150525"
 	},
@@ -91,7 +91,7 @@
 		"code":"150525203",
 		"fullCode":"150525203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄花塔拉苏木",
 		"parentCode":"150525"
 	},
@@ -99,7 +99,7 @@
 		"code":"150525204",
 		"fullCode":"150525204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土城子乡",
 		"parentCode":"150525"
 	},
@@ -107,7 +107,7 @@
 		"code":"150525205",
 		"fullCode":"150525205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苇莲苏乡",
 		"parentCode":"150525"
 	},
@@ -115,7 +115,7 @@
 		"code":"150525400",
 		"fullCode":"150525400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国有六号农场",
 		"parentCode":"150525"
 	},
@@ -123,7 +123,7 @@
 		"code":"150525401",
 		"fullCode":"150525401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大沁他拉街道",
 		"parentCode":"150525"
 	}

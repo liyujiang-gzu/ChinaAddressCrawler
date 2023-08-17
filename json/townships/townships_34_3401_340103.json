@@ -3,7 +3,7 @@
 		"code":"340103001",
 		"fullCode":"340103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亳州路街道",
 		"parentCode":"340103"
 	},
@@ -11,7 +11,7 @@
 		"code":"340103002",
 		"fullCode":"340103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双岗街道",
 		"parentCode":"340103"
 	},
@@ -19,7 +19,7 @@
 		"code":"340103003",
 		"fullCode":"340103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏林街道",
 		"parentCode":"340103"
 	},
@@ -27,7 +27,7 @@
 		"code":"340103004",
 		"fullCode":"340103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海棠街道",
 		"parentCode":"340103"
 	},
@@ -35,7 +35,7 @@
 		"code":"340103005",
 		"fullCode":"340103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏花村街道",
 		"parentCode":"340103"
 	},
@@ -43,7 +43,7 @@
 		"code":"340103006",
 		"fullCode":"340103006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"逍遥津街道",
 		"parentCode":"340103"
 	},
@@ -51,7 +51,7 @@
 		"code":"340103009",
 		"fullCode":"340103009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三孝口街道",
 		"parentCode":"340103"
 	},
@@ -59,7 +59,7 @@
 		"code":"340103012",
 		"fullCode":"340103012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四里河街道",
 		"parentCode":"340103"
 	},
@@ -67,7 +67,7 @@
 		"code":"340103100",
 		"fullCode":"340103100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大杨镇",
 		"parentCode":"340103"
 	},
@@ -75,7 +75,7 @@
 		"code":"340103200",
 		"fullCode":"340103200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三十岗乡",
 		"parentCode":"340103"
 	},
@@ -83,7 +83,7 @@
 		"code":"340103400",
 		"fullCode":"340103400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庐阳工业区（林店街道）",
 		"parentCode":"340103"
 	}

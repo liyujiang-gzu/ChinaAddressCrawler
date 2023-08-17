@@ -3,7 +3,7 @@
 		"code":"210323001",
 		"fullCode":"210323001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阜昌街道",
 		"parentCode":"210323"
 	},
@@ -11,7 +11,7 @@
 		"code":"210323003",
 		"fullCode":"210323003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆街道",
 		"parentCode":"210323"
 	},
@@ -19,7 +19,7 @@
 		"code":"210323004",
 		"fullCode":"210323004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雅河街道",
 		"parentCode":"210323"
 	},
@@ -27,7 +27,7 @@
 		"code":"210323101",
 		"fullCode":"210323101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三家子镇",
 		"parentCode":"210323"
 	},
@@ -35,7 +35,7 @@
 		"code":"210323102",
 		"fullCode":"210323102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石庙子镇",
 		"parentCode":"210323"
 	},
@@ -43,7 +43,7 @@
 		"code":"210323103",
 		"fullCode":"210323103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄花甸镇",
 		"parentCode":"210323"
 	},
@@ -51,7 +51,7 @@
 		"code":"210323104",
 		"fullCode":"210323104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大营子镇",
 		"parentCode":"210323"
 	},
@@ -59,7 +59,7 @@
 		"code":"210323105",
 		"fullCode":"210323105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏子沟镇",
 		"parentCode":"210323"
 	},
@@ -67,7 +67,7 @@
 		"code":"210323106",
 		"fullCode":"210323106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"偏岭镇",
 		"parentCode":"210323"
 	},
@@ -75,7 +75,7 @@
 		"code":"210323107",
 		"fullCode":"210323107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈达碑镇",
 		"parentCode":"210323"
 	},
@@ -83,7 +83,7 @@
 		"code":"210323108",
 		"fullCode":"210323108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新甸镇",
 		"parentCode":"210323"
 	},
@@ -91,7 +91,7 @@
 		"code":"210323109",
 		"fullCode":"210323109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋河镇",
 		"parentCode":"210323"
 	},
@@ -99,7 +99,7 @@
 		"code":"210323111",
 		"fullCode":"210323111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨家堡镇",
 		"parentCode":"210323"
 	},
@@ -107,7 +107,7 @@
 		"code":"210323112",
 		"fullCode":"210323112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清凉山镇",
 		"parentCode":"210323"
 	},
@@ -115,7 +115,7 @@
 		"code":"210323113",
 		"fullCode":"210323113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石灰窑镇",
 		"parentCode":"210323"
 	},
@@ -123,7 +123,7 @@
 		"code":"210323114",
 		"fullCode":"210323114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前营镇",
 		"parentCode":"210323"
 	},
@@ -131,7 +131,7 @@
 		"code":"210323115",
 		"fullCode":"210323115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙潭镇",
 		"parentCode":"210323"
 	},
@@ -139,7 +139,7 @@
 		"code":"210323116",
 		"fullCode":"210323116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牧牛镇",
 		"parentCode":"210323"
 	},
@@ -147,7 +147,7 @@
 		"code":"210323117",
 		"fullCode":"210323117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"药山镇",
 		"parentCode":"210323"
 	},
@@ -155,7 +155,7 @@
 		"code":"210323118",
 		"fullCode":"210323118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大房身镇",
 		"parentCode":"210323"
 	},
@@ -163,7 +163,7 @@
 		"code":"210323119",
 		"fullCode":"210323119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳镇",
 		"parentCode":"210323"
 	},
@@ -171,7 +171,7 @@
 		"code":"210323206",
 		"fullCode":"210323206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗营子乡",
 		"parentCode":"210323"
 	},
@@ -179,7 +179,7 @@
 		"code":"210323211",
 		"fullCode":"210323211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭沟乡",
 		"parentCode":"210323"
 	},
@@ -187,7 +187,7 @@
 		"code":"210323212",
 		"fullCode":"210323212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哨子河乡",
 		"parentCode":"210323"
 	}

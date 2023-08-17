@@ -3,7 +3,7 @@
 		"code":"620623100",
 		"fullCode":"620623100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华藏寺镇",
 		"parentCode":"620623"
 	},
@@ -11,7 +11,7 @@
 		"code":"620623101",
 		"fullCode":"620623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"打柴沟镇",
 		"parentCode":"620623"
 	},
@@ -19,7 +19,7 @@
 		"code":"620623102",
 		"fullCode":"620623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安远镇",
 		"parentCode":"620623"
 	},
@@ -27,7 +27,7 @@
 		"code":"620623103",
 		"fullCode":"620623103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"炭山岭镇",
 		"parentCode":"620623"
 	},
@@ -35,7 +35,7 @@
 		"code":"620623104",
 		"fullCode":"620623104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈溪镇",
 		"parentCode":"620623"
 	},
@@ -43,7 +43,7 @@
 		"code":"620623105",
 		"fullCode":"620623105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛什斯镇",
 		"parentCode":"620623"
 	},
@@ -51,7 +51,7 @@
 		"code":"620623106",
 		"fullCode":"620623106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门镇",
 		"parentCode":"620623"
 	},
@@ -59,7 +59,7 @@
 		"code":"620623107",
 		"fullCode":"620623107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松山镇",
 		"parentCode":"620623"
 	},
@@ -67,7 +67,7 @@
 		"code":"620623108",
 		"fullCode":"620623108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天堂镇",
 		"parentCode":"620623"
 	},
@@ -75,7 +75,7 @@
 		"code":"620623109",
 		"fullCode":"620623109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朵什镇",
 		"parentCode":"620623"
 	},
@@ -83,7 +83,7 @@
 		"code":"620623110",
 		"fullCode":"620623110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西大滩镇",
 		"parentCode":"620623"
 	},
@@ -91,7 +91,7 @@
 		"code":"620623111",
 		"fullCode":"620623111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"抓喜秀龙镇",
 		"parentCode":"620623"
 	},
@@ -99,7 +99,7 @@
 		"code":"620623112",
 		"fullCode":"620623112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大红沟镇",
 		"parentCode":"620623"
 	},
@@ -107,7 +107,7 @@
 		"code":"620623113",
 		"fullCode":"620623113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祁连镇",
 		"parentCode":"620623"
 	},
@@ -115,7 +115,7 @@
 		"code":"620623201",
 		"fullCode":"620623201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坪乡",
 		"parentCode":"620623"
 	},
@@ -123,7 +123,7 @@
 		"code":"620623202",
 		"fullCode":"620623202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赛拉隆乡",
 		"parentCode":"620623"
 	},
@@ -131,7 +131,7 @@
 		"code":"620623203",
 		"fullCode":"620623203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东大滩乡",
 		"parentCode":"620623"
 	},
@@ -139,7 +139,7 @@
 		"code":"620623208",
 		"fullCode":"620623208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛藏乡",
 		"parentCode":"620623"
 	},
@@ -147,7 +147,7 @@
 		"code":"620623210",
 		"fullCode":"620623210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旦马乡",
 		"parentCode":"620623"
 	},
@@ -155,7 +155,7 @@
 		"code":"620623401",
 		"fullCode":"620623401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天祝建材厂",
 		"parentCode":"620623"
 	},
@@ -163,7 +163,7 @@
 		"code":"620623402",
 		"fullCode":"620623402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天祝煤电公司",
 		"parentCode":"620623"
 	}

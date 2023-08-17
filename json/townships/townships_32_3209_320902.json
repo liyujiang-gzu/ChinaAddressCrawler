@@ -3,7 +3,7 @@
 		"code":"320902001",
 		"fullCode":"320902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五星街道",
 		"parentCode":"320902"
 	},
@@ -11,7 +11,7 @@
 		"code":"320902002",
 		"fullCode":"320902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文峰街道",
 		"parentCode":"320902"
 	},
@@ -19,7 +19,7 @@
 		"code":"320902003",
 		"fullCode":"320902003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先锋街道",
 		"parentCode":"320902"
 	},
@@ -27,7 +27,7 @@
 		"code":"320902004",
 		"fullCode":"320902004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毓龙街道",
 		"parentCode":"320902"
 	},
@@ -35,7 +35,7 @@
 		"code":"320902007",
 		"fullCode":"320902007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新洋街道",
 		"parentCode":"320902"
 	},
@@ -43,7 +43,7 @@
 		"code":"320902008",
 		"fullCode":"320902008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大洋街道",
 		"parentCode":"320902"
 	},
@@ -51,7 +51,7 @@
 		"code":"320902050",
 		"fullCode":"320902050000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伍佑街道",
 		"parentCode":"320902"
 	},
@@ -59,7 +59,7 @@
 		"code":"320902051",
 		"fullCode":"320902051000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄海街道",
 		"parentCode":"320902"
 	},
@@ -67,7 +67,7 @@
 		"code":"320902052",
 		"fullCode":"320902052000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新河街道",
 		"parentCode":"320902"
 	},
@@ -75,7 +75,7 @@
 		"code":"320902100",
 		"fullCode":"320902100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南洋镇",
 		"parentCode":"320902"
 	},
@@ -83,7 +83,7 @@
 		"code":"320902102",
 		"fullCode":"320902102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴镇",
 		"parentCode":"320902"
 	},
@@ -91,7 +91,7 @@
 		"code":"320902104",
 		"fullCode":"320902104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"便仓镇",
 		"parentCode":"320902"
 	},
@@ -99,7 +99,7 @@
 		"code":"320902107",
 		"fullCode":"320902107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐东镇",
 		"parentCode":"320902"
 	},
@@ -107,7 +107,7 @@
 		"code":"320902108",
 		"fullCode":"320902108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄尖镇",
 		"parentCode":"320902"
 	},
@@ -115,7 +115,7 @@
 		"code":"320902400",
 		"fullCode":"320902400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亭湖新区",
 		"parentCode":"320902"
 	},
@@ -123,7 +123,7 @@
 		"code":"320902402",
 		"fullCode":"320902402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"环保产业园",
 		"parentCode":"320902"
 	}

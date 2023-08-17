@@ -3,7 +3,7 @@
 		"code":"320411002",
 		"fullCode":"320411002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三井街道",
 		"parentCode":"320411"
 	},
@@ -11,7 +11,7 @@
 		"code":"320411003",
 		"fullCode":"320411003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙虎塘街道",
 		"parentCode":"320411"
 	},
@@ -19,7 +19,7 @@
 		"code":"320411004",
 		"fullCode":"320411004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"春江街道",
 		"parentCode":"320411"
 	},
@@ -27,7 +27,7 @@
 		"code":"320411005",
 		"fullCode":"320411005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魏村街道",
 		"parentCode":"320411"
 	},
@@ -35,7 +35,7 @@
 		"code":"320411006",
 		"fullCode":"320411006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥街道",
 		"parentCode":"320411"
 	},
@@ -43,7 +43,7 @@
 		"code":"320411101",
 		"fullCode":"320411101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟河镇",
 		"parentCode":"320411"
 	},
@@ -51,7 +51,7 @@
 		"code":"320411103",
 		"fullCode":"320411103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薛家镇",
 		"parentCode":"320411"
 	},
@@ -59,7 +59,7 @@
 		"code":"320411104",
 		"fullCode":"320411104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗溪镇",
 		"parentCode":"320411"
 	},
@@ -67,7 +67,7 @@
 		"code":"320411105",
 		"fullCode":"320411105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西夏墅镇",
 		"parentCode":"320411"
 	},
@@ -75,7 +75,7 @@
 		"code":"320411122",
 		"fullCode":"320411122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奔牛镇",
 		"parentCode":"320411"
 	}

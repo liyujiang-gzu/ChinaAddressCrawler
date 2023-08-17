@@ -3,7 +3,7 @@
 		"code":"230204001",
 		"fullCode":"230204001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站前街道",
 		"parentCode":"230204"
 	},
@@ -11,7 +11,7 @@
 		"code":"230204002",
 		"fullCode":"230204002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南浦街道",
 		"parentCode":"230204"
 	},
@@ -19,7 +19,7 @@
 		"code":"230204003",
 		"fullCode":"230204003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通东街道",
 		"parentCode":"230204"
 	},
@@ -27,7 +27,7 @@
 		"code":"230204004",
 		"fullCode":"230204004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光荣街道",
 		"parentCode":"230204"
 	},
@@ -35,7 +35,7 @@
 		"code":"230204005",
 		"fullCode":"230204005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙华街道",
 		"parentCode":"230204"
 	},
@@ -43,7 +43,7 @@
 		"code":"230204006",
 		"fullCode":"230204006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北局宅街道",
 		"parentCode":"230204"
 	},
@@ -51,7 +51,7 @@
 		"code":"230204008",
 		"fullCode":"230204008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湖街道",
 		"parentCode":"230204"
 	},
@@ -59,7 +59,7 @@
 		"code":"230204009",
 		"fullCode":"230204009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"种畜场街道",
 		"parentCode":"230204"
 	},
@@ -67,7 +67,7 @@
 		"code":"230204100",
 		"fullCode":"230204100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎龙镇",
 		"parentCode":"230204"
 	}

@@ -3,7 +3,7 @@
 		"code":"150784001",
 		"fullCode":"150784001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉布大林街道",
 		"parentCode":"150784"
 	},
@@ -11,7 +11,7 @@
 		"code":"150784002",
 		"fullCode":"150784002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上库力街道",
 		"parentCode":"150784"
 	},
@@ -19,7 +19,7 @@
 		"code":"150784101",
 		"fullCode":"150784101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑山头镇",
 		"parentCode":"150784"
 	},
@@ -27,7 +27,7 @@
 		"code":"150784103",
 		"fullCode":"150784103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫尔道嘎镇",
 		"parentCode":"150784"
 	},
@@ -35,7 +35,7 @@
 		"code":"150784104",
 		"fullCode":"150784104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恩和哈达镇",
 		"parentCode":"150784"
 	},
@@ -43,7 +43,7 @@
 		"code":"150784200",
 		"fullCode":"150784200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三河回族乡",
 		"parentCode":"150784"
 	},
@@ -51,7 +51,7 @@
 		"code":"150784210",
 		"fullCode":"150784210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恩和俄罗斯族民族乡",
 		"parentCode":"150784"
 	},
@@ -59,7 +59,7 @@
 		"code":"150784211",
 		"fullCode":"150784211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒙兀室韦苏木",
 		"parentCode":"150784"
 	},
@@ -67,7 +67,7 @@
 		"code":"150784212",
 		"fullCode":"150784212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奇乾乡",
 		"parentCode":"150784"
 	},
@@ -75,7 +75,7 @@
 		"code":"150784400",
 		"fullCode":"150784400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内蒙古拉布大林农牧场",
 		"parentCode":"150784"
 	},
@@ -83,7 +83,7 @@
 		"code":"150784401",
 		"fullCode":"150784401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内蒙古三河种马场",
 		"parentCode":"150784"
 	},
@@ -91,7 +91,7 @@
 		"code":"150784402",
 		"fullCode":"150784402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内蒙古上库力农场",
 		"parentCode":"150784"
 	},
@@ -99,7 +99,7 @@
 		"code":"150784403",
 		"fullCode":"150784403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内蒙古苏沁农牧场",
 		"parentCode":"150784"
 	}

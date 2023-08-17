@@ -3,7 +3,7 @@
 		"code":"150121100",
 		"fullCode":"150121100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"察素齐镇",
 		"parentCode":"150121"
 	},
@@ -11,7 +11,7 @@
 		"code":"150121101",
 		"fullCode":"150121101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毕克齐镇",
 		"parentCode":"150121"
 	},
@@ -19,7 +19,7 @@
 		"code":"150121102",
 		"fullCode":"150121102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"善岱镇",
 		"parentCode":"150121"
 	},
@@ -27,7 +27,7 @@
 		"code":"150121103",
 		"fullCode":"150121103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台阁牧镇",
 		"parentCode":"150121"
 	},
@@ -35,7 +35,7 @@
 		"code":"150121104",
 		"fullCode":"150121104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白庙子镇",
 		"parentCode":"150121"
 	},
@@ -43,7 +43,7 @@
 		"code":"150121105",
 		"fullCode":"150121105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙尔沁镇",
 		"parentCode":"150121"
 	},
@@ -51,7 +51,7 @@
 		"code":"150121106",
 		"fullCode":"150121106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敕勒川镇",
 		"parentCode":"150121"
 	},
@@ -59,7 +59,7 @@
 		"code":"150121207",
 		"fullCode":"150121207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北什轴乡",
 		"parentCode":"150121"
 	},
@@ -67,7 +67,7 @@
 		"code":"150121208",
 		"fullCode":"150121208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔布赛乡",
 		"parentCode":"150121"
 	},
@@ -75,7 +75,7 @@
 		"code":"150121401",
 		"fullCode":"150121401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呼和浩特金山经济技术开发区",
 		"parentCode":"150121"
 	}

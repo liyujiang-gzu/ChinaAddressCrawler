@@ -3,7 +3,7 @@
 		"code":"150125100",
 		"fullCode":"150125100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"可可以力更镇",
 		"parentCode":"150125"
 	},
@@ -11,7 +11,7 @@
 		"code":"150125101",
 		"fullCode":"150125101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈乐镇",
 		"parentCode":"150125"
 	},
@@ -19,7 +19,7 @@
 		"code":"150125102",
 		"fullCode":"150125102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西乌兰不浪镇",
 		"parentCode":"150125"
 	},
@@ -27,7 +27,7 @@
 		"code":"150125200",
 		"fullCode":"150125200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大青山乡",
 		"parentCode":"150125"
 	},
@@ -35,7 +35,7 @@
 		"code":"150125205",
 		"fullCode":"150125205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上秃亥乡",
 		"parentCode":"150125"
 	},
@@ -43,7 +43,7 @@
 		"code":"150125207",
 		"fullCode":"150125207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"得胜沟乡",
 		"parentCode":"150125"
 	},
@@ -51,7 +51,7 @@
 		"code":"150125211",
 		"fullCode":"150125211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二份子乡",
 		"parentCode":"150125"
 	},
@@ -59,7 +59,7 @@
 		"code":"150125213",
 		"fullCode":"150125213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉合少乡",
 		"parentCode":"150125"
 	},
@@ -67,7 +67,7 @@
 		"code":"150125214",
 		"fullCode":"150125214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"耗赖山乡",
 		"parentCode":"150125"
 	},
@@ -75,7 +75,7 @@
 		"code":"150125402",
 		"fullCode":"150125402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"内蒙古武川经济开发区",
 		"parentCode":"150125"
 	},
@@ -83,7 +83,7 @@
 		"code":"150125403",
 		"fullCode":"150125403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武川金三角经济开发区",
 		"parentCode":"150125"
 	}

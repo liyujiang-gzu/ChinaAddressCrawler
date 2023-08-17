@@ -3,7 +3,7 @@
 		"code":"433101002",
 		"fullCode":"433101002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"峒河街道",
 		"parentCode":"433101"
 	},
@@ -11,7 +11,7 @@
 		"code":"433101004",
 		"fullCode":"433101004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乾州街道",
 		"parentCode":"433101"
 	},
@@ -19,7 +19,7 @@
 		"code":"433101005",
 		"fullCode":"433101005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇溪街道",
 		"parentCode":"433101"
 	},
@@ -27,7 +27,7 @@
 		"code":"433101007",
 		"fullCode":"433101007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石家冲街道",
 		"parentCode":"433101"
 	},
@@ -35,7 +35,7 @@
 		"code":"433101008",
 		"fullCode":"433101008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双塘街道",
 		"parentCode":"433101"
 	},
@@ -43,7 +43,7 @@
 		"code":"433101009",
 		"fullCode":"433101009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉凤街道",
 		"parentCode":"433101"
 	},
@@ -51,7 +51,7 @@
 		"code":"433101100",
 		"fullCode":"433101100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矮寨镇",
 		"parentCode":"433101"
 	},
@@ -59,7 +59,7 @@
 		"code":"433101101",
 		"fullCode":"433101101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马颈坳镇",
 		"parentCode":"433101"
 	},
@@ -67,7 +67,7 @@
 		"code":"433101102",
 		"fullCode":"433101102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河溪镇",
 		"parentCode":"433101"
 	},
@@ -75,7 +75,7 @@
 		"code":"433101104",
 		"fullCode":"433101104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹青镇",
 		"parentCode":"433101"
 	},
@@ -83,7 +83,7 @@
 		"code":"433101105",
 		"fullCode":"433101105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"433101"
 	},
@@ -91,7 +91,7 @@
 		"code":"433101201",
 		"fullCode":"433101201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"己略乡",
 		"parentCode":"433101"
 	}

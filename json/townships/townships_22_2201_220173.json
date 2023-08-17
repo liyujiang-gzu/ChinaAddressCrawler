@@ -3,7 +3,7 @@
 		"code":"220173001",
 		"fullCode":"220173001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"硅谷街道",
 		"parentCode":"220173"
 	},
@@ -11,7 +11,7 @@
 		"code":"220173002",
 		"fullCode":"220173002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北湖街道",
 		"parentCode":"220173"
 	},
@@ -19,7 +19,7 @@
 		"code":"220173003",
 		"fullCode":"220173003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"超越街道",
 		"parentCode":"220173"
 	},
@@ -27,7 +27,7 @@
 		"code":"220173004",
 		"fullCode":"220173004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"飞跃街道",
 		"parentCode":"220173"
 	},
@@ -35,7 +35,7 @@
 		"code":"220173005",
 		"fullCode":"220173005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双德街道",
 		"parentCode":"220173"
 	},
@@ -43,7 +43,7 @@
 		"code":"220173200",
 		"fullCode":"220173200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奋进乡",
 		"parentCode":"220173"
 	}

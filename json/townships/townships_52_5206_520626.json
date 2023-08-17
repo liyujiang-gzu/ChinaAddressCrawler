@@ -3,7 +3,7 @@
 		"code":"520626001",
 		"fullCode":"520626001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙街道",
 		"parentCode":"520626"
 	},
@@ -11,7 +11,7 @@
 		"code":"520626002",
 		"fullCode":"520626002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉水街道",
 		"parentCode":"520626"
 	},
@@ -19,7 +19,7 @@
 		"code":"520626003",
 		"fullCode":"520626003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安化街道",
 		"parentCode":"520626"
 	},
@@ -27,7 +27,7 @@
 		"code":"520626101",
 		"fullCode":"520626101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"煎茶镇",
 		"parentCode":"520626"
 	},
@@ -35,7 +35,7 @@
 		"code":"520626102",
 		"fullCode":"520626102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潮砥镇",
 		"parentCode":"520626"
 	},
@@ -43,7 +43,7 @@
 		"code":"520626103",
 		"fullCode":"520626103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫香溪镇",
 		"parentCode":"520626"
 	},
@@ -51,7 +51,7 @@
 		"code":"520626104",
 		"fullCode":"520626104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稳坪镇",
 		"parentCode":"520626"
 	},
@@ -59,7 +59,7 @@
 		"code":"520626105",
 		"fullCode":"520626105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"复兴镇",
 		"parentCode":"520626"
 	},
@@ -67,7 +67,7 @@
 		"code":"520626106",
 		"fullCode":"520626106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合兴镇",
 		"parentCode":"520626"
 	},
@@ -75,7 +75,7 @@
 		"code":"520626107",
 		"fullCode":"520626107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高山镇",
 		"parentCode":"520626"
 	},
@@ -83,7 +83,7 @@
 		"code":"520626108",
 		"fullCode":"520626108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉口镇",
 		"parentCode":"520626"
 	},
@@ -91,7 +91,7 @@
 		"code":"520626109",
 		"fullCode":"520626109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长堡镇",
 		"parentCode":"520626"
 	},
@@ -99,7 +99,7 @@
 		"code":"520626110",
 		"fullCode":"520626110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共和镇",
 		"parentCode":"520626"
 	},
@@ -107,7 +107,7 @@
 		"code":"520626111",
 		"fullCode":"520626111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平原镇",
 		"parentCode":"520626"
 	},
@@ -115,7 +115,7 @@
 		"code":"520626200",
 		"fullCode":"520626200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荆角土家族乡",
 		"parentCode":"520626"
 	},
@@ -123,7 +123,7 @@
 		"code":"520626201",
 		"fullCode":"520626201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堰塘土家族乡",
 		"parentCode":"520626"
 	},
@@ -131,7 +131,7 @@
 		"code":"520626202",
 		"fullCode":"520626202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉土家族乡",
 		"parentCode":"520626"
 	},
@@ -139,7 +139,7 @@
 		"code":"520626203",
 		"fullCode":"520626203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱家土家族乡",
 		"parentCode":"520626"
 	},
@@ -147,7 +147,7 @@
 		"code":"520626204",
 		"fullCode":"520626204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙溪土家族乡",
 		"parentCode":"520626"
 	},
@@ -155,7 +155,7 @@
 		"code":"520626205",
 		"fullCode":"520626205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楠杆土家族乡",
 		"parentCode":"520626"
 	},
@@ -163,7 +163,7 @@
 		"code":"520626206",
 		"fullCode":"520626206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长丰土家族乡",
 		"parentCode":"520626"
 	},
@@ -171,7 +171,7 @@
 		"code":"520626207",
 		"fullCode":"520626207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桶井土家族乡",
 		"parentCode":"520626"
 	}

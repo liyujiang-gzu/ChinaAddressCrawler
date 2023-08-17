@@ -3,7 +3,7 @@
 		"code":"150206001",
 		"fullCode":"150206001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿山路街道",
 		"parentCode":"150206"
 	},
@@ -11,7 +11,7 @@
 		"code":"150206002",
 		"fullCode":"150206002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通阳道街道",
 		"parentCode":"150206"
 	}

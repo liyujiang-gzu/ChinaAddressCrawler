@@ -3,7 +3,7 @@
 		"code":"210804001",
 		"fullCode":"210804001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红海街道",
 		"parentCode":"210804"
 	},
@@ -11,7 +11,7 @@
 		"code":"210804002",
 		"fullCode":"210804002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海星街道",
 		"parentCode":"210804"
 	},
@@ -19,7 +19,7 @@
 		"code":"210804003",
 		"fullCode":"210804003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望海街道",
 		"parentCode":"210804"
 	},
@@ -27,7 +27,7 @@
 		"code":"210804100",
 		"fullCode":"210804100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"熊岳镇",
 		"parentCode":"210804"
 	},
@@ -35,7 +35,7 @@
 		"code":"210804101",
 		"fullCode":"210804101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芦屯镇",
 		"parentCode":"210804"
 	},
@@ -43,7 +43,7 @@
 		"code":"210804102",
 		"fullCode":"210804102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗镇",
 		"parentCode":"210804"
 	}

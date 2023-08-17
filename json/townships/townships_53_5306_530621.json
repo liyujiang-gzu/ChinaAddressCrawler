@@ -3,7 +3,7 @@
 		"code":"530621001",
 		"fullCode":"530621001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文屏街道",
 		"parentCode":"530621"
 	},
@@ -11,7 +11,7 @@
 		"code":"530621002",
 		"fullCode":"530621002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"砚池街道",
 		"parentCode":"530621"
 	},
@@ -19,7 +19,7 @@
 		"code":"530621102",
 		"fullCode":"530621102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水磨镇",
 		"parentCode":"530621"
 	},
@@ -27,7 +27,7 @@
 		"code":"530621103",
 		"fullCode":"530621103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙头山镇",
 		"parentCode":"530621"
 	},
@@ -35,7 +35,7 @@
 		"code":"530621104",
 		"fullCode":"530621104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小寨镇",
 		"parentCode":"530621"
 	},
@@ -43,7 +43,7 @@
 		"code":"530621105",
 		"fullCode":"530621105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江底镇",
 		"parentCode":"530621"
 	},
@@ -51,7 +51,7 @@
 		"code":"530621106",
 		"fullCode":"530621106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火德红镇",
 		"parentCode":"530621"
 	},
@@ -59,7 +59,7 @@
 		"code":"530621107",
 		"fullCode":"530621107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙树镇",
 		"parentCode":"530621"
 	},
@@ -67,7 +67,7 @@
 		"code":"530621108",
 		"fullCode":"530621108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街镇",
 		"parentCode":"530621"
 	},
@@ -75,7 +75,7 @@
 		"code":"530621109",
 		"fullCode":"530621109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梭山镇",
 		"parentCode":"530621"
 	},
@@ -83,7 +83,7 @@
 		"code":"530621110",
 		"fullCode":"530621110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐红镇",
 		"parentCode":"530621"
 	},
@@ -91,7 +91,7 @@
 		"code":"530621201",
 		"fullCode":"530621201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃源回族乡",
 		"parentCode":"530621"
 	},
@@ -99,7 +99,7 @@
 		"code":"530621202",
 		"fullCode":"530621202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨院回族乡",
 		"parentCode":"530621"
 	}

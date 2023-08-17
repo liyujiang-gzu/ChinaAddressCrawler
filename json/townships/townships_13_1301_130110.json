@@ -3,7 +3,7 @@
 		"code":"130110100",
 		"fullCode":"130110100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"获鹿镇",
 		"parentCode":"130110"
 	},
@@ -11,7 +11,7 @@
 		"code":"130110101",
 		"fullCode":"130110101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铜冶镇",
 		"parentCode":"130110"
 	},
@@ -19,7 +19,7 @@
 		"code":"130110102",
 		"fullCode":"130110102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寺家庄镇",
 		"parentCode":"130110"
 	},
@@ -27,7 +27,7 @@
 		"code":"130110103",
 		"fullCode":"130110103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上庄镇",
 		"parentCode":"130110"
 	},
@@ -35,7 +35,7 @@
 		"code":"130110104",
 		"fullCode":"130110104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李村镇",
 		"parentCode":"130110"
 	},
@@ -43,7 +43,7 @@
 		"code":"130110105",
 		"fullCode":"130110105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜安镇",
 		"parentCode":"130110"
 	},
@@ -51,7 +51,7 @@
 		"code":"130110106",
 		"fullCode":"130110106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄壁庄镇",
 		"parentCode":"130110"
 	},
@@ -59,7 +59,7 @@
 		"code":"130110107",
 		"fullCode":"130110107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大河镇",
 		"parentCode":"130110"
 	},
@@ -67,7 +67,7 @@
 		"code":"130110108",
 		"fullCode":"130110108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山尹村镇",
 		"parentCode":"130110"
 	},
@@ -75,7 +75,7 @@
 		"code":"130110200",
 		"fullCode":"130110200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石井乡",
 		"parentCode":"130110"
 	},
@@ -83,7 +83,7 @@
 		"code":"130110201",
 		"fullCode":"130110201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鹿泉乡",
 		"parentCode":"130110"
 	},
@@ -91,7 +91,7 @@
 		"code":"130110202",
 		"fullCode":"130110202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上寨乡",
 		"parentCode":"130110"
 	},
@@ -99,7 +99,7 @@
 		"code":"130110500",
 		"fullCode":"130110500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河北鹿泉经济开发区",
 		"parentCode":"130110"
 	}

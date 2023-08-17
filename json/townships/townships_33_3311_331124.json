@@ -3,7 +3,7 @@
 		"code":"331124001",
 		"fullCode":"331124001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西屏街道",
 		"parentCode":"331124"
 	},
@@ -11,7 +11,7 @@
 		"code":"331124002",
 		"fullCode":"331124002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水南街道",
 		"parentCode":"331124"
 	},
@@ -19,7 +19,7 @@
 		"code":"331124003",
 		"fullCode":"331124003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望松街道",
 		"parentCode":"331124"
 	},
@@ -27,7 +27,7 @@
 		"code":"331124101",
 		"fullCode":"331124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古市镇",
 		"parentCode":"331124"
 	},
@@ -35,7 +35,7 @@
 		"code":"331124102",
 		"fullCode":"331124102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉岩镇",
 		"parentCode":"331124"
 	},
@@ -43,7 +43,7 @@
 		"code":"331124103",
 		"fullCode":"331124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象溪镇",
 		"parentCode":"331124"
 	},
@@ -51,7 +51,7 @@
 		"code":"331124104",
 		"fullCode":"331124104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大东坝镇",
 		"parentCode":"331124"
 	},
@@ -59,7 +59,7 @@
 		"code":"331124105",
 		"fullCode":"331124105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴镇",
 		"parentCode":"331124"
 	},
@@ -67,7 +67,7 @@
 		"code":"331124201",
 		"fullCode":"331124201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"叶村乡",
 		"parentCode":"331124"
 	},
@@ -75,7 +75,7 @@
 		"code":"331124202",
 		"fullCode":"331124202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斋坛乡",
 		"parentCode":"331124"
 	},
@@ -83,7 +83,7 @@
 		"code":"331124203",
 		"fullCode":"331124203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三都乡",
 		"parentCode":"331124"
 	},
@@ -91,7 +91,7 @@
 		"code":"331124204",
 		"fullCode":"331124204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹源乡",
 		"parentCode":"331124"
 	},
@@ -99,7 +99,7 @@
 		"code":"331124205",
 		"fullCode":"331124205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四都乡",
 		"parentCode":"331124"
 	},
@@ -107,7 +107,7 @@
 		"code":"331124206",
 		"fullCode":"331124206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤寿乡",
 		"parentCode":"331124"
 	},
@@ -115,7 +115,7 @@
 		"code":"331124208",
 		"fullCode":"331124208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樟溪乡",
 		"parentCode":"331124"
 	},
@@ -123,7 +123,7 @@
 		"code":"331124211",
 		"fullCode":"331124211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫坪乡",
 		"parentCode":"331124"
 	},
@@ -131,7 +131,7 @@
 		"code":"331124212",
 		"fullCode":"331124212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥畲族乡",
 		"parentCode":"331124"
 	},
@@ -139,7 +139,7 @@
 		"code":"331124213",
 		"fullCode":"331124213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕溪乡",
 		"parentCode":"331124"
 	},
@@ -147,7 +147,7 @@
 		"code":"331124214",
 		"fullCode":"331124214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安民乡",
 		"parentCode":"331124"
 	}

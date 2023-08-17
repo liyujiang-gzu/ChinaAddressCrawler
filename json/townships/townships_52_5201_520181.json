@@ -3,7 +3,7 @@
 		"code":"520181002",
 		"fullCode":"520181002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙山街道",
 		"parentCode":"520181"
 	},
@@ -11,7 +11,7 @@
 		"code":"520181003",
 		"fullCode":"520181003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巢凤街道",
 		"parentCode":"520181"
 	},
@@ -19,7 +19,7 @@
 		"code":"520181004",
 		"fullCode":"520181004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨湖街道",
 		"parentCode":"520181"
 	},
@@ -27,7 +27,7 @@
 		"code":"520181100",
 		"fullCode":"520181100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红枫湖镇",
 		"parentCode":"520181"
 	},
@@ -35,7 +35,7 @@
 		"code":"520181101",
 		"fullCode":"520181101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站街镇",
 		"parentCode":"520181"
 	},
@@ -43,7 +43,7 @@
 		"code":"520181102",
 		"fullCode":"520181102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卫城镇",
 		"parentCode":"520181"
 	},
@@ -51,7 +51,7 @@
 		"code":"520181103",
 		"fullCode":"520181103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新店镇",
 		"parentCode":"520181"
 	},
@@ -59,7 +59,7 @@
 		"code":"520181104",
 		"fullCode":"520181104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"暗流镇",
 		"parentCode":"520181"
 	},
@@ -67,7 +67,7 @@
 		"code":"520181105",
 		"fullCode":"520181105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"犁倭镇",
 		"parentCode":"520181"
 	},
@@ -75,7 +75,7 @@
 		"code":"520181201",
 		"fullCode":"520181201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦格苗族布依族乡",
 		"parentCode":"520181"
 	},
@@ -83,7 +83,7 @@
 		"code":"520181203",
 		"fullCode":"520181203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王庄布依族苗族乡",
 		"parentCode":"520181"
 	},
@@ -91,7 +91,7 @@
 		"code":"520181204",
 		"fullCode":"520181204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流长苗族乡",
 		"parentCode":"520181"
 	}

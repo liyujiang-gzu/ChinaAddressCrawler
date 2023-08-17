@@ -3,7 +3,7 @@
 		"code":"370211001",
 		"fullCode":"370211001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄岛街道",
 		"parentCode":"370211"
 	},
@@ -11,7 +11,7 @@
 		"code":"370211002",
 		"fullCode":"370211002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛安街道",
 		"parentCode":"370211"
 	},
@@ -19,7 +19,7 @@
 		"code":"370211003",
 		"fullCode":"370211003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薛家岛街道",
 		"parentCode":"370211"
 	},
@@ -27,7 +27,7 @@
 		"code":"370211004",
 		"fullCode":"370211004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵珠山街道",
 		"parentCode":"370211"
 	},
@@ -35,7 +35,7 @@
 		"code":"370211005",
 		"fullCode":"370211005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长江路街道",
 		"parentCode":"370211"
 	},
@@ -43,7 +43,7 @@
 		"code":"370211006",
 		"fullCode":"370211006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红石崖街道",
 		"parentCode":"370211"
 	},
@@ -51,7 +51,7 @@
 		"code":"370211007",
 		"fullCode":"370211007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵山卫街道",
 		"parentCode":"370211"
 	},
@@ -59,7 +59,7 @@
 		"code":"370211009",
 		"fullCode":"370211009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠海街道",
 		"parentCode":"370211"
 	},
@@ -67,7 +67,7 @@
 		"code":"370211010",
 		"fullCode":"370211010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隐珠街道",
 		"parentCode":"370211"
 	},
@@ -75,7 +75,7 @@
 		"code":"370211011",
 		"fullCode":"370211011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁山街道",
 		"parentCode":"370211"
 	},
@@ -83,7 +83,7 @@
 		"code":"370211012",
 		"fullCode":"370211012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滨海街道",
 		"parentCode":"370211"
 	},
@@ -91,7 +91,7 @@
 		"code":"370211013",
 		"fullCode":"370211013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胶南街道",
 		"parentCode":"370211"
 	},
@@ -99,7 +99,7 @@
 		"code":"370211014",
 		"fullCode":"370211014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王台街道",
 		"parentCode":"370211"
 	},
@@ -107,7 +107,7 @@
 		"code":"370211015",
 		"fullCode":"370211015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张家楼街道",
 		"parentCode":"370211"
 	},
@@ -115,7 +115,7 @@
 		"code":"370211102",
 		"fullCode":"370211102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琅琊镇",
 		"parentCode":"370211"
 	},
@@ -123,7 +123,7 @@
 		"code":"370211103",
 		"fullCode":"370211103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泊里镇",
 		"parentCode":"370211"
 	},
@@ -131,7 +131,7 @@
 		"code":"370211104",
 		"fullCode":"370211104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大场镇",
 		"parentCode":"370211"
 	},
@@ -139,7 +139,7 @@
 		"code":"370211105",
 		"fullCode":"370211105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大村镇",
 		"parentCode":"370211"
 	},
@@ -147,7 +147,7 @@
 		"code":"370211106",
 		"fullCode":"370211106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六汪镇",
 		"parentCode":"370211"
 	},
@@ -155,7 +155,7 @@
 		"code":"370211107",
 		"fullCode":"370211107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海青镇",
 		"parentCode":"370211"
 	},
@@ -163,7 +163,7 @@
 		"code":"370211108",
 		"fullCode":"370211108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝山镇",
 		"parentCode":"370211"
 	},
@@ -171,7 +171,7 @@
 		"code":"370211109",
 		"fullCode":"370211109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"藏马镇",
 		"parentCode":"370211"
 	},
@@ -179,7 +179,7 @@
 		"code":"370211401",
 		"fullCode":"370211401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵山岛省级自然保护区",
 		"parentCode":"370211"
 	}

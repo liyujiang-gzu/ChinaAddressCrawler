@@ -3,7 +3,7 @@
 		"code":"150581001",
 		"fullCode":"150581001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠斯花街道",
 		"parentCode":"150581"
 	},
@@ -11,7 +11,7 @@
 		"code":"150581002",
 		"fullCode":"150581002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫斯台街道",
 		"parentCode":"150581"
 	},
@@ -19,7 +19,7 @@
 		"code":"150581003",
 		"fullCode":"150581003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝日呼吉尔街道",
 		"parentCode":"150581"
 	},
@@ -27,7 +27,7 @@
 		"code":"150581004",
 		"fullCode":"150581004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙尔呼热街道",
 		"parentCode":"150581"
 	},
@@ -35,7 +35,7 @@
 		"code":"150581200",
 		"fullCode":"150581200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达来胡硕苏木",
 		"parentCode":"150581"
 	},
@@ -43,7 +43,7 @@
 		"code":"150581400",
 		"fullCode":"150581400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霍林郭勒市军马场生态保护区管理委员会",
 		"parentCode":"150581"
 	}

@@ -3,7 +3,7 @@
 		"code":"450381100",
 		"fullCode":"450381100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荔城镇",
 		"parentCode":"450381"
 	},
@@ -11,7 +11,7 @@
 		"code":"450381101",
 		"fullCode":"450381101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东昌镇",
 		"parentCode":"450381"
 	},
@@ -19,7 +19,7 @@
 		"code":"450381102",
 		"fullCode":"450381102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新坪镇",
 		"parentCode":"450381"
 	},
@@ -27,7 +27,7 @@
 		"code":"450381103",
 		"fullCode":"450381103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜莫镇",
 		"parentCode":"450381"
 	},
@@ -35,7 +35,7 @@
 		"code":"450381104",
 		"fullCode":"450381104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山镇",
 		"parentCode":"450381"
 	},
@@ -43,7 +43,7 @@
 		"code":"450381105",
 		"fullCode":"450381105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"修仁镇",
 		"parentCode":"450381"
 	},
@@ -51,7 +51,7 @@
 		"code":"450381106",
 		"fullCode":"450381106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大塘镇",
 		"parentCode":"450381"
 	},
@@ -59,7 +59,7 @@
 		"code":"450381107",
 		"fullCode":"450381107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花箦镇",
 		"parentCode":"450381"
 	},
@@ -67,7 +67,7 @@
 		"code":"450381108",
 		"fullCode":"450381108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双江镇",
 		"parentCode":"450381"
 	},
@@ -75,7 +75,7 @@
 		"code":"450381109",
 		"fullCode":"450381109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马岭镇",
 		"parentCode":"450381"
 	},
@@ -83,7 +83,7 @@
 		"code":"450381200",
 		"fullCode":"450381200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙怀乡",
 		"parentCode":"450381"
 	},
@@ -91,7 +91,7 @@
 		"code":"450381201",
 		"fullCode":"450381201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶城乡",
 		"parentCode":"450381"
 	},
@@ -99,7 +99,7 @@
 		"code":"450381202",
 		"fullCode":"450381202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲芦瑶族乡",
 		"parentCode":"450381"
 	}

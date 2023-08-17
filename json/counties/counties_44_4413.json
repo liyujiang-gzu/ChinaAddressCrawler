@@ -3,7 +3,7 @@
 		"code":"441302",
 		"fullCode":"441302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"惠城区",
 		"parentCode":"4413"
 	},
@@ -11,7 +11,7 @@
 		"code":"441303",
 		"fullCode":"441303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"惠阳区",
 		"parentCode":"4413"
 	},
@@ -19,7 +19,7 @@
 		"code":"441322",
 		"fullCode":"441322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"博罗县",
 		"parentCode":"4413"
 	},
@@ -27,7 +27,7 @@
 		"code":"441323",
 		"fullCode":"441323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"惠东县",
 		"parentCode":"4413"
 	},
@@ -35,7 +35,7 @@
 		"code":"441324",
 		"fullCode":"441324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙门县",
 		"parentCode":"4413"
 	}

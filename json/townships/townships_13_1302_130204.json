@@ -3,7 +3,7 @@
 		"code":"130204001",
 		"fullCode":"130204001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林西街道",
 		"parentCode":"130204"
 	},
@@ -11,7 +11,7 @@
 		"code":"130204002",
 		"fullCode":"130204002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐家庄街道",
 		"parentCode":"130204"
 	},
@@ -19,7 +19,7 @@
 		"code":"130204003",
 		"fullCode":"130204003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古冶街道",
 		"parentCode":"130204"
 	},
@@ -27,7 +27,7 @@
 		"code":"130204004",
 		"fullCode":"130204004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵各庄街道",
 		"parentCode":"130204"
 	},
@@ -35,7 +35,7 @@
 		"code":"130204007",
 		"fullCode":"130204007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"京华街道",
 		"parentCode":"130204"
 	},
@@ -43,7 +43,7 @@
 		"code":"130204100",
 		"fullCode":"130204100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"范各庄镇",
 		"parentCode":"130204"
 	},
@@ -51,7 +51,7 @@
 		"code":"130204101",
 		"fullCode":"130204101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卑家店镇",
 		"parentCode":"130204"
 	},
@@ -59,7 +59,7 @@
 		"code":"130204201",
 		"fullCode":"130204201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王辇庄乡",
 		"parentCode":"130204"
 	},
@@ -67,7 +67,7 @@
 		"code":"130204202",
 		"fullCode":"130204202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"习家套乡",
 		"parentCode":"130204"
 	},
@@ -75,7 +75,7 @@
 		"code":"130204203",
 		"fullCode":"130204203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庄坨乡",
 		"parentCode":"130204"
 	}

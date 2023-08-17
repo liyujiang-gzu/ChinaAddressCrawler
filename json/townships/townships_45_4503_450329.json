@@ -3,7 +3,7 @@
 		"code":"450329100",
 		"fullCode":"450329100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"资源镇",
 		"parentCode":"450329"
 	},
@@ -11,7 +11,7 @@
 		"code":"450329101",
 		"fullCode":"450329101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中峰镇",
 		"parentCode":"450329"
 	},
@@ -19,7 +19,7 @@
 		"code":"450329102",
 		"fullCode":"450329102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅溪镇",
 		"parentCode":"450329"
 	},
@@ -27,7 +27,7 @@
 		"code":"450329202",
 		"fullCode":"450329202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓜里乡",
 		"parentCode":"450329"
 	},
@@ -35,7 +35,7 @@
 		"code":"450329203",
 		"fullCode":"450329203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车田苗族乡",
 		"parentCode":"450329"
 	},
@@ -43,7 +43,7 @@
 		"code":"450329204",
 		"fullCode":"450329204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两水苗族乡",
 		"parentCode":"450329"
 	},
@@ -51,7 +51,7 @@
 		"code":"450329205",
 		"fullCode":"450329205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口瑶族乡",
 		"parentCode":"450329"
 	}

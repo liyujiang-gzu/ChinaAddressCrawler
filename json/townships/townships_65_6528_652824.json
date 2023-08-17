@@ -3,7 +3,7 @@
 		"code":"652824100",
 		"fullCode":"652824100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"若羌镇",
 		"parentCode":"652824"
 	},
@@ -11,7 +11,7 @@
 		"code":"652824101",
 		"fullCode":"652824101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依吞布拉克镇",
 		"parentCode":"652824"
 	},
@@ -19,7 +19,7 @@
 		"code":"652824102",
 		"fullCode":"652824102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗布泊镇",
 		"parentCode":"652824"
 	},
@@ -27,7 +27,7 @@
 		"code":"652824103",
 		"fullCode":"652824103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦石峡镇",
 		"parentCode":"652824"
 	},
@@ -35,7 +35,7 @@
 		"code":"652824104",
 		"fullCode":"652824104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁干里克镇",
 		"parentCode":"652824"
 	},
@@ -43,7 +43,7 @@
 		"code":"652824201",
 		"fullCode":"652824201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吾塔木乡",
 		"parentCode":"652824"
 	},
@@ -51,7 +51,7 @@
 		"code":"652824203",
 		"fullCode":"652824203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁木里克乡",
 		"parentCode":"652824"
 	},
@@ -59,7 +59,7 @@
 		"code":"652824204",
 		"fullCode":"652824204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祁曼塔格乡",
 		"parentCode":"652824"
 	}

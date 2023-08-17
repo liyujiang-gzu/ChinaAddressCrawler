@@ -3,7 +3,7 @@
 		"code":"653224001",
 		"fullCode":"653224001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城区街道",
 		"parentCode":"653224"
 	},
@@ -11,7 +11,7 @@
 		"code":"653224100",
 		"fullCode":"653224100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛浦镇",
 		"parentCode":"653224"
 	},
@@ -19,7 +19,7 @@
 		"code":"653224101",
 		"fullCode":"653224101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山普鲁镇",
 		"parentCode":"653224"
 	},
@@ -27,7 +27,7 @@
 		"code":"653224102",
 		"fullCode":"653224102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杭桂镇",
 		"parentCode":"653224"
 	},
@@ -35,7 +35,7 @@
 		"code":"653224103",
 		"fullCode":"653224103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恰尔巴格镇",
 		"parentCode":"653224"
 	},
@@ -43,7 +43,7 @@
 		"code":"653224201",
 		"fullCode":"653224201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布亚乡",
 		"parentCode":"653224"
 	},
@@ -51,7 +51,7 @@
 		"code":"653224205",
 		"fullCode":"653224205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多鲁乡",
 		"parentCode":"653224"
 	},
@@ -59,7 +59,7 @@
 		"code":"653224206",
 		"fullCode":"653224206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"纳瓦乡",
 		"parentCode":"653224"
 	},
@@ -67,7 +67,7 @@
 		"code":"653224207",
 		"fullCode":"653224207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拜什托格拉克乡",
 		"parentCode":"653224"
 	},
@@ -75,7 +75,7 @@
 		"code":"653224208",
 		"fullCode":"653224208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿其克乡",
 		"parentCode":"653224"
 	},
@@ -83,7 +83,7 @@
 		"code":"653224403",
 		"fullCode":"653224403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛浦县北京工业园区",
 		"parentCode":"653224"
 	}

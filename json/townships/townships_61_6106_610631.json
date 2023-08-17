@@ -3,7 +3,7 @@
 		"code":"610631100",
 		"fullCode":"610631100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石堡镇",
 		"parentCode":"610631"
 	},
@@ -11,7 +11,7 @@
 		"code":"610631101",
 		"fullCode":"610631101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白马滩镇",
 		"parentCode":"610631"
 	},
@@ -19,7 +19,7 @@
 		"code":"610631102",
 		"fullCode":"610631102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦子街镇",
 		"parentCode":"610631"
 	},
@@ -27,7 +27,7 @@
 		"code":"610631106",
 		"fullCode":"610631106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界头庙镇",
 		"parentCode":"610631"
 	},
@@ -35,7 +35,7 @@
 		"code":"610631107",
 		"fullCode":"610631107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三岔镇",
 		"parentCode":"610631"
 	},
@@ -43,7 +43,7 @@
 		"code":"610631205",
 		"fullCode":"610631205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圪台乡",
 		"parentCode":"610631"
 	},
@@ -51,7 +51,7 @@
 		"code":"610631206",
 		"fullCode":"610631206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崾崄乡",
 		"parentCode":"610631"
 	}

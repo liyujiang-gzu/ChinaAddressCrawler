@@ -3,7 +3,7 @@
 		"code":"530625001",
 		"fullCode":"530625001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溪洛渡街道",
 		"parentCode":"530625"
 	},
@@ -11,7 +11,7 @@
 		"code":"530625002",
 		"fullCode":"530625002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴街道",
 		"parentCode":"530625"
 	},
@@ -19,7 +19,7 @@
 		"code":"530625102",
 		"fullCode":"530625102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桧溪镇",
 		"parentCode":"530625"
 	},
@@ -27,7 +27,7 @@
 		"code":"530625103",
 		"fullCode":"530625103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄华镇",
 		"parentCode":"530625"
 	},
@@ -35,7 +35,7 @@
 		"code":"530625104",
 		"fullCode":"530625104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茂林镇",
 		"parentCode":"530625"
 	},
@@ -43,7 +43,7 @@
 		"code":"530625105",
 		"fullCode":"530625105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴镇",
 		"parentCode":"530625"
 	},
@@ -51,7 +51,7 @@
 		"code":"530625106",
 		"fullCode":"530625106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲峰镇",
 		"parentCode":"530625"
 	},
@@ -59,7 +59,7 @@
 		"code":"530625107",
 		"fullCode":"530625107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"务基镇",
 		"parentCode":"530625"
 	},
@@ -67,7 +67,7 @@
 		"code":"530625108",
 		"fullCode":"530625108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"码口镇",
 		"parentCode":"530625"
 	},
@@ -75,7 +75,7 @@
 		"code":"530625201",
 		"fullCode":"530625201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结乡",
 		"parentCode":"530625"
 	},
@@ -83,7 +83,7 @@
 		"code":"530625202",
 		"fullCode":"530625202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"细沙乡",
 		"parentCode":"530625"
 	},
@@ -91,7 +91,7 @@
 		"code":"530625203",
 		"fullCode":"530625203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青胜乡",
 		"parentCode":"530625"
 	},
@@ -99,7 +99,7 @@
 		"code":"530625205",
 		"fullCode":"530625205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马楠苗族彝族乡",
 		"parentCode":"530625"
 	},
@@ -107,7 +107,7 @@
 		"code":"530625206",
 		"fullCode":"530625206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水竹乡",
 		"parentCode":"530625"
 	},
@@ -115,7 +115,7 @@
 		"code":"530625207",
 		"fullCode":"530625207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"墨翰乡",
 		"parentCode":"530625"
 	},
@@ -123,7 +123,7 @@
 		"code":"530625208",
 		"fullCode":"530625208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"伍寨彝族苗族乡",
 		"parentCode":"530625"
 	}

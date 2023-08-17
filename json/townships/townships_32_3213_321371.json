@@ -3,7 +3,7 @@
 		"code":"321371050",
 		"fullCode":"321371050000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄河街道",
 		"parentCode":"321371"
 	},
@@ -11,7 +11,7 @@
 		"code":"321371052",
 		"fullCode":"321371052000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三棵树街道",
 		"parentCode":"321371"
 	},
@@ -19,7 +19,7 @@
 		"code":"321371351",
 		"fullCode":"321371351000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南蔡乡",
 		"parentCode":"321371"
 	},
@@ -27,7 +27,7 @@
 		"code":"321371400",
 		"fullCode":"321371400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古楚街道办",
 		"parentCode":"321371"
 	}

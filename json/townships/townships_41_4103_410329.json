@@ -3,7 +3,7 @@
 		"code":"410329001",
 		"fullCode":"410329001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"410329"
 	},
@@ -11,7 +11,7 @@
 		"code":"410329002",
 		"fullCode":"410329002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河滨街道",
 		"parentCode":"410329"
 	},
@@ -19,7 +19,7 @@
 		"code":"410329101",
 		"fullCode":"410329101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸣皋镇",
 		"parentCode":"410329"
 	},
@@ -27,7 +27,7 @@
 		"code":"410329102",
 		"fullCode":"410329102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水寨镇",
 		"parentCode":"410329"
 	},
@@ -35,7 +35,7 @@
 		"code":"410329103",
 		"fullCode":"410329103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彭婆镇",
 		"parentCode":"410329"
 	},
@@ -43,7 +43,7 @@
 		"code":"410329104",
 		"fullCode":"410329104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙镇",
 		"parentCode":"410329"
 	},
@@ -51,7 +51,7 @@
 		"code":"410329105",
 		"fullCode":"410329105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江左镇",
 		"parentCode":"410329"
 	},
@@ -59,7 +59,7 @@
 		"code":"410329106",
 		"fullCode":"410329106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高山镇",
 		"parentCode":"410329"
 	},
@@ -67,7 +67,7 @@
 		"code":"410329107",
 		"fullCode":"410329107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吕店镇",
 		"parentCode":"410329"
 	},
@@ -75,7 +75,7 @@
 		"code":"410329108",
 		"fullCode":"410329108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半坡镇",
 		"parentCode":"410329"
 	},
@@ -83,7 +83,7 @@
 		"code":"410329109",
 		"fullCode":"410329109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"酒后镇",
 		"parentCode":"410329"
 	},
@@ -91,7 +91,7 @@
 		"code":"410329110",
 		"fullCode":"410329110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白元镇",
 		"parentCode":"410329"
 	},
@@ -99,7 +99,7 @@
 		"code":"410329111",
 		"fullCode":"410329111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸦岭镇",
 		"parentCode":"410329"
 	},
@@ -107,7 +107,7 @@
 		"code":"410329112",
 		"fullCode":"410329112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛寨镇",
 		"parentCode":"410329"
 	},
@@ -115,7 +115,7 @@
 		"code":"410329203",
 		"fullCode":"410329203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平等乡",
 		"parentCode":"410329"
 	}

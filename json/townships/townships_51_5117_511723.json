@@ -3,7 +3,7 @@
 		"code":"511723001",
 		"fullCode":"511723001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淙城街道",
 		"parentCode":"511723"
 	},
@@ -11,7 +11,7 @@
 		"code":"511723100",
 		"fullCode":"511723100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新宁镇",
 		"parentCode":"511723"
 	},
@@ -19,7 +19,7 @@
 		"code":"511723101",
 		"fullCode":"511723101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普安镇",
 		"parentCode":"511723"
 	},
@@ -27,7 +27,7 @@
 		"code":"511723102",
 		"fullCode":"511723102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回龙镇",
 		"parentCode":"511723"
 	},
@@ -35,7 +35,7 @@
 		"code":"511723104",
 		"fullCode":"511723104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴镇",
 		"parentCode":"511723"
 	},
@@ -43,7 +43,7 @@
 		"code":"511723105",
 		"fullCode":"511723105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"讲治镇",
 		"parentCode":"511723"
 	},
@@ -51,7 +51,7 @@
 		"code":"511723106",
 		"fullCode":"511723106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘棠镇",
 		"parentCode":"511723"
 	},
@@ -59,7 +59,7 @@
 		"code":"511723107",
 		"fullCode":"511723107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"任市镇",
 		"parentCode":"511723"
 	},
@@ -67,7 +67,7 @@
 		"code":"511723108",
 		"fullCode":"511723108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广福镇",
 		"parentCode":"511723"
 	},
@@ -75,7 +75,7 @@
 		"code":"511723109",
 		"fullCode":"511723109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岭镇",
 		"parentCode":"511723"
 	},
@@ -83,7 +83,7 @@
 		"code":"511723110",
 		"fullCode":"511723110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八庙镇",
 		"parentCode":"511723"
 	},
@@ -91,7 +91,7 @@
 		"code":"511723111",
 		"fullCode":"511723111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵岩镇",
 		"parentCode":"511723"
 	},
@@ -99,7 +99,7 @@
 		"code":"511723205",
 		"fullCode":"511723205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅家乡",
 		"parentCode":"511723"
 	}

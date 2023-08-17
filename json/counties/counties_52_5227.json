@@ -3,7 +3,7 @@
 		"code":"522701",
 		"fullCode":"522701000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"都匀市",
 		"parentCode":"5227"
 	},
@@ -11,7 +11,7 @@
 		"code":"522702",
 		"fullCode":"522702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"福泉市",
 		"parentCode":"5227"
 	},
@@ -19,7 +19,7 @@
 		"code":"522722",
 		"fullCode":"522722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"荔波县",
 		"parentCode":"5227"
 	},
@@ -27,7 +27,7 @@
 		"code":"522723",
 		"fullCode":"522723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"贵定县",
 		"parentCode":"5227"
 	},
@@ -35,7 +35,7 @@
 		"code":"522725",
 		"fullCode":"522725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"瓮安县",
 		"parentCode":"5227"
 	},
@@ -43,7 +43,7 @@
 		"code":"522726",
 		"fullCode":"522726000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"独山县",
 		"parentCode":"5227"
 	},
@@ -51,7 +51,7 @@
 		"code":"522727",
 		"fullCode":"522727000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平塘县",
 		"parentCode":"5227"
 	},
@@ -59,7 +59,7 @@
 		"code":"522728",
 		"fullCode":"522728000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"罗甸县",
 		"parentCode":"5227"
 	},
@@ -67,7 +67,7 @@
 		"code":"522729",
 		"fullCode":"522729000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"长顺县",
 		"parentCode":"5227"
 	},
@@ -75,7 +75,7 @@
 		"code":"522730",
 		"fullCode":"522730000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙里县",
 		"parentCode":"5227"
 	},
@@ -83,7 +83,7 @@
 		"code":"522731",
 		"fullCode":"522731000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"惠水县",
 		"parentCode":"5227"
 	},
@@ -91,7 +91,7 @@
 		"code":"522732",
 		"fullCode":"522732000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"三都水族自治县",
 		"parentCode":"5227"
 	}

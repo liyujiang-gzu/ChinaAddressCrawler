@@ -3,7 +3,7 @@
 		"code":"513326100",
 		"fullCode":"513326100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲜水镇",
 		"parentCode":"513326"
 	},
@@ -11,7 +11,7 @@
 		"code":"513326101",
 		"fullCode":"513326101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八美镇",
 		"parentCode":"513326"
 	},
@@ -19,7 +19,7 @@
 		"code":"513326102",
 		"fullCode":"513326102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚卓镇",
 		"parentCode":"513326"
 	},
@@ -27,7 +27,7 @@
 		"code":"513326104",
 		"fullCode":"513326104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉科镇",
 		"parentCode":"513326"
 	},
@@ -35,7 +35,7 @@
 		"code":"513326105",
 		"fullCode":"513326105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仲尼镇",
 		"parentCode":"513326"
 	},
@@ -43,7 +43,7 @@
 		"code":"513326106",
 		"fullCode":"513326106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泰宁镇",
 		"parentCode":"513326"
 	},
@@ -51,7 +51,7 @@
 		"code":"513326107",
 		"fullCode":"513326107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦日镇",
 		"parentCode":"513326"
 	},
@@ -59,7 +59,7 @@
 		"code":"513326201",
 		"fullCode":"513326201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻孜乡",
 		"parentCode":"513326"
 	},
@@ -67,7 +67,7 @@
 		"code":"513326202",
 		"fullCode":"513326202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孔色乡",
 		"parentCode":"513326"
 	},
@@ -75,7 +75,7 @@
 		"code":"513326203",
 		"fullCode":"513326203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛卡乡",
 		"parentCode":"513326"
 	},
@@ -83,7 +83,7 @@
 		"code":"513326207",
 		"fullCode":"513326207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎拖乡",
 		"parentCode":"513326"
 	},
@@ -91,7 +91,7 @@
 		"code":"513326208",
 		"fullCode":"513326208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下拖乡",
 		"parentCode":"513326"
 	},
@@ -99,7 +99,7 @@
 		"code":"513326210",
 		"fullCode":"513326210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木茹乡",
 		"parentCode":"513326"
 	},
@@ -107,7 +107,7 @@
 		"code":"513326211",
 		"fullCode":"513326211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲斯孔乡",
 		"parentCode":"513326"
 	},
@@ -115,7 +115,7 @@
 		"code":"513326213",
 		"fullCode":"513326213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七美乡",
 		"parentCode":"513326"
 	},
@@ -123,7 +123,7 @@
 		"code":"513326214",
 		"fullCode":"513326214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银恩乡",
 		"parentCode":"513326"
 	},
@@ -131,7 +131,7 @@
 		"code":"513326216",
 		"fullCode":"513326216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙灯乡",
 		"parentCode":"513326"
 	},
@@ -139,7 +139,7 @@
 		"code":"513326218",
 		"fullCode":"513326218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"色卡乡",
 		"parentCode":"513326"
 	},
@@ -147,7 +147,7 @@
 		"code":"513326219",
 		"fullCode":"513326219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙冲乡",
 		"parentCode":"513326"
 	}

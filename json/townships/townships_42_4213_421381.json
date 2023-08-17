@@ -3,7 +3,7 @@
 		"code":"421381001",
 		"fullCode":"421381001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"应山街道",
 		"parentCode":"421381"
 	},
@@ -11,7 +11,7 @@
 		"code":"421381002",
 		"fullCode":"421381002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里街道",
 		"parentCode":"421381"
 	},
@@ -19,7 +19,7 @@
 		"code":"421381003",
 		"fullCode":"421381003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广水街道",
 		"parentCode":"421381"
 	},
@@ -27,7 +27,7 @@
 		"code":"421381004",
 		"fullCode":"421381004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊街道",
 		"parentCode":"421381"
 	},
@@ -35,7 +35,7 @@
 		"code":"421381100",
 		"fullCode":"421381100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武胜关镇",
 		"parentCode":"421381"
 	},
@@ -43,7 +43,7 @@
 		"code":"421381101",
 		"fullCode":"421381101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨寨镇",
 		"parentCode":"421381"
 	},
@@ -51,7 +51,7 @@
 		"code":"421381102",
 		"fullCode":"421381102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈巷镇",
 		"parentCode":"421381"
 	},
@@ -59,7 +59,7 @@
 		"code":"421381103",
 		"fullCode":"421381103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岭镇",
 		"parentCode":"421381"
 	},
@@ -67,7 +67,7 @@
 		"code":"421381104",
 		"fullCode":"421381104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坪镇",
 		"parentCode":"421381"
 	},
@@ -75,7 +75,7 @@
 		"code":"421381105",
 		"fullCode":"421381105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关庙镇",
 		"parentCode":"421381"
 	},
@@ -83,7 +83,7 @@
 		"code":"421381106",
 		"fullCode":"421381106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余店镇",
 		"parentCode":"421381"
 	},
@@ -91,7 +91,7 @@
 		"code":"421381107",
 		"fullCode":"421381107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴店镇",
 		"parentCode":"421381"
 	},
@@ -99,7 +99,7 @@
 		"code":"421381108",
 		"fullCode":"421381108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郝店镇",
 		"parentCode":"421381"
 	},
@@ -107,7 +107,7 @@
 		"code":"421381109",
 		"fullCode":"421381109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡河镇",
 		"parentCode":"421381"
 	},
@@ -115,7 +115,7 @@
 		"code":"421381110",
 		"fullCode":"421381110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李店镇",
 		"parentCode":"421381"
 	},
@@ -123,7 +123,7 @@
 		"code":"421381111",
 		"fullCode":"421381111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"421381"
 	},
@@ -131,7 +131,7 @@
 		"code":"421381112",
 		"fullCode":"421381112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骆店镇",
 		"parentCode":"421381"
 	},
@@ -139,7 +139,7 @@
 		"code":"421381400",
 		"fullCode":"421381400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华山林场",
 		"parentCode":"421381"
 	},
@@ -147,7 +147,7 @@
 		"code":"421381401",
 		"fullCode":"421381401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三潭风景区",
 		"parentCode":"421381"
 	},
@@ -155,7 +155,7 @@
 		"code":"421381402",
 		"fullCode":"421381402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"经济开发区",
 		"parentCode":"421381"
 	}

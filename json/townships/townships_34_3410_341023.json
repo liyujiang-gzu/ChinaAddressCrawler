@@ -3,7 +3,7 @@
 		"code":"341023100",
 		"fullCode":"341023100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"碧阳镇",
 		"parentCode":"341023"
 	},
@@ -11,7 +11,7 @@
 		"code":"341023101",
 		"fullCode":"341023101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏村镇",
 		"parentCode":"341023"
 	},
@@ -19,7 +19,7 @@
 		"code":"341023102",
 		"fullCode":"341023102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渔亭镇",
 		"parentCode":"341023"
 	},
@@ -27,7 +27,7 @@
 		"code":"341023103",
 		"fullCode":"341023103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西递镇",
 		"parentCode":"341023"
 	},
@@ -35,7 +35,7 @@
 		"code":"341023104",
 		"fullCode":"341023104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯村镇",
 		"parentCode":"341023"
 	},
@@ -43,7 +43,7 @@
 		"code":"341023201",
 		"fullCode":"341023201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美溪乡",
 		"parentCode":"341023"
 	},
@@ -51,7 +51,7 @@
 		"code":"341023202",
 		"fullCode":"341023202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宏潭乡",
 		"parentCode":"341023"
 	},
@@ -59,7 +59,7 @@
 		"code":"341023203",
 		"fullCode":"341023203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪星乡",
 		"parentCode":"341023"
 	}

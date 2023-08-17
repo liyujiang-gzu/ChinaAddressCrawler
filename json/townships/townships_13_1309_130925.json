@@ -3,7 +3,7 @@
 		"code":"130925100",
 		"fullCode":"130925100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐山镇",
 		"parentCode":"130925"
 	},
@@ -11,7 +11,7 @@
 		"code":"130925101",
 		"fullCode":"130925101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望树镇",
 		"parentCode":"130925"
 	},
@@ -19,7 +19,7 @@
 		"code":"130925102",
 		"fullCode":"130925102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆云镇",
 		"parentCode":"130925"
 	},
@@ -27,7 +27,7 @@
 		"code":"130925103",
 		"fullCode":"130925103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩集镇",
 		"parentCode":"130925"
 	},
@@ -35,7 +35,7 @@
 		"code":"130925104",
 		"fullCode":"130925104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"千童镇",
 		"parentCode":"130925"
 	},
@@ -43,7 +43,7 @@
 		"code":"130925105",
 		"fullCode":"130925105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"圣佛镇",
 		"parentCode":"130925"
 	},
@@ -51,7 +51,7 @@
 		"code":"130925106",
 		"fullCode":"130925106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"边务镇",
 		"parentCode":"130925"
 	},
@@ -59,7 +59,7 @@
 		"code":"130925107",
 		"fullCode":"130925107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小庄镇",
 		"parentCode":"130925"
 	},
@@ -67,7 +67,7 @@
 		"code":"130925108",
 		"fullCode":"130925108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨集镇",
 		"parentCode":"130925"
 	},
@@ -75,7 +75,7 @@
 		"code":"130925201",
 		"fullCode":"130925201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小营乡",
 		"parentCode":"130925"
 	},
@@ -83,7 +83,7 @@
 		"code":"130925203",
 		"fullCode":"130925203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟店乡",
 		"parentCode":"130925"
 	},
@@ -91,7 +91,7 @@
 		"code":"130925204",
 		"fullCode":"130925204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常庄乡",
 		"parentCode":"130925"
 	}

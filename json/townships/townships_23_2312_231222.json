@@ -3,7 +3,7 @@
 		"code":"231222001",
 		"fullCode":"231222001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"颜河街道",
 		"parentCode":"231222"
 	},
@@ -11,7 +11,7 @@
 		"code":"231222002",
 		"fullCode":"231222002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"顺达街道",
 		"parentCode":"231222"
 	},
@@ -19,7 +19,7 @@
 		"code":"231222003",
 		"fullCode":"231222003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰亚街道",
 		"parentCode":"231222"
 	},
@@ -27,7 +27,7 @@
 		"code":"231222004",
 		"fullCode":"231222004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳街道",
 		"parentCode":"231222"
 	},
@@ -35,7 +35,7 @@
 		"code":"231222101",
 		"fullCode":"231222101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰西镇",
 		"parentCode":"231222"
 	},
@@ -43,7 +43,7 @@
 		"code":"231222102",
 		"fullCode":"231222102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"榆林镇",
 		"parentCode":"231222"
 	},
@@ -51,7 +51,7 @@
 		"code":"231222103",
 		"fullCode":"231222103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临江镇",
 		"parentCode":"231222"
 	},
@@ -59,7 +59,7 @@
 		"code":"231222104",
 		"fullCode":"231222104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平山镇",
 		"parentCode":"231222"
 	},
@@ -67,7 +67,7 @@
 		"code":"231222105",
 		"fullCode":"231222105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红光镇",
 		"parentCode":"231222"
 	},
@@ -75,7 +75,7 @@
 		"code":"231222106",
 		"fullCode":"231222106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"远大镇",
 		"parentCode":"231222"
 	},
@@ -83,7 +83,7 @@
 		"code":"231222107",
 		"fullCode":"231222107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康荣镇",
 		"parentCode":"231222"
 	},
@@ -91,7 +91,7 @@
 		"code":"231222108",
 		"fullCode":"231222108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燎原镇",
 		"parentCode":"231222"
 	},
@@ -99,7 +99,7 @@
 		"code":"231222109",
 		"fullCode":"231222109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奋斗镇",
 		"parentCode":"231222"
 	},
@@ -107,7 +107,7 @@
 		"code":"231222202",
 		"fullCode":"231222202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北安乡",
 		"parentCode":"231222"
 	},
@@ -115,7 +115,7 @@
 		"code":"231222203",
 		"fullCode":"231222203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长江乡",
 		"parentCode":"231222"
 	},
@@ -123,7 +123,7 @@
 		"code":"231222204",
 		"fullCode":"231222204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰河乡",
 		"parentCode":"231222"
 	},
@@ -131,7 +131,7 @@
 		"code":"231222205",
 		"fullCode":"231222205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星乡",
 		"parentCode":"231222"
 	},
@@ -139,7 +139,7 @@
 		"code":"231222207",
 		"fullCode":"231222207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岗乡",
 		"parentCode":"231222"
 	},
@@ -147,7 +147,7 @@
 		"code":"231222210",
 		"fullCode":"231222210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"星火乡",
 		"parentCode":"231222"
 	},
@@ -155,7 +155,7 @@
 		"code":"231222580",
 		"fullCode":"231222580000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第一原种场",
 		"parentCode":"231222"
 	},
@@ -163,7 +163,7 @@
 		"code":"231222581",
 		"fullCode":"231222581000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"第二原种场",
 		"parentCode":"231222"
 	},
@@ -171,7 +171,7 @@
 		"code":"231222582",
 		"fullCode":"231222582000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰西县畜牧技术推广服务中心",
 		"parentCode":"231222"
 	}

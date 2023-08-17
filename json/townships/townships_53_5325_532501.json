@@ -3,7 +3,7 @@
 		"code":"532501001",
 		"fullCode":"532501001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝华街道",
 		"parentCode":"532501"
 	},
@@ -11,7 +11,7 @@
 		"code":"532501002",
 		"fullCode":"532501002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙甸街道",
 		"parentCode":"532501"
 	},
@@ -19,7 +19,7 @@
 		"code":"532501003",
 		"fullCode":"532501003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大屯街道",
 		"parentCode":"532501"
 	},
@@ -27,7 +27,7 @@
 		"code":"532501004",
 		"fullCode":"532501004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锡城街道",
 		"parentCode":"532501"
 	},
@@ -35,7 +35,7 @@
 		"code":"532501005",
 		"fullCode":"532501005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金湖街道",
 		"parentCode":"532501"
 	},
@@ -43,7 +43,7 @@
 		"code":"532501103",
 		"fullCode":"532501103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸡街镇",
 		"parentCode":"532501"
 	},
@@ -51,7 +51,7 @@
 		"code":"532501106",
 		"fullCode":"532501106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老厂镇",
 		"parentCode":"532501"
 	},
@@ -59,7 +59,7 @@
 		"code":"532501107",
 		"fullCode":"532501107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卡房镇",
 		"parentCode":"532501"
 	},
@@ -67,7 +67,7 @@
 		"code":"532501108",
 		"fullCode":"532501108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔓耗镇",
 		"parentCode":"532501"
 	},
@@ -75,7 +75,7 @@
 		"code":"532501202",
 		"fullCode":"532501202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾沙乡",
 		"parentCode":"532501"
 	},
@@ -83,7 +83,7 @@
 		"code":"532501203",
 		"fullCode":"532501203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"保和乡",
 		"parentCode":"532501"
 	}

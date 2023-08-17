@@ -3,7 +3,7 @@
 		"code":"210502",
 		"fullCode":"210502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平山区",
 		"parentCode":"2105"
 	},
@@ -11,7 +11,7 @@
 		"code":"210503",
 		"fullCode":"210503000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"溪湖区",
 		"parentCode":"2105"
 	},
@@ -19,7 +19,7 @@
 		"code":"210504",
 		"fullCode":"210504000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"明山区",
 		"parentCode":"2105"
 	},
@@ -27,7 +27,7 @@
 		"code":"210505",
 		"fullCode":"210505000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南芬区",
 		"parentCode":"2105"
 	},
@@ -35,7 +35,7 @@
 		"code":"210521",
 		"fullCode":"210521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"本溪满族自治县",
 		"parentCode":"2105"
 	},
@@ -43,7 +43,7 @@
 		"code":"210522",
 		"fullCode":"210522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桓仁满族自治县",
 		"parentCode":"2105"
 	}

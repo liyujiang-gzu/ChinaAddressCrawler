@@ -3,7 +3,7 @@
 		"code":"520203001",
 		"fullCode":"520203001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙街道",
 		"parentCode":"520203"
 	},
@@ -11,7 +11,7 @@
 		"code":"520203002",
 		"fullCode":"520203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银壶街道",
 		"parentCode":"520203"
 	},
@@ -19,7 +19,7 @@
 		"code":"520203003",
 		"fullCode":"520203003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔山街道",
 		"parentCode":"520203"
 	},
@@ -27,7 +27,7 @@
 		"code":"520203102",
 		"fullCode":"520203102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩脚镇",
 		"parentCode":"520203"
 	},
@@ -35,7 +35,7 @@
 		"code":"520203103",
 		"fullCode":"520203103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木岗镇",
 		"parentCode":"520203"
 	},
@@ -43,7 +43,7 @@
 		"code":"520203104",
 		"fullCode":"520203104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大用镇",
 		"parentCode":"520203"
 	},
@@ -51,7 +51,7 @@
 		"code":"520203105",
 		"fullCode":"520203105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关寨镇",
 		"parentCode":"520203"
 	},
@@ -59,7 +59,7 @@
 		"code":"520203106",
 		"fullCode":"520203106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牂牁镇",
 		"parentCode":"520203"
 	},
@@ -67,7 +67,7 @@
 		"code":"520203107",
 		"fullCode":"520203107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华镇",
 		"parentCode":"520203"
 	},
@@ -75,7 +75,7 @@
 		"code":"520203108",
 		"fullCode":"520203108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙河镇",
 		"parentCode":"520203"
 	},
@@ -83,7 +83,7 @@
 		"code":"520203109",
 		"fullCode":"520203109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新窑镇",
 		"parentCode":"520203"
 	},
@@ -91,7 +91,7 @@
 		"code":"520203110",
 		"fullCode":"520203110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郎岱镇",
 		"parentCode":"520203"
 	},
@@ -99,7 +99,7 @@
 		"code":"520203203",
 		"fullCode":"520203203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梭戛苗族彝族回族乡",
 		"parentCode":"520203"
 	},
@@ -107,7 +107,7 @@
 		"code":"520203204",
 		"fullCode":"520203204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛场苗族彝族乡",
 		"parentCode":"520203"
 	},
@@ -115,7 +115,7 @@
 		"code":"520203205",
 		"fullCode":"520203205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新场乡",
 		"parentCode":"520203"
 	},
@@ -123,7 +123,7 @@
 		"code":"520203208",
 		"fullCode":"520203208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中寨苗族彝族布依族乡",
 		"parentCode":"520203"
 	},
@@ -131,7 +131,7 @@
 		"code":"520203213",
 		"fullCode":"520203213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"落别布依族彝族乡",
 		"parentCode":"520203"
 	},
@@ -139,7 +139,7 @@
 		"code":"520203214",
 		"fullCode":"520203214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月亮河彝族布依族苗族乡",
 		"parentCode":"520203"
 	}

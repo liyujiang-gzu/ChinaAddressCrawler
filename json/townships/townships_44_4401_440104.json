@@ -3,7 +3,7 @@
 		"code":"440104001",
 		"fullCode":"440104001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪桥街道",
 		"parentCode":"440104"
 	},
@@ -11,7 +11,7 @@
 		"code":"440104003",
 		"fullCode":"440104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北京街道",
 		"parentCode":"440104"
 	},
@@ -19,7 +19,7 @@
 		"code":"440104004",
 		"fullCode":"440104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六榕街道",
 		"parentCode":"440104"
 	},
@@ -27,7 +27,7 @@
 		"code":"440104005",
 		"fullCode":"440104005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"流花街道",
 		"parentCode":"440104"
 	},
@@ -35,7 +35,7 @@
 		"code":"440104007",
 		"fullCode":"440104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光塔街道",
 		"parentCode":"440104"
 	},
@@ -43,7 +43,7 @@
 		"code":"440104010",
 		"fullCode":"440104010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人民街道",
 		"parentCode":"440104"
 	},
@@ -51,7 +51,7 @@
 		"code":"440104011",
 		"fullCode":"440104011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山街道",
 		"parentCode":"440104"
 	},
@@ -59,7 +59,7 @@
 		"code":"440104012",
 		"fullCode":"440104012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"农林街道",
 		"parentCode":"440104"
 	},
@@ -67,7 +67,7 @@
 		"code":"440104013",
 		"fullCode":"440104013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梅花村街道",
 		"parentCode":"440104"
 	},
@@ -75,7 +75,7 @@
 		"code":"440104014",
 		"fullCode":"440104014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄花岗街道",
 		"parentCode":"440104"
 	},
@@ -83,7 +83,7 @@
 		"code":"440104015",
 		"fullCode":"440104015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华乐街道",
 		"parentCode":"440104"
 	},
@@ -91,7 +91,7 @@
 		"code":"440104016",
 		"fullCode":"440104016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设街道",
 		"parentCode":"440104"
 	},
@@ -99,7 +99,7 @@
 		"code":"440104017",
 		"fullCode":"440104017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大塘街道",
 		"parentCode":"440104"
 	},
@@ -107,7 +107,7 @@
 		"code":"440104018",
 		"fullCode":"440104018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠光街道",
 		"parentCode":"440104"
 	},
@@ -115,7 +115,7 @@
 		"code":"440104019",
 		"fullCode":"440104019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大东街道",
 		"parentCode":"440104"
 	},
@@ -123,7 +123,7 @@
 		"code":"440104020",
 		"fullCode":"440104020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白云街道",
 		"parentCode":"440104"
 	},
@@ -131,7 +131,7 @@
 		"code":"440104021",
 		"fullCode":"440104021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"登峰街道",
 		"parentCode":"440104"
 	},
@@ -139,7 +139,7 @@
 		"code":"440104022",
 		"fullCode":"440104022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿泉街道",
 		"parentCode":"440104"
 	}

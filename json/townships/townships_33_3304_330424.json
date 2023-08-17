@@ -3,7 +3,7 @@
 		"code":"330424001",
 		"fullCode":"330424001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武原街道",
 		"parentCode":"330424"
 	},
@@ -11,7 +11,7 @@
 		"code":"330424002",
 		"fullCode":"330424002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西塘桥街道",
 		"parentCode":"330424"
 	},
@@ -19,7 +19,7 @@
 		"code":"330424004",
 		"fullCode":"330424004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"秦山街道",
 		"parentCode":"330424"
 	},
@@ -27,7 +27,7 @@
 		"code":"330424005",
 		"fullCode":"330424005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望海街道",
 		"parentCode":"330424"
 	},
@@ -35,7 +35,7 @@
 		"code":"330424101",
 		"fullCode":"330424101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈荡镇",
 		"parentCode":"330424"
 	},
@@ -43,7 +43,7 @@
 		"code":"330424102",
 		"fullCode":"330424102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百步镇",
 		"parentCode":"330424"
 	},
@@ -51,7 +51,7 @@
 		"code":"330424103",
 		"fullCode":"330424103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"于城镇",
 		"parentCode":"330424"
 	},
@@ -59,7 +59,7 @@
 		"code":"330424105",
 		"fullCode":"330424105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澉浦镇",
 		"parentCode":"330424"
 	},
@@ -67,7 +67,7 @@
 		"code":"330424106",
 		"fullCode":"330424106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通元镇",
 		"parentCode":"330424"
 	}

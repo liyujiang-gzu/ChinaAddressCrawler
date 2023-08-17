@@ -3,7 +3,7 @@
 		"code":"520325001",
 		"fullCode":"520325001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尹珍街道",
 		"parentCode":"520325"
 	},
@@ -11,7 +11,7 @@
 		"code":"520325100",
 		"fullCode":"520325100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉溪镇",
 		"parentCode":"520325"
 	},
@@ -19,7 +19,7 @@
 		"code":"520325101",
 		"fullCode":"520325101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三江镇",
 		"parentCode":"520325"
 	},
@@ -27,7 +27,7 @@
 		"code":"520325102",
 		"fullCode":"520325102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"隆兴镇",
 		"parentCode":"520325"
 	},
@@ -35,7 +35,7 @@
 		"code":"520325103",
 		"fullCode":"520325103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旧城镇",
 		"parentCode":"520325"
 	},
@@ -43,7 +43,7 @@
 		"code":"520325104",
 		"fullCode":"520325104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忠信镇",
 		"parentCode":"520325"
 	},
@@ -51,7 +51,7 @@
 		"code":"520325105",
 		"fullCode":"520325105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛龙镇",
 		"parentCode":"520325"
 	},
@@ -59,7 +59,7 @@
 		"code":"520325106",
 		"fullCode":"520325106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳溪镇",
 		"parentCode":"520325"
 	},
@@ -67,7 +67,7 @@
 		"code":"520325107",
 		"fullCode":"520325107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三桥镇",
 		"parentCode":"520325"
 	},
@@ -75,7 +75,7 @@
 		"code":"520325108",
 		"fullCode":"520325108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大磏镇",
 		"parentCode":"520325"
 	},
@@ -83,7 +83,7 @@
 		"code":"520325109",
 		"fullCode":"520325109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平模镇",
 		"parentCode":"520325"
 	},
@@ -91,7 +91,7 @@
 		"code":"520325110",
 		"fullCode":"520325110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口镇",
 		"parentCode":"520325"
 	},
@@ -99,7 +99,7 @@
 		"code":"520325200",
 		"fullCode":"520325200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上坝土家族乡",
 		"parentCode":"520325"
 	},
@@ -107,7 +107,7 @@
 		"code":"520325201",
 		"fullCode":"520325201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"棕坪乡",
 		"parentCode":"520325"
 	},
@@ -115,7 +115,7 @@
 		"code":"520325202",
 		"fullCode":"520325202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃源乡",
 		"parentCode":"520325"
 	}

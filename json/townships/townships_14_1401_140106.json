@@ -3,7 +3,7 @@
 		"code":"140106001",
 		"fullCode":"140106001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳巷街道",
 		"parentCode":"140106"
 	},
@@ -11,7 +11,7 @@
 		"code":"140106002",
 		"fullCode":"140106002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文庙街道",
 		"parentCode":"140106"
 	},
@@ -19,7 +19,7 @@
 		"code":"140106003",
 		"fullCode":"140106003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙前街道",
 		"parentCode":"140106"
 	},
@@ -27,7 +27,7 @@
 		"code":"140106004",
 		"fullCode":"140106004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迎泽街道",
 		"parentCode":"140106"
 	},
@@ -35,7 +35,7 @@
 		"code":"140106005",
 		"fullCode":"140106005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥东街道",
 		"parentCode":"140106"
 	},
@@ -43,7 +43,7 @@
 		"code":"140106006",
 		"fullCode":"140106006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老军营街道",
 		"parentCode":"140106"
 	},
@@ -51,7 +51,7 @@
 		"code":"140106100",
 		"fullCode":"140106100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郝庄镇",
 		"parentCode":"140106"
 	}

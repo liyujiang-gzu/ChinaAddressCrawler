@@ -3,7 +3,7 @@
 		"code":"450102001",
 		"fullCode":"450102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"民生街道",
 		"parentCode":"450102"
 	},
@@ -11,7 +11,7 @@
 		"code":"450102002",
 		"fullCode":"450102002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳街道",
 		"parentCode":"450102"
 	},
@@ -19,7 +19,7 @@
 		"code":"450102003",
 		"fullCode":"450102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴东街道",
 		"parentCode":"450102"
 	},
@@ -27,7 +27,7 @@
 		"code":"450102101",
 		"fullCode":"450102101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三塘镇",
 		"parentCode":"450102"
 	},
@@ -35,7 +35,7 @@
 		"code":"450102102",
 		"fullCode":"450102102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五塘镇",
 		"parentCode":"450102"
 	},
@@ -43,7 +43,7 @@
 		"code":"450102104",
 		"fullCode":"450102104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昆仑镇",
 		"parentCode":"450102"
 	}

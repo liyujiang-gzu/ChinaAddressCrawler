@@ -3,7 +3,7 @@
 		"code":"361023100",
 		"fullCode":"361023100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琴城镇",
 		"parentCode":"361023"
 	},
@@ -11,7 +11,7 @@
 		"code":"361023101",
 		"fullCode":"361023101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和镇",
 		"parentCode":"361023"
 	},
@@ -19,7 +19,7 @@
 		"code":"361023102",
 		"fullCode":"361023102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白舍镇",
 		"parentCode":"361023"
 	},
@@ -27,7 +27,7 @@
 		"code":"361023103",
 		"fullCode":"361023103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"市山镇",
 		"parentCode":"361023"
 	},
@@ -35,7 +35,7 @@
 		"code":"361023104",
 		"fullCode":"361023104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洽湾镇",
 		"parentCode":"361023"
 	},
@@ -43,7 +43,7 @@
 		"code":"361023105",
 		"fullCode":"361023105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑田镇",
 		"parentCode":"361023"
 	},
@@ -51,7 +51,7 @@
 		"code":"361023106",
 		"fullCode":"361023106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫霄镇",
 		"parentCode":"361023"
 	},
@@ -59,7 +59,7 @@
 		"code":"361023200",
 		"fullCode":"361023200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三溪乡",
 		"parentCode":"361023"
 	},
@@ -67,7 +67,7 @@
 		"code":"361023201",
 		"fullCode":"361023201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东坪乡",
 		"parentCode":"361023"
 	},
@@ -75,7 +75,7 @@
 		"code":"361023202",
 		"fullCode":"361023202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莱溪乡",
 		"parentCode":"361023"
 	},
@@ -83,7 +83,7 @@
 		"code":"361023203",
 		"fullCode":"361023203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太源乡",
 		"parentCode":"361023"
 	},
@@ -91,7 +91,7 @@
 		"code":"361023204",
 		"fullCode":"361023204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"傅坊乡",
 		"parentCode":"361023"
 	},
@@ -99,7 +99,7 @@
 		"code":"361023400",
 		"fullCode":"361023400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南丰县长红垦殖场",
 		"parentCode":"361023"
 	},
@@ -107,7 +107,7 @@
 		"code":"361023500",
 		"fullCode":"361023500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南丰工业园区",
 		"parentCode":"361023"
 	}

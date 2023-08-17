@@ -3,7 +3,7 @@
 		"code":"451226001",
 		"fullCode":"451226001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城西街道",
 		"parentCode":"451226"
 	},
@@ -11,7 +11,7 @@
 		"code":"451226100",
 		"fullCode":"451226100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"思恩镇",
 		"parentCode":"451226"
 	},
@@ -19,7 +19,7 @@
 		"code":"451226101",
 		"fullCode":"451226101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水源镇",
 		"parentCode":"451226"
 	},
@@ -27,7 +27,7 @@
 		"code":"451226102",
 		"fullCode":"451226102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛阳镇",
 		"parentCode":"451226"
 	},
@@ -35,7 +35,7 @@
 		"code":"451226103",
 		"fullCode":"451226103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川山镇",
 		"parentCode":"451226"
 	},
@@ -43,7 +43,7 @@
 		"code":"451226104",
 		"fullCode":"451226104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明伦镇",
 		"parentCode":"451226"
 	},
@@ -51,7 +51,7 @@
 		"code":"451226105",
 		"fullCode":"451226105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴镇",
 		"parentCode":"451226"
 	},
@@ -59,7 +59,7 @@
 		"code":"451226200",
 		"fullCode":"451226200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大才乡",
 		"parentCode":"451226"
 	},
@@ -67,7 +67,7 @@
 		"code":"451226202",
 		"fullCode":"451226202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下南乡",
 		"parentCode":"451226"
 	},
@@ -75,7 +75,7 @@
 		"code":"451226204",
 		"fullCode":"451226204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大安乡",
 		"parentCode":"451226"
 	},
@@ -83,7 +83,7 @@
 		"code":"451226205",
 		"fullCode":"451226205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长美乡",
 		"parentCode":"451226"
 	},
@@ -91,7 +91,7 @@
 		"code":"451226206",
 		"fullCode":"451226206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙岩乡",
 		"parentCode":"451226"
 	},
@@ -99,7 +99,7 @@
 		"code":"451226207",
 		"fullCode":"451226207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驯乐苗族乡",
 		"parentCode":"451226"
 	}

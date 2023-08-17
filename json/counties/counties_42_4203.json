@@ -3,7 +3,7 @@
 		"code":"420302",
 		"fullCode":"420302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"茅箭区",
 		"parentCode":"4203"
 	},
@@ -11,7 +11,7 @@
 		"code":"420303",
 		"fullCode":"420303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"张湾区",
 		"parentCode":"4203"
 	},
@@ -19,7 +19,7 @@
 		"code":"420304",
 		"fullCode":"420304000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郧阳区",
 		"parentCode":"4203"
 	},
@@ -27,7 +27,7 @@
 		"code":"420322",
 		"fullCode":"420322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郧西县",
 		"parentCode":"4203"
 	},
@@ -35,7 +35,7 @@
 		"code":"420323",
 		"fullCode":"420323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"竹山县",
 		"parentCode":"4203"
 	},
@@ -43,7 +43,7 @@
 		"code":"420324",
 		"fullCode":"420324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"竹溪县",
 		"parentCode":"4203"
 	},
@@ -51,7 +51,7 @@
 		"code":"420325",
 		"fullCode":"420325000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"房县",
 		"parentCode":"4203"
 	},
@@ -59,7 +59,7 @@
 		"code":"420381",
 		"fullCode":"420381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丹江口市",
 		"parentCode":"4203"
 	}

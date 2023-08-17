@@ -3,7 +3,7 @@
 		"code":"230403001",
 		"fullCode":"230403001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"育才街道",
 		"parentCode":"230403"
 	},
@@ -11,7 +11,7 @@
 		"code":"230403002",
 		"fullCode":"230403002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街道",
 		"parentCode":"230403"
 	},
@@ -19,7 +19,7 @@
 		"code":"230403003",
 		"fullCode":"230403003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新南街道",
 		"parentCode":"230403"
 	},
@@ -27,7 +27,7 @@
 		"code":"230403006",
 		"fullCode":"230403006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结街道",
 		"parentCode":"230403"
 	}

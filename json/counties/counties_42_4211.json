@@ -3,7 +3,7 @@
 		"code":"421102",
 		"fullCode":"421102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黄州区",
 		"parentCode":"4211"
 	},
@@ -11,7 +11,7 @@
 		"code":"421121",
 		"fullCode":"421121000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"团风县",
 		"parentCode":"4211"
 	},
@@ -19,7 +19,7 @@
 		"code":"421122",
 		"fullCode":"421122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"红安县",
 		"parentCode":"4211"
 	},
@@ -27,7 +27,7 @@
 		"code":"421123",
 		"fullCode":"421123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"罗田县",
 		"parentCode":"4211"
 	},
@@ -35,7 +35,7 @@
 		"code":"421124",
 		"fullCode":"421124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"英山县",
 		"parentCode":"4211"
 	},
@@ -43,7 +43,7 @@
 		"code":"421125",
 		"fullCode":"421125000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浠水县",
 		"parentCode":"4211"
 	},
@@ -51,7 +51,7 @@
 		"code":"421126",
 		"fullCode":"421126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蕲春县",
 		"parentCode":"4211"
 	},
@@ -59,7 +59,7 @@
 		"code":"421127",
 		"fullCode":"421127000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黄梅县",
 		"parentCode":"4211"
 	},
@@ -67,7 +67,7 @@
 		"code":"421171",
 		"fullCode":"421171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙感湖管理区",
 		"parentCode":"4211"
 	},
@@ -75,7 +75,7 @@
 		"code":"421181",
 		"fullCode":"421181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"麻城市",
 		"parentCode":"4211"
 	},
@@ -83,7 +83,7 @@
 		"code":"421182",
 		"fullCode":"421182000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武穴市",
 		"parentCode":"4211"
 	}

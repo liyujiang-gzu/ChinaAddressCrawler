@@ -3,7 +3,7 @@
 		"code":"422826100",
 		"fullCode":"422826100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高乐山镇",
 		"parentCode":"422826"
 	},
@@ -11,7 +11,7 @@
 		"code":"422826101",
 		"fullCode":"422826101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忠堡镇",
 		"parentCode":"422826"
 	},
@@ -19,7 +19,7 @@
 		"code":"422826102",
 		"fullCode":"422826102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"坪坝营镇",
 		"parentCode":"422826"
 	},
@@ -27,7 +27,7 @@
 		"code":"422826103",
 		"fullCode":"422826103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳寺镇",
 		"parentCode":"422826"
 	},
@@ -35,7 +35,7 @@
 		"code":"422826104",
 		"fullCode":"422826104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清坪镇",
 		"parentCode":"422826"
 	},
@@ -43,7 +43,7 @@
 		"code":"422826105",
 		"fullCode":"422826105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐崖镇",
 		"parentCode":"422826"
 	},
@@ -51,7 +51,7 @@
 		"code":"422826106",
 		"fullCode":"422826106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲江镇",
 		"parentCode":"422826"
 	},
@@ -59,7 +59,7 @@
 		"code":"422826202",
 		"fullCode":"422826202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"活龙坪乡",
 		"parentCode":"422826"
 	},
@@ -67,7 +67,7 @@
 		"code":"422826203",
 		"fullCode":"422826203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小村乡",
 		"parentCode":"422826"
 	},
@@ -75,7 +75,7 @@
 		"code":"422826204",
 		"fullCode":"422826204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄金洞乡",
 		"parentCode":"422826"
 	},
@@ -83,7 +83,7 @@
 		"code":"422826400",
 		"fullCode":"422826400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大路坝区",
 		"parentCode":"422826"
 	}

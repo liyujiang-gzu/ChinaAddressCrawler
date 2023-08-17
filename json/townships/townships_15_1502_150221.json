@@ -3,7 +3,7 @@
 		"code":"150221104",
 		"fullCode":"150221104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萨拉齐镇",
 		"parentCode":"150221"
 	},
@@ -11,7 +11,7 @@
 		"code":"150221105",
 		"fullCode":"150221105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙镇",
 		"parentCode":"150221"
 	},
@@ -19,7 +19,7 @@
 		"code":"150221106",
 		"fullCode":"150221106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"美岱召镇",
 		"parentCode":"150221"
 	},
@@ -27,7 +27,7 @@
 		"code":"150221107",
 		"fullCode":"150221107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沟门镇",
 		"parentCode":"150221"
 	},
@@ -35,7 +35,7 @@
 		"code":"150221108",
 		"fullCode":"150221108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"将军尧镇",
 		"parentCode":"150221"
 	},
@@ -43,7 +43,7 @@
 		"code":"150221213",
 		"fullCode":"150221213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海子乡",
 		"parentCode":"150221"
 	},
@@ -51,7 +51,7 @@
 		"code":"150221214",
 		"fullCode":"150221214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明沙淖乡",
 		"parentCode":"150221"
 	},
@@ -59,7 +59,7 @@
 		"code":"150221215",
 		"fullCode":"150221215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏波盖乡",
 		"parentCode":"150221"
 	},
@@ -67,7 +67,7 @@
 		"code":"150221500",
 		"fullCode":"150221500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九峰山生态管理委员会",
 		"parentCode":"150221"
 	}

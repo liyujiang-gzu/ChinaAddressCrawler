@@ -3,7 +3,7 @@
 		"code":"513427101",
 		"fullCode":"513427101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松新镇",
 		"parentCode":"513427"
 	},
@@ -11,7 +11,7 @@
 		"code":"513427102",
 		"fullCode":"513427102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹寿镇",
 		"parentCode":"513427"
 	},
@@ -19,7 +19,7 @@
 		"code":"513427103",
 		"fullCode":"513427103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华弹镇",
 		"parentCode":"513427"
 	},
@@ -27,7 +27,7 @@
 		"code":"513427104",
 		"fullCode":"513427104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白鹤滩镇",
 		"parentCode":"513427"
 	},
@@ -35,7 +35,7 @@
 		"code":"513427106",
 		"fullCode":"513427106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西瑶镇",
 		"parentCode":"513427"
 	},
@@ -43,7 +43,7 @@
 		"code":"513427108",
 		"fullCode":"513427108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大同镇",
 		"parentCode":"513427"
 	},
@@ -51,7 +51,7 @@
 		"code":"513427109",
 		"fullCode":"513427109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"骑骡沟镇",
 		"parentCode":"513427"
 	},
@@ -59,7 +59,7 @@
 		"code":"513427110",
 		"fullCode":"513427110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"跑马镇",
 		"parentCode":"513427"
 	},
@@ -67,7 +67,7 @@
 		"code":"513427111",
 		"fullCode":"513427111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福镇",
 		"parentCode":"513427"
 	},
@@ -75,7 +75,7 @@
 		"code":"513427112",
 		"fullCode":"513427112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石梨镇",
 		"parentCode":"513427"
 	},
@@ -83,7 +83,7 @@
 		"code":"513427113",
 		"fullCode":"513427113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六铁镇",
 		"parentCode":"513427"
 	},
@@ -91,7 +91,7 @@
 		"code":"513427116",
 		"fullCode":"513427116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁远镇",
 		"parentCode":"513427"
 	},
@@ -99,7 +99,7 @@
 		"code":"513427117",
 		"fullCode":"513427117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"俱乐镇",
 		"parentCode":"513427"
 	}

@@ -3,7 +3,7 @@
 		"code":"510302001",
 		"fullCode":"510302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五星街街道",
 		"parentCode":"510302"
 	},
@@ -11,7 +11,7 @@
 		"code":"510302002",
 		"fullCode":"510302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东兴寺街道",
 		"parentCode":"510302"
 	},
@@ -19,7 +19,7 @@
 		"code":"510302003",
 		"fullCode":"510302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街街道",
 		"parentCode":"510302"
 	},
@@ -27,7 +27,7 @@
 		"code":"510302004",
 		"fullCode":"510302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郭家坳街街道",
 		"parentCode":"510302"
 	},
@@ -35,7 +35,7 @@
 		"code":"510302005",
 		"fullCode":"510302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丹桂街道",
 		"parentCode":"510302"
 	},
@@ -43,7 +43,7 @@
 		"code":"510302006",
 		"fullCode":"510302006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学苑街道",
 		"parentCode":"510302"
 	},
@@ -51,7 +51,7 @@
 		"code":"510302007",
 		"fullCode":"510302007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舒坪街道",
 		"parentCode":"510302"
 	},
@@ -59,7 +59,7 @@
 		"code":"510302008",
 		"fullCode":"510302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红旗街道",
 		"parentCode":"510302"
 	},
@@ -67,7 +67,7 @@
 		"code":"510302009",
 		"fullCode":"510302009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高峰街道",
 		"parentCode":"510302"
 	},
@@ -75,7 +75,7 @@
 		"code":"510302101",
 		"fullCode":"510302101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仲权镇",
 		"parentCode":"510302"
 	},
@@ -83,7 +83,7 @@
 		"code":"510302103",
 		"fullCode":"510302103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣边镇",
 		"parentCode":"510302"
 	},
@@ -91,7 +91,7 @@
 		"code":"510302104",
 		"fullCode":"510302104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"飞龙峡镇",
 		"parentCode":"510302"
 	}

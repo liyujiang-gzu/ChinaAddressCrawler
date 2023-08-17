@@ -3,7 +3,7 @@
 		"code":"360502001",
 		"fullCode":"360502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南街道",
 		"parentCode":"360502"
 	},
@@ -11,7 +11,7 @@
 		"code":"360502002",
 		"fullCode":"360502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北街道",
 		"parentCode":"360502"
 	},
@@ -19,7 +19,7 @@
 		"code":"360502003",
 		"fullCode":"360502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"袁河街道",
 		"parentCode":"360502"
 	},
@@ -27,7 +27,7 @@
 		"code":"360502004",
 		"fullCode":"360502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新钢街道",
 		"parentCode":"360502"
 	},
@@ -35,7 +35,7 @@
 		"code":"360502100",
 		"fullCode":"360502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水北镇",
 		"parentCode":"360502"
 	},
@@ -43,7 +43,7 @@
 		"code":"360502101",
 		"fullCode":"360502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下村镇",
 		"parentCode":"360502"
 	},
@@ -51,7 +51,7 @@
 		"code":"360502102",
 		"fullCode":"360502102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"良山镇",
 		"parentCode":"360502"
 	},
@@ -59,7 +59,7 @@
 		"code":"360502103",
 		"fullCode":"360502103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗坊镇",
 		"parentCode":"360502"
 	},
@@ -67,7 +67,7 @@
 		"code":"360502104",
 		"fullCode":"360502104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚圩镇",
 		"parentCode":"360502"
 	},
@@ -75,7 +75,7 @@
 		"code":"360502105",
 		"fullCode":"360502105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠珊镇",
 		"parentCode":"360502"
 	},
@@ -83,7 +83,7 @@
 		"code":"360502108",
 		"fullCode":"360502108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹄山镇",
 		"parentCode":"360502"
 	},
@@ -91,7 +91,7 @@
 		"code":"360502170",
 		"fullCode":"360502170000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河下镇",
 		"parentCode":"360502"
 	},
@@ -99,7 +99,7 @@
 		"code":"360502180",
 		"fullCode":"360502180000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观巢镇",
 		"parentCode":"360502"
 	},
@@ -107,7 +107,7 @@
 		"code":"360502181",
 		"fullCode":"360502181000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欧里镇",
 		"parentCode":"360502"
 	},
@@ -115,7 +115,7 @@
 		"code":"360502190",
 		"fullCode":"360502190000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水西镇",
 		"parentCode":"360502"
 	},
@@ -123,7 +123,7 @@
 		"code":"360502201",
 		"fullCode":"360502201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人和乡",
 		"parentCode":"360502"
 	},
@@ -131,7 +131,7 @@
 		"code":"360502202",
 		"fullCode":"360502202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界水乡",
 		"parentCode":"360502"
 	},
@@ -139,7 +139,7 @@
 		"code":"360502203",
 		"fullCode":"360502203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南安乡",
 		"parentCode":"360502"
 	},
@@ -147,7 +147,7 @@
 		"code":"360502204",
 		"fullCode":"360502204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新溪乡",
 		"parentCode":"360502"
 	},
@@ -155,7 +155,7 @@
 		"code":"360502271",
 		"fullCode":"360502271000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九龙山乡",
 		"parentCode":"360502"
 	}

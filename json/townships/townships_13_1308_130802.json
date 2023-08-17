@@ -3,7 +3,7 @@
 		"code":"130802001",
 		"fullCode":"130802001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西大街街道",
 		"parentCode":"130802"
 	},
@@ -11,7 +11,7 @@
 		"code":"130802002",
 		"fullCode":"130802002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头道牌楼街道",
 		"parentCode":"130802"
 	},
@@ -19,7 +19,7 @@
 		"code":"130802003",
 		"fullCode":"130802003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潘家沟街道",
 		"parentCode":"130802"
 	},
@@ -27,7 +27,7 @@
 		"code":"130802004",
 		"fullCode":"130802004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华路街道",
 		"parentCode":"130802"
 	},
@@ -35,7 +35,7 @@
 		"code":"130802005",
 		"fullCode":"130802005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华路街道",
 		"parentCode":"130802"
 	},
@@ -43,7 +43,7 @@
 		"code":"130802006",
 		"fullCode":"130802006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石洞子沟街道",
 		"parentCode":"130802"
 	},
@@ -51,7 +51,7 @@
 		"code":"130802007",
 		"fullCode":"130802007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桥东街道",
 		"parentCode":"130802"
 	},
@@ -59,7 +59,7 @@
 		"code":"130802100",
 		"fullCode":"130802100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水泉沟镇",
 		"parentCode":"130802"
 	},
@@ -67,7 +67,7 @@
 		"code":"130802101",
 		"fullCode":"130802101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮子沟镇",
 		"parentCode":"130802"
 	},
@@ -75,7 +75,7 @@
 		"code":"130802102",
 		"fullCode":"130802102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛圈子沟镇",
 		"parentCode":"130802"
 	},
@@ -83,7 +83,7 @@
 		"code":"130802103",
 		"fullCode":"130802103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大石庙镇",
 		"parentCode":"130802"
 	},
@@ -91,7 +91,7 @@
 		"code":"130802105",
 		"fullCode":"130802105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双峰寺镇",
 		"parentCode":"130802"
 	}

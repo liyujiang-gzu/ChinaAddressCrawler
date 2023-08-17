@@ -3,7 +3,7 @@
 		"code":"513334100",
 		"fullCode":"513334100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高城镇",
 		"parentCode":"513334"
 	},
@@ -11,7 +11,7 @@
 		"code":"513334101",
 		"fullCode":"513334101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甲洼镇",
 		"parentCode":"513334"
 	},
@@ -19,7 +19,7 @@
 		"code":"513334102",
 		"fullCode":"513334102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"格聂镇",
 		"parentCode":"513334"
 	},
@@ -27,7 +27,7 @@
 		"code":"513334103",
 		"fullCode":"513334103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木拉镇",
 		"parentCode":"513334"
 	},
@@ -35,7 +35,7 @@
 		"code":"513334104",
 		"fullCode":"513334104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"君坝镇",
 		"parentCode":"513334"
 	},
@@ -43,7 +43,7 @@
 		"code":"513334105",
 		"fullCode":"513334105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉波镇",
 		"parentCode":"513334"
 	},
@@ -51,7 +51,7 @@
 		"code":"513334106",
 		"fullCode":"513334106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"觉吾镇",
 		"parentCode":"513334"
 	},
@@ -59,7 +59,7 @@
 		"code":"513334201",
 		"fullCode":"513334201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈依乡",
 		"parentCode":"513334"
 	},
@@ -67,7 +67,7 @@
 		"code":"513334203",
 		"fullCode":"513334203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫坝乡",
 		"parentCode":"513334"
 	},
@@ -75,7 +75,7 @@
 		"code":"513334204",
 		"fullCode":"513334204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"亚火乡",
 		"parentCode":"513334"
 	},
@@ -83,7 +83,7 @@
 		"code":"513334205",
 		"fullCode":"513334205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绒坝乡",
 		"parentCode":"513334"
 	},
@@ -91,7 +91,7 @@
 		"code":"513334206",
 		"fullCode":"513334206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"呷洼乡",
 		"parentCode":"513334"
 	},
@@ -99,7 +99,7 @@
 		"code":"513334207",
 		"fullCode":"513334207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奔戈乡",
 		"parentCode":"513334"
 	},
@@ -107,7 +107,7 @@
 		"code":"513334208",
 		"fullCode":"513334208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"村戈乡",
 		"parentCode":"513334"
 	},
@@ -115,7 +115,7 @@
 		"code":"513334209",
 		"fullCode":"513334209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾尼乡",
 		"parentCode":"513334"
 	},
@@ -123,7 +123,7 @@
 		"code":"513334210",
 		"fullCode":"513334210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲登乡",
 		"parentCode":"513334"
 	},
@@ -131,7 +131,7 @@
 		"code":"513334213",
 		"fullCode":"513334213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上木拉乡",
 		"parentCode":"513334"
 	},
@@ -139,7 +139,7 @@
 		"code":"513334216",
 		"fullCode":"513334216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"濯桑乡",
 		"parentCode":"513334"
 	},
@@ -147,7 +147,7 @@
 		"code":"513334218",
 		"fullCode":"513334218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"藏坝乡",
 		"parentCode":"513334"
 	},
@@ -155,7 +155,7 @@
 		"code":"513334219",
 		"fullCode":"513334219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"格木乡",
 		"parentCode":"513334"
 	},
@@ -163,7 +163,7 @@
 		"code":"513334221",
 		"fullCode":"513334221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦洼乡",
 		"parentCode":"513334"
 	},
@@ -171,7 +171,7 @@
 		"code":"513334222",
 		"fullCode":"513334222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德巫乡",
 		"parentCode":"513334"
 	}

@@ -3,7 +3,7 @@
 		"code":"220174001",
 		"fullCode":"220174001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦程街道",
 		"parentCode":"220174"
 	},
@@ -11,7 +11,7 @@
 		"code":"220174002",
 		"fullCode":"220174002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风街道",
 		"parentCode":"220174"
 	},
@@ -19,7 +19,7 @@
 		"code":"220174003",
 		"fullCode":"220174003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富民街道",
 		"parentCode":"220174"
 	},
@@ -27,7 +27,7 @@
 		"code":"220174004",
 		"fullCode":"220174004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前程街道",
 		"parentCode":"220174"
 	}

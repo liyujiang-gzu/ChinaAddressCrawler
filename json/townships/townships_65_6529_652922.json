@@ -3,7 +3,7 @@
 		"code":"652922100",
 		"fullCode":"652922100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温宿镇",
 		"parentCode":"652922"
 	},
@@ -11,7 +11,7 @@
 		"code":"652922101",
 		"fullCode":"652922101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吐木秀克镇",
 		"parentCode":"652922"
 	},
@@ -19,7 +19,7 @@
 		"code":"652922102",
 		"fullCode":"652922102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克孜勒镇",
 		"parentCode":"652922"
 	},
@@ -27,7 +27,7 @@
 		"code":"652922103",
 		"fullCode":"652922103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿热勒镇",
 		"parentCode":"652922"
 	},
@@ -35,7 +35,7 @@
 		"code":"652922104",
 		"fullCode":"652922104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佳木镇",
 		"parentCode":"652922"
 	},
@@ -43,7 +43,7 @@
 		"code":"652922105",
 		"fullCode":"652922105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托甫汗镇",
 		"parentCode":"652922"
 	},
@@ -51,7 +51,7 @@
 		"code":"652922106",
 		"fullCode":"652922106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"共青团镇",
 		"parentCode":"652922"
 	},
@@ -59,7 +59,7 @@
 		"code":"652922107",
 		"fullCode":"652922107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柯柯牙镇",
 		"parentCode":"652922"
 	},
@@ -67,7 +67,7 @@
 		"code":"652922200",
 		"fullCode":"652922200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"托乎拉乡",
 		"parentCode":"652922"
 	},
@@ -75,7 +75,7 @@
 		"code":"652922202",
 		"fullCode":"652922202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"恰格拉克乡",
 		"parentCode":"652922"
 	},
@@ -83,7 +83,7 @@
 		"code":"652922204",
 		"fullCode":"652922204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依希来木其乡",
 		"parentCode":"652922"
 	},
@@ -91,7 +91,7 @@
 		"code":"652922206",
 		"fullCode":"652922206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古勒阿瓦提乡",
 		"parentCode":"652922"
 	},
@@ -99,7 +99,7 @@
 		"code":"652922207",
 		"fullCode":"652922207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博孜墩柯尔克孜族乡",
 		"parentCode":"652922"
 	}

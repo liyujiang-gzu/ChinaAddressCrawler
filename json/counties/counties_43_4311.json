@@ -3,7 +3,7 @@
 		"code":"431102",
 		"fullCode":"431102000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"零陵区",
 		"parentCode":"4311"
 	},
@@ -11,7 +11,7 @@
 		"code":"431103",
 		"fullCode":"431103000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"冷水滩区",
 		"parentCode":"4311"
 	},
@@ -19,7 +19,7 @@
 		"code":"431122",
 		"fullCode":"431122000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东安县",
 		"parentCode":"4311"
 	},
@@ -27,7 +27,7 @@
 		"code":"431123",
 		"fullCode":"431123000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"双牌县",
 		"parentCode":"4311"
 	},
@@ -35,7 +35,7 @@
 		"code":"431124",
 		"fullCode":"431124000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"道县",
 		"parentCode":"4311"
 	},
@@ -43,7 +43,7 @@
 		"code":"431125",
 		"fullCode":"431125000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江永县",
 		"parentCode":"4311"
 	},
@@ -51,7 +51,7 @@
 		"code":"431126",
 		"fullCode":"431126000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁远县",
 		"parentCode":"4311"
 	},
@@ -59,7 +59,7 @@
 		"code":"431127",
 		"fullCode":"431127000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"蓝山县",
 		"parentCode":"4311"
 	},
@@ -67,7 +67,7 @@
 		"code":"431128",
 		"fullCode":"431128000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新田县",
 		"parentCode":"4311"
 	},
@@ -75,7 +75,7 @@
 		"code":"431129",
 		"fullCode":"431129000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"江华瑶族自治县",
 		"parentCode":"4311"
 	},
@@ -83,7 +83,7 @@
 		"code":"431171",
 		"fullCode":"431171000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永州经济技术开发区",
 		"parentCode":"4311"
 	},
@@ -91,7 +91,7 @@
 		"code":"431173",
 		"fullCode":"431173000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永州市回龙圩管理区",
 		"parentCode":"4311"
 	},
@@ -99,7 +99,7 @@
 		"code":"431181",
 		"fullCode":"431181000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"祁阳市",
 		"parentCode":"4311"
 	}

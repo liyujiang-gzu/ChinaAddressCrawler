@@ -3,7 +3,7 @@
 		"code":"440823001",
 		"fullCode":"440823001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"遂城街道",
 		"parentCode":"440823"
 	},
@@ -11,7 +11,7 @@
 		"code":"440823101",
 		"fullCode":"440823101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄略镇",
 		"parentCode":"440823"
 	},
@@ -19,7 +19,7 @@
 		"code":"440823102",
 		"fullCode":"440823102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋青镇",
 		"parentCode":"440823"
 	},
@@ -27,7 +27,7 @@
 		"code":"440823103",
 		"fullCode":"440823103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"界炮镇",
 		"parentCode":"440823"
 	},
@@ -35,7 +35,7 @@
 		"code":"440823104",
 		"fullCode":"440823104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐民镇",
 		"parentCode":"440823"
 	},
@@ -43,7 +43,7 @@
 		"code":"440823105",
 		"fullCode":"440823105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江洪镇",
 		"parentCode":"440823"
 	},
@@ -51,7 +51,7 @@
 		"code":"440823106",
 		"fullCode":"440823106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨柑镇",
 		"parentCode":"440823"
 	},
@@ -59,7 +59,7 @@
 		"code":"440823107",
 		"fullCode":"440823107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城月镇",
 		"parentCode":"440823"
 	},
@@ -67,7 +67,7 @@
 		"code":"440823108",
 		"fullCode":"440823108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌塘镇",
 		"parentCode":"440823"
 	},
@@ -75,7 +75,7 @@
 		"code":"440823109",
 		"fullCode":"440823109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建新镇",
 		"parentCode":"440823"
 	},
@@ -83,7 +83,7 @@
 		"code":"440823110",
 		"fullCode":"440823110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭北镇",
 		"parentCode":"440823"
 	},
@@ -91,7 +91,7 @@
 		"code":"440823111",
 		"fullCode":"440823111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北坡镇",
 		"parentCode":"440823"
 	},
@@ -99,7 +99,7 @@
 		"code":"440823112",
 		"fullCode":"440823112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"港门镇",
 		"parentCode":"440823"
 	},
@@ -107,7 +107,7 @@
 		"code":"440823113",
 		"fullCode":"440823113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草潭镇",
 		"parentCode":"440823"
 	},
@@ -115,7 +115,7 @@
 		"code":"440823114",
 		"fullCode":"440823114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河头镇",
 		"parentCode":"440823"
 	},
@@ -123,7 +123,7 @@
 		"code":"440823115",
 		"fullCode":"440823115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"附城镇",
 		"parentCode":"440823"
 	}

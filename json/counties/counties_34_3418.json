@@ -3,7 +3,7 @@
 		"code":"341802",
 		"fullCode":"341802000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宣州区",
 		"parentCode":"3418"
 	},
@@ -11,7 +11,7 @@
 		"code":"341821",
 		"fullCode":"341821000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"郎溪县",
 		"parentCode":"3418"
 	},
@@ -19,7 +19,7 @@
 		"code":"341823",
 		"fullCode":"341823000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泾县",
 		"parentCode":"3418"
 	},
@@ -27,7 +27,7 @@
 		"code":"341824",
 		"fullCode":"341824000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"绩溪县",
 		"parentCode":"3418"
 	},
@@ -35,7 +35,7 @@
 		"code":"341825",
 		"fullCode":"341825000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"旌德县",
 		"parentCode":"3418"
 	},
@@ -43,7 +43,7 @@
 		"code":"341871",
 		"fullCode":"341871000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宣城市经济开发区",
 		"parentCode":"3418"
 	},
@@ -51,7 +51,7 @@
 		"code":"341881",
 		"fullCode":"341881000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁国市",
 		"parentCode":"3418"
 	},
@@ -59,7 +59,7 @@
 		"code":"341882",
 		"fullCode":"341882000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"广德市",
 		"parentCode":"3418"
 	}

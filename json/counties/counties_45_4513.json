@@ -3,7 +3,7 @@
 		"code":"451302",
 		"fullCode":"451302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴宾区",
 		"parentCode":"4513"
 	},
@@ -11,7 +11,7 @@
 		"code":"451321",
 		"fullCode":"451321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"忻城县",
 		"parentCode":"4513"
 	},
@@ -19,7 +19,7 @@
 		"code":"451322",
 		"fullCode":"451322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"象州县",
 		"parentCode":"4513"
 	},
@@ -27,7 +27,7 @@
 		"code":"451323",
 		"fullCode":"451323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武宣县",
 		"parentCode":"4513"
 	},
@@ -35,7 +35,7 @@
 		"code":"451324",
 		"fullCode":"451324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金秀瑶族自治县",
 		"parentCode":"4513"
 	},
@@ -43,7 +43,7 @@
 		"code":"451381",
 		"fullCode":"451381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"合山市",
 		"parentCode":"4513"
 	}

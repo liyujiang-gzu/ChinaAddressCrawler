@@ -3,7 +3,7 @@
 		"code":"440204001",
 		"fullCode":"440204001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东河街道",
 		"parentCode":"440204"
 	},
@@ -11,7 +11,7 @@
 		"code":"440204002",
 		"fullCode":"440204002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车站街道",
 		"parentCode":"440204"
 	},
@@ -19,7 +19,7 @@
 		"code":"440204008",
 		"fullCode":"440204008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"风采街道",
 		"parentCode":"440204"
 	},
@@ -27,7 +27,7 @@
 		"code":"440204100",
 		"fullCode":"440204100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新韶镇",
 		"parentCode":"440204"
 	},
@@ -35,7 +35,7 @@
 		"code":"440204101",
 		"fullCode":"440204101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐园镇",
 		"parentCode":"440204"
 	},
@@ -43,7 +43,7 @@
 		"code":"440204102",
 		"fullCode":"440204102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里亭镇",
 		"parentCode":"440204"
 	},
@@ -51,7 +51,7 @@
 		"code":"440204103",
 		"fullCode":"440204103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"犁市镇",
 		"parentCode":"440204"
 	},
@@ -59,7 +59,7 @@
 		"code":"440204104",
 		"fullCode":"440204104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花坪镇",
 		"parentCode":"440204"
 	},
@@ -67,7 +67,7 @@
 		"code":"440204401",
 		"fullCode":"440204401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲仁矿务局田螺冲办事处",
 		"parentCode":"440204"
 	},
@@ -75,7 +75,7 @@
 		"code":"440204402",
 		"fullCode":"440204402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲仁矿务局曲仁办事处",
 		"parentCode":"440204"
 	}

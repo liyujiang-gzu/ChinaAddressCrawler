@@ -3,7 +3,7 @@
 		"code":"140932100",
 		"fullCode":"140932100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新关镇",
 		"parentCode":"140932"
 	},
@@ -11,7 +11,7 @@
 		"code":"140932102",
 		"fullCode":"140932102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老营镇",
 		"parentCode":"140932"
 	},
@@ -19,7 +19,7 @@
 		"code":"140932103",
 		"fullCode":"140932103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万家寨镇",
 		"parentCode":"140932"
 	},
@@ -27,7 +27,7 @@
 		"code":"140932104",
 		"fullCode":"140932104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水泉镇",
 		"parentCode":"140932"
 	},
@@ -35,7 +35,7 @@
 		"code":"140932105",
 		"fullCode":"140932105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老牛湾镇",
 		"parentCode":"140932"
 	},
@@ -43,7 +43,7 @@
 		"code":"140932106",
 		"fullCode":"140932106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚峪镇",
 		"parentCode":"140932"
 	},
@@ -51,7 +51,7 @@
 		"code":"140932200",
 		"fullCode":"140932200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窑头乡",
 		"parentCode":"140932"
 	},
@@ -59,7 +59,7 @@
 		"code":"140932201",
 		"fullCode":"140932201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楼沟乡",
 		"parentCode":"140932"
 	}

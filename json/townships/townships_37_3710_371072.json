@@ -3,7 +3,7 @@
 		"code":"371072008",
 		"fullCode":"371072008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇冠街道",
 		"parentCode":"371072"
 	},
@@ -11,7 +11,7 @@
 		"code":"371072009",
 		"fullCode":"371072009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤林街道",
 		"parentCode":"371072"
 	},
@@ -19,7 +19,7 @@
 		"code":"371072010",
 		"fullCode":"371072010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西苑街道",
 		"parentCode":"371072"
 	},
@@ -27,7 +27,7 @@
 		"code":"371072103",
 		"fullCode":"371072103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崮山镇",
 		"parentCode":"371072"
 	},
@@ -35,7 +35,7 @@
 		"code":"371072105",
 		"fullCode":"371072105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泊于镇",
 		"parentCode":"371072"
 	}

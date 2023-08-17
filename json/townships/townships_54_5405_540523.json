@@ -3,7 +3,7 @@
 		"code":"540523100",
 		"fullCode":"540523100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑日镇",
 		"parentCode":"540523"
 	},
@@ -11,7 +11,7 @@
 		"code":"540523200",
 		"fullCode":"540523200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"增期乡",
 		"parentCode":"540523"
 	},
@@ -19,7 +19,7 @@
 		"code":"540523201",
 		"fullCode":"540523201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白堆乡",
 		"parentCode":"540523"
 	},
@@ -27,7 +27,7 @@
 		"code":"540523202",
 		"fullCode":"540523202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绒乡",
 		"parentCode":"540523"
 	}

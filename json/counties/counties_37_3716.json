@@ -3,7 +3,7 @@
 		"code":"371602",
 		"fullCode":"371602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"滨城区",
 		"parentCode":"3716"
 	},
@@ -11,7 +11,7 @@
 		"code":"371603",
 		"fullCode":"371603000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沾化区",
 		"parentCode":"3716"
 	},
@@ -19,7 +19,7 @@
 		"code":"371621",
 		"fullCode":"371621000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"惠民县",
 		"parentCode":"3716"
 	},
@@ -27,7 +27,7 @@
 		"code":"371622",
 		"fullCode":"371622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阳信县",
 		"parentCode":"3716"
 	},
@@ -35,7 +35,7 @@
 		"code":"371623",
 		"fullCode":"371623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"无棣县",
 		"parentCode":"3716"
 	},
@@ -43,7 +43,7 @@
 		"code":"371625",
 		"fullCode":"371625000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"博兴县",
 		"parentCode":"3716"
 	},
@@ -51,7 +51,7 @@
 		"code":"371681",
 		"fullCode":"371681000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"邹平市",
 		"parentCode":"3716"
 	}

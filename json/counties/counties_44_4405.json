@@ -3,7 +3,7 @@
 		"code":"440507",
 		"fullCode":"440507000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"龙湖区",
 		"parentCode":"4405"
 	},
@@ -11,7 +11,7 @@
 		"code":"440511",
 		"fullCode":"440511000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"金平区",
 		"parentCode":"4405"
 	},
@@ -19,7 +19,7 @@
 		"code":"440512",
 		"fullCode":"440512000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"濠江区",
 		"parentCode":"4405"
 	},
@@ -27,7 +27,7 @@
 		"code":"440513",
 		"fullCode":"440513000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"潮阳区",
 		"parentCode":"4405"
 	},
@@ -35,7 +35,7 @@
 		"code":"440514",
 		"fullCode":"440514000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"潮南区",
 		"parentCode":"4405"
 	},
@@ -43,7 +43,7 @@
 		"code":"440515",
 		"fullCode":"440515000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"澄海区",
 		"parentCode":"4405"
 	},
@@ -51,7 +51,7 @@
 		"code":"440523",
 		"fullCode":"440523000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南澳县",
 		"parentCode":"4405"
 	}

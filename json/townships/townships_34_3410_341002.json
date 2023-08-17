@@ -3,7 +3,7 @@
 		"code":"341002001",
 		"fullCode":"341002001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昱东街道",
 		"parentCode":"341002"
 	},
@@ -11,7 +11,7 @@
 		"code":"341002002",
 		"fullCode":"341002002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昱中街道",
 		"parentCode":"341002"
 	},
@@ -19,7 +19,7 @@
 		"code":"341002003",
 		"fullCode":"341002003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昱西街道",
 		"parentCode":"341002"
 	},
@@ -27,7 +27,7 @@
 		"code":"341002004",
 		"fullCode":"341002004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老街街道",
 		"parentCode":"341002"
 	},
@@ -35,7 +35,7 @@
 		"code":"341002100",
 		"fullCode":"341002100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"屯光镇",
 		"parentCode":"341002"
 	},
@@ -43,7 +43,7 @@
 		"code":"341002101",
 		"fullCode":"341002101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳湖镇",
 		"parentCode":"341002"
 	},
@@ -51,7 +51,7 @@
 		"code":"341002102",
 		"fullCode":"341002102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎阳镇",
 		"parentCode":"341002"
 	},
@@ -59,7 +59,7 @@
 		"code":"341002103",
 		"fullCode":"341002103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新潭镇",
 		"parentCode":"341002"
 	},
@@ -67,7 +67,7 @@
 		"code":"341002104",
 		"fullCode":"341002104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奕棋镇",
 		"parentCode":"341002"
 	}

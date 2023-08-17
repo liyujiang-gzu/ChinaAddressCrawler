@@ -3,7 +3,7 @@
 		"code":"440112001",
 		"fullCode":"440112001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄埔街道",
 		"parentCode":"440112"
 	},
@@ -11,7 +11,7 @@
 		"code":"440112002",
 		"fullCode":"440112002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红山街道",
 		"parentCode":"440112"
 	},
@@ -19,7 +19,7 @@
 		"code":"440112003",
 		"fullCode":"440112003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼珠街道",
 		"parentCode":"440112"
 	},
@@ -27,7 +27,7 @@
 		"code":"440112005",
 		"fullCode":"440112005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大沙街道",
 		"parentCode":"440112"
 	},
@@ -35,7 +35,7 @@
 		"code":"440112006",
 		"fullCode":"440112006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文冲街道",
 		"parentCode":"440112"
 	},
@@ -43,7 +43,7 @@
 		"code":"440112007",
 		"fullCode":"440112007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"穗东街道",
 		"parentCode":"440112"
 	},
@@ -51,7 +51,7 @@
 		"code":"440112008",
 		"fullCode":"440112008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岗街道",
 		"parentCode":"440112"
 	},
@@ -59,7 +59,7 @@
 		"code":"440112010",
 		"fullCode":"440112010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长洲街道",
 		"parentCode":"440112"
 	},
@@ -67,7 +67,7 @@
 		"code":"440112011",
 		"fullCode":"440112011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏港街道",
 		"parentCode":"440112"
 	},
@@ -75,7 +75,7 @@
 		"code":"440112012",
 		"fullCode":"440112012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"萝岗街道",
 		"parentCode":"440112"
 	},
@@ -83,7 +83,7 @@
 		"code":"440112013",
 		"fullCode":"440112013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云埔街道",
 		"parentCode":"440112"
 	},
@@ -91,7 +91,7 @@
 		"code":"440112014",
 		"fullCode":"440112014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联和街道",
 		"parentCode":"440112"
 	},
@@ -99,7 +99,7 @@
 		"code":"440112015",
 		"fullCode":"440112015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永和街道",
 		"parentCode":"440112"
 	},
@@ -107,7 +107,7 @@
 		"code":"440112016",
 		"fullCode":"440112016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长岭街道",
 		"parentCode":"440112"
 	},
@@ -115,7 +115,7 @@
 		"code":"440112017",
 		"fullCode":"440112017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九佛街道",
 		"parentCode":"440112"
 	},
@@ -123,7 +123,7 @@
 		"code":"440112018",
 		"fullCode":"440112018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙湖街道",
 		"parentCode":"440112"
 	},
@@ -131,7 +131,7 @@
 		"code":"440112101",
 		"fullCode":"440112101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新龙镇",
 		"parentCode":"440112"
 	}

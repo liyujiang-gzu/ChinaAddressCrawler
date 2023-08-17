@@ -3,7 +3,7 @@
 		"code":"130506100",
 		"fullCode":"130506100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和阳镇",
 		"parentCode":"130506"
 	},
@@ -11,7 +11,7 @@
 		"code":"130506101",
 		"fullCode":"130506101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贾宋镇",
 		"parentCode":"130506"
 	},
@@ -19,7 +19,7 @@
 		"code":"130506102",
 		"fullCode":"130506102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郝桥镇",
 		"parentCode":"130506"
 	},
@@ -27,7 +27,7 @@
 		"code":"130506103",
 		"fullCode":"130506103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三思镇",
 		"parentCode":"130506"
 	},
@@ -35,7 +35,7 @@
 		"code":"130506104",
 		"fullCode":"130506104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河郭镇",
 		"parentCode":"130506"
 	},
@@ -43,7 +43,7 @@
 		"code":"130506200",
 		"fullCode":"130506200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东三召乡",
 		"parentCode":"130506"
 	},
@@ -51,7 +51,7 @@
 		"code":"130506201",
 		"fullCode":"130506201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阎里乡",
 		"parentCode":"130506"
 	},
@@ -59,7 +59,7 @@
 		"code":"130506203",
 		"fullCode":"130506203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"史召乡",
 		"parentCode":"130506"
 	}

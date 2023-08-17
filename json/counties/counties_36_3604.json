@@ -3,7 +3,7 @@
 		"code":"360402",
 		"fullCode":"360402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"濂溪区",
 		"parentCode":"3604"
 	},
@@ -11,7 +11,7 @@
 		"code":"360403",
 		"fullCode":"360403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浔阳区",
 		"parentCode":"3604"
 	},
@@ -19,7 +19,7 @@
 		"code":"360404",
 		"fullCode":"360404000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"柴桑区",
 		"parentCode":"3604"
 	},
@@ -27,7 +27,7 @@
 		"code":"360423",
 		"fullCode":"360423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武宁县",
 		"parentCode":"3604"
 	},
@@ -35,7 +35,7 @@
 		"code":"360424",
 		"fullCode":"360424000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"修水县",
 		"parentCode":"3604"
 	},
@@ -43,7 +43,7 @@
 		"code":"360425",
 		"fullCode":"360425000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永修县",
 		"parentCode":"3604"
 	},
@@ -51,7 +51,7 @@
 		"code":"360426",
 		"fullCode":"360426000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"德安县",
 		"parentCode":"3604"
 	},
@@ -59,7 +59,7 @@
 		"code":"360428",
 		"fullCode":"360428000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"都昌县",
 		"parentCode":"3604"
 	},
@@ -67,7 +67,7 @@
 		"code":"360429",
 		"fullCode":"360429000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"湖口县",
 		"parentCode":"3604"
 	},
@@ -75,7 +75,7 @@
 		"code":"360430",
 		"fullCode":"360430000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"彭泽县",
 		"parentCode":"3604"
 	},
@@ -83,7 +83,7 @@
 		"code":"360481",
 		"fullCode":"360481000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"瑞昌市",
 		"parentCode":"3604"
 	},
@@ -91,7 +91,7 @@
 		"code":"360482",
 		"fullCode":"360482000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"共青城市",
 		"parentCode":"3604"
 	},
@@ -99,7 +99,7 @@
 		"code":"360483",
 		"fullCode":"360483000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"庐山市",
 		"parentCode":"3604"
 	}

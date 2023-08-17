@@ -3,7 +3,7 @@
 		"code":"330604001",
 		"fullCode":"330604001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百官街道",
 		"parentCode":"330604"
 	},
@@ -11,7 +11,7 @@
 		"code":"330604002",
 		"fullCode":"330604002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹娥街道",
 		"parentCode":"330604"
 	},
@@ -19,7 +19,7 @@
 		"code":"330604003",
 		"fullCode":"330604003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关街道",
 		"parentCode":"330604"
 	},
@@ -27,7 +27,7 @@
 		"code":"330604004",
 		"fullCode":"330604004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"道墟街道",
 		"parentCode":"330604"
 	},
@@ -35,7 +35,7 @@
 		"code":"330604005",
 		"fullCode":"330604005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁湖街道",
 		"parentCode":"330604"
 	},
@@ -43,7 +43,7 @@
 		"code":"330604006",
 		"fullCode":"330604006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小越街道",
 		"parentCode":"330604"
 	},
@@ -51,7 +51,7 @@
 		"code":"330604007",
 		"fullCode":"330604007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崧厦街道",
 		"parentCode":"330604"
 	},
@@ -59,7 +59,7 @@
 		"code":"330604101",
 		"fullCode":"330604101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长塘镇",
 		"parentCode":"330604"
 	},
@@ -67,7 +67,7 @@
 		"code":"330604102",
 		"fullCode":"330604102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上浦镇",
 		"parentCode":"330604"
 	},
@@ -75,7 +75,7 @@
 		"code":"330604103",
 		"fullCode":"330604103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤浦镇",
 		"parentCode":"330604"
 	},
@@ -83,7 +83,7 @@
 		"code":"330604104",
 		"fullCode":"330604104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"章镇镇",
 		"parentCode":"330604"
 	},
@@ -91,7 +91,7 @@
 		"code":"330604105",
 		"fullCode":"330604105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下管镇",
 		"parentCode":"330604"
 	},
@@ -99,7 +99,7 @@
 		"code":"330604106",
 		"fullCode":"330604106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰惠镇",
 		"parentCode":"330604"
 	},
@@ -107,7 +107,7 @@
 		"code":"330604107",
 		"fullCode":"330604107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永和镇",
 		"parentCode":"330604"
 	},
@@ -115,7 +115,7 @@
 		"code":"330604109",
 		"fullCode":"330604109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驿亭镇",
 		"parentCode":"330604"
 	},
@@ -123,7 +123,7 @@
 		"code":"330604111",
 		"fullCode":"330604111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢塘镇",
 		"parentCode":"330604"
 	},
@@ -131,7 +131,7 @@
 		"code":"330604112",
 		"fullCode":"330604112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盖北镇",
 		"parentCode":"330604"
 	},
@@ -139,7 +139,7 @@
 		"code":"330604200",
 		"fullCode":"330604200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭南乡",
 		"parentCode":"330604"
 	},
@@ -147,7 +147,7 @@
 		"code":"330604201",
 		"fullCode":"330604201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈溪乡",
 		"parentCode":"330604"
 	},
@@ -155,7 +155,7 @@
 		"code":"330604202",
 		"fullCode":"330604202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丁宅乡",
 		"parentCode":"330604"
 	}

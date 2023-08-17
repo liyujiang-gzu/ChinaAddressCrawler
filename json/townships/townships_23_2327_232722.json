@@ -3,7 +3,7 @@
 		"code":"232722100",
 		"fullCode":"232722100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔河镇",
 		"parentCode":"232722"
 	},
@@ -11,7 +11,7 @@
 		"code":"232722101",
 		"fullCode":"232722101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦拉干镇",
 		"parentCode":"232722"
 	},
@@ -19,7 +19,7 @@
 		"code":"232722102",
 		"fullCode":"232722102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘古镇",
 		"parentCode":"232722"
 	},
@@ -27,7 +27,7 @@
 		"code":"232722103",
 		"fullCode":"232722103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古驿镇",
 		"parentCode":"232722"
 	},
@@ -35,7 +35,7 @@
 		"code":"232722200",
 		"fullCode":"232722200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十八站鄂伦春族乡",
 		"parentCode":"232722"
 	},
@@ -43,7 +43,7 @@
 		"code":"232722201",
 		"fullCode":"232722201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"依西肯乡",
 		"parentCode":"232722"
 	},
@@ -51,7 +51,7 @@
 		"code":"232722202",
 		"fullCode":"232722202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开库康乡",
 		"parentCode":"232722"
 	}

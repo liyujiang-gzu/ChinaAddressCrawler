@@ -3,7 +3,7 @@
 		"code":"440203001",
 		"fullCode":"440203001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华街道",
 		"parentCode":"440203"
 	},
@@ -11,7 +11,7 @@
 		"code":"440203002",
 		"fullCode":"440203002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠民街道",
 		"parentCode":"440203"
 	},
@@ -19,7 +19,7 @@
 		"code":"440203100",
 		"fullCode":"440203100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西联镇",
 		"parentCode":"440203"
 	},
@@ -27,7 +27,7 @@
 		"code":"440203101",
 		"fullCode":"440203101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西河镇",
 		"parentCode":"440203"
 	},
@@ -35,7 +35,7 @@
 		"code":"440203102",
 		"fullCode":"440203102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙归镇",
 		"parentCode":"440203"
 	},
@@ -43,7 +43,7 @@
 		"code":"440203103",
 		"fullCode":"440203103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江湾镇",
 		"parentCode":"440203"
 	},
@@ -51,7 +51,7 @@
 		"code":"440203104",
 		"fullCode":"440203104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"重阳镇",
 		"parentCode":"440203"
 	}

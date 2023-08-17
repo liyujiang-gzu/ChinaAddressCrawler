@@ -3,7 +3,7 @@
 		"code":"141024100",
 		"fullCode":"141024100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大槐树镇",
 		"parentCode":"141024"
 	},
@@ -11,7 +11,7 @@
 		"code":"141024101",
 		"fullCode":"141024101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘亭镇",
 		"parentCode":"141024"
 	},
@@ -19,7 +19,7 @@
 		"code":"141024102",
 		"fullCode":"141024102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲亭镇",
 		"parentCode":"141024"
 	},
@@ -27,7 +27,7 @@
 		"code":"141024103",
 		"fullCode":"141024103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏堡镇",
 		"parentCode":"141024"
 	},
@@ -35,7 +35,7 @@
 		"code":"141024104",
 		"fullCode":"141024104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广胜寺镇",
 		"parentCode":"141024"
 	},
@@ -43,7 +43,7 @@
 		"code":"141024105",
 		"fullCode":"141024105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明姜镇",
 		"parentCode":"141024"
 	},
@@ -51,7 +51,7 @@
 		"code":"141024106",
 		"fullCode":"141024106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵城镇",
 		"parentCode":"141024"
 	},
@@ -59,7 +59,7 @@
 		"code":"141024107",
 		"fullCode":"141024107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万安镇",
 		"parentCode":"141024"
 	},
@@ -67,7 +67,7 @@
 		"code":"141024108",
 		"fullCode":"141024108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘家垣镇",
 		"parentCode":"141024"
 	},
@@ -75,7 +75,7 @@
 		"code":"141024109",
 		"fullCode":"141024109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辛村镇",
 		"parentCode":"141024"
 	},
@@ -83,7 +83,7 @@
 		"code":"141024200",
 		"fullCode":"141024200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淹底乡",
 		"parentCode":"141024"
 	},
@@ -91,7 +91,7 @@
 		"code":"141024201",
 		"fullCode":"141024201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴唐寺乡",
 		"parentCode":"141024"
 	},
@@ -99,7 +99,7 @@
 		"code":"141024202",
 		"fullCode":"141024202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堤村乡",
 		"parentCode":"141024"
 	},
@@ -107,7 +107,7 @@
 		"code":"141024204",
 		"fullCode":"141024204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙马乡",
 		"parentCode":"141024"
 	},
@@ -115,7 +115,7 @@
 		"code":"141024207",
 		"fullCode":"141024207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山目乡",
 		"parentCode":"141024"
 	}

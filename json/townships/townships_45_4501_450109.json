@@ -3,7 +3,7 @@
 		"code":"450109100",
 		"fullCode":"450109100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒲庙镇",
 		"parentCode":"450109"
 	},
@@ -11,7 +11,7 @@
 		"code":"450109101",
 		"fullCode":"450109101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那楼镇",
 		"parentCode":"450109"
 	},
@@ -19,7 +19,7 @@
 		"code":"450109102",
 		"fullCode":"450109102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新江镇",
 		"parentCode":"450109"
 	},
@@ -27,7 +27,7 @@
 		"code":"450109103",
 		"fullCode":"450109103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百济镇",
 		"parentCode":"450109"
 	},
@@ -35,7 +35,7 @@
 		"code":"450109104",
 		"fullCode":"450109104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中和镇",
 		"parentCode":"450109"
 	}

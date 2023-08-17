@@ -3,7 +3,7 @@
 		"code":"350521100",
 		"fullCode":"350521100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"螺城镇",
 		"parentCode":"350521"
 	},
@@ -11,7 +11,7 @@
 		"code":"350521101",
 		"fullCode":"350521101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"螺阳镇",
 		"parentCode":"350521"
 	},
@@ -19,7 +19,7 @@
 		"code":"350521102",
 		"fullCode":"350521102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄塘镇",
 		"parentCode":"350521"
 	},
@@ -27,7 +27,7 @@
 		"code":"350521103",
 		"fullCode":"350521103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫山镇",
 		"parentCode":"350521"
 	},
@@ -35,7 +35,7 @@
 		"code":"350521104",
 		"fullCode":"350521104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛阳镇",
 		"parentCode":"350521"
 	},
@@ -43,7 +43,7 @@
 		"code":"350521105",
 		"fullCode":"350521105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东园镇",
 		"parentCode":"350521"
 	},
@@ -51,7 +51,7 @@
 		"code":"350521106",
 		"fullCode":"350521106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张坂镇",
 		"parentCode":"350521"
 	},
@@ -59,7 +59,7 @@
 		"code":"350521107",
 		"fullCode":"350521107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇武镇",
 		"parentCode":"350521"
 	},
@@ -67,7 +67,7 @@
 		"code":"350521108",
 		"fullCode":"350521108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山霞镇",
 		"parentCode":"350521"
 	},
@@ -75,7 +75,7 @@
 		"code":"350521109",
 		"fullCode":"350521109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涂寨镇",
 		"parentCode":"350521"
 	},
@@ -83,7 +83,7 @@
 		"code":"350521110",
 		"fullCode":"350521110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东岭镇",
 		"parentCode":"350521"
 	},
@@ -91,7 +91,7 @@
 		"code":"350521111",
 		"fullCode":"350521111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东桥镇",
 		"parentCode":"350521"
 	},
@@ -99,7 +99,7 @@
 		"code":"350521112",
 		"fullCode":"350521112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"净峰镇",
 		"parentCode":"350521"
 	},
@@ -107,7 +107,7 @@
 		"code":"350521113",
 		"fullCode":"350521113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小岞镇",
 		"parentCode":"350521"
 	},
@@ -115,7 +115,7 @@
 		"code":"350521114",
 		"fullCode":"350521114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"辋川镇",
 		"parentCode":"350521"
 	},
@@ -123,7 +123,7 @@
 		"code":"350521200",
 		"fullCode":"350521200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百崎回族乡",
 		"parentCode":"350521"
 	},
@@ -131,7 +131,7 @@
 		"code":"350521400",
 		"fullCode":"350521400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南工业区",
 		"parentCode":"350521"
 	},
@@ -139,7 +139,7 @@
 		"code":"350521401",
 		"fullCode":"350521401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠南工业区",
 		"parentCode":"350521"
 	},
@@ -147,7 +147,7 @@
 		"code":"350521402",
 		"fullCode":"350521402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉惠石化工业园区",
 		"parentCode":"350521"
 	},
@@ -155,7 +155,7 @@
 		"code":"350521403",
 		"fullCode":"350521403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"惠东工业园区",
 		"parentCode":"350521"
 	}

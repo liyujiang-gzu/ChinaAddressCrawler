@@ -3,7 +3,7 @@
 		"code":"421224100",
 		"fullCode":"421224100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通羊镇",
 		"parentCode":"421224"
 	},
@@ -11,7 +11,7 @@
 		"code":"421224101",
 		"fullCode":"421224101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南林桥镇",
 		"parentCode":"421224"
 	},
@@ -19,7 +19,7 @@
 		"code":"421224102",
 		"fullCode":"421224102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄沙铺镇",
 		"parentCode":"421224"
 	},
@@ -27,7 +27,7 @@
 		"code":"421224103",
 		"fullCode":"421224103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"厦铺镇",
 		"parentCode":"421224"
 	},
@@ -35,7 +35,7 @@
 		"code":"421224104",
 		"fullCode":"421224104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九宫山镇",
 		"parentCode":"421224"
 	},
@@ -43,7 +43,7 @@
 		"code":"421224105",
 		"fullCode":"421224105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"闯王镇",
 		"parentCode":"421224"
 	},
@@ -51,7 +51,7 @@
 		"code":"421224106",
 		"fullCode":"421224106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪港镇",
 		"parentCode":"421224"
 	},
@@ -59,7 +59,7 @@
 		"code":"421224107",
 		"fullCode":"421224107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大畈镇",
 		"parentCode":"421224"
 	},
@@ -67,7 +67,7 @@
 		"code":"421224200",
 		"fullCode":"421224200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大路乡",
 		"parentCode":"421224"
 	},
@@ -75,7 +75,7 @@
 		"code":"421224201",
 		"fullCode":"421224201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨芳林乡",
 		"parentCode":"421224"
 	},
@@ -83,7 +83,7 @@
 		"code":"421224202",
 		"fullCode":"421224202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕厦乡",
 		"parentCode":"421224"
 	},
@@ -91,7 +91,7 @@
 		"code":"421224203",
 		"fullCode":"421224203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"慈口乡",
 		"parentCode":"421224"
 	},
@@ -99,7 +99,7 @@
 		"code":"421224450",
 		"fullCode":"421224450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九宫山自然保护管理局",
 		"parentCode":"421224"
 	},
@@ -107,7 +107,7 @@
 		"code":"421224570",
 		"fullCode":"421224570000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开发区",
 		"parentCode":"421224"
 	}

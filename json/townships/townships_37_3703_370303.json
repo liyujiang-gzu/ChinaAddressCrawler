@@ -3,7 +3,7 @@
 		"code":"370303001",
 		"fullCode":"370303001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车站街道",
 		"parentCode":"370303"
 	},
@@ -11,7 +11,7 @@
 		"code":"370303002",
 		"fullCode":"370303002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"公园街道",
 		"parentCode":"370303"
 	},
@@ -19,7 +19,7 @@
 		"code":"370303003",
 		"fullCode":"370303003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖田街道",
 		"parentCode":"370303"
 	},
@@ -27,7 +27,7 @@
 		"code":"370303004",
 		"fullCode":"370303004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平街道",
 		"parentCode":"370303"
 	},
@@ -35,7 +35,7 @@
 		"code":"370303005",
 		"fullCode":"370303005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科苑街道",
 		"parentCode":"370303"
 	},
@@ -43,7 +43,7 @@
 		"code":"370303006",
 		"fullCode":"370303006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"体育场街道",
 		"parentCode":"370303"
 	},
@@ -51,7 +51,7 @@
 		"code":"370303008",
 		"fullCode":"370303008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四宝山街道",
 		"parentCode":"370303"
 	},
@@ -59,7 +59,7 @@
 		"code":"370303009",
 		"fullCode":"370303009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马尚街道",
 		"parentCode":"370303"
 	},
@@ -67,7 +67,7 @@
 		"code":"370303101",
 		"fullCode":"370303101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南定镇",
 		"parentCode":"370303"
 	},
@@ -75,7 +75,7 @@
 		"code":"370303102",
 		"fullCode":"370303102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沣水镇",
 		"parentCode":"370303"
 	},
@@ -83,7 +83,7 @@
 		"code":"370303104",
 		"fullCode":"370303104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"傅家镇",
 		"parentCode":"370303"
 	},
@@ -91,7 +91,7 @@
 		"code":"370303105",
 		"fullCode":"370303105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中埠镇",
 		"parentCode":"370303"
 	},
@@ -99,7 +99,7 @@
 		"code":"370303107",
 		"fullCode":"370303107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"房镇镇",
 		"parentCode":"370303"
 	}

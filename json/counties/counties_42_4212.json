@@ -3,7 +3,7 @@
 		"code":"421202",
 		"fullCode":"421202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"咸安区",
 		"parentCode":"4212"
 	},
@@ -11,7 +11,7 @@
 		"code":"421221",
 		"fullCode":"421221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"嘉鱼县",
 		"parentCode":"4212"
 	},
@@ -19,7 +19,7 @@
 		"code":"421222",
 		"fullCode":"421222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"通城县",
 		"parentCode":"4212"
 	},
@@ -27,7 +27,7 @@
 		"code":"421223",
 		"fullCode":"421223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"崇阳县",
 		"parentCode":"4212"
 	},
@@ -35,7 +35,7 @@
 		"code":"421224",
 		"fullCode":"421224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"通山县",
 		"parentCode":"4212"
 	},
@@ -43,7 +43,7 @@
 		"code":"421281",
 		"fullCode":"421281000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"赤壁市",
 		"parentCode":"4212"
 	}

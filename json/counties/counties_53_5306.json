@@ -3,7 +3,7 @@
 		"code":"530602",
 		"fullCode":"530602000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"昭阳区",
 		"parentCode":"5306"
 	},
@@ -11,7 +11,7 @@
 		"code":"530621",
 		"fullCode":"530621000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鲁甸县",
 		"parentCode":"5306"
 	},
@@ -19,7 +19,7 @@
 		"code":"530622",
 		"fullCode":"530622000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"巧家县",
 		"parentCode":"5306"
 	},
@@ -27,7 +27,7 @@
 		"code":"530623",
 		"fullCode":"530623000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"盐津县",
 		"parentCode":"5306"
 	},
@@ -35,7 +35,7 @@
 		"code":"530624",
 		"fullCode":"530624000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"大关县",
 		"parentCode":"5306"
 	},
@@ -43,7 +43,7 @@
 		"code":"530625",
 		"fullCode":"530625000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永善县",
 		"parentCode":"5306"
 	},
@@ -51,7 +51,7 @@
 		"code":"530626",
 		"fullCode":"530626000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"绥江县",
 		"parentCode":"5306"
 	},
@@ -59,7 +59,7 @@
 		"code":"530627",
 		"fullCode":"530627000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"镇雄县",
 		"parentCode":"5306"
 	},
@@ -67,7 +67,7 @@
 		"code":"530628",
 		"fullCode":"530628000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"彝良县",
 		"parentCode":"5306"
 	},
@@ -75,7 +75,7 @@
 		"code":"530629",
 		"fullCode":"530629000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"威信县",
 		"parentCode":"5306"
 	},
@@ -83,7 +83,7 @@
 		"code":"530681",
 		"fullCode":"530681000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"水富市",
 		"parentCode":"5306"
 	}

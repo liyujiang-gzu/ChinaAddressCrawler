@@ -3,7 +3,7 @@
 		"code":"350602001",
 		"fullCode":"350602001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东铺头街道",
 		"parentCode":"350602"
 	},
@@ -11,7 +11,7 @@
 		"code":"350602002",
 		"fullCode":"350602002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西桥街道",
 		"parentCode":"350602"
 	},
@@ -19,7 +19,7 @@
 		"code":"350602003",
 		"fullCode":"350602003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥街道",
 		"parentCode":"350602"
 	},
@@ -27,7 +27,7 @@
 		"code":"350602004",
 		"fullCode":"350602004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巷口街道",
 		"parentCode":"350602"
 	},
@@ -35,7 +35,7 @@
 		"code":"350602005",
 		"fullCode":"350602005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南坑街道",
 		"parentCode":"350602"
 	},
@@ -43,7 +43,7 @@
 		"code":"350602006",
 		"fullCode":"350602006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通北街道",
 		"parentCode":"350602"
 	},
@@ -51,7 +51,7 @@
 		"code":"350602007",
 		"fullCode":"350602007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芝山街道",
 		"parentCode":"350602"
 	},
@@ -59,7 +59,7 @@
 		"code":"350602008",
 		"fullCode":"350602008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石亭街道",
 		"parentCode":"350602"
 	},
@@ -67,7 +67,7 @@
 		"code":"350602100",
 		"fullCode":"350602100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浦南镇",
 		"parentCode":"350602"
 	},
@@ -75,7 +75,7 @@
 		"code":"350602101",
 		"fullCode":"350602101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天宝镇",
 		"parentCode":"350602"
 	},
@@ -83,7 +83,7 @@
 		"code":"350602400",
 		"fullCode":"350602400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芗城区奶牛场",
 		"parentCode":"350602"
 	},
@@ -91,7 +91,7 @@
 		"code":"350602402",
 		"fullCode":"350602402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天宝林场",
 		"parentCode":"350602"
 	}

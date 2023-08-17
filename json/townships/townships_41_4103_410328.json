@@ -3,7 +3,7 @@
 		"code":"410328100",
 		"fullCode":"410328100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"410328"
 	},
@@ -11,7 +11,7 @@
 		"code":"410328101",
 		"fullCode":"410328101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王范回族镇",
 		"parentCode":"410328"
 	},
@@ -19,7 +19,7 @@
 		"code":"410328102",
 		"fullCode":"410328102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上戈镇",
 		"parentCode":"410328"
 	},
@@ -27,7 +27,7 @@
 		"code":"410328103",
 		"fullCode":"410328103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下峪镇",
 		"parentCode":"410328"
 	},
@@ -35,7 +35,7 @@
 		"code":"410328104",
 		"fullCode":"410328104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河底镇",
 		"parentCode":"410328"
 	},
@@ -43,7 +43,7 @@
 		"code":"410328105",
 		"fullCode":"410328105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华镇",
 		"parentCode":"410328"
 	},
@@ -51,7 +51,7 @@
 		"code":"410328106",
 		"fullCode":"410328106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东宋镇",
 		"parentCode":"410328"
 	},
@@ -59,7 +59,7 @@
 		"code":"410328107",
 		"fullCode":"410328107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马店镇",
 		"parentCode":"410328"
 	},
@@ -67,7 +67,7 @@
 		"code":"410328108",
 		"fullCode":"410328108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"故县镇",
 		"parentCode":"410328"
 	},
@@ -75,7 +75,7 @@
 		"code":"410328109",
 		"fullCode":"410328109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵村镇",
 		"parentCode":"410328"
 	},
@@ -83,7 +83,7 @@
 		"code":"410328110",
 		"fullCode":"410328110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长水镇",
 		"parentCode":"410328"
 	},
@@ -91,7 +91,7 @@
 		"code":"410328111",
 		"fullCode":"410328111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景阳镇",
 		"parentCode":"410328"
 	},
@@ -99,7 +99,7 @@
 		"code":"410328200",
 		"fullCode":"410328200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城郊乡",
 		"parentCode":"410328"
 	},
@@ -107,7 +107,7 @@
 		"code":"410328205",
 		"fullCode":"410328205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小界乡",
 		"parentCode":"410328"
 	},
@@ -115,7 +115,7 @@
 		"code":"410328209",
 		"fullCode":"410328209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗岭乡",
 		"parentCode":"410328"
 	},
@@ -123,7 +123,7 @@
 		"code":"410328213",
 		"fullCode":"410328213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"底张乡",
 		"parentCode":"410328"
 	},
@@ -131,7 +131,7 @@
 		"code":"410328216",
 		"fullCode":"410328216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈吴乡",
 		"parentCode":"410328"
 	},
@@ -139,7 +139,7 @@
 		"code":"410328217",
 		"fullCode":"410328217000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涧口乡",
 		"parentCode":"410328"
 	}

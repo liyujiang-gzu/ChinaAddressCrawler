@@ -3,7 +3,7 @@
 		"code":"360123100",
 		"fullCode":"360123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙津镇",
 		"parentCode":"360123"
 	},
@@ -11,7 +11,7 @@
 		"code":"360123101",
 		"fullCode":"360123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万埠镇",
 		"parentCode":"360123"
 	},
@@ -19,7 +19,7 @@
 		"code":"360123102",
 		"fullCode":"360123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石鼻镇",
 		"parentCode":"360123"
 	},
@@ -27,7 +27,7 @@
 		"code":"360123103",
 		"fullCode":"360123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼎湖镇",
 		"parentCode":"360123"
 	},
@@ -35,7 +35,7 @@
 		"code":"360123104",
 		"fullCode":"360123104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长埠镇",
 		"parentCode":"360123"
 	},
@@ -43,7 +43,7 @@
 		"code":"360123105",
 		"fullCode":"360123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东阳镇",
 		"parentCode":"360123"
 	},
@@ -51,7 +51,7 @@
 		"code":"360123106",
 		"fullCode":"360123106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄洲镇",
 		"parentCode":"360123"
 	},
@@ -59,7 +59,7 @@
 		"code":"360123200",
 		"fullCode":"360123200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乔乐乡",
 		"parentCode":"360123"
 	},
@@ -67,7 +67,7 @@
 		"code":"360123201",
 		"fullCode":"360123201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长均乡",
 		"parentCode":"360123"
 	},
@@ -75,7 +75,7 @@
 		"code":"360123202",
 		"fullCode":"360123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民乡",
 		"parentCode":"360123"
 	},
@@ -83,7 +83,7 @@
 		"code":"360123402",
 		"fullCode":"360123402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江西安义工业园区",
 		"parentCode":"360123"
 	},
@@ -91,7 +91,7 @@
 		"code":"360123501",
 		"fullCode":"360123501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营万埠垦殖场",
 		"parentCode":"360123"
 	}

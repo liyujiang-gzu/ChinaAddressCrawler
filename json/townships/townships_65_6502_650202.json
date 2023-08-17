@@ -3,7 +3,7 @@
 		"code":"650202001",
 		"fullCode":"650202001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山路街道",
 		"parentCode":"650202"
 	},
@@ -11,7 +11,7 @@
 		"code":"650202002",
 		"fullCode":"650202002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西宁路街道",
 		"parentCode":"650202"
 	},
@@ -19,7 +19,7 @@
 		"code":"650202003",
 		"fullCode":"650202003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新北区街道",
 		"parentCode":"650202"
 	}

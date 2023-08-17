@@ -3,7 +3,7 @@
 		"code":"410181001",
 		"fullCode":"410181001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新华路街道",
 		"parentCode":"410181"
 	},
@@ -11,7 +11,7 @@
 		"code":"410181002",
 		"fullCode":"410181002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜甫路街道",
 		"parentCode":"410181"
 	},
@@ -19,7 +19,7 @@
 		"code":"410181003",
 		"fullCode":"410181003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安路街道",
 		"parentCode":"410181"
 	},
@@ -27,7 +27,7 @@
 		"code":"410181004",
 		"fullCode":"410181004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孝义街道",
 		"parentCode":"410181"
 	},
@@ -35,7 +35,7 @@
 		"code":"410181005",
 		"fullCode":"410181005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫荆路街道",
 		"parentCode":"410181"
 	},
@@ -43,7 +43,7 @@
 		"code":"410181100",
 		"fullCode":"410181100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米河镇",
 		"parentCode":"410181"
 	},
@@ -51,7 +51,7 @@
 		"code":"410181101",
 		"fullCode":"410181101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新中镇",
 		"parentCode":"410181"
 	},
@@ -59,7 +59,7 @@
 		"code":"410181102",
 		"fullCode":"410181102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小关镇",
 		"parentCode":"410181"
 	},
@@ -67,7 +67,7 @@
 		"code":"410181103",
 		"fullCode":"410181103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"竹林镇",
 		"parentCode":"410181"
 	},
@@ -75,7 +75,7 @@
 		"code":"410181104",
 		"fullCode":"410181104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大峪沟镇",
 		"parentCode":"410181"
 	},
@@ -83,7 +83,7 @@
 		"code":"410181105",
 		"fullCode":"410181105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河洛镇",
 		"parentCode":"410181"
 	},
@@ -91,7 +91,7 @@
 		"code":"410181106",
 		"fullCode":"410181106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"站街镇",
 		"parentCode":"410181"
 	},
@@ -99,7 +99,7 @@
 		"code":"410181108",
 		"fullCode":"410181108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康店镇",
 		"parentCode":"410181"
 	},
@@ -107,7 +107,7 @@
 		"code":"410181110",
 		"fullCode":"410181110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北山口镇",
 		"parentCode":"410181"
 	},
@@ -115,7 +115,7 @@
 		"code":"410181111",
 		"fullCode":"410181111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西村镇",
 		"parentCode":"410181"
 	},
@@ -123,7 +123,7 @@
 		"code":"410181112",
 		"fullCode":"410181112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"芝田镇",
 		"parentCode":"410181"
 	},
@@ -131,7 +131,7 @@
 		"code":"410181113",
 		"fullCode":"410181113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回郭镇",
 		"parentCode":"410181"
 	},
@@ -139,7 +139,7 @@
 		"code":"410181114",
 		"fullCode":"410181114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁庄镇",
 		"parentCode":"410181"
 	},
@@ -147,7 +147,7 @@
 		"code":"410181115",
 		"fullCode":"410181115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夹津口镇",
 		"parentCode":"410181"
 	},
@@ -155,7 +155,7 @@
 		"code":"410181116",
 		"fullCode":"410181116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涉村镇",
 		"parentCode":"410181"
 	}

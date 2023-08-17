@@ -3,7 +3,7 @@
 		"code":"420114001",
 		"fullCode":"420114001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡甸街道",
 		"parentCode":"420114"
 	},
@@ -11,7 +11,7 @@
 		"code":"420114002",
 		"fullCode":"420114002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奓山街道",
 		"parentCode":"420114"
 	},
@@ -19,7 +19,7 @@
 		"code":"420114003",
 		"fullCode":"420114003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安街道",
 		"parentCode":"420114"
 	},
@@ -27,7 +27,7 @@
 		"code":"420114004",
 		"fullCode":"420114004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侏儒山街道",
 		"parentCode":"420114"
 	},
@@ -35,7 +35,7 @@
 		"code":"420114005",
 		"fullCode":"420114005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大集街道",
 		"parentCode":"420114"
 	},
@@ -43,7 +43,7 @@
 		"code":"420114006",
 		"fullCode":"420114006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张湾街道",
 		"parentCode":"420114"
 	},
@@ -51,7 +51,7 @@
 		"code":"420114007",
 		"fullCode":"420114007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"索河街道",
 		"parentCode":"420114"
 	},
@@ -59,7 +59,7 @@
 		"code":"420114008",
 		"fullCode":"420114008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉贤街道",
 		"parentCode":"420114"
 	},
@@ -67,7 +67,7 @@
 		"code":"420114070",
 		"fullCode":"420114070000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沌口街道",
 		"parentCode":"420114"
 	},
@@ -75,7 +75,7 @@
 		"code":"420114071",
 		"fullCode":"420114071000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"军山街道",
 		"parentCode":"420114"
 	},
@@ -83,7 +83,7 @@
 		"code":"420114072",
 		"fullCode":"420114072000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沌阳街道",
 		"parentCode":"420114"
 	},
@@ -91,7 +91,7 @@
 		"code":"420114200",
 		"fullCode":"420114200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"消泗乡",
 		"parentCode":"420114"
 	},
@@ -99,7 +99,7 @@
 		"code":"420114400",
 		"fullCode":"420114400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桐湖",
 		"parentCode":"420114"
 	},
@@ -107,7 +107,7 @@
 		"code":"420114401",
 		"fullCode":"420114401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侏儒山街道洪北片区",
 		"parentCode":"420114"
 	},
@@ -115,7 +115,7 @@
 		"code":"420114404",
 		"fullCode":"420114404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中法武汉生态示范城",
 		"parentCode":"420114"
 	},
@@ -123,7 +123,7 @@
 		"code":"420114406",
 		"fullCode":"420114406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"侏儒山街道成功片区",
 		"parentCode":"420114"
 	},
@@ -131,7 +131,7 @@
 		"code":"420114407",
 		"fullCode":"420114407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蔡甸经济开发区",
 		"parentCode":"420114"
 	}

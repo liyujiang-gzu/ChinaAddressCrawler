@@ -3,7 +3,7 @@
 		"code":"340523100",
 		"fullCode":"340523100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"历阳镇",
 		"parentCode":"340523"
 	},
@@ -11,7 +11,7 @@
 		"code":"340523102",
 		"fullCode":"340523102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白桥镇",
 		"parentCode":"340523"
 	},
@@ -19,7 +19,7 @@
 		"code":"340523103",
 		"fullCode":"340523103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姥桥镇",
 		"parentCode":"340523"
 	},
@@ -27,7 +27,7 @@
 		"code":"340523104",
 		"fullCode":"340523104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"功桥镇",
 		"parentCode":"340523"
 	},
@@ -35,7 +35,7 @@
 		"code":"340523105",
 		"fullCode":"340523105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西埠镇",
 		"parentCode":"340523"
 	},
@@ -43,7 +43,7 @@
 		"code":"340523106",
 		"fullCode":"340523106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香泉镇",
 		"parentCode":"340523"
 	},
@@ -51,7 +51,7 @@
 		"code":"340523107",
 		"fullCode":"340523107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌江镇",
 		"parentCode":"340523"
 	},
@@ -59,7 +59,7 @@
 		"code":"340523108",
 		"fullCode":"340523108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"善厚镇",
 		"parentCode":"340523"
 	},
@@ -67,7 +67,7 @@
 		"code":"340523109",
 		"fullCode":"340523109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石杨镇",
 		"parentCode":"340523"
 	},
@@ -75,7 +75,7 @@
 		"code":"340523400",
 		"fullCode":"340523400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽和县经济开发区",
 		"parentCode":"340523"
 	},
@@ -83,7 +83,7 @@
 		"code":"340523401",
 		"fullCode":"340523401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽精细化工产业有机合成基地",
 		"parentCode":"340523"
 	},
@@ -91,7 +91,7 @@
 		"code":"340523500",
 		"fullCode":"340523500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽和县台湾农民创业园",
 		"parentCode":"340523"
 	}

@@ -3,7 +3,7 @@
 		"code":"211202",
 		"fullCode":"211202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"银州区",
 		"parentCode":"2112"
 	},
@@ -11,7 +11,7 @@
 		"code":"211204",
 		"fullCode":"211204000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"清河区",
 		"parentCode":"2112"
 	},
@@ -19,7 +19,7 @@
 		"code":"211221",
 		"fullCode":"211221000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铁岭县",
 		"parentCode":"2112"
 	},
@@ -27,7 +27,7 @@
 		"code":"211223",
 		"fullCode":"211223000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"西丰县",
 		"parentCode":"2112"
 	},
@@ -35,7 +35,7 @@
 		"code":"211224",
 		"fullCode":"211224000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"昌图县",
 		"parentCode":"2112"
 	},
@@ -43,7 +43,7 @@
 		"code":"211281",
 		"fullCode":"211281000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"调兵山市",
 		"parentCode":"2112"
 	},
@@ -51,7 +51,7 @@
 		"code":"211282",
 		"fullCode":"211282000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"开原市",
 		"parentCode":"2112"
 	}

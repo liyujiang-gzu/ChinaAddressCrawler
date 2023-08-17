@@ -3,7 +3,7 @@
 		"code":"350206001",
 		"fullCode":"350206001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖里街道",
 		"parentCode":"350206"
 	},
@@ -11,7 +11,7 @@
 		"code":"350206002",
 		"fullCode":"350206002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"殿前街道",
 		"parentCode":"350206"
 	},
@@ -19,7 +19,7 @@
 		"code":"350206003",
 		"fullCode":"350206003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禾山街道",
 		"parentCode":"350206"
 	},
@@ -27,7 +27,7 @@
 		"code":"350206004",
 		"fullCode":"350206004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江头街道",
 		"parentCode":"350206"
 	},
@@ -35,7 +35,7 @@
 		"code":"350206005",
 		"fullCode":"350206005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金山街道",
 		"parentCode":"350206"
 	},
@@ -43,7 +43,7 @@
 		"code":"350206405",
 		"fullCode":"350206405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火炬高技术开发区",
 		"parentCode":"350206"
 	},
@@ -51,7 +51,7 @@
 		"code":"350206406",
 		"fullCode":"350206406000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"象屿保税区",
 		"parentCode":"350206"
 	}

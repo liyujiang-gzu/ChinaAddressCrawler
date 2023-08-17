@@ -3,7 +3,7 @@
 		"code":"130804001",
 		"fullCode":"130804001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁北路街道",
 		"parentCode":"130804"
 	},
@@ -11,7 +11,7 @@
 		"code":"130804100",
 		"fullCode":"130804100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹰手营子镇",
 		"parentCode":"130804"
 	},
@@ -19,7 +19,7 @@
 		"code":"130804101",
 		"fullCode":"130804101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北马圈子镇",
 		"parentCode":"130804"
 	},
@@ -27,7 +27,7 @@
 		"code":"130804102",
 		"fullCode":"130804102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寿王坟镇",
 		"parentCode":"130804"
 	},
@@ -35,7 +35,7 @@
 		"code":"130804103",
 		"fullCode":"130804103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪家庄镇",
 		"parentCode":"130804"
 	}

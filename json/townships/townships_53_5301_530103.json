@@ -3,7 +3,7 @@
 		"code":"530103001",
 		"fullCode":"530103001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拓东街道",
 		"parentCode":"530103"
 	},
@@ -11,7 +11,7 @@
 		"code":"530103002",
 		"fullCode":"530103002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鼓楼街道",
 		"parentCode":"530103"
 	},
@@ -19,7 +19,7 @@
 		"code":"530103003",
 		"fullCode":"530103003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东华街道",
 		"parentCode":"530103"
 	},
@@ -27,7 +27,7 @@
 		"code":"530103004",
 		"fullCode":"530103004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联盟街道",
 		"parentCode":"530103"
 	},
@@ -35,7 +35,7 @@
 		"code":"530103005",
 		"fullCode":"530103005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金辰街道",
 		"parentCode":"530103"
 	},
@@ -43,7 +43,7 @@
 		"code":"530103006",
 		"fullCode":"530103006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青云街道",
 		"parentCode":"530103"
 	},
@@ -51,7 +51,7 @@
 		"code":"530103007",
 		"fullCode":"530103007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉街道",
 		"parentCode":"530103"
 	},
@@ -59,7 +59,7 @@
 		"code":"530103008",
 		"fullCode":"530103008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨坝街道",
 		"parentCode":"530103"
 	},
@@ -67,7 +67,7 @@
 		"code":"530103009",
 		"fullCode":"530103009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙街道",
 		"parentCode":"530103"
 	},
@@ -75,7 +75,7 @@
 		"code":"530103010",
 		"fullCode":"530103010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松华街道",
 		"parentCode":"530103"
 	},
@@ -83,7 +83,7 @@
 		"code":"530103011",
 		"fullCode":"530103011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滇源街道",
 		"parentCode":"530103"
 	},
@@ -91,7 +91,7 @@
 		"code":"530103012",
 		"fullCode":"530103012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿子营街道",
 		"parentCode":"530103"
 	}

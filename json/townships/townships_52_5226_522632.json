@@ -3,7 +3,7 @@
 		"code":"522632001",
 		"fullCode":"522632001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车民街道",
 		"parentCode":"522632"
 	},
@@ -11,7 +11,7 @@
 		"code":"522632100",
 		"fullCode":"522632100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古州镇",
 		"parentCode":"522632"
 	},
@@ -19,7 +19,7 @@
 		"code":"522632101",
 		"fullCode":"522632101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忠诚镇",
 		"parentCode":"522632"
 	},
@@ -27,7 +27,7 @@
 		"code":"522632102",
 		"fullCode":"522632102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寨蒿镇",
 		"parentCode":"522632"
 	},
@@ -35,7 +35,7 @@
 		"code":"522632103",
 		"fullCode":"522632103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平永镇",
 		"parentCode":"522632"
 	},
@@ -43,7 +43,7 @@
 		"code":"522632104",
 		"fullCode":"522632104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乐里镇",
 		"parentCode":"522632"
 	},
@@ -51,7 +51,7 @@
 		"code":"522632105",
 		"fullCode":"522632105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朗洞镇",
 		"parentCode":"522632"
 	},
@@ -59,7 +59,7 @@
 		"code":"522632106",
 		"fullCode":"522632106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栽麻镇",
 		"parentCode":"522632"
 	},
@@ -67,7 +67,7 @@
 		"code":"522632107",
 		"fullCode":"522632107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平江镇",
 		"parentCode":"522632"
 	},
@@ -75,7 +75,7 @@
 		"code":"522632108",
 		"fullCode":"522632108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八开镇",
 		"parentCode":"522632"
 	},
@@ -83,7 +83,7 @@
 		"code":"522632202",
 		"fullCode":"522632202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"崇义乡",
 		"parentCode":"522632"
 	},
@@ -91,7 +91,7 @@
 		"code":"522632204",
 		"fullCode":"522632204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三江水族乡",
 		"parentCode":"522632"
 	},
@@ -99,7 +99,7 @@
 		"code":"522632205",
 		"fullCode":"522632205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁里水族乡",
 		"parentCode":"522632"
 	},
@@ -107,7 +107,7 @@
 		"code":"522632206",
 		"fullCode":"522632206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"塔石瑶族水族乡",
 		"parentCode":"522632"
 	},
@@ -115,7 +115,7 @@
 		"code":"522632208",
 		"fullCode":"522632208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定威水族乡",
 		"parentCode":"522632"
 	},
@@ -123,7 +123,7 @@
 		"code":"522632209",
 		"fullCode":"522632209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴华水族乡",
 		"parentCode":"522632"
 	},
@@ -131,7 +131,7 @@
 		"code":"522632210",
 		"fullCode":"522632210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"计划乡",
 		"parentCode":"522632"
 	},
@@ -139,7 +139,7 @@
 		"code":"522632211",
 		"fullCode":"522632211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水尾水族乡",
 		"parentCode":"522632"
 	},
@@ -147,7 +147,7 @@
 		"code":"522632212",
 		"fullCode":"522632212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平阳乡",
 		"parentCode":"522632"
 	},
@@ -155,7 +155,7 @@
 		"code":"522632213",
 		"fullCode":"522632213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两汪乡",
 		"parentCode":"522632"
 	}

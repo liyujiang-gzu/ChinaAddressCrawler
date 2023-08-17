@@ -3,7 +3,7 @@
 		"code":"440825001",
 		"fullCode":"440825001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐城街道",
 		"parentCode":"440825"
 	},
@@ -11,7 +11,7 @@
 		"code":"440825102",
 		"fullCode":"440825102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迈陈镇",
 		"parentCode":"440825"
 	},
@@ -19,7 +19,7 @@
 		"code":"440825103",
 		"fullCode":"440825103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海安镇",
 		"parentCode":"440825"
 	},
@@ -27,7 +27,7 @@
 		"code":"440825104",
 		"fullCode":"440825104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲界镇",
 		"parentCode":"440825"
 	},
@@ -35,7 +35,7 @@
 		"code":"440825105",
 		"fullCode":"440825105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前山镇",
 		"parentCode":"440825"
 	},
@@ -43,7 +43,7 @@
 		"code":"440825106",
 		"fullCode":"440825106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西连镇",
 		"parentCode":"440825"
 	},
@@ -51,7 +51,7 @@
 		"code":"440825107",
 		"fullCode":"440825107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下桥镇",
 		"parentCode":"440825"
 	},
@@ -59,7 +59,7 @@
 		"code":"440825108",
 		"fullCode":"440825108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙塘镇",
 		"parentCode":"440825"
 	},
@@ -67,7 +67,7 @@
 		"code":"440825109",
 		"fullCode":"440825109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下洋镇",
 		"parentCode":"440825"
 	},
@@ -75,7 +75,7 @@
 		"code":"440825110",
 		"fullCode":"440825110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锦和镇",
 		"parentCode":"440825"
 	},
@@ -83,7 +83,7 @@
 		"code":"440825111",
 		"fullCode":"440825111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和安镇",
 		"parentCode":"440825"
 	},
@@ -91,7 +91,7 @@
 		"code":"440825112",
 		"fullCode":"440825112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新寮镇",
 		"parentCode":"440825"
 	},
@@ -99,7 +99,7 @@
 		"code":"440825113",
 		"fullCode":"440825113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南山镇",
 		"parentCode":"440825"
 	},
@@ -107,7 +107,7 @@
 		"code":"440825201",
 		"fullCode":"440825201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城北乡",
 		"parentCode":"440825"
 	},
@@ -115,7 +115,7 @@
 		"code":"440825204",
 		"fullCode":"440825204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"角尾乡",
 		"parentCode":"440825"
 	}

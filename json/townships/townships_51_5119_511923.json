@@ -3,7 +3,7 @@
 		"code":"511923001",
 		"fullCode":"511923001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"同州街道",
 		"parentCode":"511923"
 	},
@@ -11,7 +11,7 @@
 		"code":"511923002",
 		"fullCode":"511923002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金宝街道",
 		"parentCode":"511923"
 	},
@@ -19,7 +19,7 @@
 		"code":"511923003",
 		"fullCode":"511923003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江口街道",
 		"parentCode":"511923"
 	},
@@ -27,7 +27,7 @@
 		"code":"511923101",
 		"fullCode":"511923101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"响滩镇",
 		"parentCode":"511923"
 	},
@@ -35,7 +35,7 @@
 		"code":"511923102",
 		"fullCode":"511923102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西兴镇",
 		"parentCode":"511923"
 	},
@@ -43,7 +43,7 @@
 		"code":"511923103",
 		"fullCode":"511923103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛楼镇",
 		"parentCode":"511923"
 	},
@@ -51,7 +51,7 @@
 		"code":"511923104",
 		"fullCode":"511923104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白衣镇",
 		"parentCode":"511923"
 	},
@@ -59,7 +59,7 @@
 		"code":"511923105",
 		"fullCode":"511923105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涵水镇",
 		"parentCode":"511923"
 	},
@@ -67,7 +67,7 @@
 		"code":"511923106",
 		"fullCode":"511923106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳家镇",
 		"parentCode":"511923"
 	},
@@ -75,7 +75,7 @@
 		"code":"511923107",
 		"fullCode":"511923107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰草镇",
 		"parentCode":"511923"
 	},
@@ -83,7 +83,7 @@
 		"code":"511923108",
 		"fullCode":"511923108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"驷马镇",
 		"parentCode":"511923"
 	},
@@ -91,7 +91,7 @@
 		"code":"511923110",
 		"fullCode":"511923110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"元山镇",
 		"parentCode":"511923"
 	},
@@ -99,7 +99,7 @@
 		"code":"511923111",
 		"fullCode":"511923111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云台镇",
 		"parentCode":"511923"
 	},
@@ -107,7 +107,7 @@
 		"code":"511923112",
 		"fullCode":"511923112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邱家镇",
 		"parentCode":"511923"
 	},
@@ -115,7 +115,7 @@
 		"code":"511923113",
 		"fullCode":"511923113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"笔山镇",
 		"parentCode":"511923"
 	},
@@ -123,7 +123,7 @@
 		"code":"511923114",
 		"fullCode":"511923114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镇龙镇",
 		"parentCode":"511923"
 	},
@@ -131,7 +131,7 @@
 		"code":"511923115",
 		"fullCode":"511923115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"得胜镇",
 		"parentCode":"511923"
 	},
@@ -139,7 +139,7 @@
 		"code":"511923118",
 		"fullCode":"511923118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"灵山镇",
 		"parentCode":"511923"
 	},
@@ -147,7 +147,7 @@
 		"code":"511923119",
 		"fullCode":"511923119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土兴镇",
 		"parentCode":"511923"
 	},
@@ -155,7 +155,7 @@
 		"code":"511923120",
 		"fullCode":"511923120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望京镇",
 		"parentCode":"511923"
 	},
@@ -163,7 +163,7 @@
 		"code":"511923121",
 		"fullCode":"511923121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙岗镇",
 		"parentCode":"511923"
 	},
@@ -171,7 +171,7 @@
 		"code":"511923122",
 		"fullCode":"511923122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板庙镇",
 		"parentCode":"511923"
 	},
@@ -179,7 +179,7 @@
 		"code":"511923123",
 		"fullCode":"511923123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泥龙镇",
 		"parentCode":"511923"
 	},
@@ -187,7 +187,7 @@
 		"code":"511923125",
 		"fullCode":"511923125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青云镇",
 		"parentCode":"511923"
 	},
@@ -195,7 +195,7 @@
 		"code":"511923126",
 		"fullCode":"511923126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大寨镇",
 		"parentCode":"511923"
 	},
@@ -203,7 +203,7 @@
 		"code":"511923127",
 		"fullCode":"511923127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"土垭镇",
 		"parentCode":"511923"
 	},
@@ -211,7 +211,7 @@
 		"code":"511923128",
 		"fullCode":"511923128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"澌岸镇",
 		"parentCode":"511923"
 	},
@@ -219,7 +219,7 @@
 		"code":"511923130",
 		"fullCode":"511923130000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"粉壁镇",
 		"parentCode":"511923"
 	},
@@ -227,7 +227,7 @@
 		"code":"511923133",
 		"fullCode":"511923133000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三十二梁镇",
 		"parentCode":"511923"
 	},
@@ -235,7 +235,7 @@
 		"code":"511923134",
 		"fullCode":"511923134000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江家口镇",
 		"parentCode":"511923"
 	},
@@ -243,7 +243,7 @@
 		"code":"511923135",
 		"fullCode":"511923135000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岩口镇",
 		"parentCode":"511923"
 	}

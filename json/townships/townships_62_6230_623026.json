@@ -3,7 +3,7 @@
 		"code":"623026100",
 		"fullCode":"623026100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郎木寺镇",
 		"parentCode":"623026"
 	},
@@ -11,7 +11,7 @@
 		"code":"623026101",
 		"fullCode":"623026101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玛艾镇",
 		"parentCode":"623026"
 	},
@@ -19,7 +19,7 @@
 		"code":"623026102",
 		"fullCode":"623026102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西仓镇",
 		"parentCode":"623026"
 	},
@@ -27,7 +27,7 @@
 		"code":"623026103",
 		"fullCode":"623026103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尕海镇",
 		"parentCode":"623026"
 	},
@@ -35,7 +35,7 @@
 		"code":"623026104",
 		"fullCode":"623026104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双岔镇",
 		"parentCode":"623026"
 	},
@@ -43,7 +43,7 @@
 		"code":"623026202",
 		"fullCode":"623026202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉仁关乡",
 		"parentCode":"623026"
 	},
@@ -51,7 +51,7 @@
 		"code":"623026204",
 		"fullCode":"623026204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿拉乡",
 		"parentCode":"623026"
 	}

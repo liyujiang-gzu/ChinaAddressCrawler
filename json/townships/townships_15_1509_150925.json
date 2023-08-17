@@ -3,7 +3,7 @@
 		"code":"150925103",
 		"fullCode":"150925103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸿茅镇",
 		"parentCode":"150925"
 	},
@@ -11,7 +11,7 @@
 		"code":"150925104",
 		"fullCode":"150925104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六苏木镇",
 		"parentCode":"150925"
 	},
@@ -19,7 +19,7 @@
 		"code":"150925105",
 		"fullCode":"150925105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦胡图镇",
 		"parentCode":"150925"
 	},
@@ -27,7 +27,7 @@
 		"code":"150925106",
 		"fullCode":"150925106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴镇",
 		"parentCode":"150925"
 	},
@@ -35,7 +35,7 @@
 		"code":"150925107",
 		"fullCode":"150925107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蛮汉镇",
 		"parentCode":"150925"
 	},
@@ -43,7 +43,7 @@
 		"code":"150925108",
 		"fullCode":"150925108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岱海镇",
 		"parentCode":"150925"
 	},
@@ -51,7 +51,7 @@
 		"code":"150925218",
 		"fullCode":"150925218000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天成乡",
 		"parentCode":"150925"
 	},
@@ -59,7 +59,7 @@
 		"code":"150925220",
 		"fullCode":"150925220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹碾满族乡",
 		"parentCode":"150925"
 	}

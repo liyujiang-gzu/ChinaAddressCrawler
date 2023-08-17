@@ -3,7 +3,7 @@
 		"code":"360202",
 		"fullCode":"360202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"昌江区",
 		"parentCode":"3602"
 	},
@@ -11,7 +11,7 @@
 		"code":"360203",
 		"fullCode":"360203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"珠山区",
 		"parentCode":"3602"
 	},
@@ -19,7 +19,7 @@
 		"code":"360222",
 		"fullCode":"360222000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"浮梁县",
 		"parentCode":"3602"
 	},
@@ -27,7 +27,7 @@
 		"code":"360281",
 		"fullCode":"360281000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乐平市",
 		"parentCode":"3602"
 	}

@@ -3,7 +3,7 @@
 		"code":"430771004",
 		"fullCode":"430771004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉街道",
 		"parentCode":"430771"
 	},
@@ -11,7 +11,7 @@
 		"code":"430771005",
 		"fullCode":"430771005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金凤街道",
 		"parentCode":"430771"
 	},
@@ -19,7 +19,7 @@
 		"code":"430771101",
 		"fullCode":"430771101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祝丰镇",
 		"parentCode":"430771"
 	}

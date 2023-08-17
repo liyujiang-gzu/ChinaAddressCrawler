@@ -3,7 +3,7 @@
 		"code":"340803001",
 		"fullCode":"340803001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德宽路街道",
 		"parentCode":"340803"
 	},
@@ -11,7 +11,7 @@
 		"code":"340803002",
 		"fullCode":"340803002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉琳路街道",
 		"parentCode":"340803"
 	},
@@ -19,7 +19,7 @@
 		"code":"340803003",
 		"fullCode":"340803003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山路街道",
 		"parentCode":"340803"
 	},
@@ -27,7 +27,7 @@
 		"code":"340803004",
 		"fullCode":"340803004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菱湖街道",
 		"parentCode":"340803"
 	},
@@ -35,7 +35,7 @@
 		"code":"340803005",
 		"fullCode":"340803005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"集贤路街道",
 		"parentCode":"340803"
 	},
@@ -43,7 +43,7 @@
 		"code":"340803006",
 		"fullCode":"340803006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石化路街道",
 		"parentCode":"340803"
 	},
@@ -51,7 +51,7 @@
 		"code":"340803007",
 		"fullCode":"340803007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花亭路街道",
 		"parentCode":"340803"
 	},
@@ -59,7 +59,7 @@
 		"code":"340803100",
 		"fullCode":"340803100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海口镇",
 		"parentCode":"340803"
 	},
@@ -67,7 +67,7 @@
 		"code":"340803200",
 		"fullCode":"340803200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十里铺乡",
 		"parentCode":"340803"
 	},
@@ -75,7 +75,7 @@
 		"code":"340803201",
 		"fullCode":"340803201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山口乡",
 		"parentCode":"340803"
 	},
@@ -83,7 +83,7 @@
 		"code":"340803400",
 		"fullCode":"340803400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大观开发区",
 		"parentCode":"340803"
 	},
@@ -91,7 +91,7 @@
 		"code":"340803401",
 		"fullCode":"340803401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安徽安庆海口经济开发区",
 		"parentCode":"340803"
 	},
@@ -99,7 +99,7 @@
 		"code":"340803500",
 		"fullCode":"340803500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皖河农场",
 		"parentCode":"340803"
 	}

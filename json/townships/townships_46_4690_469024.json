@@ -3,7 +3,7 @@
 		"code":"469024100",
 		"fullCode":"469024100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"临城镇",
 		"parentCode":"469024"
 	},
@@ -11,7 +11,7 @@
 		"code":"469024101",
 		"fullCode":"469024101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波莲镇",
 		"parentCode":"469024"
 	},
@@ -19,7 +19,7 @@
 		"code":"469024102",
 		"fullCode":"469024102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东英镇",
 		"parentCode":"469024"
 	},
@@ -27,7 +27,7 @@
 		"code":"469024103",
 		"fullCode":"469024103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博厚镇",
 		"parentCode":"469024"
 	},
@@ -35,7 +35,7 @@
 		"code":"469024104",
 		"fullCode":"469024104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"皇桐镇",
 		"parentCode":"469024"
 	},
@@ -43,7 +43,7 @@
 		"code":"469024105",
 		"fullCode":"469024105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多文镇",
 		"parentCode":"469024"
 	},
@@ -51,7 +51,7 @@
 		"code":"469024106",
 		"fullCode":"469024106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和舍镇",
 		"parentCode":"469024"
 	},
@@ -59,7 +59,7 @@
 		"code":"469024107",
 		"fullCode":"469024107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南宝镇",
 		"parentCode":"469024"
 	},
@@ -67,7 +67,7 @@
 		"code":"469024108",
 		"fullCode":"469024108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新盈镇",
 		"parentCode":"469024"
 	},
@@ -75,7 +75,7 @@
 		"code":"469024109",
 		"fullCode":"469024109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"调楼镇",
 		"parentCode":"469024"
 	},
@@ -83,7 +83,7 @@
 		"code":"469024401",
 		"fullCode":"469024401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加来镇",
 		"parentCode":"469024"
 	}

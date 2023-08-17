@@ -3,7 +3,7 @@
 		"code":"310104003",
 		"fullCode":"310104003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天平路街道",
 		"parentCode":"310104"
 	},
@@ -11,7 +11,7 @@
 		"code":"310104004",
 		"fullCode":"310104004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖南路街道",
 		"parentCode":"310104"
 	},
@@ -19,7 +19,7 @@
 		"code":"310104007",
 		"fullCode":"310104007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"斜土路街道",
 		"parentCode":"310104"
 	},
@@ -27,7 +27,7 @@
 		"code":"310104008",
 		"fullCode":"310104008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫林路街道",
 		"parentCode":"310104"
 	},
@@ -35,7 +35,7 @@
 		"code":"310104010",
 		"fullCode":"310104010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长桥街道",
 		"parentCode":"310104"
 	},
@@ -43,7 +43,7 @@
 		"code":"310104011",
 		"fullCode":"310104011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田林街道",
 		"parentCode":"310104"
 	},
@@ -51,7 +51,7 @@
 		"code":"310104012",
 		"fullCode":"310104012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虹梅路街道",
 		"parentCode":"310104"
 	},
@@ -59,7 +59,7 @@
 		"code":"310104013",
 		"fullCode":"310104013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"康健新村街道",
 		"parentCode":"310104"
 	},
@@ -67,7 +67,7 @@
 		"code":"310104014",
 		"fullCode":"310104014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐家汇街道",
 		"parentCode":"310104"
 	},
@@ -75,7 +75,7 @@
 		"code":"310104015",
 		"fullCode":"310104015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凌云路街道",
 		"parentCode":"310104"
 	},
@@ -83,7 +83,7 @@
 		"code":"310104016",
 		"fullCode":"310104016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙华街道",
 		"parentCode":"310104"
 	},
@@ -91,7 +91,7 @@
 		"code":"310104017",
 		"fullCode":"310104017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漕河泾街道",
 		"parentCode":"310104"
 	},
@@ -99,7 +99,7 @@
 		"code":"310104103",
 		"fullCode":"310104103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"华泾镇",
 		"parentCode":"310104"
 	},
@@ -107,7 +107,7 @@
 		"code":"310104501",
 		"fullCode":"310104501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漕河泾新兴技术开发区",
 		"parentCode":"310104"
 	}

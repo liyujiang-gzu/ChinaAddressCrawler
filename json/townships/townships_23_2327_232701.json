@@ -3,7 +3,7 @@
 		"code":"232701100",
 		"fullCode":"232701100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西林吉镇",
 		"parentCode":"232701"
 	},
@@ -11,7 +11,7 @@
 		"code":"232701101",
 		"fullCode":"232701101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"图强镇",
 		"parentCode":"232701"
 	},
@@ -19,7 +19,7 @@
 		"code":"232701102",
 		"fullCode":"232701102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿木尔镇",
 		"parentCode":"232701"
 	},
@@ -27,7 +27,7 @@
 		"code":"232701103",
 		"fullCode":"232701103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴安镇",
 		"parentCode":"232701"
 	},
@@ -35,7 +35,7 @@
 		"code":"232701104",
 		"fullCode":"232701104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北极镇",
 		"parentCode":"232701"
 	},
@@ -43,7 +43,7 @@
 		"code":"232701105",
 		"fullCode":"232701105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古莲镇",
 		"parentCode":"232701"
 	}

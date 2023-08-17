@@ -3,7 +3,7 @@
 		"code":"230422100",
 		"fullCode":"230422100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥滨镇",
 		"parentCode":"230422"
 	},
@@ -11,7 +11,7 @@
 		"code":"230422101",
 		"fullCode":"230422101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥东镇",
 		"parentCode":"230422"
 	},
@@ -19,7 +19,7 @@
 		"code":"230422102",
 		"fullCode":"230422102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忠仁镇",
 		"parentCode":"230422"
 	},
@@ -27,7 +27,7 @@
 		"code":"230422200",
 		"fullCode":"230422200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连生乡",
 		"parentCode":"230422"
 	},
@@ -35,7 +35,7 @@
 		"code":"230422201",
 		"fullCode":"230422201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北岗乡",
 		"parentCode":"230422"
 	},
@@ -43,7 +43,7 @@
 		"code":"230422202",
 		"fullCode":"230422202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富强乡",
 		"parentCode":"230422"
 	},
@@ -51,7 +51,7 @@
 		"code":"230422203",
 		"fullCode":"230422203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北山乡",
 		"parentCode":"230422"
 	},
@@ -59,7 +59,7 @@
 		"code":"230422204",
 		"fullCode":"230422204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"福兴乡",
 		"parentCode":"230422"
 	},
@@ -67,7 +67,7 @@
 		"code":"230422205",
 		"fullCode":"230422205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新富乡",
 		"parentCode":"230422"
 	},
@@ -75,7 +75,7 @@
 		"code":"230422400",
 		"fullCode":"230422400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥滨西林场",
 		"parentCode":"230422"
 	},
@@ -83,7 +83,7 @@
 		"code":"230422401",
 		"fullCode":"230422401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营中兴边防林场",
 		"parentCode":"230422"
 	},
@@ -91,7 +91,7 @@
 		"code":"230422480",
 		"fullCode":"230422480000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忠仁镇良种场",
 		"parentCode":"230422"
 	},
@@ -99,7 +99,7 @@
 		"code":"230422481",
 		"fullCode":"230422481000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥东镇种畜场",
 		"parentCode":"230422"
 	},
@@ -107,7 +107,7 @@
 		"code":"230422500",
 		"fullCode":"230422500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二九〇农场",
 		"parentCode":"230422"
 	},
@@ -115,7 +115,7 @@
 		"code":"230422501",
 		"fullCode":"230422501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"绥滨农场",
 		"parentCode":"230422"
 	},
@@ -123,7 +123,7 @@
 		"code":"230422503",
 		"fullCode":"230422503000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普阳农场",
 		"parentCode":"230422"
 	}

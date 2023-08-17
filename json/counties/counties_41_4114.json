@@ -3,7 +3,7 @@
 		"code":"411402",
 		"fullCode":"411402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"梁园区",
 		"parentCode":"4114"
 	},
@@ -11,7 +11,7 @@
 		"code":"411403",
 		"fullCode":"411403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"睢阳区",
 		"parentCode":"4114"
 	},
@@ -19,7 +19,7 @@
 		"code":"411421",
 		"fullCode":"411421000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"民权县",
 		"parentCode":"4114"
 	},
@@ -27,7 +27,7 @@
 		"code":"411422",
 		"fullCode":"411422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"睢县",
 		"parentCode":"4114"
 	},
@@ -35,7 +35,7 @@
 		"code":"411423",
 		"fullCode":"411423000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"宁陵县",
 		"parentCode":"4114"
 	},
@@ -43,7 +43,7 @@
 		"code":"411424",
 		"fullCode":"411424000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"柘城县",
 		"parentCode":"4114"
 	},
@@ -51,7 +51,7 @@
 		"code":"411425",
 		"fullCode":"411425000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"虞城县",
 		"parentCode":"4114"
 	},
@@ -59,7 +59,7 @@
 		"code":"411426",
 		"fullCode":"411426000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"夏邑县",
 		"parentCode":"4114"
 	},
@@ -67,7 +67,7 @@
 		"code":"411471",
 		"fullCode":"411471000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"豫东综合物流产业聚集区",
 		"parentCode":"4114"
 	},
@@ -75,7 +75,7 @@
 		"code":"411472",
 		"fullCode":"411472000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"河南商丘经济开发区",
 		"parentCode":"4114"
 	},
@@ -83,7 +83,7 @@
 		"code":"411481",
 		"fullCode":"411481000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"永城市",
 		"parentCode":"4114"
 	}

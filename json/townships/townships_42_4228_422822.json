@@ -3,7 +3,7 @@
 		"code":"422822100",
 		"fullCode":"422822100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"业州镇",
 		"parentCode":"422822"
 	},
@@ -11,7 +11,7 @@
 		"code":"422822101",
 		"fullCode":"422822101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坪镇",
 		"parentCode":"422822"
 	},
@@ -19,7 +19,7 @@
 		"code":"422822102",
 		"fullCode":"422822102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红岩寺镇",
 		"parentCode":"422822"
 	},
@@ -27,7 +27,7 @@
 		"code":"422822103",
 		"fullCode":"422822103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"景阳镇",
 		"parentCode":"422822"
 	},
@@ -35,7 +35,7 @@
 		"code":"422822104",
 		"fullCode":"422822104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官店镇",
 		"parentCode":"422822"
 	},
@@ -43,7 +43,7 @@
 		"code":"422822105",
 		"fullCode":"422822105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花坪镇",
 		"parentCode":"422822"
 	},
@@ -51,7 +51,7 @@
 		"code":"422822106",
 		"fullCode":"422822106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长梁镇",
 		"parentCode":"422822"
 	},
@@ -59,7 +59,7 @@
 		"code":"422822201",
 		"fullCode":"422822201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茅田乡",
 		"parentCode":"422822"
 	},
@@ -67,7 +67,7 @@
 		"code":"422822202",
 		"fullCode":"422822202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙坪乡",
 		"parentCode":"422822"
 	},
@@ -75,7 +75,7 @@
 		"code":"422822203",
 		"fullCode":"422822203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三里乡",
 		"parentCode":"422822"
 	}

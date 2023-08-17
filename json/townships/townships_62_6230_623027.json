@@ -3,7 +3,7 @@
 		"code":"623027100",
 		"fullCode":"623027100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拉卜楞镇",
 		"parentCode":"623027"
 	},
@@ -11,7 +11,7 @@
 		"code":"623027101",
 		"fullCode":"623027101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王格尔塘镇",
 		"parentCode":"623027"
 	},
@@ -19,7 +19,7 @@
 		"code":"623027102",
 		"fullCode":"623027102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿木去乎镇",
 		"parentCode":"623027"
 	},
@@ -27,7 +27,7 @@
 		"code":"623027103",
 		"fullCode":"623027103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桑科镇",
 		"parentCode":"623027"
 	},
@@ -35,7 +35,7 @@
 		"code":"623027104",
 		"fullCode":"623027104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘加镇",
 		"parentCode":"623027"
 	},
@@ -43,7 +43,7 @@
 		"code":"623027105",
 		"fullCode":"623027105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻当镇",
 		"parentCode":"623027"
 	},
@@ -51,7 +51,7 @@
 		"code":"623027106",
 		"fullCode":"623027106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"博拉镇",
 		"parentCode":"623027"
 	},
@@ -59,7 +59,7 @@
 		"code":"623027107",
 		"fullCode":"623027107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科才镇",
 		"parentCode":"623027"
 	},
@@ -67,7 +67,7 @@
 		"code":"623027202",
 		"fullCode":"623027202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"达麦乡",
 		"parentCode":"623027"
 	},
@@ -75,7 +75,7 @@
 		"code":"623027204",
 		"fullCode":"623027204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曲奥乡",
 		"parentCode":"623027"
 	},
@@ -83,7 +83,7 @@
 		"code":"623027205",
 		"fullCode":"623027205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐尕昂乡",
 		"parentCode":"623027"
 	},
@@ -91,7 +91,7 @@
 		"code":"623027206",
 		"fullCode":"623027206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"扎油乡",
 		"parentCode":"623027"
 	},
@@ -99,7 +99,7 @@
 		"code":"623027208",
 		"fullCode":"623027208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉仓乡",
 		"parentCode":"623027"
 	}

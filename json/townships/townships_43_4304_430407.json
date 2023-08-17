@@ -3,7 +3,7 @@
 		"code":"430407001",
 		"fullCode":"430407001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"人民街道",
 		"parentCode":"430407"
 	},
@@ -11,7 +11,7 @@
 		"code":"430407002",
 		"fullCode":"430407002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山街道",
 		"parentCode":"430407"
 	},
@@ -19,7 +19,7 @@
 		"code":"430407003",
 		"fullCode":"430407003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潇湘街道",
 		"parentCode":"430407"
 	},
@@ -27,7 +27,7 @@
 		"code":"430407004",
 		"fullCode":"430407004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五一街道",
 		"parentCode":"430407"
 	},
@@ -35,7 +35,7 @@
 		"code":"430407005",
 		"fullCode":"430407005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"合江街道",
 		"parentCode":"430407"
 	},
@@ -43,7 +43,7 @@
 		"code":"430407006",
 		"fullCode":"430407006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄沙湾街道",
 		"parentCode":"430407"
 	},
@@ -51,7 +51,7 @@
 		"code":"430407100",
 		"fullCode":"430407100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"角山镇",
 		"parentCode":"430407"
 	}

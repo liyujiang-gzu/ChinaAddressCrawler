@@ -3,7 +3,7 @@
 		"code":"533422101",
 		"fullCode":"533422101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"升平镇",
 		"parentCode":"533422"
 	},
@@ -11,7 +11,7 @@
 		"code":"533422102",
 		"fullCode":"533422102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"奔子栏镇",
 		"parentCode":"533422"
 	},
@@ -19,7 +19,7 @@
 		"code":"533422201",
 		"fullCode":"533422201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佛山乡",
 		"parentCode":"533422"
 	},
@@ -27,7 +27,7 @@
 		"code":"533422202",
 		"fullCode":"533422202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云岭乡",
 		"parentCode":"533422"
 	},
@@ -35,7 +35,7 @@
 		"code":"533422203",
 		"fullCode":"533422203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕门乡",
 		"parentCode":"533422"
 	},
@@ -43,7 +43,7 @@
 		"code":"533422204",
 		"fullCode":"533422204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"拖顶傈僳族乡",
 		"parentCode":"533422"
 	},
@@ -51,7 +51,7 @@
 		"code":"533422205",
 		"fullCode":"533422205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霞若傈僳族乡",
 		"parentCode":"533422"
 	},
@@ -59,7 +59,7 @@
 		"code":"533422206",
 		"fullCode":"533422206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊拉乡",
 		"parentCode":"533422"
 	}

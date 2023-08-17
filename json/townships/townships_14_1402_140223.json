@@ -3,7 +3,7 @@
 		"code":"140223100",
 		"fullCode":"140223100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"壶泉镇",
 		"parentCode":"140223"
 	},
@@ -11,7 +11,7 @@
 		"code":"140223101",
 		"fullCode":"140223101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南村镇",
 		"parentCode":"140223"
 	},
@@ -19,7 +19,7 @@
 		"code":"140223102",
 		"fullCode":"140223102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"加斗镇",
 		"parentCode":"140223"
 	},
@@ -27,7 +27,7 @@
 		"code":"140223103",
 		"fullCode":"140223103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"作疃镇",
 		"parentCode":"140223"
 	},
@@ -35,7 +35,7 @@
 		"code":"140223104",
 		"fullCode":"140223104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梁庄镇",
 		"parentCode":"140223"
 	},
@@ -43,7 +43,7 @@
 		"code":"140223200",
 		"fullCode":"140223200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"一斗泉乡",
 		"parentCode":"140223"
 	},
@@ -51,7 +51,7 @@
 		"code":"140223202",
 		"fullCode":"140223202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蕉山乡",
 		"parentCode":"140223"
 	},
@@ -59,7 +59,7 @@
 		"code":"140223206",
 		"fullCode":"140223206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宜兴乡",
 		"parentCode":"140223"
 	}

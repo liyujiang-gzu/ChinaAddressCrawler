@@ -3,7 +3,7 @@
 		"code":"530302001",
 		"fullCode":"530302001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南宁街道",
 		"parentCode":"530302"
 	},
@@ -11,7 +11,7 @@
 		"code":"530302002",
 		"fullCode":"530302002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建宁街道",
 		"parentCode":"530302"
 	},
@@ -19,7 +19,7 @@
 		"code":"530302003",
 		"fullCode":"530302003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白石江街道",
 		"parentCode":"530302"
 	},
@@ -27,7 +27,7 @@
 		"code":"530302004",
 		"fullCode":"530302004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"寥廓街道",
 		"parentCode":"530302"
 	},
@@ -35,7 +35,7 @@
 		"code":"530302005",
 		"fullCode":"530302005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"530302"
 	},
@@ -43,7 +43,7 @@
 		"code":"530302006",
 		"fullCode":"530302006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"益宁街道",
 		"parentCode":"530302"
 	},
@@ -51,7 +51,7 @@
 		"code":"530302007",
 		"fullCode":"530302007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文华街道",
 		"parentCode":"530302"
 	},
@@ -59,7 +59,7 @@
 		"code":"530302008",
 		"fullCode":"530302008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和街道",
 		"parentCode":"530302"
 	},
@@ -67,7 +67,7 @@
 		"code":"530302009",
 		"fullCode":"530302009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"潇湘街道",
 		"parentCode":"530302"
 	},
@@ -75,7 +75,7 @@
 		"code":"530302010",
 		"fullCode":"530302010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"翠峰街道",
 		"parentCode":"530302"
 	},
@@ -83,7 +83,7 @@
 		"code":"530302011",
 		"fullCode":"530302011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三宝街道",
 		"parentCode":"530302"
 	},
@@ -91,7 +91,7 @@
 		"code":"530302012",
 		"fullCode":"530302012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿江街道",
 		"parentCode":"530302"
 	},
@@ -99,7 +99,7 @@
 		"code":"530302013",
 		"fullCode":"530302013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珠街街道",
 		"parentCode":"530302"
 	},
@@ -107,7 +107,7 @@
 		"code":"530302102",
 		"fullCode":"530302102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"越州镇",
 		"parentCode":"530302"
 	},
@@ -115,7 +115,7 @@
 		"code":"530302103",
 		"fullCode":"530302103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山镇",
 		"parentCode":"530302"
 	},
@@ -123,7 +123,7 @@
 		"code":"530302104",
 		"fullCode":"530302104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨营镇",
 		"parentCode":"530302"
 	}

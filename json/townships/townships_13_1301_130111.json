@@ -3,7 +3,7 @@
 		"code":"130111100",
 		"fullCode":"130111100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"栾城镇",
 		"parentCode":"130111"
 	},
@@ -11,7 +11,7 @@
 		"code":"130111103",
 		"fullCode":"130111103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冶河镇",
 		"parentCode":"130111"
 	},
@@ -19,7 +19,7 @@
 		"code":"130111104",
 		"fullCode":"130111104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"窦妪镇",
 		"parentCode":"130111"
 	},
@@ -27,7 +27,7 @@
 		"code":"130111105",
 		"fullCode":"130111105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楼底镇",
 		"parentCode":"130111"
 	},
@@ -35,7 +35,7 @@
 		"code":"130111200",
 		"fullCode":"130111200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南高乡",
 		"parentCode":"130111"
 	},
@@ -43,7 +43,7 @@
 		"code":"130111201",
 		"fullCode":"130111201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳林屯乡",
 		"parentCode":"130111"
 	},
@@ -51,7 +51,7 @@
 		"code":"130111202",
 		"fullCode":"130111202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西营乡",
 		"parentCode":"130111"
 	}

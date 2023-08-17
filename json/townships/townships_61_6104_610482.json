@@ -3,7 +3,7 @@
 		"code":"610482001",
 		"fullCode":"610482001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关街道",
 		"parentCode":"610482"
 	},
@@ -11,7 +11,7 @@
 		"code":"610482002",
 		"fullCode":"610482002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"豳风街道",
 		"parentCode":"610482"
 	},
@@ -19,7 +19,7 @@
 		"code":"610482101",
 		"fullCode":"610482101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北极镇",
 		"parentCode":"610482"
 	},
@@ -27,7 +27,7 @@
 		"code":"610482102",
 		"fullCode":"610482102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新民镇",
 		"parentCode":"610482"
 	},
@@ -35,7 +35,7 @@
 		"code":"610482103",
 		"fullCode":"610482103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙高镇",
 		"parentCode":"610482"
 	},
@@ -43,7 +43,7 @@
 		"code":"610482105",
 		"fullCode":"610482105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永乐镇",
 		"parentCode":"610482"
 	},
@@ -51,7 +51,7 @@
 		"code":"610482106",
 		"fullCode":"610482106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义门镇",
 		"parentCode":"610482"
 	},
@@ -59,7 +59,7 @@
 		"code":"610482107",
 		"fullCode":"610482107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水口镇",
 		"parentCode":"610482"
 	},
@@ -67,7 +67,7 @@
 		"code":"610482108",
 		"fullCode":"610482108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩家镇",
 		"parentCode":"610482"
 	},
@@ -75,7 +75,7 @@
 		"code":"610482109",
 		"fullCode":"610482109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太峪镇",
 		"parentCode":"610482"
 	}

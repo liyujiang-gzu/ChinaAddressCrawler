@@ -3,7 +3,7 @@
 		"code":"140525100",
 		"fullCode":"140525100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南村镇",
 		"parentCode":"140525"
 	},
@@ -11,7 +11,7 @@
 		"code":"140525101",
 		"fullCode":"140525101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下村镇",
 		"parentCode":"140525"
 	},
@@ -19,7 +19,7 @@
 		"code":"140525102",
 		"fullCode":"140525102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大东沟镇",
 		"parentCode":"140525"
 	},
@@ -27,7 +27,7 @@
 		"code":"140525103",
 		"fullCode":"140525103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周村镇",
 		"parentCode":"140525"
 	},
@@ -35,7 +35,7 @@
 		"code":"140525104",
 		"fullCode":"140525104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"犁川镇",
 		"parentCode":"140525"
 	},
@@ -43,7 +43,7 @@
 		"code":"140525105",
 		"fullCode":"140525105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋庙铺镇",
 		"parentCode":"140525"
 	},
@@ -51,7 +51,7 @@
 		"code":"140525106",
 		"fullCode":"140525106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金村镇",
 		"parentCode":"140525"
 	},
@@ -59,7 +59,7 @@
 		"code":"140525107",
 		"fullCode":"140525107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高都镇",
 		"parentCode":"140525"
 	},
@@ -67,7 +67,7 @@
 		"code":"140525108",
 		"fullCode":"140525108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴公镇",
 		"parentCode":"140525"
 	},
@@ -75,7 +75,7 @@
 		"code":"140525109",
 		"fullCode":"140525109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大阳镇",
 		"parentCode":"140525"
 	},
@@ -83,7 +83,7 @@
 		"code":"140525110",
 		"fullCode":"140525110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"山河镇",
 		"parentCode":"140525"
 	},
@@ -91,7 +91,7 @@
 		"code":"140525111",
 		"fullCode":"140525111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大箕镇",
 		"parentCode":"140525"
 	},
@@ -99,7 +99,7 @@
 		"code":"140525112",
 		"fullCode":"140525112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳树口镇",
 		"parentCode":"140525"
 	},
@@ -107,7 +107,7 @@
 		"code":"140525113",
 		"fullCode":"140525113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北义城镇",
 		"parentCode":"140525"
 	},
@@ -115,7 +115,7 @@
 		"code":"140525114",
 		"fullCode":"140525114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川底镇",
 		"parentCode":"140525"
 	},
@@ -123,7 +123,7 @@
 		"code":"140525115",
 		"fullCode":"140525115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南岭镇",
 		"parentCode":"140525"
 	}

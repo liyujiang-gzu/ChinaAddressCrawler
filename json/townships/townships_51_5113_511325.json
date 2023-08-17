@@ -3,7 +3,7 @@
 		"code":"511325001",
 		"fullCode":"511325001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南台街道",
 		"parentCode":"511325"
 	},
@@ -11,7 +11,7 @@
 		"code":"511325002",
 		"fullCode":"511325002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋城街道",
 		"parentCode":"511325"
 	},
@@ -19,7 +19,7 @@
 		"code":"511325101",
 		"fullCode":"511325101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平镇",
 		"parentCode":"511325"
 	},
@@ -27,7 +27,7 @@
 		"code":"511325102",
 		"fullCode":"511325102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大全镇",
 		"parentCode":"511325"
 	},
@@ -35,7 +35,7 @@
 		"code":"511325103",
 		"fullCode":"511325103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙林镇",
 		"parentCode":"511325"
 	},
@@ -43,7 +43,7 @@
 		"code":"511325104",
 		"fullCode":"511325104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古楼镇",
 		"parentCode":"511325"
 	},
@@ -51,7 +51,7 @@
 		"code":"511325105",
 		"fullCode":"511325105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"义兴镇",
 		"parentCode":"511325"
 	},
@@ -59,7 +59,7 @@
 		"code":"511325106",
 		"fullCode":"511325106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"关文镇",
 		"parentCode":"511325"
 	},
@@ -67,7 +67,7 @@
 		"code":"511325107",
 		"fullCode":"511325107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤鸣镇",
 		"parentCode":"511325"
 	},
@@ -75,7 +75,7 @@
 		"code":"511325108",
 		"fullCode":"511325108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青狮镇",
 		"parentCode":"511325"
 	},
@@ -83,7 +83,7 @@
 		"code":"511325109",
 		"fullCode":"511325109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槐树镇",
 		"parentCode":"511325"
 	},
@@ -91,7 +91,7 @@
 		"code":"511325110",
 		"fullCode":"511325110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鸣龙镇",
 		"parentCode":"511325"
 	},
@@ -99,7 +99,7 @@
 		"code":"511325111",
 		"fullCode":"511325111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双凤镇",
 		"parentCode":"511325"
 	},
@@ -107,7 +107,7 @@
 		"code":"511325112",
 		"fullCode":"511325112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高院镇",
 		"parentCode":"511325"
 	},
@@ -115,7 +115,7 @@
 		"code":"511325113",
 		"fullCode":"511325113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仁和镇",
 		"parentCode":"511325"
 	},
@@ -123,7 +123,7 @@
 		"code":"511325114",
 		"fullCode":"511325114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"多扶镇",
 		"parentCode":"511325"
 	},
@@ -131,7 +131,7 @@
 		"code":"511325115",
 		"fullCode":"511325115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲池镇",
 		"parentCode":"511325"
 	},
@@ -139,7 +139,7 @@
 		"code":"511325116",
 		"fullCode":"511325116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常林镇",
 		"parentCode":"511325"
 	},
@@ -147,7 +147,7 @@
 		"code":"511325203",
 		"fullCode":"511325203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"占山乡",
 		"parentCode":"511325"
 	},
@@ -155,7 +155,7 @@
 		"code":"511325226",
 		"fullCode":"511325226000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"祥龙乡",
 		"parentCode":"511325"
 	},
@@ -163,7 +163,7 @@
 		"code":"511325227",
 		"fullCode":"511325227000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车龙乡",
 		"parentCode":"511325"
 	},
@@ -171,7 +171,7 @@
 		"code":"511325229",
 		"fullCode":"511325229000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东太乡",
 		"parentCode":"511325"
 	},
@@ -179,7 +179,7 @@
 		"code":"511325232",
 		"fullCode":"511325232000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罐垭乡",
 		"parentCode":"511325"
 	}

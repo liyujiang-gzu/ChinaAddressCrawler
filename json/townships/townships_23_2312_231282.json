@@ -3,7 +3,7 @@
 		"code":"231282001",
 		"fullCode":"231282001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"朝阳区街道",
 		"parentCode":"231282"
 	},
@@ -11,7 +11,7 @@
 		"code":"231282002",
 		"fullCode":"231282002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东升区街道",
 		"parentCode":"231282"
 	},
@@ -19,7 +19,7 @@
 		"code":"231282003",
 		"fullCode":"231282003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西园区街道",
 		"parentCode":"231282"
 	},
@@ -27,7 +27,7 @@
 		"code":"231282004",
 		"fullCode":"231282004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"正阳区街道",
 		"parentCode":"231282"
 	},
@@ -35,7 +35,7 @@
 		"code":"231282100",
 		"fullCode":"231282100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肇东镇",
 		"parentCode":"231282"
 	},
@@ -43,7 +43,7 @@
 		"code":"231282101",
 		"fullCode":"231282101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昌五镇",
 		"parentCode":"231282"
 	},
@@ -51,7 +51,7 @@
 		"code":"231282102",
 		"fullCode":"231282102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宋站镇",
 		"parentCode":"231282"
 	},
@@ -59,7 +59,7 @@
 		"code":"231282103",
 		"fullCode":"231282103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五站镇",
 		"parentCode":"231282"
 	},
@@ -67,7 +67,7 @@
 		"code":"231282104",
 		"fullCode":"231282104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚家镇",
 		"parentCode":"231282"
 	},
@@ -75,7 +75,7 @@
 		"code":"231282105",
 		"fullCode":"231282105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜家镇",
 		"parentCode":"231282"
 	},
@@ -83,7 +83,7 @@
 		"code":"231282106",
 		"fullCode":"231282106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"里木店镇",
 		"parentCode":"231282"
 	},
@@ -91,7 +91,7 @@
 		"code":"231282107",
 		"fullCode":"231282107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四站镇",
 		"parentCode":"231282"
 	},
@@ -99,7 +99,7 @@
 		"code":"231282108",
 		"fullCode":"231282108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涝洲镇",
 		"parentCode":"231282"
 	},
@@ -107,7 +107,7 @@
 		"code":"231282109",
 		"fullCode":"231282109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里明镇",
 		"parentCode":"231282"
 	},
@@ -115,7 +115,7 @@
 		"code":"231282110",
 		"fullCode":"231282110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黎明镇",
 		"parentCode":"231282"
 	},
@@ -123,7 +123,7 @@
 		"code":"231282111",
 		"fullCode":"231282111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西八里镇",
 		"parentCode":"231282"
 	},
@@ -131,7 +131,7 @@
 		"code":"231282112",
 		"fullCode":"231282112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海城镇",
 		"parentCode":"231282"
 	},
@@ -139,7 +139,7 @@
 		"code":"231282201",
 		"fullCode":"231282201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平乡",
 		"parentCode":"231282"
 	},
@@ -147,7 +147,7 @@
 		"code":"231282204",
 		"fullCode":"231282204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向阳乡",
 		"parentCode":"231282"
 	},
@@ -155,7 +155,7 @@
 		"code":"231282205",
 		"fullCode":"231282205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪河乡",
 		"parentCode":"231282"
 	},
@@ -163,7 +163,7 @@
 		"code":"231282206",
 		"fullCode":"231282206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"跃进乡",
 		"parentCode":"231282"
 	},
@@ -171,7 +171,7 @@
 		"code":"231282212",
 		"fullCode":"231282212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德昌乡",
 		"parentCode":"231282"
 	},
@@ -179,7 +179,7 @@
 		"code":"231282213",
 		"fullCode":"231282213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宣化乡",
 		"parentCode":"231282"
 	},
@@ -187,7 +187,7 @@
 		"code":"231282214",
 		"fullCode":"231282214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安民乡",
 		"parentCode":"231282"
 	},
@@ -195,7 +195,7 @@
 		"code":"231282215",
 		"fullCode":"231282215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明久乡",
 		"parentCode":"231282"
 	},
@@ -203,7 +203,7 @@
 		"code":"231282500",
 		"fullCode":"231282500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四方山农场",
 		"parentCode":"231282"
 	},
@@ -211,7 +211,7 @@
 		"code":"231282501",
 		"fullCode":"231282501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涝洲鱼种场",
 		"parentCode":"231282"
 	}

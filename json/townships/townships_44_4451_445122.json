@@ -3,7 +3,7 @@
 		"code":"445122100",
 		"fullCode":"445122100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄冈镇",
 		"parentCode":"445122"
 	},
@@ -11,7 +11,7 @@
 		"code":"445122102",
 		"fullCode":"445122102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上饶镇",
 		"parentCode":"445122"
 	},
@@ -19,7 +19,7 @@
 		"code":"445122103",
 		"fullCode":"445122103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"饶洋镇",
 		"parentCode":"445122"
 	},
@@ -27,7 +27,7 @@
 		"code":"445122104",
 		"fullCode":"445122104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新丰镇",
 		"parentCode":"445122"
 	},
@@ -35,7 +35,7 @@
 		"code":"445122106",
 		"fullCode":"445122106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建饶镇",
 		"parentCode":"445122"
 	},
@@ -43,7 +43,7 @@
 		"code":"445122107",
 		"fullCode":"445122107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三饶镇",
 		"parentCode":"445122"
 	},
@@ -51,7 +51,7 @@
 		"code":"445122108",
 		"fullCode":"445122108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新塘镇",
 		"parentCode":"445122"
 	},
@@ -59,7 +59,7 @@
 		"code":"445122109",
 		"fullCode":"445122109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤溪镇",
 		"parentCode":"445122"
 	},
@@ -67,7 +67,7 @@
 		"code":"445122110",
 		"fullCode":"445122110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浮滨镇",
 		"parentCode":"445122"
 	},
@@ -75,7 +75,7 @@
 		"code":"445122112",
 		"fullCode":"445122112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"浮山镇",
 		"parentCode":"445122"
 	},
@@ -83,7 +83,7 @@
 		"code":"445122113",
 		"fullCode":"445122113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东山镇",
 		"parentCode":"445122"
 	},
@@ -91,7 +91,7 @@
 		"code":"445122114",
 		"fullCode":"445122114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新圩镇",
 		"parentCode":"445122"
 	},
@@ -99,7 +99,7 @@
 		"code":"445122116",
 		"fullCode":"445122116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樟溪镇",
 		"parentCode":"445122"
 	},
@@ -107,7 +107,7 @@
 		"code":"445122117",
 		"fullCode":"445122117000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱东镇",
 		"parentCode":"445122"
 	},
@@ -115,7 +115,7 @@
 		"code":"445122118",
 		"fullCode":"445122118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高堂镇",
 		"parentCode":"445122"
 	},
@@ -123,7 +123,7 @@
 		"code":"445122119",
 		"fullCode":"445122119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联饶镇",
 		"parentCode":"445122"
 	},
@@ -131,7 +131,7 @@
 		"code":"445122120",
 		"fullCode":"445122120000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"所城镇",
 		"parentCode":"445122"
 	},
@@ -139,7 +139,7 @@
 		"code":"445122121",
 		"fullCode":"445122121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大埕镇",
 		"parentCode":"445122"
 	},
@@ -147,7 +147,7 @@
 		"code":"445122122",
 		"fullCode":"445122122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柘林镇",
 		"parentCode":"445122"
 	},
@@ -155,7 +155,7 @@
 		"code":"445122123",
 		"fullCode":"445122123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汫洲镇",
 		"parentCode":"445122"
 	},
@@ -163,7 +163,7 @@
 		"code":"445122124",
 		"fullCode":"445122124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海山镇",
 		"parentCode":"445122"
 	}

@@ -3,7 +3,7 @@
 		"code":"370826001",
 		"fullCode":"370826001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏镇街道",
 		"parentCode":"370826"
 	},
@@ -11,7 +11,7 @@
 		"code":"370826002",
 		"fullCode":"370826002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昭阳街道",
 		"parentCode":"370826"
 	},
@@ -19,7 +19,7 @@
 		"code":"370826003",
 		"fullCode":"370826003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"傅村街道",
 		"parentCode":"370826"
 	},
@@ -27,7 +27,7 @@
 		"code":"370826101",
 		"fullCode":"370826101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韩庄镇",
 		"parentCode":"370826"
 	},
@@ -35,7 +35,7 @@
 		"code":"370826102",
 		"fullCode":"370826102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"欢城镇",
 		"parentCode":"370826"
 	},
@@ -43,7 +43,7 @@
 		"code":"370826103",
 		"fullCode":"370826103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南阳镇",
 		"parentCode":"370826"
 	},
@@ -51,7 +51,7 @@
 		"code":"370826104",
 		"fullCode":"370826104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁桥镇",
 		"parentCode":"370826"
 	},
@@ -59,7 +59,7 @@
 		"code":"370826106",
 		"fullCode":"370826106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留庄镇",
 		"parentCode":"370826"
 	},
@@ -67,7 +67,7 @@
 		"code":"370826107",
 		"fullCode":"370826107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"两城镇",
 		"parentCode":"370826"
 	},
@@ -75,7 +75,7 @@
 		"code":"370826108",
 		"fullCode":"370826108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坡镇",
 		"parentCode":"370826"
 	},
@@ -83,7 +83,7 @@
 		"code":"370826109",
 		"fullCode":"370826109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赵庙镇",
 		"parentCode":"370826"
 	},
@@ -91,7 +91,7 @@
 		"code":"370826110",
 		"fullCode":"370826110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张楼镇",
 		"parentCode":"370826"
 	},
@@ -99,7 +99,7 @@
 		"code":"370826111",
 		"fullCode":"370826111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"微山岛镇",
 		"parentCode":"370826"
 	},
@@ -107,7 +107,7 @@
 		"code":"370826112",
 		"fullCode":"370826112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西平镇",
 		"parentCode":"370826"
 	},
@@ -115,7 +115,7 @@
 		"code":"370826206",
 		"fullCode":"370826206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高楼乡",
 		"parentCode":"370826"
 	}

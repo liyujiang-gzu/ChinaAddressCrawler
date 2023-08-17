@@ -3,7 +3,7 @@
 		"code":"620902001",
 		"fullCode":"620902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东北街街道",
 		"parentCode":"620902"
 	},
@@ -11,7 +11,7 @@
 		"code":"620902002",
 		"fullCode":"620902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东南街街道",
 		"parentCode":"620902"
 	},
@@ -19,7 +19,7 @@
 		"code":"620902003",
 		"fullCode":"620902003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工业园街道",
 		"parentCode":"620902"
 	},
@@ -27,7 +27,7 @@
 		"code":"620902004",
 		"fullCode":"620902004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"620902"
 	},
@@ -35,7 +35,7 @@
 		"code":"620902005",
 		"fullCode":"620902005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西北街街道",
 		"parentCode":"620902"
 	},
@@ -43,7 +43,7 @@
 		"code":"620902006",
 		"fullCode":"620902006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西南街街道",
 		"parentCode":"620902"
 	},
@@ -51,7 +51,7 @@
 		"code":"620902007",
 		"fullCode":"620902007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉门油田生活基地街道",
 		"parentCode":"620902"
 	},
@@ -59,7 +59,7 @@
 		"code":"620902100",
 		"fullCode":"620902100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西洞镇",
 		"parentCode":"620902"
 	},
@@ -67,7 +67,7 @@
 		"code":"620902101",
 		"fullCode":"620902101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水镇",
 		"parentCode":"620902"
 	},
@@ -75,7 +75,7 @@
 		"code":"620902102",
 		"fullCode":"620902102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"总寨镇",
 		"parentCode":"620902"
 	},
@@ -83,7 +83,7 @@
 		"code":"620902103",
 		"fullCode":"620902103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金佛寺镇",
 		"parentCode":"620902"
 	},
@@ -91,7 +91,7 @@
 		"code":"620902104",
 		"fullCode":"620902104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上坝镇",
 		"parentCode":"620902"
 	},
@@ -99,7 +99,7 @@
 		"code":"620902105",
 		"fullCode":"620902105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三墩镇",
 		"parentCode":"620902"
 	},
@@ -107,7 +107,7 @@
 		"code":"620902106",
 		"fullCode":"620902106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"银达镇",
 		"parentCode":"620902"
 	},
@@ -115,7 +115,7 @@
 		"code":"620902107",
 		"fullCode":"620902107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西峰镇",
 		"parentCode":"620902"
 	},
@@ -123,7 +123,7 @@
 		"code":"620902108",
 		"fullCode":"620902108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉湖镇",
 		"parentCode":"620902"
 	},
@@ -131,7 +131,7 @@
 		"code":"620902109",
 		"fullCode":"620902109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"果园镇",
 		"parentCode":"620902"
 	},
@@ -139,7 +139,7 @@
 		"code":"620902110",
 		"fullCode":"620902110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下河清镇",
 		"parentCode":"620902"
 	},
@@ -147,7 +147,7 @@
 		"code":"620902111",
 		"fullCode":"620902111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铧尖镇",
 		"parentCode":"620902"
 	},
@@ -155,7 +155,7 @@
 		"code":"620902112",
 		"fullCode":"620902112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东洞镇",
 		"parentCode":"620902"
 	},
@@ -163,7 +163,7 @@
 		"code":"620902113",
 		"fullCode":"620902113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰乐镇",
 		"parentCode":"620902"
 	},
@@ -171,7 +171,7 @@
 		"code":"620902207",
 		"fullCode":"620902207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄泥堡乡",
 		"parentCode":"620902"
 	},
@@ -179,7 +179,7 @@
 		"code":"620902403",
 		"fullCode":"620902403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"酒泉经济技术开发区",
 		"parentCode":"620902"
 	},
@@ -187,7 +187,7 @@
 		"code":"620902404",
 		"fullCode":"620902404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"十号基地",
 		"parentCode":"620902"
 	}

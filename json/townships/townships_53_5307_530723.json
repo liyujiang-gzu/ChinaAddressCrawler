@@ -3,7 +3,7 @@
 		"code":"530723101",
 		"fullCode":"530723101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中心镇",
 		"parentCode":"530723"
 	},
@@ -11,7 +11,7 @@
 		"code":"530723102",
 		"fullCode":"530723102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荣将镇",
 		"parentCode":"530723"
 	},
@@ -19,7 +19,7 @@
 		"code":"530723103",
 		"fullCode":"530723103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴泉镇",
 		"parentCode":"530723"
 	},
@@ -27,7 +27,7 @@
 		"code":"530723104",
 		"fullCode":"530723104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石龙坝镇",
 		"parentCode":"530723"
 	},
@@ -35,7 +35,7 @@
 		"code":"530723202",
 		"fullCode":"530723202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新庄傈僳族傣族乡",
 		"parentCode":"530723"
 	},
@@ -43,7 +43,7 @@
 		"code":"530723203",
 		"fullCode":"530723203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通达傈僳族乡",
 		"parentCode":"530723"
 	},
@@ -51,7 +51,7 @@
 		"code":"530723204",
 		"fullCode":"530723204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永兴傈僳族乡",
 		"parentCode":"530723"
 	},
@@ -59,7 +59,7 @@
 		"code":"530723205",
 		"fullCode":"530723205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"船房傈僳族傣族乡",
 		"parentCode":"530723"
 	}

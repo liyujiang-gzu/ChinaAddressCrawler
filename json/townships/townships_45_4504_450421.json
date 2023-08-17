@@ -3,7 +3,7 @@
 		"code":"450421100",
 		"fullCode":"450421100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石桥镇",
 		"parentCode":"450421"
 	},
@@ -11,7 +11,7 @@
 		"code":"450421101",
 		"fullCode":"450421101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙头镇",
 		"parentCode":"450421"
 	},
@@ -19,7 +19,7 @@
 		"code":"450421102",
 		"fullCode":"450421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"梨埠镇",
 		"parentCode":"450421"
 	},
@@ -27,7 +27,7 @@
 		"code":"450421105",
 		"fullCode":"450421105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岭脚镇",
 		"parentCode":"450421"
 	},
@@ -35,7 +35,7 @@
 		"code":"450421108",
 		"fullCode":"450421108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"京南镇",
 		"parentCode":"450421"
 	},
@@ -43,7 +43,7 @@
 		"code":"450421109",
 		"fullCode":"450421109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮寨镇",
 		"parentCode":"450421"
 	},
@@ -51,7 +51,7 @@
 		"code":"450421110",
 		"fullCode":"450421110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"旺甫镇",
 		"parentCode":"450421"
 	},
@@ -59,7 +59,7 @@
 		"code":"450421112",
 		"fullCode":"450421112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六堡镇",
 		"parentCode":"450421"
 	},
@@ -67,7 +67,7 @@
 		"code":"450421114",
 		"fullCode":"450421114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木双镇",
 		"parentCode":"450421"
 	}

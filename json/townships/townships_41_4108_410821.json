@@ -3,7 +3,7 @@
 		"code":"410821100",
 		"fullCode":"410821100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"410821"
 	},
@@ -11,7 +11,7 @@
 		"code":"410821101",
 		"fullCode":"410821101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七贤镇",
 		"parentCode":"410821"
 	},
@@ -19,7 +19,7 @@
 		"code":"410821102",
 		"fullCode":"410821102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郇封镇",
 		"parentCode":"410821"
 	},
@@ -27,7 +27,7 @@
 		"code":"410821103",
 		"fullCode":"410821103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周庄镇",
 		"parentCode":"410821"
 	},
@@ -35,7 +35,7 @@
 		"code":"410821104",
 		"fullCode":"410821104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云台山镇",
 		"parentCode":"410821"
 	},
@@ -43,7 +43,7 @@
 		"code":"410821202",
 		"fullCode":"410821202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王屯乡",
 		"parentCode":"410821"
 	},
@@ -51,7 +51,7 @@
 		"code":"410821204",
 		"fullCode":"410821204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五里源乡",
 		"parentCode":"410821"
 	},
@@ -59,7 +59,7 @@
 		"code":"410821206",
 		"fullCode":"410821206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西村乡",
 		"parentCode":"410821"
 	},
@@ -67,7 +67,7 @@
 		"code":"410821400",
 		"fullCode":"410821400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小营工贸区",
 		"parentCode":"410821"
 	}

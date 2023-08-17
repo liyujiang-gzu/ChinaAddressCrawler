@@ -3,7 +3,7 @@
 		"code":"420324100",
 		"fullCode":"420324100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"420324"
 	},
@@ -11,7 +11,7 @@
 		"code":"420324101",
 		"fullCode":"420324101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒋家堰镇",
 		"parentCode":"420324"
 	},
@@ -19,7 +19,7 @@
 		"code":"420324102",
 		"fullCode":"420324102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中峰镇",
 		"parentCode":"420324"
 	},
@@ -27,7 +27,7 @@
 		"code":"420324103",
 		"fullCode":"420324103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水坪镇",
 		"parentCode":"420324"
 	},
@@ -35,7 +35,7 @@
 		"code":"420324104",
 		"fullCode":"420324104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县河镇",
 		"parentCode":"420324"
 	},
@@ -43,7 +43,7 @@
 		"code":"420324105",
 		"fullCode":"420324105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"泉溪镇",
 		"parentCode":"420324"
 	},
@@ -51,7 +51,7 @@
 		"code":"420324106",
 		"fullCode":"420324106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰溪镇",
 		"parentCode":"420324"
 	},
@@ -59,7 +59,7 @@
 		"code":"420324107",
 		"fullCode":"420324107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙坝镇",
 		"parentCode":"420324"
 	},
@@ -67,7 +67,7 @@
 		"code":"420324108",
 		"fullCode":"420324108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵营镇",
 		"parentCode":"420324"
 	},
@@ -75,7 +75,7 @@
 		"code":"420324109",
 		"fullCode":"420324109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汇湾镇",
 		"parentCode":"420324"
 	},
@@ -83,7 +83,7 @@
 		"code":"420324110",
 		"fullCode":"420324110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新洲镇",
 		"parentCode":"420324"
 	},
@@ -91,7 +91,7 @@
 		"code":"420324203",
 		"fullCode":"420324203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鄂坪乡",
 		"parentCode":"420324"
 	},
@@ -99,7 +99,7 @@
 		"code":"420324205",
 		"fullCode":"420324205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天宝乡",
 		"parentCode":"420324"
 	},
@@ -107,7 +107,7 @@
 		"code":"420324206",
 		"fullCode":"420324206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桃源乡",
 		"parentCode":"420324"
 	},
@@ -115,7 +115,7 @@
 		"code":"420324207",
 		"fullCode":"420324207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"向坝乡",
 		"parentCode":"420324"
 	}

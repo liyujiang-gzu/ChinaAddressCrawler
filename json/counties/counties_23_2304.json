@@ -3,7 +3,7 @@
 		"code":"230402",
 		"fullCode":"230402000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"向阳区",
 		"parentCode":"2304"
 	},
@@ -11,7 +11,7 @@
 		"code":"230403",
 		"fullCode":"230403000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"工农区",
 		"parentCode":"2304"
 	},
@@ -19,7 +19,7 @@
 		"code":"230404",
 		"fullCode":"230404000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"南山区",
 		"parentCode":"2304"
 	},
@@ -27,7 +27,7 @@
 		"code":"230405",
 		"fullCode":"230405000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴安区",
 		"parentCode":"2304"
 	},
@@ -35,7 +35,7 @@
 		"code":"230406",
 		"fullCode":"230406000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"东山区",
 		"parentCode":"2304"
 	},
@@ -43,7 +43,7 @@
 		"code":"230407",
 		"fullCode":"230407000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"兴山区",
 		"parentCode":"2304"
 	},
@@ -51,7 +51,7 @@
 		"code":"230421",
 		"fullCode":"230421000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"萝北县",
 		"parentCode":"2304"
 	},
@@ -59,7 +59,7 @@
 		"code":"230422",
 		"fullCode":"230422000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"绥滨县",
 		"parentCode":"2304"
 	}

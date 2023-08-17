@@ -3,7 +3,7 @@
 		"code":"430702",
 		"fullCode":"430702000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"武陵区",
 		"parentCode":"4307"
 	},
@@ -11,7 +11,7 @@
 		"code":"430703",
 		"fullCode":"430703000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鼎城区",
 		"parentCode":"4307"
 	},
@@ -19,7 +19,7 @@
 		"code":"430721",
 		"fullCode":"430721000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"安乡县",
 		"parentCode":"4307"
 	},
@@ -27,7 +27,7 @@
 		"code":"430722",
 		"fullCode":"430722000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"汉寿县",
 		"parentCode":"4307"
 	},
@@ -35,7 +35,7 @@
 		"code":"430723",
 		"fullCode":"430723000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"澧县",
 		"parentCode":"4307"
 	},
@@ -43,7 +43,7 @@
 		"code":"430724",
 		"fullCode":"430724000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"临澧县",
 		"parentCode":"4307"
 	},
@@ -51,7 +51,7 @@
 		"code":"430725",
 		"fullCode":"430725000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"桃源县",
 		"parentCode":"4307"
 	},
@@ -59,7 +59,7 @@
 		"code":"430726",
 		"fullCode":"430726000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"石门县",
 		"parentCode":"4307"
 	},
@@ -67,7 +67,7 @@
 		"code":"430771",
 		"fullCode":"430771000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"常德市西洞庭管理区",
 		"parentCode":"4307"
 	},
@@ -75,7 +75,7 @@
 		"code":"430781",
 		"fullCode":"430781000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"津市市",
 		"parentCode":"4307"
 	}

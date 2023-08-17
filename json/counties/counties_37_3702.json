@@ -3,7 +3,7 @@
 		"code":"370202",
 		"fullCode":"370202000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"市南区",
 		"parentCode":"3702"
 	},
@@ -11,7 +11,7 @@
 		"code":"370203",
 		"fullCode":"370203000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"市北区",
 		"parentCode":"3702"
 	},
@@ -19,7 +19,7 @@
 		"code":"370211",
 		"fullCode":"370211000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"黄岛区",
 		"parentCode":"3702"
 	},
@@ -27,7 +27,7 @@
 		"code":"370212",
 		"fullCode":"370212000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"崂山区",
 		"parentCode":"3702"
 	},
@@ -35,7 +35,7 @@
 		"code":"370213",
 		"fullCode":"370213000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"李沧区",
 		"parentCode":"3702"
 	},
@@ -43,7 +43,7 @@
 		"code":"370214",
 		"fullCode":"370214000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"城阳区",
 		"parentCode":"3702"
 	},
@@ -51,7 +51,7 @@
 		"code":"370215",
 		"fullCode":"370215000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"即墨区",
 		"parentCode":"3702"
 	},
@@ -59,7 +59,7 @@
 		"code":"370271",
 		"fullCode":"370271000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"青岛高新技术产业开发区",
 		"parentCode":"3702"
 	},
@@ -67,7 +67,7 @@
 		"code":"370281",
 		"fullCode":"370281000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"胶州市",
 		"parentCode":"3702"
 	},
@@ -75,7 +75,7 @@
 		"code":"370283",
 		"fullCode":"370283000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"平度市",
 		"parentCode":"3702"
 	},
@@ -83,7 +83,7 @@
 		"code":"370285",
 		"fullCode":"370285000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"莱西市",
 		"parentCode":"3702"
 	}

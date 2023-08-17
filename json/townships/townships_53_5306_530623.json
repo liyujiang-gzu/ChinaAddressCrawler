@@ -3,7 +3,7 @@
 		"code":"530623101",
 		"fullCode":"530623101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐井镇",
 		"parentCode":"530623"
 	},
@@ -11,7 +11,7 @@
 		"code":"530623102",
 		"fullCode":"530623102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普洱镇",
 		"parentCode":"530623"
 	},
@@ -19,7 +19,7 @@
 		"code":"530623103",
 		"fullCode":"530623103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"豆沙镇",
 		"parentCode":"530623"
 	},
@@ -27,7 +27,7 @@
 		"code":"530623104",
 		"fullCode":"530623104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中和镇",
 		"parentCode":"530623"
 	},
@@ -35,7 +35,7 @@
 		"code":"530623105",
 		"fullCode":"530623105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庙坝镇",
 		"parentCode":"530623"
 	},
@@ -43,7 +43,7 @@
 		"code":"530623106",
 		"fullCode":"530623106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柿子镇",
 		"parentCode":"530623"
 	},
@@ -51,7 +51,7 @@
 		"code":"530623201",
 		"fullCode":"530623201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆乡",
 		"parentCode":"530623"
 	},
@@ -59,7 +59,7 @@
 		"code":"530623202",
 		"fullCode":"530623202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"落雁乡",
 		"parentCode":"530623"
 	},
@@ -67,7 +67,7 @@
 		"code":"530623203",
 		"fullCode":"530623203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滩头乡",
 		"parentCode":"530623"
 	},
@@ -75,7 +75,7 @@
 		"code":"530623204",
 		"fullCode":"530623204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛寨乡",
 		"parentCode":"530623"
 	}

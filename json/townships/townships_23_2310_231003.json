@@ -3,7 +3,7 @@
 		"code":"231003001",
 		"fullCode":"231003001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳明街道",
 		"parentCode":"231003"
 	},
@@ -11,7 +11,7 @@
 		"code":"231003002",
 		"fullCode":"231003002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进街道",
 		"parentCode":"231003"
 	},
@@ -19,7 +19,7 @@
 		"code":"231003003",
 		"fullCode":"231003003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新兴街道",
 		"parentCode":"231003"
 	},
@@ -27,7 +27,7 @@
 		"code":"231003004",
 		"fullCode":"231003004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桦林橡胶厂街道",
 		"parentCode":"231003"
 	},
@@ -35,7 +35,7 @@
 		"code":"231003100",
 		"fullCode":"231003100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁岭镇",
 		"parentCode":"231003"
 	},
@@ -43,7 +43,7 @@
 		"code":"231003101",
 		"fullCode":"231003101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"桦林镇",
 		"parentCode":"231003"
 	},
@@ -51,7 +51,7 @@
 		"code":"231003102",
 		"fullCode":"231003102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"磨刀石镇",
 		"parentCode":"231003"
 	},
@@ -59,7 +59,7 @@
 		"code":"231003103",
 		"fullCode":"231003103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五林镇",
 		"parentCode":"231003"
 	}

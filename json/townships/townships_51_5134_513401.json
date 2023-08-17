@@ -3,7 +3,7 @@
 		"code":"513401001",
 		"fullCode":"513401001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北城街道",
 		"parentCode":"513401"
 	},
@@ -11,7 +11,7 @@
 		"code":"513401002",
 		"fullCode":"513401002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西城街道",
 		"parentCode":"513401"
 	},
@@ -19,7 +19,7 @@
 		"code":"513401003",
 		"fullCode":"513401003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"513401"
 	},
@@ -27,7 +27,7 @@
 		"code":"513401004",
 		"fullCode":"513401004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长安街道",
 		"parentCode":"513401"
 	},
@@ -35,7 +35,7 @@
 		"code":"513401005",
 		"fullCode":"513401005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新村街道",
 		"parentCode":"513401"
 	},
@@ -43,7 +43,7 @@
 		"code":"513401007",
 		"fullCode":"513401007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海南街道",
 		"parentCode":"513401"
 	},
@@ -51,7 +51,7 @@
 		"code":"513401008",
 		"fullCode":"513401008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马道街道",
 		"parentCode":"513401"
 	},
@@ -59,7 +59,7 @@
 		"code":"513401101",
 		"fullCode":"513401101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"礼州镇",
 		"parentCode":"513401"
 	},
@@ -67,7 +67,7 @@
 		"code":"513401102",
 		"fullCode":"513401102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安宁镇",
 		"parentCode":"513401"
 	},
@@ -75,7 +75,7 @@
 		"code":"513401103",
 		"fullCode":"513401103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"川兴镇",
 		"parentCode":"513401"
 	},
@@ -83,7 +83,7 @@
 		"code":"513401104",
 		"fullCode":"513401104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄联关镇",
 		"parentCode":"513401"
 	},
@@ -91,7 +91,7 @@
 		"code":"513401105",
 		"fullCode":"513401105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"佑君镇",
 		"parentCode":"513401"
 	},
@@ -99,7 +99,7 @@
 		"code":"513401106",
 		"fullCode":"513401106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太和镇",
 		"parentCode":"513401"
 	},
@@ -107,7 +107,7 @@
 		"code":"513401107",
 		"fullCode":"513401107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安哈镇",
 		"parentCode":"513401"
 	},
@@ -115,7 +115,7 @@
 		"code":"513401108",
 		"fullCode":"513401108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿七镇",
 		"parentCode":"513401"
 	},
@@ -123,7 +123,7 @@
 		"code":"513401109",
 		"fullCode":"513401109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"樟木箐镇",
 		"parentCode":"513401"
 	},
@@ -131,7 +131,7 @@
 		"code":"513401110",
 		"fullCode":"513401110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"琅环镇",
 		"parentCode":"513401"
 	},
@@ -139,7 +139,7 @@
 		"code":"513401111",
 		"fullCode":"513401111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴汝镇",
 		"parentCode":"513401"
 	},
@@ -147,7 +147,7 @@
 		"code":"513401203",
 		"fullCode":"513401203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四合乡",
 		"parentCode":"513401"
 	},
@@ -155,7 +155,7 @@
 		"code":"513401211",
 		"fullCode":"513401211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开元乡",
 		"parentCode":"513401"
 	},
@@ -163,7 +163,7 @@
 		"code":"513401212",
 		"fullCode":"513401212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大兴乡",
 		"parentCode":"513401"
 	},
@@ -171,7 +171,7 @@
 		"code":"513401215",
 		"fullCode":"513401215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"经久乡",
 		"parentCode":"513401"
 	},
@@ -179,7 +179,7 @@
 		"code":"513401219",
 		"fullCode":"513401219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"裕隆回族乡",
 		"parentCode":"513401"
 	},
@@ -187,7 +187,7 @@
 		"code":"513401220",
 		"fullCode":"513401220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高草回族乡",
 		"parentCode":"513401"
 	},
@@ -195,7 +195,7 @@
 		"code":"513401228",
 		"fullCode":"513401228000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马鞍山乡",
 		"parentCode":"513401"
 	}

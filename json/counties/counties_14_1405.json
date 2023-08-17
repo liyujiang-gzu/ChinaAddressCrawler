@@ -3,7 +3,7 @@
 		"code":"140502",
 		"fullCode":"140502000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"城区",
 		"parentCode":"1405"
 	},
@@ -11,7 +11,7 @@
 		"code":"140521",
 		"fullCode":"140521000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沁水县",
 		"parentCode":"1405"
 	},
@@ -19,7 +19,7 @@
 		"code":"140522",
 		"fullCode":"140522000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阳城县",
 		"parentCode":"1405"
 	},
@@ -27,7 +27,7 @@
 		"code":"140524",
 		"fullCode":"140524000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"陵川县",
 		"parentCode":"1405"
 	},
@@ -35,7 +35,7 @@
 		"code":"140525",
 		"fullCode":"140525000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泽州县",
 		"parentCode":"1405"
 	},
@@ -43,7 +43,7 @@
 		"code":"140581",
 		"fullCode":"140581000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"高平市",
 		"parentCode":"1405"
 	}

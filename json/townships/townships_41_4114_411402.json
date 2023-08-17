@@ -3,7 +3,7 @@
 		"code":"411402001",
 		"fullCode":"411402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平原街道",
 		"parentCode":"411402"
 	},
@@ -11,7 +11,7 @@
 		"code":"411402002",
 		"fullCode":"411402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长征街道",
 		"parentCode":"411402"
 	},
@@ -19,7 +19,7 @@
 		"code":"411402003",
 		"fullCode":"411402003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"前进街道",
 		"parentCode":"411402"
 	},
@@ -27,7 +27,7 @@
 		"code":"411402004",
 		"fullCode":"411402004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白云街道",
 		"parentCode":"411402"
 	},
@@ -35,7 +35,7 @@
 		"code":"411402005",
 		"fullCode":"411402005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风街道",
 		"parentCode":"411402"
 	},
@@ -43,7 +43,7 @@
 		"code":"411402006",
 		"fullCode":"411402006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八八街道",
 		"parentCode":"411402"
 	},
@@ -51,7 +51,7 @@
 		"code":"411402007",
 		"fullCode":"411402007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建设街道",
 		"parentCode":"411402"
 	},
@@ -59,7 +59,7 @@
 		"code":"411402011",
 		"fullCode":"411402011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"解放街道",
 		"parentCode":"411402"
 	},
@@ -67,7 +67,7 @@
 		"code":"411402012",
 		"fullCode":"411402012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陇海街道",
 		"parentCode":"411402"
 	},
@@ -75,7 +75,7 @@
 		"code":"411402100",
 		"fullCode":"411402100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"谢集镇",
 		"parentCode":"411402"
 	},
@@ -83,7 +83,7 @@
 		"code":"411402101",
 		"fullCode":"411402101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双八镇",
 		"parentCode":"411402"
 	},
@@ -91,7 +91,7 @@
 		"code":"411402103",
 		"fullCode":"411402103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观堂镇",
 		"parentCode":"411402"
 	},
@@ -99,7 +99,7 @@
 		"code":"411402104",
 		"fullCode":"411402104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘口镇",
 		"parentCode":"411402"
 	},
@@ -107,7 +107,7 @@
 		"code":"411402105",
 		"fullCode":"411402105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"水池铺镇",
 		"parentCode":"411402"
 	},
@@ -115,7 +115,7 @@
 		"code":"411402106",
 		"fullCode":"411402106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李庄镇",
 		"parentCode":"411402"
 	},
@@ -123,7 +123,7 @@
 		"code":"411402203",
 		"fullCode":"411402203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王楼乡",
 		"parentCode":"411402"
 	},
@@ -131,7 +131,7 @@
 		"code":"411402205",
 		"fullCode":"411402205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孙福集乡",
 		"parentCode":"411402"
 	}

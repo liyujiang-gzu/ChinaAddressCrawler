@@ -3,7 +3,7 @@
 		"code":"522625100",
 		"fullCode":"522625100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"舞阳镇",
 		"parentCode":"522625"
 	},
@@ -11,7 +11,7 @@
 		"code":"522625101",
 		"fullCode":"522625101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蕉溪镇",
 		"parentCode":"522625"
 	},
@@ -19,7 +19,7 @@
 		"code":"522625102",
 		"fullCode":"522625102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青溪镇",
 		"parentCode":"522625"
 	},
@@ -27,7 +27,7 @@
 		"code":"522625103",
 		"fullCode":"522625103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊坪镇",
 		"parentCode":"522625"
 	},
@@ -35,7 +35,7 @@
 		"code":"522625104",
 		"fullCode":"522625104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊场镇",
 		"parentCode":"522625"
 	},
@@ -43,7 +43,7 @@
 		"code":"522625105",
 		"fullCode":"522625105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"都坪镇",
 		"parentCode":"522625"
 	},
@@ -51,7 +51,7 @@
 		"code":"522625106",
 		"fullCode":"522625106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金堡镇",
 		"parentCode":"522625"
 	},
@@ -59,7 +59,7 @@
 		"code":"522625107",
 		"fullCode":"522625107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江古镇",
 		"parentCode":"522625"
 	},
@@ -67,7 +67,7 @@
 		"code":"522625201",
 		"fullCode":"522625201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涌溪乡",
 		"parentCode":"522625"
 	},
@@ -75,7 +75,7 @@
 		"code":"522625203",
 		"fullCode":"522625203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"报京乡",
 		"parentCode":"522625"
 	},
@@ -83,7 +83,7 @@
 		"code":"522625204",
 		"fullCode":"522625204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大地乡",
 		"parentCode":"522625"
 	},
@@ -91,7 +91,7 @@
 		"code":"522625205",
 		"fullCode":"522625205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚寨土家族乡",
 		"parentCode":"522625"
 	}

@@ -3,7 +3,7 @@
 		"code":"431222102",
 		"fullCode":"431222102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麻溪铺镇",
 		"parentCode":"431222"
 	},
@@ -11,7 +11,7 @@
 		"code":"431222105",
 		"fullCode":"431222105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五强溪镇",
 		"parentCode":"431222"
 	},
@@ -19,7 +19,7 @@
 		"code":"431222110",
 		"fullCode":"431222110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明溪口镇",
 		"parentCode":"431222"
 	},
@@ -27,7 +27,7 @@
 		"code":"431222111",
 		"fullCode":"431222111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凉水井镇",
 		"parentCode":"431222"
 	},
@@ -35,7 +35,7 @@
 		"code":"431222112",
 		"fullCode":"431222112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七甲坪镇",
 		"parentCode":"431222"
 	},
@@ -43,7 +43,7 @@
 		"code":"431222113",
 		"fullCode":"431222113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"筲箕湾镇",
 		"parentCode":"431222"
 	},
@@ -51,7 +51,7 @@
 		"code":"431222114",
 		"fullCode":"431222114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官庄镇",
 		"parentCode":"431222"
 	},
@@ -59,7 +59,7 @@
 		"code":"431222115",
 		"fullCode":"431222115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沅陵镇",
 		"parentCode":"431222"
 	},
@@ -67,7 +67,7 @@
 		"code":"431222223",
 		"fullCode":"431222223000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杜家坪乡",
 		"parentCode":"431222"
 	},
@@ -75,7 +75,7 @@
 		"code":"431222224",
 		"fullCode":"431222224000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"楠木铺乡",
 		"parentCode":"431222"
 	},
@@ -83,7 +83,7 @@
 		"code":"431222230",
 		"fullCode":"431222230000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖家桥乡",
 		"parentCode":"431222"
 	},
@@ -91,7 +91,7 @@
 		"code":"431222234",
 		"fullCode":"431222234000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"火场土家族乡",
 		"parentCode":"431222"
 	},
@@ -99,7 +99,7 @@
 		"code":"431222238",
 		"fullCode":"431222238000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈家滩乡",
 		"parentCode":"431222"
 	},
@@ -107,7 +107,7 @@
 		"code":"431222239",
 		"fullCode":"431222239000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清浪乡",
 		"parentCode":"431222"
 	},
@@ -115,7 +115,7 @@
 		"code":"431222245",
 		"fullCode":"431222245000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"借母溪乡",
 		"parentCode":"431222"
 	},
@@ -123,7 +123,7 @@
 		"code":"431222247",
 		"fullCode":"431222247000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"荔溪乡",
 		"parentCode":"431222"
 	},
@@ -131,7 +131,7 @@
 		"code":"431222248",
 		"fullCode":"431222248000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大合坪乡",
 		"parentCode":"431222"
 	},
@@ -139,7 +139,7 @@
 		"code":"431222250",
 		"fullCode":"431222250000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马底驿乡",
 		"parentCode":"431222"
 	},
@@ -147,7 +147,7 @@
 		"code":"431222251",
 		"fullCode":"431222251000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北溶乡",
 		"parentCode":"431222"
 	},
@@ -155,7 +155,7 @@
 		"code":"431222252",
 		"fullCode":"431222252000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二酉乡",
 		"parentCode":"431222"
 	},
@@ -163,7 +163,7 @@
 		"code":"431222253",
 		"fullCode":"431222253000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盘古乡",
 		"parentCode":"431222"
 	}

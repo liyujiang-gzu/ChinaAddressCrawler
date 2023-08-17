@@ -3,7 +3,7 @@
 		"code":"620421101",
 		"fullCode":"620421101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北湾镇",
 		"parentCode":"620421"
 	},
@@ -11,7 +11,7 @@
 		"code":"620421102",
 		"fullCode":"620421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东湾镇",
 		"parentCode":"620421"
 	},
@@ -19,7 +19,7 @@
 		"code":"620421103",
 		"fullCode":"620421103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰镇",
 		"parentCode":"620421"
 	},
@@ -27,7 +27,7 @@
 		"code":"620421104",
 		"fullCode":"620421104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"刘川镇",
 		"parentCode":"620421"
 	},
@@ -35,7 +35,7 @@
 		"code":"620421105",
 		"fullCode":"620421105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北滩镇",
 		"parentCode":"620421"
 	},
@@ -43,7 +43,7 @@
 		"code":"620421106",
 		"fullCode":"620421106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五合镇",
 		"parentCode":"620421"
 	},
@@ -51,7 +51,7 @@
 		"code":"620421107",
 		"fullCode":"620421107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大芦镇",
 		"parentCode":"620421"
 	},
@@ -59,7 +59,7 @@
 		"code":"620421108",
 		"fullCode":"620421108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"糜滩镇",
 		"parentCode":"620421"
 	},
@@ -67,7 +67,7 @@
 		"code":"620421109",
 		"fullCode":"620421109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高湾镇",
 		"parentCode":"620421"
 	},
@@ -75,7 +75,7 @@
 		"code":"620421110",
 		"fullCode":"620421110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"平堡镇",
 		"parentCode":"620421"
 	},
@@ -83,7 +83,7 @@
 		"code":"620421111",
 		"fullCode":"620421111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东升镇",
 		"parentCode":"620421"
 	},
@@ -91,7 +91,7 @@
 		"code":"620421112",
 		"fullCode":"620421112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙镇",
 		"parentCode":"620421"
 	},
@@ -99,7 +99,7 @@
 		"code":"620421113",
 		"fullCode":"620421113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三滩镇",
 		"parentCode":"620421"
 	},
@@ -107,7 +107,7 @@
 		"code":"620421206",
 		"fullCode":"620421206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆乡",
 		"parentCode":"620421"
 	},
@@ -115,7 +115,7 @@
 		"code":"620421208",
 		"fullCode":"620421208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门乡",
 		"parentCode":"620421"
 	},
@@ -123,7 +123,7 @@
 		"code":"620421211",
 		"fullCode":"620421211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"靖安乡",
 		"parentCode":"620421"
 	},
@@ -131,7 +131,7 @@
 		"code":"620421215",
 		"fullCode":"620421215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永新乡",
 		"parentCode":"620421"
 	},
@@ -139,7 +139,7 @@
 		"code":"620421216",
 		"fullCode":"620421216000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"若笠乡",
 		"parentCode":"620421"
 	}

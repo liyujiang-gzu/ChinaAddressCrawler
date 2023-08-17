@@ -3,7 +3,7 @@
 		"code":"210381001",
 		"fullCode":"210381001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海州街道",
 		"parentCode":"210381"
 	},
@@ -11,7 +11,7 @@
 		"code":"210381002",
 		"fullCode":"210381002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴海街道",
 		"parentCode":"210381"
 	},
@@ -19,7 +19,7 @@
 		"code":"210381003",
 		"fullCode":"210381003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"响堂街道",
 		"parentCode":"210381"
 	},
@@ -27,7 +27,7 @@
 		"code":"210381004",
 		"fullCode":"210381004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东四街道",
 		"parentCode":"210381"
 	},
@@ -35,7 +35,7 @@
 		"code":"210381006",
 		"fullCode":"210381006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东四方台街道",
 		"parentCode":"210381"
 	},
@@ -43,7 +43,7 @@
 		"code":"210381101",
 		"fullCode":"210381101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孤山镇",
 		"parentCode":"210381"
 	},
@@ -51,7 +51,7 @@
 		"code":"210381102",
 		"fullCode":"210381102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岔沟镇",
 		"parentCode":"210381"
 	},
@@ -59,7 +59,7 @@
 		"code":"210381103",
 		"fullCode":"210381103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"接文镇",
 		"parentCode":"210381"
 	},
@@ -67,7 +67,7 @@
 		"code":"210381104",
 		"fullCode":"210381104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"析木镇",
 		"parentCode":"210381"
 	},
@@ -75,7 +75,7 @@
 		"code":"210381105",
 		"fullCode":"210381105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马风镇",
 		"parentCode":"210381"
 	},
@@ -83,7 +83,7 @@
 		"code":"210381107",
 		"fullCode":"210381107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牌楼镇",
 		"parentCode":"210381"
 	},
@@ -91,7 +91,7 @@
 		"code":"210381108",
 		"fullCode":"210381108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里镇",
 		"parentCode":"210381"
 	},
@@ -99,7 +99,7 @@
 		"code":"210381109",
 		"fullCode":"210381109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"毛祁镇",
 		"parentCode":"210381"
 	},
@@ -107,7 +107,7 @@
 		"code":"210381110",
 		"fullCode":"210381110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英落镇",
 		"parentCode":"210381"
 	},
@@ -115,7 +115,7 @@
 		"code":"210381111",
 		"fullCode":"210381111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"感王镇",
 		"parentCode":"210381"
 	},
@@ -123,7 +123,7 @@
 		"code":"210381112",
 		"fullCode":"210381112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西柳镇",
 		"parentCode":"210381"
 	},
@@ -131,7 +131,7 @@
 		"code":"210381113",
 		"fullCode":"210381113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中小镇",
 		"parentCode":"210381"
 	},
@@ -139,7 +139,7 @@
 		"code":"210381114",
 		"fullCode":"210381114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王石镇",
 		"parentCode":"210381"
 	},
@@ -147,7 +147,7 @@
 		"code":"210381115",
 		"fullCode":"210381115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南台镇",
 		"parentCode":"210381"
 	},
@@ -155,7 +155,7 @@
 		"code":"210381118",
 		"fullCode":"210381118000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"腾鳌镇",
 		"parentCode":"210381"
 	},
@@ -163,7 +163,7 @@
 		"code":"210381121",
 		"fullCode":"210381121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"耿庄镇",
 		"parentCode":"210381"
 	},
@@ -171,7 +171,7 @@
 		"code":"210381123",
 		"fullCode":"210381123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛庄镇",
 		"parentCode":"210381"
 	},
@@ -179,7 +179,7 @@
 		"code":"210381124",
 		"fullCode":"210381124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西四镇",
 		"parentCode":"210381"
 	},
@@ -187,7 +187,7 @@
 		"code":"210381125",
 		"fullCode":"210381125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"望台镇",
 		"parentCode":"210381"
 	},
@@ -195,7 +195,7 @@
 		"code":"210381126",
 		"fullCode":"210381126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温香镇",
 		"parentCode":"210381"
 	},
@@ -203,7 +203,7 @@
 		"code":"210381127",
 		"fullCode":"210381127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高坨镇",
 		"parentCode":"210381"
 	}

@@ -3,7 +3,7 @@
 		"code":"410502001",
 		"fullCode":"410502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东大街街道",
 		"parentCode":"410502"
 	},
@@ -11,7 +11,7 @@
 		"code":"410502002",
 		"fullCode":"410502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"头二三街道",
 		"parentCode":"410502"
 	},
@@ -19,7 +19,7 @@
 		"code":"410502003",
 		"fullCode":"410502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甜水井街道",
 		"parentCode":"410502"
 	},
@@ -27,7 +27,7 @@
 		"code":"410502004",
 		"fullCode":"410502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东关街道",
 		"parentCode":"410502"
 	},
@@ -35,7 +35,7 @@
 		"code":"410502005",
 		"fullCode":"410502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南关街道",
 		"parentCode":"410502"
 	},
@@ -43,7 +43,7 @@
 		"code":"410502006",
 		"fullCode":"410502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西大街街道",
 		"parentCode":"410502"
 	},
@@ -51,7 +51,7 @@
 		"code":"410502008",
 		"fullCode":"410502008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北大街街道",
 		"parentCode":"410502"
 	},
@@ -59,7 +59,7 @@
 		"code":"410502011",
 		"fullCode":"410502011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西关街道",
 		"parentCode":"410502"
 	},
@@ -67,7 +67,7 @@
 		"code":"410502012",
 		"fullCode":"410502012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫薇大道街道",
 		"parentCode":"410502"
 	},
@@ -75,7 +75,7 @@
 		"code":"410502013",
 		"fullCode":"410502013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光华路街道",
 		"parentCode":"410502"
 	},
@@ -83,7 +83,7 @@
 		"code":"410502014",
 		"fullCode":"410502014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永明路街道",
 		"parentCode":"410502"
 	},
@@ -91,7 +91,7 @@
 		"code":"410502015",
 		"fullCode":"410502015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中华路街道",
 		"parentCode":"410502"
 	},
@@ -99,7 +99,7 @@
 		"code":"410502101",
 		"fullCode":"410502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宝莲寺镇",
 		"parentCode":"410502"
 	},
@@ -107,7 +107,7 @@
 		"code":"410502561",
 		"fullCode":"410502561000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"步行街综合治理办公室",
 		"parentCode":"410502"
 	},
@@ -115,7 +115,7 @@
 		"code":"410502562",
 		"fullCode":"410502562000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北大街综合治理办公室",
 		"parentCode":"410502"
 	}

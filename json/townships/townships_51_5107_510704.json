@@ -3,7 +3,7 @@
 		"code":"510704001",
 		"fullCode":"510704001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"涪江街道",
 		"parentCode":"510704"
 	},
@@ -11,7 +11,7 @@
 		"code":"510704003",
 		"fullCode":"510704003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富乐街道",
 		"parentCode":"510704"
 	},
@@ -19,7 +19,7 @@
 		"code":"510704004",
 		"fullCode":"510704004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"游仙街道",
 		"parentCode":"510704"
 	},
@@ -27,7 +27,7 @@
 		"code":"510704006",
 		"fullCode":"510704006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四川省科学城春雷街道",
 		"parentCode":"510704"
 	},
@@ -35,7 +35,7 @@
 		"code":"510704101",
 		"fullCode":"510704101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石马镇",
 		"parentCode":"510704"
 	},
@@ -43,7 +43,7 @@
 		"code":"510704102",
 		"fullCode":"510704102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新桥镇",
 		"parentCode":"510704"
 	},
@@ -51,7 +51,7 @@
 		"code":"510704104",
 		"fullCode":"510704104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"魏城镇",
 		"parentCode":"510704"
 	},
@@ -59,7 +59,7 @@
 		"code":"510704105",
 		"fullCode":"510704105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沉抗镇",
 		"parentCode":"510704"
 	},
@@ -67,7 +67,7 @@
 		"code":"510704106",
 		"fullCode":"510704106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"忠兴镇",
 		"parentCode":"510704"
 	},
@@ -75,7 +75,7 @@
 		"code":"510704112",
 		"fullCode":"510704112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松垭镇",
 		"parentCode":"510704"
 	},
@@ -83,7 +83,7 @@
 		"code":"510704121",
 		"fullCode":"510704121000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小枧镇",
 		"parentCode":"510704"
 	},
@@ -91,7 +91,7 @@
 		"code":"510704122",
 		"fullCode":"510704122000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"信义镇",
 		"parentCode":"510704"
 	},
@@ -99,7 +99,7 @@
 		"code":"510704123",
 		"fullCode":"510704123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙鹤镇",
 		"parentCode":"510704"
 	},
@@ -107,7 +107,7 @@
 		"code":"510704124",
 		"fullCode":"510704124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盐泉镇",
 		"parentCode":"510704"
 	},
@@ -115,7 +115,7 @@
 		"code":"510704400",
 		"fullCode":"510704400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四川省新华劳动教育管理所",
 		"parentCode":"510704"
 	}

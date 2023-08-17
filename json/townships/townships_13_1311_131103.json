@@ -3,7 +3,7 @@
 		"code":"131103100",
 		"fullCode":"131103100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冀州镇",
 		"parentCode":"131103"
 	},
@@ -11,7 +11,7 @@
 		"code":"131103102",
 		"fullCode":"131103102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"官道李镇",
 		"parentCode":"131103"
 	},
@@ -19,7 +19,7 @@
 		"code":"131103103",
 		"fullCode":"131103103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南午村镇",
 		"parentCode":"131103"
 	},
@@ -27,7 +27,7 @@
 		"code":"131103104",
 		"fullCode":"131103104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"周村镇",
 		"parentCode":"131103"
 	},
@@ -35,7 +35,7 @@
 		"code":"131103105",
 		"fullCode":"131103105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"码头李镇",
 		"parentCode":"131103"
 	},
@@ -43,7 +43,7 @@
 		"code":"131103106",
 		"fullCode":"131103106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西王镇",
 		"parentCode":"131103"
 	},
@@ -51,7 +51,7 @@
 		"code":"131103200",
 		"fullCode":"131103200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"门家庄乡",
 		"parentCode":"131103"
 	},
@@ -59,7 +59,7 @@
 		"code":"131103201",
 		"fullCode":"131103201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"徐家庄乡",
 		"parentCode":"131103"
 	},
@@ -67,7 +67,7 @@
 		"code":"131103202",
 		"fullCode":"131103202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北漳淮乡",
 		"parentCode":"131103"
 	},
@@ -75,7 +75,7 @@
 		"code":"131103203",
 		"fullCode":"131103203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小寨乡",
 		"parentCode":"131103"
 	},
@@ -83,7 +83,7 @@
 		"code":"131103400",
 		"fullCode":"131103400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"社区建设办公室",
 		"parentCode":"131103"
 	}

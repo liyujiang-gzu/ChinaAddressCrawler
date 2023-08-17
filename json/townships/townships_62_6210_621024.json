@@ -3,7 +3,7 @@
 		"code":"621024100",
 		"fullCode":"621024100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西华池镇",
 		"parentCode":"621024"
 	},
@@ -11,7 +11,7 @@
 		"code":"621024101",
 		"fullCode":"621024101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老城镇",
 		"parentCode":"621024"
 	},
@@ -19,7 +19,7 @@
 		"code":"621024102",
 		"fullCode":"621024102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太白镇",
 		"parentCode":"621024"
 	},
@@ -27,7 +27,7 @@
 		"code":"621024103",
 		"fullCode":"621024103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"板桥镇",
 		"parentCode":"621024"
 	},
@@ -35,7 +35,7 @@
 		"code":"621024104",
 		"fullCode":"621024104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"何家畔镇",
 		"parentCode":"621024"
 	},
@@ -43,7 +43,7 @@
 		"code":"621024105",
 		"fullCode":"621024105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉岘镇",
 		"parentCode":"621024"
 	},
@@ -51,7 +51,7 @@
 		"code":"621024106",
 		"fullCode":"621024106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肖咀镇",
 		"parentCode":"621024"
 	},
@@ -59,7 +59,7 @@
 		"code":"621024107",
 		"fullCode":"621024107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"固城镇",
 		"parentCode":"621024"
 	},
@@ -67,7 +67,7 @@
 		"code":"621024202",
 		"fullCode":"621024202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"段家集乡",
 		"parentCode":"621024"
 	},
@@ -75,7 +75,7 @@
 		"code":"621024204",
 		"fullCode":"621024204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太莪乡",
 		"parentCode":"621024"
 	},
@@ -83,7 +83,7 @@
 		"code":"621024205",
 		"fullCode":"621024205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"店子乡",
 		"parentCode":"621024"
 	},
@@ -91,7 +91,7 @@
 		"code":"621024208",
 		"fullCode":"621024208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蒿咀铺乡",
 		"parentCode":"621024"
 	}

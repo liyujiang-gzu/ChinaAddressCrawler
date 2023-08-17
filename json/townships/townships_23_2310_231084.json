@@ -3,7 +3,7 @@
 		"code":"231084001",
 		"fullCode":"231084001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城区街道",
 		"parentCode":"231084"
 	},
@@ -11,7 +11,7 @@
 		"code":"231084100",
 		"fullCode":"231084100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁安镇",
 		"parentCode":"231084"
 	},
@@ -19,7 +19,7 @@
 		"code":"231084101",
 		"fullCode":"231084101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东京城镇",
 		"parentCode":"231084"
 	},
@@ -27,7 +27,7 @@
 		"code":"231084102",
 		"fullCode":"231084102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渤海镇",
 		"parentCode":"231084"
 	},
@@ -35,7 +35,7 @@
 		"code":"231084103",
 		"fullCode":"231084103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石岩镇",
 		"parentCode":"231084"
 	},
@@ -43,7 +43,7 @@
 		"code":"231084104",
 		"fullCode":"231084104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙兰镇",
 		"parentCode":"231084"
 	},
@@ -51,7 +51,7 @@
 		"code":"231084105",
 		"fullCode":"231084105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海浪镇",
 		"parentCode":"231084"
 	},
@@ -59,7 +59,7 @@
 		"code":"231084106",
 		"fullCode":"231084106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰岗镇",
 		"parentCode":"231084"
 	},
@@ -67,7 +67,7 @@
 		"code":"231084107",
 		"fullCode":"231084107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"镜泊镇",
 		"parentCode":"231084"
 	},
@@ -75,7 +75,7 @@
 		"code":"231084202",
 		"fullCode":"231084202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江南朝鲜族满族乡",
 		"parentCode":"231084"
 	},
@@ -83,7 +83,7 @@
 		"code":"231084206",
 		"fullCode":"231084206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卧龙朝鲜族乡",
 		"parentCode":"231084"
 	},
@@ -91,7 +91,7 @@
 		"code":"231084208",
 		"fullCode":"231084208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马河乡",
 		"parentCode":"231084"
 	},
@@ -99,7 +99,7 @@
 		"code":"231084211",
 		"fullCode":"231084211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三陵乡",
 		"parentCode":"231084"
 	},
@@ -107,7 +107,7 @@
 		"code":"231084400",
 		"fullCode":"231084400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东京城林业局",
 		"parentCode":"231084"
 	},
@@ -115,7 +115,7 @@
 		"code":"231084500",
 		"fullCode":"231084500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"宁安农场",
 		"parentCode":"231084"
 	}

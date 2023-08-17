@@ -3,7 +3,7 @@
 		"code":"441284001",
 		"fullCode":"441284001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城中街道",
 		"parentCode":"441284"
 	},
@@ -11,7 +11,7 @@
 		"code":"441284002",
 		"fullCode":"441284002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"441284"
 	},
@@ -19,7 +19,7 @@
 		"code":"441284003",
 		"fullCode":"441284003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贞山街道",
 		"parentCode":"441284"
 	},
@@ -27,7 +27,7 @@
 		"code":"441284100",
 		"fullCode":"441284100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙甫镇",
 		"parentCode":"441284"
 	},
@@ -35,7 +35,7 @@
 		"code":"441284101",
 		"fullCode":"441284101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"地豆镇",
 		"parentCode":"441284"
 	},
@@ -43,7 +43,7 @@
 		"code":"441284102",
 		"fullCode":"441284102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"威整镇",
 		"parentCode":"441284"
 	},
@@ -51,7 +51,7 @@
 		"code":"441284103",
 		"fullCode":"441284103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗源镇",
 		"parentCode":"441284"
 	},
@@ -59,7 +59,7 @@
 		"code":"441284104",
 		"fullCode":"441284104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"迳口镇",
 		"parentCode":"441284"
 	},
@@ -67,7 +67,7 @@
 		"code":"441284105",
 		"fullCode":"441284105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大沙镇",
 		"parentCode":"441284"
 	},
@@ -75,7 +75,7 @@
 		"code":"441284107",
 		"fullCode":"441284107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石狗镇",
 		"parentCode":"441284"
 	},
@@ -83,7 +83,7 @@
 		"code":"441284108",
 		"fullCode":"441284108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄田镇",
 		"parentCode":"441284"
 	},
@@ -91,7 +91,7 @@
 		"code":"441284110",
 		"fullCode":"441284110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江谷镇",
 		"parentCode":"441284"
 	},
@@ -99,7 +99,7 @@
 		"code":"441284113",
 		"fullCode":"441284113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下茆镇",
 		"parentCode":"441284"
 	},
@@ -107,7 +107,7 @@
 		"code":"441284400",
 		"fullCode":"441284400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广东省济广监狱",
 		"parentCode":"441284"
 	},
@@ -115,7 +115,7 @@
 		"code":"441284450",
 		"fullCode":"441284450000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"肇庆高新技术产业开发区",
 		"parentCode":"441284"
 	}

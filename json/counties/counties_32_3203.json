@@ -3,7 +3,7 @@
 		"code":"320302",
 		"fullCode":"320302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"鼓楼区",
 		"parentCode":"3203"
 	},
@@ -11,7 +11,7 @@
 		"code":"320303",
 		"fullCode":"320303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"云龙区",
 		"parentCode":"3203"
 	},
@@ -19,7 +19,7 @@
 		"code":"320305",
 		"fullCode":"320305000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"贾汪区",
 		"parentCode":"3203"
 	},
@@ -27,7 +27,7 @@
 		"code":"320311",
 		"fullCode":"320311000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"泉山区",
 		"parentCode":"3203"
 	},
@@ -35,7 +35,7 @@
 		"code":"320312",
 		"fullCode":"320312000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铜山区",
 		"parentCode":"3203"
 	},
@@ -43,7 +43,7 @@
 		"code":"320321",
 		"fullCode":"320321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"丰县",
 		"parentCode":"3203"
 	},
@@ -51,7 +51,7 @@
 		"code":"320322",
 		"fullCode":"320322000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"沛县",
 		"parentCode":"3203"
 	},
@@ -59,7 +59,7 @@
 		"code":"320324",
 		"fullCode":"320324000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"睢宁县",
 		"parentCode":"3203"
 	},
@@ -67,7 +67,7 @@
 		"code":"320371",
 		"fullCode":"320371000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"徐州经济技术开发区",
 		"parentCode":"3203"
 	},
@@ -75,7 +75,7 @@
 		"code":"320381",
 		"fullCode":"320381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"新沂市",
 		"parentCode":"3203"
 	},
@@ -83,7 +83,7 @@
 		"code":"320382",
 		"fullCode":"320382000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"邳州市",
 		"parentCode":"3203"
 	}

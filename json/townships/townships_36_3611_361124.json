@@ -3,7 +3,7 @@
 		"code":"361124100",
 		"fullCode":"361124100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"河口镇",
 		"parentCode":"361124"
 	},
@@ -11,7 +11,7 @@
 		"code":"361124101",
 		"fullCode":"361124101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永平镇",
 		"parentCode":"361124"
 	},
@@ -19,7 +19,7 @@
 		"code":"361124102",
 		"fullCode":"361124102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石塘镇",
 		"parentCode":"361124"
 	},
@@ -27,7 +27,7 @@
 		"code":"361124103",
 		"fullCode":"361124103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹅湖镇",
 		"parentCode":"361124"
 	},
@@ -35,7 +35,7 @@
 		"code":"361124105",
 		"fullCode":"361124105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"湖坊镇",
 		"parentCode":"361124"
 	},
@@ -43,7 +43,7 @@
 		"code":"361124106",
 		"fullCode":"361124106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武夷山镇",
 		"parentCode":"361124"
 	},
@@ -51,7 +51,7 @@
 		"code":"361124108",
 		"fullCode":"361124108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汪二镇",
 		"parentCode":"361124"
 	},
@@ -59,7 +59,7 @@
 		"code":"361124109",
 		"fullCode":"361124109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛仙山镇",
 		"parentCode":"361124"
 	},
@@ -67,7 +67,7 @@
 		"code":"361124200",
 		"fullCode":"361124200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陈坊乡",
 		"parentCode":"361124"
 	},
@@ -75,7 +75,7 @@
 		"code":"361124201",
 		"fullCode":"361124201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虹桥乡",
 		"parentCode":"361124"
 	},
@@ -83,7 +83,7 @@
 		"code":"361124202",
 		"fullCode":"361124202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新滩乡",
 		"parentCode":"361124"
 	},
@@ -91,7 +91,7 @@
 		"code":"361124205",
 		"fullCode":"361124205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"稼轩乡",
 		"parentCode":"361124"
 	},
@@ -99,7 +99,7 @@
 		"code":"361124206",
 		"fullCode":"361124206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"英将乡",
 		"parentCode":"361124"
 	},
@@ -107,7 +107,7 @@
 		"code":"361124207",
 		"fullCode":"361124207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫溪乡",
 		"parentCode":"361124"
 	},
@@ -115,7 +115,7 @@
 		"code":"361124208",
 		"fullCode":"361124208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太源畲族乡",
 		"parentCode":"361124"
 	},
@@ -123,7 +123,7 @@
 		"code":"361124209",
 		"fullCode":"361124209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天柱山乡",
 		"parentCode":"361124"
 	},
@@ -131,7 +131,7 @@
 		"code":"361124210",
 		"fullCode":"361124210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"篁碧畲族乡",
 		"parentCode":"361124"
 	},
@@ -139,7 +139,7 @@
 		"code":"361124407",
 		"fullCode":"361124407000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铅山县青溪服务中心",
 		"parentCode":"361124"
 	},
@@ -147,7 +147,7 @@
 		"code":"361124501",
 		"fullCode":"361124501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铅山县国营森林苗圃",
 		"parentCode":"361124"
 	}

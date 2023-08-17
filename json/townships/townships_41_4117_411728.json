@@ -3,7 +3,7 @@
 		"code":"411728001",
 		"fullCode":"411728001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瞿阳街道",
 		"parentCode":"411728"
 	},
@@ -11,7 +11,7 @@
 		"code":"411728002",
 		"fullCode":"411728002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"车站街道",
 		"parentCode":"411728"
 	},
@@ -19,7 +19,7 @@
 		"code":"411728003",
 		"fullCode":"411728003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莲花湖街道",
 		"parentCode":"411728"
 	},
@@ -27,7 +27,7 @@
 		"code":"411728004",
 		"fullCode":"411728004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"褚堂街道",
 		"parentCode":"411728"
 	},
@@ -35,7 +35,7 @@
 		"code":"411728005",
 		"fullCode":"411728005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吴房街道",
 		"parentCode":"411728"
 	},
@@ -43,7 +43,7 @@
 		"code":"411728102",
 		"fullCode":"411728102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉山镇",
 		"parentCode":"411728"
 	},
@@ -51,7 +51,7 @@
 		"code":"411728103",
 		"fullCode":"411728103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"查岈山镇",
 		"parentCode":"411728"
 	},
@@ -59,7 +59,7 @@
 		"code":"411728104",
 		"fullCode":"411728104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石寨铺镇",
 		"parentCode":"411728"
 	},
@@ -67,7 +67,7 @@
 		"code":"411728105",
 		"fullCode":"411728105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和兴镇",
 		"parentCode":"411728"
 	},
@@ -75,7 +75,7 @@
 		"code":"411728106",
 		"fullCode":"411728106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沈寨镇",
 		"parentCode":"411728"
 	},
@@ -83,7 +83,7 @@
 		"code":"411728107",
 		"fullCode":"411728107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阳丰镇",
 		"parentCode":"411728"
 	},
@@ -91,7 +91,7 @@
 		"code":"411728108",
 		"fullCode":"411728108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"常庄镇",
 		"parentCode":"411728"
 	},
@@ -99,7 +99,7 @@
 		"code":"411728109",
 		"fullCode":"411728109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花庄镇",
 		"parentCode":"411728"
 	},
@@ -107,7 +107,7 @@
 		"code":"411728204",
 		"fullCode":"411728204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"槐树乡",
 		"parentCode":"411728"
 	},
@@ -115,7 +115,7 @@
 		"code":"411728209",
 		"fullCode":"411728209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文城乡",
 		"parentCode":"411728"
 	},
@@ -123,7 +123,7 @@
 		"code":"411728400",
 		"fullCode":"411728400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先进制造业开发区",
 		"parentCode":"411728"
 	},
@@ -131,7 +131,7 @@
 		"code":"411728500",
 		"fullCode":"411728500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嵖岈山风景区",
 		"parentCode":"411728"
 	},
@@ -139,7 +139,7 @@
 		"code":"411728501",
 		"fullCode":"411728501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤鸣谷风景区",
 		"parentCode":"411728"
 	}

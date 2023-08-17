@@ -3,7 +3,7 @@
 		"code":"451030100",
 		"fullCode":"451030100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八达镇",
 		"parentCode":"451030"
 	},
@@ -11,7 +11,7 @@
 		"code":"451030101",
 		"fullCode":"451030101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古障镇",
 		"parentCode":"451030"
 	},
@@ -19,7 +19,7 @@
 		"code":"451030102",
 		"fullCode":"451030102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那劳镇",
 		"parentCode":"451030"
 	},
@@ -27,7 +27,7 @@
 		"code":"451030103",
 		"fullCode":"451030103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马蚌镇",
 		"parentCode":"451030"
 	},
@@ -35,7 +35,7 @@
 		"code":"451030203",
 		"fullCode":"451030203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"普合苗族乡",
 		"parentCode":"451030"
 	},
@@ -43,7 +43,7 @@
 		"code":"451030204",
 		"fullCode":"451030204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西平乡",
 		"parentCode":"451030"
 	},
@@ -51,7 +51,7 @@
 		"code":"451030206",
 		"fullCode":"451030206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"那佐苗族乡",
 		"parentCode":"451030"
 	},
@@ -59,7 +59,7 @@
 		"code":"451030208",
 		"fullCode":"451030208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"足别瑶族苗族乡",
 		"parentCode":"451030"
 	}

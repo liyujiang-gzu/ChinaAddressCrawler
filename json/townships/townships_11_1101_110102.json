@@ -3,7 +3,7 @@
 		"code":"110102001",
 		"fullCode":"110102001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西长安街街道",
 		"parentCode":"110102"
 	},
@@ -11,7 +11,7 @@
 		"code":"110102003",
 		"fullCode":"110102003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街口街道",
 		"parentCode":"110102"
 	},
@@ -19,7 +19,7 @@
 		"code":"110102007",
 		"fullCode":"110102007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"月坛街道",
 		"parentCode":"110102"
 	},
@@ -27,7 +27,7 @@
 		"code":"110102009",
 		"fullCode":"110102009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"展览路街道",
 		"parentCode":"110102"
 	},
@@ -35,7 +35,7 @@
 		"code":"110102010",
 		"fullCode":"110102010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"德胜街道",
 		"parentCode":"110102"
 	},
@@ -43,7 +43,7 @@
 		"code":"110102011",
 		"fullCode":"110102011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金融街街道",
 		"parentCode":"110102"
 	},
@@ -51,7 +51,7 @@
 		"code":"110102012",
 		"fullCode":"110102012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"什刹海街道",
 		"parentCode":"110102"
 	},
@@ -59,7 +59,7 @@
 		"code":"110102013",
 		"fullCode":"110102013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大栅栏街道",
 		"parentCode":"110102"
 	},
@@ -67,7 +67,7 @@
 		"code":"110102014",
 		"fullCode":"110102014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天桥街道",
 		"parentCode":"110102"
 	},
@@ -75,7 +75,7 @@
 		"code":"110102015",
 		"fullCode":"110102015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"椿树街道",
 		"parentCode":"110102"
 	},
@@ -83,7 +83,7 @@
 		"code":"110102016",
 		"fullCode":"110102016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"陶然亭街道",
 		"parentCode":"110102"
 	},
@@ -91,7 +91,7 @@
 		"code":"110102017",
 		"fullCode":"110102017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广安门内街道",
 		"parentCode":"110102"
 	},
@@ -99,7 +99,7 @@
 		"code":"110102018",
 		"fullCode":"110102018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"牛街街道",
 		"parentCode":"110102"
 	},
@@ -107,7 +107,7 @@
 		"code":"110102019",
 		"fullCode":"110102019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白纸坊街道",
 		"parentCode":"110102"
 	},
@@ -115,7 +115,7 @@
 		"code":"110102020",
 		"fullCode":"110102020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广安门外街道",
 		"parentCode":"110102"
 	}

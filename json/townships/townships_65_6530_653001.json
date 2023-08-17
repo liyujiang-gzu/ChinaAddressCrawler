@@ -3,7 +3,7 @@
 		"code":"653001001",
 		"fullCode":"653001001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"幸福路街道",
 		"parentCode":"653001"
 	},
@@ -11,7 +11,7 @@
 		"code":"653001002",
 		"fullCode":"653001002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明路街道",
 		"parentCode":"653001"
 	},
@@ -19,7 +19,7 @@
 		"code":"653001003",
 		"fullCode":"653001003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新城街道",
 		"parentCode":"653001"
 	},
@@ -27,7 +27,7 @@
 		"code":"653001100",
 		"fullCode":"653001100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上阿图什镇",
 		"parentCode":"653001"
 	},
@@ -35,7 +35,7 @@
 		"code":"653001101",
 		"fullCode":"653001101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松他克镇",
 		"parentCode":"653001"
 	},
@@ -43,7 +43,7 @@
 		"code":"653001102",
 		"fullCode":"653001102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿扎克镇",
 		"parentCode":"653001"
 	},
@@ -51,7 +51,7 @@
 		"code":"653001202",
 		"fullCode":"653001202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿湖乡",
 		"parentCode":"653001"
 	},
@@ -59,7 +59,7 @@
 		"code":"653001204",
 		"fullCode":"653001204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"格达良乡",
 		"parentCode":"653001"
 	},
@@ -67,7 +67,7 @@
 		"code":"653001205",
 		"fullCode":"653001205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉峻乡",
 		"parentCode":"653001"
 	},
@@ -75,7 +75,7 @@
 		"code":"653001206",
 		"fullCode":"653001206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吐古买提乡",
 		"parentCode":"653001"
 	},
@@ -83,7 +83,7 @@
 		"code":"653001500",
 		"fullCode":"653001500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团农三师红旗农场",
 		"parentCode":"653001"
 	}

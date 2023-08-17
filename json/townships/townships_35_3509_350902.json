@@ -3,7 +3,7 @@
 		"code":"350902001",
 		"fullCode":"350902001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蕉南街道",
 		"parentCode":"350902"
 	},
@@ -11,7 +11,7 @@
 		"code":"350902002",
 		"fullCode":"350902002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蕉北街道",
 		"parentCode":"350902"
 	},
@@ -19,7 +19,7 @@
 		"code":"350902100",
 		"fullCode":"350902100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城南镇",
 		"parentCode":"350902"
 	},
@@ -27,7 +27,7 @@
 		"code":"350902101",
 		"fullCode":"350902101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"漳湾镇",
 		"parentCode":"350902"
 	},
@@ -35,7 +35,7 @@
 		"code":"350902102",
 		"fullCode":"350902102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七都镇",
 		"parentCode":"350902"
 	},
@@ -43,7 +43,7 @@
 		"code":"350902103",
 		"fullCode":"350902103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八都镇",
 		"parentCode":"350902"
 	},
@@ -51,7 +51,7 @@
 		"code":"350902104",
 		"fullCode":"350902104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九都镇",
 		"parentCode":"350902"
 	},
@@ -59,7 +59,7 @@
 		"code":"350902105",
 		"fullCode":"350902105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霍童镇",
 		"parentCode":"350902"
 	},
@@ -67,7 +67,7 @@
 		"code":"350902106",
 		"fullCode":"350902106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"赤溪镇",
 		"parentCode":"350902"
 	},
@@ -75,7 +75,7 @@
 		"code":"350902107",
 		"fullCode":"350902107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洋中镇",
 		"parentCode":"350902"
 	},
@@ -83,7 +83,7 @@
 		"code":"350902108",
 		"fullCode":"350902108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"飞鸾镇",
 		"parentCode":"350902"
 	},
@@ -91,7 +91,7 @@
 		"code":"350902109",
 		"fullCode":"350902109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三都镇",
 		"parentCode":"350902"
 	},
@@ -99,7 +99,7 @@
 		"code":"350902110",
 		"fullCode":"350902110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"虎贝镇",
 		"parentCode":"350902"
 	},
@@ -107,7 +107,7 @@
 		"code":"350902200",
 		"fullCode":"350902200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金涵畲族乡",
 		"parentCode":"350902"
 	},
@@ -115,7 +115,7 @@
 		"code":"350902201",
 		"fullCode":"350902201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪口乡",
 		"parentCode":"350902"
 	},
@@ -123,7 +123,7 @@
 		"code":"350902202",
 		"fullCode":"350902202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石后乡",
 		"parentCode":"350902"
 	},
@@ -131,7 +131,7 @@
 		"code":"350902500",
 		"fullCode":"350902500000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东侨开发区",
 		"parentCode":"350902"
 	}

@@ -3,7 +3,7 @@
 		"code":"510129001",
 		"fullCode":"510129001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晋原街道",
 		"parentCode":"510129"
 	},
@@ -11,7 +11,7 @@
 		"code":"510129002",
 		"fullCode":"510129002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙渠街道",
 		"parentCode":"510129"
 	},
@@ -19,7 +19,7 @@
 		"code":"510129003",
 		"fullCode":"510129003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青霞街道",
 		"parentCode":"510129"
 	},
@@ -27,7 +27,7 @@
 		"code":"510129101",
 		"fullCode":"510129101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王泗镇",
 		"parentCode":"510129"
 	},
@@ -35,7 +35,7 @@
 		"code":"510129103",
 		"fullCode":"510129103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新场镇",
 		"parentCode":"510129"
 	},
@@ -43,7 +43,7 @@
 		"code":"510129104",
 		"fullCode":"510129104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"悦来镇",
 		"parentCode":"510129"
 	},
@@ -51,7 +51,7 @@
 		"code":"510129105",
 		"fullCode":"510129105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安仁镇",
 		"parentCode":"510129"
 	},
@@ -59,7 +59,7 @@
 		"code":"510129106",
 		"fullCode":"510129106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"䢺江镇",
 		"parentCode":"510129"
 	},
@@ -67,7 +67,7 @@
 		"code":"510129107",
 		"fullCode":"510129107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花水湾镇",
 		"parentCode":"510129"
 	},
@@ -75,7 +75,7 @@
 		"code":"510129108",
 		"fullCode":"510129108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西岭镇",
 		"parentCode":"510129"
 	},
@@ -83,7 +83,7 @@
 		"code":"510129119",
 		"fullCode":"510129119000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鹤鸣镇",
 		"parentCode":"510129"
 	}

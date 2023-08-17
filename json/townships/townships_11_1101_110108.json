@@ -3,7 +3,7 @@
 		"code":"110108001",
 		"fullCode":"110108001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万寿路街道",
 		"parentCode":"110108"
 	},
@@ -11,7 +11,7 @@
 		"code":"110108002",
 		"fullCode":"110108002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永定路街道",
 		"parentCode":"110108"
 	},
@@ -19,7 +19,7 @@
 		"code":"110108003",
 		"fullCode":"110108003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊坊店街道",
 		"parentCode":"110108"
 	},
@@ -27,7 +27,7 @@
 		"code":"110108004",
 		"fullCode":"110108004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘家口街道",
 		"parentCode":"110108"
 	},
@@ -35,7 +35,7 @@
 		"code":"110108005",
 		"fullCode":"110108005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八里庄街道",
 		"parentCode":"110108"
 	},
@@ -43,7 +43,7 @@
 		"code":"110108006",
 		"fullCode":"110108006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"紫竹院街道",
 		"parentCode":"110108"
 	},
@@ -51,7 +51,7 @@
 		"code":"110108007",
 		"fullCode":"110108007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北下关街道",
 		"parentCode":"110108"
 	},
@@ -59,7 +59,7 @@
 		"code":"110108008",
 		"fullCode":"110108008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北太平庄街道",
 		"parentCode":"110108"
 	},
@@ -67,7 +67,7 @@
 		"code":"110108010",
 		"fullCode":"110108010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"学院路街道",
 		"parentCode":"110108"
 	},
@@ -75,7 +75,7 @@
 		"code":"110108011",
 		"fullCode":"110108011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中关村街道",
 		"parentCode":"110108"
 	},
@@ -83,7 +83,7 @@
 		"code":"110108012",
 		"fullCode":"110108012000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海淀街道",
 		"parentCode":"110108"
 	},
@@ -91,7 +91,7 @@
 		"code":"110108013",
 		"fullCode":"110108013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙桥街道",
 		"parentCode":"110108"
 	},
@@ -99,7 +99,7 @@
 		"code":"110108014",
 		"fullCode":"110108014000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清华园街道",
 		"parentCode":"110108"
 	},
@@ -107,7 +107,7 @@
 		"code":"110108015",
 		"fullCode":"110108015000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"燕园街道",
 		"parentCode":"110108"
 	},
@@ -115,7 +115,7 @@
 		"code":"110108016",
 		"fullCode":"110108016000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"香山街道",
 		"parentCode":"110108"
 	},
@@ -123,7 +123,7 @@
 		"code":"110108017",
 		"fullCode":"110108017000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河街道",
 		"parentCode":"110108"
 	},
@@ -131,7 +131,7 @@
 		"code":"110108018",
 		"fullCode":"110108018000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"花园路街道",
 		"parentCode":"110108"
 	},
@@ -139,7 +139,7 @@
 		"code":"110108019",
 		"fullCode":"110108019000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西三旗街道",
 		"parentCode":"110108"
 	},
@@ -147,7 +147,7 @@
 		"code":"110108020",
 		"fullCode":"110108020000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马连洼街道",
 		"parentCode":"110108"
 	},
@@ -155,7 +155,7 @@
 		"code":"110108021",
 		"fullCode":"110108021000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田村路街道",
 		"parentCode":"110108"
 	},
@@ -163,7 +163,7 @@
 		"code":"110108022",
 		"fullCode":"110108022000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上地街道",
 		"parentCode":"110108"
 	},
@@ -171,7 +171,7 @@
 		"code":"110108023",
 		"fullCode":"110108023000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万柳地区",
 		"parentCode":"110108"
 	},
@@ -179,7 +179,7 @@
 		"code":"110108024",
 		"fullCode":"110108024000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东升地区",
 		"parentCode":"110108"
 	},
@@ -187,7 +187,7 @@
 		"code":"110108025",
 		"fullCode":"110108025000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曙光街道",
 		"parentCode":"110108"
 	},
@@ -195,7 +195,7 @@
 		"code":"110108026",
 		"fullCode":"110108026000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉地区",
 		"parentCode":"110108"
 	},
@@ -203,7 +203,7 @@
 		"code":"110108027",
 		"fullCode":"110108027000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"四季青地区",
 		"parentCode":"110108"
 	},
@@ -211,7 +211,7 @@
 		"code":"110108028",
 		"fullCode":"110108028000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西北旺地区",
 		"parentCode":"110108"
 	},
@@ -219,7 +219,7 @@
 		"code":"110108029",
 		"fullCode":"110108029000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"苏家坨地区",
 		"parentCode":"110108"
 	},
@@ -227,7 +227,7 @@
 		"code":"110108030",
 		"fullCode":"110108030000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上庄地区",
 		"parentCode":"110108"
 	}

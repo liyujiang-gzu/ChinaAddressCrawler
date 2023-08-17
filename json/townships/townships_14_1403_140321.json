@@ -3,7 +3,7 @@
 		"code":"140321100",
 		"fullCode":"140321100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冠山镇",
 		"parentCode":"140321"
 	},
@@ -11,7 +11,7 @@
 		"code":"140321101",
 		"fullCode":"140321101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冶西镇",
 		"parentCode":"140321"
 	},
@@ -19,7 +19,7 @@
 		"code":"140321102",
 		"fullCode":"140321102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"锁簧镇",
 		"parentCode":"140321"
 	},
@@ -27,7 +27,7 @@
 		"code":"140321103",
 		"fullCode":"140321103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"张庄镇",
 		"parentCode":"140321"
 	},
@@ -35,7 +35,7 @@
 		"code":"140321104",
 		"fullCode":"140321104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东回镇",
 		"parentCode":"140321"
 	},
@@ -43,7 +43,7 @@
 		"code":"140321105",
 		"fullCode":"140321105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柏井镇",
 		"parentCode":"140321"
 	},
@@ -51,7 +51,7 @@
 		"code":"140321106",
 		"fullCode":"140321106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"娘子关镇",
 		"parentCode":"140321"
 	},
@@ -59,7 +59,7 @@
 		"code":"140321107",
 		"fullCode":"140321107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巨城镇",
 		"parentCode":"140321"
 	},
@@ -67,7 +67,7 @@
 		"code":"140321200",
 		"fullCode":"140321200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石门口乡",
 		"parentCode":"140321"
 	},
@@ -75,7 +75,7 @@
 		"code":"140321201",
 		"fullCode":"140321201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岔口乡",
 		"parentCode":"140321"
 	}

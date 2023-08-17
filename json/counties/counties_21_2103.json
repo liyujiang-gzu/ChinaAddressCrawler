@@ -3,7 +3,7 @@
 		"code":"210302",
 		"fullCode":"210302000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铁东区",
 		"parentCode":"2103"
 	},
@@ -11,7 +11,7 @@
 		"code":"210303",
 		"fullCode":"210303000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"铁西区",
 		"parentCode":"2103"
 	},
@@ -19,7 +19,7 @@
 		"code":"210304",
 		"fullCode":"210304000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"立山区",
 		"parentCode":"2103"
 	},
@@ -27,7 +27,7 @@
 		"code":"210311",
 		"fullCode":"210311000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"千山区",
 		"parentCode":"2103"
 	},
@@ -35,7 +35,7 @@
 		"code":"210321",
 		"fullCode":"210321000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"台安县",
 		"parentCode":"2103"
 	},
@@ -43,7 +43,7 @@
 		"code":"210323",
 		"fullCode":"210323000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"岫岩满族自治县",
 		"parentCode":"2103"
 	},
@@ -51,7 +51,7 @@
 		"code":"210381",
 		"fullCode":"210381000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"海城市",
 		"parentCode":"2103"
 	}

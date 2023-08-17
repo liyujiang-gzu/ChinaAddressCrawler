@@ -3,7 +3,7 @@
 		"code":"653001",
 		"fullCode":"653001000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿图什市",
 		"parentCode":"6530"
 	},
@@ -11,7 +11,7 @@
 		"code":"653022",
 		"fullCode":"653022000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿克陶县",
 		"parentCode":"6530"
 	},
@@ -19,7 +19,7 @@
 		"code":"653023",
 		"fullCode":"653023000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"阿合奇县",
 		"parentCode":"6530"
 	},
@@ -27,7 +27,7 @@
 		"code":"653024",
 		"fullCode":"653024000000",
 		"level":2,
-		"levelName":"县",
+		"levelName":"县级",
 		"name":"乌恰县",
 		"parentCode":"6530"
 	}

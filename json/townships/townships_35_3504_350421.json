@@ -3,7 +3,7 @@
 		"code":"350421100",
 		"fullCode":"350421100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雪峰镇",
 		"parentCode":"350421"
 	},
@@ -11,7 +11,7 @@
 		"code":"350421101",
 		"fullCode":"350421101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"盖洋镇",
 		"parentCode":"350421"
 	},
@@ -19,7 +19,7 @@
 		"code":"350421102",
 		"fullCode":"350421102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡坊镇",
 		"parentCode":"350421"
 	},
@@ -27,7 +27,7 @@
 		"code":"350421103",
 		"fullCode":"350421103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瀚仙镇",
 		"parentCode":"350421"
 	},
@@ -35,7 +35,7 @@
 		"code":"350421200",
 		"fullCode":"350421200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关乡",
 		"parentCode":"350421"
 	},
@@ -43,7 +43,7 @@
 		"code":"350421201",
 		"fullCode":"350421201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沙溪乡",
 		"parentCode":"350421"
 	},
@@ -51,7 +51,7 @@
 		"code":"350421202",
 		"fullCode":"350421202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏阳乡",
 		"parentCode":"350421"
 	},
@@ -59,7 +59,7 @@
 		"code":"350421203",
 		"fullCode":"350421203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"枫溪乡",
 		"parentCode":"350421"
 	},
@@ -67,7 +67,7 @@
 		"code":"350421204",
 		"fullCode":"350421204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏坊乡",
 		"parentCode":"350421"
 	}

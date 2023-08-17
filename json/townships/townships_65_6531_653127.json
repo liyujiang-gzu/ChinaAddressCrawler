@@ -3,7 +3,7 @@
 		"code":"653127100",
 		"fullCode":"653127100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"麦盖提镇",
 		"parentCode":"653127"
 	},
@@ -11,7 +11,7 @@
 		"code":"653127101",
 		"fullCode":"653127101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巴扎结米镇",
 		"parentCode":"653127"
 	},
@@ -19,7 +19,7 @@
 		"code":"653127201",
 		"fullCode":"653127201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"希依提墩乡",
 		"parentCode":"653127"
 	},
@@ -27,7 +27,7 @@
 		"code":"653127202",
 		"fullCode":"653127202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"央塔克乡",
 		"parentCode":"653127"
 	},
@@ -35,7 +35,7 @@
 		"code":"653127203",
 		"fullCode":"653127203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吐曼塔勒乡",
 		"parentCode":"653127"
 	},
@@ -43,7 +43,7 @@
 		"code":"653127204",
 		"fullCode":"653127204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尕孜库勒乡",
 		"parentCode":"653127"
 	},
@@ -51,7 +51,7 @@
 		"code":"653127205",
 		"fullCode":"653127205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"克孜勒阿瓦提乡",
 		"parentCode":"653127"
 	},
@@ -59,7 +59,7 @@
 		"code":"653127206",
 		"fullCode":"653127206000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"库木库萨尔乡",
 		"parentCode":"653127"
 	},
@@ -67,7 +67,7 @@
 		"code":"653127207",
 		"fullCode":"653127207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"昂格特勒克乡",
 		"parentCode":"653127"
 	},
@@ -75,7 +75,7 @@
 		"code":"653127208",
 		"fullCode":"653127208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"库尔玛乡",
 		"parentCode":"653127"
 	},
@@ -83,7 +83,7 @@
 		"code":"653127400",
 		"fullCode":"653127400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡杨林场",
 		"parentCode":"653127"
 	},
@@ -91,7 +91,7 @@
 		"code":"653127401",
 		"fullCode":"653127401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"园艺场",
 		"parentCode":"653127"
 	},
@@ -99,7 +99,7 @@
 		"code":"653127402",
 		"fullCode":"653127402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"五一林场",
 		"parentCode":"653127"
 	}

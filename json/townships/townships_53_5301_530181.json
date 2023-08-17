@@ -3,7 +3,7 @@
 		"code":"530181001",
 		"fullCode":"530181001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连然街道",
 		"parentCode":"530181"
 	},
@@ -11,7 +11,7 @@
 		"code":"530181002",
 		"fullCode":"530181002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金方街道",
 		"parentCode":"530181"
 	},
@@ -19,7 +19,7 @@
 		"code":"530181003",
 		"fullCode":"530181003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八街街道",
 		"parentCode":"530181"
 	},
@@ -27,7 +27,7 @@
 		"code":"530181004",
 		"fullCode":"530181004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"温泉街道",
 		"parentCode":"530181"
 	},
@@ -35,7 +35,7 @@
 		"code":"530181005",
 		"fullCode":"530181005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙街道",
 		"parentCode":"530181"
 	},
@@ -43,7 +43,7 @@
 		"code":"530181006",
 		"fullCode":"530181006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"禄脿街道",
 		"parentCode":"530181"
 	},
@@ -51,7 +51,7 @@
 		"code":"530181007",
 		"fullCode":"530181007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"草铺街道",
 		"parentCode":"530181"
 	},
@@ -59,7 +59,7 @@
 		"code":"530181008",
 		"fullCode":"530181008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太平新城街道",
 		"parentCode":"530181"
 	},
@@ -67,7 +67,7 @@
 		"code":"530181009",
 		"fullCode":"530181009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"县街街道",
 		"parentCode":"530181"
 	}

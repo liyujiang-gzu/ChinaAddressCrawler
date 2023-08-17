@@ -3,7 +3,7 @@
 		"code":"500115001",
 		"fullCode":"500115001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤城街道",
 		"parentCode":"500115"
 	},
@@ -11,7 +11,7 @@
 		"code":"500115002",
 		"fullCode":"500115002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"晏家街道",
 		"parentCode":"500115"
 	},
@@ -19,7 +19,7 @@
 		"code":"500115003",
 		"fullCode":"500115003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江南街道",
 		"parentCode":"500115"
 	},
@@ -27,7 +27,7 @@
 		"code":"500115004",
 		"fullCode":"500115004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渡舟街道",
 		"parentCode":"500115"
 	},
@@ -35,7 +35,7 @@
 		"code":"500115005",
 		"fullCode":"500115005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新市街道",
 		"parentCode":"500115"
 	},
@@ -43,7 +43,7 @@
 		"code":"500115006",
 		"fullCode":"500115006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八颗街道",
 		"parentCode":"500115"
 	},
@@ -51,7 +51,7 @@
 		"code":"500115007",
 		"fullCode":"500115007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"菩提街道",
 		"parentCode":"500115"
 	},
@@ -59,7 +59,7 @@
 		"code":"500115123",
 		"fullCode":"500115123000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邻封镇",
 		"parentCode":"500115"
 	},
@@ -67,7 +67,7 @@
 		"code":"500115124",
 		"fullCode":"500115124000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"但渡镇",
 		"parentCode":"500115"
 	},
@@ -75,7 +75,7 @@
 		"code":"500115125",
 		"fullCode":"500115125000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云集镇",
 		"parentCode":"500115"
 	},
@@ -83,7 +83,7 @@
 		"code":"500115126",
 		"fullCode":"500115126000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长寿湖镇",
 		"parentCode":"500115"
 	},
@@ -91,7 +91,7 @@
 		"code":"500115127",
 		"fullCode":"500115127000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"双龙镇",
 		"parentCode":"500115"
 	},
@@ -99,7 +99,7 @@
 		"code":"500115128",
 		"fullCode":"500115128000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙河镇",
 		"parentCode":"500115"
 	},
@@ -107,7 +107,7 @@
 		"code":"500115129",
 		"fullCode":"500115129000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"石堰镇",
 		"parentCode":"500115"
 	},
@@ -115,7 +115,7 @@
 		"code":"500115130",
 		"fullCode":"500115130000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"云台镇",
 		"parentCode":"500115"
 	},
@@ -123,7 +123,7 @@
 		"code":"500115131",
 		"fullCode":"500115131000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"海棠镇",
 		"parentCode":"500115"
 	},
@@ -131,7 +131,7 @@
 		"code":"500115132",
 		"fullCode":"500115132000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"葛兰镇",
 		"parentCode":"500115"
 	},
@@ -139,7 +139,7 @@
 		"code":"500115136",
 		"fullCode":"500115136000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洪湖镇",
 		"parentCode":"500115"
 	},
@@ -147,7 +147,7 @@
 		"code":"500115137",
 		"fullCode":"500115137000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"万顺镇",
 		"parentCode":"500115"
 	}

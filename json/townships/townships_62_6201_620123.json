@@ -3,7 +3,7 @@
 		"code":"620123100",
 		"fullCode":"620123100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"城关镇",
 		"parentCode":"620123"
 	},
@@ -11,7 +11,7 @@
 		"code":"620123101",
 		"fullCode":"620123101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"夏官营镇",
 		"parentCode":"620123"
 	},
@@ -19,7 +19,7 @@
 		"code":"620123102",
 		"fullCode":"620123102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"高崖镇",
 		"parentCode":"620123"
 	},
@@ -27,7 +27,7 @@
 		"code":"620123103",
 		"fullCode":"620123103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金崖镇",
 		"parentCode":"620123"
 	},
@@ -35,7 +35,7 @@
 		"code":"620123104",
 		"fullCode":"620123104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"和平镇",
 		"parentCode":"620123"
 	},
@@ -43,7 +43,7 @@
 		"code":"620123105",
 		"fullCode":"620123105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"甘草店镇",
 		"parentCode":"620123"
 	},
@@ -51,7 +51,7 @@
 		"code":"620123106",
 		"fullCode":"620123106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青城镇",
 		"parentCode":"620123"
 	},
@@ -59,7 +59,7 @@
 		"code":"620123107",
 		"fullCode":"620123107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"定远镇",
 		"parentCode":"620123"
 	},
@@ -67,7 +67,7 @@
 		"code":"620123108",
 		"fullCode":"620123108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"连搭镇",
 		"parentCode":"620123"
 	},
@@ -75,7 +75,7 @@
 		"code":"620123109",
 		"fullCode":"620123109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新营镇",
 		"parentCode":"620123"
 	},
@@ -83,7 +83,7 @@
 		"code":"620123110",
 		"fullCode":"620123110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"贡井镇",
 		"parentCode":"620123"
 	},
@@ -91,7 +91,7 @@
 		"code":"620123202",
 		"fullCode":"620123202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小康营乡",
 		"parentCode":"620123"
 	},
@@ -99,7 +99,7 @@
 		"code":"620123205",
 		"fullCode":"620123205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马坡乡",
 		"parentCode":"620123"
 	},
@@ -107,7 +107,7 @@
 		"code":"620123207",
 		"fullCode":"620123207000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清水驿乡",
 		"parentCode":"620123"
 	},
@@ -115,7 +115,7 @@
 		"code":"620123208",
 		"fullCode":"620123208000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉乡",
 		"parentCode":"620123"
 	},
@@ -123,7 +123,7 @@
 		"code":"620123209",
 		"fullCode":"620123209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"韦营乡",
 		"parentCode":"620123"
 	},
@@ -131,7 +131,7 @@
 		"code":"620123210",
 		"fullCode":"620123210000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中连川乡",
 		"parentCode":"620123"
 	},
@@ -139,7 +139,7 @@
 		"code":"620123212",
 		"fullCode":"620123212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"园子岔乡",
 		"parentCode":"620123"
 	},
@@ -147,7 +147,7 @@
 		"code":"620123213",
 		"fullCode":"620123213000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上花岔乡",
 		"parentCode":"620123"
 	},
@@ -155,7 +155,7 @@
 		"code":"620123214",
 		"fullCode":"620123214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈岘乡",
 		"parentCode":"620123"
 	}

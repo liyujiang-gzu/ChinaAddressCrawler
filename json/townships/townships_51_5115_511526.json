@@ -3,7 +3,7 @@
 		"code":"511526100",
 		"fullCode":"511526100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"珙泉镇",
 		"parentCode":"511526"
 	},
@@ -11,7 +11,7 @@
 		"code":"511526101",
 		"fullCode":"511526101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"巡场镇",
 		"parentCode":"511526"
 	},
@@ -19,7 +19,7 @@
 		"code":"511526102",
 		"fullCode":"511526102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孝儿镇",
 		"parentCode":"511526"
 	},
@@ -27,7 +27,7 @@
 		"code":"511526103",
 		"fullCode":"511526103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"底洞镇",
 		"parentCode":"511526"
 	},
@@ -35,7 +35,7 @@
 		"code":"511526104",
 		"fullCode":"511526104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"上罗镇",
 		"parentCode":"511526"
 	},
@@ -43,7 +43,7 @@
 		"code":"511526105",
 		"fullCode":"511526105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛表镇",
 		"parentCode":"511526"
 	},
@@ -51,7 +51,7 @@
 		"code":"511526106",
 		"fullCode":"511526106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"洛亥镇",
 		"parentCode":"511526"
 	},
@@ -59,7 +59,7 @@
 		"code":"511526107",
 		"fullCode":"511526107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王家镇",
 		"parentCode":"511526"
 	},
@@ -67,7 +67,7 @@
 		"code":"511526108",
 		"fullCode":"511526108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沐滩镇",
 		"parentCode":"511526"
 	},
@@ -75,7 +75,7 @@
 		"code":"511526110",
 		"fullCode":"511526110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹营镇",
 		"parentCode":"511526"
 	},
@@ -83,7 +83,7 @@
 		"code":"511526205",
 		"fullCode":"511526205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"玉和苗族乡",
 		"parentCode":"511526"
 	},
@@ -91,7 +91,7 @@
 		"code":"511526209",
 		"fullCode":"511526209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗渡苗族乡",
 		"parentCode":"511526"
 	},
@@ -99,7 +99,7 @@
 		"code":"511526212",
 		"fullCode":"511526212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"观斗苗族乡",
 		"parentCode":"511526"
 	}

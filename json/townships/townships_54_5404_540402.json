@@ -3,7 +3,7 @@
 		"code":"540402001",
 		"fullCode":"540402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白玛岗街道",
 		"parentCode":"540402"
 	},
@@ -11,7 +11,7 @@
 		"code":"540402002",
 		"fullCode":"540402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"觉木街道",
 		"parentCode":"540402"
 	},
@@ -19,7 +19,7 @@
 		"code":"540402100",
 		"fullCode":"540402100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"林芝镇",
 		"parentCode":"540402"
 	},
@@ -27,7 +27,7 @@
 		"code":"540402101",
 		"fullCode":"540402101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"百巴镇",
 		"parentCode":"540402"
 	},
@@ -35,7 +35,7 @@
 		"code":"540402102",
 		"fullCode":"540402102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八一镇",
 		"parentCode":"540402"
 	},
@@ -43,7 +43,7 @@
 		"code":"540402103",
 		"fullCode":"540402103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁朗镇",
 		"parentCode":"540402"
 	},
@@ -51,7 +51,7 @@
 		"code":"540402200",
 		"fullCode":"540402200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"更章门巴民族乡",
 		"parentCode":"540402"
 	},
@@ -59,7 +59,7 @@
 		"code":"540402202",
 		"fullCode":"540402202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"布久乡",
 		"parentCode":"540402"
 	},
@@ -67,7 +67,7 @@
 		"code":"540402203",
 		"fullCode":"540402203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"米瑞乡",
 		"parentCode":"540402"
 	}

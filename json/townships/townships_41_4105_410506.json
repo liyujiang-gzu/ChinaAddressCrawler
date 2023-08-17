@@ -3,7 +3,7 @@
 		"code":"410506001",
 		"fullCode":"410506001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"田村街道",
 		"parentCode":"410506"
 	},
@@ -11,7 +11,7 @@
 		"code":"410506002",
 		"fullCode":"410506002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"彰武街道",
 		"parentCode":"410506"
 	},
@@ -19,7 +19,7 @@
 		"code":"410506003",
 		"fullCode":"410506003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文昌大道街道",
 		"parentCode":"410506"
 	},
@@ -27,7 +27,7 @@
 		"code":"410506004",
 		"fullCode":"410506004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文明大道街道",
 		"parentCode":"410506"
 	},
@@ -35,7 +35,7 @@
 		"code":"410506005",
 		"fullCode":"410506005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"太行小区街道",
 		"parentCode":"410506"
 	},
@@ -43,7 +43,7 @@
 		"code":"410506006",
 		"fullCode":"410506006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中州路街道",
 		"parentCode":"410506"
 	},
@@ -51,7 +51,7 @@
 		"code":"410506100",
 		"fullCode":"410506100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉镇",
 		"parentCode":"410506"
 	},
@@ -59,7 +59,7 @@
 		"code":"410506101",
 		"fullCode":"410506101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马投涧镇",
 		"parentCode":"410506"
 	},
@@ -67,7 +67,7 @@
 		"code":"410506103",
 		"fullCode":"410506103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"善应镇",
 		"parentCode":"410506"
 	},
@@ -75,7 +75,7 @@
 		"code":"410506201",
 		"fullCode":"410506201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东风乡",
 		"parentCode":"410506"
 	},
@@ -83,7 +83,7 @@
 		"code":"410506205",
 		"fullCode":"410506205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"马家乡",
 		"parentCode":"410506"
 	}

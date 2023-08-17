@@ -3,7 +3,7 @@
 		"code":"211321001",
 		"fullCode":"211321001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"柳城街道",
 		"parentCode":"211321"
 	},
@@ -11,7 +11,7 @@
 		"code":"211321102",
 		"fullCode":"211321102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"波罗赤镇",
 		"parentCode":"211321"
 	},
@@ -19,7 +19,7 @@
 		"code":"211321103",
 		"fullCode":"211321103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木头城子镇",
 		"parentCode":"211321"
 	},
@@ -27,7 +27,7 @@
 		"code":"211321104",
 		"fullCode":"211321104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"二十家子镇",
 		"parentCode":"211321"
 	},
@@ -35,7 +35,7 @@
 		"code":"211321105",
 		"fullCode":"211321105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"羊山镇",
 		"parentCode":"211321"
 	},
@@ -43,7 +43,7 @@
 		"code":"211321106",
 		"fullCode":"211321106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"六家子镇",
 		"parentCode":"211321"
 	},
@@ -51,7 +51,7 @@
 		"code":"211321107",
 		"fullCode":"211321107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦房子镇",
 		"parentCode":"211321"
 	},
@@ -59,7 +59,7 @@
 		"code":"211321108",
 		"fullCode":"211321108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大庙镇",
 		"parentCode":"211321"
 	},
@@ -67,7 +67,7 @@
 		"code":"211321110",
 		"fullCode":"211321110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古山子镇",
 		"parentCode":"211321"
 	},
@@ -75,7 +75,7 @@
 		"code":"211321111",
 		"fullCode":"211321111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南双庙镇",
 		"parentCode":"211321"
 	},
@@ -83,7 +83,7 @@
 		"code":"211321112",
 		"fullCode":"211321112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"台子镇",
 		"parentCode":"211321"
 	},
@@ -91,7 +91,7 @@
 		"code":"211321113",
 		"fullCode":"211321113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清风岭镇",
 		"parentCode":"211321"
 	},
@@ -99,7 +99,7 @@
 		"code":"211321114",
 		"fullCode":"211321114000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胜利镇",
 		"parentCode":"211321"
 	},
@@ -107,7 +107,7 @@
 		"code":"211321115",
 		"fullCode":"211321115000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"七道岭镇",
 		"parentCode":"211321"
 	},
@@ -115,7 +115,7 @@
 		"code":"211321116",
 		"fullCode":"211321116000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杨树湾镇",
 		"parentCode":"211321"
 	},
@@ -123,7 +123,7 @@
 		"code":"211321211",
 		"fullCode":"211321211000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西五家子乡",
 		"parentCode":"211321"
 	},
@@ -131,7 +131,7 @@
 		"code":"211321212",
 		"fullCode":"211321212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北沟门子乡",
 		"parentCode":"211321"
 	},
@@ -139,7 +139,7 @@
 		"code":"211321214",
 		"fullCode":"211321214000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东大道乡",
 		"parentCode":"211321"
 	},
@@ -147,7 +147,7 @@
 		"code":"211321215",
 		"fullCode":"211321215000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌兰河硕蒙古族乡",
 		"parentCode":"211321"
 	},
@@ -155,7 +155,7 @@
 		"code":"211321220",
 		"fullCode":"211321220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东大屯乡",
 		"parentCode":"211321"
 	},
@@ -163,7 +163,7 @@
 		"code":"211321221",
 		"fullCode":"211321221000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松岭门蒙古族乡",
 		"parentCode":"211321"
 	},
@@ -171,7 +171,7 @@
 		"code":"211321222",
 		"fullCode":"211321222000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"根德营子乡",
 		"parentCode":"211321"
 	},
@@ -179,7 +179,7 @@
 		"code":"211321224",
 		"fullCode":"211321224000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西营子乡",
 		"parentCode":"211321"
 	},
@@ -187,7 +187,7 @@
 		"code":"211321228",
 		"fullCode":"211321228000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"北四家子乡",
 		"parentCode":"211321"
 	},
@@ -195,7 +195,7 @@
 		"code":"211321230",
 		"fullCode":"211321230000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王营子乡",
 		"parentCode":"211321"
 	},
@@ -203,7 +203,7 @@
 		"code":"211321231",
 		"fullCode":"211321231000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黑牛营子乡",
 		"parentCode":"211321"
 	},
@@ -211,7 +211,7 @@
 		"code":"211321232",
 		"fullCode":"211321232000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"尚志乡",
 		"parentCode":"211321"
 	},
@@ -219,7 +219,7 @@
 		"code":"211321400",
 		"fullCode":"211321400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国营朝阳县贾家店农场",
 		"parentCode":"211321"
 	}

@@ -3,7 +3,7 @@
 		"code":"654225100",
 		"fullCode":"654225100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉布拉镇",
 		"parentCode":"654225"
 	},
@@ -11,7 +11,7 @@
 		"code":"654225101",
 		"fullCode":"654225101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"吉也克镇",
 		"parentCode":"654225"
 	},
@@ -19,7 +19,7 @@
 		"code":"654225200",
 		"fullCode":"654225200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"哈拉布拉乡",
 		"parentCode":"654225"
 	},
@@ -27,7 +27,7 @@
 		"code":"654225201",
 		"fullCode":"654225201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新地乡",
 		"parentCode":"654225"
 	},
@@ -35,7 +35,7 @@
 		"code":"654225202",
 		"fullCode":"654225202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"阿勒腾也木勒乡",
 		"parentCode":"654225"
 	},
@@ -43,7 +43,7 @@
 		"code":"654225204",
 		"fullCode":"654225204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江格斯乡",
 		"parentCode":"654225"
 	},
@@ -51,7 +51,7 @@
 		"code":"654225501",
 		"fullCode":"654225501000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兵团农九师一六一团",
 		"parentCode":"654225"
 	}

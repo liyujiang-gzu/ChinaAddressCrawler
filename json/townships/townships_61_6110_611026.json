@@ -3,7 +3,7 @@
 		"code":"611026001",
 		"fullCode":"611026001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乾佑街道",
 		"parentCode":"611026"
 	},
@@ -11,7 +11,7 @@
 		"code":"611026101",
 		"fullCode":"611026101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"营盘镇",
 		"parentCode":"611026"
 	},
@@ -19,7 +19,7 @@
 		"code":"611026102",
 		"fullCode":"611026102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下梁镇",
 		"parentCode":"611026"
 	},
@@ -27,7 +27,7 @@
 		"code":"611026104",
 		"fullCode":"611026104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"小岭镇",
 		"parentCode":"611026"
 	},
@@ -35,7 +35,7 @@
 		"code":"611026105",
 		"fullCode":"611026105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"凤凰镇",
 		"parentCode":"611026"
 	},
@@ -43,7 +43,7 @@
 		"code":"611026106",
 		"fullCode":"611026106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红岩寺镇",
 		"parentCode":"611026"
 	},
@@ -51,7 +51,7 @@
 		"code":"611026107",
 		"fullCode":"611026107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"曹坪镇",
 		"parentCode":"611026"
 	},
@@ -59,7 +59,7 @@
 		"code":"611026109",
 		"fullCode":"611026109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"杏坪镇",
 		"parentCode":"611026"
 	},
@@ -67,7 +67,7 @@
 		"code":"611026110",
 		"fullCode":"611026110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦房口镇",
 		"parentCode":"611026"
 	}

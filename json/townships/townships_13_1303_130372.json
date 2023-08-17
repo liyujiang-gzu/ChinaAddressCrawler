@@ -3,7 +3,7 @@
 		"code":"130372001",
 		"fullCode":"130372001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"南戴河街道",
 		"parentCode":"130372"
 	},
@@ -11,7 +11,7 @@
 		"code":"130372400",
 		"fullCode":"130372400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大蒲河管理处",
 		"parentCode":"130372"
 	},
@@ -19,7 +19,7 @@
 		"code":"130372401",
 		"fullCode":"130372401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团林管理处",
 		"parentCode":"130372"
 	},
@@ -27,7 +27,7 @@
 		"code":"130372402",
 		"fullCode":"130372402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"留守营管理处",
 		"parentCode":"130372"
 	}

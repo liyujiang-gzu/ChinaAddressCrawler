@@ -3,7 +3,7 @@
 		"code":"430406001",
 		"fullCode":"430406001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"先锋街道",
 		"parentCode":"430406"
 	},
@@ -11,7 +11,7 @@
 		"code":"430406002",
 		"fullCode":"430406002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雁峰街道",
 		"parentCode":"430406"
 	},
@@ -19,7 +19,7 @@
 		"code":"430406003",
 		"fullCode":"430406003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天马山街道",
 		"parentCode":"430406"
 	},
@@ -27,7 +27,7 @@
 		"code":"430406004",
 		"fullCode":"430406004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄茶岭街道",
 		"parentCode":"430406"
 	},
@@ -35,7 +35,7 @@
 		"code":"430406005",
 		"fullCode":"430406005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙洲街道",
 		"parentCode":"430406"
 	},
@@ -43,7 +43,7 @@
 		"code":"430406100",
 		"fullCode":"430406100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"岳屏镇",
 		"parentCode":"430406"
 	},
@@ -51,7 +51,7 @@
 		"code":"430406400",
 		"fullCode":"430406400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白沙洲工业园",
 		"parentCode":"430406"
 	}

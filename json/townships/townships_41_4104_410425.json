@@ -3,7 +3,7 @@
 		"code":"410425001",
 		"fullCode":"410425001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山街道",
 		"parentCode":"410425"
 	},
@@ -11,7 +11,7 @@
 		"code":"410425002",
 		"fullCode":"410425002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东城街道",
 		"parentCode":"410425"
 	},
@@ -19,7 +19,7 @@
 		"code":"410425101",
 		"fullCode":"410425101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冢头镇",
 		"parentCode":"410425"
 	},
@@ -27,7 +27,7 @@
 		"code":"410425102",
 		"fullCode":"410425102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"安良镇",
 		"parentCode":"410425"
 	},
@@ -35,7 +35,7 @@
 		"code":"410425103",
 		"fullCode":"410425103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堂街镇",
 		"parentCode":"410425"
 	},
@@ -43,7 +43,7 @@
 		"code":"410425104",
 		"fullCode":"410425104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"薛店镇",
 		"parentCode":"410425"
 	},
@@ -51,7 +51,7 @@
 		"code":"410425105",
 		"fullCode":"410425105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长桥镇",
 		"parentCode":"410425"
 	},
@@ -59,7 +59,7 @@
 		"code":"410425106",
 		"fullCode":"410425106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茨芭镇",
 		"parentCode":"410425"
 	},
@@ -67,7 +67,7 @@
 		"code":"410425107",
 		"fullCode":"410425107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄道镇",
 		"parentCode":"410425"
 	},
@@ -75,7 +75,7 @@
 		"code":"410425108",
 		"fullCode":"410425108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"李口镇",
 		"parentCode":"410425"
 	},
@@ -83,7 +83,7 @@
 		"code":"410425200",
 		"fullCode":"410425200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王集乡",
 		"parentCode":"410425"
 	},
@@ -91,7 +91,7 @@
 		"code":"410425202",
 		"fullCode":"410425202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姚庄回族乡",
 		"parentCode":"410425"
 	},
@@ -99,7 +99,7 @@
 		"code":"410425203",
 		"fullCode":"410425203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白庙乡",
 		"parentCode":"410425"
 	},
@@ -107,7 +107,7 @@
 		"code":"410425204",
 		"fullCode":"410425204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"广阔天地乡",
 		"parentCode":"410425"
 	},
@@ -115,7 +115,7 @@
 		"code":"410425205",
 		"fullCode":"410425205000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"渣元乡",
 		"parentCode":"410425"
 	}

@@ -3,7 +3,7 @@
 		"code":"320402001",
 		"fullCode":"320402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"雕庄街道",
 		"parentCode":"320402"
 	},
@@ -11,7 +11,7 @@
 		"code":"320402002",
 		"fullCode":"320402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青龙街道",
 		"parentCode":"320402"
 	},
@@ -19,7 +19,7 @@
 		"code":"320402003",
 		"fullCode":"320402003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"茶山街道",
 		"parentCode":"320402"
 	},
@@ -27,7 +27,7 @@
 		"code":"320402004",
 		"fullCode":"320402004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红梅街道",
 		"parentCode":"320402"
 	},
@@ -35,7 +35,7 @@
 		"code":"320402005",
 		"fullCode":"320402005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"天宁街道",
 		"parentCode":"320402"
 	},
@@ -43,7 +43,7 @@
 		"code":"320402006",
 		"fullCode":"320402006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兰陵街道",
 		"parentCode":"320402"
 	},
@@ -51,7 +51,7 @@
 		"code":"320402109",
 		"fullCode":"320402109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"郑陆镇",
 		"parentCode":"320402"
 	}

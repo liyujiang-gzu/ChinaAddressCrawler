@@ -3,7 +3,7 @@
 		"code":"420107001",
 		"fullCode":"420107001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红卫路街道",
 		"parentCode":"420107"
 	},
@@ -11,7 +11,7 @@
 		"code":"420107002",
 		"fullCode":"420107002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"冶金街道",
 		"parentCode":"420107"
 	},
@@ -19,7 +19,7 @@
 		"code":"420107003",
 		"fullCode":"420107003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新沟桥街道",
 		"parentCode":"420107"
 	},
@@ -27,7 +27,7 @@
 		"code":"420107004",
 		"fullCode":"420107004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红钢城街道",
 		"parentCode":"420107"
 	},
@@ -35,7 +35,7 @@
 		"code":"420107005",
 		"fullCode":"420107005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"工人村街道",
 		"parentCode":"420107"
 	},
@@ -43,7 +43,7 @@
 		"code":"420107006",
 		"fullCode":"420107006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"青山镇街道",
 		"parentCode":"420107"
 	},
@@ -51,7 +51,7 @@
 		"code":"420107008",
 		"fullCode":"420107008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武东街道",
 		"parentCode":"420107"
 	},
@@ -59,7 +59,7 @@
 		"code":"420107009",
 		"fullCode":"420107009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白玉山街道",
 		"parentCode":"420107"
 	},
@@ -67,7 +67,7 @@
 		"code":"420107010",
 		"fullCode":"420107010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钢花村街道",
 		"parentCode":"420107"
 	},
@@ -75,7 +75,7 @@
 		"code":"420107013",
 		"fullCode":"420107013000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钢都花园街道",
 		"parentCode":"420107"
 	},
@@ -83,7 +83,7 @@
 		"code":"420107400",
 		"fullCode":"420107400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"武钢集团",
 		"parentCode":"420107"
 	},
@@ -91,7 +91,7 @@
 		"code":"420107404",
 		"fullCode":"420107404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"开发区",
 		"parentCode":"420107"
 	}

@@ -3,7 +3,7 @@
 		"code":"370402001",
 		"fullCode":"370402001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"中心街街道",
 		"parentCode":"370402"
 	},
@@ -11,7 +11,7 @@
 		"code":"370402002",
 		"fullCode":"370402002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"各塔埠街道",
 		"parentCode":"370402"
 	},
@@ -19,7 +19,7 @@
 		"code":"370402003",
 		"fullCode":"370402003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"矿区街道",
 		"parentCode":"370402"
 	},
@@ -27,7 +27,7 @@
 		"code":"370402004",
 		"fullCode":"370402004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"文化路街道",
 		"parentCode":"370402"
 	},
@@ -35,7 +35,7 @@
 		"code":"370402005",
 		"fullCode":"370402005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙山路街道",
 		"parentCode":"370402"
 	},
@@ -43,7 +43,7 @@
 		"code":"370402006",
 		"fullCode":"370402006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"光明路街道",
 		"parentCode":"370402"
 	},
@@ -51,7 +51,7 @@
 		"code":"370402101",
 		"fullCode":"370402101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"税郭镇",
 		"parentCode":"370402"
 	},
@@ -59,7 +59,7 @@
 		"code":"370402102",
 		"fullCode":"370402102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"孟庄镇",
 		"parentCode":"370402"
 	},
@@ -67,7 +67,7 @@
 		"code":"370402103",
 		"fullCode":"370402103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"齐村镇",
 		"parentCode":"370402"
 	},
@@ -75,7 +75,7 @@
 		"code":"370402104",
 		"fullCode":"370402104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安镇",
 		"parentCode":"370402"
 	},
@@ -83,7 +83,7 @@
 		"code":"370402105",
 		"fullCode":"370402105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西王庄镇",
 		"parentCode":"370402"
 	}

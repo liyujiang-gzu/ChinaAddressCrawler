@@ -3,7 +3,7 @@
 		"code":"140221100",
 		"fullCode":"140221100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"龙泉镇",
 		"parentCode":"140221"
 	},
@@ -11,7 +11,7 @@
 		"code":"140221101",
 		"fullCode":"140221101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"罗文皂镇",
 		"parentCode":"140221"
 	},
@@ -19,7 +19,7 @@
 		"code":"140221102",
 		"fullCode":"140221102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大白登镇",
 		"parentCode":"140221"
 	},
@@ -27,7 +27,7 @@
 		"code":"140221103",
 		"fullCode":"140221103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王官屯镇",
 		"parentCode":"140221"
 	},
@@ -35,7 +35,7 @@
 		"code":"140221104",
 		"fullCode":"140221104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"古城镇",
 		"parentCode":"140221"
 	},
@@ -43,7 +43,7 @@
 		"code":"140221105",
 		"fullCode":"140221105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东小村镇",
 		"parentCode":"140221"
 	},
@@ -51,7 +51,7 @@
 		"code":"140221106",
 		"fullCode":"140221106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"友宰镇",
 		"parentCode":"140221"
 	},
@@ -59,7 +59,7 @@
 		"code":"140221201",
 		"fullCode":"140221201000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"长城乡",
 		"parentCode":"140221"
 	},
@@ -67,7 +67,7 @@
 		"code":"140221204",
 		"fullCode":"140221204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"狮子屯乡",
 		"parentCode":"140221"
 	},
@@ -75,7 +75,7 @@
 		"code":"140221209",
 		"fullCode":"140221209000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"下深井乡",
 		"parentCode":"140221"
 	},
@@ -83,7 +83,7 @@
 		"code":"140221212",
 		"fullCode":"140221212000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鳌石乡",
 		"parentCode":"140221"
 	}

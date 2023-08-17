@@ -3,7 +3,7 @@
 		"code":"431081001",
 		"fullCode":"431081001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"唐洞街道",
 		"parentCode":"431081"
 	},
@@ -11,7 +11,7 @@
 		"code":"431081002",
 		"fullCode":"431081002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东江街道",
 		"parentCode":"431081"
 	},
@@ -19,7 +19,7 @@
 		"code":"431081100",
 		"fullCode":"431081100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"滁口镇",
 		"parentCode":"431081"
 	},
@@ -27,7 +27,7 @@
 		"code":"431081102",
 		"fullCode":"431081102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三都镇",
 		"parentCode":"431081"
 	},
@@ -35,7 +35,7 @@
 		"code":"431081103",
 		"fullCode":"431081103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"蓼江镇",
 		"parentCode":"431081"
 	},
@@ -43,7 +43,7 @@
 		"code":"431081105",
 		"fullCode":"431081105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴宁镇",
 		"parentCode":"431081"
 	},
@@ -51,7 +51,7 @@
 		"code":"431081106",
 		"fullCode":"431081106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"州门司镇",
 		"parentCode":"431081"
 	},
@@ -59,7 +59,7 @@
 		"code":"431081108",
 		"fullCode":"431081108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄草镇",
 		"parentCode":"431081"
 	},
@@ -67,7 +67,7 @@
 		"code":"431081110",
 		"fullCode":"431081110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"汤溪镇",
 		"parentCode":"431081"
 	},
@@ -75,7 +75,7 @@
 		"code":"431081112",
 		"fullCode":"431081112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清江镇",
 		"parentCode":"431081"
 	},
@@ -83,7 +83,7 @@
 		"code":"431081113",
 		"fullCode":"431081113000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"白廊镇",
 		"parentCode":"431081"
 	},
@@ -91,7 +91,7 @@
 		"code":"431081219",
 		"fullCode":"431081219000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"回龙山瑶族乡",
 		"parentCode":"431081"
 	},
@@ -99,7 +99,7 @@
 		"code":"431081220",
 		"fullCode":"431081220000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"八面山瑶族乡",
 		"parentCode":"431081"
 	}

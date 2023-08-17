@@ -3,7 +3,7 @@
 		"code":"150502001",
 		"fullCode":"150502001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"科尔沁街道",
 		"parentCode":"150502"
 	},
@@ -11,7 +11,7 @@
 		"code":"150502002",
 		"fullCode":"150502002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"西门街道",
 		"parentCode":"150502"
 	},
@@ -19,7 +19,7 @@
 		"code":"150502003",
 		"fullCode":"150502003000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永清街道",
 		"parentCode":"150502"
 	},
@@ -27,7 +27,7 @@
 		"code":"150502004",
 		"fullCode":"150502004000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"明仁街道",
 		"parentCode":"150502"
 	},
@@ -35,7 +35,7 @@
 		"code":"150502005",
 		"fullCode":"150502005000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"施介街道",
 		"parentCode":"150502"
 	},
@@ -43,7 +43,7 @@
 		"code":"150502006",
 		"fullCode":"150502006000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"团结街道",
 		"parentCode":"150502"
 	},
@@ -51,7 +51,7 @@
 		"code":"150502007",
 		"fullCode":"150502007000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"东郊街道",
 		"parentCode":"150502"
 	},
@@ -59,7 +59,7 @@
 		"code":"150502008",
 		"fullCode":"150502008000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁路街道",
 		"parentCode":"150502"
 	},
@@ -67,7 +67,7 @@
 		"code":"150502009",
 		"fullCode":"150502009000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"红星街道",
 		"parentCode":"150502"
 	},
@@ -75,7 +75,7 @@
 		"code":"150502010",
 		"fullCode":"150502010000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"霍林河街道",
 		"parentCode":"150502"
 	},
@@ -83,7 +83,7 @@
 		"code":"150502011",
 		"fullCode":"150502011000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"建国街道",
 		"parentCode":"150502"
 	},
@@ -91,7 +91,7 @@
 		"code":"150502100",
 		"fullCode":"150502100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大林镇",
 		"parentCode":"150502"
 	},
@@ -99,7 +99,7 @@
 		"code":"150502101",
 		"fullCode":"150502101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"钱家店镇",
 		"parentCode":"150502"
 	},
@@ -107,7 +107,7 @@
 		"code":"150502102",
 		"fullCode":"150502102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"余粮堡镇",
 		"parentCode":"150502"
 	},
@@ -115,7 +115,7 @@
 		"code":"150502103",
 		"fullCode":"150502103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"木里图镇",
 		"parentCode":"150502"
 	},
@@ -123,7 +123,7 @@
 		"code":"150502104",
 		"fullCode":"150502104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"丰田镇",
 		"parentCode":"150502"
 	},
@@ -131,7 +131,7 @@
 		"code":"150502105",
 		"fullCode":"150502105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"清河镇",
 		"parentCode":"150502"
 	},
@@ -139,7 +139,7 @@
 		"code":"150502106",
 		"fullCode":"150502106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"育新镇",
 		"parentCode":"150502"
 	},
@@ -147,7 +147,7 @@
 		"code":"150502107",
 		"fullCode":"150502107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"庆和镇",
 		"parentCode":"150502"
 	},
@@ -155,7 +155,7 @@
 		"code":"150502108",
 		"fullCode":"150502108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"敖力布皋镇",
 		"parentCode":"150502"
 	},
@@ -163,7 +163,7 @@
 		"code":"150502200",
 		"fullCode":"150502200000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫力庙苏木",
 		"parentCode":"150502"
 	},
@@ -171,7 +171,7 @@
 		"code":"150502400",
 		"fullCode":"150502400000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"国有哲南农场",
 		"parentCode":"150502"
 	},
@@ -179,7 +179,7 @@
 		"code":"150502401",
 		"fullCode":"150502401000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"三义堂农场",
 		"parentCode":"150502"
 	},
@@ -187,7 +187,7 @@
 		"code":"150502402",
 		"fullCode":"150502402000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"通辽市高林屯种畜场",
 		"parentCode":"150502"
 	},
@@ -195,7 +195,7 @@
 		"code":"150502403",
 		"fullCode":"150502403000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"胡力海原种繁殖场",
 		"parentCode":"150502"
 	},
@@ -203,7 +203,7 @@
 		"code":"150502404",
 		"fullCode":"150502404000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"莫力庙种羊场",
 		"parentCode":"150502"
 	},
@@ -211,7 +211,7 @@
 		"code":"150502405",
 		"fullCode":"150502405000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"半截店牧场",
 		"parentCode":"150502"
 	}

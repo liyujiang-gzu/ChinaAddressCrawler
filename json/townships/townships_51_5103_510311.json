@@ -3,7 +3,7 @@
 		"code":"510311001",
 		"fullCode":"510311001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"卫坪街道",
 		"parentCode":"510311"
 	},
@@ -11,7 +11,7 @@
 		"code":"510311002",
 		"fullCode":"510311002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"邓关街道",
 		"parentCode":"510311"
 	},
@@ -19,7 +19,7 @@
 		"code":"510311100",
 		"fullCode":"510311100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"沿滩镇",
 		"parentCode":"510311"
 	},
@@ -27,7 +27,7 @@
 		"code":"510311102",
 		"fullCode":"510311102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"兴隆镇",
 		"parentCode":"510311"
 	},
@@ -35,7 +35,7 @@
 		"code":"510311105",
 		"fullCode":"510311105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"富全镇",
 		"parentCode":"510311"
 	},
@@ -43,7 +43,7 @@
 		"code":"510311106",
 		"fullCode":"510311106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"永安镇",
 		"parentCode":"510311"
 	},
@@ -51,7 +51,7 @@
 		"code":"510311107",
 		"fullCode":"510311107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"联络镇",
 		"parentCode":"510311"
 	},
@@ -59,7 +59,7 @@
 		"code":"510311109",
 		"fullCode":"510311109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"王井镇",
 		"parentCode":"510311"
 	},
@@ -67,7 +67,7 @@
 		"code":"510311110",
 		"fullCode":"510311110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"黄市镇",
 		"parentCode":"510311"
 	},
@@ -75,7 +75,7 @@
 		"code":"510311111",
 		"fullCode":"510311111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"瓦市镇",
 		"parentCode":"510311"
 	},
@@ -83,7 +83,7 @@
 		"code":"510311112",
 		"fullCode":"510311112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"仙市镇",
 		"parentCode":"510311"
 	},
@@ -91,7 +91,7 @@
 		"code":"510311204",
 		"fullCode":"510311204000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"九洪乡",
 		"parentCode":"510311"
 	}

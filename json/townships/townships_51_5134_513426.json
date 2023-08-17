@@ -3,7 +3,7 @@
 		"code":"513426001",
 		"fullCode":"513426001000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鱼城街道",
 		"parentCode":"513426"
 	},
@@ -11,7 +11,7 @@
 		"code":"513426002",
 		"fullCode":"513426002000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"金江街道",
 		"parentCode":"513426"
 	},
@@ -19,7 +19,7 @@
 		"code":"513426100",
 		"fullCode":"513426100000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲹鱼河镇",
 		"parentCode":"513426"
 	},
@@ -27,7 +27,7 @@
 		"code":"513426101",
 		"fullCode":"513426101000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铅锌镇",
 		"parentCode":"513426"
 	},
@@ -35,7 +35,7 @@
 		"code":"513426102",
 		"fullCode":"513426102000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"堵格镇",
 		"parentCode":"513426"
 	},
@@ -43,7 +43,7 @@
 		"code":"513426103",
 		"fullCode":"513426103000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"姜州镇",
 		"parentCode":"513426"
 	},
@@ -51,7 +51,7 @@
 		"code":"513426104",
 		"fullCode":"513426104000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"乌东德镇",
 		"parentCode":"513426"
 	},
@@ -59,7 +59,7 @@
 		"code":"513426105",
 		"fullCode":"513426105000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"淌塘镇",
 		"parentCode":"513426"
 	},
@@ -67,7 +67,7 @@
 		"code":"513426106",
 		"fullCode":"513426106000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"铁柳镇",
 		"parentCode":"513426"
 	},
@@ -75,7 +75,7 @@
 		"code":"513426107",
 		"fullCode":"513426107000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"嘎吉镇",
 		"parentCode":"513426"
 	},
@@ -83,7 +83,7 @@
 		"code":"513426108",
 		"fullCode":"513426108000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"满银沟镇",
 		"parentCode":"513426"
 	},
@@ -91,7 +91,7 @@
 		"code":"513426109",
 		"fullCode":"513426109000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"新街镇",
 		"parentCode":"513426"
 	},
@@ -99,7 +99,7 @@
 		"code":"513426110",
 		"fullCode":"513426110000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"鲁吉镇",
 		"parentCode":"513426"
 	},
@@ -107,7 +107,7 @@
 		"code":"513426111",
 		"fullCode":"513426111000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"大崇镇",
 		"parentCode":"513426"
 	},
@@ -115,7 +115,7 @@
 		"code":"513426112",
 		"fullCode":"513426112000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"松坪镇",
 		"parentCode":"513426"
 	},
@@ -123,7 +123,7 @@
 		"code":"513426202",
 		"fullCode":"513426202000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"老君滩乡",
 		"parentCode":"513426"
 	},
@@ -131,7 +131,7 @@
 		"code":"513426203",
 		"fullCode":"513426203000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"江西街乡",
 		"parentCode":"513426"
 	},
@@ -139,7 +139,7 @@
 		"code":"513426235",
 		"fullCode":"513426235000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"溜姑乡",
 		"parentCode":"513426"
 	},
@@ -147,7 +147,7 @@
 		"code":"513426251",
 		"fullCode":"513426251000",
 		"level":3,
-		"levelName":"乡",
+		"levelName":"乡级",
 		"name":"野租乡",
 		"parentCode":"513426"
 	}
